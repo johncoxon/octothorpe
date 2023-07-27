@@ -1,0 +1,2280 @@
+1
+00:00:00,000 --> 00:00:03,200
+ There's a joke in here somewhere, but will it be mean?
+
+2
+00:00:03,200 --> 00:00:07,440
+ Make the joke and then we can workshop it to make it funny. That always works.
+
+3
+00:00:07,440 --> 00:00:11,120
+ No, I'm not sure we can, that's the problem. I'm cutting my losses.
+
+4
+00:00:11,120 --> 00:00:17,680
+ No, we don't... we've got a mean joke quota probably and we're going to talk about Locus later, so John's got to be prepared.
+
+5
+00:00:17,680 --> 00:00:30,240
+ [Music]
+
+6
+00:00:30,240 --> 00:00:38,320
+ Hello everyone and welcome to the very 72nd episode of Octothorpe, a podcast for science fiction and science fiction fandom
+
+7
+00:00:38,320 --> 00:00:43,520
+ which is coming to you on the 8th of December 2022. I'm John Coxon.
+
+8
+00:00:43,520 --> 00:00:48,640
+ I'm Alison Scott. And I'm Liz Batty. Alison is cracking up already. We haven't even started.
+
+9
+00:00:48,640 --> 00:00:59,280
+ So we have some letters of comment. Yeah, we got some, we got letters of comment.
+
+10
+00:00:59,280 --> 00:01:04,160
+ We have lots of letters of comment because lots of people gave us suggestions for the Octothorpies.
+
+11
+00:01:04,160 --> 00:01:13,200
+ Yes, yes they did. So we heard from Duncan MacGregor who knows on which side his
+
+12
+00:01:13,200 --> 00:01:18,800
+ bread is buttered because he suggested categories for Best Alison, Best John and Best Liz.
+
+13
+00:01:18,800 --> 00:01:24,560
+ And that would be very flattering obviously but we wouldn't be able to on any account
+
+14
+00:01:24,560 --> 00:01:29,440
+ award them to ourselves and so that would be an incredibly meta category that would lead to a
+
+15
+00:01:29,440 --> 00:01:35,280
+ lot of interesting wrangling. I am immediately recusing myself from the Best Alison category.
+
+16
+00:01:35,280 --> 00:01:40,640
+ Ali Baker, Alison Abramovitz. I suppose there is a risk that like...
+
+17
+00:01:41,280 --> 00:01:45,360
+ There's a risk that I don't win, yes. That would be the great risk but...
+
+18
+00:01:45,360 --> 00:01:50,240
+ Well but there's also a risk that I nominate Alison for Best Liz and vice versa.
+
+19
+00:01:50,240 --> 00:01:53,600
+ In what way am I... In what way am I the Best Alison?
+
+20
+00:01:53,600 --> 00:01:55,120
+ In what way aren't you?
+
+21
+00:01:55,120 --> 00:02:00,640
+ Hmm. I don't know, I feel I want to win Best Liz once and then recuse myself forever.
+
+22
+00:02:00,640 --> 00:02:05,600
+ That does seem reasonable. I don't know if I want to win Best John. There are a number of options
+
+23
+00:02:05,600 --> 00:02:11,120
+ for Best John. Do Jonathans count? We would have to have a serious discussion about eligibility.
+
+24
+00:02:11,520 --> 00:02:13,360
+ No they definitely don't.
+
+25
+00:02:13,360 --> 00:02:16,320
+ Okay and do Alison's spelt with a Y count?
+
+26
+00:02:16,320 --> 00:02:20,320
+ Maybe or Alison's with two L's?
+
+27
+00:02:20,320 --> 00:02:27,360
+ Ali Baker... In a late LoC Ali Baker has just noticed that the FA Cup contains a
+
+28
+00:02:27,360 --> 00:02:29,360
+ women's team called Hashtag United.
+
+29
+00:02:29,360 --> 00:02:35,280
+ And maybe they should be our... and suggests they should be our official sportsball team.
+
+30
+00:02:35,280 --> 00:02:42,880
+ Another suggestion for a Octothorpies category is from Hugo, Girl! which is "Proposal: Best Transatlantic
+
+31
+00:02:42,880 --> 00:02:47,680
+ Podcast Besties (No Reason)" which is thoroughly great.
+
+32
+00:02:47,680 --> 00:02:51,920
+ Awww. Yes. We'll vote for you if you vote for us!
+
+33
+00:02:51,920 --> 00:03:00,560
+ Yeah. Ang emailed us and said "Morning team! I nominate my cats for Best Cats That Are Not Badger."
+
+34
+00:03:00,560 --> 00:03:05,840
+ Which yeah leaves the obvious obvious second category of Best Cats That Are Badger
+
+35
+00:03:05,840 --> 00:03:10,800
+ which much like the Alison, John and Liz categories is going to be an interesting set of nominees.
+
+36
+00:03:10,800 --> 00:03:17,440
+ Yup. I suspect what we will see is Badger will be nominated and then a variety of cats in Badger
+
+37
+00:03:17,440 --> 00:03:24,640
+ cosplays. I mean... Badger is known for being a very large black cat so really anyone who has a
+
+38
+00:03:24,640 --> 00:03:30,880
+ large black cat could nominate it as Best Badger. Or I could buy my cats cat fat suits and put them
+
+39
+00:03:30,880 --> 00:03:34,880
+ in cat fat suits. Yeah your cats are a bit small to be Best Badgers.
+
+40
+00:03:34,880 --> 00:03:42,800
+ John are you cat fat shaming? Not shaming. All cats are very valid in their various sizes but I'm
+
+41
+00:03:42,800 --> 00:03:47,680
+ worried that it would be too obvious that my cats are not Badger to win the award.
+
+42
+00:03:48,240 --> 00:03:55,120
+ I'm kind of going the existence of fat suits is a kind of inherently fat shaming thing
+
+43
+00:03:55,120 --> 00:04:02,400
+ because fat suits only exist because people want to have characters of size being played by
+
+44
+00:04:02,400 --> 00:04:10,960
+ thin actors which is a kind of size-phobic thing to be doing. Sorry I'm sorry for being very very
+
+45
+00:04:10,960 --> 00:04:17,280
+ humourless about this. Agreed in humans but what would you call the cat costume that you could put
+
+46
+00:04:17,280 --> 00:04:22,320
+ a small cat in to make it larger, Alison? What noun is that that every one of our listeners will
+
+47
+00:04:22,320 --> 00:04:28,080
+ understand what I'm getting at? Well probably not a cat suit, yeah? It's pretty much the same as
+
+48
+00:04:28,080 --> 00:04:33,280
+ if we wanted to disguise Alison as me. We wouldn't put her in a fat suit you'd have to be...
+
+49
+00:04:33,280 --> 00:04:39,120
+ Stilts? I'm going in an even worse direction aren't I? Let's give up on this train of thought entirely.
+
+50
+00:04:39,120 --> 00:04:43,920
+ So now I need apparently I need to lose weight and get stilts. I think you can
+
+51
+00:04:44,880 --> 00:04:49,680
+ you can be whatever weight you like to impersonate me but I do think you're a little bit shorter.
+
+52
+00:04:49,680 --> 00:04:54,160
+ I am quite a lot shorter than you, I believe. Digging a lot of holes here aren't I? Anyway,
+
+53
+00:04:54,160 --> 00:05:00,800
+ I think we may have strayed from our topic of cats. Ang says, "Are you going to have the
+
+54
+00:05:00,800 --> 00:05:06,640
+ Octothorpe's Octoversary on the 80th episode or the 88th episode? What better time to
+
+55
+00:05:06,640 --> 00:05:11,760
+ hand out your awards?" and the answer is that we had it on the 64th episode but nobody noticed.
+
+56
+00:05:11,760 --> 00:05:18,160
+ I think it's got to be I think 88 makes more sense to 64 on account of how we're a base 10 culture.
+
+57
+00:05:18,160 --> 00:05:24,720
+ Then why does 88 make sense? Surely 80 would make sense. I'm up for 80. Yeah maybe so maybe 80 should
+
+58
+00:05:24,720 --> 00:05:29,360
+ be our Octoversary. It's complicated isn't it? I mean let's face it it's probably going to be the one
+
+59
+00:05:29,360 --> 00:05:34,880
+ which corresponds with some kind of major event and I think if we calculate it we can probably wiggle
+
+60
+00:05:34,880 --> 00:05:41,520
+ one. You can probably wiggle either 80 or 88 to be at Eastercon right? Uh... pass. I'll do that maths
+
+61
+00:05:41,520 --> 00:05:47,840
+ at some point I promise. I will say that Shut Up and Sit Down have a novel approach to this
+
+62
+00:05:47,840 --> 00:05:55,840
+ where they just put increasingly large decimal points after their episode 99 and 199 so they can
+
+63
+00:05:55,840 --> 00:06:03,280
+ make the round number be a special event. That's why I just listened to podcast episode 199.75.
+
+64
+00:06:03,280 --> 00:06:08,560
+ I'm not sure if that's better. It's an approach. Plokta had an episode 33 and a third rather
+
+65
+00:06:08,560 --> 00:06:13,920
+ 33 because it was our long-playing episode and it sounds like our Octoversary episode
+
+66
+00:06:13,920 --> 00:06:23,280
+ should be 88.88 recurring. Ang also notes that she cooked a salmon in a dishwasher at the Novacon
+
+67
+00:06:23,280 --> 00:06:27,680
+ steam room. I'm pretty sure I've read that right. Where did you get the dishwasher from, Ang?
+
+68
+00:06:27,680 --> 00:06:34,480
+ Write in. Curt Phillips wrote us a long letter which he then sent us an email to say he hadn't
+
+69
+00:06:34,480 --> 00:06:39,200
+ worked out how to send us it ino email so he was putting it on the Facebook page. So it's on the
+
+70
+00:06:39,200 --> 00:06:44,640
+ Facebook page. When he says he sent... when he said he sent us an email did he send us an email or
+
+71
+00:06:44,640 --> 00:06:50,960
+ did he sent you an email? Yeah. They may have just have sent me an email. He says, "John talks improbably
+
+72
+00:06:50,960 --> 00:06:56,720
+ fast but with perfect clarity." Curt does say that he didn't miss a single word, he just listened faster.
+
+73
+00:06:56,720 --> 00:07:01,200
+ The great thing about listening to podcast though is that you can listen to them at whatever speed
+
+74
+00:07:01,200 --> 00:07:07,360
+ you like so that if people talk too fast you can slow the podcast down to hear every word [such as 0.8x for editing this transcript — transcript Ed.] and if
+
+75
+00:07:07,360 --> 00:07:12,000
+ people talk too slowly you could speed this podcast up. Only works if we all talk at the same pace as
+
+76
+00:07:12,000 --> 00:07:16,960
+ John though and and then he had a good old whine about the Hugos which you can read on our
+
+77
+00:07:16,960 --> 00:07:22,960
+ Facebook page. And he said, "Your Novacon report was very enjoyable, but I didn't hear mention of a dealers'
+
+78
+00:07:22,960 --> 00:07:26,320
+ room or an art show" and I'm pretty sure I said I spent the whole weekend in the dealers' room when
+
+79
+00:07:26,320 --> 00:07:31,040
+ I wasn't in the bar, because I was trading. Yes. We didn't focus on it – I think you mentioned it in
+
+80
+00:07:31,040 --> 00:07:36,240
+ passing. I hope I didn't cut it out. And there is always an art show at Novacon which is usually
+
+81
+00:07:36,240 --> 00:07:42,960
+ very good. There was an art show which was very nice and he also says "or did you three simply not
+
+82
+00:07:42,960 --> 00:07:49,120
+ peek into them?" and John and Liz didn't peek into those rooms because John and Liz were not at Novacon
+
+83
+00:07:49,120 --> 00:07:53,920
+ I was the only person at Novacon. Mark says "They say science fiction isn't very good at predicting
+
+84
+00:07:53,920 --> 00:07:59,120
+ the future and seemingly neither are science fiction fans. At least so I concluded on listening to
+
+85
+00:07:59,120 --> 00:08:03,760
+ Octothorpe 70 yesterday with its confident assertion that Claire and I were in
+
+86
+00:08:03,760 --> 00:08:10,800
+ Buxton last Thursday." And yes: Claire and Mark never made it to Buxton. Sorry Claire and Mark. So we
+
+87
+00:08:10,800 --> 00:08:16,400
+ lied, listeners. We lied. But we didn't know we were lying, so that makes it better? We lied the episode
+
+88
+00:08:16,400 --> 00:08:21,440
+ before last because by the last episode we knew that they weren't in Buxton but I don't think we
+
+89
+00:08:21,440 --> 00:08:28,560
+ mentioned it so there we go. So this is a LoC on issue 70. I mean to be fair if we did a list of
+
+90
+00:08:28,560 --> 00:08:33,760
+ everyone who wasn't at Novacon that would be the running time of the episode so it is understandable
+
+91
+00:08:33,760 --> 00:08:38,880
+ we didn't but equally... yes. It's a good LoC. I mean, if we did a list of all the times that we are wrong
+
+92
+00:08:38,880 --> 00:08:45,200
+ about something that would probably also make quite a sizable episode by itself. Zing! Liz, do you
+
+93
+00:08:45,200 --> 00:08:52,400
+ want to read the last part of Mark's letter because it deals with your pick? It does, yes, because my
+
+94
+00:08:52,400 --> 00:08:58,160
+ pick of Earthsea inspired Mark to take down a copy from his bookshelf of the Earthsea trilogy which was
+
+95
+00:08:58,160 --> 00:09:03,520
+ at that point the Earthsea trilogy and it seems that he managed to get halfway through chapter seven
+
+96
+00:09:03,520 --> 00:09:09,360
+ of book three and then stop and he might start again. But actually he'll probably wait until it's 40 years
+
+97
+00:09:09,360 --> 00:09:14,400
+ since he stopped and will make a note to write back to Octothorpe at that time which we think
+
+98
+00:09:14,400 --> 00:09:21,760
+ will be episode of Octothorpe 174. So basically, if we're still going Mark will write to us in episode
+
+99
+00:09:21,760 --> 00:09:28,240
+ 174 and say he's read Earthsea. Or not. So keep your eyes peeled for that and if you're... I mean I'm
+
+100
+00:09:28,240 --> 00:09:32,720
+ not going to remember that by episode 174 so Mark I hope you will. If you are listening to this
+
+101
+00:09:32,720 --> 00:09:39,360
+ back episode at the point where we have released Octothorpe 174 please pause it here go and listen to
+
+102
+00:09:39,360 --> 00:09:48,160
+ 174 and then tell us off if we didn't do it. I wanted to move back to the discussion of using
+
+103
+00:09:48,160 --> 00:09:55,120
+ old receipts as bookmarks and one of the advantages of physical books. I've been thinking... I'm getting
+
+104
+00:09:55,120 --> 00:09:58,800
+ rid of all of my books I don't think this is quite a pick but but I'm getting rid of an awful
+
+105
+00:09:58,800 --> 00:10:03,360
+ lot of books at the moment and one of the things about physical books as opposed to electronic books is
+
+106
+00:10:03,360 --> 00:10:09,280
+ that if you do keep your physical books and you use old tatty bits of paper as bookmarks then you
+
+107
+00:10:09,280 --> 00:10:15,360
+ do have permanent records, as Mark did, of where you gave up on a particular book because your receipts
+
+108
+00:10:15,360 --> 00:10:20,240
+ are still there 40 years later. We've certainly... some of the books that we've taken
+
+109
+00:10:20,240 --> 00:10:25,680
+ down from the shelves have bits of paper in at the point where one or other of us gave up on them.
+
+110
+00:10:25,680 --> 00:10:29,840
+ I'm pretty sure my Kindle also remembers where I was up to and when I last read it. I'm not sure
+
+111
+00:10:29,840 --> 00:10:33,600
+ how you get that information out but I think it does. Another plus point for ebooks.
+
+112
+00:10:33,600 --> 00:10:38,640
+ Listeners please write in with your Python packages that can go through a Kindle library and
+
+113
+00:10:38,640 --> 00:10:44,960
+ work out when you gave up on each book. Thank you very much for writing in Mark. We also heard from
+
+114
+00:10:44,960 --> 00:10:50,480
+ Christopher J. Garcia who says indeed it is gigabytes. In fact it's now closer to 40 gigabytes because
+
+115
+00:10:50,480 --> 00:10:56,160
+ he's found another old thumb drive with copies of Claims Department he'd forgotten about. So you
+
+116
+00:10:56,160 --> 00:11:03,520
+ know noted archivist and curator Christopher J. Garcia showing off his curation and archiving
+
+117
+00:11:03,520 --> 00:11:11,200
+ methods there which is old thumb drives so that's good. Hurrah! I'm not much better, to be fair.
+
+118
+00:11:11,200 --> 00:11:18,960
+ He does also say that I am a bad person for enjoying Voyager. He also says that your
+
+119
+00:11:18,960 --> 00:11:25,200
+ off the cuff method for voting for things is in fact the way that they do draft picks in the
+
+120
+00:11:25,200 --> 00:11:29,840
+ National Basketball Association so I thought that was quite interesting. Yes. Yeah I mean it
+
+121
+00:11:29,840 --> 00:11:34,080
+ seems still seems like a terrible way of picking, say, politicians but I guess if you have like
+
+122
+00:11:34,080 --> 00:11:39,840
+ many many draft picks and you just want to allocate them in some way that is semi-fair that's not a
+
+123
+00:11:39,840 --> 00:11:46,000
+ bad way of doing it. Indeed. Oh and he says he wishes he could go to Novacon one day although as a
+
+124
+00:11:46,000 --> 00:11:50,960
+ guy who knows an incredibly limited amount of Spanish Novacon is a con that shouldn't move.
+
+125
+00:11:50,960 --> 00:11:55,360
+ Yeah they've been making that joke for about 49 years so, you know. I've never heard it. Okay.
+
+126
+00:11:55,360 --> 00:12:02,240
+ It's a generational thing. It's almost like people who are the older members of the community
+
+127
+00:12:02,240 --> 00:12:07,760
+ shouldn't just be like "oh yes, we did that" and they never say it ever again. DC says in regards to
+
+128
+00:12:07,760 --> 00:12:11,840
+ Raj's lock that Raj probably doesn't have to pay more to get a full membership in Glasgow
+
+129
+00:12:11,840 --> 00:12:16,400
+ because they're offering discounted memberships to anyone resident in Scotland. This is not it.
+
+130
+00:12:16,400 --> 00:12:20,160
+ So... and I regret... I regret making this comment on the podcast because a lot of people have written
+
+131
+00:12:20,160 --> 00:12:27,840
+ in to try and guess what I meant. So I was drunk in a Glasgow in 2024 party at Chicon 8 and the
+
+132
+00:12:27,840 --> 00:12:34,000
+ lovely Meg MacDonald collard me and said do you want to pay us £100 to upgrade your Supporting
+
+133
+00:12:34,000 --> 00:12:40,560
+ membership to a Friend membership before the bid session so that when the bid session happens you
+
+134
+00:12:40,560 --> 00:12:46,400
+ will be automatically upgraded to an Attending member and I said "I haven't bought a Supporting
+
+135
+00:12:46,400 --> 00:12:52,320
+ membership yet so I can't upgrade" and Meg very wisely saw that it was better to get 100 quid
+
+136
+00:12:52,320 --> 00:12:57,760
+ out of me then than it was to not do that and just pushed me at the laptop anyway and I filled it in
+
+137
+00:12:57,760 --> 00:13:02,400
+ like a good little drunk boy. So the reason I owe 20 quid to Glasgow is because I didn't have a
+
+138
+00:13:02,400 --> 00:13:06,400
+ Supporting membership before I upgraded that Supporting membership to a Friend membership.
+
+139
+00:13:06,400 --> 00:13:11,760
+ I suspect I am the only person to whom this situation applies so I do apologize for bringing
+
+140
+00:13:11,760 --> 00:13:16,720
+ it up because I think it's caused some confusion! But yes, it is because I was drunk, and it has nothing
+
+141
+00:13:16,720 --> 00:13:21,840
+ to do with whether or not I am in Scotland. To the best of my knowledge. You know how they have like
+
+142
+00:13:21,840 --> 00:13:26,800
+ you know a WSFS membership and then an Attending supplement? Can John have a special Drunken Fuckwit
+
+143
+00:13:26,800 --> 00:13:33,600
+ supplement which is the extra 20 quid you have to pay them now. Can I make Drunken Fuckwit
+
+144
+00:13:33,600 --> 00:13:39,600
+ Supplement the episode title? Because I know I can't but that would be very good. I'm
+
+145
+00:13:39,600 --> 00:13:45,520
+ slightly confused by this because they sold Friend memberships all along to people who didn't
+
+146
+00:13:45,520 --> 00:13:52,320
+ have Pre-Support. Nope they didn't, they stopped in about mid-July. But if you had a Pre-Support
+
+147
+00:13:52,320 --> 00:13:57,280
+ you could still upgrade to a Friend but they let you have the Friend membership
+
+148
+00:13:57,280 --> 00:14:03,840
+ anyway due to some form of wanting £100. I think it's a monetary system known as capitalism.
+
+149
+00:14:03,840 --> 00:14:09,200
+ No some sort of special exception for mates it sounds like because if they wanted £100
+
+150
+00:14:09,200 --> 00:14:12,800
+ they could have done that for everyone. They also could have just waited on...
+
+151
+00:14:12,800 --> 00:14:18,560
+ No I think they wanted to make sure they didn't have a huge influx at the end but I suspect
+
+152
+00:14:18,560 --> 00:14:24,480
+ people in that room in the parties at Chicon was a small enough group that it didn't cause much
+
+153
+00:14:24,480 --> 00:14:30,000
+ extra work. Oh no, that makes perfect sense. Okay, so, if there's a Drunken
+
+154
+00:14:30,000 --> 00:14:34,240
+ Fuckwit supplement that feels like if they have a special Drunken Fuckwit membership then I
+
+155
+00:14:34,240 --> 00:14:35,760
+ can have that for Pemmi-Con can't I?
+
+156
+00:14:35,760 --> 00:14:47,840
+ Beneath Ceaseless Skies has recused from the Hugo Award for Best Semiprozine.
+
+157
+00:14:47,840 --> 00:14:55,760
+ It has won the World Fantasy and British Fantasy Awards and it has been... it has been a finalist for Best Semiprozine
+
+158
+00:14:55,760 --> 00:15:01,840
+ ten times and they have recused themselves from the category. They want to support other indie
+
+159
+00:15:01,840 --> 00:15:06,640
+ zines run by dedicated staff and publishing great and important stories whose work deserves
+
+160
+00:15:06,640 --> 00:15:12,400
+ a Best Semiprozine finalist spot and the corresponding boost in reach and support.
+
+161
+00:15:12,400 --> 00:15:18,400
+ This is great. I think I'm on the record as saying that once you've won in a category more than a
+
+162
+00:15:18,400 --> 00:15:24,160
+ handful of times you need to recuse and let the rest of the genre have its time in the sun – and I'm
+
+163
+00:15:24,160 --> 00:15:30,080
+ looking at you, Uncanny Magazine, when I say that – but I think it had never really occurred to me that
+
+164
+00:15:30,080 --> 00:15:36,000
+ long-time finalists might want to do the same thing and this seems like a really positive move.
+
+165
+00:15:36,000 --> 00:15:44,480
+ Especially long-time finalists in the Best Semiprozine category which seems to be quite static.
+
+166
+00:15:44,480 --> 00:15:51,680
+ It doesn't... it's not a very vibrant category. It doesn't showcase the best work in the field so much as it just
+
+167
+00:15:51,680 --> 00:15:59,200
+ repeatedly rewards the usual suspects and so I guess in categories that are in that bucket
+
+168
+00:15:59,200 --> 00:16:04,320
+ recusing yourself from a finalist state even when you haven't won it is as good as you can do to
+
+169
+00:16:04,320 --> 00:16:08,320
+ sort of try and make that category a bit more vibrant. So yeah, this seems really good. Well
+
+170
+00:16:08,320 --> 00:16:14,960
+ done to Beneath Ceaseless Skies. Do either of you have a hot take on this? I do have a hot take but it's
+
+171
+00:16:14,960 --> 00:16:18,800
+ mean and we've said we're not allowed any mean jokes, so... Why don't you go for it and then John can
+
+172
+00:16:18,800 --> 00:16:25,600
+ cut it out if it is too mean? So my hot take is "Oh, I'm recusing myself from the Best Semiprozine
+
+173
+00:16:25,600 --> 00:16:31,280
+ category where I might have to stand up on stage with 43 people, but please all vote for me
+
+174
+00:16:31,280 --> 00:16:36,240
+ in Best Editor: Short Form" is the actual form of the statement. Beneath Ceaseless Skies have only ever,
+
+175
+00:16:36,240 --> 00:16:41,440
+ I think, nominated themselves with one editor listed in the category so Beneath Ceaseless Skies is
+
+176
+00:16:41,440 --> 00:16:46,400
+ the one where they always do just list Scott Andrews and, you know, not the entire list of
+
+177
+00:16:46,400 --> 00:16:50,160
+ staff. I mean, yeah, there is something in that which is I think it must be really hard to recuse
+
+178
+00:16:50,160 --> 00:16:54,400
+ yourself from something after being nominated so many times and not winning. It must be hard to
+
+179
+00:16:54,400 --> 00:17:00,400
+ say "Actually, it's time to recuse myself anyway" and kind of... you know, you never got to do that bit of
+
+180
+00:17:00,400 --> 00:17:04,960
+ like standing on the stage and getting your spotlight. But they do point out that you can still nominate
+
+181
+00:17:04,960 --> 00:17:09,040
+ Scott Andrews as best editor and you can still nominate kind of all the individual stories in
+
+182
+00:17:09,040 --> 00:17:12,800
+ the magazine in the individual categories so while you're taking the magazine out you can still
+
+183
+00:17:12,800 --> 00:17:18,080
+ nominate its contents and its editor in other categories. So, there is still a chance
+
+184
+00:17:18,080 --> 00:17:23,760
+ that many people associated with the magazine will get kind of a moment of glory in a way
+
+185
+00:17:23,760 --> 00:17:27,440
+ that you probably don't if you recuse yourself from, say, Best Fan Writer then you're
+
+186
+00:17:27,440 --> 00:17:34,640
+ recused from Best Fan Writer – that's it. If Beneath Ceaseless Skies changed editor-in-chief I would not
+
+187
+00:17:34,640 --> 00:17:39,920
+ think it was hypocritical of them to unrecuse themselves as well because I do think that would
+
+188
+00:17:39,920 --> 00:17:46,080
+ be reasonable. Yeah, Liz is right it is just Scott Andrews who is listed under their thing.
+
+189
+00:17:46,080 --> 00:17:51,040
+ The only one in that category! So maybe the actual thought process is "well, clearly everyone else
+
+190
+00:17:51,040 --> 00:17:58,880
+ is a giant hivemind collective and I am just a man so I can be safely nominated in one of the
+
+191
+00:17:58,880 --> 00:18:03,680
+ categories that is just for people and let other hivemind collectives come up in this category".
+
+192
+00:18:03,680 --> 00:18:10,160
+ That is a much more charitable way of looking at it than mine which probably was
+
+193
+00:18:10,160 --> 00:18:18,000
+ going "What is going on here, is there some ego sense?" I don't think I'm that cynical but I
+
+194
+00:18:18,000 --> 00:18:23,760
+ kind of looked this is it is it could this have been a cynical go of what is my best scope of
+
+195
+00:18:23,760 --> 00:18:31,040
+ getting a Hugo clearly this category is not it despite us being very regularly nominated.
+
+196
+00:18:31,040 --> 00:18:35,120
+ Alison, if you've just read the thing on File 770 then I think it is worth you clicking through
+
+197
+00:18:35,120 --> 00:18:40,640
+ and reading the whole statement. Yeah, it's quite a short statement isn't it? Yeah, but it basically
+
+198
+00:18:40,640 --> 00:18:45,440
+ says they've already seen while they've been a finalist their readership has doubled
+
+199
+00:18:45,440 --> 00:18:50,400
+ and they think they've basically got a lot of value out of it. And then, at the end, list a bunch of other
+
+200
+00:18:50,400 --> 00:18:56,000
+ magazines on the 2020 longlist they think deserve a place on the ballot. So, it
+
+201
+00:18:56,000 --> 00:19:01,440
+ really does feel like saying we've had a great success from this here are some other
+
+202
+00:19:01,440 --> 00:19:06,640
+ magazines we think could take our place and enjoy the boosted readership. Oh no, you're
+
+203
+00:19:06,640 --> 00:19:11,600
+ right: I hadn't clicked through, I'm a moron. I had clicked through once but I hadn't clicked through
+
+204
+00:19:11,600 --> 00:19:17,200
+ sufficiently to get to the actual statement. Right, I see, yes. So I think it's very
+
+205
+00:19:17,200 --> 00:19:23,040
+ nice, really. And I think I would find it hard to do myself if I was nominated a lot and I
+
+206
+00:19:23,040 --> 00:19:26,960
+ never quite made it to winning. I think it would be hard to say "actually, don't nominate me
+
+207
+00:19:26,960 --> 00:19:32,880
+ again". So I think I'm going to quickly list... so the ones that he recommends in his statement are
+
+208
+00:19:32,880 --> 00:19:38,400
+ Mermaids Monthly, khōréō (sorry if I've pronounced that wrong), Fireside, Diabolical Plots, The Deadlands
+
+209
+00:19:38,400 --> 00:19:43,760
+ and Giganotasaurus. Fireside's an interesting one because that is not an uncontroversial
+
+210
+00:19:43,760 --> 00:19:48,960
+ recommendation, lately. He's not completely recusing himself from the possibility of winning a Hugo
+
+211
+00:19:48,960 --> 00:19:52,480
+ Award because he's still eligible in another category whereas obviously if we recuse ourselves
+
+212
+00:19:52,480 --> 00:19:57,040
+ for Octothorpe we would not be eligible in any other categories so we would be permanently...
+
+213
+00:19:57,040 --> 00:20:02,800
+ Speak for yourself, sunshine. I mean I would like to say that I did go and look it up because I think
+
+214
+00:20:02,800 --> 00:20:09,600
+ Mermaids Monthly has not published anything since 2021 so I think they're actually not eligible this
+
+215
+00:20:09,600 --> 00:20:15,760
+ year. They basically did 12 issues, and then I'm not sure if a second set of 12 issues has come
+
+216
+00:20:15,760 --> 00:20:21,600
+ out, or if that might happen in 2023, or if it has folded but I do not believe they're eligible next
+
+217
+00:20:21,600 --> 00:20:27,440
+ year unless I have missed something. Interesting. The last thing on their blog is saying "we're about
+
+218
+00:20:27,440 --> 00:20:36,000
+ to launch our 2022 fundraiser" and that was July. Yes, but if you look at their 2022 fundraiser... oh, sorry,
+
+219
+00:20:36,000 --> 00:20:40,960
+ they were, sorry. Yeah, they've got a 2021 fundraiser which didn't make its target so it looks like they
+
+220
+00:20:40,960 --> 00:20:47,920
+ must be launching a new one in 2022 that maybe will run in 2023 that the idea was they were
+
+221
+00:20:47,920 --> 00:20:51,760
+ going to hand it over to new set of editors for the second year and I think that
+
+222
+00:20:51,760 --> 00:20:55,200
+ didn't make its fundraising target and never happened but I don't know whether it's coming back again.
+
+223
+00:20:55,200 --> 00:21:00,240
+ But I didn't want to say too much about that, just that don't nominate them in 2022
+
+224
+00:21:00,240 --> 00:21:05,280
+ because they're not eligible. So Mermaids Monthly were pretty close to making the ballot this year
+
+225
+00:21:05,280 --> 00:21:10,160
+ but didn't quite make it and will not be eligible next year. So keep an eye on them for future years
+
+226
+00:21:10,160 --> 00:21:18,800
+ if they return. Giganotosaurus was last a finalist in 2017, Fireside was last a finalist in 2020.
+
+227
+00:21:18,800 --> 00:21:26,480
+ I don't think the others mentioned in the statement have ever been finalists before but I might be wrong.
+
+228
+00:21:26,480 --> 00:21:32,000
+ So, yes, it would be nice to see some of these categories mixing up a bit and people having a
+
+229
+00:21:32,000 --> 00:21:35,040
+ longer look at the longlist to find things that they want.
+
+230
+00:21:35,040 --> 00:21:47,840
+ Shall we move on to the Locus fundraiser? So, Locus is having what it calls a first
+
+231
+00:21:48,400 --> 00:21:55,840
+ annual crowdfunding campaign. Yes. So for example my pub, my local pub, had a terrible time at the
+
+232
+00:21:55,840 --> 00:22:00,320
+ beginning of the pandemic and it's a very much community pub. It's kind of run as a community
+
+233
+00:22:00,320 --> 00:22:04,480
+ theater, there's a lot of stuff like that. It is the Old Rose and Crown in Walthamstow for anyone
+
+234
+00:22:04,480 --> 00:22:10,720
+ who's listening, and they had a fundraiser to kind of get them over that immediate pandemic-y
+
+235
+00:22:10,720 --> 00:22:17,920
+ hump but there was never any suggestion that... If you're a pub your job is to sell food and drink
+
+236
+00:22:17,920 --> 00:22:24,640
+ to members of the public and theatre tickets in a way that covers your costs, yeah? And if you're
+
+237
+00:22:24,640 --> 00:22:31,920
+ a magazine your job is to sell your magazine to members of the public at a rate that covers the
+
+238
+00:22:31,920 --> 00:22:36,720
+ costs so I wouldn't mind Locus saying "oh god, guys, we're in a bit of a pickle we're having a crowdfunder
+
+239
+00:22:36,720 --> 00:22:42,960
+ to get us over this hump that we find ourselves in", but I feel like the the long-term
+
+240
+00:22:42,960 --> 00:22:50,080
+ goal of a magazine should be to run to break even rather to say "oh and we're going to come back
+
+241
+00:22:50,080 --> 00:22:55,040
+ every year for extra money". It felt a bit odd to me. It's kind of like "yeah, no, we're just going to
+
+242
+00:22:55,040 --> 00:23:02,160
+ be loss-making forever but the authors will support us" and maybe they will? I think this is a really
+
+243
+00:23:02,160 --> 00:23:08,880
+ good argument for why semiprozine is such a tricky category because the difference between a pro
+
+244
+00:23:08,880 --> 00:23:15,360
+ magazine and a semipro magazine is not obvious and I think this blurs it even more. Because obviously,
+
+245
+00:23:15,360 --> 00:23:23,440
+ lots of the semiprozines in the field rely on crowdfunders to happen and I don't think it's
+
+246
+00:23:23,440 --> 00:23:30,160
+ unreasonable to say, you know, "if you like this thing and you want it to keep going throw us some
+
+247
+00:23:30,160 --> 00:23:35,040
+ money". I mean, I don't think it's any more ridiculous than like a pay-what-you-want video game on itch.
+
+248
+00:23:35,040 --> 00:23:44,320
+ I think with more niche stuff and more niche categories it is harder to find the ability to
+
+249
+00:23:44,320 --> 00:23:51,840
+ do that commercially? I mean, I think a pub is a bad example because although I like pubs, I think
+
+250
+00:23:51,840 --> 00:23:58,400
+ especially the old-fashioned community pubs to which you refer... they're very similar and so if one pub
+
+251
+00:23:58,400 --> 00:24:03,200
+ goes out of business there'll be another pub somewhere in your town whereas if Locus goes out of business
+
+252
+00:24:03,200 --> 00:24:08,000
+ there'll be other magazines but there won't be another Locus magazine and so I think there is a
+
+253
+00:24:08,000 --> 00:24:13,200
+ uniqueness to it as well. I mean somewhere in my town if my town is London but not somewhere in my
+
+254
+00:24:13,200 --> 00:24:18,480
+ town if my town is Walthamstow, really. I'm going to say something here which is... as obviously
+
+255
+00:24:18,480 --> 00:24:23,200
+ someone who married someone who lived in the San Francisco area there is a problem which is
+
+256
+00:24:23,200 --> 00:24:28,080
+ San Francisco is rapidly becoming the sort of place where if you are not rich you cannot be
+
+257
+00:24:28,080 --> 00:24:32,480
+ and so that works a lot like if you work for Apple or Google or Facebook or any of these massive
+
+258
+00:24:32,480 --> 00:24:38,240
+ companies where you make a lot of money, living and working in San Francisco is great and hurrah.
+
+259
+00:24:38,240 --> 00:24:42,640
+ But there is a reason that magazines like Macworld have been downsizing their San Francisco
+
+260
+00:24:42,640 --> 00:24:48,240
+ office space and moving to remote workers and that is because having a full-time staff all of whom
+
+261
+00:24:48,240 --> 00:24:53,840
+ live in San Francisco is rapidly going to become untenable. And it's untenable now but in ten years'
+
+262
+00:24:53,840 --> 00:24:59,760
+ time it is going to be worse than it is now. It's a pretty... it's a pretty mean take. You're
+
+263
+00:24:59,760 --> 00:25:04,080
+ basically... because what is your conclusion to this? That they should
+
+264
+00:25:04,080 --> 00:25:10,800
+ move somewhere that is not San Francisco? Or Oakland to be specific? I mean I don't... and I think
+
+265
+00:25:10,800 --> 00:25:16,400
+ that sucks, but I don't see how Locus can remain profitable if it hires six full-time people who
+
+266
+00:25:16,400 --> 00:25:20,560
+ live and work in the Bay Area because I know people who live and work in the Bay Area and they're
+
+267
+00:25:20,560 --> 00:25:26,080
+ moving out and that's because the Bay Area is becoming unlivable and that isn't Locus' fault
+
+268
+00:25:26,080 --> 00:25:31,680
+ but it is true. And it's worse now than it was a decade ago when I met
+
+269
+00:25:31,680 --> 00:25:36,160
+ España and it will be worse in a decade than it is now and so unless Locus have a plan...
+
+270
+00:25:36,160 --> 00:25:42,800
+ Locus can't just stay afloat. Locus will need to find more money because it's getting more
+
+271
+00:25:42,800 --> 00:25:49,440
+ expensive not less and especially with inflation at 10% globally I don't see how this works. And so,
+
+272
+00:25:49,440 --> 00:25:53,360
+ yeah, if they're determined to maintain a staff of six all of whom live in the Bay Area... and it sucks
+
+273
+00:25:53,360 --> 00:25:56,160
+ because I love San Francisco and I think it's part of the death of the area and if we're going to
+
+274
+00:25:56,160 --> 00:26:00,240
+ talk about this we could talk about it and I have really strong and really mournful opinions about
+
+275
+00:26:00,240 --> 00:26:05,600
+ it because I think San Francisco is dying and I think this sort of thing will die because it is
+
+276
+00:26:05,600 --> 00:26:10,800
+ based there. And that's horrible. But it's not unreasonable to try, but equally I don't think
+
+277
+00:26:10,800 --> 00:26:18,080
+ it will work. These funds fulfill three main purposes which are paying people to live and work in the
+
+278
+00:26:18,080 --> 00:26:25,040
+ Bay Area, creating a top-notch print magazine and the overhead for our office space which is
+
+279
+00:26:25,040 --> 00:26:30,560
+ presumably also in the Bay Area. And I'm like, I don't think... Obviously you know I don't believe
+
+280
+00:26:30,560 --> 00:26:36,320
+ in print magazines, I'm just giving away all my text-based documents that's not fundamentally
+
+281
+00:26:36,320 --> 00:26:42,480
+ art-based, so I don't think I believe in any of those three goals. I don't think those three goals
+
+282
+00:26:42,480 --> 00:26:47,680
+ are things that we should be directly supporting. I mean I don't mind if people support them
+
+283
+00:26:47,680 --> 00:26:54,000
+ but somebody's like are you kicking into the Locus Indiegogo the answer is no because you've told me
+
+284
+00:26:54,000 --> 00:27:00,720
+ that you're doing three things that I believe are not good uses for human funds.
+
+285
+00:27:00,720 --> 00:27:04,560
+ I don't really have a problem with print media I mean I don't buy print magazines bu I don't
+
+286
+00:27:04,560 --> 00:27:11,920
+ have a huge problem with it. And especially maintaining a Bay Area office space, I mean... They do say elsewhere
+
+287
+00:27:11,920 --> 00:27:16,000
+ that they basically... I mean I don't know how up-to-date this is but they have a Patreon where they say that
+
+288
+00:27:16,000 --> 00:27:22,160
+ they share some offices in a house in Oakland with lots of other non-profits. So I don't know
+
+289
+00:27:22,160 --> 00:27:26,480
+ how kind of sustainable that is. So my feeling is that yeah the value of Locus is having a news
+
+290
+00:27:26,480 --> 00:27:32,880
+ magazine that covers the field, but that is what I like this is not necessarily tied to it being
+
+291
+00:27:32,880 --> 00:27:39,600
+ in a particular location or producing a print magazine. And what I can't see from this fundraiser
+
+292
+00:27:39,600 --> 00:27:44,080
+ is kind of how sustainable this is? Magazines that fund themselves with an annual Kickstarter: there
+
+293
+00:27:44,080 --> 00:27:48,960
+ are lots of semiprozines that fund themselves with annual Kickstarters in this way. But I assume
+
+294
+00:27:48,960 --> 00:27:55,760
+ they have a goal and that goal is to cover the running expenses of the magazine and it's
+
+295
+00:27:55,760 --> 00:28:00,800
+ usually, their running expenses are more like $20,000 and then they have stretch
+
+296
+00:28:00,800 --> 00:28:06,080
+ goals whereas this is trying to raise $75,000 out of the over $600,000
+
+297
+00:28:06,080 --> 00:28:10,560
+ they need so you know they're saying if they get $75,000 taking
+
+298
+00:28:10,560 --> 00:28:14,880
+ away their subscription and existing revenue, they still need to get $240,000.
+
+299
+00:28:14,880 --> 00:28:19,840
+ That is just such a monumental task to be crowdfunded. What I'm missing here is
+
+300
+00:28:19,840 --> 00:28:24,960
+ how they think in future years they will be on a sustainable level? And can I digress for five
+
+301
+00:28:24,960 --> 00:28:31,200
+ minutes? So, there is a website called Metafilter which I've been reading for many many years and
+
+302
+00:28:31,200 --> 00:28:36,480
+ for many years they've had now an annual fund drive. And what has become clear in the past couple of
+
+303
+00:28:36,480 --> 00:28:41,360
+ years is that they had an annual fund drive which was just about getting them the money they needed to
+
+304
+00:28:41,360 --> 00:28:47,200
+ continue, but it was not sustainable because their other sources of revenue were shrinking. And they
+
+305
+00:28:47,200 --> 00:28:51,040
+ kind of got to this year and went "oh wait, hang on. Our other sources of revenue have been shrinking,
+
+306
+00:28:51,040 --> 00:28:56,240
+ our pool of savings is going down, and actually just asking people for money once a year and getting
+
+307
+00:28:56,240 --> 00:29:01,920
+ a bit is not putting us on a sustainable footing for the future". And so there's lots I
+
+308
+00:29:01,920 --> 00:29:06,240
+ can't get into here but they basically been a change of ownership there's now kind of a community
+
+309
+00:29:06,240 --> 00:29:10,960
+ organization board they've been taking a thorough look at finances, at future funding models, and
+
+310
+00:29:10,960 --> 00:29:15,440
+ this year's fundraising drive has basically said look we've got three models: if we get this much
+
+311
+00:29:15,440 --> 00:29:19,520
+ money we can survive, if we get this much money this is the extra things we can do to make ourselves
+
+312
+00:29:19,520 --> 00:29:24,480
+ more sustainable, and if we get anything above that here's future things we'll do. I'm
+
+313
+00:29:24,480 --> 00:29:28,960
+ sort of looking for something a bit more like that. Are Locus thinking, actually, we can increase
+
+314
+00:29:28,960 --> 00:29:33,280
+ the number of subscriptions, and we can do this kind of fundraising drive? Where we they sell
+
+315
+00:29:33,280 --> 00:29:37,520
+ magazines but they're also selling like a bunch of extra things like you do in any fundraising
+
+316
+00:29:37,520 --> 00:29:41,360
+ auction? Do they think that this is going to get them through every year or are they going to come
+
+317
+00:29:41,360 --> 00:29:46,240
+ back next year? Maybe ad revenues have gone down, subscriptions have increased a bit, the cost of
+
+318
+00:29:46,240 --> 00:29:51,040
+ living has increased a bit and now they actually need $125,000 to survive? They're not
+
+319
+00:29:51,040 --> 00:29:54,800
+ obliged to provide me with their future business plans but when I'm supporting... there's
+
+320
+00:29:54,800 --> 00:29:58,720
+ something is coming and saying "can you help support us for the future?" I like to see
+
+321
+00:29:58,720 --> 00:30:06,320
+ that they have a sustainable plan for the future. Business models change, and Locus is a decade or more
+
+322
+00:30:06,320 --> 00:30:14,720
+ behind. You know, most small special interest magazines have gone fully digital or no longer
+
+323
+00:30:14,720 --> 00:30:21,920
+ exist. Locus has done very well to survive as long as it has with a full-time staff of six
+
+324
+00:30:21,920 --> 00:30:30,080
+ in this space because lots of magazines like that aren't around anymore. Is that true in
+
+325
+00:30:30,080 --> 00:30:36,480
+ our space? Because like Asimov's is still both, right? It's a fiction magazine. This is kind
+
+326
+00:30:36,480 --> 00:30:42,880
+ of a specialist industry magazine. It's difficult because they don't break out their... in the thing
+
+327
+00:30:42,880 --> 00:30:46,800
+ they break it out into paying writers, editors and artists; sustaining issues, website and awards; and
+
+328
+00:30:46,800 --> 00:30:53,680
+ Locus HQ. And Locus HQ is the lowest at 60 grand and paying writers, editors, and artists is 450.
+
+329
+00:30:53,680 --> 00:30:57,840
+ And if you read that you might think "oh, most of their money is going on commissioning content"
+
+330
+00:30:57,840 --> 00:31:04,000
+ but the 450 is where the staff costs for the six full-time staff are. This entire fundraiser would be...
+
+331
+00:31:04,000 --> 00:31:09,520
+ I mean they're asking for $75,000 and if they got rid of their office space that would make up $60,000
+
+332
+00:31:09,520 --> 00:31:14,480
+ of it. But, like, then where you put the Hugos, I guess? No, they were like, "we want to raise a lot of money,
+
+333
+00:31:14,480 --> 00:31:17,920
+ we're going to have an auction". They've got 30 Hugos they'll raise a fair packet.
+
+334
+00:31:17,920 --> 00:31:23,280
+ Oh, that's true. We could bid on them all, and give them out of the inaugural Octothorpies guys
+
+335
+00:31:23,280 --> 00:31:29,680
+ sustaining the issues is in the 130 grand line item and I have no idea how much that costs to do
+
+336
+00:31:29,680 --> 00:31:35,440
+ but I have to be honest I think a Locus magazine that doesn't have an office and doesn't have a
+
+337
+00:31:35,440 --> 00:31:42,400
+ print magazine but does still do what Locus does is way more valuable than a Locus that does have
+
+338
+00:31:42,400 --> 00:31:46,240
+ an office and does have a print magazine but is slowly becoming more and more unviable.
+
+339
+00:31:46,240 --> 00:31:51,520
+ I'd rather see them pivot, and continue. And works remotely. Well, it's tricky right? Because
+
+340
+00:31:51,520 --> 00:31:57,120
+ because like what do you do with the staff? Do you say you move or we fire you? I don't want to have that
+
+341
+00:31:57,120 --> 00:32:04,400
+ conversation with six people I manage. No, no, you say we cannot increase your salary. That's
+
+342
+00:32:04,400 --> 00:32:09,440
+ how this is done. So people go "well we cannot survive in the Bay Area on this salary" and at that point
+
+343
+00:32:09,440 --> 00:32:13,760
+ you go "well, have you considered working working remotely somewhere that is not
+
+344
+00:32:13,760 --> 00:32:19,760
+ in daily commuter range of our offices in Oakland." Many companies have done this, but the
+
+345
+00:32:19,760 --> 00:32:26,320
+ thing is that if a new business started up today to do what Locus does it wouldn't have
+
+346
+00:32:26,320 --> 00:32:32,720
+ an office. Businesses like that don't have offices anymore, if they're new businesses. They only have
+
+347
+00:32:32,720 --> 00:32:37,040
+ offices if they're old businesses, because that's the way these sorts of things used to be done.
+
+348
+00:32:37,760 --> 00:32:44,960
+ Nowadays businesses of this kind work remotely and occasionally hire meeting space. I don't know
+
+349
+00:32:44,960 --> 00:32:50,720
+ how extensive the Locus archives are. I can see that it's something that they are currently preserving
+
+350
+00:32:50,720 --> 00:32:57,600
+ and maybe that needs to be preserved in a library somewhere? But also things like, if you are Locus
+
+351
+00:32:57,600 --> 00:33:02,320
+ you are getting a lot of books delivered to your office so you probably do need some physical
+
+352
+00:33:02,320 --> 00:33:08,400
+ space somewhere. It just doesn't necessarily have to be where it currently is. I mean, review books are
+
+353
+00:33:08,400 --> 00:33:14,560
+ also electronic now. Yeah, but look at like, Scalzi's blog, he still gets a lot of paper books. I don't
+
+354
+00:33:14,560 --> 00:33:20,320
+ know how... Yeah, Langford does too. Yeah, people are still sending paper books as well. I want Locus to
+
+355
+00:33:20,320 --> 00:33:28,400
+ continue, but equally, I have never read Locus and it is not clear to me that the way they are going
+
+356
+00:33:28,400 --> 00:33:33,200
+ about this... Even if they hit their fundraiser this time I would not want to bet money that they
+
+357
+00:33:33,200 --> 00:33:37,200
+ would still exist in five years. Because it doesn't seem like they're making any of the changes they
+
+358
+00:33:37,200 --> 00:33:43,600
+ need to make to be sustainable. So, Locus, hard love, pivot. They're going to have to change a lot or
+
+359
+00:33:43,600 --> 00:33:47,600
+ they're going to die and I don't think they're willing to change a lot so I think they're going
+
+360
+00:33:47,600 --> 00:33:53,920
+ to die? And I don't think that's good but I do think that if you made me bet £10 either way
+
+361
+00:33:53,920 --> 00:34:00,240
+ I wouldn't be betting on them being around in five years. Yeah, I think... see where we are
+
+362
+00:34:00,240 --> 00:34:04,720
+ this time next year because they say they're having an auction and a subscription drive and
+
+363
+00:34:04,720 --> 00:34:09,040
+ potentially they'll get quite a lot of extra subscriptions, which will put them on a good
+
+364
+00:34:09,040 --> 00:34:13,520
+ footing? Because that's what you really need, you need that kind of consistent revenue rather than
+
+365
+00:34:13,520 --> 00:34:18,320
+ people paying you $100 for something cool in an auction. Maybe more
+
+366
+00:34:18,320 --> 00:34:23,360
+ stuff will come out but that's kind of what I'm hoping we'll see over the next year: Exactly
+
+367
+00:34:23,360 --> 00:34:28,240
+ what what the proactive steps are, so that next year isn't actually now we need $100,000
+
+368
+00:34:28,240 --> 00:34:32,560
+ to survive. I'm still not betting you that $10 though. No, me neither.
+
+369
+00:34:32,560 --> 00:34:42,720
+ Shall we do some picks? Picks, picks, picks. What order are we doing this in?
+
+370
+00:34:42,720 --> 00:34:49,360
+ What's happened here, listeners, is Liz and I, last episode, were debating which of us would get to pick
+
+371
+00:34:49,360 --> 00:34:53,760
+ Andor and in order to make this decision easier for us Alison decided to watch the first episode
+
+372
+00:34:53,760 --> 00:35:01,440
+ of Andor so she could pick it too. And so we have a three-way tie and, yeah... And I had a backup
+
+373
+00:35:01,440 --> 00:35:09,680
+ pick in case Liz wanted to pick Andor, and now all is Andor. So obviously I
+
+374
+00:35:09,680 --> 00:35:13,360
+ want to go first because I've only seen the first episode and then if these guys get spoilery I can
+
+375
+00:35:13,360 --> 00:35:18,560
+ just take my headphones off. So I had a couple of things to say about Andor, having watched
+
+376
+00:35:18,560 --> 00:35:23,200
+ exactly one episode. The first is that all of my friends are talking about it, not just John and
+
+377
+00:35:23,200 --> 00:35:31,440
+ Liz but all over the internet people are saying "gosh this series is very good" in a way that I
+
+378
+00:35:31,440 --> 00:35:37,920
+ don't think has happened for the television output of the Star Wars universe before. That it's very
+
+379
+00:35:37,920 --> 00:35:42,960
+ good in terms of what television should be and how it should be and things like that. I know none of
+
+380
+00:35:42,960 --> 00:35:48,000
+ this because I've only seen the first episode. Right from almost the first second you know you're in
+
+381
+00:35:48,000 --> 00:35:54,160
+ the Star Wars universe there's nowhere else you could be there's tons of stuff this is just incredibly
+
+382
+00:35:54,160 --> 00:35:59,200
+ Star Wars-y a bit about it all over the place and I really like that because I like the sense
+
+383
+00:35:59,200 --> 00:36:04,320
+ that they are building a consistent universe here despite the fact that it's enormously diverse
+
+384
+00:36:04,320 --> 00:36:12,560
+ and has all sorts of different things going on, but nevertheless it's... It's all very consistent.
+
+385
+00:36:12,560 --> 00:36:19,520
+ Everyone likes it. You are not wrong! I mean it's true, I... John is the Star Wars fan here I am not
+
+386
+00:36:19,520 --> 00:36:23,760
+ particularly... I mean I like Star Wars but I'm not, like, a fan in the way John is. And I have not in fact
+
+387
+00:36:23,760 --> 00:36:29,280
+ bothered watching any of the other Star Wars TV shows yet. And the internet is loving Andor in a
+
+388
+00:36:29,280 --> 00:36:35,280
+ way I can't remember it loving anything except possibly that time when baby Yoda ate a frog. Yeah. And
+
+389
+00:36:35,280 --> 00:36:40,720
+ even then, that was like a 30 second bit of an episode. Yeah, basically everyone watched it and was like "oh
+
+390
+00:36:40,720 --> 00:36:48,000
+ actually this is what you can do in the Star Wars universe". I think it's the second good TV show in
+
+391
+00:36:48,000 --> 00:36:53,760
+ Star Wars, the first one being Rebels. Rebels is animated so I know a lot of people who just don't
+
+392
+00:36:53,760 --> 00:36:57,440
+ watch animated stuff and you're like "you can watch animated stuff" and they're like "yeah yeah yeah" and they don't.
+
+393
+00:36:57,440 --> 00:37:03,680
+ And also rebels is explicitly aimed at a much younger audience, and it did... And so I think that
+
+394
+00:37:03,680 --> 00:37:09,120
+ is two reasons why it was not widely discussed. In much the same way that the reason that
+
+395
+00:37:09,120 --> 00:37:14,320
+ we didn't get much YA on the Hugo ballot until the Lodestar award was because you don't tend to
+
+396
+00:37:14,320 --> 00:37:19,680
+ nominate stuff aimed at a younger audience in the big serious awards. But Andor is definitely
+
+397
+00:37:19,680 --> 00:37:27,520
+ the first good live-action TV show they've done. I liked Kenobi but it had problems, and one of the
+
+398
+00:37:27,520 --> 00:37:35,200
+ problems it has is it filmed in The Volume. And Andor is filmed uh, in, you know, places. And it
+
+399
+00:37:35,200 --> 00:37:40,000
+ turns out you can do a lot more if you aren't limited to a small circle surrounded by
+
+400
+00:37:40,000 --> 00:37:44,480
+ monitors. Who knew? But yeah, I think one of the senses of place... and I think this goes back to
+
+401
+00:37:44,480 --> 00:37:49,600
+ what Alison was saying about the Star Wars setting. The use of sets and and kind of the use of real
+
+402
+00:37:49,600 --> 00:37:55,280
+ places it makes it feel much more like you're in a place rather than kind of just not, really.
+
+403
+00:37:55,280 --> 00:38:04,400
+ And the Mandalorian feels kind of really insubstantial in a way, and so does Kenobi, that Andor did not.
+
+404
+00:38:04,400 --> 00:38:09,680
+ And the insubstantiality is one of the problems that the prequel trilogy has, that the
+
+405
+00:38:09,680 --> 00:38:14,960
+ original trilogy did not. And I wonder if it comes from over-reliance on this one technique that they
+
+406
+00:38:14,960 --> 00:38:19,840
+ used for the Mandalorian and then carried on using for the other stuff. It feels a lot like sort of,
+
+407
+00:38:19,840 --> 00:38:27,600
+ maybe British 70s TV sci-fi in a good way? I mean someone did a kind of fake 70s opening credits for
+
+408
+00:38:27,600 --> 00:38:32,880
+ Andor which are brilliant. But there's just something about it being, like... there's bits of it set in
+
+409
+00:38:32,880 --> 00:38:38,640
+ in cities, there's bits of it set, you know... they do a lot of walking around hills and in the rain and in
+
+410
+00:38:38,640 --> 00:38:45,040
+ just sort of slightly gloomy-looking remote areas. There's something about that, and there's something
+
+411
+00:38:45,040 --> 00:38:52,160
+ about the fact that the cast is full of British character actors as well. That plus the fact that
+
+412
+00:38:52,160 --> 00:38:57,280
+ Star Wars always had this way of using the technology which has not advanced since the Star Wars of
+
+413
+00:38:57,280 --> 00:39:03,920
+ the 70s. They managed to integrate this... Everything is like giant button-pushing machines like you
+
+414
+00:39:03,920 --> 00:39:09,120
+ find in an abandoned 70s power plant kind of thing. And somehow they integrate all of that and for the
+
+415
+00:39:09,120 --> 00:39:14,400
+ first time it didn't seem to feel like it was deliberately limiting themselves to this
+
+416
+00:39:14,400 --> 00:39:18,240
+ level of technology, it felt like they'd really embraced that and just said "right, this
+
+417
+00:39:18,240 --> 00:39:23,520
+ is our aesthetic for the show and everything's going to make sense". Mmm-mmm. No, exactly. The other thing about
+
+418
+00:39:23,520 --> 00:39:29,680
+ Andor is it is really I thought it got good after episode three I thought the first three episodes...
+
+419
+00:39:29,680 --> 00:39:33,680
+ And I think there is a reason that when the first three episodes dropped on Disney+ it did not
+
+420
+00:39:33,680 --> 00:39:39,040
+ immediately make the sorts of waves that it is making now that it has wrapped up. There are a couple of things
+
+421
+00:39:39,040 --> 00:39:44,160
+ that really kick into high gear after episode three and a couple of annoying narrative devices
+
+422
+00:39:44,160 --> 00:39:51,360
+ that are left behind. And I think first three episodes are setting up the last nine and the last nine
+
+423
+00:39:51,360 --> 00:39:56,960
+ are where the real gold is. Do you think that's fair, Liz? I think so. I think what I will say is that
+
+424
+00:39:56,960 --> 00:40:01,920
+ they dropped the first three episodes together and thereafter it came out week-by-week and I watched
+
+425
+00:40:01,920 --> 00:40:06,160
+ the first three episodes... I didn't watch them all together. I watched one, and then took a break and
+
+426
+00:40:06,160 --> 00:40:09,760
+ watched the next one, and they did not work nearly as well for me as for people who watched the first
+
+427
+00:40:09,760 --> 00:40:14,400
+ three because they do very much form a little kind of mini arc. And that was... I mean the rest of the
+
+428
+00:40:14,400 --> 00:40:19,920
+ season was basically a series of mini arcs and I think that first one works much better as three
+
+429
+00:40:19,920 --> 00:40:24,400
+ episodes together because I didn't feel the episodes had a strong enough episodic structure.
+
+430
+00:40:24,400 --> 00:40:29,840
+ Whereas in the later mini arcs, each episode I think has a much stronger structure even when it's set
+
+431
+00:40:29,840 --> 00:40:35,360
+ into this mini arc. I think also, after I looked at episode three, where I predicted some of the
+
+432
+00:40:35,360 --> 00:40:38,960
+ characters would go is completely not where they went. You know, there were things I was thinking "oh
+
+433
+00:40:38,960 --> 00:40:44,720
+ this is what's going to happen to this person and this person, and nope, completely off." Oh that's good.
+
+434
+00:40:44,720 --> 00:40:51,120
+ That's a good sign. Yeah. Do you mind casting spoilers Alison? I mean I don't mind spoilers, really.
+
+435
+00:40:51,120 --> 00:40:55,360
+ I think our listeners might though. Yeah I'm not going to do any plot spoilers, but Andy Serkis
+
+436
+00:40:55,360 --> 00:41:01,200
+ pops up later in the show and it might be the best performance he's ever given. He is just
+
+437
+00:41:01,200 --> 00:41:09,280
+ amazing in it. Doc Brown or Ben Bailey plays a role which is very good. I didn't recognise him at all!
+
+438
+00:41:09,280 --> 00:41:13,280
+ Like, I've watched him in Taskmaster, I did not realize it was the same person. I thought someone was having
+
+439
+00:41:13,280 --> 00:41:16,320
+ a joke and then they were like no he uses a different name for acting, it's the same person.
+
+440
+00:41:16,320 --> 00:41:23,760
+ What?! Yeah. Yeah. I think he's credited as Ben Bailey, his name's Ben Smith, but he was on Taskmaster as
+
+441
+00:41:23,760 --> 00:41:31,200
+ Doc Brown? So like, I'm very sorry if I get how he is credited wrong but it is all the same man, and I
+
+442
+00:41:31,200 --> 00:41:36,640
+ love that man. He's good man. And one of the reasons why I've been rooting for his character.
+
+443
+00:41:36,640 --> 00:41:41,360
+ There seems to be some scenes of happy natives and I really don't like that. Anyway, onwards.
+
+444
+00:41:42,160 --> 00:41:49,120
+ Yeah, that's the stuff from the first episode about... not Ferrix... Cassian's... Oh, right.
+
+445
+00:41:49,120 --> 00:41:58,960
+ Cassian's background is we are a peaceful untechnological civilization and
+
+446
+00:41:58,960 --> 00:42:04,800
+ I find that very annoying but there we go. I know what you mean about the happy natives thing
+
+447
+00:42:04,800 --> 00:42:08,800
+ Basically there's a line in Rogue One where Cassian says that he's been in this fight since he was
+
+448
+00:42:08,800 --> 00:42:14,080
+ six years old... or is it five years old? But it's like an implausibly young age. And at the time
+
+449
+00:42:14,080 --> 00:42:19,360
+ I assumed that that was hyperbole and in those scenes I don't think he's as young as he says he was
+
+450
+00:42:19,360 --> 00:42:24,160
+ in Rogue One but I think it's basically an attempt to square the circle without just having him
+
+451
+00:42:24,160 --> 00:42:32,400
+ portrayed as an actual child soldier? One of the problems with Star Wars YA media and
+
+452
+00:42:32,400 --> 00:42:36,800
+ kids' media is that Star Wars does actually turn out to have a lot of child soldiers in it because
+
+453
+00:42:36,800 --> 00:42:43,920
+ if you write novels aimed at kids, the kids have to be protagonists, and because it's a story about
+
+454
+00:42:43,920 --> 00:42:50,240
+ war, they end up fighting in a war? And if you think about it too much it gets really awkward really
+
+455
+00:42:50,240 --> 00:42:58,400
+ quickly. But I will say that the happy natives motif does not persist through the entire series.
+
+456
+00:42:58,400 --> 00:43:02,880
+ Can I have a digression where I talk about being old a little bit? Which is that when I was growing
+
+457
+00:43:02,880 --> 00:43:10,720
+ up, which was the 70s, an enormous amount of the cultural touchstones were heavily influenced by
+
+458
+00:43:10,720 --> 00:43:15,920
+ the Second World War and people... And the fact that the creators were people who at the time were
+
+459
+00:43:15,920 --> 00:43:21,040
+ people who had come out of that or been incredibly influenced by the immediate post-war times. It's
+
+460
+00:43:21,040 --> 00:43:27,200
+ true in America as well. And this came up the other day by the fact that I have a
+
+461
+00:43:27,200 --> 00:43:35,360
+ 1974 Dad's Army board game which can't go unblurred onto eBay because it has swastikas on the cover
+
+462
+00:43:35,360 --> 00:43:42,080
+ because it's a wartime thing. But everything about the 70s was driven by people's perceptions of the
+
+463
+00:43:42,080 --> 00:43:48,880
+ Second World War, so that there were war stories everywhere. And so Star Wars... That glorifying war
+
+464
+00:43:48,880 --> 00:43:57,120
+ thing was embedded in the first Star Wars movie. And then, of course it's... We've moved away from
+
+465
+00:43:57,120 --> 00:44:02,640
+ that the whole culture has moved away from "all of our stories of war stories or a huge proportion
+
+466
+00:44:02,640 --> 00:44:08,240
+ of our stories of war stories". There's still some of that in the kind of formative much that Star
+
+467
+00:44:08,240 --> 00:44:14,160
+ Wars was developed out of and I think this leads to things like... Because when I was a child there were
+
+468
+00:44:14,160 --> 00:44:18,080
+ an awful lot of stories about child soldiers and there were also an awful lot of child soldiers.
+
+469
+00:44:18,080 --> 00:44:23,920
+ We've changed, I think as a planet. Hopefully for the better. Hopefully we won't go back to a world
+
+470
+00:44:23,920 --> 00:44:29,520
+ where child... Where being a child soldier is glorified. I think you're right and I think
+
+471
+00:44:29,520 --> 00:44:35,360
+ it's tricky because when you read the stories that are aimed at kids, it doesn't seem problematic
+
+472
+00:44:35,360 --> 00:44:39,200
+ because the kids have all the agency, and then you read plot summaries of what happened in
+
+473
+00:44:39,200 --> 00:44:43,360
+ a particular part of Star Wars and it's like then this child was recruited to do this and you're
+
+474
+00:44:43,360 --> 00:44:50,400
+ like "oh no". And it gets a bit... Child spies are another. Yep. You know like Sherlock Holmes had
+
+475
+00:44:50,400 --> 00:44:55,680
+ child spies, child spies are a very big part of literature traditionally. Children are very
+
+476
+00:44:55,680 --> 00:45:00,560
+ excited by the idea of being a child spy and then you actually look at what spies do and you go
+
+477
+00:45:00,560 --> 00:45:07,040
+ "oh, oh no". Or pirates, cabin boys, you know the whole... All of our adventure
+
+478
+00:45:07,040 --> 00:45:13,680
+ literature has this theme running forward through it of pre-teens and young teenage kids doing exciting
+
+479
+00:45:13,680 --> 00:45:19,040
+ grown-up things which are perhaps not that exciting. So I want to call out some other actors just
+
+480
+00:45:19,040 --> 00:45:25,520
+ before we stop talking about Andor. I love Adria Arjona as Bix, she was also – and I don't know if
+
+481
+00:45:25,520 --> 00:45:31,520
+ either of you recognized her – she was Anathema in the TV series Good Omens and she is very different
+
+482
+00:45:31,520 --> 00:45:36,080
+ in both of those, which I think is great testament to how good she is at acting. That's where
+
+483
+00:45:36,080 --> 00:45:42,800
+ I know her from. Yes. I did not recognize her, apparently I don't recognize anyone. Denise Gough is amazing
+
+484
+00:45:42,800 --> 00:45:50,160
+ as Dedra Meero who is just so good. And Genevieve O'Reilly, who was in Revenge of the Sith but
+
+485
+00:45:50,160 --> 00:45:55,040
+ got cut, but plays Mon Mothma, and it's really good to see Mon Mothma being, kind of,
+
+486
+00:45:55,040 --> 00:45:58,880
+ fleshed out given that she just randomly pops up in Return of the Jedi. And it's quite nice to see
+
+487
+00:45:58,880 --> 00:46:04,880
+ that character come back. And there is another I don't want to do... There's a piece of casting
+
+488
+00:46:04,880 --> 00:46:08,560
+ which is a huge spoiler for a plot thing which I'm not going to say out loud, but I thought
+
+489
+00:46:08,560 --> 00:46:15,120
+ that that was good. And also, one last thing, the droid! The droid is the best droid. Best droid. So
+
+490
+00:46:15,120 --> 00:46:20,960
+ it struck me when I was watching Andor that I had just been on a ride called Rise of the
+
+491
+00:46:20,960 --> 00:46:26,320
+ Resistance but you could basically call Andor Rise of the Resistance instead? And it basically
+
+492
+00:46:26,320 --> 00:46:30,640
+ digs into the thing that I for one have always really wanted to see in the Star Wars universe which
+
+493
+00:46:30,640 --> 00:46:35,520
+ is the early days of the resistance. How do you form this resistance movement which
+
+494
+00:46:35,520 --> 00:46:41,520
+ will go on to bem you know, the... The Rebellion. What, John? The Resistance is 30
+
+495
+00:46:41,520 --> 00:46:46,320
+ years later, this is the Rebellion. Yeah, well, this is the Rebellion which goes on to be the
+
+496
+00:46:46,320 --> 00:46:51,120
+ Resistance, right? This is the Rebellion that leads into Rogue One. And this is something... This is the
+
+497
+00:46:51,120 --> 00:46:56,000
+ other reason I really like Rebels because... a lot of the stuff that Andor does to show
+
+498
+00:46:56,000 --> 00:47:02,560
+ the early days of the Rebellion and to show Mon Mothma's role in that, and to kind of highlight
+
+499
+00:47:02,560 --> 00:47:08,880
+ people like Saw Gerrera and how they fit in was done by Rebels, and is being revisited by Andor.
+
+500
+00:47:08,880 --> 00:47:14,720
+ And so a lot of those themes are really cool but it's weird to revisit them with people who haven't
+
+501
+00:47:14,720 --> 00:47:20,720
+ watched Rbels because a lot of it is really... I mean I don't know how much this is conscious but
+
+502
+00:47:20,720 --> 00:47:27,040
+ like a lot of these themes are the same themes. Is Rebels set at roughly the same time? Rebels
+
+503
+00:47:27,040 --> 00:47:33,520
+ is set later but came out earlier? Yeah, but you're basically saying so people who like Andor should
+
+504
+00:47:33,520 --> 00:47:39,280
+ go and watch Rebels even though they are slightly worried about watching animated things which
+
+505
+00:47:39,280 --> 00:47:45,120
+ I would endorse your notion is... You know, go and watch animated things guys, they're good. I
+
+506
+00:47:45,120 --> 00:47:51,440
+ don't know if this one is, but in general. Rebels is aimed at a much younger audience so
+
+507
+00:47:51,440 --> 00:47:58,080
+ is probably not as hard-hitting as Andor but I do... I think it is brilliant, but yeah. I mean I'm
+
+508
+00:47:58,080 --> 00:48:01,920
+ prepared to go and watch Rebels, I just probably was not very aware of it and also
+
+509
+00:48:01,920 --> 00:48:08,080
+ don't remember ever being on any kind of TV service I had access to. I don't know where it was broadcast
+
+510
+00:48:08,080 --> 00:48:15,040
+ in the UK. Ah, no, that is fair. I assume it's on Disney+ now right? It is now, yeah. I also don't
+
+511
+00:48:15,040 --> 00:48:20,080
+ know where it was broadcast Liz. I've only had Disney+ for like a year because I got it a
+
+512
+00:48:20,080 --> 00:48:25,600
+ year later than you did so I have not caught up with everything that was on Disney+. Oh no, yeah, that's
+
+513
+00:48:25,600 --> 00:48:30,000
+ that's fair, that's fair. Anyway, I think... Okay, so I think what I'm saying is I like what Andor does
+
+514
+00:48:30,000 --> 00:48:33,760
+ even if something else has already done it. I think they really lucked out with the fact that they
+
+515
+00:48:33,760 --> 00:48:40,320
+ kind of already had an actress who was Mon Mothma, but who is definitely up to the task of what she
+
+516
+00:48:40,320 --> 00:48:44,800
+ has to do in this one, which is, I don't know... It's very fascinating to watch the contrast
+
+517
+00:48:44,800 --> 00:48:52,800
+ between her, between Stellan Skarsgård's character, and Andor. And I think the only thing I've
+
+518
+00:48:52,800 --> 00:48:58,400
+ seen that I kind of agree with is some criticism that it feels more like a show which is interested
+
+519
+00:48:58,400 --> 00:49:06,560
+ in a wide range of characters, and maybe loses a bit of its focus on Andor, and I think
+
+520
+00:49:06,560 --> 00:49:13,200
+ Diego Luna does a great job of what is sometimes a very kind of underplayed... his role is quite
+
+521
+00:49:13,200 --> 00:49:20,080
+ underplayed, in that he has to do a lot of the heavy lifting. He never gets to do the big kind of like...
+
+522
+00:49:20,080 --> 00:49:26,640
+ Well there's sort of some big scenes and big monologues that other characters get and it
+
+523
+00:49:26,640 --> 00:49:32,000
+ feels like he gets a little bit short-changed on some of that? And has to do a lot just kind of
+
+524
+00:49:32,000 --> 00:49:36,800
+ from his expressions and from us watching him in some ways react to things. So that would be my
+
+525
+00:49:36,800 --> 00:49:41,760
+ one complaint is that sometimes I was a bit more interested in people who were not Andor rather
+
+526
+00:49:41,760 --> 00:49:46,960
+ than Andor. Which I probably shouldn't because it's his TV show. But that's a very minor complaint
+
+527
+00:49:46,960 --> 00:49:54,000
+ really. I think, and maybe I'm wrong... I think that one of the great things about Star Wars is like the
+
+528
+00:49:54,000 --> 00:49:59,280
+ people around the people we care about? Like, I don't think... the original trilogy wouldn't have been
+
+529
+00:49:59,280 --> 00:50:03,120
+ better if it focused more on Luke, and I don't think the sequel trilogy would have been better if
+
+530
+00:50:03,120 --> 00:50:07,760
+ it had focused more on Rey, and arguably I think one of the problems the prequel trilogy has is it focuses
+
+531
+00:50:07,760 --> 00:50:13,280
+ too much on Anakin. And so I think, in actuality, although I see what you mean, I think that's one
+
+532
+00:50:13,280 --> 00:50:20,080
+ of the strengths of Star Wars as a franchise. Is that although it is literally a series of stories
+
+533
+00:50:20,080 --> 00:50:26,640
+ about chosen ones, it doesn't focus on those chosen ones as much as it might. Like the focus is much
+
+534
+00:50:26,640 --> 00:50:32,480
+ less on the chosen one in any of the given movies than it is on the superhero in a Marvel
+
+535
+00:50:32,480 --> 00:50:38,160
+ movie for instance. And I think that is to Star Wars' credit. I will also say I don't understand
+
+536
+00:50:38,160 --> 00:50:45,120
+ how I skipped complimenting Diego Luna's acting, because he is great. Like, so good in this entire
+
+537
+00:50:45,120 --> 00:50:50,400
+ thing. He is so good, he nails it. And so I think you're right there, that in some places he does a
+
+538
+00:50:50,400 --> 00:50:55,600
+ lot with a little but I do wonder whether they knew he would and so they were able to do that. I
+
+539
+00:50:55,600 --> 00:50:59,280
+ wonder if they'd had a lesser actor they would have had to focus it more on Andor because
+
+540
+00:50:59,280 --> 00:51:04,400
+ there wouldn't have been as much there if they hadn't. It might be a, yeah... It might be an
+
+541
+00:51:04,400 --> 00:51:08,800
+ expression of trust in the actor, I guess. We liked Andor, listeners! I haven't liked it yet. I've only
+
+542
+00:51:08,800 --> 00:51:13,280
+ liked a tenth of it, or a twelfth of it. But I am expecting to like the rest. I'm very much looking
+
+543
+00:51:13,280 --> 00:51:19,360
+ forward to watching it. I have had to pause my ongoing Expanse watch in order to fit Andor in.
+
+544
+00:51:19,360 --> 00:51:26,880
+ This does beg a question, and the question it begs is is this better... I would argue this is
+
+545
+00:51:26,880 --> 00:51:31,520
+ probably going to get nominated for Best Long Form... because I don't think there's a standout
+
+546
+00:51:31,520 --> 00:51:37,840
+ episode, I think it's just a very tight 12 episode thing. And I would argue similar about Severance? So
+
+547
+00:51:37,840 --> 00:51:43,440
+ then my question is if this and Severance are on the Long Form ballot, which do you vote for?
+
+548
+00:51:43,440 --> 00:51:48,720
+ Um, Everything Everywhere All At Once. If it was between this and Severance which would you vote for? I've
+
+549
+00:51:48,720 --> 00:51:54,400
+ only seen one episode give me a chance. I think I did say that. Okay. Look, Alison has managed
+
+550
+00:51:54,400 --> 00:51:58,480
+ to watch all of Severance which means by Alison's standards it was extremely compelling because
+
+551
+00:51:58,480 --> 00:52:04,400
+ she's watched it in, you know, under a year. So, I mean it seems like Severance. Oh, yeah, no,
+
+552
+00:52:04,400 --> 00:52:10,560
+ could be argued... What about you, Liz? It's tricky, but I think I would probably go with Andor. But
+
+553
+00:52:10,560 --> 00:52:16,080
+ bear in mind I just literally finished watching Andor, so. I've literally not had a chance... As soon
+
+554
+00:52:16,080 --> 00:52:22,400
+ as I noticed Andor I started watching it and then we were prevented from watching more episodes by
+
+555
+00:52:22,400 --> 00:52:26,800
+ not being at home so we'll see a second ep. Ask me the next time how many episodes I've watched
+
+556
+00:52:26,800 --> 00:52:34,240
+ because it might be 12. I am going to be a bad Star Wars fan. I think I preferred Severance to Andor. If
+
+557
+00:52:34,240 --> 00:52:39,440
+ it was between the two I would vote for Severance. It would be a strange universe if John ends up
+
+558
+00:52:39,440 --> 00:52:45,200
+ voting for something non-Star Wars where I vote for a Star Wars thing, won't it. Yes. Come back in January
+
+559
+00:52:45,200 --> 00:52:50,240
+ when we're going to discuss this in more detail, guys. And that was the Octothorpe podcast. And it's goodbye
+
+560
+00:52:50,240 --> 00:53:06,160
+ from me. It's goodbye from me. And it's goodbye from me.
+
+561
+00:53:14,240 --> 00:53:20,800
+ I have an anti-pick for the logo which I hate with a fiery fiery passion because people talk about
+
+562
+00:53:20,800 --> 00:53:26,720
+ the effective use of negative space and this isn't it. This is how to do something clever with
+
+563
+00:53:26,720 --> 00:53:34,320
+ negative space and therefore make your logo unreadable and stupid. And apparently there was a logo for
+
+564
+00:53:34,320 --> 00:53:38,800
+ this that was released a couple of years ago that looks like a perfectly reasonable logo and now
+
+565
+00:53:38,800 --> 00:53:45,840
+ there's this logo which is unreadable and crap and oh god it's very annoying. I will say I disagree with
+
+566
+00:53:45,840 --> 00:53:51,440
+ Alison on the logo because I correctly read the logo and it says Andor. So I don't think it's
+
+567
+00:53:51,440 --> 00:53:59,120
+ unreadable. Hot take. I quite like the logo. I don't have strong feelings on it, I guess? I'm like a four out of
+
+568
+00:53:59,120 --> 00:54:07,760
+ ten. Yeah, my hot take is I don't care. The theme music for this episode was Fanfare for Space by
+
+569
+00:54:07,760 --> 00:54:13,520
+ Kevin Macleod at incompetech.com used under a Creative Commons Attribution 4.0 license.
+
+570
+00:54:13,520 --> 00:54:24,320
+ This podcast will end at the beep. Beeeep
+

@@ -1,0 +1,527 @@
+This is a transcript of Octothorpe 49: Not Sufficiently Sassy. You can hear the podcast at https://octothorpe.podbean.com/e/49-not-sufficiently-sassy/ (and see embedded subtitles if you wish) or in a podcast app of your choice. As three people who do not use transcripts ourselves, we would love to hear from anyone who has suggestions on how to make these more useful. Send suggestions, corrections, and other things to comment@octothorpecast.uk.
+
+Liz
+Oh wait, you've got Morris throat, I see. Um, podcasting? Shall we... Shall we do some?
+
+[music]
+
+John
+Hello everyone and welcome to the very 49th episode of Octothorpe, the podcast for science fiction and science fiction fandom, which is coming to you on the 20th of January 2022. Happy birthday Bella. I'm John Coxon.
+
+Alison
+I'm Alison Scott.
+
+Liz
+And I'm Liz Batty.
+
+John
+And we have an announcement for the start of the episode, which is every time that we say 2020 instead of saying 2021 and every time we say 2021 instead of saying 2022, you should take a drink. So please go and get your drink. We will wait. You back? Good. Get ready. And we have some letters of comment.
+
+Alison
+Are you drinking comfortably? Then we'll begin.
+
+Liz
+I mean, in fact, I think we have something better than a letter of comment, don't we?
+
+Alison
+We do have something better than a letter of comment. I'll put a photo in the chapter art. We got liquid of comment from our podcasting friends at This Never Happens. Um, the Cornish end of that. They sent us a beer from Polly's Brewery, which is somewhere in North Wales, called This Never Happened, which is a 13.1% quadruple IPA. I feel like there's only one can, but that's plenty for three of us. And hopefully we're going to drink it at Easter, if Liz gets over for Eastercon. And if Liz doesn't get over for Eastercon, John and I will drink it and then phone Liz drunkenly.
+
+John
+And tell her how nice it was.
+
+Alison
+At length. Drunkenly.
+
+John
+I did email Blue Bee Brewery because I found on Untappd that they do a beer called Octothorpe. But apparently it was a one-off beer and it was brewed over five years ago. So thanks to Josh at Blue Bee Brewery for telling me that. I'm very sad. If there are any brewers listening, please brew a beer called Octothorpe. It would be great.
+
+Alison
+And let us know. I think we're looking at you, Dave Mansfield.
+
+John
+Or Dave Coxon.
+
+Liz
+Don't just let us know, send us some.
+
+Alison
+Oh, Dave Coxon brews beer. So, so yeah, how many Octothorpe listeners brew beer? That would be good.
+
+John
+And why have none of you sent us any?
+
+Please brew beer called Octothorpe and send us some. That would be nice.
+
+John
+So it turns out that the demands we make on the podcast scale in magnitude linearly to the length of time we podcast. So, you know, by episode 200, we'll be asking for the Moon, but it started here with this request for beer.
+
+Alison
+A pony made of diamonds.
+
+John
+We did actually get a letter of comment from Dave Coxon, who I just mentioned that our comment about Xinjiang got him to thinking, is there a reason we don't have guest panellists on the podcast? And I think he was coming at it from the perspective that we said we didn't know much about that. And he said, well, you could always, you know, get someone who does. So this is something that we're going to talk about in an upcoming post on Cora Buhlert's blog. She has, she has asked us some questions about the Octothorpe philosophy, which she asked to a lot of people doing fannish content. And so we will pop a link in the show notes as and when those come out. Um, but basically we, yeah, we try not to have guests because it's not really what we're trying to do.
+
+Liz
+I'm strongly, strongly considering it though, because if we had a guest on, we'd have to start on time.
+
+John
+[laughs] Welp, that's us told. Savage. Right. Jonathan Baddeley writes in to say that Tedious NPC would make a great badge ribbon. This is, I think, inspired by the discussion we had last time where I said I was going to have my tedious MPC hat on, which is the Mark Protection Committee, an NPC is a non-player character, but tedious NPC is a great badge ribbon. So thank you, Jonathan, for writing in. We also had a comment from Ali Baker, who basically talked to us about the two panels that she was on at DisCon III and said it was really good that they got a lot of audience questions on both panels, because a big downside of being on a panel online is the lack of the feedback you would get from a live audience. And she says the campaign for normalizing emojis in Zoom chat starts here. You can kind of do reacts in Zoom. You can make clapping happen on your little video box, and when you're doing a panel, they can float up from the bottom, and it's all very good. But I do think more people need to know about this and use them. So yes, use emojis in your Zoom chat.
+
+Alison
+Ali was moderating that panel, but I was kind of the Zoom room host for it, and I thought it was a smashing panel, really enjoyed it. It was very late at night for the UK, like 11 o'clock or midnight or something. So that would be a great one to listen to again when the DisCon panels come out, which they will do super soon.
+
+John
+Kat Tanaka Okopnik says that Nice is not bidding for 2026, which gives us a little bit more time to squeeze in that viewing of Brice de Nice. So, you know, sad news that it's not going to be 2026, but I will still be cosplaying, people.
+
+Alison
+Several of our listeners wrote to talk about movies that they recommend if you want to have a big cry, and Fran Dowd talks about going to see Platoon with a bunch of veterans, and she says that she wasn't so much crying herself, but she was out in the lobby after 10 minutes running an impromptu therapy session with them. She had to go back again to watch the movie later. And Ang Rosin said she went to see Dead Poets Society on a date and was sobbing so much she couldn't walk. And Farah talks about Fried Green Tomatoes at the Whistlestop Cafe. I have never seen that, but I'm told it's a bit of a weepy.
+
+John
+Thank you everyone for writing in, those were brilliant.
+
+Alison
+After the last time's episode, I've been listening to podcasts and I'm going to talk about that a bit more later in the episode, but I particularly appreciated the sponsor read on Podside Picnic, and we're putting a link into the show notes. This is a Raytheon joke. And we had a bit of a chat last time about whether we could do a sponsor read for Octothorpe very much along these lines. I think they've done a better job of it. So, you know, props to you, Podside Picnic.
+
+John
+Chris Garcia wrote in and said he was going to bid a relaxafic, and he still might for 2024, and it might be at an actual hotel, and it will be programming light. I would come Chris, and also, Chris says on the time shifting of cons, a 24-hour Zoom hangout area would be great, and it would make cons a little nicer.
+
+Alison
+Yeah, so that leads back to the thing that I've been bleating on about for nearly two years at this point, which is that conventions need to let people know well in advance that the Zoom consuites exist and put things in them, because it's not like people can go, oh, I can just wander up to the consuite and see if people are there and grab some snacks and food and stuff and drinks, they need to have some reason to go in. But yeah, there was a hang out.
+
+Liz
+My response to Chris is: Chris, that is not a valid anagram.
+
+John
+Okay.
+
+Alison
+What was the anagram? 
+
+Liz
+He's tried to anagram, "Crimbo no", from Omicron, and it's like, no, there's no B in it, Chris.
+
+Alison
+Which is actually pronounced ombnicron.
+
+Liz
+No.
+
+[music]
+
+Liz
+So back in October, I don't think we mentioned it on the podcast, but Jason Sanford put on his Patreon a post about basically the difficulties, the financial difficulties specifically for international authors, and this came up again this week because of the news that Best African Speculative Fiction, Year's Best African SF, which is being edited by Ogenechovwe Donald Ekpeki, basically had their Kindle Direct Publishing account kind of deleted without recourse for breaking some rule that they didn't know they'd broken or may indeed not have broken. Basically one of these sort of automated algorithmic shutdowns of your account, at the point where they told a bunch of copies and were relying on the money in the account to, you know, pay royalties to the authors in it. We'll link to the thread, but basically it's just another example of the difficulties of being an author. It's specifically in some countries, and in this case, it seems likely that by being in Nigeria, this has triggered some algorithmic scrutiny because of Nigeria, you know, looking more suspect than other countries in some ways, but it also kind of goes hand in hand with the issues of, you know, if you can't access PayPal, then you can't use venues like Smashwords and, you know, essentially just the extra difficulties and hoops you have to jump through to be able to publish from outside the US or maybe even the UK are just much bigger than I think a lot of us really think about.
+
+Alison
+There are a whole pile of things that might be a bit dull here, but there's a lot of stuff about tax treaties and the fact that countries like the UK have very comfortable tax treaties with the US that mean that although you have a bit of paperwork to do, you won't actually have tax removed twice from your earnings. That doesn't mean to say that people in the US or the UK are immune to Amazon shutting down accounts randomly, but it does appear that this batch has mostly been in countries that are not traditional homes of the English-language science fiction publishing market. Quite a lot of people have been caught by this, but I think Ekpeki's the biggest example there. Then Amazon did come back and say, "We will reinstate your account as a one-time deal", but he was quite reasonably not persuaded by the language and tone that they used, because they were just like, "We might take it away again at any time", and this doesn't mean that you think you're doing the right thing or anything like that. It just means that a lot of friends have made a lot of noise on your behalf. It's not great.
+
+Liz
+No, and it clearly requires you, you know, you clearly have an advantage there if you have friends who can make noise on your behalf. So this is probably happening to a lot of people who do not have even recourse to discuss this on Twitter [Twitter was a social media website which was popular at the time - transcript Ed.] and maybe get some solution to it. I think what Sanford also goes into in his post is that there are sometimes alternatives to this if you can't be paid through PayPal or Venmo, but a lot of the time they charge huge transaction fees. So you're losing a massive chunk of your earnings just by trying to get them remitted to you in a currency you can use.
+
+Alison
+It's not uncommon for the major platforms to treat the use of those sorts of services as a red flag for their algorithms as well, so it doesn't necessarily help. These books include one of the books that we previously had as a pick on Octothorpe. And I think it's really important that it's possible for people to get hold of these books.
+
+John
+Yeah.
+
+[music]
+
+John
+Shall we go on to talking about hot goss?
+
+Alison
+So we had a few bits of follow-up about Worldcon. We're not quite done with Worldcon yet for one reason or another. So File 770 had a long thread about Winnipeg's possible NASFiC bid. I think we have two definite NASFiC bids which are Winnipeg and Orlando and that thread has a lot of people saying, but here's actually what went on in site selection at DisCon. So two things on that. First, if you're interested – which I probably think you aren't at this point, because we're all just moving on, aren't we? – then it's there and also, one of the things about all the people going here is what really went on is that these accounts do not correlate. It's like Rashomon for site selection.
+
+Liz
+I'm also really, I'm sure there was something I meant to mention from like Cheryl's Worldcon report and I will fish it out in a minute.
+
+Alison
+Oh yes, Cheryl Morgan's also done an enormously long Worldcon report, which is all about this.
+
+Liz
+Yeah, I think I found that thread very interesting, in particular because after the site selection business meeting fiasco, there then seemed to be quite a lot of comments in Facebook, File 770, Twitter, various places saying, you know, oh, you didn't know like the whole story. And what is evident is that we probably didn't know the whole story, possibly no one agrees on the whole story, but it all seems to require that you just have faith and trust that someone behind the scenes knows what's going on and we should just kind of almost leave them to it. It's very weird.
+
+John
+Yeah, a lot of people are like, you didn't know the whole story and everyone thinks that it was this and it's like, well, the reason people thought it was that is because it looked like that. And if you didn't want it to look like that, there is an element here of making sure you were communicating with people outside the convention who were watching to make it clear what was happening, but waiting three weeks and then saying, oh, it was actually this. That's not helpful. Say it's actually this at the point it's happening. There is a version of events here in which it was all very, you know, all very above board and all very done with good intentions. And it, you know, you might believe that that is true. But certainly, it's a lot harder to believe that that's true given that it's all being put together from post hoc rationalisations and, "Oh, actually, people have got the wrong end of the stick", instead of people standing up and being like, "Actually, we want to have a measured conversation about this and we're not trying to fix the vote". But certainly from the outside, it looked an awful lot like you were trying to fix the vote. And if you didn't want it to, you should have done it differently. It's not our fault that it looked like that. It's yours. I think is my basic perspective.
+
+Alison
+But here's one of my two takeaways on virtual and hybrid conventions for convention committees, which is especially on hybrid conventions. If you're running a hybrid convention, you need to think very hard all the time about how you're going to involve the people at the physical convention with the people at the online convention so that you don't end up with two totally separate conventions. Because if there had been a lot more people chatting who were physically at the convention with people who were not physically at the convention, this wouldn't have happened. And if you had designed ways of making that happen as part of your convention, you would have fostered that single-convention feeling. That's why it's so important and that's why people should do it.
+
+John
+Yes.
+
+Liz
+It's very hard though. Yeah.
+
+John
+It is. Oh yeah, it's very difficult.
+
+Alison
+I don't... I accept it might be hard, but at the moment nobody's properly tried it. So, you know.
+
+John
+No, yeah, fair enough. Spinning out from the subject of site selection, Steve Cooper has set up a mailing list to look at trying to address the problem of electronic site selection. And we will have a link in the show notes if you'd like to go and get involved with that.
+
+Alison
+I was quite in favour of using groups.io and the reason that I was is that although you think "mailing list", all the stuff is archived online. So it's a very good way of actually having a discussion that people can then follow back and trace through in a way that a traditional mailing list often isn't. But it is still a mailing list. That group is full of SMOFs. I mean, I guess that Steve Cooper has a lot of SMOFfy friends. But.
+
+John
+Who knew?
+
+Liz
+Who knew that a group devoted to like discussing the finer points of the WSFS Constitution was going to attract SMOFs?
+
+John
+And Chicon 8 have said about Hugo nominations that they will open later in January and will run through to mid-March 2022. All members of DisCon III and anyone who joined Chicon 8 before the 31st of January 2022 will be eligible to nominate in this year's Hugo Awards. And obviously, all members of Chicon 8 will be eligible to vote. So if you want to nominate and you're not a member of DisCon, join Chicon 8 before the end of this month. You've got about a week and a half at the point that this episode drops. 
+
+Alison
+That's a slightly later deadline than usual. This is why it's relevant. Normally, the cut-off for nomination rights is before nominations open. There's likely to be a slight overlap. I don't think it matters. They've pushed it back because DisCon was so much later than...
+
+Liz
+They've pushed it back, they've pushed the deadline back because we made a constitutional change to push the deadline back, right? As in the date when you have to join Chicon, sorry, have I got the wrong end of the stick?
+
+Alison
+Did we make a constitutional change? Am I just talking through my hat?
+
+Liz
+I think we made a constitutional change. But to check this, I will have to go and look at the WSFS...
+
+Alison
+It wouldn't be the first time I talk bollocks on the podcast.
+
+Liz
+Just so that's why I'm just going to do a little check. I think I was not really paying attention at that point at the business meeting or really not full attention, but I thought there was a constitutional amendment to amend this. Yeah, no, no, it's here. Section 3.7.1, they've crossed out member as of the end of the previous calendar year and it's now as of January 31st of the current calendar year. Sorry, that was garbled. But I think I was correct and I value factual accuracy above getting to my dinner 30 seconds faster. So.
+
+John
+Which section did you say it was Liz?
+
+Liz
+3.7.1.
+
+John
+3.7.1.
+
+Liz
+Anyway, it's also kind of irrelevant. The point is that you can still join and nominate in the Hugos.
+
+Alison
+Okay, so I sincerely apologise for talking bollocks on the podcast and I will endeavor never to do it again.
+
+Liz
+Oh god, clip that out, John.
+
+John
+Paying members can get that sound clip in the secret archive. The WSFS Constitution and deadlines for Hugo nominations bring us neatly onto the topic of the Hugo Awards and friend of the show, Nicholas Whyte, wrote quite a long response in answer to the questions we asked him last episode. So...
+
+Alison
+It's quite a long article. It's quite interesting and we're going to point you at it. Thank you very much, Nicholas. We very much appreciate it.
+
+Liz
+Yes, thank you for writing such a long and detailed response to our casual invocation of your name on the podcast.
+
+John
+The question that Nicholas Whyte answered for us is he answers a question about E Pluribus Hugo for us and whether or not it's vulnerable particularly to bullet nominations, which we discussed last time. And he also discusses the logic between what puts a finalist on the Long Form or Short Form Dramatic Presentation ballots. So if you're interested in either of those two things, we highly recommend going to read his write-up.
+
+Alison
+Very deep in that is Nicholas's confession that he's the person who wrote the explanation of EPH on the Finnish website that we linked to last time. So thanks for doing that, Nicholas, because that was a thing that allowed me to understand EPH. So this year's fanzine winner, Nerds of a Feather, has recused itself from the 2022 Hugos. File 770 writes quite an interesting piece about the history of doing this. File 770, of course, has permanently removed itself from consideration for Hugos. And I like the tradition. It's been going on for a little while, but what Nerds of a Feather have done and what a few other recent winners have done is recused themselves for just one year. So they don't say, "Never give us a Hugo again, chaps". They go, "Well, we've got a Hugo now. Next year, why don't you look at all the other great stuff that's going on in this space?" And what that does is break the tendency for people to nominate and vote for whatever won last year. And I think had this been a tradition back in 2005 and 2006, when Plokta won its Hugos, we might have recused ourselves for one year, because we did win the Hugo the following year, much to our surprise. And I think it was just the kind of positive feedback we got that after we won the Hugo the first time people went to go and look at the fanzine. And I think taking yourself out for a year and saying, "Now look at all the other stuff", especially in fannish categories, where the fact that there's a lot of stuff in the category is very much the point. We have a lot of good things and we want people to know what they are. So that was my thought on that. I like it. I'm glad they've done it. I'm glad that other fan winners do that and I encourage it.
+
+Liz
+I basically have not such strong feelings on this one. I can see both sides of the coin. One is that it's nice to recuse yourself because of that possible bounce just from being on the ballot year after year in some cases. But also, if you recuse yourself, then if people really do think you were the best fanzine, whatever, in that year and they can't vote for you, it means they have to vote something they think is not actually the best thing. So I can sort of see both sides. So I think maybe yeah, recusing yourself for a year, but not forever is a nice way to do it.
+
+John
+My perspective on this is that I very much like it when works recuse themselves and I have been advocating... I think I prefer the model where if you win a certain number of times, you permanently recuse yourself. So something I think I've said on the podcast before, but I do wish for instance that Uncanny would recuse themselves because although I think they're still doing fantastic work, I do think it would be better for the genre if other semiprozines got recognition. I was very glad that FIYAH Magazine won this year for that reason. And you look back in the history of the genre and there are certain other works that won repeatedly and possibly could have taken three rockets.
+
+Alison
+We're looking at you, Langford.
+
+John
+I was actually thinking thinking of Locus, but yes. But no, I think having a tradition where you feel able to recuse yourself is very good. I think this is one of the big problems with certain other awards is that when you suggest that people could recuse themselves if they don't want to win infinite awards, they look at you funny and say, "Ah, but that wouldn't be done." Which I kind of hugely disagree with and I think... But there is a point that is made and which Liz just made, which is, you know, do you want the award to be the best fanzine except for all the things that have recused themselves or do you want it to be the objectively best fanzine? And my response to that criticism would be, if you want it to be objectively the best fanzine, well, firstly, that's impossible, but secondly, you're a lot more likely to get that if you have a juried award than a popular one, I would argue. And so I think the Hugo have never really been about awarding the objectively best thing. And so it always kind of seemed like an odd argument to me.
+
+Alison
+But also, I think this was a much better argument in a year when an enthusiastic fanzine reader could thoroughly survey the field and have a pretty good idea of what was out there and what and what things people thought were good. But now we've got multiple different communities doing multiple different sorts of things. And I think the more we can do to bring more different good things to everybody's attention, the better.
+
+John
+On that topic, we're going to be trying to promote things that we think are good in the SFnal community through the next year.
+
+Alison
+I'm really liking Hugo, Girl!, which is a terrible pun, but also quite a good podcast. And they were directly below us in the...
+
+John
+It's a great pun.
+
+Alison
+It's a great pun. They were directly below us in the longlist. And this is a podcast where three feminists talk about Hugo-winning things and Hugo-nominated things from a feminist perspective. And the one that I've listened to and really enjoyed this week is their one on the first of the Expanse novels, which of course I haven't read, but because I've seen the whole of the first series now, I felt well, it can't spoil me too much. And indeed, it did not. It was fine because they're coming at it from a feminist point of view they point out all of the things that you might expect them to point out in a novel from a little while ago that was written by a couple of bros and was intending to be men's adventure fic. And I'm sorry for stealing all your jokes, guys, but they make a joke about how this is categorised by Amazon as men's adventure fiction. And so they went, well, what on earth would women's adventure fiction be? And they looked it up and they discovered that it was all the same books in the top 10 places. It turns out that if you like adventure fiction, then your gender is not particularly germane to the sort of thing you like. Yeah, so it's very funny, really enjoyed it. And I would recommend that you check it out if you like that sort of thing. There is a problem with, for me, with podcasts that talk about works that I don't much like to be spoiled for them. So I only like the ones that I've already read. And as we know, Bob, I don't read enough science fiction.
+
+Liz
+Yeah, I mean, Alison has not entirely stolen my thunder, but I have also been listening to some episodes of Hugo, Girl!, which I cannot say it in the right way to like do the sassy joke.
+
+John
+Hugo, Girl!?
+
+Liz
+Yeah, no. And yeah, I like it.
+
+John
+Liz is not sufficiently sassy. And that is the title of the episode. Boom!
+
+Liz
+Not sufficiently sassy.
+
+Alison
+You haven't seen her when she's hungry, have you?
+
+Liz
+That is hangry and not sassy, Alison. Yeah, I haven't actually caught the one about Leviathan Wakes. But yes, I can see that they probably have many of the same criticisms I have of Leviathan Wakes, which the Expanse TV adaptation in some ways mitigates by pulling in some stuff from like later books in order that there are more ladies in the cast. Yeah, I listened to their episode recently on Dragonflight by Anne McCaffrey, which is, you know, one of those books where, when I read it when I was like 13, it was great. And if you read it when you are not 13, it is maybe less great. But they do a really interesting job, I think, of trying to say, look, this is not like typical of the time, but let's look at the context of when it won, and let us look at the context of, you know, some of society at the time. And I think, you know, they're not excusing it, but they are saying, let us put it into context, and maybe these are things that were considerations that I hadn't thought about. So I thought that was a very interesting listen. I would like to ask you, John, is their logo a misappropriation of the Hugo trademark or whatever it is? Hugo service mark?
+
+John
+No, I don't think so.
+
+Alison
+No, it's a parody work, and it's clearly fine in context.
+
+Liz
+Yeah, I know I'm making, I'm making another Mark Protection joke, because I like them.
+
+John
+This is not as funny as you hoped it would be.
+
+Liz
+No, it's not.
+
+John
+Because I am very tedious. With my tedious MPC hat on.
+
+Liz
+Yeah, I was hoping we get some comedy gold out of that, and... and we did not.
+
+Alison
+Tedious MPC corner.
+
+Liz
+I think we need to move on. I mean, I do. I like also that it is. It's not just kind of, you know, going back through the Best Novel over time. It is, you know, jumping about in time and picking up, looking up really, you know, lesser known works I haven't read like some of the Retro Hugo nominees, things like that. I find more interesting than just if we were going to do like, you know, the past 20 years of Best Novel.
+
+Alison
+But anyway, they're great. Would get a vote from me, a nomination from me. If I, I don't know, I might find more than six things by the time we get round to nominating. Who knows?
+
+Liz
+Well you're only allowed to nominate five, so.
+
+John
+Fan Achievement Awards have opened for voting. These are the achievement awards given by fanzine fans to fanzine fans. And there is a list, An Incompleat Register 2021, which has been published by Nic Farey, who is the administrator of the FAAN awards. And that tells you what the categories you can vote in are and gives you some examples of fanzines that you could vote for.
+
+Alison
+And normally I would say by fanzine fans, they mean traditional fanzine fans, but clearly in this case, they know what they mean because they've said what a fanzine is. And so therefore you can deduce what a fanzine fan is.
+
+John
+Yes, a fanzine for our purposes is defined as an immutable artefact once published, not subject to revision or modification. The fanzine might not exist in a physical form. A PDF, for example, is an artefact.
+
+Alison
+And what that means, I think, is that Octothorpe is a fanzine.
+
+John
+Yes. 
+
+Alison
+We're an artefact, right?
+
+John
+We are an artefact. Certainly...
+
+Alison
+We do not exist in a physical form. I mean, we exist in a physical form, but the podcast doesn't. So if a PDF is an artefact, then...
+
+John
+I'm actually made of pure energy, especially if I've had enough coffee.
+
+Alison
+That explains so much.
+
+Liz
+I mean, if a PDF is an artefact, then an MP3 is presumably also an artefact.
+
+Alison
+Yeah, clearly, if a PDF is an artefact, then the MP3 is an artefact and we are a fanzine for the purposes of the FAAN awards. And what's really interesting is the sort of fanzine we are because they also go on to define genzine and perzine. And for the benefit of listeners who might not be voting in the FAAN awards... Please don't vote in the FAAN awards unless you are part of the community that votes in the FAAN awards. A genzine is traditionally a kind of bigger zine maybe with a few editors. I mean, something like Journey Planet is clearly a genzine. Lots of different editors, lots of different stuff. It's a genzine. A perzine is traditionally something where somebody talks about their harrowing divorce in some detail. That's your perzine, right? And obviously, there's a gap between those. So they've also decided to define the difference between perzine and genzine. And they've described perzine as a fanzine, which typically has few, if any, contributors other than its editors. So, was it Dave Coxon who asked why we didn't have interviews? Because the answer is, if we had interviews, we would be a genzine. But as we don't, we're a perzine because there's three of us and we do it all ourselves.
+
+Liz
+Actually, John does it all.
+
+Alison
+So when you're voting for the FAAN awards, remember that we... Octothorpe is a perzine.
+
+John
+So, just to clarify for those who are confused as to where these words come from, a genzine is a general interest fanzine and a perzine is a personalised fanzine, according to Fancyclopedia. And that kind of is why you have these two different feels of zine and where the words originally came from.
+
+Alison
+But those are not the same definitions as the one that Nic has used in The Incompleat Register for the FAAN awards, so but anyway.
+
+John
+So Bill Burns said in the comments of the File 770 discussion of this, that by these definitions, they reverse the present perversion of the Fan Hugos. So that's good. And I think it is... It's very forward-looking to make sure that kind of it doesn't matter what the kind of, you know, whether you're writing something down or saying it out loud, it still counts as a fanzine. I think that is kind of a really good idea.
+
+Alison
+Yeah, well done. Well done, forward-thinking FAAN award administrator Nic Farey.
+
+John
+I don't know whether it was Nic that came up with it. I assume it... I don't know whether is this the first time this is the definition. Do we know?
+
+Alison
+Nic, if you're listening, please write in.
+
+John
+Yes. Or anyone else who is involved with the FAAN awards.
+
+Alison
+Because I don't know the answer to that. And I don't want to look it up now because Liz will never get her dinner.
+
+John
+And then on the subject of defining awards, Alison has joined a Discord. And usually this would not be news for the podcast. But in this case, it is.
+
+Alison
+I have joined the Hugo Awards Study Committee Discord. The business meeting remitted the Hugo Awards Study Committee to go away and look at best audiobook and also a couple of other things. And in general, consider whether any changes were needed to Hugo category definitions and report back next year with some proposals. So the chair is appointed by the business meeting and then the chair gets to appoint other people. The chair wants to have a good and open discussion but doesn't want to open it up to the entire set of people on the internet who might be interested in Hugos. I mean, I think he basically doesn't want a hundred... He doesn't want a cheering squad for Best Audiobook to turn up or something like that. He wants to get people who will consider carefully and dispassionately what sorts of things are needed and why. However, he's given us an email that you can get in touch, if you're interested. So thank you Cliff. That was very helpful. Cliff Dunn is the chair. So far it's been very, I think, pretty civilised. People have come up with some things in a number of categories. As we know, Bob, I am very interested in making sure that a good proposal for Best Game goes to the business meeting along with a big following wind of people who think that it's a good idea amongst the people who will be at the business meeting in Chicago. So that's one of the reasons I'm there. But I'm also going to watch and if there's anything very interesting coming out of it, I will report back.
+
+Liz
+Are you allowed to report back?
+
+Alison
+Doesn't say I can't.
+
+Liz
+What are those funny rules? Chatham House rules? How Chatham House rules is it?
+
+Alison
+They haven't said it's Chatham House rules. Well I'm not going to say...
+
+Liz
+You know, XYZ said exactly this.
+
+Alison
+Chatham House rules, incidentally, allow you to report things just not with... not attributed things. Yeah. I mean, I don't think I'm not attending to cut and paste stuff out of the Discord.
+
+Liz
+Yeah, I mean, my thought is just like, it feels like the Hugo Award Study Committee has lost a bunch of momentum. I mean, fair enough, pandemic and all that. But it kind of did some big reporting probably in 2019 and then really hasn't kind of done much since then. So it would be good to get some stuff, some good proposals out over this year.
+
+Alison
+I need to rewind. It is not a standing committee. I'm actually surprised John didn't pitch in here. The Hugo Award Study Committee is not a standing committee of WSFS, which only has one standing committee, which is the Mark Protection Committee.
+
+John
+Depends how you count.
+
+Alison
+It is instead an ad hoc committee and it comes and goes and it has gone away for a bit and now it is back.
+
+Liz
+Did it go away or did they just keep renewing it and it didn't do anything?
+
+Alison
+No, it reported and then it went away. So this business meeting appointed a new chair who I think was the same as the old chair.
+
+John
+To get an answer, we'd have to look through lots of minutes of business meetings to find out when various committees were done and we've been recording for fifty-five minutes. So we're not going to do that.
+
+[music]
+
+Alison
+So I don't really believe in New Year's resolutions but I have a lot of them. I don't believe in them. John has been going on about the way in which I never read science fiction and I thought, you know, you're not wrong. We have picks to do every fortnight on Octothorpe but I thought it would be quite good if at least half of those picks were science fiction books or fantasy books. That's like... that commits me to 13 books in 2022 so that's not impossible. And I also have a load of things around, you know, eating better and doing more exercise and getting more sleep and drinking less beer and all the normal sorts of New Year's resolution things. And I have resolved to play somewhat fewer mindless video games. I don't know whether it will work. So that's where I'm going to get a load of new time from. It's going to be good.
+
+John
+I had some New Year's resolutions in 2021 which were to publish 12 issues of Lulzine, which I did. And to get an app in the App Store which I didn't but I did get it into beta testing so I feel like...
+
+Alison
+It's why I'm drinking less alcohol John.
+
+John
+Yay. So my resolutions are broadly similar. The Lulzine one's gotten off to a little bit of a bad start because we haven't yet commissioned an article for the first issue of 2022. If you want to write something about funny things please write in, listeners, because that would be useful. But yeah so kind of keep plugging on with the fanac and keep plugging on with my app. So that'll be good hopefully. I've also got my standard board game challenge which I don't really think of as a New Year's resolution but which I guess is and this year I'm going to play 10 games 10 times. Last year I just played games 100 times and was not limited to like you know from these games but this time I'm doing what's called a 10 by 10 challenge in the community to try and get some of my games that I have a lot of expansions for to the table more often so I will report back as we go through the year.
+
+Alison
+I am also doing board games and I did a 22 by 10 challenge which sounds like an awful lot.
+
+John
+She's mad.
+
+Alison
+But in fact they're solo, print-and-play, roll-and-write games and a lot of them are very very quick so I think it's going to be okay but I don't know yet I'll report back. Yeah so board games are also a challenge for me and I'm not actually buying... well I bought a few of them but I'm not printing any of them. I'm doing them all on my iPad so it's kind of a... it's trying to give me board games without the actual buying big cardboard boxes that then sit in my house for the rest of time part of the whole board game experience which is a problem for me.
+
+John
+The board games I'm going to be playing are Android: Netrunner, Legendary: Marvel, Mansions of Madness, Marvel: Champions, Star Wars: Destiny, Under Falling Skies, Arkham Horror (3rd Edition), Star Wars: X-Wing, Star Wars: Imperial Assault and Arkham Horror: The Card Game and I am seven games into my hundred games so far so I am ahead of the curve. But yeah. It's going well. I'm enjoying it. Haven't played X-Wing in ages so it was good to kind of get back on that horse and try out the new rules which was cool.
+
+Liz
+Are there horses in the Star Wars universe?
+
+John
+There are dogs.
+
+Alison
+There are like those Tauntaun things.
+
+John
+No but there are literally dogs because the novelisation of Star Wars: A New Hope Luke says that he misses his dog. True fact. Doesn't say space dog, just dog. Also Earth is in the Star Wars universe because of the Star Tours ride so Wookiepedia has entries for both dogs and Earth. Fact. Liz do you have any New Year's resolutions?
+
+Liz
+I don't really do New Year's resolutions. I think I am less driven by being able to tick stuff off than you guys are so I don't generally do them. I do always set myself like a Goodreads number of books I would quite like to read and then quite often don't make it but I have done that again this year and set myself, you know, a target of 80 books.
+
+Alison
+How is that not ticking things off?
+
+John
+It is, she just thinks it isn't.
+
+Liz
+It is and I do record like the books... it's mostly to make me record the books I read so I can remember what I've read but if I don't get to 80 I don't actually mind. Like I sort of treat it as that would be a nice number.
+
+Alison
+Oh yes I should say that's also true of my New Year's resolutions that I don't beat myself up too much when I fail, which I inevitably do.
+
+John
+For me it's the choice between having some sort of vague goal for the year or just spending the entire time aimlessly scrolling on Facebook and I'd rather have a vague goal but I'm not going to, you know, cry in a corner for a day if I don't meet the vague goal I just find it useful to have some structure.
+
+Liz
+Yeah I just aimlessly scroll on Facebook.
+
+John
+Winning! Should we do picks?
+
+Liz
+Why not?
+
+Alison
+I have read a science fiction book. It's a 2021 science fiction book so... but it's not a novel I mean there will be more novels I'm sure but this is Sinopticon, a celebration of Chinese science fiction translated and edited by Xueting Christine Ni and you're going to need to go and get it from a website that I will definitely put in the show notes because I don't think it's generally distributed. It is a collection of... or it's an anthology of 13 stories and they have like little afterwords from the editor and translator where she's explained why she chose to put those ones in which is also very interesting. And I like the fact they're afterwords because sometimes I read the story going, "Oh no they're not going there". I mean so it's extremely interesting because of all the cultural stuff. As science fiction some of the stories are more interesting than others. Some of the stories are interesting in the way that they've chosen a science fictional trope to illustrate a facet of Chinese society which I think is really really good. It's all sorts of different things in here. There are old stories, new stories, forward-thinking stories, incredibly backwards-thinking stories. There's a lot of stuff that reads in a very heteronormative way compared to what you'd expect in modern science fiction now so some of it really feels like it's reflecting some of the science fiction of my youth and I really enjoyed it and I would strongly recommend it.
+
+Liz
+I read She Who Became the Sun by Shelley Parker Chan which is a 2021 fantasy novel and it mainly is an interesting counterpoint to what you were just saying Alison because it is basically a retelling of the founding of the Ming dynasty but a very genderqueer one so it's all set in the China of the 14th century and it follows, basically, a peasant daughter who is told that her fate is to be nothing but when her brother dies, whose fate was to be great, she decides to essentially take over his identity. She takes his name. So Zhu Chongba then goes and joins a monastery, ends up joining the rise of the rebels against the Mongol Emperor. All the while disguised as her brother. And then kind of the opposing figure in the novel is the general who commands the Mongol forces, Ouyang, who is a eunuch. So essentially you have like these two opposing forces who both have very different kind of responses to their gender and how people see them and how people view them and treat them and how they personally feel about it and just kind of... It's a very nice way of putting a different interpretation on this kind of known historical setting. It is fantasy but quite lightly fantasy I would say. The main thing is that the main character can see ghosts and there is this idea that you get a mandate from heaven to rule which is actually kind of manifested as a physical flame. So that's the kind of fantasy elements other than that it's just kind of this big sort of historical epic of armies and battles and political machinations and assassinations and conquering and trying to essentially take over the entire empire but I think you have these two very interesting central characters. So I read that, I enjoyed that. It is the first one of a series but I think it works fairly well as a standalone in that you get you know the first chunk of the rise to power and you know you can see what's going to happen... You can see that the next book will be about the next stage of the rise to power but you you're happy with it as a standalone and it is also a 2021 book and I think Shelley Parker Chan is also eligible for the Astounding Award.
+
+John
+You guys are reading your old science fiction from last year but I'm here to do a pick from this year like a modern person because I watched the finale of The Expanse and I very much enjoyed it. It's done, it's finished, with a slight asterisk because I think they might be trying to make more but I'm not sure how that's going to go. But yes, it wrapped up and I thought it was good I thought they mostly stuck the landing. There are a few things that happen in season six which kind of obliquely referred things that are being set up for the later books and I think they are going to try to get the later books made in some form or another but I'm not quite sure how that's going to work. But in general I thought despite that being a little bit of a annoying thing in the last season, the last season was very good and I really enjoyed myself and really enjoyed watching it all come to an end. And certainly one of the better endings I've seen in SF genre TV series in well... Really since I've been paying attention, but yes, it kind of didn't set all fandom on fire immediately which for a long-running science fiction TV show is actually pretty good going. Looking at you, Game of Thrones. Looking at you, Lost. Looking at you, Battlestar Galactica. So yes, hurrah! Didn't screw it up! Well done, guys.
+
+Liz
+I was gonna say, "Looking at you, Mass Effect trilogy", the ending so bad they had to patch it out.
+
+John
+That was the Octothorpe podcast and it's goodbye from me.
+
+Alison
+It's goodbye from me.
+
+Liz
+And it's goodbye from me.
+
+[music]
+
+John
+I think that's it, really. We could do, "That was the Octothorpe podcast", and then Liz can eat.
+
+Liz
+It's all right it's only 6:45 I'm not gonna get hangry till 7.
+
+John
+Excellent! Let's doss about for 15 minutes and really push our luck. No!
+
+Liz
+I have just found on Shelley Parker Chan's website little pronunciations of the character names so I'm just gonna check in case I you have to drop in Ouyang. You probably do. It should be Ouyang. You probably can't drop that in but anyway I just thought I'd mention that as it's super neat because I was like I do not know properly how to pronounce these names and I had not known that was there but it's a just a neat thing at the bottom of the press kit. It's like, here is how you pronounce the five main characters.
+
+John
+The theme music for this episode was Fanfare for Space by Kevin Macleod at incompetech.com used under a Creative Commons Attribution 4.0 license.
+
+Liz
+This podcast will end at the beep.
+
+John
+Beeeep
+

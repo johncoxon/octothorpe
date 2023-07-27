@@ -1,0 +1,1903 @@
+1
+00:00:00,000 --> 00:00:08,000
+ Oh wait, you've got Morris throat, I see. Um, podcasting? Shall we... Shall we do some?
+
+2
+00:00:08,000 --> 00:00:27,760
+ Hello everyone and welcome to the very 49th episode of Octothorpe, the podcast for science
+
+3
+00:00:27,760 --> 00:00:34,080
+ fiction and science fiction fandom, which is coming to you on the 20th of January 2022.
+
+4
+00:00:34,080 --> 00:00:39,680
+ Happy birthday Bella. I'm John Coxon. I'm Alison Scott. And I'm Liz Batty.
+
+5
+00:00:39,680 --> 00:00:46,640
+ And we have an announcement for the start of the episode, which is every time that we say 2020
+
+6
+00:00:46,640 --> 00:00:53,680
+ instead of saying 2021 and every time we say 2021 instead of saying 2022, you should take a drink.
+
+7
+00:00:53,680 --> 00:01:00,400
+ So please go and get your drink. We will wait. You back? Good. Get ready. And we have some letters
+
+8
+00:01:00,400 --> 00:01:05,280
+ of comment. Are you drinking comfortably? Then we'll begin. I mean, in fact, I think we have
+
+9
+00:01:05,280 --> 00:01:09,680
+ something better than a letter of comment, don't we? We do have something better than a letter of
+
+10
+00:01:09,680 --> 00:01:17,360
+ comment. I'll put a photo in the chapter art. We got liquid of comment from our podcasting friends
+
+11
+00:01:17,360 --> 00:01:23,120
+ at This Never Happens. Um, the Cornish end of that. They sent us a beer from Polly's Brewery,
+
+12
+00:01:23,120 --> 00:01:31,600
+ which is somewhere in North Wales, called This Never Happened, which is a 13.1% quadruple IPA.
+
+13
+00:01:31,600 --> 00:01:37,040
+ I feel like there's only one can, but that's plenty for three of us. And hopefully we're
+
+14
+00:01:37,040 --> 00:01:41,440
+ going to drink it at Easter, if Liz gets over for Eastercon. And if Liz doesn't get over for
+
+15
+00:01:41,440 --> 00:01:47,520
+ Eastercon, John and I will drink it and then phone Liz drunkenly. And tell her how nice it was.
+
+16
+00:01:48,320 --> 00:01:54,560
+ At length. Drunkenly. I did email Blue Bee Brewery because I found on Untappd that they do a beer
+
+17
+00:01:54,560 --> 00:01:59,840
+ called Octothorpe. But apparently it was a one-off beer and it was brewed over five years ago.
+
+18
+00:01:59,840 --> 00:02:04,720
+ So thanks to Josh at Blue Bee Brewery for telling me that. I'm very sad. If there are any
+
+19
+00:02:04,720 --> 00:02:10,560
+ brewers listening, please brew a beer called Octothorpe. It would be great. And let us know. I
+
+20
+00:02:10,560 --> 00:02:16,080
+ think we're looking at you, Dave Mansfield. Or Dave Coxon. Don't just let us know,
+
+21
+00:02:16,080 --> 00:02:22,160
+ send us some. Oh, Dave Coxon brews beer. So, so yeah, how many Octothorpe listeners brew beer?
+
+22
+00:02:22,160 --> 00:02:27,760
+ That would be good. And why have none of you sent us any? Please brew beer called Octothorpe
+
+23
+00:02:27,760 --> 00:02:34,000
+ and send us some. That would be nice. So it turns out that the demands we make on the podcast
+
+24
+00:02:34,000 --> 00:02:39,280
+ scale in magnitude linearly to the length of time we podcast. So, you know, by episode 200,
+
+25
+00:02:39,280 --> 00:02:43,440
+ we'll be asking for the Moon, but it started here with this request for beer.
+
+26
+00:02:43,440 --> 00:02:50,400
+ A pony made of diamonds. We did actually get a letter of comment from Dave Coxon, who I just
+
+27
+00:02:50,400 --> 00:02:55,520
+ mentioned that our comment about Xinjiang got him to thinking, is there a reason we don't have
+
+28
+00:02:55,520 --> 00:02:59,840
+ guest panellists on the podcast? And I think he was coming at it from the perspective that we said
+
+29
+00:02:59,840 --> 00:03:04,800
+ we didn't know much about that. And he said, well, you could always, you know, get someone who does.
+
+30
+00:03:04,800 --> 00:03:11,600
+ So this is something that we're going to talk about in an upcoming post on Cora Buhlert's blog.
+
+31
+00:03:11,600 --> 00:03:15,440
+ She has, she has asked us some questions about the Octothorpe philosophy,
+
+32
+00:03:15,440 --> 00:03:20,160
+ which she asked to a lot of people doing fannish content. And so we will pop a link in the show
+
+33
+00:03:20,160 --> 00:03:25,760
+ notes as and when those come out. Um, but basically we, yeah, we try not to have guests because
+
+34
+00:03:25,760 --> 00:03:29,920
+ it's not really what we're trying to do. I'm strongly, strongly considering it though, because if we
+
+35
+00:03:29,920 --> 00:03:37,120
+ had a guest on, we'd have to start on time. Welp, that's us told.
+
+36
+00:03:39,680 --> 00:03:48,400
+ Savage. Right. Jonathan Baddeley writes in to say that Tedious NPC would make a great badge ribbon.
+
+37
+00:03:48,400 --> 00:03:55,360
+ This is, I think, inspired by the discussion we had last time where I said I was going to have
+
+38
+00:03:55,360 --> 00:04:00,240
+ my tedious MPC hat on, which is the Mark Protection Committee, an NPC is a non-player character,
+
+39
+00:04:00,240 --> 00:04:06,640
+ but tedious NPC is a great badge ribbon. So thank you, Jonathan, for writing in. We also had
+
+40
+00:04:06,640 --> 00:04:12,880
+ a comment from Ali Baker, who basically talked to us about the two panels that she was on at
+
+41
+00:04:12,880 --> 00:04:18,960
+ DisCon III and said it was really good that they got a lot of audience questions on both panels,
+
+42
+00:04:18,960 --> 00:04:24,400
+ because a big downside of being on a panel online is the lack of the feedback you would get from
+
+43
+00:04:24,400 --> 00:04:29,440
+ a live audience. And she says the campaign for normalizing emojis in Zoom chat starts here.
+
+44
+00:04:30,160 --> 00:04:38,000
+ You can kind of do reacts in Zoom. You can make clapping happen on your little
+
+45
+00:04:38,000 --> 00:04:43,200
+ video box, and when you're doing a panel, they can float up from the bottom, and it's all very
+
+46
+00:04:43,200 --> 00:04:48,880
+ good. But I do think more people need to know about this and use them. So yes, use emojis in your
+
+47
+00:04:48,880 --> 00:04:54,960
+ Zoom chat. Ali was moderating that panel, but I was kind of the Zoom room host for it, and I thought
+
+48
+00:04:54,960 --> 00:05:01,680
+ it was a smashing panel, really enjoyed it. It was very late at night for the UK, like 11 o'clock
+
+49
+00:05:01,680 --> 00:05:06,320
+ or midnight or something. So that would be a great one to listen to again when the
+
+50
+00:05:06,320 --> 00:05:12,080
+ DisCon panels come out, which they will do super soon. Kat Tanaka Okopnik, says that Nice is
+
+51
+00:05:12,080 --> 00:05:16,960
+ not bidding for 2026, which gives us a little bit more time to squeeze in that viewing of
+
+52
+00:05:16,960 --> 00:05:22,960
+ Brice de Nice. So, you know, sad news that it's not going to be 2026, but I will still be cosplaying,
+
+53
+00:05:22,960 --> 00:05:30,160
+ people. Several of our listeners wrote to talk about movies that they recommend if you want to have
+
+54
+00:05:30,160 --> 00:05:40,560
+ a big cry, and Fran Dowd talks about going to see Platoon with a bunch of veterans, and she says that
+
+55
+00:05:40,560 --> 00:05:44,560
+ she wasn't so much crying herself, but she was out in the lobby after 10 minutes running an
+
+56
+00:05:44,560 --> 00:05:48,800
+ impromptu therapy session with them. She had to go back again to watch the movie later. And
+
+57
+00:05:49,360 --> 00:05:55,520
+ Ang Rosin said she went to see Dead Poets Society on a date and was sobbing so much she couldn't
+
+58
+00:05:55,520 --> 00:06:01,440
+ walk. And Farah talks about Fried Green Tomatoes at the Whistlestop Cafe. I have never seen that,
+
+59
+00:06:01,440 --> 00:06:06,800
+ but I'm told it's a bit of a weepy. Thank you everyone for writing in, those were brilliant.
+
+60
+00:06:06,800 --> 00:06:11,040
+ After the last time's episode, I've been listening to podcasts and I'm going to talk about that
+
+61
+00:06:11,040 --> 00:06:17,840
+ a bit more later in the episode, but I particularly appreciated the sponsor read on Podside Picnic,
+
+62
+00:06:17,840 --> 00:06:24,320
+ and we're putting a link into the show notes. This is a Raytheon joke. And we had a bit of a chat
+
+63
+00:06:24,320 --> 00:06:29,440
+ last time about whether we could do a sponsor read for Octothorpe very much along these lines.
+
+64
+00:06:29,440 --> 00:06:34,480
+ I think they've done a better job of it. So, you know, props to you, Podside Picnic.
+
+65
+00:06:34,480 --> 00:06:39,600
+ Chris Garcia wrote in and said he was going to bid a relaxafic, and he still might for 2024,
+
+66
+00:06:39,600 --> 00:06:47,200
+ and it might be at an actual hotel, and it will be programming light. I would come Chris, and also,
+
+67
+00:06:47,200 --> 00:06:51,840
+ Chris says on the time shifting of cons, a 24-hour Zoom hangout area would be great,
+
+68
+00:06:51,840 --> 00:06:58,000
+ and it would make cons a little nicer. Yeah, so that leads back to the thing that I've been
+
+69
+00:06:58,000 --> 00:07:02,320
+ bleating on about for nearly two years at this point, which is that conventions need to
+
+70
+00:07:02,320 --> 00:07:09,200
+ let people know well in advance that the Zoom consuites exist and put things in them, because
+
+71
+00:07:09,200 --> 00:07:13,680
+ it's not like people can go, oh, I can just wander up to the consuite and see if people are there and
+
+72
+00:07:13,680 --> 00:07:19,680
+ grab some snacks and food and stuff and drinks, they need to have some reason to go in.
+
+73
+00:07:19,680 --> 00:07:24,320
+ But yeah, there was a hang out. My response to Chris is: Chris, that is not a valid anagram.
+
+74
+00:07:24,320 --> 00:07:27,120
+ Okay. What was the anagram? He's tried to anagram,
+
+75
+00:07:27,120 --> 00:07:31,040
+ "Crimbo no" from Omicron, and it's like, no, there's no B in it, Chris. Which is actually
+
+76
+00:07:31,040 --> 00:07:32,640
+ pronounced ombnicron. No.
+
+77
+00:07:39,440 --> 00:07:45,280
+ So back in October, I don't think we mentioned it on the podcast, but Jason Sanford put on his
+
+78
+00:07:45,280 --> 00:07:51,200
+ Patreon a post about basically the difficulties, the financial difficulties specifically for
+
+79
+00:07:51,200 --> 00:07:57,200
+ international authors, and this came up again this week because of the news that
+
+80
+00:07:57,200 --> 00:08:02,960
+ Best African Speculative Fiction, Year's Best African SF, which is being edited by
+
+81
+00:08:02,960 --> 00:08:09,440
+ Ogenechovwe Donald Ekpeki, basically had their Kindle Direct Publishing account kind of deleted
+
+82
+00:08:09,440 --> 00:08:14,240
+ without recourse for breaking some rule that they didn't know they'd broken or may indeed not
+
+83
+00:08:14,240 --> 00:08:18,080
+ have broken. Basically one of these sort of automated algorithmic shutdowns of your account,
+
+84
+00:08:18,080 --> 00:08:22,880
+ at the point where they told a bunch of copies and were relying on the money in the account to,
+
+85
+00:08:22,880 --> 00:08:26,880
+ you know, pay royalties to the authors in it. We'll link to the thread, but basically it's
+
+86
+00:08:26,880 --> 00:08:32,480
+ just another example of the difficulties of being an author. It's specifically in some countries,
+
+87
+00:08:32,480 --> 00:08:37,920
+ and in this case, it seems likely that by being in Nigeria, this has triggered some algorithmic
+
+88
+00:08:37,920 --> 00:08:43,440
+ scrutiny because of Nigeria, you know, looking more suspect than other countries in some ways,
+
+89
+00:08:43,440 --> 00:08:47,280
+ but it also kind of goes hand in hand with the issues of, you know, if you can't access PayPal,
+
+90
+00:08:47,280 --> 00:08:52,720
+ then you can't use venues like Smashwords and, you know, essentially just the extra difficulties
+
+91
+00:08:52,720 --> 00:08:58,720
+ and hoops you have to jump through to be able to publish from outside the US or maybe even the UK
+
+92
+00:08:59,280 --> 00:09:02,880
+ are just much bigger than I think a lot of us really think about.
+
+93
+00:09:02,880 --> 00:09:07,520
+ There are a whole pile of things that might be a bit dull here, but there's a lot of stuff about
+
+94
+00:09:07,520 --> 00:09:13,360
+ tax treaties and the fact that countries like the UK have very comfortable tax treaties with the
+
+95
+00:09:13,360 --> 00:09:17,840
+ US that mean that although you have a bit of paperwork to do, you won't actually have
+
+96
+00:09:17,840 --> 00:09:23,760
+ tax removed twice from your earnings. That doesn't mean to say that people in the US or the UK are
+
+97
+00:09:23,760 --> 00:09:30,400
+ immune to Amazon shutting down accounts randomly, but it does appear that this batch has mostly been
+
+98
+00:09:30,400 --> 00:09:36,080
+ in countries that are not traditional homes of the English-language science fiction publishing
+
+99
+00:09:36,080 --> 00:09:41,920
+ market. Quite a lot of people have been caught by this, but I think Ekpeki's the biggest example
+
+100
+00:09:41,920 --> 00:09:47,840
+ there. Then Amazon did come back and say, "We will reinstate your account as a one-time deal",
+
+101
+00:09:47,840 --> 00:09:52,480
+ but he was quite reasonably not persuaded by the language and tone that they used,
+
+102
+00:09:52,480 --> 00:09:56,000
+ because they were just like, "We might take it away again at any time", and this doesn't mean
+
+103
+00:09:56,000 --> 00:09:59,600
+ that you think you're doing the right thing or anything like that. It just means that a lot of
+
+104
+00:09:59,600 --> 00:10:04,400
+ friends have made a lot of noise on your behalf. It's not great. No, and it clearly requires you,
+
+105
+00:10:04,400 --> 00:10:07,840
+ you know, you clearly have an advantage there if you have friends who can make noise on your
+
+106
+00:10:07,840 --> 00:10:12,480
+ behalf. So this is probably happening to a lot of people who do not have even recourse to
+
+107
+00:10:12,480 --> 00:10:18,560
+ discuss this on Twitter and maybe get some solution to it. I think what Sanford also goes into in
+
+108
+00:10:18,560 --> 00:10:23,280
+ his post is that there are sometimes alternatives to this if you can't be paid through PayPal or
+
+109
+00:10:23,280 --> 00:10:28,720
+ Venmo, but a lot of the time they charge huge transaction fees. So you're losing a massive chunk
+
+110
+00:10:28,720 --> 00:10:33,280
+ of your earnings just by trying to get them remitted to you in a currency you can use.
+
+111
+00:10:33,280 --> 00:10:40,960
+ It's not uncommon for the major platforms to treat the use of those sorts of services as a red flag
+
+112
+00:10:40,960 --> 00:10:45,760
+ for their algorithms as well, so it doesn't necessarily help. These books include one of the
+
+113
+00:10:45,760 --> 00:10:50,160
+ books that we previously had as a pick on Octothorpe. And I think it's really important
+
+114
+00:10:50,160 --> 00:10:53,200
+ that it's possible for people to get hold of these books. Yeah.
+
+115
+00:10:53,200 --> 00:11:05,040
+ Shall we go on to talking about hot goss? So we had a few bits of follow-up about Worldcon. We're
+
+116
+00:11:05,040 --> 00:11:12,160
+ not quite done with Worldcon yet for one reason or another. So File 770 had a long thread about
+
+117
+00:11:12,960 --> 00:11:17,840
+ Winnipeg's possible NASFiC bid. I think we have two definite NASFiC bids which are
+
+118
+00:11:17,840 --> 00:11:24,400
+ Winnipeg and Orlando and that thread has a lot of people saying, but here's actually what went on
+
+119
+00:11:24,400 --> 00:11:30,000
+ in site selection at DisCon. So two things on that. First, if you're interested – which I
+
+120
+00:11:30,000 --> 00:11:36,080
+ probably think you aren't at this point, because we're all just moving on, aren't we? – then it's there and also,
+
+121
+00:11:36,080 --> 00:11:40,320
+ one of the things about all the people going here is what really went on is that these accounts
+
+122
+00:11:40,320 --> 00:11:45,840
+ do not correlate. It's like Rashomon for site selection. I'm also really, I'm sure there was
+
+123
+00:11:45,840 --> 00:11:51,360
+ something I meant to mention from like Cheryl's Worldcon report and I will fish it out in a minute.
+
+124
+00:11:51,360 --> 00:11:56,480
+ Oh yes, Cheryl Morgan's also done an enormously long Worldcon report, which is all about this.
+
+125
+00:11:56,480 --> 00:12:02,000
+ Yeah, I think I found that thread very interesting, in particular because after the site selection
+
+126
+00:12:02,000 --> 00:12:07,680
+ business meeting fiasco, there then seemed to be quite a lot of comments in Facebook, File 770,
+
+127
+00:12:07,680 --> 00:12:11,760
+ Twitter, various places saying, you know, oh, you didn't know like the whole story.
+
+128
+00:12:11,760 --> 00:12:15,520
+ And what is evident is that we probably didn't know the whole story, possibly no one agrees on
+
+129
+00:12:15,520 --> 00:12:20,080
+ the whole story, but it all seems to require that you just have faith and trust that someone
+
+130
+00:12:20,080 --> 00:12:25,680
+ behind the scenes knows what's going on and we should just kind of almost leave them to it.
+
+131
+00:12:25,680 --> 00:12:30,560
+ It's very weird. Yeah, a lot of people are like, you didn't know the whole story and everyone thinks
+
+132
+00:12:30,560 --> 00:12:34,880
+ that it was this and it's like, well, the reason people thought it was that is because it looked
+
+133
+00:12:34,880 --> 00:12:40,560
+ like that. And if you didn't want it to look like that, there is an element here of making sure you
+
+134
+00:12:40,560 --> 00:12:45,200
+ were communicating with people outside the convention who were watching to make it clear what was
+
+135
+00:12:45,200 --> 00:12:49,840
+ happening, but waiting three weeks and then saying, oh, it was actually this. That's not helpful.
+
+136
+00:12:49,840 --> 00:12:53,760
+ Say it's actually this at the point it's happening. There is a version of events here in
+
+137
+00:12:53,760 --> 00:12:58,880
+ which it was all very, you know, all very above board and all very done with good intentions.
+
+138
+00:12:58,880 --> 00:13:04,400
+ And it, you know, you might believe that that is true. But certainly, it's a lot harder to believe
+
+139
+00:13:04,400 --> 00:13:09,920
+ that that's true given that it's all being put together from post-hoc rationalisations and
+
+140
+00:13:09,920 --> 00:13:13,200
+ "oh, actually, people have got the wrong end of the stick" instead of people standing up and being
+
+141
+00:13:13,200 --> 00:13:17,200
+ like, "actually, we want to have a measured conversation about this and we're not trying to fix the
+
+142
+00:13:17,200 --> 00:13:20,480
+ vote". But certainly from the outside, it looked an awful lot like you were trying to fix the vote.
+
+143
+00:13:20,480 --> 00:13:24,080
+ And if you didn't want it to, you should have done it differently. It's not our fault that it looked
+
+144
+00:13:24,080 --> 00:13:30,080
+ like that. It's yours. I think is my basic perspective. But here's one of my two takeaways on virtual
+
+145
+00:13:30,080 --> 00:13:34,960
+ and hybrid conventions for convention committees, which is especially on hybrid conventions.
+
+146
+00:13:34,960 --> 00:13:38,960
+ If you're running a hybrid convention, you need to think very hard all the time about how you're
+
+147
+00:13:38,960 --> 00:13:44,400
+ going to involve the people at the physical convention with the people at the online convention so
+
+148
+00:13:44,400 --> 00:13:49,280
+ that you don't end up with two totally separate conventions. Because if there had been a lot more
+
+149
+00:13:49,280 --> 00:13:53,440
+ people chatting who were physically at the convention with people who were not physically at the
+
+150
+00:13:53,440 --> 00:13:58,400
+ convention, this wouldn't have happened. And if you had designed ways of making that happen as
+
+151
+00:13:58,400 --> 00:14:03,520
+ part of your convention, you would have fostered that single-convention feeling. That's why it's so
+
+152
+00:14:03,520 --> 00:14:08,960
+ important and that's why people should do it. Yes. It's very hard though. Yeah. It is. Oh yeah, it's
+
+153
+00:14:08,960 --> 00:14:14,240
+ very difficult. I don't, I accept it might be hard, but at the moment nobody's properly tried
+
+154
+00:14:14,240 --> 00:14:19,920
+ it. So, you know. No, yeah, fair enough. Spinning out from the subject of site selection, Steve Cooper
+
+155
+00:14:19,920 --> 00:14:28,320
+ has set up a mailing list to look at trying to address the problem of electronic site selection.
+
+156
+00:14:28,320 --> 00:14:32,960
+ And we will have a link in the show notes if you'd like to go and get involved with that.
+
+157
+00:14:32,960 --> 00:14:39,520
+ I was quite in favour of using groups.io and the reason that I was is that although you think
+
+158
+00:14:39,520 --> 00:14:45,440
+ "mailing list", all the stuff is archived online. So it's a very good way of actually having a
+
+159
+00:14:45,440 --> 00:14:50,640
+ discussion that people can then follow back and trace through in a way that a traditional mailing
+
+160
+00:14:50,640 --> 00:14:58,160
+ list often isn't. But it is still a mailing list. That group is full of SMOFs. I mean, I guess
+
+161
+00:14:58,160 --> 00:15:05,440
+ that Steve Cooper has a lot of SMOFfy friends. But. Who knew? Who knew that a group devoted to
+
+162
+00:15:05,440 --> 00:15:11,520
+ like discussing the finer points of the WSFS Constitution was going to attract SMOFs?
+
+163
+00:15:11,520 --> 00:15:20,400
+ And Chicon 8 have said about Hugo nominations that they will open later in January and will run
+
+164
+00:15:20,400 --> 00:15:28,000
+ through to mid-March 2022. All members of DisCon III and anyone who joined Chicon 8 before the 31st
+
+165
+00:15:28,000 --> 00:15:33,440
+ of January 2022 will be eligible to nominate in this year's Hugo Awards. And obviously,
+
+166
+00:15:33,440 --> 00:15:38,160
+ all members of Chicon 8 will be eligible to vote. So if you want to nominate and you're not a member
+
+167
+00:15:38,160 --> 00:15:45,440
+ of DisCon, join Chicon 8 before the end of this month. You've got about a week and a half at the
+
+168
+00:15:45,440 --> 00:15:51,200
+ point that this episode drops. That's a slightly later deadline than usual. This is why it's relevant.
+
+169
+00:15:51,200 --> 00:15:57,920
+ Normally, the cut-off for nomination rights is before nominations open. There's likely to
+
+170
+00:15:57,920 --> 00:16:03,920
+ be a slight overlap. I don't think it matters. They've pushed it back because DisCon was so much later
+
+171
+00:16:03,920 --> 00:16:08,240
+ than... They've pushed it back, they've pushed the deadline back because we made a constitutional
+
+172
+00:16:08,240 --> 00:16:11,920
+ change to push the deadline back, right? As in the date when you have to join Chicon,
+
+173
+00:16:11,920 --> 00:16:15,040
+ sorry, have I got the wrong end of the stick? Did we make a constitutional change? Am
+
+174
+00:16:15,040 --> 00:16:19,920
+ I just talking through my hat? I think we made a constitutional change. But to check this,
+
+175
+00:16:19,920 --> 00:16:26,240
+ I will have to go and look at the WSFS... It wouldn't be the first time I talk bollocks on the podcast.
+
+176
+00:16:26,240 --> 00:16:32,400
+ Just so that's why I'm just going to do a little check. I think I was not really paying attention
+
+177
+00:16:32,400 --> 00:16:36,080
+ at that point at the business meeting or really not full attention, but I thought there was a
+
+178
+00:16:36,080 --> 00:16:42,880
+ constitutional amendment to amend this. Yeah, no, no, it's here. Section 3.7.1, they've crossed out
+
+179
+00:16:42,880 --> 00:16:47,280
+ member as of the end of the previous calendar year and it's now as of January 31st of the
+
+180
+00:16:47,280 --> 00:16:53,200
+ current calendar year. Sorry, that was garbled. But I think I was correct and I value factual
+
+181
+00:16:53,200 --> 00:16:56,880
+ accuracy above getting to my dinner 30 seconds faster. So.
+
+182
+00:16:56,880 --> 00:17:01,760
+ Which section did you say it was Liz? 3.7.1.
+
+183
+00:17:01,760 --> 00:17:08,160
+ 3.7.1. Anyway, it's also kind of irrelevant. The point is that you can still join and nominate
+
+184
+00:17:08,160 --> 00:17:13,440
+ in the Hugos. Okay, so I sincerely apologise for talking bollocks on the podcast and I will
+
+185
+00:17:13,440 --> 00:17:21,360
+ endeavor never to do it again. Oh god, clip that out, John. Paying members can get that sound clip
+
+186
+00:17:21,920 --> 00:17:29,360
+ in the secret archive. The WSFS Constitution and deadlines for Hugo nominations bring us neatly
+
+187
+00:17:29,360 --> 00:17:38,240
+ onto the topic of the Hugo Awards and friend of the show, Nicholas Whyte, wrote quite a long
+
+188
+00:17:38,240 --> 00:17:46,800
+ response in answer to the questions we asked him last episode. So... It's quite a long article.
+
+189
+00:17:46,800 --> 00:17:51,280
+ It's quite interesting and we're going to point you at it. Thank you very much, Nicholas. We very
+
+190
+00:17:51,280 --> 00:17:57,600
+ much appreciate it. Yes, thank you for writing such a long and detailed response to our
+
+191
+00:17:57,600 --> 00:18:04,080
+ casual invocation of your name on the podcast. The question that Nicholas Whyte answered for us is
+
+192
+00:18:04,080 --> 00:18:10,960
+ he answers a question about E Pluribus Hugo for us and whether or not it's vulnerable particularly
+
+193
+00:18:10,960 --> 00:18:16,160
+ to bullet nominations, which we discussed last time. And he also discusses the logic between what
+
+194
+00:18:16,160 --> 00:18:22,320
+ puts a finalist on the Long Form or Short Form Dramatic Presentation ballots. So if you're interested
+
+195
+00:18:22,320 --> 00:18:29,600
+ in either of those two things, we highly recommend going to read his write-up. Very deep in that is
+
+196
+00:18:29,600 --> 00:18:36,880
+ Nicholas's confession that he's the person who wrote the explanation of EPH on the Finnish website
+
+197
+00:18:36,880 --> 00:18:41,520
+ that we linked to last time. So thanks for doing that, Nicholas, because that was a thing that allowed
+
+198
+00:18:41,520 --> 00:18:50,720
+ me to understand EPH. So this year's fanzine winner, Nerds of a Feather, has recused itself from the 2022
+
+199
+00:18:50,720 --> 00:18:58,880
+ Hugos. File 770 writes quite an interesting piece about the history of doing this. File 770,
+
+200
+00:18:58,880 --> 00:19:05,440
+ of course, has permanently removed itself from consideration for Hugos. And I like the tradition.
+
+201
+00:19:05,440 --> 00:19:10,720
+ It's been going on for a little while, but what Nerds of a Feather have done and what a few other recent
+
+202
+00:19:10,720 --> 00:19:17,040
+ winners have done is recused themselves for just one year. So they don't say, "Never give us a Hugo
+
+203
+00:19:17,040 --> 00:19:22,640
+ again, chaps." They go, "Well, we've got a Hugo now. Next year, why don't you look at all the other
+
+204
+00:19:22,640 --> 00:19:27,600
+ great stuff that's going on in this space?" And what that does is break the tendency for people
+
+205
+00:19:27,600 --> 00:19:36,720
+ to nominate and vote for whatever won last year. And I think had this been a tradition back in 2005
+
+206
+00:19:36,720 --> 00:19:42,480
+ and 2006, when Plokta won its Hugos, we might have recused ourselves for one year, because we did
+
+207
+00:19:42,480 --> 00:19:47,760
+ win the Hugo the following year, much to our surprise. And I think it was just the kind of positive
+
+208
+00:19:47,760 --> 00:19:52,560
+ feedback we got that after we won the Hugo the first time people went to go and look at
+
+209
+00:19:52,560 --> 00:19:57,040
+ the fanzine. And I think taking yourself out for a year and saying, "Now look at all the other
+
+210
+00:19:57,040 --> 00:20:02,400
+ stuff", especially in fannish categories, where the fact that there's a lot of stuff in the
+
+211
+00:20:02,400 --> 00:20:06,160
+ category is very much the point. We have a lot of good things and we want people to know what they
+
+212
+00:20:06,160 --> 00:20:12,000
+ are. So that was my thought on that. I like it. I'm glad they've done it. I'm glad that other
+
+213
+00:20:12,000 --> 00:20:18,560
+ fan winners do that and I encourage it. I basically have not such strong feelings on this one. I can
+
+214
+00:20:18,560 --> 00:20:23,040
+ see both sides of the coin. One is that it's nice to recuse yourself because of that possible
+
+215
+00:20:23,040 --> 00:20:28,560
+ bounce just from being on the ballot year after year in some cases. But also, if you recuse yourself,
+
+216
+00:20:28,560 --> 00:20:34,320
+ then if people really do think you were the best fanzine, whatever, in that year and they can't
+
+217
+00:20:34,320 --> 00:20:38,000
+ vote for you, it means they have to vote something they think is not actually the best thing.
+
+218
+00:20:38,000 --> 00:20:42,880
+ So I can sort of see both sides. So I think maybe yeah, recusing yourself for a year, but not forever
+
+219
+00:20:42,880 --> 00:20:50,480
+ is a nice way to do it. My perspective on this is that I very much like it when works recuse
+
+220
+00:20:50,480 --> 00:20:58,080
+ themselves and I have been advocating... I think I prefer the model where if you win a certain number
+
+221
+00:20:58,080 --> 00:21:02,640
+ of times, you permanently recuse yourself. So something I think I've said on the podcast before,
+
+222
+00:21:02,640 --> 00:21:06,720
+ but I do wish for instance that Uncanny would recuse themselves because although I think they're
+
+223
+00:21:06,720 --> 00:21:11,280
+ still doing fantastic work, I do think it would be better for the genre if other semiprozines got
+
+224
+00:21:11,280 --> 00:21:17,280
+ recognition. I was very glad that FIYAH Magazine won this year for that reason. And you look back
+
+225
+00:21:17,280 --> 00:21:22,400
+ in the history of the genre and there are certain other works that won repeatedly and possibly could
+
+226
+00:21:22,400 --> 00:21:29,440
+ have taken three rockets. We're looking at you, Langford. I was actually thinking thinking of Locus, but yes.
+
+227
+00:21:30,240 --> 00:21:34,400
+ But no, I think having a tradition where you feel able to recuse yourself is very good. I think
+
+228
+00:21:34,400 --> 00:21:39,840
+ this is one of the big problems with certain other awards is that when you suggest that
+
+229
+00:21:39,840 --> 00:21:43,600
+ people could recuse themselves if they don't want to win infinite awards, they look at you funny and
+
+230
+00:21:43,600 --> 00:21:47,760
+ say, "Ah, but that wouldn't be done." Which I kind of hugely disagree with and I think...
+
+231
+00:21:47,760 --> 00:21:52,560
+ But there is a point that is made and which Liz just made, which is, you know, do you want the
+
+232
+00:21:52,560 --> 00:21:56,560
+ award to be the best fanzine except for all the things that have recused themselves or do you
+
+233
+00:21:56,560 --> 00:22:01,920
+ want it to be the objectively best fanzine? And my response to that criticism would be,
+
+234
+00:22:01,920 --> 00:22:05,840
+ if you want it to be objectively the best fanzine, well, firstly, that's impossible,
+
+235
+00:22:05,840 --> 00:22:10,640
+ but secondly, you're a lot more likely to get that if you have a juried award than a popular one,
+
+236
+00:22:10,640 --> 00:22:15,840
+ I would argue. And so I think the Hugo have never really been about awarding the objectively
+
+237
+00:22:15,840 --> 00:22:19,680
+ best thing. And so it always kind of seemed like an odd argument to me.
+
+238
+00:22:20,880 --> 00:22:29,200
+ But also, I think this was a much better argument in a year when an enthusiastic fanzine reader could
+
+239
+00:22:29,200 --> 00:22:34,400
+ thoroughly survey the field and have a pretty good idea of what was out there and what
+
+240
+00:22:34,400 --> 00:22:40,000
+ and what things people thought were good. But now we've got multiple different communities doing
+
+241
+00:22:40,000 --> 00:22:45,760
+ multiple different sorts of things. And I think the more we can do to bring more different good
+
+242
+00:22:45,760 --> 00:22:50,800
+ things to everybody's attention, the better. On that topic, we're going to be trying to
+
+243
+00:22:50,800 --> 00:22:56,800
+ promote things that we think are good in the SFnal community through the next year.
+
+244
+00:22:56,800 --> 00:23:02,480
+ I'm really liking Hugo, Girl!, which is a terrible pun, but also quite a good podcast. And they
+
+245
+00:23:02,480 --> 00:23:09,200
+ were directly below us in the... It's a great pun. It's a great pun. They were directly below us in the
+
+246
+00:23:09,200 --> 00:23:17,680
+ longlist. And this is a podcast where three feminists talk about Hugo-winning things and
+
+247
+00:23:17,680 --> 00:23:22,880
+ Hugo-nominated things from a feminist perspective. And the one that I've listened to and really
+
+248
+00:23:22,880 --> 00:23:28,800
+ enjoyed this week is their one on the first of the Expanse novels, which of course I haven't read,
+
+249
+00:23:28,800 --> 00:23:33,040
+ but because I've seen the whole of the first series now, I felt well, it can't spoil me too
+
+250
+00:23:33,040 --> 00:23:39,040
+ much. And indeed, it did not. It was fine because they're coming at it from a feminist point of view
+
+251
+00:23:39,040 --> 00:23:44,960
+ they point out all of the things that you might expect them to point out in a novel from a little
+
+252
+00:23:44,960 --> 00:23:50,800
+ while ago that was written by a couple of bros and was intending to be men's adventure fic.
+
+253
+00:23:50,800 --> 00:23:56,480
+ And I'm sorry for stealing all your jokes, guys, but they make a joke about how this is categorized
+
+254
+00:23:56,480 --> 00:24:02,240
+ by Amazon as men's adventure fiction. And so they went, well, what on earth would women's adventure
+
+255
+00:24:02,240 --> 00:24:07,600
+ fiction be? And they looked it up and they discovered that it was all the same books in the top 10
+
+256
+00:24:07,600 --> 00:24:13,200
+ places. It turns out that if you like adventure fiction, then your gender is not particularly
+
+257
+00:24:13,200 --> 00:24:17,920
+ germane to the sort of thing you like. Yeah, so it's very funny, really enjoyed it.
+
+258
+00:24:17,920 --> 00:24:21,600
+ And I would recommend that you check it out if you like that sort of thing. There is a problem
+
+259
+00:24:21,600 --> 00:24:27,600
+ with, for me, with podcasts that talk about works that I don't much like to be spoiled for them.
+
+260
+00:24:27,600 --> 00:24:33,520
+ So I only like the ones that I've already read. And as we know, Bob, I don't read enough science
+
+261
+00:24:33,520 --> 00:24:38,880
+ fiction. Yeah, I mean, Alison has not entirely stolen my thunder, but I have also been listening
+
+262
+00:24:38,880 --> 00:24:44,480
+ to some episodes of Hugo, Girl!, which I cannot say it in the right way to like do the sassy joke.
+
+263
+00:24:44,480 --> 00:24:52,080
+ Hugo, Girl!? Yeah, no. And yeah, I like it. Liz is not sufficiently sassy. And that is the
+
+264
+00:24:52,080 --> 00:24:58,640
+ title of the episode. Boom! Not sufficiently sassy. You haven't seen her when she's hungry,
+
+265
+00:24:58,640 --> 00:25:05,200
+ have you? That is hangry and not sassy, Alison. Yeah, I haven't actually caught the one about
+
+266
+00:25:05,200 --> 00:25:10,400
+ Leviathan Wakes. But yes, I can see that they probably have many of the same criticisms
+
+267
+00:25:10,400 --> 00:25:16,160
+ I have of Leviathan Wakes, which the Expanse TV adaptation in some ways mitigates by pulling in
+
+268
+00:25:16,160 --> 00:25:21,600
+ some stuff from like later books in order that there are more ladies in the cast. Yeah, I listened
+
+269
+00:25:21,600 --> 00:25:26,000
+ to their episode recently on Dragonflight by Anne McCaffrey, which is, you know, one of those books
+
+270
+00:25:26,000 --> 00:25:31,600
+ where, when I read it when I was like 13, it was great. And if you read it when you are not 13,
+
+271
+00:25:31,600 --> 00:25:35,360
+ it is maybe less great. But they do a really interesting job, I think, of trying to say,
+
+272
+00:25:35,360 --> 00:25:40,160
+ look, this is not like typical of the time, but let's look at the context of when it won,
+
+273
+00:25:40,160 --> 00:25:44,880
+ and let us look at the context of, you know, some of society at the time. And I think, you know,
+
+274
+00:25:44,880 --> 00:25:49,760
+ they're not excusing it, but they are saying, let us put it into context, and maybe these
+
+275
+00:25:49,760 --> 00:25:54,160
+ are things that were considerations that I hadn't thought about. So I thought that was a very interesting
+
+276
+00:25:54,160 --> 00:26:00,880
+ listen. I would like to ask you, John, is their logo a misappropriation of the Hugo trademark or
+
+277
+00:26:00,880 --> 00:26:08,960
+ whatever it is? Hugo service mark? No, I don't think so. No, it's a parody work,
+
+278
+00:26:08,960 --> 00:26:15,200
+ and it's clearly fine in context. Yeah, I know I'm making, I'm making another Mark Protection joke,
+
+279
+00:26:15,200 --> 00:26:21,680
+ because I like them. This is not as funny as you hoped it would be. No, it's not. Because I am
+
+280
+00:26:21,680 --> 00:26:28,880
+ very tedious. With my tedious MPC hat on. Yeah, I was hoping we get some comedy gold out of that,
+
+281
+00:26:28,880 --> 00:26:37,680
+ and... and we did not. Tedious MPC corner. I think we need to move on.
+
+282
+00:26:37,680 --> 00:26:44,880
+ I mean, I do. I like also that it is. It's not just kind of, you know, going back through the
+
+283
+00:26:44,880 --> 00:26:51,280
+ Best Novel over time. It is, you know, jumping about in time and picking up, looking up really,
+
+284
+00:26:51,280 --> 00:26:55,280
+ you know, lesser known works I haven't read like some of the Retro Hugo nominees, things like that.
+
+285
+00:26:56,240 --> 00:27:00,080
+ I find more interesting than just if we were going to do like, you know, the past 20 years of Best
+
+286
+00:27:00,080 --> 00:27:06,000
+ Novel. But anyway, they're great. Would get a vote from me, a nomination from me. If I, I don't
+
+287
+00:27:06,000 --> 00:27:09,920
+ know, I might find more than six things by the time we get round to nominating. Who knows? Well you're
+
+288
+00:27:09,920 --> 00:27:19,440
+ only allowed to nominate five, so. Fan Achievement Awards have opened for voting. These are the achievement awards
+
+289
+00:27:19,440 --> 00:27:29,600
+ given by fanzine fans to fanzine fans. And there is a list, An Incompleat Register 2021, which has
+
+290
+00:27:29,600 --> 00:27:36,000
+ been published by Nic Farey, who is the administrator of the FAAN awards. And that tells you what the
+
+291
+00:27:36,000 --> 00:27:41,920
+ categories you can vote in are and gives you some examples of fanzines that you could vote for.
+
+292
+00:27:42,720 --> 00:27:49,760
+ And normally I would say by fanzine fans, they mean traditional fanzine fans, but clearly in this
+
+293
+00:27:49,760 --> 00:27:56,000
+ case, they know what they mean because they've said what a fanzine is. And so therefore you can
+
+294
+00:27:56,000 --> 00:28:03,040
+ deduce what a fanzine fan is. Yes, a fanzine for our purposes is defined as an immutable artefact
+
+295
+00:28:03,040 --> 00:28:08,560
+ once published, not subject to revision or modification. The fanzine might not exist in a
+
+296
+00:28:08,560 --> 00:28:16,560
+ physical form. A PDF, for example, is an artefact. And what that means, I think, is that Octothorpe
+
+297
+00:28:16,560 --> 00:28:24,000
+ is a fanzine. Yes. We're an artefact, right. We are an artefact. Certainly... We do not exist in a physical
+
+298
+00:28:24,000 --> 00:28:31,040
+ form. I mean, we exist in a physical form, but the podcast doesn't. So if a PDF is an artefact, then...
+
+299
+00:28:31,040 --> 00:28:37,600
+ I'm actually made of pure energy, especially if I've had enough coffee. That explains so much.
+
+300
+00:28:37,600 --> 00:28:41,840
+ I mean, if a PDF is an artefact, then an MP3 is presumably also an artefact.
+
+301
+00:28:41,840 --> 00:28:47,440
+ Yeah, clearly, if a PDF is an artefact, then the MP3 is an artefact and we are a fanzine for the
+
+302
+00:28:47,440 --> 00:28:53,120
+ purposes of the FAAN awards. And what's really interesting is the sort of fanzine we are because
+
+303
+00:28:53,120 --> 00:29:00,960
+ they also go on to define genzine and perzine. And for the benefit of listeners who might not be
+
+304
+00:29:00,960 --> 00:29:05,920
+ voting in the FAAN awards... Please don't vote in the FAAN awards unless you are part of the community
+
+305
+00:29:05,920 --> 00:29:11,680
+ that votes in the FAAN awards. A genzine is traditionally a kind of bigger zine maybe with a few editors.
+
+306
+00:29:11,680 --> 00:29:15,840
+ I mean, something like Journey Planet is clearly a genzine. Lots of different editors, lots of
+
+307
+00:29:15,840 --> 00:29:21,840
+ different stuff. It's a genzine. A perzine is traditionally something where somebody talks about
+
+308
+00:29:21,840 --> 00:29:27,680
+ their harrowing divorce in some detail. That's your perzine, right? And obviously, there's a gap
+
+309
+00:29:27,680 --> 00:29:33,440
+ between those. So they've also decided to define the difference between perzine and genzine.
+
+310
+00:29:34,560 --> 00:29:42,000
+ And they've described perzine as a fanzine, which typically has few, if any, contributors
+
+311
+00:29:42,000 --> 00:29:47,680
+ other than its editors. So, was it Dave Coxon who asked why we didn't have interviews?
+
+312
+00:29:47,680 --> 00:29:54,720
+ Because the answer is, if we had interviews, we would be a genzine. But as we don't,
+
+313
+00:29:54,720 --> 00:29:58,320
+ we're a perzine because there's three of us and we do it all ourselves.
+
+314
+00:29:58,320 --> 00:30:03,200
+ Actually, John does it all. So when you're voting for the FAAN awards, remember that we...
+
+315
+00:30:03,200 --> 00:30:09,760
+Octothorpe is a perzine. So, just to clarify for those who are confused as to where these
+
+316
+00:30:09,760 --> 00:30:18,960
+ words come from, a genzine is a general interest fanzine and a perzine is a personalised fanzine,
+
+317
+00:30:18,960 --> 00:30:24,240
+ according to Fancyclopedia. And that kind of is why you have these two different feels of zine
+
+318
+00:30:24,240 --> 00:30:28,640
+ and where the words originally came from. But those are not the same definitions as the one that
+
+319
+00:30:28,640 --> 00:30:31,920
+ Nic has used in The Incompleat Register for the FAAN awards, so but anyway.
+
+320
+00:30:32,720 --> 00:30:40,160
+ So Bill Burns said in the comments of the File 770 discussion of this, that by these definitions,
+
+321
+00:30:40,160 --> 00:30:47,040
+ they reverse the present perversion of the Fan Hugos. So that's good. And I think it is... It's
+
+322
+00:30:47,040 --> 00:30:51,920
+ very forward-looking to make sure that kind of it doesn't matter what the kind of, you know,
+
+323
+00:30:51,920 --> 00:30:55,600
+ whether you're writing something down or saying it out loud, it still counts as a fanzine. I think
+
+324
+00:30:55,600 --> 00:31:01,600
+ that is kind of a really good idea. Yeah, well done. Well done, forward-thinking FAAN award
+
+325
+00:31:01,600 --> 00:31:05,920
+ administrator Nic Farey. I don't know whether it was Nic that came up with it. I assume it...
+
+326
+00:31:05,920 --> 00:31:10,560
+ I don't know whether is this the first time this is the definition. Do we know? Nic, if you're
+
+327
+00:31:10,560 --> 00:31:16,000
+ listening, please write in. Yes. Or anyone else who is involved with the FAAN awards. Because I don't know
+
+328
+00:31:16,000 --> 00:31:20,640
+ the answer to that. And I don't want to look it up now because Liz will never get her dinner. And then
+
+329
+00:31:20,640 --> 00:31:28,080
+ on the subject of defining awards, Alison has joined a Discord. And usually this would not be
+
+330
+00:31:28,080 --> 00:31:35,520
+ news for the podcast. But in this case, it is. I have joined the Hugo Awards Study Committee
+
+331
+00:31:35,520 --> 00:31:42,720
+ Discord. The business meeting remitted the Hugo Awards Study Committee to go away and look at
+
+332
+00:31:42,720 --> 00:31:46,480
+ best audiobook and also a couple of other things. And in general, consider whether any
+
+333
+00:31:46,480 --> 00:31:52,560
+ changes were needed to Hugo category definitions and report back next year with some proposals.
+
+334
+00:31:54,320 --> 00:31:59,200
+ So the chair is appointed by the business meeting and then the chair gets to appoint other people.
+
+335
+00:31:59,200 --> 00:32:07,600
+ The chair wants to have a good and open discussion but doesn't want to open it up to the entire
+
+336
+00:32:07,600 --> 00:32:15,440
+ set of people on the internet who might be interested in Hugos. I mean, I think he basically doesn't want
+
+337
+00:32:15,440 --> 00:32:22,800
+ a hundred... He doesn't want a cheering squad for Best Audiobook to turn up or something like that.
+
+338
+00:32:22,800 --> 00:32:28,640
+ He wants to get people who will consider carefully and dispassionately what sorts of things are needed
+
+339
+00:32:28,640 --> 00:32:34,800
+ and why. However, he's given us an email that you can get in touch, if you're interested. So
+
+340
+00:32:34,800 --> 00:32:39,600
+ thank you Cliff. That was very helpful. Cliff Dunn is the chair. So far it's been very,
+
+341
+00:32:39,600 --> 00:32:44,720
+ I think, pretty civilised. People have come up with some things in a number of categories. As we know,
+
+342
+00:32:44,720 --> 00:32:50,720
+ Bob, I am very interested in making sure that a good proposal for Best Game goes to the business
+
+343
+00:32:50,720 --> 00:32:55,120
+ meeting along with a big following wind of people who think that it's a good idea amongst the people
+
+344
+00:32:55,120 --> 00:33:00,160
+ who will be at the business meeting in Chicago. So that's one of the reasons I'm there. But I'm also
+
+345
+00:33:00,160 --> 00:33:04,400
+ going to watch and if there's anything very interesting coming out of it, I will report back.
+
+346
+00:33:04,400 --> 00:33:10,080
+ Are you allowed to report back? Doesn't say I can't. What are those funny rules?
+
+347
+00:33:10,080 --> 00:33:14,080
+ Chatham House rules? How Chatham House rules is it? They haven't said it's Chatham House rules. Well I'm not
+
+348
+00:33:14,080 --> 00:33:20,640
+ going to say... You know, XYZ said exactly this. Chatham House rules, incidentally, allow you to report
+
+349
+00:33:20,640 --> 00:33:25,360
+ things just not with... not attributed things. Yeah. I mean, I don't think I'm not attending to
+
+350
+00:33:25,360 --> 00:33:30,640
+ cut and paste stuff out of the Discord. Yeah, I mean, my thought is just like, it feels like the
+
+351
+00:33:30,640 --> 00:33:35,360
+ Hugo Award Study Committee has lost a bunch of momentum. I mean, fair enough, pandemic and all that.
+
+352
+00:33:35,360 --> 00:33:44,240
+ But it kind of did some big reporting probably in 2019 and then really hasn't kind of done much since
+
+353
+00:33:44,240 --> 00:33:50,160
+ then. So it would be good to get some stuff, some good proposals out over this year. I need to rewind.
+
+354
+00:33:50,160 --> 00:33:55,280
+ It is not a standing committee. I'm actually surprised John didn't pitch in here. The Hugo Award Study
+
+355
+00:33:55,280 --> 00:34:00,080
+ Committee is not a standing committee of WSFS, which only has one standing committee, which is
+
+356
+00:34:00,080 --> 00:34:06,080
+ the Mark Protection Committee. Depends how you count. It is instead an ad hoc committee
+
+357
+00:34:06,080 --> 00:34:10,480
+ and it comes and goes and it has gone away for a bit and now it is back.
+
+358
+00:34:10,480 --> 00:34:13,520
+ Did it go away or did they just keep renewing it and it didn't do anything?
+
+359
+00:34:13,520 --> 00:34:18,720
+ No, it reported and then it went away. So this business meeting appointed a new chair
+
+360
+00:34:18,720 --> 00:34:22,480
+ who I think was the same as the old chair. To get an answer, we'd have to look through lots of
+
+361
+00:34:22,480 --> 00:34:27,280
+ minutes of business meetings to find out when various committees were done and we've been recording
+
+362
+00:34:27,280 --> 00:34:38,800
+ for fifty-five minutes. So we're not going to do that. So I don't really believe in New Year's resolutions
+
+363
+00:34:38,800 --> 00:34:44,000
+ but I have a lot of them. I don't believe in them. John has been going on about the way in which I
+
+364
+00:34:44,000 --> 00:34:48,560
+ never read science fiction and I thought, you know, you're not wrong. We have picks to do every
+
+365
+00:34:48,560 --> 00:34:53,840
+ fortnight on Octothorpe but I thought it would be quite good if at least half of those picks were
+
+366
+00:34:53,840 --> 00:35:01,920
+ science fiction books or fantasy books. That's like... that commits me to 13 books in 2022 so that's
+
+367
+00:35:01,920 --> 00:35:08,800
+ not impossible. And I also have a load of things around, you know, eating better and doing more
+
+368
+00:35:08,800 --> 00:35:15,280
+ exercise and getting more sleep and drinking less beer and all the normal sorts of New Year's
+
+369
+00:35:15,280 --> 00:35:22,000
+ resolution things. And I have resolved to play somewhat fewer mindless video games. I don't know
+
+370
+00:35:22,000 --> 00:35:26,160
+ whether it will work. So that's where I'm going to get a load of new time from. It's going to be good.
+
+371
+00:35:26,160 --> 00:35:35,840
+ I had some New Year's resolutions in 2021 which were to publish 12 issues of Lulzine, which I did.
+
+372
+00:35:35,840 --> 00:35:41,760
+ And to get an app in the App Store which I didn't but I did get it into beta testing so I feel like...
+
+373
+00:35:41,760 --> 00:35:47,920
+ It's why I'm drinking less alcohol John. Yay. So my resolutions are broadly similar. The
+
+374
+00:35:47,920 --> 00:35:51,120
+ Lulzine one's gotten off to a little bit of a bad start because we haven't yet commissioned
+
+375
+00:35:51,120 --> 00:35:56,640
+ an article for the first issue of 2022. If you want to write something about funny
+
+376
+00:35:56,640 --> 00:36:02,080
+ things please write in, listeners, because that would be useful. But yeah so kind of keep plugging
+
+377
+00:36:02,080 --> 00:36:08,720
+ on with the fanac and keep plugging on with my app. So that'll be good hopefully. I've also got my
+
+378
+00:36:08,720 --> 00:36:13,280
+ standard board game challenge which I don't really think of as a New Year's resolution but
+
+379
+00:36:13,280 --> 00:36:19,440
+ which I guess is and this year I'm going to play 10 games 10 times. Last year I just played games
+
+380
+00:36:19,440 --> 00:36:24,080
+ 100 times and was not limited to like you know from these games but this time I'm doing what's
+
+381
+00:36:24,080 --> 00:36:30,480
+ called a 10 by 10 challenge in the community to try and get some of my games that I have a lot of
+
+382
+00:36:30,480 --> 00:36:36,080
+ expansions for to the table more often so I will report back as we go through the year.
+
+383
+00:36:36,080 --> 00:36:41,280
+ I am also doing board games and I did a 22 by 10 challenge which sounds like an awful lot.
+
+384
+00:36:41,280 --> 00:36:48,880
+ She's mad. But in fact they're solo, print-and-play, roll-and-write games and a lot of them are
+
+385
+00:36:48,880 --> 00:36:53,440
+ very very quick so I think it's going to be okay but I don't know yet I'll report back.
+
+386
+00:36:53,440 --> 00:36:59,360
+ Yeah so board games are also a challenge for me and I'm not actually buying... well I bought a few of
+
+387
+00:36:59,360 --> 00:37:04,240
+ them but I'm not printing any of them. I'm doing them all on my iPad so it's kind of a...
+
+388
+00:37:04,240 --> 00:37:10,560
+ it's trying to give me board games without the actual buying big cardboard boxes that then sit in my
+
+389
+00:37:10,560 --> 00:37:15,680
+ house for the rest of time part of the whole board game experience which is a problem for me.
+
+390
+00:37:15,680 --> 00:37:20,560
+ The board games I'm going to be playing are Android: Netrunner, Legendary: Marvel,
+
+391
+00:37:20,560 --> 00:37:25,520
+ Mansions of Madness, Marvel: Champions, Star Wars: Destiny, Under Falling Skies, Arkham Horror (3rd Edition),
+
+392
+00:37:25,520 --> 00:37:29,600
+ Star Wars: X-Wing, Star Wars: Imperial Assault and Arkham Horror: The Card Game and I am
+
+393
+00:37:29,600 --> 00:37:38,080
+ seven games into my hundred games so far so I am ahead of the curve. But yeah. It's going well.
+
+394
+00:37:38,080 --> 00:37:44,000
+ I'm enjoying it. Haven't played X-Wing in ages so it was good to kind of get back on that horse
+
+395
+00:37:44,000 --> 00:37:48,960
+ and try out the new rules which was cool. Are there horses in the Star Wars universe?
+
+396
+00:37:48,960 --> 00:37:55,120
+ There are dogs. There are like those Tauntaun things. No but there are literally dogs because
+
+397
+00:37:55,120 --> 00:38:00,480
+ the novelisation of Star Wars: A New Hope Luke says that he misses his dog. True fact.
+
+398
+00:38:00,480 --> 00:38:06,080
+ Doesn't say space dog, just dog. Also Earth is in the Star Wars universe because of the Star
+
+399
+00:38:06,080 --> 00:38:13,840
+ Tours ride so Wookiepedia has entries for both dogs and Earth. Fact. Liz do you have any New Year's
+
+400
+00:38:13,840 --> 00:38:20,800
+ resolutions? I don't really do New Year's resolutions. I think I am less driven by being able to tick
+
+401
+00:38:20,800 --> 00:38:27,120
+ stuff off than you guys are so I don't generally do them. I do always set myself like a Goodreads
+
+402
+00:38:27,120 --> 00:38:32,560
+ number of books I would quite like to read and then quite often don't make it but I have done
+
+403
+00:38:32,560 --> 00:38:37,520
+ that again this year and set myself, you know, a target of 80 books. How is that not ticking things
+
+404
+00:38:37,520 --> 00:38:42,880
+ off? It is, she just thinks it isn't. It is and I do record like the books... it's mostly to make
+
+405
+00:38:42,880 --> 00:38:47,360
+ me record the books I read so I can remember what I've read but if I don't get to 80 I don't actually
+
+406
+00:38:47,360 --> 00:38:52,640
+ mind. Like I sort of treat it as that would be a nice number. Oh yes I should say that's also true
+
+407
+00:38:52,640 --> 00:38:59,520
+ of my New Year's resolutions that I don't beat myself up too much when I fail, which I inevitably do.
+
+408
+00:38:59,520 --> 00:39:03,520
+ For me it's the choice between having some sort of vague goal for the year or just spending the
+
+409
+00:39:03,520 --> 00:39:08,320
+ entire time aimlessly scrolling on Facebook and I'd rather have a vague goal but I'm not going to,
+
+410
+00:39:08,320 --> 00:39:14,880
+ you know, cry in a corner for a day if I don't meet the vague goal I just find it useful to have
+
+411
+00:39:14,880 --> 00:39:20,160
+ some structure. Yeah I just aimlessly scroll on Facebook. Winning! Should we do picks?
+
+412
+00:39:20,160 --> 00:39:27,440
+ Why not? I have read a science fiction book. It's a 2021 science fiction book
+
+413
+00:39:27,440 --> 00:39:36,640
+ so... but it's not a novel I mean there will be more novels I'm sure but this is Sinopticon,
+
+414
+00:39:36,640 --> 00:39:42,000
+ a celebration of Chinese science fiction translated and edited by Xueting Christine Ni
+
+415
+00:39:42,000 --> 00:39:46,720
+ and you're going to need to go and get it from a website that I will definitely put in the show notes
+
+416
+00:39:46,720 --> 00:39:53,440
+ because I don't think it's generally distributed. It is a collection of... or it's an anthology of 13 stories
+
+417
+00:39:53,440 --> 00:39:59,760
+ and they have like little afterwords from the editor and translator where she's explained
+
+418
+00:39:59,760 --> 00:40:04,960
+ why she chose to put those ones in which is also very interesting. And I like the fact
+
+419
+00:40:04,960 --> 00:40:12,320
+ they're afterwords because sometimes I read the story going, "Oh no they're not going there". I mean
+
+420
+00:40:12,320 --> 00:40:19,200
+ so it's extremely interesting because of all the cultural stuff. As science fiction
+
+421
+00:40:19,200 --> 00:40:24,080
+ some of the stories are more interesting than others. Some of the stories are interesting in the
+
+422
+00:40:24,080 --> 00:40:32,000
+ way that they've chosen a science fictional trope to illustrate a facet of Chinese society which I
+
+423
+00:40:32,000 --> 00:40:37,120
+ think is really really good. It's all sorts of different things in here. There are old stories,
+
+424
+00:40:37,120 --> 00:40:44,240
+ new stories, forward-thinking stories, incredibly backwards-thinking stories. There's a lot of
+
+425
+00:40:44,240 --> 00:40:53,200
+ stuff that reads in a very heteronormative way compared to what you'd expect in modern science
+
+426
+00:40:53,200 --> 00:40:58,880
+ fiction now so some of it really feels like it's reflecting some of the science fiction of my youth
+
+427
+00:40:58,880 --> 00:41:03,680
+ and I really enjoyed it and I would strongly recommend it. I read She Who Became the Sun by
+
+428
+00:41:03,680 --> 00:41:10,320
+ Shelley Parker Chan which is a 2021 fantasy novel and it mainly is an interesting counterpoint to
+
+429
+00:41:10,320 --> 00:41:17,360
+ what you were just saying Alison because it is basically a retelling of the founding of the Ming
+
+430
+00:41:17,360 --> 00:41:26,720
+ dynasty but a very genderqueer one so it's all set in the China of the 14th
+
+431
+00:41:26,720 --> 00:41:34,320
+ century and it follows, basically, a peasant daughter who is told that her fate is to be nothing
+
+432
+00:41:34,320 --> 00:41:41,760
+ but when her brother dies, whose fate was to be great, she decides to essentially take over
+
+433
+00:41:41,760 --> 00:41:50,320
+ his identity. She takes his name. So Zhu Chongba then goes and joins a monastery, ends up
+
+434
+00:41:50,320 --> 00:41:58,480
+ joining the rise of the rebels against the Mongol Emperor. All the while disguised as her
+
+435
+00:41:58,480 --> 00:42:05,760
+ brother. And then kind of the opposing figure in the novel is the general who commands the Mongol
+
+436
+00:42:05,760 --> 00:42:13,760
+ forces, Ouyang, who is a eunuch. So essentially you have like these two opposing forces who both
+
+437
+00:42:13,760 --> 00:42:20,000
+ have very different kind of responses to their their gender and how people see them and how people
+
+438
+00:42:20,000 --> 00:42:25,360
+ view them and treat them and how they personally feel about it and just kind of... It's a very nice
+
+439
+00:42:25,360 --> 00:42:31,120
+ way of putting a different interpretation on this kind of known historical setting.
+
+440
+00:42:31,120 --> 00:42:40,160
+ It is fantasy but quite lightly fantasy I would say. The main thing is that the main character can
+
+441
+00:42:40,160 --> 00:42:45,440
+ can see ghosts and there is this idea that you get a mandate from heaven to rule which is actually
+
+442
+00:42:45,440 --> 00:42:50,240
+ kind of manifested as a physical flame. So that's the kind of fantasy elements other than that it's
+
+443
+00:42:50,240 --> 00:42:56,560
+ just kind of this big sort of historical epic of armies and battles and political machinations
+
+444
+00:42:56,560 --> 00:43:01,680
+ and assassinations and conquering and trying to essentially take over the entire empire but I
+
+445
+00:43:01,680 --> 00:43:08,640
+ think you have these two very interesting central characters. So I read that, I enjoyed that. It is the
+
+446
+00:43:08,640 --> 00:43:12,320
+ first one of a series but I think it works fairly well as a standalone in that you get you know the
+
+447
+00:43:12,320 --> 00:43:17,280
+ first chunk of of the rise to power and you know you can see what's going to happen...
+
+448
+00:43:17,280 --> 00:43:21,680
+ You can see that the next book will be about the next stage of the rise to power but you
+
+449
+00:43:21,680 --> 00:43:26,640
+ you're happy with it as a standalone and it is also a 2021 book and I think Shelley Parker Chan is
+
+450
+00:43:26,640 --> 00:43:34,960
+ also eligible for the Astounding Award. You guys are reading your old science fiction from last year
+
+451
+00:43:34,960 --> 00:43:41,600
+ but I'm here to do a pick from this year like a modern person because I watched the finale of the
+
+452
+00:43:41,600 --> 00:43:48,400
+ Expanse and I very much enjoyed it. It's done, it's finished, with a slight asterisk because I think
+
+453
+00:43:48,400 --> 00:43:54,400
+ they might be trying to make more but I'm not sure how that's going to go. But yes, it wrapped up and
+
+454
+00:43:54,400 --> 00:43:59,760
+ I thought it was good I thought they mostly stuck the landing. There are a few things that happen in
+
+455
+00:43:59,760 --> 00:44:05,520
+ season six which kind of obliquely referred things that are being set up for the later books and I
+
+456
+00:44:05,520 --> 00:44:11,200
+ think they are going to try to get the later books made in some form or another but I'm not quite sure
+
+457
+00:44:11,200 --> 00:44:16,080
+ how that's going to work. But in general I thought despite that being a little bit of a annoying
+
+458
+00:44:16,080 --> 00:44:20,400
+ thing in the last season, the last season was very good and I really enjoyed myself and really
+
+459
+00:44:20,400 --> 00:44:28,160
+ enjoyed watching it all come to an end. And certainly one of the better endings I've seen in SF genre
+
+460
+00:44:28,160 --> 00:44:35,680
+ TV series in well... Really since I've been paying attention, but yes, it kind of didn't set all
+
+461
+00:44:35,680 --> 00:44:41,600
+ fandom on fire immediately which for a long-running science fiction TV show is actually pretty good
+
+462
+00:44:41,600 --> 00:44:46,320
+ going. Looking at you, Game of Thrones. Looking at you, Lost. Looking at you, Battlestar Galactica.
+
+463
+00:44:46,320 --> 00:44:53,680
+ So yes, hurrah! Didn't screw it up! Well done, guys. I was gonna say, "Looking at you, Mass Effect
+
+464
+00:44:53,680 --> 00:45:02,000
+ Trilogy", the ending so bad they had to patch it out. That was the Octothorpe podcast and it's goodbye
+
+465
+00:45:02,000 --> 00:45:17,920
+ from me. It's goodbye from me. And it's goodbye from me.
+
+466
+00:45:26,640 --> 00:45:31,760
+ I think that's it, really. We could do, "That was the Octothorpe podcast", and then Liz can eat.
+
+467
+00:45:31,760 --> 00:45:35,520
+ It's all right it's only 6:45 I'm not gonna get hangry till 7.
+
+468
+00:45:35,520 --> 00:45:38,960
+ Excellent! Let's doss about for 15 minutes and really push our luck. No!
+
+469
+00:45:38,960 --> 00:45:45,520
+ I have just found on Shelley Parker Chan's website little pronunciations of the character names
+
+470
+00:45:45,520 --> 00:45:51,280
+ so I'm just gonna check in case I you have to drop in Ouyang. You probably do. It should be Ouyang
+
+471
+00:45:51,280 --> 00:45:56,000
+ You probably can't drop that in but anyway I just thought I'd mention that as it's super neat
+
+472
+00:45:56,000 --> 00:46:01,120
+ because I was like I do not know properly how to pronounce these names and I had not known
+
+473
+00:46:01,120 --> 00:46:04,560
+ that was there but it's a just a neat thing at the bottom of the press kit. It's like, here is how you
+
+474
+00:46:04,560 --> 00:46:10,880
+ pronounce the five main characters. The theme music for this episode was Fanfare for Space by Kevin
+
+475
+00:46:10,880 --> 00:46:20,000
+ Macleod at incompetech.com used under a Creative Commons Attribution 4.0 license. This podcast will end at the beep. Beeeep
+
+
+
+
