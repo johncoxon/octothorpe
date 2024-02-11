@@ -1,0 +1,2816 @@
+1
+00:00:00,000 --> 00:00:02,480
+ I've just read your hot, uh, we're gonna have an argument.
+
+2
+00:00:02,480 --> 00:00:03,960
+ I didn't realise we're gonna have an argument.
+
+3
+00:00:03,960 --> 00:00:05,040
+ Oh, yeah. No, I know.
+
+4
+00:00:05,040 --> 00:00:06,240
+ Fair enough.
+
+5
+00:00:06,240 --> 00:00:08,160
+ No, we're not. It's going to be very good.
+
+6
+00:00:08,160 --> 00:00:08,640
+ Nature.
+
+7
+00:00:08,640 --> 00:00:11,840
+ Because I don't feel very strongly about this.
+
+8
+00:00:11,840 --> 00:00:15,920
+ I just I just want to take one end of the argument for for podcasting sake.
+
+9
+00:00:28,560 --> 00:00:38,920
+ Hello everyone and welcome to the very 89th episode of Octa the Wop, a podcast for science fiction and science fiction fandom, which is coming to you on the 3rd of August, 2023.
+
+10
+00:00:38,920 --> 00:00:40,040
+ I'm John Coxon.
+
+11
+00:00:40,040 --> 00:00:41,440
+ I'm Alison Scott.
+
+12
+00:00:41,440 --> 00:00:42,600
+ And I'm Miss Batty.
+
+13
+00:00:42,600 --> 00:00:46,840
+ And we have letters of comments.
+
+14
+00:00:46,840 --> 00:00:57,720
+ Firstly, we have a letter of comment from Abigail Nussbaum, who says she is writing to come down on Liz's side regarding Plutoshine,
+
+15
+00:00:57,880 --> 00:01:00,440
+ but says that she agrees with Alison, the taken on its own.
+
+16
+00:01:00,440 --> 00:01:03,760
+ Plutoshine is a decent example of the sort of SF you would have a droid as a kid.
+
+17
+00:01:03,760 --> 00:01:08,440
+ But the reason she read it was because it was on the Clark shortlist and that's a choice she finds a silly baffling.
+
+18
+00:01:08,440 --> 00:01:14,720
+ I I I would say I also find it baffling that it's on a shortlist despite quite enjoying it.
+
+19
+00:01:14,720 --> 00:01:19,440
+ She also says Goliath's an astonishing novel, but quite hard going.
+
+20
+00:01:19,440 --> 00:01:20,920
+ I'm still halfway through Goliath.
+
+21
+00:01:20,920 --> 00:01:22,080
+ So maybe next time.
+
+22
+00:01:22,080 --> 00:01:25,280
+ Liz, do you want to talk about how I'm right?
+
+23
+00:01:25,600 --> 00:01:32,680
+ Abigail says that Goliath is at a work that is deliberately trying to be hard to read and she too found it a bit slow going.
+
+24
+00:01:32,680 --> 00:01:37,120
+ She mentions Emmy iterants as the Moon Day letters, which she thinks is a brilliant novel.
+
+25
+00:01:37,120 --> 00:01:42,600
+ We talked about that on the pods when I picked it after Neil and Nick gave it to me for my birthday.
+
+26
+00:01:42,600 --> 00:01:48,720
+ Interestingly, my wife really didn't get on with the Moon Day letters because she basically found the conceit.
+
+27
+00:01:48,720 --> 00:01:54,040
+ Because part of the conceit of the novel is you can work out what's happening faster than the main character can.
+
+28
+00:01:54,280 --> 00:01:58,240
+ Like the protagonist is not aware of a thing that is being made aware to you, the reader,
+
+29
+00:01:58,240 --> 00:02:09,440
+ but it's been your fundamentally did not believe that any adult would not be able to put together what was happening with the evidence they had in front of them and found the conceit that the main character had not utterly, utterly frustrating.
+
+30
+00:02:09,440 --> 00:02:11,600
+ And so kept asking me if it got good.
+
+31
+00:02:11,600 --> 00:02:13,280
+ So yes.
+
+32
+00:02:13,280 --> 00:02:15,520
+ I'll push to my list.
+
+33
+00:02:15,520 --> 00:02:19,280
+ I feel the need to express her opinions for the sake of balance.
+
+34
+00:02:19,560 --> 00:02:22,920
+ But I'm looking forward to reading Perta Shrine, I'm ready yet will be after my Hugo reading.
+
+35
+00:02:22,920 --> 00:02:29,200
+ And Edward Moreland also wrote in to thank Liz for her irritation.
+
+36
+00:02:29,200 --> 00:02:32,840
+ Yes, more listeners should write in to tell me when I am correct.
+
+37
+00:02:32,840 --> 00:02:33,360
+ Thank you.
+
+38
+00:02:33,360 --> 00:02:37,240
+ On the subject of books we did or did not enjoy.
+
+39
+00:02:37,240 --> 00:02:40,320
+ We got some submissions to our book throwing competition.
+
+40
+00:02:40,320 --> 00:02:42,400
+ So this is the annual for new listeners.
+
+41
+00:02:42,400 --> 00:02:46,840
+ The annual up to the competition where we ask our listeners to throw a book, measure how far it went.
+
+42
+00:02:46,840 --> 00:02:48,560
+ And then the winner receives a party.
+
+43
+00:02:48,760 --> 00:02:52,720
+ No, no, no, no, no, no, the river, the winner does not receive a pie.
+
+44
+00:02:52,720 --> 00:02:57,640
+ That's the only thing I said then, new listeners that isn't correct.
+
+45
+00:02:57,640 --> 00:03:00,280
+ All the rest was stone cold fact.
+
+46
+00:03:00,280 --> 00:03:07,640
+ But Farah threw ash by Mary gentle across the room and said it's supposed to be written by an academic historian,
+
+47
+00:03:07,640 --> 00:03:12,440
+ which I assume means that Farah did not find the portrayal of academic history realistic.
+
+48
+00:03:12,440 --> 00:03:13,360
+ Not being an academic.
+
+49
+00:03:13,360 --> 00:03:14,960
+ I really like cash.
+
+50
+00:03:14,960 --> 00:03:18,120
+ Not being an academic historian.
+
+51
+00:03:18,120 --> 00:03:19,000
+ I didn't know it was any of that.
+
+52
+00:03:19,000 --> 00:03:19,800
+ And I really liked it.
+
+53
+00:03:19,800 --> 00:03:21,840
+ I think Ash was pretty awesome.
+
+54
+00:03:21,840 --> 00:03:22,960
+ Yeah, good book.
+
+55
+00:03:22,960 --> 00:03:27,040
+ This is this is for shadowing slightly for our six weeks episode.
+
+56
+00:03:27,040 --> 00:03:31,440
+ Don't come and Gregor on Mastodon said that he would tell us the book.
+
+57
+00:03:31,440 --> 00:03:35,040
+ He's throwing hardest across the room, but he thinks it's author might follow him on Mastodon.
+
+58
+00:03:35,040 --> 00:03:37,480
+ So he simply said that it was very hard.
+
+59
+00:03:37,480 --> 00:03:42,280
+ SF and he loves their short stories, but their novels are clearly part of a linear accelerator experiment.
+
+60
+00:03:42,280 --> 00:03:48,080
+ And Alexandra Lane's commented to say that it's called hard SF because it doesn't deform when it hits things.
+
+61
+00:03:48,600 --> 00:03:49,320
+ Thank you both.
+
+62
+00:03:49,320 --> 00:03:51,240
+ Are we allowed to speculate about the author?
+
+63
+00:03:51,240 --> 00:03:52,440
+ What's the book? What's the book?
+
+64
+00:03:52,440 --> 00:03:54,040
+ Yeah, come on, come on Duncan.
+
+65
+00:03:54,040 --> 00:03:55,240
+ Slide into our DMs.
+
+66
+00:03:55,240 --> 00:03:56,680
+ Give us give us that hot gas.
+
+67
+00:03:56,680 --> 00:03:58,360
+ We promise we won't read out on the pot.
+
+68
+00:03:58,360 --> 00:04:00,520
+ I mean, my, my guess is.
+
+69
+00:04:00,520 --> 00:04:03,160
+ Could be.
+
+70
+00:04:03,160 --> 00:04:06,280
+ Can we look at the list of who follows Duncan on?
+
+71
+00:04:06,280 --> 00:04:11,240
+ We've got to look at the list of people who are on Mastodon because Duncan didn't check if they follow him.
+
+72
+00:04:11,240 --> 00:04:12,480
+ He just said he thinks they might.
+
+73
+00:04:12,480 --> 00:04:15,440
+ So they're definitely on Mastodon.
+
+74
+00:04:15,680 --> 00:04:24,080
+ Laurie Anderson wrote in saying that she was up for dueling six weeks episode and she suggested two names.
+
+75
+00:04:24,080 --> 00:04:28,000
+ So this is a pun from our group chat listeners behind the curtain.
+
+76
+00:04:28,000 --> 00:04:35,920
+ So our group chat is called Hugh GoktoThorp Girl, which is even harder to say in a sassy way than Hugh Gogirl is.
+
+77
+00:04:35,920 --> 00:04:40,240
+ So Hugh Gogirl is easy to say in a sassy way now that we've practiced.
+
+78
+00:04:40,240 --> 00:04:43,120
+ I just pronounced as Hock Octothorp Girl.
+
+79
+00:04:43,120 --> 00:04:43,960
+ She's nice.
+
+80
+00:04:43,960 --> 00:04:44,640
+ Oh.
+
+81
+00:04:44,840 --> 00:04:45,720
+ Oh.
+
+82
+00:04:45,720 --> 00:04:47,120
+ Hock Octothorp Girl.
+
+83
+00:04:47,120 --> 00:04:48,160
+ That's, that is nice.
+
+84
+00:04:48,160 --> 00:04:48,640
+ Yeah.
+
+85
+00:04:48,640 --> 00:04:54,240
+ But she suggests we call it Hock Octothorp Girl presents 12 weeks, but then further suggested, oh,
+
+86
+00:04:54,240 --> 00:04:59,880
+ or we could call it six takes because there are six of us and I did quite like that name.
+
+87
+00:04:59,880 --> 00:05:00,960
+ That is a very good name.
+
+88
+00:05:00,960 --> 00:05:02,960
+ Oh, that's very good.
+
+89
+00:05:02,960 --> 00:05:04,200
+ It's quite good.
+
+90
+00:05:04,200 --> 00:05:07,360
+ I'm not sure we only have three takes between the three of us.
+
+91
+00:05:07,360 --> 00:05:10,600
+ No, but I think for the pun, right.
+
+92
+00:05:10,600 --> 00:05:11,520
+ Anyway, movie on.
+
+93
+00:05:14,600 --> 00:05:21,560
+ Rajtooted about episode 87, he would prefer the moose sized Alison on the grounds that he could bribe her,
+
+94
+00:05:21,560 --> 00:05:25,800
+ not to fight using tea and cake, which, you know, just thinking outside the box.
+
+95
+00:05:25,800 --> 00:05:33,360
+ OK, so the word for the words tea and cake, substitute beer and cheese and you might be getting somewhere.
+
+96
+00:05:33,360 --> 00:05:37,080
+ Yeah, Alison doesn't like sweet things as much as savory things.
+
+97
+00:05:37,080 --> 00:05:38,040
+ That is true.
+
+98
+00:05:38,040 --> 00:05:42,920
+ He also said he's a bit disappointed with the president of the last two years that has been overturned
+
+99
+00:05:42,960 --> 00:05:46,360
+ regarding credits and wonders if this is a cultural thing in China.
+
+100
+00:05:46,360 --> 00:05:48,000
+ I'm going to explain it.
+
+101
+00:05:48,000 --> 00:05:52,760
+ And then Alison and Liz can tell me if they think that I have to cut the explanation out.
+
+102
+00:05:52,760 --> 00:05:58,560
+ So if this then immediately jumps to Raj's next two listeners, you know why.
+
+103
+00:05:58,560 --> 00:06:02,480
+ Oh, no, we cannot say that.
+
+104
+00:06:02,480 --> 00:06:03,560
+ I think we can.
+
+105
+00:06:03,560 --> 00:06:04,400
+ It's true.
+
+106
+00:06:04,400 --> 00:06:05,560
+ No, you can't say that.
+
+107
+00:06:05,560 --> 00:06:12,280
+ Raj, I'm simply going to answer your question by telling you that we are below what is widely referred to as the McCarthy threshold
+
+108
+00:06:12,560 --> 00:06:13,600
+ and leave it at that.
+
+109
+00:06:13,600 --> 00:06:15,840
+ You can ask us more questions in the bar.
+
+110
+00:06:15,840 --> 00:06:19,120
+ Raj also says, what does the 17 point lead mean?
+
+111
+00:06:19,120 --> 00:06:21,400
+ He looked, but he couldn't find anything.
+
+112
+00:06:21,400 --> 00:06:23,720
+ I think it literally means 17 votes.
+
+113
+00:06:23,720 --> 00:06:27,200
+ So 17 people that cast votes.
+
+114
+00:06:27,200 --> 00:06:30,320
+ It's not it's not 17%.
+
+115
+00:06:30,320 --> 00:06:33,080
+ I know that because that would have that would definitely have trounced
+
+116
+00:06:33,080 --> 00:06:35,640
+ skills even with the double, I think.
+
+117
+00:06:35,640 --> 00:06:41,160
+ So, Erset's culture to it is and said they found a video on
+
+118
+00:06:41,760 --> 00:06:46,640
+ the internet, which like had some bona fide wrecks and says the other one that they brought up
+
+119
+00:06:46,640 --> 00:06:50,120
+ seems a different beast for reasons that eventually get around to documenting property.
+
+120
+00:06:50,120 --> 00:06:54,640
+ And then they sent us a follow up email, basically kind of going in some of the details of this,
+
+121
+00:06:54,640 --> 00:06:59,480
+ but says they're not ready to go into the details they hit in the toot yet.
+
+122
+00:06:59,480 --> 00:07:04,040
+ And so what we're going to do is we're going to leave this discussion for later
+
+123
+00:07:04,040 --> 00:07:08,640
+ and come back to it when there is more information available.
+
+124
+00:07:08,720 --> 00:07:12,760
+ He does say at the end of his email, I'll still keep listening to you every fortnight, regardless.
+
+125
+00:07:12,760 --> 00:07:14,520
+ Thank you very much, Erset's culture.
+
+126
+00:07:14,520 --> 00:07:16,240
+ We're glad to have you on board.
+
+127
+00:07:16,240 --> 00:07:20,320
+ We also heard from Roman Orzansky, given the comments about world
+
+128
+00:07:20,320 --> 00:07:25,000
+ translating English names into phonetic sounds and Alison's comment that some people are given
+
+129
+00:07:25,000 --> 00:07:29,240
+ a Chinese name when studying Chinese and that the world cons should have asked for their Chinese names.
+
+130
+00:07:29,240 --> 00:07:33,520
+ One has to ask what are the Chinese names of members of the Octo-Thop cast?
+
+131
+00:07:33,520 --> 00:07:35,520
+ I don't think any of us have one.
+
+132
+00:07:35,520 --> 00:07:38,440
+ No, but if I get one, I'll let you know, Roman, because I might do.
+
+133
+00:07:38,920 --> 00:07:42,840
+ Learning Chinese is one of the things on my very, very long list of things I want to do,
+
+134
+00:07:42,840 --> 00:07:44,080
+ given that I'm going to live forever.
+
+135
+00:07:44,080 --> 00:07:50,160
+ And then Roman threw a book against the wall, which was one of Robert Heinlein's later works.
+
+136
+00:07:50,160 --> 00:07:54,520
+ And Roman thinks it was either the number of the beast or the cat who walks through walls,
+
+137
+00:07:54,520 --> 00:07:58,080
+ but he doesn't want to have to bother to actually find out which it was,
+
+138
+00:07:58,080 --> 00:08:00,000
+ which I think is entirely fair, Roman.
+
+139
+00:08:00,000 --> 00:08:01,320
+ Thank you for hanging in.
+
+140
+00:08:01,320 --> 00:08:03,920
+ I think the only Heinlein I've ever read is Starship Troopers.
+
+141
+00:08:03,920 --> 00:08:05,200
+ I don't think I've read anything else.
+
+142
+00:08:05,200 --> 00:08:06,240
+ I might be wrong.
+
+143
+00:08:06,600 --> 00:08:08,160
+ I've read Starship Troopers, I think.
+
+144
+00:08:08,160 --> 00:08:12,040
+ And I read some of his juveniles when I was a juvenile and quite enjoyed them.
+
+145
+00:08:12,040 --> 00:08:13,800
+ Mean last week, Liz.
+
+146
+00:08:13,800 --> 00:08:15,240
+ Oh, sing.
+
+147
+00:08:15,240 --> 00:08:23,120
+ We've saved a letter for last, which is Christopher J. Garcia.
+
+148
+00:08:23,120 --> 00:08:31,240
+ And he writes in, says that his kids asked whether Batti was Liz's goth name,
+
+149
+00:08:31,240 --> 00:08:34,360
+ fully aware that Chris's goth name is trying to clear on we.
+
+150
+00:08:34,640 --> 00:08:39,280
+ And if he had ever met Alison and Bella calm down enough to say they sound like
+
+151
+00:08:39,280 --> 00:08:40,480
+ they're from the East Coast.
+
+152
+00:08:40,480 --> 00:08:45,160
+ And I think anyone listening would agree that we all sound like we live on the East
+
+153
+00:08:45,160 --> 00:08:46,680
+ Coast of the USA.
+
+154
+00:08:46,680 --> 00:08:50,200
+ This is definitely what East Coast accents sound like.
+
+155
+00:08:50,200 --> 00:08:54,080
+ Yes, I sound particularly like I'm from Boston, definitely.
+
+156
+00:08:54,080 --> 00:08:59,320
+ He's working on the SF book of lists to list harder, which might take a while,
+
+157
+00:08:59,320 --> 00:09:02,720
+ meaning he can't work on the Batti criminal detective agency stories for a while,
+
+158
+00:09:02,800 --> 00:09:06,800
+ but he does have the title for a book murder from the third row.
+
+159
+00:09:06,800 --> 00:09:08,200
+ It's a good name.
+
+160
+00:09:08,200 --> 00:09:10,040
+ So when he's right, that's good.
+
+161
+00:09:10,040 --> 00:09:10,760
+ Name, good.
+
+162
+00:09:10,760 --> 00:09:11,600
+ Name, it's pretty good.
+
+163
+00:09:11,600 --> 00:09:15,440
+ Yeah, you should write that, Chris, and we can we can just go to my share of royalties later.
+
+164
+00:09:15,440 --> 00:09:17,600
+ Not that great.
+
+165
+00:09:17,600 --> 00:09:20,800
+ No, it's my criminal detective agency.
+
+166
+00:09:20,800 --> 00:09:22,200
+ I can't be the first victim, can I?
+
+167
+00:09:22,200 --> 00:09:24,960
+ There'll be a twist.
+
+168
+00:09:24,960 --> 00:09:26,680
+ Yeah, quite an old twist.
+
+169
+00:09:26,680 --> 00:09:27,880
+ That was all the letters of comment.
+
+170
+00:09:27,880 --> 00:09:29,800
+ Thank you people for writing in.
+
+171
+00:09:29,800 --> 00:09:31,360
+ Oh, that was not let's comment.
+
+172
+00:09:31,360 --> 00:09:32,480
+ It was.
+
+173
+00:09:32,760 --> 00:09:34,000
+ Thank you, chonky.
+
+174
+00:09:34,000 --> 00:09:42,000
+ Transcription.
+
+175
+00:09:42,000 --> 00:09:45,280
+ So we have submitted to the Hugo voter packet listeners.
+
+176
+00:09:45,280 --> 00:09:48,560
+ Probably if you're already a listener, you're not going to go back and look at our
+
+177
+00:09:48,560 --> 00:09:51,320
+ submission because you've already heard all the episodes.
+
+178
+00:09:51,320 --> 00:09:59,320
+ But we have given episode 49, 62 and 72 to the Hugo voter packet.
+
+179
+00:09:59,320 --> 00:10:02,040
+ And we've given all of our cover art as well.
+
+180
+00:10:02,280 --> 00:10:05,360
+ And we've done transcripts for those three episodes.
+
+181
+00:10:05,360 --> 00:10:10,880
+ And we would like to know whether anyone listening interacts with transcripts for any
+
+182
+00:10:10,880 --> 00:10:14,840
+ podcasts and if they do, what is it you want from your transcripts?
+
+183
+00:10:14,840 --> 00:10:17,520
+ None of the three of us use transcripts for podcasts.
+
+184
+00:10:17,520 --> 00:10:22,080
+ And so we would be keen to know what people find useful and what they don't.
+
+185
+00:10:22,080 --> 00:10:26,560
+ Because we're kind of guessing, which, you know, makes it hard to do a good job, I think.
+
+186
+00:10:26,560 --> 00:10:28,960
+ So if anyone does have any opinions, please do write in.
+
+187
+00:10:29,280 --> 00:10:33,320
+ I think having it on GitHub is good and we should probably put all the other transcripts
+
+188
+00:10:33,320 --> 00:10:34,760
+ we've done on GitHub as well.
+
+189
+00:10:34,760 --> 00:10:35,680
+ Yes.
+
+190
+00:10:35,680 --> 00:10:41,320
+ So we do now have a GitHub of our transcripts and subtitles.
+
+191
+00:10:41,320 --> 00:10:42,800
+ What I'll probably do.
+
+192
+00:10:42,800 --> 00:10:46,040
+ So at the moment, it's just got the three that we put in for the Hugo voter packet.
+
+193
+00:10:46,040 --> 00:10:52,600
+ I will probably put in the automated whisper, a I generated transcripts as well.
+
+194
+00:10:52,600 --> 00:10:56,600
+ They are not as good as the ones we've been through and fixed, but they are still pretty good.
+
+195
+00:10:56,760 --> 00:10:59,880
+ They're definitely good enough to kind of get a feel for what we're talking about.
+
+196
+00:10:59,880 --> 00:11:03,600
+ And as someone who does use subtitles on like YouTube videos and stuff, they're
+
+197
+00:11:03,600 --> 00:11:04,920
+ better than a lot of those.
+
+198
+00:11:04,920 --> 00:11:06,680
+ So those will be going as well.
+
+199
+00:11:06,680 --> 00:11:10,520
+ But if you want to look at transcripts or subtitles, head over to the GitHub, which
+
+200
+00:11:10,520 --> 00:11:12,880
+ has a link in the show notes.
+
+201
+00:11:12,880 --> 00:11:15,840
+ Yeah, we do also have them by way in the subtitle format.
+
+202
+00:11:15,840 --> 00:11:20,480
+ So if you want to listen to the pod with subtitles, you can do that either from our
+
+203
+00:11:20,480 --> 00:11:25,680
+ Poppin page or by running the subtitles yourself in the media player of your choice.
+
+204
+00:11:25,920 --> 00:11:32,600
+ And then finally, I was transcribing episode 72 and we decided in that episode that we
+
+205
+00:11:32,600 --> 00:11:39,360
+ should do our Octavursary podcast in either episode 80 or episode 88 and coming to you
+
+206
+00:11:39,360 --> 00:11:43,800
+ from the lands of episode 89, I can confirm that we did not do either of those things.
+
+207
+00:11:43,800 --> 00:11:44,920
+ Hoorah!
+
+208
+00:11:44,920 --> 00:11:49,320
+ We're very geared as monkeys towards base 10.
+
+209
+00:11:49,320 --> 00:11:54,120
+ So you will find a celebration in episode 100 if we're still going by then.
+
+210
+00:11:54,360 --> 00:11:56,960
+ Alison is showing her 10 digits to the camera.
+
+211
+00:11:56,960 --> 00:12:01,760
+ Oh, God, that sounded kinkier than I anticipated it would when I started.
+
+212
+00:12:01,760 --> 00:12:03,680
+ I am.
+
+213
+00:12:03,680 --> 00:12:09,040
+ I am now wondering about doing us as eight digit monkeys, eight finger monkeys.
+
+214
+00:12:09,040 --> 00:12:11,240
+ Oh, yes, that would be good.
+
+215
+00:12:11,240 --> 00:12:11,920
+ I like that.
+
+216
+00:12:11,920 --> 00:12:12,680
+ That's right.
+
+217
+00:12:12,680 --> 00:12:15,160
+ AI, because of the number of fingers being wrong.
+
+218
+00:12:15,160 --> 00:12:17,200
+ I love it.
+
+219
+00:12:17,200 --> 00:12:17,600
+ Yeah.
+
+220
+00:12:17,600 --> 00:12:20,320
+ No, the number of fingers are wrong, but inconsistent.
+
+221
+00:12:20,320 --> 00:12:21,400
+ Yes.
+
+222
+00:12:21,640 --> 00:12:25,200
+ Also, would these be AI generated transcripts?
+
+223
+00:12:25,200 --> 00:12:35,680
+ So we're going to move on to Glasgow in 2034.
+
+224
+00:12:35,680 --> 00:12:38,560
+ Shall we talk about Liz's role first and then do AI?
+
+225
+00:12:38,560 --> 00:12:44,440
+ We can do Liz has taken a role for Glasgow in 2024.
+
+226
+00:12:44,440 --> 00:12:50,440
+ And she is the area head of podcasting program.
+
+227
+00:12:50,440 --> 00:12:51,080
+ Yes.
+
+228
+00:12:51,360 --> 00:12:52,600
+ I don't know how no one knows about that.
+
+229
+00:12:52,600 --> 00:12:55,560
+ As far as I know, it is not on the website or anything.
+
+230
+00:12:55,560 --> 00:12:56,960
+ Esther told me.
+
+231
+00:12:56,960 --> 00:12:58,120
+ Oh, Esther told you.
+
+232
+00:12:58,120 --> 00:12:58,560
+ OK.
+
+233
+00:12:58,560 --> 00:13:01,200
+ Yes.
+
+234
+00:13:01,200 --> 00:13:02,560
+ No, I am on the website now.
+
+235
+00:13:02,560 --> 00:13:07,680
+ I am down as podcasting content area head and it is still very early days as in
+
+236
+00:13:07,680 --> 00:13:09,760
+ which I mean, I haven't really done anything yet.
+
+237
+00:13:09,760 --> 00:13:12,000
+ Can we can we do a podcast?
+
+238
+00:13:12,000 --> 00:13:12,960
+ Can we do a lot of focus?
+
+239
+00:13:12,960 --> 00:13:14,280
+ Can we can we can we can we?
+
+240
+00:13:14,280 --> 00:13:18,160
+ I believe there will be ways in which you can, you know, submit to your pro.
+
+241
+00:13:18,160 --> 00:13:20,000
+ In fact, there's only way you can submit your program ideas.
+
+242
+00:13:20,000 --> 00:13:20,760
+ So go and fill in the form.
+
+243
+00:13:20,960 --> 00:13:27,320
+ But yes, by podcasting content, it means both live podcasts and program items about
+
+244
+00:13:27,320 --> 00:13:32,320
+ podcasting and I will sort of, you know, look at the suggestions, come up with some
+
+245
+00:13:32,320 --> 00:13:38,840
+ suggestions of our own, curate them into a podcasting stream at Glasgow in 2024.
+
+246
+00:13:38,840 --> 00:13:44,120
+ So should you have any great ideas about podcast program or any other program,
+
+247
+00:13:44,120 --> 00:13:48,160
+ to be honest, please submit them through our page where you can suggest program items.
+
+248
+00:13:48,360 --> 00:13:53,440
+ I have an idea for a panel. The title of the panel is why don't
+
+249
+00:13:53,440 --> 00:13:56,760
+ podcasters shout and the blurb is why are our podcasts just shout?
+
+250
+00:13:56,760 --> 00:13:57,880
+ Why use microphone?
+
+251
+00:13:57,880 --> 00:14:01,680
+ Our panel discusses the pros and cons of literally shouting into the void.
+
+252
+00:14:01,680 --> 00:14:02,600
+ What do you reckon?
+
+253
+00:14:02,600 --> 00:14:03,960
+ It's existential.
+
+254
+00:14:03,960 --> 00:14:05,400
+ Liz has written in the show notes.
+
+255
+00:14:05,400 --> 00:14:09,320
+ Please put this into the program suggestion form John.
+
+256
+00:14:09,320 --> 00:14:10,600
+ OK, Liz, I will do that.
+
+257
+00:14:10,600 --> 00:14:13,040
+ I'm going to do it on the podcast.
+
+258
+00:14:13,040 --> 00:14:15,480
+ Yeah, and we apparently have to put can we have
+
+259
+00:14:15,680 --> 00:14:18,360
+ thought live into the program suggestion form?
+
+260
+00:14:18,360 --> 00:14:24,400
+ I'm assuming that the entire purpose of this is to prevent of Liz's
+
+261
+00:14:24,400 --> 00:14:28,400
+ appointment is to prevent me from messaging Esther every time I think.
+
+262
+00:14:28,400 --> 00:14:32,200
+ Oh, and another thing you need to do for podcasters is yeah, this just seems
+
+263
+00:14:32,200 --> 00:14:33,560
+ you're going to message me, doesn't it?
+
+264
+00:14:33,560 --> 00:14:36,600
+ I've not really thought this through 100 percent.
+
+265
+00:14:36,600 --> 00:14:37,880
+ Now I'm going to tell you all the part.
+
+266
+00:14:37,880 --> 00:14:41,080
+ Oh, no, put it.
+
+267
+00:14:41,080 --> 00:14:43,400
+ Put it in the form.
+
+268
+00:14:43,400 --> 00:14:44,560
+ Can't.
+
+269
+00:14:44,760 --> 00:14:46,040
+ I've submitted the form, Liz.
+
+270
+00:14:46,040 --> 00:14:46,880
+ Boom.
+
+271
+00:14:46,880 --> 00:14:48,040
+ OK, yeah.
+
+272
+00:14:48,040 --> 00:14:51,200
+ So some of the stuff I've been saying hasn't been the sort of thing you put on the
+
+273
+00:14:51,200 --> 00:14:56,160
+ form because it's more kind of how you would structure the convention to make it
+
+274
+00:14:56,160 --> 00:15:00,160
+ podcast friendly in the same way that you might do how you would structure the
+
+275
+00:15:00,160 --> 00:15:02,200
+ convention to make it fancy and friendly, right?
+
+276
+00:15:02,200 --> 00:15:03,280
+ That sort of thing.
+
+277
+00:15:03,280 --> 00:15:09,480
+ I make the world con tailor the fan, the world con more to my specific needs.
+
+278
+00:15:09,480 --> 00:15:10,560
+ Yes.
+
+279
+00:15:10,760 --> 00:15:15,200
+ I await I listen to many messages and emails on this topic over the next year.
+
+280
+00:15:15,200 --> 00:15:20,000
+ So let's go to 2024 have released a statement about their policy on the use
+
+281
+00:15:20,000 --> 00:15:26,720
+ of AI art, which they say is a result of con consultation with the Association
+
+282
+00:15:26,720 --> 00:15:31,560
+ of Science Fiction and Fancy Artists and with artists at various conventions and
+
+283
+00:15:31,560 --> 00:15:32,840
+ looking at the policies of other conventions.
+
+284
+00:15:32,840 --> 00:15:36,240
+ But basically they will not accept artwork into the art show that comprises
+
+285
+00:15:36,240 --> 00:15:40,200
+ anything that was created using text to image AI generators or was created using
+
+286
+00:15:40,400 --> 00:15:43,600
+ compiler or generator that relies on the use of other artists images without the
+
+287
+00:15:43,600 --> 00:15:45,360
+ express permission of the artist.
+
+288
+00:15:45,360 --> 00:15:49,880
+ So basically if you have used one of these
+
+289
+00:15:49,880 --> 00:15:55,560
+ systems to generate art without the permission, maybe of the artist whose work
+
+290
+00:15:55,560 --> 00:15:59,480
+ on the lies it, then you cannot put it into the art show and they would prefer
+
+291
+00:15:59,480 --> 00:16:01,440
+ you also not to sell it in the dealer's room.
+
+292
+00:16:01,440 --> 00:16:05,440
+ And if you only have air artwork, you will that will be taken into consideration
+
+293
+00:16:05,440 --> 00:16:06,600
+ when they give you dooders room tables.
+
+294
+00:16:06,800 --> 00:16:10,880
+ So basically a strong thumbs down to AI generated art.
+
+295
+00:16:10,880 --> 00:16:16,160
+ So I have views and this is views based on the fact that I have spent my entire
+
+296
+00:16:16,160 --> 00:16:21,120
+ career as a fan artist with people saying, oh, no, you're not doing real art because
+
+297
+00:16:21,120 --> 00:16:25,440
+ I've always been using available digital tools.
+
+298
+00:16:25,440 --> 00:16:29,400
+ So when I started doing art, I started in a programme called Paint Shop Pro doing
+
+299
+00:16:29,400 --> 00:16:34,320
+ collaging and no, I was I was doing parody art of of movie posters.
+
+300
+00:16:34,520 --> 00:16:38,600
+ I didn't get the permission of the movie poster, the movie makers to do that.
+
+301
+00:16:38,600 --> 00:16:39,720
+ It's still fan art.
+
+302
+00:16:39,720 --> 00:16:40,800
+ It's still art.
+
+303
+00:16:40,800 --> 00:16:45,880
+ If you use any of the following, if you use any sort of Photoshop or any other photo
+
+304
+00:16:45,880 --> 00:16:49,160
+ manipulation programme, there's tons of machine learning in that.
+
+305
+00:16:49,160 --> 00:16:53,600
+ If you use fonts, they're all based on original work of artists because there's
+
+306
+00:16:53,600 --> 00:16:55,520
+ no copyright in fonts in the US.
+
+307
+00:16:55,520 --> 00:17:00,640
+ If you if you use a phone camera, then you're the reason that phones,
+
+308
+00:17:00,840 --> 00:17:04,760
+ despite having tiny cameras, give much better pictures than cameras, which have
+
+309
+00:17:04,760 --> 00:17:08,800
+ great big lenses, is because phones have machine learning in them.
+
+310
+00:17:08,800 --> 00:17:13,720
+ So they are building on incredibly large databases of photography and nobody
+
+311
+00:17:13,720 --> 00:17:14,840
+ complains about them.
+
+312
+00:17:14,840 --> 00:17:16,800
+ But suddenly when this piece of
+
+313
+00:17:16,800 --> 00:17:21,680
+ art of manipulation comes along, people are like, oh, no, it's based on looking at
+
+314
+00:17:21,680 --> 00:17:23,880
+ a billion pictures in some way.
+
+315
+00:17:23,880 --> 00:17:26,320
+ That's terribly much worse than everything else.
+
+316
+00:17:26,320 --> 00:17:27,800
+ And, you know, it's scary.
+
+317
+00:17:28,000 --> 00:17:29,600
+ There are artists who put paint on paper.
+
+318
+00:17:29,600 --> 00:17:33,040
+ It's scary because new tools are scary.
+
+319
+00:17:33,040 --> 00:17:36,360
+ But essentially, A, it's the future.
+
+320
+00:17:36,360 --> 00:17:38,200
+ And we're science fiction fans.
+
+321
+00:17:38,200 --> 00:17:41,600
+ And science fiction fandom should be when science fiction comes and knocks on the
+
+322
+00:17:41,600 --> 00:17:44,720
+ door and says, here I am, here's the future.
+
+323
+00:17:44,720 --> 00:17:48,480
+ We shouldn't always be going, oh, no, let us demonstrate that we are the most
+
+324
+00:17:48,480 --> 00:17:50,880
+ lotite and reactionary people on the planet.
+
+325
+00:17:50,880 --> 00:17:53,160
+ So, you know, I think this is totally the wrong decision.
+
+326
+00:17:53,160 --> 00:17:57,960
+ I think that art that is completely machine-generated is rubbish at the moment.
+
+327
+00:17:58,120 --> 00:18:00,760
+ And that's why it's not in your art show because it's rubbish and you have a
+
+328
+00:18:00,760 --> 00:18:01,680
+ quality-thritter old.
+
+329
+00:18:01,680 --> 00:18:06,800
+ And I think that lots of real artists are doing great work by taking the stuff that
+
+330
+00:18:06,800 --> 00:18:10,520
+ comes out of machine learning generators and then improving it.
+
+331
+00:18:10,520 --> 00:18:11,520
+ And I think that's fine.
+
+332
+00:18:11,520 --> 00:18:15,280
+ That they weren't accepted into the art show that comprises anything using text to image
+
+333
+00:18:15,280 --> 00:18:18,400
+ AI generators, stuff like mid-journey or
+
+334
+00:18:18,400 --> 00:18:23,320
+ darly and they won't let you use any compiler generator that relies on the use
+
+335
+00:18:23,320 --> 00:18:26,440
+ of other artist images without the permission of the artist.
+
+336
+00:18:26,640 --> 00:18:30,360
+ So I think they should probably make allowances for parody or commentary, as
+
+337
+00:18:30,360 --> 00:18:37,320
+ Alison says, because I do think, you know, there is value in art, which does kind
+
+338
+00:18:37,320 --> 00:18:41,800
+ of remix stuff in ways that are respected by copyright law in many countries at
+
+339
+00:18:41,800 --> 00:18:42,680
+ the moment.
+
+340
+00:18:42,680 --> 00:18:48,000
+ And I don't think having a strict line on that than, for example, the US's copyright
+
+341
+00:18:48,000 --> 00:18:49,440
+ laws is helpful.
+
+342
+00:18:49,440 --> 00:18:53,520
+ Because, yeah, I think I think a right to, you know, if someone does do a parody of
+
+343
+00:18:53,720 --> 00:18:58,320
+ a sort of misogynistic movie poster to make some science fiction art, like, is
+
+344
+00:18:58,320 --> 00:19:00,360
+ that something Glasgow will look down on?
+
+345
+00:19:00,360 --> 00:19:01,600
+ I rather imagine not.
+
+346
+00:19:01,600 --> 00:19:05,440
+ So this this statement needs to reflect that.
+
+347
+00:19:05,440 --> 00:19:11,560
+ I do think none of the examples of AI that Alison gave in terms of like Photoshop
+
+348
+00:19:11,560 --> 00:19:15,800
+ filters or phone cameras uses an artist's image without the express permission of
+
+349
+00:19:15,800 --> 00:19:16,360
+ that artist.
+
+350
+00:19:16,360 --> 00:19:18,200
+ So all of that would be fine.
+
+351
+00:19:18,200 --> 00:19:20,280
+ I think you could probably have an argument there.
+
+352
+00:19:20,480 --> 00:19:24,600
+ But I think by having that argument, you're doing a disservice to what Glasgow is
+
+353
+00:19:24,600 --> 00:19:26,160
+ trying to do here.
+
+354
+00:19:26,160 --> 00:19:33,200
+ And I think it's possible to agree with the I mean, I have a wife who is an artist
+
+355
+00:19:33,200 --> 00:19:35,360
+ who is very against AI art.
+
+356
+00:19:35,360 --> 00:19:44,040
+ I don't think it's fair to characterize the SF community valuing human labor as
+
+357
+00:19:44,040 --> 00:19:45,600
+ reactionary and luddite.
+
+358
+00:19:45,800 --> 00:19:52,080
+ I think there is an argument here about the society we want to use our technology
+
+359
+00:19:52,080 --> 00:19:56,840
+ to build and if that society doesn't involve humans, I'm broadly against it.
+
+360
+00:19:56,840 --> 00:20:01,440
+ And so I think it's more nuanced than that and probably an argument that's too
+
+361
+00:20:01,440 --> 00:20:03,960
+ much to go into on the pod.
+
+362
+00:20:03,960 --> 00:20:04,840
+ But I don't know.
+
+363
+00:20:04,840 --> 00:20:05,440
+ It's tricky.
+
+364
+00:20:05,440 --> 00:20:08,400
+ I in general don't disagree with the spirit of the statement.
+
+365
+00:20:08,400 --> 00:20:12,360
+ Like I say, I would introduce exceptions for parody and for commentary.
+
+366
+00:20:12,560 --> 00:20:17,120
+ But like in general, I don't have a big problem with this.
+
+367
+00:20:17,120 --> 00:20:18,520
+ And I think it's been here.
+
+368
+00:20:18,520 --> 00:20:23,040
+ We'll quite likes this kind of statement made.
+
+369
+00:20:23,040 --> 00:20:27,520
+ So I very deliberately put a piece of art that had involved
+
+370
+00:20:27,520 --> 00:20:29,800
+ AI generation into my Hugo Vert packet.
+
+371
+00:20:29,800 --> 00:20:35,280
+ I described it as my bid for being ranked below no award.
+
+372
+00:20:35,280 --> 00:20:39,800
+ So but you know, I did it quite deliberately because I think it's really
+
+373
+00:20:40,000 --> 00:20:45,800
+ important to say you can make excellent, unique individual work using these tools
+
+374
+00:20:45,800 --> 00:20:49,520
+ as part of what you do, but Glasgow doesn't want it because they're wrong.
+
+375
+00:20:49,520 --> 00:20:53,040
+ There is a, I mean, there is a personal taste thing here as well.
+
+376
+00:20:53,040 --> 00:20:53,400
+ Right.
+
+377
+00:20:53,400 --> 00:20:57,320
+ Like all of my favorite pieces of Alison's art that she's done for the podcast
+
+378
+00:20:57,320 --> 00:21:00,120
+ are the ones that don't involve AI and all of my least favorite ones are the ones
+
+379
+00:21:00,120 --> 00:21:02,480
+ that do and I don't think that's a coincidence.
+
+380
+00:21:02,480 --> 00:21:03,680
+ Oh, thanks a lot.
+
+381
+00:21:03,680 --> 00:21:04,480
+ Sorry.
+
+382
+00:21:04,480 --> 00:21:08,880
+ I think it would be interesting for you to say which those are.
+
+383
+00:21:09,080 --> 00:21:13,040
+ And for me to say, ah, because you don't know when I'm using AI.
+
+384
+00:21:13,040 --> 00:21:16,160
+ It's usually quite obvious because they're the ones that don't like look like your
+
+385
+00:21:16,160 --> 00:21:20,240
+ art style, like you have an art style and sometimes you do things.
+
+386
+00:21:20,240 --> 00:21:22,440
+ And I go, that's quite a new art direction.
+
+387
+00:21:22,440 --> 00:21:25,160
+ And then it turns out that it's because you use my journey for part of it.
+
+388
+00:21:25,160 --> 00:21:26,320
+ And I'm like, oh, that makes sense.
+
+389
+00:21:26,320 --> 00:21:33,640
+ But like one of the things I like about art is people's style and I doesn't have one.
+
+390
+00:21:33,640 --> 00:21:35,880
+ And like, that's not a dis.
+
+391
+00:21:35,880 --> 00:21:36,440
+ OK.
+
+392
+00:21:36,640 --> 00:21:41,120
+ So one of the things that's going on with AI as well is that Britain's absolutely
+
+393
+00:21:41,120 --> 00:21:46,320
+ no question for most science fictional artist is making and selling AI generated
+
+394
+00:21:46,320 --> 00:21:46,880
+ artwork.
+
+395
+00:21:46,880 --> 00:21:50,120
+ I like Jim Burns's art in general.
+
+396
+00:21:50,120 --> 00:21:53,560
+ I mean, I think he's my maybe not my favorite art in the art show, but I do like
+
+397
+00:21:53,560 --> 00:21:58,560
+ his paintings and I honestly could not tell that his art in the art show was AI
+
+398
+00:21:58,560 --> 00:22:01,840
+ until I saw the note saying it was AI.
+
+399
+00:22:01,840 --> 00:22:06,240
+ But I also wonder how much of this is how much has that AI model been trained
+
+400
+00:22:06,440 --> 00:22:09,200
+ in Jim Burns's art.
+
+401
+00:22:09,200 --> 00:22:13,400
+ So even if it's not in the art show, I think it would be really interesting if he's
+
+402
+00:22:13,400 --> 00:22:18,920
+ at Glasgow for Glasgow to ask him to talk through how he does this because as
+
+403
+00:22:18,920 --> 00:22:22,360
+ probably one of the I would say one of the few big name artists I've seen who
+
+404
+00:22:22,360 --> 00:22:28,040
+ seems to be pro AI art generation, it would be really interesting to see what he
+
+405
+00:22:28,040 --> 00:22:32,920
+ sees as the pros of it and how he actually does it, which might give people more of
+
+406
+00:22:32,920 --> 00:22:35,080
+ an insight into how it's done because I think there is this.
+
+407
+00:22:35,280 --> 00:22:39,120
+ There are people who definitely think you can just go like to mid journey and type,
+
+408
+00:22:39,120 --> 00:22:45,120
+ give me some Jim Burns style art of a cat alien and it will give you like a
+
+409
+00:22:45,120 --> 00:22:47,160
+ perfect painting, which it won't.
+
+410
+00:22:47,160 --> 00:22:52,080
+ But I can also see that Glasgow are trying to draw a line somewhere.
+
+411
+00:22:52,080 --> 00:22:56,760
+ And I think there is a line between the fact that my phone camera will try and
+
+412
+00:22:56,760 --> 00:23:01,440
+ enhance like a picture of a cow I took yesterday and something which sort of
+
+413
+00:23:01,640 --> 00:23:05,480
+ generates an image from whole cloth to be altered.
+
+414
+00:23:05,480 --> 00:23:08,960
+ Now, maybe I'm not particularly consistent in that, but I do think there is a
+
+415
+00:23:08,960 --> 00:23:12,520
+ difference and you also have to do have to think about training sets and training
+
+416
+00:23:12,520 --> 00:23:13,680
+ data and what has been used.
+
+417
+00:23:13,680 --> 00:23:16,720
+ And I can also do that if Photoshop has a thing saying your data will be used for
+
+418
+00:23:16,720 --> 00:23:20,720
+ training, then there is a slight difference between that and a data set, which has
+
+419
+00:23:20,720 --> 00:23:23,720
+ been scraped entirely from the internet.
+
+420
+00:23:23,720 --> 00:23:27,960
+ Like I may not have very prominently given my consent to my Photoshop images
+
+421
+00:23:27,960 --> 00:23:31,240
+ being in their data set, but maybe I have in a way that I haven't if it's just like
+
+422
+00:23:31,440 --> 00:23:34,480
+ a Cleveland art gallery has been scraped.
+
+423
+00:23:34,480 --> 00:23:36,840
+ And yeah, I'd say also this is Glasgow's policy.
+
+424
+00:23:36,840 --> 00:23:40,000
+ It doesn't necessarily follow that every single convention for the
+
+425
+00:23:40,000 --> 00:23:42,000
+ infinite future is going to follow that.
+
+426
+00:23:42,000 --> 00:23:45,560
+ It might be this is Glasgow's policy and other ones walk it back somewhere.
+
+427
+00:23:45,560 --> 00:23:47,520
+ But I do think it is a debate that needs to be had.
+
+428
+00:23:47,520 --> 00:23:51,080
+ And if they're going to have policy, I'm glad they've put the policy out now
+
+429
+00:23:51,080 --> 00:23:55,160
+ before people start planning for the art show and finding that actually it's not allowed.
+
+430
+00:23:55,160 --> 00:23:58,800
+ I think it's good to get it out early and have a chat about it.
+
+431
+00:23:59,000 --> 00:24:02,640
+ And I do think it would be good if they had drawn a distinction between
+
+432
+00:24:02,640 --> 00:24:09,560
+ scraped data sets and with the scraped without permission and data sets where all of the
+
+433
+00:24:09,560 --> 00:24:13,520
+ data is used with permission, which they absolutely haven't done.
+
+434
+00:24:13,520 --> 00:24:17,080
+ So, OK, so I want to say four things now.
+
+435
+00:24:17,080 --> 00:24:21,480
+ Firstly, I agree with both of you props to Glasgow for having this statement out
+
+436
+00:24:21,480 --> 00:24:22,800
+ more than a year in advance.
+
+437
+00:24:22,800 --> 00:24:23,560
+ That's very good.
+
+438
+00:24:23,560 --> 00:24:26,080
+ Secondly, I agree there needs to be a debate on this.
+
+439
+00:24:26,280 --> 00:24:31,320
+ I just looked through the Tracon 8 program and there is not a single item in which
+
+440
+00:24:31,320 --> 00:24:35,200
+ writers or creators discuss AI and what it means for the field.
+
+441
+00:24:35,200 --> 00:24:40,440
+ Now, I will say I don't think it's fair to characterize opposition to AI as being
+
+442
+00:24:40,440 --> 00:24:42,360
+ like against the spirit of the SF community.
+
+443
+00:24:42,360 --> 00:24:46,440
+ But I do think not discussing it is definitely against the spirit of the SF
+
+444
+00:24:46,440 --> 00:24:47,200
+ community.
+
+445
+00:24:47,200 --> 00:24:51,000
+ Like this is something that is coming and is a technology that will become very
+
+446
+00:24:51,000 --> 00:24:53,480
+ important, regardless of your opinion on it.
+
+447
+00:24:53,680 --> 00:24:58,400
+ And so it does surprise me that the WorldCon last year did not have any forum for
+
+448
+00:24:58,400 --> 00:24:58,640
+ that.
+
+449
+00:24:58,640 --> 00:25:01,360
+ I hope that Glasgow will have a forum for that.
+
+450
+00:25:01,360 --> 00:25:02,920
+ And I'm not putting that in the program.
+
+451
+00:25:02,920 --> 00:25:05,600
+ I program request form Esther and Liz.
+
+452
+00:25:05,600 --> 00:25:08,200
+ You're going to have to listen to this and you're going to have to take it on board
+
+453
+00:25:08,200 --> 00:25:10,560
+ as verbal feedback.
+
+454
+00:25:10,560 --> 00:25:13,760
+ Thirdly, completely on board with AI models.
+
+455
+00:25:13,760 --> 00:25:18,720
+ You can train a model on your own computer using examples of your own work.
+
+456
+00:25:18,720 --> 00:25:21,960
+ And there is examples of artists who have done this and writers who have done this
+
+457
+00:25:22,160 --> 00:25:23,360
+ on completely on board with that.
+
+458
+00:25:23,360 --> 00:25:30,200
+ And fourthly, I do think Glasgow is trying to draw a distinction here between
+
+459
+00:25:30,200 --> 00:25:35,360
+ scraping and plagiarism and using these tools with permission.
+
+460
+00:25:35,360 --> 00:25:39,320
+ I do think when they say created using any compiler or generator that relies on the
+
+461
+00:25:39,320 --> 00:25:41,800
+ use of other artists images without the express permission in the artist, I think
+
+462
+00:25:41,800 --> 00:25:42,640
+ that's what they're trying to do.
+
+463
+00:25:42,640 --> 00:25:45,920
+ I'm not necessarily saying I disagree with Alison, but I think they could do it
+
+464
+00:25:45,920 --> 00:25:46,400
+ better.
+
+465
+00:25:46,400 --> 00:25:50,880
+ But I do think the spirit of this statement is that what I will say is it gets really
+
+466
+00:25:51,080 --> 00:25:55,040
+ tricky with long and terminable terms and conditions where it's buried in like
+
+467
+00:25:55,040 --> 00:25:59,400
+ sub paragraph five of like because on the one hand, they have technically
+
+468
+00:25:59,400 --> 00:26:03,360
+ consented, but on the other hand, I am a big fan of enthusiastic consent.
+
+469
+00:26:03,360 --> 00:26:10,160
+ And so I get very fuzzy there where I'm like, I think that's really hard
+
+470
+00:26:10,160 --> 00:26:10,920
+ argument to have.
+
+471
+00:26:10,920 --> 00:26:13,880
+ And I think you can get very nuanced in what you think about that.
+
+472
+00:26:13,880 --> 00:26:17,000
+ But I do think in general, I'm not necessarily disagreeing with Alison that
+
+473
+00:26:17,000 --> 00:26:18,360
+ this could be worded better.
+
+474
+00:26:18,560 --> 00:26:21,120
+ But I think I think they are trying to draw that distinction.
+
+475
+00:26:21,120 --> 00:26:28,440
+ And then fifthly, sorry, I will say they did apparently develop this statement
+
+476
+00:26:28,440 --> 00:26:32,600
+ in consultation with the with Asper, which is the Association of Science
+
+477
+00:26:32,600 --> 00:26:36,240
+ Fiction and Family, artists, Sarah Felix is their chair.
+
+478
+00:26:36,240 --> 00:26:38,720
+ And that's another thing I just want to highlight.
+
+479
+00:26:38,720 --> 00:26:42,680
+ Like they clearly have tried not to just levy this from a bunch of people who
+
+480
+00:26:42,680 --> 00:26:45,840
+ haven't talked to artists, they have clearly tried to do a consultation, whether
+
+481
+00:26:45,840 --> 00:26:47,720
+ or not they've done that widely enough.
+
+482
+00:26:47,920 --> 00:26:50,720
+ But those are those are my things.
+
+483
+00:26:50,720 --> 00:26:55,880
+ It is not unusual for people who are already successful in the field to pull up
+
+484
+00:26:55,880 --> 00:27:03,000
+ the drawbridge against new technology that might might attack their position of
+
+485
+00:27:03,000 --> 00:27:03,600
+ privilege.
+
+486
+00:27:03,600 --> 00:27:09,640
+ So I think that's a core thing that's going on here is yes, people who have made
+
+487
+00:27:09,640 --> 00:27:14,440
+ their money using paint on paper and I fully accept that science fiction authors
+
+488
+00:27:14,640 --> 00:27:18,680
+ and not particularly, it's not a particular lucrative field.
+
+489
+00:27:18,680 --> 00:27:24,920
+ But then there's going to be absolutely on point on trying to prevent any technology
+
+490
+00:27:24,920 --> 00:27:26,200
+ that isn't paint on paper.
+
+491
+00:27:26,200 --> 00:27:29,920
+ Well, but I don't think so like this Banyo is a member of Asper.
+
+492
+00:27:29,920 --> 00:27:33,960
+ So I don't think I don't think you have to pay to join.
+
+493
+00:27:33,960 --> 00:27:37,880
+ I think there's also a few a few a paint on paper.
+
+494
+00:27:37,880 --> 00:27:40,800
+ Well, I literally never heard of it until this podcast.
+
+495
+00:27:40,800 --> 00:27:42,440
+ So, you know, what?
+
+496
+00:27:42,440 --> 00:27:43,440
+ Yeah.
+
+497
+00:27:43,640 --> 00:27:48,400
+ It's like the OK, so it's like the it's like the American.
+
+498
+00:27:48,400 --> 00:27:50,920
+ It's like the social right of America, right?
+
+499
+00:27:50,920 --> 00:27:52,480
+ Well, I mean, firstly, the science fiction
+
+500
+00:27:52,480 --> 00:27:53,880
+ writer's America doesn't exist anymore.
+
+501
+00:27:53,880 --> 00:27:56,160
+ It's now the science fiction writer's association.
+
+502
+00:27:56,160 --> 00:28:01,000
+ And yes, it is American based, but like it is it is the kind of science fiction
+
+503
+00:28:01,000 --> 00:28:02,520
+ group for artists.
+
+504
+00:28:02,520 --> 00:28:06,240
+ So like, I think I don't think you have to.
+
+505
+00:28:06,240 --> 00:28:09,720
+ I don't think it costs money to join.
+
+506
+00:28:09,720 --> 00:28:13,120
+ I think it's just a thing you can join if you are a science fiction artist.
+
+507
+00:28:13,320 --> 00:28:16,760
+ One of the things I will say is it has frustrated me that they don't present
+
+508
+00:28:16,760 --> 00:28:18,880
+ the Chesleys, which is their award.
+
+509
+00:28:18,880 --> 00:28:21,520
+ They don't present the Chesleys outside America very often.
+
+510
+00:28:21,520 --> 00:28:24,960
+ I wish they did because I do think the field is better for having Asper.
+
+511
+00:28:24,960 --> 00:28:26,760
+ I think they did in 2014.
+
+512
+00:28:26,760 --> 00:28:30,080
+ I think they do sometimes, but not as like.
+
+513
+00:28:30,080 --> 00:28:33,520
+ But yeah, I'm surprised I listened to them because they are basically, you know,
+
+514
+00:28:33,520 --> 00:28:37,160
+ the biggest association of science fiction and fantasy artists.
+
+515
+00:28:37,160 --> 00:28:40,320
+ And yeah, they do they don't present the Chesleys outside the US very often,
+
+516
+00:28:40,320 --> 00:28:40,920
+ but they do.
+
+517
+00:28:41,120 --> 00:28:45,600
+ Octa Thorpe, artists corner, Alice says, what are say's 10,000?
+
+518
+00:28:45,600 --> 00:28:49,360
+ I'm trying to get better at the XKCD model of this.
+
+519
+00:28:49,360 --> 00:28:51,120
+ I mean, no one's heard of everything, right?
+
+520
+00:28:51,120 --> 00:28:55,680
+ So the always the day when you find out about a thing is just today's a good day.
+
+521
+00:28:55,680 --> 00:29:00,720
+ To be fair, I had heard of the Chesleys because it was relevant at Lunkon.
+
+522
+00:29:00,720 --> 00:29:01,440
+ That's fair.
+
+523
+00:29:01,440 --> 00:29:02,680
+ Well, and that's the other thing, right?
+
+524
+00:29:02,680 --> 00:29:05,320
+ Like, I'm sure there are people who have heard of the Hugo Awards who haven't heard
+
+525
+00:29:05,320 --> 00:29:06,480
+ of like World Cora Wasvus.
+
+526
+00:29:06,480 --> 00:29:09,920
+ So the award is usually the bit you've heard of if you've heard of any of it.
+
+527
+00:29:10,120 --> 00:29:16,720
+ So moving on from the contentious issue of AI use in art to the completely
+
+528
+00:29:16,720 --> 00:29:23,440
+ contention free issue of Chinese sponsored chips to China, Hugo finalists were
+
+529
+00:29:23,440 --> 00:29:26,320
+ offered a free trip to the Chengdu Worldcon.
+
+530
+00:29:26,320 --> 00:29:29,120
+ Every finalist was offered one free trip.
+
+531
+00:29:29,120 --> 00:29:33,240
+ So one of me, Alison Orlys would go if some of them went.
+
+532
+00:29:33,240 --> 00:29:37,520
+ And Alison has also been offered a free trip in her capacity as glorious Hugo
+
+533
+00:29:37,520 --> 00:29:39,480
+ finalist for fan artists.
+
+534
+00:29:39,680 --> 00:29:42,240
+ So Alison, are you going to China?
+
+535
+00:29:42,240 --> 00:29:45,640
+ So I haven't actually told them I'm not going, but I'm not going.
+
+536
+00:29:45,640 --> 00:29:51,320
+ And my mixed my reasons are a mix of of the sorts of political ones that we are
+
+537
+00:29:51,320 --> 00:29:56,880
+ hearing a number of people saying, but also some personal ones that it falls right
+
+538
+00:29:56,880 --> 00:30:00,040
+ in the middle of my guff trip and it wouldn't actually be very practical.
+
+539
+00:30:00,040 --> 00:30:02,240
+ So it is a mixture of both.
+
+540
+00:30:02,240 --> 00:30:06,400
+ I'm slightly sad not to be going to China because I would love to meet a lot of
+
+541
+00:30:06,600 --> 00:30:10,160
+ Chinese fans in their home environment.
+
+542
+00:30:10,160 --> 00:30:14,040
+ But I'm not 100% certain that would happen at the Chengdu Worldcon anyway.
+
+543
+00:30:14,040 --> 00:30:18,000
+ So I might do better by just going to a round of Chinese universities,
+
+544
+00:30:18,000 --> 00:30:20,520
+ say, can I hang out with Sartre's, which has started for a bit.
+
+545
+00:30:20,520 --> 00:30:21,920
+ Liz, are you going to China?
+
+546
+00:30:21,920 --> 00:30:23,080
+ I mean, probably not.
+
+547
+00:30:23,080 --> 00:30:27,800
+ Although to me, the whether I get a sponsored trip or not doesn't really make
+
+548
+00:30:27,800 --> 00:30:31,200
+ much of a difference because I'm geographically far closer and it's far
+
+549
+00:30:31,200 --> 00:30:32,040
+ easy for me to go.
+
+550
+00:30:32,040 --> 00:30:33,640
+ So I haven't found complete.
+
+551
+00:30:33,840 --> 00:30:37,040
+ I probably won't go, which is partly for personal circumstances.
+
+552
+00:30:37,040 --> 00:30:42,000
+ It's a really awkward time of the year and partly because I'm not super into his
+
+553
+00:30:42,000 --> 00:30:46,080
+ about Chengdu and yeah, I think it might be like the handful of non-Chinese
+
+554
+00:30:46,080 --> 00:30:49,040
+ speakers all hanging out together and not having much interaction with the Chinese
+
+555
+00:30:49,040 --> 00:30:53,040
+ fans. But I think that depends very much on how many of the Chinese fans are
+
+556
+00:30:53,040 --> 00:30:54,800
+ bilingual and that I don't know.
+
+557
+00:30:54,800 --> 00:30:59,520
+ It could be higher than I think and also how much do they actually want to
+
+558
+00:30:59,520 --> 00:31:02,440
+ chat to people and how much do they want to meet other Chinese science fiction fans.
+
+559
+00:31:02,640 --> 00:31:07,040
+ So I'm not going, probably not going, but it's not like entirely as a protest
+
+560
+00:31:07,040 --> 00:31:09,600
+ saying it's just partly also a logistical thing.
+
+561
+00:31:09,600 --> 00:31:10,760
+ I'm not going either.
+
+562
+00:31:10,760 --> 00:31:20,320
+ Who wants to do their pick first?
+
+563
+00:31:20,320 --> 00:31:21,160
+ Shall I do mine?
+
+564
+00:31:21,160 --> 00:31:26,480
+ Because it's the end of the summer of cricket and summer of fun.
+
+565
+00:31:26,480 --> 00:31:31,400
+ And I'll be back to normal, normal having time for things that are not cricket,
+
+566
+00:31:31,600 --> 00:31:33,800
+ like maybe an audio book.
+
+567
+00:31:33,800 --> 00:31:38,360
+ So I have been reading Beyond a Boundary by C.L.R.
+
+568
+00:31:38,360 --> 00:31:40,520
+ James. James is a very interesting person.
+
+569
+00:31:40,520 --> 00:31:46,920
+ He was born and raised in Trinidad where he was given the best education that
+
+570
+00:31:46,920 --> 00:31:52,160
+ colonialism could provide in Trinidad and then went on to be a great supporter
+
+571
+00:31:52,160 --> 00:31:54,560
+ of post-colonialism, self-rule.
+
+572
+00:31:54,560 --> 00:31:57,520
+ And he was in Marxist.
+
+573
+00:31:57,720 --> 00:32:02,480
+ He as well as kind of supporting West India Federation of Somewhat, but also for
+
+574
+00:32:02,480 --> 00:32:04,320
+ island recognition.
+
+575
+00:32:04,320 --> 00:32:08,040
+ He did a lot of other interesting things too, but he was also the cricket
+
+576
+00:32:08,040 --> 00:32:12,440
+ correspondent of the Guardian and this book was described as the best book about
+
+577
+00:32:12,440 --> 00:32:14,240
+ cricket ever written and it is very good.
+
+578
+00:32:14,240 --> 00:32:15,520
+ He writes very well.
+
+579
+00:32:15,520 --> 00:32:22,400
+ It's very strange the way that he he kind of because this is what happened to
+
+580
+00:32:22,600 --> 00:32:28,280
+ Bright Lad's in Trinidad at the time, he's kind of soaked in in this sort of
+
+581
+00:32:28,280 --> 00:32:35,240
+ sense of the British education system, but then he gradually comes away from that
+
+582
+00:32:35,240 --> 00:32:38,680
+ to work out what he actually thinks for himself and all the time measured through
+
+583
+00:32:38,680 --> 00:32:40,200
+ the rule of cricket.
+
+584
+00:32:40,200 --> 00:32:43,320
+ You probably have to know a little bit about cricket to enjoy this book, but not
+
+585
+00:32:43,320 --> 00:32:47,240
+ a huge amount because he is talking about cricket and about West Indian cricketers.
+
+586
+00:32:47,440 --> 00:32:53,480
+ But he is using this as a way of talking about colonialism and race and identity
+
+587
+00:32:53,480 --> 00:33:00,880
+ and what it means to be a trinity, a daddy and a cricketer and a West Indian and
+
+588
+00:33:00,880 --> 00:33:01,640
+ all of that.
+
+589
+00:33:01,640 --> 00:33:04,480
+ And it is fascinating really enjoying it.
+
+590
+00:33:04,480 --> 00:33:08,280
+ Has nothing to do with Sartre's picture, guys, but cricket.
+
+591
+00:33:08,280 --> 00:33:11,160
+ Quick recommendation on sort of similar lines.
+
+592
+00:33:11,160 --> 00:33:16,600
+ If you want to hear Miles Jupp, who is a rather good stand up who used to host the
+
+593
+00:33:16,800 --> 00:33:22,640
+ quiz ruminate on the nature of identity and the nature of knowing what you want to
+
+594
+00:33:22,640 --> 00:33:29,640
+ do with your life through a lens of cricket, his stand up show is very good on
+
+595
+00:33:29,640 --> 00:33:32,760
+ the subject and I believe it is on Amazon Prime.
+
+596
+00:33:32,760 --> 00:33:38,320
+ I think you've got to pay for like a little uplift and it is called Fibber in the
+
+597
+00:33:38,320 --> 00:33:41,120
+ Heat. Liz, do you want to do a pick?
+
+598
+00:33:41,120 --> 00:33:42,080
+ Yeah, I do pick.
+
+599
+00:33:42,080 --> 00:33:43,520
+ I'm going to pick a fancy book.
+
+600
+00:33:43,520 --> 00:33:44,240
+ What?
+
+601
+00:33:44,440 --> 00:33:49,240
+ I'm going to pick the last blade priest by W.L.
+
+602
+00:33:49,240 --> 00:33:55,200
+ Wild, which I happened to know Abigail, not spamming, but this is just plain Abigail
+
+603
+00:33:55,200 --> 00:33:56,520
+ bait, really.
+
+604
+00:33:56,520 --> 00:33:59,320
+ It is a fancy novel.
+
+605
+00:33:59,320 --> 00:34:02,040
+ I think it's the first in a trilogy or certainly the first in a series because it
+
+606
+00:34:02,040 --> 00:34:03,480
+ doesn't really have an ending.
+
+607
+00:34:03,480 --> 00:34:05,560
+ It is secondary world fantasy.
+
+608
+00:34:05,560 --> 00:34:09,960
+ Basically, you have kind of converging narratives, one of whom is the last
+
+609
+00:34:10,160 --> 00:34:16,280
+ blade priest from essentially a weird religion where they worship a god mountain.
+
+610
+00:34:16,280 --> 00:34:21,880
+ They have demigods who are sort of bird people and Anton is the the blade priest
+
+611
+00:34:21,880 --> 00:34:25,280
+ from a religion where they used to have human sacrifices, but now they no longer
+
+612
+00:34:25,280 --> 00:34:32,040
+ do and the other plot strand is essentially a builder, a master builder from a kingdom
+
+613
+00:34:32,040 --> 00:34:37,400
+ who have fought a war against a league of free cities and just completely lost and
+
+614
+00:34:37,600 --> 00:34:44,040
+ now subjected to them and he has taken off on a quest essentially to build sort
+
+615
+00:34:44,040 --> 00:34:45,880
+ of a path towards this god mountain.
+
+616
+00:34:45,880 --> 00:34:49,200
+ I can't really describe it because it like if I tried to give you a summary of a
+
+617
+00:34:49,200 --> 00:34:54,760
+ 500 page fancy novel with multiple viewpoints, then there's just way more to it.
+
+618
+00:34:54,760 --> 00:34:58,920
+ As big of secondary world fantasies go, I did enjoy it.
+
+619
+00:34:58,920 --> 00:35:00,080
+ I think the world building is good.
+
+620
+00:35:00,080 --> 00:35:04,720
+ I think the viewpoint characters are all interesting characters and it does have
+
+621
+00:35:04,920 --> 00:35:07,960
+ kind of interesting world building. I like this kind of idea of like it is a
+
+622
+00:35:07,960 --> 00:35:11,880
+ world where you have an empire, but you also have these smaller kingdoms and you
+
+623
+00:35:11,880 --> 00:35:14,680
+ also have this league of free cities where they don't have a king.
+
+624
+00:35:14,680 --> 00:35:17,760
+ They're sort of more of a grouping and they're trying to decide, OK, if we've
+
+625
+00:35:17,760 --> 00:35:20,840
+ conquered this nation in a war, actually, what is the best way?
+
+626
+00:35:20,840 --> 00:35:24,080
+ Do we completely subjugate them or do we try and bring them into the league?
+
+627
+00:35:24,080 --> 00:35:29,720
+ That sort of thing, different attitudes to religion and magic and so on.
+
+628
+00:35:29,920 --> 00:35:34,320
+ There are elves, but some very interesting elves.
+
+629
+00:35:34,320 --> 00:35:38,920
+ I found them pretty interesting and yeah, so I really quite enjoyed it.
+
+630
+00:35:38,920 --> 00:35:43,120
+ It is too long and it doesn't really have an ending.
+
+631
+00:35:43,120 --> 00:35:47,600
+ But if I was going to ding fantasy books for being too long and not really have an
+
+632
+00:35:47,600 --> 00:35:50,520
+ ending, that is I find an awful lot of them that I read.
+
+633
+00:35:50,520 --> 00:35:52,720
+ So I quite enjoyed it.
+
+634
+00:35:52,720 --> 00:35:56,040
+ So I think that's why I will probably read the next one.
+
+635
+00:35:56,040 --> 00:35:59,160
+ If by the time it comes out, I can still remember what happened in this one,
+
+636
+00:35:59,360 --> 00:36:00,880
+ which is always my failing with fantasy trilatives.
+
+637
+00:36:00,880 --> 00:36:04,680
+ But I am still thinking, OK, I would quite like to read the second one rather than
+
+638
+00:36:04,680 --> 00:36:06,560
+ thinking, oh, that was nice, but I'm done.
+
+639
+00:36:06,560 --> 00:36:07,520
+ I'm never reading another one.
+
+640
+00:36:07,520 --> 00:36:12,440
+ It won the Kitchees Red Tentacle, I believe this year.
+
+641
+00:36:12,440 --> 00:36:16,120
+ And they're usually a sort of interesting read.
+
+642
+00:36:16,120 --> 00:36:17,160
+ Excellent.
+
+643
+00:36:17,160 --> 00:36:21,760
+ One day, I will know what the Kitchees are, but today is not that day.
+
+644
+00:36:21,760 --> 00:36:25,600
+ We should discuss it on a future episode because I just hear people talking about
+
+645
+00:36:25,600 --> 00:36:27,240
+ it, but I've never really investigated it.
+
+646
+00:36:27,440 --> 00:36:29,760
+ I'm sure the same is true for some of our listeners.
+
+647
+00:36:29,760 --> 00:36:32,080
+ So maybe we should have our in the future.
+
+648
+00:36:32,080 --> 00:36:35,360
+ I'm going to pick Asteroid City by Wes Anderson.
+
+649
+00:36:35,360 --> 00:36:36,400
+ Very good movie.
+
+650
+00:36:36,400 --> 00:36:38,720
+ I went to see Asteroid City the other day.
+
+651
+00:36:38,720 --> 00:36:40,760
+ I don't know if it's genre.
+
+652
+00:36:40,760 --> 00:36:44,720
+ I think it might be, but I also think it might not be.
+
+653
+00:36:44,720 --> 00:36:46,720
+ I think it depends how you think of it.
+
+654
+00:36:46,720 --> 00:36:50,480
+ It reminds me a lot of the Gran Butte Pest Hotel, which also by Wes Anderson.
+
+655
+00:36:50,480 --> 00:36:54,920
+ I think I enjoyed Gran Butte Pest slightly more, but it's very close.
+
+656
+00:36:55,120 --> 00:37:01,800
+ Asteroid City is probably dealing with very similar themes, but I think is much more
+
+657
+00:37:01,800 --> 00:37:04,640
+ optimistic than the Gran Butte Pest Hotel is.
+
+658
+00:37:04,640 --> 00:37:08,880
+ It deals more with filmmaking and storytelling than Gran Butte Pest does,
+
+659
+00:37:08,880 --> 00:37:12,960
+ even though Gran Butte Pest does deal with storytelling, like in its structure.
+
+660
+00:37:12,960 --> 00:37:18,240
+ It deals with a lot of the same themes as a Christopher Nolan work, but I liked it.
+
+661
+00:37:18,240 --> 00:37:20,600
+ And Jeff Goldblum is amazing.
+
+662
+00:37:20,600 --> 00:37:23,200
+ Highly recommend you can't see it in the cinema, if possible.
+
+663
+00:37:23,200 --> 00:37:24,640
+ Tom Hanks is amazing as well.
+
+664
+00:37:24,840 --> 00:37:26,400
+ I could just list all of the actors.
+
+665
+00:37:26,400 --> 00:37:27,960
+ If only I had a cinema.
+
+666
+00:37:27,960 --> 00:37:30,760
+ I'm going to say this every two weeks until the end of time now.
+
+667
+00:37:30,760 --> 00:37:32,760
+ That was the Thought Podcast.
+
+668
+00:37:32,760 --> 00:37:34,120
+ And it's a goodbye from me.
+
+669
+00:37:34,120 --> 00:37:35,400
+ It's goodbye from me.
+
+670
+00:37:35,400 --> 00:37:36,440
+ It's goodbye from me.
+
+671
+00:37:36,440 --> 00:37:57,560
+ [Music]
+
+672
+00:37:57,560 --> 00:38:01,400
+ Oh, Liz, can we wish you a happy birthday on the podcast?
+
+673
+00:38:01,400 --> 00:38:02,480
+ I mean, you can meet me.
+
+674
+00:38:02,480 --> 00:38:04,240
+ And can we tell people how old you are?
+
+675
+00:38:04,240 --> 00:38:05,160
+ Yes.
+
+676
+00:38:05,360 --> 00:38:06,560
+ When's your birthday, Liz?
+
+677
+00:38:06,560 --> 00:38:07,760
+ How do I not know this?
+
+678
+00:38:07,760 --> 00:38:10,480
+ My birthday was two and a half weeks ago.
+
+679
+00:38:10,480 --> 00:38:11,280
+ Yes.
+
+680
+00:38:11,280 --> 00:38:16,080
+ And Liz is now the age of 40 years old.
+
+681
+00:38:16,080 --> 00:38:17,760
+ A round number.
+
+682
+00:38:17,760 --> 00:38:18,560
+ I am.
+
+683
+00:38:18,560 --> 00:38:20,920
+ [Music]
+
+684
+00:38:20,920 --> 00:38:23,480
+ And that means in two years, she's going to have a massive party.
+
+685
+00:38:23,480 --> 00:38:24,520
+ It should be 42.
+
+686
+00:38:24,520 --> 00:38:25,400
+ Oh, yeah.
+
+687
+00:38:25,400 --> 00:38:26,360
+ Hmm.
+
+688
+00:38:26,360 --> 00:38:29,120
+ I'm starting the campaign for everyone in Science Nation,
+
+689
+00:38:29,120 --> 00:38:31,000
+ found them to have massive parties at 42.
+
+690
+00:38:31,000 --> 00:38:32,560
+ It's a bit late.
+
+691
+00:38:32,560 --> 00:38:35,320
+ I'm starting the campaign in the full knowledge that eventually we will
+
+692
+00:38:35,360 --> 00:38:40,120
+ unearth time travel and people can go back and have red right to parties.
+
+693
+00:38:40,120 --> 00:38:42,760
+ I mean, John, it also means you get to go to quite a few parties
+
+694
+00:38:42,760 --> 00:38:43,960
+ before you have to throw a party.
+
+695
+00:38:43,960 --> 00:38:44,880
+ Mm.
+
+696
+00:38:44,880 --> 00:38:45,920
+ I like that.
+
+697
+00:38:45,920 --> 00:38:48,360
+ I might have a I might have a 60th.
+
+698
+00:38:48,360 --> 00:38:49,720
+ Oh, you better.
+
+699
+00:38:49,720 --> 00:38:51,960
+ Oh, I'm up for that too.
+
+700
+00:38:51,960 --> 00:38:56,560
+ The theme music for this episode was Surf Shimmy by Kevin McLeod
+
+701
+00:38:56,560 --> 00:39:00,560
+ and Combetech.com used under a Creative Commons attribution 4.0
+
+702
+00:39:00,560 --> 00:39:01,280
+ license.
+
+703
+00:39:01,280 --> 00:39:03,480
+ This podcast will end at the beep.
+
+704
+00:39:03,480 --> 00:39:04,680
+ Beep.
+

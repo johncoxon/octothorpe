@@ -1,0 +1,4952 @@
+1
+00:00:00,000 --> 00:00:04,080
+ Thank you to everyone at Ch icon who came up and said kind words about the podcast, especially
+
+2
+00:00:04,080 --> 00:00:09,280
+ the ones who I had never met before and especially the person on the day before the convention
+
+3
+00:00:09,280 --> 00:00:13,760
+ started who overheard me and Liz and Ispania talking on the way back from breakfast and
+
+4
+00:00:13,760 --> 00:00:17,520
+ said, "Oh, you're from OctaThorp, I recognise your voice."
+
+5
+00:00:17,520 --> 00:00:18,520
+ That was very good.
+
+6
+00:00:18,520 --> 00:00:19,880
+ That has never happened to me before.
+
+7
+00:00:19,880 --> 00:00:22,520
+ Hello, person who listens to OctaThorp, it would lovely to meet you.
+
+8
+00:00:22,520 --> 00:00:25,920
+ I hope you had a lovely Ch icon right in and tell us all about it, please.
+
+9
+00:00:25,920 --> 00:00:45,000
+ Hello, everyone and welcome to the very 67th episode of OctaThorp, a podcast for Science
+
+10
+00:00:45,000 --> 00:00:50,560
+ Fiction and Science Fiction fandom which is coming to you on the 29th of September 2022.
+
+11
+00:00:50,560 --> 00:00:51,560
+ I'm John Coxon.
+
+12
+00:00:51,560 --> 00:00:52,560
+ I'm Alison Scott.
+
+13
+00:00:52,560 --> 00:00:54,920
+ And I'm Liz Batty.
+
+14
+00:00:54,920 --> 00:01:00,440
+ And this is the first time we have been sitting in our places with our microphones in a few
+
+15
+00:01:00,440 --> 00:01:01,440
+ weeks.
+
+16
+00:01:01,440 --> 00:01:04,160
+ So, hello Alison and Liz.
+
+17
+00:01:04,160 --> 00:01:09,720
+ Last time I saw you, Liz was perimidilbus and the time before that I was a computer.
+
+18
+00:01:09,720 --> 00:01:11,040
+ So how are you both doing?
+
+19
+00:01:11,040 --> 00:01:16,400
+ Well, we did spend a week eating in enormous breakfast together and generally hanging out.
+
+20
+00:01:16,400 --> 00:01:17,400
+ That's true.
+
+21
+00:01:17,400 --> 00:01:18,400
+ Was that you guys?
+
+22
+00:01:18,400 --> 00:01:19,400
+ Interesting.
+
+23
+00:01:19,400 --> 00:01:24,120
+ Yeah, the last time I saw John, I was sneaking out of our hotel room trying not to wake him
+
+24
+00:01:24,120 --> 00:01:25,800
+ up at 5 in the morning.
+
+25
+00:01:25,800 --> 00:01:27,800
+ I don't remember seeing you.
+
+26
+00:01:27,800 --> 00:01:29,840
+ So I imagine it worked well.
+
+27
+00:01:29,840 --> 00:01:30,840
+ So I succeeded.
+
+28
+00:01:30,840 --> 00:01:31,840
+ Hooray, okay.
+
+29
+00:01:31,840 --> 00:01:32,840
+ Yes.
+
+30
+00:01:32,840 --> 00:01:36,120
+ I'm sure that didn't read to come out quite the way it did.
+
+31
+00:01:36,120 --> 00:01:37,640
+ Who knows.
+
+32
+00:01:37,640 --> 00:01:39,960
+ It came out exactly how it was intended.
+
+33
+00:01:39,960 --> 00:01:43,560
+ I was sneaking out of John's hotel room early in the morning.
+
+34
+00:01:43,560 --> 00:01:47,600
+ But yes, we have some letters of comments and we have a variety of letters of comment
+
+35
+00:01:47,600 --> 00:01:50,320
+ on quite old episodes of OctaThorp.
+
+36
+00:01:50,320 --> 00:01:55,880
+ So we travel back in time to the 20th of August where a man called Christopher J. Garcia sent
+
+37
+00:01:55,880 --> 00:02:02,640
+ us a lock about OctaThorp, episode 64, and said that the transition from 32-bit OctaThorp
+
+38
+00:02:02,640 --> 00:02:07,040
+ to OctaThorp 64 will lead to confusion, but ultimately you'll adjust.
+
+39
+00:02:07,040 --> 00:02:11,360
+ So I'm glad the listenership that Chris has confidence in you and let us know how that
+
+40
+00:02:11,360 --> 00:02:12,920
+ transition has been going.
+
+41
+00:02:12,920 --> 00:02:18,240
+ He also proposes an alternative to the Broily Competence theory and his alternative is the
+
+42
+00:02:18,240 --> 00:02:20,640
+ Garcia rule of voting thing.
+
+43
+00:02:20,640 --> 00:02:22,920
+ It doesn't matter why you vote for a thing.
+
+44
+00:02:22,920 --> 00:02:24,880
+ It's concise.
+
+45
+00:02:24,880 --> 00:02:27,120
+ It doesn't have a lot of provisos.
+
+46
+00:02:27,120 --> 00:02:28,960
+ There's relatively few subsections.
+
+47
+00:02:28,960 --> 00:02:31,360
+ Yeah, it's a very Garcia approach.
+
+48
+00:02:31,360 --> 00:02:35,080
+ It is although he does then go on to tell us a little bit about some of his Hugo votes
+
+49
+00:02:35,080 --> 00:02:36,800
+ and why he's voting for them.
+
+50
+00:02:36,800 --> 00:02:39,840
+ So he is undermining his own voting rule.
+
+51
+00:02:39,840 --> 00:02:45,000
+ And he does note there are exceptions and notes the dirt bag incursion of 2014-2016,
+
+52
+00:02:45,000 --> 00:02:46,000
+ which is fair.
+
+53
+00:02:46,000 --> 00:02:47,880
+ It's good exception.
+
+54
+00:02:47,880 --> 00:02:55,000
+ We also got some comments on the fact that Alison referred to Star Wars Lower Decks.
+
+55
+00:02:55,000 --> 00:02:59,080
+ I was going to make that the episode title, but relented in the face of Alison looking
+
+56
+00:02:59,080 --> 00:03:01,400
+ sad when I said I was going to do that.
+
+57
+00:03:01,400 --> 00:03:02,560
+ But I did leave it in.
+
+58
+00:03:02,560 --> 00:03:05,240
+ And so everyone wrote in to say that Alison had done that.
+
+59
+00:03:05,240 --> 00:03:06,520
+ And yes, it was very funny.
+
+60
+00:03:06,520 --> 00:03:08,400
+ We didn't notice at the time we didn't correct her.
+
+61
+00:03:08,400 --> 00:03:09,400
+ We're bad people.
+
+62
+00:03:09,400 --> 00:03:10,400
+ Sorry, Alison.
+
+63
+00:03:10,400 --> 00:03:16,840
+ I didn't want to have Star Wars Lower Decks as the episode title because I had done us
+
+64
+00:03:16,840 --> 00:03:19,520
+ as Star Wars characters the previous episode.
+
+65
+00:03:19,520 --> 00:03:23,760
+ And I've just realized, oh shit, I could have just done a commemorative plate with the picture
+
+66
+00:03:23,760 --> 00:03:27,200
+ from the previous episode as the middle of the plate.
+
+67
+00:03:27,200 --> 00:03:30,680
+ And that would have saved me about $10,000 at Oh God.
+
+68
+00:03:30,680 --> 00:03:35,520
+ And then the nature of time saving hacks, I do expect every piece of episode artwork from
+
+69
+00:03:35,520 --> 00:03:39,160
+ now on to be a commemorative plate of some kind or other.
+
+70
+00:03:39,160 --> 00:03:45,560
+ Yeah, because I could do a commemorative plate really quickly now because the way I did the
+
+71
+00:03:45,560 --> 00:03:53,240
+ commemorative plate cover was to generate a commemorative plate making macro for Photoshop.
+
+72
+00:03:53,240 --> 00:03:59,360
+ So we got some letters of comment on episode 65 action castle two.
+
+73
+00:03:59,360 --> 00:04:05,080
+ But unfortunately, I didn't understand any of them because you all used the wrong verbs.
+
+74
+00:04:05,080 --> 00:04:11,440
+ It's fair to say that some of our listeners did not particularly like the action castle
+
+75
+00:04:11,440 --> 00:04:16,640
+ episode and at least once said that it gave them info com flashbacks.
+
+76
+00:04:16,640 --> 00:04:18,800
+ So sorry about that if that's you.
+
+77
+00:04:18,800 --> 00:04:20,760
+ Remember to keep the junk mail.
+
+78
+00:04:20,760 --> 00:04:21,920
+ You'll need it later.
+
+79
+00:04:21,920 --> 00:04:25,320
+ We got some comments on episode 66 on Facebook.
+
+80
+00:04:25,320 --> 00:04:29,760
+ I haven't had any emails yet, but I'm sure we will.
+
+81
+00:04:29,760 --> 00:04:35,880
+ But we got Facebook comments and a lot of people liked the picture of the three of us at the
+
+82
+00:04:35,880 --> 00:04:41,800
+ Hugo's listener Liz Batty said that my hair was very annoying.
+
+83
+00:04:41,800 --> 00:04:43,200
+ Sorry about that, Liz.
+
+84
+00:04:43,200 --> 00:04:47,840
+ And Laurie Anderson from Hugo Girl posted to say, how did we fail to record even one
+
+85
+00:04:47,840 --> 00:04:49,480
+ second of friendship audio?
+
+86
+00:04:49,480 --> 00:04:51,720
+ And that is that is a good point.
+
+87
+00:04:51,720 --> 00:04:54,200
+ We did not record any Hugo Girl friendship audio.
+
+88
+00:04:54,200 --> 00:05:00,200
+ It's very sad, but there are some photos of us and Hugo Girl people hanging out, which
+
+89
+00:05:00,200 --> 00:05:01,280
+ was very good.
+
+90
+00:05:01,280 --> 00:05:05,760
+ But there will be in the future maybe at some point when we come to Dragoncon next year,
+
+91
+00:05:05,760 --> 00:05:06,760
+ we're all going to Dragoncon.
+
+92
+00:05:06,760 --> 00:05:09,760
+ You heard it here first, including Alison and Liz who didn't know.
+
+93
+00:05:09,760 --> 00:05:13,200
+ Liz continues to knit and Alison is a gape.
+
+94
+00:05:13,200 --> 00:05:17,640
+ I'm more likely to go to Dragoncon than Chengdu next year, but I'm probably more likely to
+
+95
+00:05:17,640 --> 00:05:19,200
+ go to Winnipeg than either.
+
+96
+00:05:19,200 --> 00:05:20,200
+ Where is Winnipeg?
+
+97
+00:05:20,200 --> 00:05:24,080
+ Can you like Winnipeg and Dragoncon on consecutive weekends and die?
+
+98
+00:05:24,080 --> 00:05:29,640
+ Permacon is the 20th to the 5th of July and Dragoncon is Labor Day weekend, so you couldn't.
+
+99
+00:05:29,640 --> 00:05:31,040
+ So that's not happening then.
+
+100
+00:05:31,040 --> 00:05:32,800
+ I'm not going to any of these conventions.
+
+101
+00:05:32,800 --> 00:05:34,320
+ It would be lovely, but it's not going to happen.
+
+102
+00:05:34,320 --> 00:05:37,840
+ I'm going to Australia and New Zealand.
+
+103
+00:05:37,840 --> 00:05:38,840
+ Oh.
+
+104
+00:05:38,840 --> 00:05:41,280
+ For my guff trip.
+
+105
+00:05:41,280 --> 00:05:43,080
+ Now I have looked it up.
+
+106
+00:05:43,080 --> 00:05:49,040
+ What I could do is go to Winnipeg and then the weekend after go to Gencon.
+
+107
+00:05:49,040 --> 00:05:50,040
+ Interesting.
+
+108
+00:05:50,040 --> 00:05:53,280
+ Oh, that sounds like an amazing thing to do.
+
+109
+00:05:53,280 --> 00:05:54,720
+ I thought you had no more money ever.
+
+110
+00:05:54,720 --> 00:05:57,720
+ Well, I might have some more money by then, I might be able to save up.
+
+111
+00:05:57,720 --> 00:06:00,880
+ Yeah, we know you're going to spend it on them.
+
+112
+00:06:00,880 --> 00:06:03,640
+ Oh, Chicago was expensive.
+
+113
+00:06:03,640 --> 00:06:04,640
+ It was great.
+
+114
+00:06:04,640 --> 00:06:05,640
+ It was not cheap.
+
+115
+00:06:05,640 --> 00:06:07,520
+ Yeah, let's talk about Chicago.
+
+116
+00:06:07,520 --> 00:06:08,520
+ Chicago is great.
+
+117
+00:06:08,520 --> 00:06:10,000
+ It's very tall.
+
+118
+00:06:10,000 --> 00:06:11,880
+ Alison, how did you find it?
+
+119
+00:06:11,880 --> 00:06:16,040
+ It was proportionately more taller than it was for me or Liz, for you.
+
+120
+00:06:16,040 --> 00:06:18,040
+ It's tall, but it's also quite kind of big.
+
+121
+00:06:18,040 --> 00:06:20,600
+ It's got a lot of space.
+
+122
+00:06:20,600 --> 00:06:26,200
+ It has a river and it also has a lake, but the lake is quite big, so it feels like a
+
+123
+00:06:26,200 --> 00:06:27,200
+ sea.
+
+124
+00:06:27,200 --> 00:06:30,680
+ I think the lake is as big as the Netherlands.
+
+125
+00:06:30,680 --> 00:06:32,200
+ So that's quite big.
+
+126
+00:06:32,200 --> 00:06:36,040
+ Can you put that in terms of double decker buses or whales?
+
+127
+00:06:36,040 --> 00:06:37,520
+ I think you could fit a lot of...
+
+128
+00:06:37,520 --> 00:06:41,960
+ Oh, no, the lake is probably bigger than whales because it's about as big as the Netherlands.
+
+129
+00:06:41,960 --> 00:06:42,960
+ It's big.
+
+130
+00:06:42,960 --> 00:06:43,960
+ It's really big.
+
+131
+00:06:43,960 --> 00:06:47,080
+ You may think it's a long way, just going out into shops, but that's just peanuts compared
+
+132
+00:06:47,080 --> 00:06:49,240
+ to Lake Michigan.
+
+133
+00:06:49,240 --> 00:06:50,240
+ Indeed.
+
+134
+00:06:50,240 --> 00:06:53,520
+ Chicago is pretty big and pretty tall.
+
+135
+00:06:53,520 --> 00:06:54,840
+ It's got a lot of skyscrapers.
+
+136
+00:06:54,840 --> 00:06:56,480
+ Some of them are very interesting.
+
+137
+00:06:56,480 --> 00:07:02,400
+ And I discovered that I love the work of Bertrand Goldberg, and wish there were more of it, in
+
+138
+00:07:02,400 --> 00:07:03,400
+ Chicago.
+
+139
+00:07:03,400 --> 00:07:09,360
+ He has two skyscrapers, one pair and one extra on the tour, and they're the best things
+
+140
+00:07:09,360 --> 00:07:11,040
+ on the entire tour.
+
+141
+00:07:11,040 --> 00:07:12,760
+ You may have to explain what tour...
+
+142
+00:07:12,760 --> 00:07:14,800
+ Yes, what tour are you referring to here, Alison?
+
+143
+00:07:14,800 --> 00:07:21,200
+ Yeah, we went on an architectural boat trip of Chicago, where our person giving us the
+
+144
+00:07:21,200 --> 00:07:23,280
+ guide was a real tour.
+
+145
+00:07:23,280 --> 00:07:31,960
+ So she kept explaining whether the building was rental or office or condominiums or whatever,
+
+146
+00:07:31,960 --> 00:07:34,840
+ and also she talked to an enormous amount about corner offices.
+
+147
+00:07:34,840 --> 00:07:38,520
+ So that was a bit weird, but otherwise it was very interesting to her.
+
+148
+00:07:38,520 --> 00:07:44,200
+ So to explain the tour in a more general level, rather than a very specific grope with the
+
+149
+00:07:44,200 --> 00:07:48,720
+ tour before he played what the tour was, it was a boat tour, and we went up and down the
+
+150
+00:07:48,720 --> 00:07:53,160
+ river in Chicago, and a very nice lady pointed out buildings and told us about the buildings,
+
+151
+00:07:53,160 --> 00:07:54,160
+ and it was good.
+
+152
+00:07:54,160 --> 00:07:57,960
+ And she explained who had done the buildings, and then also got quite into the weeds in some
+
+153
+00:07:57,960 --> 00:07:58,960
+ aspects.
+
+154
+00:07:58,960 --> 00:08:02,480
+ But it was very interesting, and I was glad to have done it at the start, because it meant
+
+155
+00:08:02,480 --> 00:08:06,320
+ when I was later walking around Chicago, and I saw these buildings from the bottom of the
+
+156
+00:08:06,320 --> 00:08:09,240
+ buildings, I was like, "Whoa, that's a tall building!"
+
+157
+00:08:09,240 --> 00:08:11,680
+ And there was also other art in Chicago.
+
+158
+00:08:11,680 --> 00:08:17,840
+ There was the Art Institute, I saw Night Hawks, which was amazing, and I also did not see the
+
+159
+00:08:17,840 --> 00:08:21,160
+ Tiffany Dome, but that was fine, because I'd been to the Tiffany Museum.
+
+160
+00:08:21,160 --> 00:08:26,200
+ Weirdly, the Tiffany Museum is in Winter Park near Orlando in Florida, given that a lot of
+
+161
+00:08:26,200 --> 00:08:27,720
+ Tiffany's work was Chicago-based.
+
+162
+00:08:27,720 --> 00:08:32,280
+ There is surprisingly little of it in Chicago, and if you want to see it, you need to go to
+
+163
+00:08:32,280 --> 00:08:33,960
+ Florida for some reason.
+
+164
+00:08:33,960 --> 00:08:39,040
+ I also had, I did not, I had a fine hot dog, I didn't have a great hot dog, I had a fine
+
+165
+00:08:39,040 --> 00:08:40,040
+ hot dog.
+
+166
+00:08:40,040 --> 00:08:45,560
+ I had a couple of pretty good hot dogs, I don't know whether I had kind of the canonical
+
+167
+00:08:45,560 --> 00:08:47,280
+ Chicago hot dog.
+
+168
+00:08:47,280 --> 00:08:50,960
+ Liz, what were your cultural highlights of Chicago?
+
+169
+00:08:50,960 --> 00:08:56,720
+ Well, I don't eat hot dogs, but I did have a couple of deep pumpitas, that was pretty
+
+170
+00:08:56,720 --> 00:08:57,720
+ good.
+
+171
+00:08:57,720 --> 00:09:02,240
+ Yeah, I just loved Chicago as a city, the weather when we were there, just before the
+
+172
+00:09:02,240 --> 00:09:07,840
+ con was perfect in that it was sunny and bright and warm, but not too hot.
+
+173
+00:09:07,840 --> 00:09:15,520
+ So I got one of the Chicago municipal e-bikes and biked it along the lake shore, up to
+
+174
+00:09:15,520 --> 00:09:21,560
+ the zoo, which is very nice, and e-bikes really sort out any pesky hills on the way.
+
+175
+00:09:21,560 --> 00:09:22,560
+ Not really hills, but inclines.
+
+176
+00:09:22,560 --> 00:09:27,320
+ Yeah, it's just a really lovely place to go and hang around, it has nice parks, it has
+
+177
+00:09:27,320 --> 00:09:31,800
+ these really impressive skyscrapers, you know, a bit about the skyscrapers, because
+
+178
+00:09:31,800 --> 00:09:37,280
+ ladies told you about how much of the architecture appears to depend on either having too many
+
+179
+00:09:37,280 --> 00:09:41,320
+ corner offices or not having enough corner offices, it seems to be a very big influence
+
+180
+00:09:41,320 --> 00:09:42,760
+ on how the architecture was done.
+
+181
+00:09:42,760 --> 00:09:46,240
+ Yeah, I mean I have no idea what it's like to actually live in Chicago, because I only
+
+182
+00:09:46,240 --> 00:09:52,240
+ really sort of went around the central bits, but it is a really nice place to spend a week
+
+183
+00:09:52,240 --> 00:09:56,360
+ full of exciting cultural opportunities and good food.
+
+184
+00:09:56,360 --> 00:10:00,880
+ I hung out quite a bit with Nigel Rowe, who lives quite close to the centre of Chicago,
+
+185
+00:10:00,880 --> 00:10:06,600
+ and he was extremely enthusiastic about living in Chicago, he thinks it's a fantastic place
+
+186
+00:10:06,600 --> 00:10:11,240
+ to live, which is why he lives there, given that he's from New Zealand.
+
+187
+00:10:11,240 --> 00:10:15,800
+ We also went down to the museum quarter and we went to the older Planetarium, which is
+
+188
+00:10:15,800 --> 00:10:18,920
+ the oldest planetarium in North America.
+
+189
+00:10:18,920 --> 00:10:23,400
+ In common with most planetarium has had its planetarium mechanism removed, because they're
+
+190
+00:10:23,400 --> 00:10:24,880
+ completely obsolete.
+
+191
+00:10:24,880 --> 00:10:28,400
+ We also looked at a lot of gardens, we went to the beach, we did not go swimming because
+
+192
+00:10:28,400 --> 00:10:32,360
+ there were massive signs saying no swimming everywhere, which I now understand are just
+
+193
+00:10:32,360 --> 00:10:37,000
+ kind of performative signs, and you're actually fine to swim, you just, they really should
+
+194
+00:10:37,000 --> 00:10:40,640
+ say do not swim and then try to sue the city about it.
+
+195
+00:10:40,640 --> 00:10:46,360
+ As Liz said, the weather in Chicago is often very difficult, both in summer and in winter,
+
+196
+00:10:46,360 --> 00:10:51,960
+ but when we were there it was extremely lovely the whole time pretty well, except when we
+
+197
+00:10:51,960 --> 00:10:53,840
+ were breakfast.
+
+198
+00:10:53,840 --> 00:10:59,160
+ We did get very soaked one day and I was wearing my Glasgow t-shirt ready for the 10 o'clock
+
+199
+00:10:59,160 --> 00:11:03,600
+ site selection announcement that Glasgow had won the Worldcon, and by the time I returned
+
+200
+00:11:03,600 --> 00:11:08,320
+ to the hotel I woke up about five minutes from the restaurant, I could no longer wear
+
+201
+00:11:08,320 --> 00:11:12,320
+ that t-shirt for two days while it dried out.
+
+202
+00:11:12,320 --> 00:11:17,080
+ But one of the other big advantages of Chicago was that there was a Worldcon there.
+
+203
+00:11:17,080 --> 00:11:18,280
+ Was pretty good.
+
+204
+00:11:18,280 --> 00:11:20,440
+ Yeah, went to a Worldcon.
+
+205
+00:11:20,440 --> 00:11:26,400
+ So this is, Alison, this is your first American Worldcon since.
+
+206
+00:11:26,400 --> 00:11:32,920
+ It is my first US Worldcon since 1993, though we did go to anticipation in 2009.
+
+207
+00:11:32,920 --> 00:11:37,360
+ Liz, this was your first American convention since Tracon 7?
+
+208
+00:11:37,360 --> 00:11:39,360
+ Nope, I went to Mid-American in 2016.
+
+209
+00:11:39,360 --> 00:11:41,880
+ Oh, of course you did, you went with Anna.
+
+210
+00:11:41,880 --> 00:11:42,880
+ Yes.
+
+211
+00:11:42,880 --> 00:11:46,680
+ Taffter, look at Anna Raftry also went to Mid-American, and this was my first American
+
+212
+00:11:46,680 --> 00:11:50,160
+ Worldcon since San Jose in 2018.
+
+213
+00:11:50,160 --> 00:11:55,160
+ Conferencesco was the first convention that Ispani went to when she was new, and that
+
+214
+00:11:55,160 --> 00:11:56,920
+ was the 1993 Worldcon.
+
+215
+00:11:56,920 --> 00:12:02,120
+ It's the only time the Worldcon will ever be in downtown San Francisco, and so I really
+
+216
+00:12:02,120 --> 00:12:06,440
+ regret I wasn't old enough to go, but yes, it sounds like it would have been an amazing
+
+217
+00:12:06,440 --> 00:12:07,440
+ convention.
+
+218
+00:12:07,440 --> 00:12:14,960
+ I don't think I quite understood properly how to do Worldcons in 1993 when I was younger
+
+219
+00:12:14,960 --> 00:12:18,600
+ than any of the OctaThought team are now.
+
+220
+00:12:18,600 --> 00:12:21,640
+ But I mean, I was filming a lot in those days.
+
+221
+00:12:21,640 --> 00:12:22,960
+ Disgusting.
+
+222
+00:12:22,960 --> 00:12:27,080
+ If you were a filker, then your experience of Worldcon is very different from, if you
+
+223
+00:12:27,080 --> 00:12:29,400
+ are, a drinker.
+
+224
+00:12:29,400 --> 00:12:35,560
+ Alison was running the Fanzine Lounge, Liz was doing pro gops, and Ori wasn't doing anything.
+
+225
+00:12:35,560 --> 00:12:39,440
+ Often, Liz was doing spreadsheets, I think.
+
+226
+00:12:39,440 --> 00:12:43,000
+ There was some spread-cheating, but basically, because I had done program work, and they
+
+227
+00:12:43,000 --> 00:12:47,400
+ run up to the con, I already had a login for the program database and the ability to work
+
+228
+00:12:47,400 --> 00:12:49,160
+ the program database.
+
+229
+00:12:49,160 --> 00:12:54,200
+ So there was some people email you say, "Oh, I can't do this panel.
+
+230
+00:12:54,200 --> 00:12:55,200
+ You make changes.
+
+231
+00:12:55,200 --> 00:12:56,200
+ You edit things.
+
+232
+00:12:56,200 --> 00:12:57,760
+ You make sure it ends up in the online schedule."
+
+233
+00:12:57,760 --> 00:13:02,040
+ And since there was not really a printed schedule, everyone was using the online one,
+
+234
+00:13:02,040 --> 00:13:03,440
+ which could be updated a couple of times a day.
+
+235
+00:13:03,440 --> 00:13:04,440
+ That was good.
+
+236
+00:13:04,440 --> 00:13:08,400
+ Yeah, fundamentally, it was one of those job where you basically sit and type in a window
+
+237
+00:13:08,400 --> 00:13:10,720
+ in this room for a couple of hours.
+
+238
+00:13:10,720 --> 00:13:12,840
+ So, it's not like an actual job.
+
+239
+00:13:12,840 --> 00:13:17,280
+ We probably should say, if you were going to criticize, well, things that I liked a lot
+
+240
+00:13:17,280 --> 00:13:21,720
+ about Chicon, several of my friends have been calling it Chicon, which has started to
+
+241
+00:13:21,720 --> 00:13:22,720
+ worry me.
+
+242
+00:13:22,720 --> 00:13:24,400
+ It's definitely Chicon, right?
+
+243
+00:13:24,400 --> 00:13:31,280
+ I had the target with Steven Silver in Reno in 2011, and successfully wound him right up.
+
+244
+00:13:31,280 --> 00:13:32,840
+ What you called it Chicon?
+
+245
+00:13:32,840 --> 00:13:33,840
+ Why is Chicago?
+
+246
+00:13:33,840 --> 00:13:34,840
+ So it must be Chicon.
+
+247
+00:13:34,840 --> 00:13:36,160
+ All right, fair enough.
+
+248
+00:13:36,160 --> 00:13:43,360
+ The Hyatt Regency is a single massive hotel in two parts, but it means that the entire
+
+249
+00:13:43,360 --> 00:13:49,600
+ convention is all on one site, and it is in, it is banging in the centre of town.
+
+250
+00:13:49,600 --> 00:13:53,280
+ It's more in the bit of Chicago you want to be in if you're on holiday.
+
+251
+00:13:53,280 --> 00:13:55,520
+ So it's very compact as these things go.
+
+252
+00:13:55,520 --> 00:14:00,520
+ It's exactly the right size for a Worldcon, and I think that's a big benefit of the convention.
+
+253
+00:14:00,520 --> 00:14:03,880
+ Unfortunately, it doesn't have terribly good Wi-Fi or internet access.
+
+254
+00:14:03,880 --> 00:14:08,200
+ Those of us who were roaming from America were in a good state because if you're on
+
+255
+00:14:08,200 --> 00:14:13,080
+ roaming, then your phone automatically grabs the best signal as a result of which we did
+
+256
+00:14:13,080 --> 00:14:14,800
+ mostly get signal throughout.
+
+257
+00:14:14,800 --> 00:14:18,680
+ But lots of people who've been told you could only use the online program, then didn't
+
+258
+00:14:18,680 --> 00:14:20,760
+ have any internet access all weekend.
+
+259
+00:14:20,760 --> 00:14:23,440
+ So that was kind of a comedy moment.
+
+260
+00:14:23,440 --> 00:14:28,920
+ I mean, I could only roll them to certain networks because of the way my phone is set.
+
+261
+00:14:28,920 --> 00:14:31,840
+ I had no problems with either Wi-Fi or the 3G.
+
+262
+00:14:31,840 --> 00:14:37,720
+ The Wi-Fi in the deals room and the exhibits hall was the conference Wi-Fi you had to pay
+
+263
+00:14:37,720 --> 00:14:43,320
+ for instead of the free Wi-Fi, which was vaguely annoying, but I had mobile signal down there
+
+264
+00:14:43,320 --> 00:14:49,840
+ so I wasn't really bothered because Ch icon went quite hard on not having a lot of paper
+
+265
+00:14:49,840 --> 00:14:52,040
+ around, which I really applaud.
+
+266
+00:14:52,040 --> 00:14:55,520
+ And I think they thought they were going to have free Wi-Fi down in the conference bit
+
+267
+00:14:55,520 --> 00:14:56,520
+ of the convention.
+
+268
+00:14:56,520 --> 00:14:58,520
+ Oh, they definitely did.
+
+269
+00:14:58,520 --> 00:15:00,840
+ And then the higher did not provide that.
+
+270
+00:15:00,840 --> 00:15:06,120
+ And I think that was a sticking point for anyone who is less technologically minded than
+
+271
+00:15:06,120 --> 00:15:07,120
+ the three of us.
+
+272
+00:15:07,120 --> 00:15:09,560
+ And I think I can see that being a problem.
+
+273
+00:15:09,560 --> 00:15:15,840
+ But equally like, hopefully it's something that next time, next time there is a convention
+
+274
+00:15:15,840 --> 00:15:20,360
+ in Chicago, which presumably will be 2032, the convention committee will be like, last
+
+275
+00:15:20,360 --> 00:15:25,360
+ time you did this and next time you absolutely cannot do this and hopefully it will get sort
+
+276
+00:15:25,360 --> 00:15:26,360
+ of shaken out then.
+
+277
+00:15:26,360 --> 00:15:30,440
+ It did feel like a very nickel and diming thing for this hotel, which must have made
+
+278
+00:15:30,440 --> 00:15:34,800
+ an absolute honest to goodness fortune that weekend.
+
+279
+00:15:34,800 --> 00:15:39,640
+ I mean, you'd say that, but I think the problem is that, you know, right now is an incredibly
+
+280
+00:15:39,640 --> 00:15:44,560
+ bad time for anyone from the UK to be paying the things in dollars because when I looked
+
+281
+00:15:44,560 --> 00:15:47,520
+ at the hotel rates, I thought, oh, the hotel rates are on the high side.
+
+282
+00:15:47,520 --> 00:15:50,320
+ I'll see if anywhere else in Chicago has a better hotel rate.
+
+283
+00:15:50,320 --> 00:15:56,040
+ And the answer was no, unless I wanted a bed in a six-dorm hostel room.
+
+284
+00:15:56,040 --> 00:15:59,440
+ Like, I'm sure they were making money, but compared to the cost of literally anywhere
+
+285
+00:15:59,440 --> 00:16:01,920
+ else in the city, it was a reasonably good deal.
+
+286
+00:16:01,920 --> 00:16:05,160
+ Yes, it was probably quite an expensive.
+
+287
+00:16:05,160 --> 00:16:08,520
+ The dollar is doing quite well at the moment, so the powders do quite badly at the moment,
+
+288
+00:16:08,520 --> 00:16:10,200
+ and everything felt quite expensive.
+
+289
+00:16:10,200 --> 00:16:13,960
+ Yeah, so a lot of it was a shock to basically be thinking, well, this is basically one-to-one.
+
+290
+00:16:13,960 --> 00:16:18,720
+ But I think the prices seem reasonable for what you get, which is a big fancy hotel in
+
+291
+00:16:18,720 --> 00:16:23,000
+ the middle of a made city, although it is sorely in need of renovating.
+
+292
+00:16:23,000 --> 00:16:27,520
+ And I think they compare favorably with things like the cost of hotel rooms near, say, the
+
+293
+00:16:27,520 --> 00:16:29,920
+ Dublin or Helsinki Wilcons.
+
+294
+00:16:29,920 --> 00:16:34,040
+ Oh, I mean, certainly I feel less poor than I did after Helsinki.
+
+295
+00:16:34,040 --> 00:16:37,080
+ Jesus, and Dublin, oh my goodness.
+
+296
+00:16:37,080 --> 00:16:40,920
+ Like, no, I mean, we're talking relatively, but European World Cons.
+
+297
+00:16:40,920 --> 00:16:43,040
+ And actually not, Lunkon so much.
+
+298
+00:16:43,040 --> 00:16:48,840
+ Lunkon had like quite a good range of relatively reasonable housing nearby, but Dublin, especially
+
+299
+00:16:48,840 --> 00:16:50,480
+ Yowza.
+
+300
+00:16:50,480 --> 00:16:53,600
+ And that wasn't Dublin 2019's fault, like I have friends who live in Dublin, and they're
+
+301
+00:16:53,600 --> 00:16:56,720
+ like, no, the housing situation here is just mad, and there's nothing you could do about
+
+302
+00:16:56,720 --> 00:16:57,720
+ it.
+
+303
+00:16:57,720 --> 00:17:00,560
+ But like, I looked at taking a fellowship in Dublin, and one of the things that maybe
+
+304
+00:17:00,560 --> 00:17:03,720
+ think maybe I'll stay in England was trying to look at like where I would live.
+
+305
+00:17:03,720 --> 00:17:06,840
+ And I was like, I don't know, I don't understand.
+
+306
+00:17:06,840 --> 00:17:09,560
+ But moving away from how expensive Chicago is.
+
+307
+00:17:09,560 --> 00:17:14,520
+ One of the things I really liked about Chicon is that I have met an enormous number of people
+
+308
+00:17:14,520 --> 00:17:23,200
+ online at conventions and a hybrid, virtual and hybrid conventions, and through the internet
+
+309
+00:17:23,200 --> 00:17:24,840
+ over the last two and a half years.
+
+310
+00:17:24,840 --> 00:17:30,640
+ And I met a lot of those people for the first time at Chicon in person, and that was incredibly
+
+311
+00:17:30,640 --> 00:17:31,640
+ nice.
+
+312
+00:17:31,640 --> 00:17:36,080
+ And I think it gave me some sense of what some of the feeling of the earlier science fiction
+
+313
+00:17:36,080 --> 00:17:38,080
+ conventions must have been like that.
+
+314
+00:17:38,080 --> 00:17:42,440
+ That some people were just getting a chance to meet somebody who they'd met and corresponded
+
+315
+00:17:42,440 --> 00:17:46,720
+ with for years, but had never actually got to beat.
+
+316
+00:17:46,720 --> 00:17:48,920
+ And Chicon really gave me a lot of that feeling.
+
+317
+00:17:48,920 --> 00:17:50,400
+ And I really, really enjoyed that.
+
+318
+00:17:50,400 --> 00:17:51,960
+ We were all on programme items.
+
+319
+00:17:51,960 --> 00:17:54,280
+ I was on a few programme items.
+
+320
+00:17:54,280 --> 00:17:59,200
+ I was on a couple of kind of more fanishly minded programme items about kind of running
+
+321
+00:17:59,200 --> 00:18:01,840
+ conventions and podcasts and stuff.
+
+322
+00:18:01,840 --> 00:18:07,960
+ But I was on a panel starring Paulina Barron and Eric Choi and Bill Higgins and Mary Robinet
+
+323
+00:18:07,960 --> 00:18:12,920
+ Coel as the moderator on living in space, which was really good.
+
+324
+00:18:12,920 --> 00:18:15,680
+ Mary Robinet's moderation style is amazing.
+
+325
+00:18:15,680 --> 00:18:19,000
+ I don't think I've ever been on a panel as well moderated as that panel.
+
+326
+00:18:19,000 --> 00:18:21,880
+ She did a very good job of explaining to us all how she was going to do it, and then
+
+327
+00:18:21,880 --> 00:18:23,120
+ it worked really well.
+
+328
+00:18:23,120 --> 00:18:26,640
+ And she does the thing where at the start of the panel she asks people for the questions
+
+329
+00:18:26,640 --> 00:18:30,720
+ they have, and then she guides the discussion of the panel to answer all the questions the
+
+330
+00:18:30,720 --> 00:18:32,120
+ audience came to have answered.
+
+331
+00:18:32,120 --> 00:18:36,880
+ And that probably works better if you're a Hugo Award winning novelist and your panels
+
+332
+00:18:36,880 --> 00:18:41,080
+ are busy to the point where you get enough questions that you can structure a panel off
+
+333
+00:18:41,080 --> 00:18:42,080
+ of them.
+
+334
+00:18:42,080 --> 00:18:47,800
+ But it was a very good way of doing it and it meant we covered a wide range of topics.
+
+335
+00:18:47,800 --> 00:18:51,880
+ And people asked questions and some of them I had professional expertise in, which was
+
+336
+00:18:51,880 --> 00:18:54,360
+ interesting and always makes me feel weird.
+
+337
+00:18:54,360 --> 00:18:56,160
+ And the other panelists were fascinating.
+
+338
+00:18:56,160 --> 00:18:59,880
+ Bill Higgins works at Fermilab and so does radiation shielding.
+
+339
+00:18:59,880 --> 00:19:04,400
+ But as he noted on the panel, I've probably got more of a relevant view of that because
+
+340
+00:19:04,400 --> 00:19:08,080
+ obviously at Fermilab their approach to radiation shielding is just put it underground, it'll
+
+341
+00:19:08,080 --> 00:19:09,080
+ be fine.
+
+342
+00:19:09,080 --> 00:19:12,280
+ And that is harder to do in space because there's no ground.
+
+343
+00:19:12,280 --> 00:19:16,600
+ I did point out on the moon, you can use the ground again so maybe the solution is definitely
+
+344
+00:19:16,600 --> 00:19:17,600
+ moon bases.
+
+345
+00:19:17,600 --> 00:19:19,080
+ But yes, it was really good.
+
+346
+00:19:19,080 --> 00:19:23,560
+ And I was on a different panel about Star Wars, I like Star Wars, but we'll come to that
+
+347
+00:19:23,560 --> 00:19:25,920
+ later listeners foreshadowing.
+
+348
+00:19:25,920 --> 00:19:29,600
+ I wasn't on any virtual panels, they were all in person.
+
+349
+00:19:29,600 --> 00:19:32,840
+ I don't know if any of them were streamed.
+
+350
+00:19:32,840 --> 00:19:35,600
+ The mirror when it was was because they were taking questions from the stream.
+
+351
+00:19:35,600 --> 00:19:39,320
+ So that must be on the internet somewhere for people to watch back.
+
+352
+00:19:39,320 --> 00:19:44,160
+ So then you can watch the panel items back now, but I don't know how long for.
+
+353
+00:19:44,160 --> 00:19:50,360
+ Yeah, you've got a month and I'm assuming that's a month from the end of the convention,
+
+354
+00:19:50,360 --> 00:19:54,720
+ but it might be a month from the beginning of the convention, in which case you have about
+
+355
+00:19:54,720 --> 00:20:00,640
+ two days after this episode drops to watch anything you missed from Shikon.
+
+356
+00:20:00,640 --> 00:20:02,760
+ What were you on, Alison and Liz?
+
+357
+00:20:02,760 --> 00:20:11,040
+ I was on two air meat panels and the first one I allowed myself about 45 minutes to get
+
+358
+00:20:11,040 --> 00:20:14,720
+ set up on air meat in my hotel room at the Hyatt.
+
+359
+00:20:14,720 --> 00:20:18,960
+ And it took me about 54 minutes to get set up.
+
+360
+00:20:18,960 --> 00:20:25,120
+ So I was late for my panel because air meat was quite difficult to configure in a hotel
+
+361
+00:20:25,120 --> 00:20:27,160
+ room in a different country.
+
+362
+00:20:27,160 --> 00:20:28,840
+ It turned out.
+
+363
+00:20:28,840 --> 00:20:30,840
+ And it was fine.
+
+364
+00:20:30,840 --> 00:20:37,880
+ I mean, I think there were some issues with, so air meat has some huge advantages, which
+
+365
+00:20:37,880 --> 00:20:38,880
+ is why they use it.
+
+366
+00:20:38,880 --> 00:20:41,520
+ It's a single, it's a kind of one key system.
+
+367
+00:20:41,520 --> 00:20:47,720
+ You basically let people in and then they're in and you gate them once and then it's sorted.
+
+368
+00:20:47,720 --> 00:20:53,040
+ And it has another huge advantage, which is that you, as soon as the panel's over, it's
+
+369
+00:20:53,040 --> 00:20:57,840
+ automatically the recordings there and you can go and look at it and all of that continues
+
+370
+00:20:57,840 --> 00:20:58,840
+ to work.
+
+371
+00:20:58,840 --> 00:21:06,240
+ I think that made up for quite a lot of disadvantages for this convention that was short of people
+
+372
+00:21:06,240 --> 00:21:11,160
+ points, particularly short of people on the virtual side because although people who cannot
+
+373
+00:21:11,160 --> 00:21:19,440
+ attend the convention quite like to attend virtually, we're not seeing yet the community
+
+374
+00:21:19,440 --> 00:21:23,600
+ of people who are prepared to put in a lot of work before the convention for a con they're
+
+375
+00:21:23,600 --> 00:21:24,600
+ not going to be at.
+
+376
+00:21:24,600 --> 00:21:28,280
+ So I think that's something that we need to think about while we're taking virtual conventions
+
+377
+00:21:28,280 --> 00:21:32,400
+ for hybrid conventions forward.
+
+378
+00:21:32,400 --> 00:21:35,280
+ And so I was on two virtual conventions.
+
+379
+00:21:35,280 --> 00:21:39,040
+ One of them was, so how to enjoy your first walk on.
+
+380
+00:21:39,040 --> 00:21:41,640
+ Of course, because I knew nothing about air meat.
+
+381
+00:21:41,640 --> 00:21:44,960
+ Quite a lot of that was actually about how to enjoy it on air meat, which wasn't something
+
+382
+00:21:44,960 --> 00:21:46,920
+ I knew anything about.
+
+383
+00:21:46,920 --> 00:21:53,680
+ And then my other air meat was with Christopher J Garcia, but also with Newt Schutlkotter,
+
+384
+00:21:53,680 --> 00:21:57,720
+ who I don't know, and wasn't actually physically at the convention, but that was a very good,
+
+385
+00:21:57,720 --> 00:21:59,320
+ that was somebody who was good to meet.
+
+386
+00:21:59,320 --> 00:22:04,120
+ And they had some very interesting things to say about podcasting and community, some
+
+387
+00:22:04,120 --> 00:22:05,120
+ building community.
+
+388
+00:22:05,120 --> 00:22:09,480
+ So I really enjoyed being on that panel with Chris and Newt.
+
+389
+00:22:09,480 --> 00:22:13,480
+ And in both the cases, would you say it was good to air meat them?
+
+390
+00:22:13,480 --> 00:22:21,160
+ I mean, I like, I guess people know now, I do like hybrid and virtual quite a lot.
+
+391
+00:22:21,160 --> 00:22:22,160
+ What?
+
+392
+00:22:22,160 --> 00:22:26,040
+ I also hung out a little bit in the fan spaces on air meat.
+
+393
+00:22:26,040 --> 00:22:29,920
+ Not as much as I would have liked, because it turned out I was quite busy hanging out
+
+394
+00:22:29,920 --> 00:22:34,600
+ in the fan spaces at the physical convention.
+
+395
+00:22:34,600 --> 00:22:37,080
+ So if I saw you in air meat, that was great.
+
+396
+00:22:37,080 --> 00:22:40,560
+ And I'm sorry, I didn't get to see more of you, but there'll be other virtual or hybrid
+
+397
+00:22:40,560 --> 00:22:42,760
+ conventions that I am at in the future, I'm sure.
+
+398
+00:22:42,760 --> 00:22:43,760
+ Yeah.
+
+399
+00:22:43,760 --> 00:22:48,520
+ So I mean, I did a panel on con running in the age of COVID-19, which was, in fact, like
+
+400
+00:22:48,520 --> 00:22:53,840
+ broadcast on air meat as one of the sort of live panels broadcast into the air meat.
+
+401
+00:22:53,840 --> 00:22:57,760
+ But I didn't actually do anything solely on air meat.
+
+402
+00:22:57,760 --> 00:23:02,200
+ And I wonder if there are a lot of people who said, oh yeah, I'm fine to do, you know,
+
+403
+00:23:02,200 --> 00:23:04,080
+ virtual panels, I'll be at the con in person.
+
+404
+00:23:04,080 --> 00:23:08,720
+ And then we're like, oh, actually, this is quite a lot more work to set up.
+
+405
+00:23:08,720 --> 00:23:11,920
+ And it would have been a lot easier if I was at home, and maybe that was a mistake.
+
+406
+00:23:11,920 --> 00:23:16,900
+ And you need a bit more kind of like, if you are doing a virtual panel from the con, you
+
+407
+00:23:16,900 --> 00:23:21,000
+ need to know that you kind of need to have the equipment to do it to yourself.
+
+408
+00:23:21,000 --> 00:23:24,800
+ This is not like a hybrid panel where, you know, we'll have some people a virtual and
+
+409
+00:23:24,800 --> 00:23:25,800
+ some people in a room.
+
+410
+00:23:25,800 --> 00:23:28,320
+ It is your effectively, completely virtual.
+
+411
+00:23:28,320 --> 00:23:34,040
+ I learned on the Saturday before the convention that I would need to take my laptop with me
+
+412
+00:23:34,040 --> 00:23:36,320
+ if I wanted to do this.
+
+413
+00:23:36,320 --> 00:23:39,960
+ And we had a bit of a kind of flutter while we went.
+
+414
+00:23:39,960 --> 00:23:43,160
+ Can we possibly take my laptop with me?
+
+415
+00:23:43,160 --> 00:23:45,520
+ And we did eventually conventions.
+
+416
+00:23:45,520 --> 00:23:50,360
+ If you're having virtual participation or hyper participation, you need to let people
+
+417
+00:23:50,360 --> 00:23:56,160
+ know more than a few days before the convention, what tools they need to access your virtual
+
+418
+00:23:56,160 --> 00:23:57,160
+ spaces.
+
+419
+00:23:57,160 --> 00:24:03,400
+ I feel like I've got this giant clockwork key in my back and I can just round me up again.
+
+420
+00:24:03,400 --> 00:24:04,400
+ Right.
+
+421
+00:24:04,400 --> 00:24:05,400
+ You're right.
+
+422
+00:24:05,400 --> 00:24:06,400
+ They're the big advantage of AirMeet.
+
+423
+00:24:06,400 --> 00:24:09,080
+ I think is that it could probably run with kind of fewer volunteers because roll is actually
+
+424
+00:24:09,080 --> 00:24:11,840
+ you could just do it on like zooms and discords.
+
+425
+00:24:11,840 --> 00:24:17,560
+ If you have 15 simultaneous zoom feeds running for a convention, that is a lot to manage.
+
+426
+00:24:17,560 --> 00:24:21,040
+ And the fact that AirMeet could kind of have this and it would automatically, you know,
+
+427
+00:24:21,040 --> 00:24:22,200
+ bring in rooms and things.
+
+428
+00:24:22,200 --> 00:24:25,720
+ Just having enough people to kind of know what's supposed to be going on in what room
+
+429
+00:24:25,720 --> 00:24:28,760
+ at what time is is a lot.
+
+430
+00:24:28,760 --> 00:24:32,600
+ So I think sometimes we forget that things that scale to like three streams do not scale
+
+431
+00:24:32,600 --> 00:24:34,200
+ to a world-con-sized thing.
+
+432
+00:24:34,200 --> 00:24:38,200
+ Especially they were trying to have a full thing of virtual readings and virtual table
+
+433
+00:24:38,200 --> 00:24:39,680
+ talks and everything.
+
+434
+00:24:39,680 --> 00:24:44,200
+ Yeah, I think maybe I need to be clear about, I think also they suffered from a lack of
+
+435
+00:24:44,200 --> 00:24:47,440
+ people really being setting up AirMeet in advance.
+
+436
+00:24:47,440 --> 00:24:50,680
+ And I know there was a guide on how to get on to AirMeet, but I mean, I wasn't planning
+
+437
+00:24:50,680 --> 00:24:54,200
+ to use it for any panels, so I didn't really look at it in detail.
+
+438
+00:24:54,200 --> 00:24:57,360
+ I just basically knew I wasn't going to be able to do that because I'm a convention person.
+
+439
+00:24:57,360 --> 00:25:00,880
+ I did watch a few panels on AirMeet and it was totally fine.
+
+440
+00:25:00,880 --> 00:25:03,680
+ I didn't have any problems with it, but I think that's just me.
+
+441
+00:25:03,680 --> 00:25:05,360
+ Other people had more problems.
+
+442
+00:25:05,360 --> 00:25:12,400
+ We watched the opening ceremony in our room while drinking beers and eating cold pizza.
+
+443
+00:25:12,400 --> 00:25:14,160
+ Yeah, but that wasn't actually on.
+
+444
+00:25:14,160 --> 00:25:19,160
+ AirMeet because what they did was they had a stream of that direct to YouTube.
+
+445
+00:25:19,160 --> 00:25:21,120
+ So I put the YouTube stream on the TV.
+
+446
+00:25:21,120 --> 00:25:24,960
+ Well, I went down and it was extremely busy and hadn't started yet.
+
+447
+00:25:24,960 --> 00:25:28,680
+ So I retreated and came back up to the room and found that it had started and my room
+
+448
+00:25:28,680 --> 00:25:31,400
+ was quite a lot less busy and had my wife in it.
+
+449
+00:25:31,400 --> 00:25:33,600
+ So, um, hara, that was quite good.
+
+450
+00:25:33,600 --> 00:25:36,480
+ Sadly, it also had me in, um, to ruin the moment.
+
+451
+00:25:36,480 --> 00:25:38,360
+ I didn't ruin the moment.
+
+452
+00:25:38,360 --> 00:25:39,360
+ Liz was good.
+
+453
+00:25:39,360 --> 00:25:40,360
+ She was good roommate.
+
+454
+00:25:40,360 --> 00:25:44,920
+ I mean, basically, listeners, I spent quite a long time with Liz in the States.
+
+455
+00:25:44,920 --> 00:25:48,040
+ Well, again, we'll come on to that later for shadowing.
+
+456
+00:25:48,040 --> 00:25:51,160
+ I have one more thought about my in-person events.
+
+457
+00:25:51,160 --> 00:25:56,000
+ I was on about half a dozen, mostly fan and fan related.
+
+458
+00:25:56,000 --> 00:26:02,600
+ And the kind of fan con, fanzine and fan history and fan content stuff was all pretty well
+
+459
+00:26:02,600 --> 00:26:03,600
+ attended, actually.
+
+460
+00:26:03,600 --> 00:26:07,600
+ These were in rooms that would seat about 50 to 100 people and they were, you know, they
+
+461
+00:26:07,600 --> 00:26:09,480
+ weren't full, but they weren't empty either.
+
+462
+00:26:09,480 --> 00:26:10,480
+ It was fine.
+
+463
+00:26:10,480 --> 00:26:16,240
+ Um, I was on one con running panel about organizing a good fan lounge and that was very badly attended
+
+464
+00:26:16,240 --> 00:26:21,960
+ and I heard several other people on con running panels saying that con running panels were
+
+465
+00:26:21,960 --> 00:26:28,600
+ terribly attended and I wonder whether the world con should be putting a little bit less
+
+466
+00:26:28,600 --> 00:26:33,200
+ effort into con running panels because none of the con runners have any time at a world
+
+467
+00:26:33,200 --> 00:26:34,960
+ con to go to programs.
+
+468
+00:26:34,960 --> 00:26:38,240
+ Yeah, I did two con running fannish panel.
+
+469
+00:26:38,240 --> 00:26:40,600
+ One was con running, one was about what I learned from fandom and the con running one
+
+470
+00:26:40,600 --> 00:26:46,280
+ was not particularly well attended despite having what I thought would be reasonably well
+
+471
+00:26:46,280 --> 00:26:50,120
+ known panelists on, I mean, not me, but the other ones.
+
+472
+00:26:50,120 --> 00:26:51,560
+ I thought they were bigger draws.
+
+473
+00:26:51,560 --> 00:26:54,760
+ I was on, I was on building fandom events, myths versus reality.
+
+474
+00:26:54,760 --> 00:26:59,160
+ It was me, Vince Daugherty, Michael Wallace, who was the moderator, Kathy Green and Brenda
+
+475
+00:26:59,160 --> 00:27:00,460
+ Noiseau.
+
+476
+00:27:00,460 --> 00:27:04,720
+ We were initially knocked outnumbered by the audience and that did change by the end with
+
+477
+00:27:04,720 --> 00:27:05,720
+ some late comers.
+
+478
+00:27:05,720 --> 00:27:10,080
+ But Vince said that one of the con running panels he'd been on earlier in the weekend,
+
+479
+00:27:10,080 --> 00:27:12,960
+ there was literally one person in the audience.
+
+480
+00:27:12,960 --> 00:27:17,400
+ The thing is, if you're a con runner and you're at world con, you're probably, especially
+
+481
+00:27:17,400 --> 00:27:20,640
+ because this panel was opposite the business meeting.
+
+482
+00:27:20,640 --> 00:27:24,320
+ And so there's an element here that a lot of the con runners who are going to world con
+
+483
+00:27:24,320 --> 00:27:30,120
+ might either be running fan tables in the dealers room for the conventions they're running
+
+484
+00:27:30,120 --> 00:27:33,800
+ or be at the business meeting trying to affect how the conventions they run will be run in
+
+485
+00:27:33,800 --> 00:27:34,800
+ the future.
+
+486
+00:27:34,800 --> 00:27:37,000
+ And so may not be at the con running panels.
+
+487
+00:27:37,000 --> 00:27:41,760
+ It also might be the case that a lot of the con running panels at world con seemed like
+
+488
+00:27:41,760 --> 00:27:43,920
+ quite con running 101.
+
+489
+00:27:43,920 --> 00:27:47,800
+ They weren't really going into like, they all seemed quite surface level topics.
+
+490
+00:27:47,800 --> 00:27:52,040
+ I don't know if that's fair, but like, I do wonder whether the con runners at a world
+
+491
+00:27:52,040 --> 00:27:56,240
+ con probably don't need that 101 tack and the people coming to a world con who have never
+
+492
+00:27:56,240 --> 00:28:00,680
+ run a convention before might not be going to those panels.
+
+493
+00:28:00,680 --> 00:28:05,560
+ And I don't know, and it might just be that it was bad at Chicago, but it will be great
+
+494
+00:28:05,560 --> 00:28:10,800
+ when a pegging chain do like, because it might just be a quirk of who was there.
+
+495
+00:28:10,800 --> 00:28:11,800
+ It's hard.
+
+496
+00:28:11,800 --> 00:28:12,800
+ It's really hard.
+
+497
+00:28:12,800 --> 00:28:17,560
+ But yeah, they, I don't get the impression it was well attended as a sort of concept,
+
+498
+00:28:17,560 --> 00:28:19,520
+ the con running material.
+
+499
+00:28:19,520 --> 00:28:21,920
+ I thought there was some quite interesting, I mean, just to push back.
+
+500
+00:28:21,920 --> 00:28:25,120
+ So I thought there was some quite interesting con running panels, you know, there's one
+
+501
+00:28:25,120 --> 00:28:29,360
+ about mental health and con running, which I think is a good thing to be discussing about
+
+502
+00:28:29,360 --> 00:28:31,720
+ how you take care of your con runners.
+
+503
+00:28:31,720 --> 00:28:35,760
+ There was one about how we, you know, support a convention in Hindi from across the globe
+
+504
+00:28:35,760 --> 00:28:40,640
+ and running conventions in, in, you know, places where maybe they don't have great access
+
+505
+00:28:40,640 --> 00:28:42,720
+ for virtual conferences and things like that.
+
+506
+00:28:42,720 --> 00:28:46,600
+ So I think there were a few and then there were also some like more 101 panels.
+
+507
+00:28:46,600 --> 00:28:51,160
+ Yeah, it's really hard to tell who's going to actually attend a panel.
+
+508
+00:28:51,160 --> 00:28:55,120
+ The other thing that very surprised me about the programme coming from an Easter Connie
+
+509
+00:28:55,120 --> 00:29:02,920
+ type background is that those rooms that seat 50 to 100 people, they were mostly not miked.
+
+510
+00:29:02,920 --> 00:29:08,560
+ So I was in most of my items were in unmiked rooms and there's it's been ages.
+
+511
+00:29:08,560 --> 00:29:13,360
+ It's been a decade since we did this in, in Britain for the East Kong and even smaller
+
+512
+00:29:13,360 --> 00:29:16,240
+ conventions that I've run with Mike to all of our programme spaces.
+
+513
+00:29:16,240 --> 00:29:22,320
+ I think we get a lot of criticism if we asked panels to run in unmiked rooms, even quite
+
+514
+00:29:22,320 --> 00:29:24,160
+ small rooms these days.
+
+515
+00:29:24,160 --> 00:29:30,640
+ So I don't know if British fans are Deaf-a-on-average than US fans or if this is just a cultural thing
+
+516
+00:29:30,640 --> 00:29:33,560
+ that just hasn't quite got there yet.
+
+517
+00:29:33,560 --> 00:29:37,960
+ This is, this also leads to fewer programme streams because obviously you're then constrained
+
+518
+00:29:37,960 --> 00:29:43,240
+ by the number of, the number of rooms you can put a, a tech setup into.
+
+519
+00:29:43,240 --> 00:29:47,600
+ I mean, I have no inside information on this, but I mean, I suspect it could have just been
+
+520
+00:29:47,600 --> 00:29:48,600
+ budget issues.
+
+521
+00:29:48,600 --> 00:29:51,360
+ You don't quite have the budget to do something and everything.
+
+522
+00:29:51,360 --> 00:29:55,880
+ But you also for this con wanted to run lots of programme streams because you did not really
+
+523
+00:29:55,880 --> 00:29:57,520
+ want overflowing programme rooms.
+
+524
+00:29:57,520 --> 00:29:59,920
+ You ideally wanted people to have a bit more space to spread out.
+
+525
+00:29:59,920 --> 00:30:03,560
+ I think people do not want to cram themselves back into programme rooms yet.
+
+526
+00:30:03,560 --> 00:30:08,200
+ So they had the kind of extra dilemma there of, you know, fewer attendees and you would
+
+527
+00:30:08,200 --> 00:30:15,200
+ expect for a Chicago world con, but not wanting to put them into kind of a smaller space.
+
+528
+00:30:15,200 --> 00:30:16,760
+ And that is a big issue.
+
+529
+00:30:16,760 --> 00:30:22,080
+ On the one hand, I know that by all reports, Ch icon had troubles with their budget, which
+
+530
+00:30:22,080 --> 00:30:23,640
+ must have been very difficult.
+
+531
+00:30:23,640 --> 00:30:28,160
+ But I do think that stuff like making sure programme rooms are mic'd.
+
+532
+00:30:28,160 --> 00:30:32,960
+ And also stuff like even the big programme rooms didn't have a mic per programme participants.
+
+533
+00:30:32,960 --> 00:30:36,440
+ A lot of the time we were sort of sitting quite closely to each other so we could both
+
+534
+00:30:36,440 --> 00:30:37,440
+ use the same mic.
+
+535
+00:30:37,440 --> 00:30:41,960
+ And I don't know how much it costs to mic up a room for disclosure, no idea.
+
+536
+00:30:41,960 --> 00:30:44,600
+ Although I appreciate there are many reasons why it might have been difficult.
+
+537
+00:30:44,600 --> 00:30:50,280
+ I do wish it had been better done, especially because we're wearing masks.
+
+538
+00:30:50,280 --> 00:30:57,240
+ And so the inability to hear people is worse as anyone who's listened to the last episode
+
+539
+00:30:57,240 --> 00:31:03,720
+ of OctoThob will have heard the masks muffle you slightly, which is, you know, problematic.
+
+540
+00:31:03,720 --> 00:31:10,000
+ Also, you can't lipread if people are wearing masks, which even people with full hearing
+
+541
+00:31:10,000 --> 00:31:13,120
+ do lipread all of the time, if they can.
+
+542
+00:31:13,120 --> 00:31:15,760
+ There were parties every night, Glasgow ran a party.
+
+543
+00:31:15,760 --> 00:31:20,320
+ I think every night, except the first night was technically a Dublin party with Glasgow
+
+544
+00:31:20,320 --> 00:31:24,360
+ input and they didn't run one on like the third night maybe, but they run one every
+
+545
+00:31:24,360 --> 00:31:25,360
+ other night.
+
+546
+00:31:25,360 --> 00:31:28,680
+ Yeah, they didn't run one on the site selection night.
+
+547
+00:31:28,680 --> 00:31:32,600
+ And there was like other parties, there was a party with fantastic margaritas.
+
+548
+00:31:32,600 --> 00:31:34,720
+ There was the Manticorns who were running parties.
+
+549
+00:31:34,720 --> 00:31:35,840
+ There were just lots of parties.
+
+550
+00:31:35,840 --> 00:31:37,800
+ I liked the parties.
+
+551
+00:31:37,800 --> 00:31:44,040
+ I should shout out the Fanak and Duff 50th Anniversary Party, which was a jolly good party, which
+
+552
+00:31:44,040 --> 00:31:49,640
+ did not have wild big drinks, but did have quite nice beer and also a lot of very civilised
+
+553
+00:31:49,640 --> 00:31:51,680
+ people sitting around and chatting.
+
+554
+00:31:51,680 --> 00:31:54,000
+ I quite liked the parties.
+
+555
+00:31:54,000 --> 00:32:01,120
+ I don't like the parties when they're crowded and noisy and you can't sit down and the conversations
+
+556
+00:32:01,120 --> 00:32:05,520
+ are essentially very superficial.
+
+557
+00:32:05,520 --> 00:32:11,280
+ So I much prefer what I'd like is the situation that we once had in the UK where you sit in
+
+558
+00:32:11,280 --> 00:32:15,080
+ the bar in the earlier part of the evening and then you have room parties in the later
+
+559
+00:32:15,080 --> 00:32:16,240
+ part of the evening.
+
+560
+00:32:16,240 --> 00:32:21,080
+ I've found the early part of the parties to be rather tarsome, but once they start to
+
+561
+00:32:21,080 --> 00:32:22,800
+ thin out, they are pretty good.
+
+562
+00:32:22,800 --> 00:32:25,240
+ But then you've discovered that it's the same.
+
+563
+00:32:25,240 --> 00:32:30,760
+ It turns out that the set of drunken reprobates in room parties at two o'clock in the morning
+
+564
+00:32:30,760 --> 00:32:32,960
+ is there's a big overlap every time, right?
+
+565
+00:32:32,960 --> 00:32:35,640
+ So you get to know all these people if you do enough of it.
+
+566
+00:32:35,640 --> 00:32:39,400
+ And some of them are the same ones who would be around the bar very late at night at the
+
+567
+00:32:39,400 --> 00:32:40,400
+ UK convention.
+
+568
+00:32:40,400 --> 00:32:41,400
+ Unsurprisingly.
+
+569
+00:32:41,400 --> 00:32:48,600
+ Yeah, I think I just don't like the WorldCom party make up as much as definitely John
+
+570
+00:32:48,600 --> 00:32:50,360
+ doesn't possibly be Alison.
+
+571
+00:32:50,360 --> 00:32:52,280
+ You know, if the parties are great, it's great.
+
+572
+00:32:52,280 --> 00:32:55,840
+ The Glasgow parties and the Dublin Thank You party were great.
+
+573
+00:32:55,840 --> 00:33:00,440
+ But a lot of the time it's sort of you wandering into a hotel room with a few people and you
+
+574
+00:33:00,440 --> 00:33:05,160
+ know, they've done their best to put some decorations up and they'll give you a thimble
+
+575
+00:33:05,160 --> 00:33:07,040
+ full of drink or maybe even a margarita.
+
+576
+00:33:07,040 --> 00:33:10,200
+ Oh, I didn't get the margarita gone to bed and you have some more conversations.
+
+577
+00:33:10,200 --> 00:33:15,000
+ Then you go to kind of another hotel room with some decorations up, have a small drink.
+
+578
+00:33:15,000 --> 00:33:20,080
+ You know, it just I'd much rather have like a kind of bar culture where you have like
+
+579
+00:33:20,080 --> 00:33:24,040
+ one main social space where you can float about and chat to different people.
+
+580
+00:33:24,040 --> 00:33:28,760
+ And yeah, that appeals me much more than kind of going to lots of random rooms.
+
+581
+00:33:28,760 --> 00:33:32,680
+ And so I just kind of just kept going back to the Dublin party and the Glasgow parties
+
+582
+00:33:32,680 --> 00:33:35,440
+ because I had two people in there that I wanted to talk to.
+
+583
+00:33:35,440 --> 00:33:36,800
+ Like I would if they were in the bar.
+
+584
+00:33:36,800 --> 00:33:43,880
+ So the thing I don't like about the Eastercon bar culture is that everyone sits down and
+
+585
+00:33:43,880 --> 00:33:47,000
+ then that is it for the night.
+
+586
+00:33:47,000 --> 00:33:50,800
+ If you want to have a varied night, you have to move around the bar and at the parties
+
+587
+00:33:50,800 --> 00:33:56,120
+ because they're all parties, people move and so you have different groups of people at
+
+588
+00:33:56,120 --> 00:33:58,120
+ different points of the night.
+
+589
+00:33:58,120 --> 00:33:59,120
+ So it actually feels varied.
+
+590
+00:33:59,120 --> 00:34:02,360
+ Whereas like at an Eastercon, like often I'll be at midnight and I'd be like, I could
+
+591
+00:34:02,360 --> 00:34:06,220
+ stay here for the next two hours talking to these people and it would be more of the same
+
+592
+00:34:06,220 --> 00:34:07,320
+ or I can go to bed.
+
+593
+00:34:07,320 --> 00:34:12,240
+ And that is I never have that thought at a world con ever or not an American world con.
+
+594
+00:34:12,240 --> 00:34:15,560
+ So I do quite like that aspect of the social scene.
+
+595
+00:34:15,560 --> 00:34:19,640
+ I know a Spaniard very much values that aspect is one of the things she finds.
+
+596
+00:34:19,640 --> 00:34:26,080
+ She misses most about the US scene is not having that sense of like movement.
+
+597
+00:34:26,080 --> 00:34:28,400
+ Chacon might have been a little bit.
+
+598
+00:34:28,400 --> 00:34:33,520
+ So there was at least one party that I was invited to that only got started at midnight
+
+599
+00:34:33,520 --> 00:34:37,880
+ and I didn't know about because I wasn't reading the relevant person's Facebook page
+
+600
+00:34:37,880 --> 00:34:41,120
+ during the convention and there may be more of that.
+
+601
+00:34:41,120 --> 00:34:46,080
+ So there may be more parties because there weren't that many parties compare.
+
+602
+00:34:46,080 --> 00:34:53,160
+ I mean the parties, the parties that anticipation were quite good.
+
+603
+00:34:53,160 --> 00:34:55,520
+ There were less parties than there were at Chacon 7.
+
+604
+00:34:55,520 --> 00:34:57,640
+ There's a pandemic heart now, I said.
+
+605
+00:34:57,640 --> 00:35:02,320
+ This is probably a significant disincentive to partying for most people.
+
+606
+00:35:02,320 --> 00:35:06,760
+ Yes, that's the other thing is that the way I have fun at parties also turns out to not
+
+607
+00:35:06,760 --> 00:35:08,560
+ probably be very Covid safe.
+
+608
+00:35:08,560 --> 00:35:09,560
+ So that's that.
+
+609
+00:35:09,560 --> 00:35:13,640
+ Yeah, I think it sounds like I move around Eastacomba a lot more and I feel like a lot
+
+610
+00:35:13,640 --> 00:35:18,680
+ more I see a lot more of the convention there throughout the day and the evening.
+
+611
+00:35:18,680 --> 00:35:21,920
+ Whereas I felt there were a huge numbers of people at Chacon that I didn't see because
+
+612
+00:35:21,920 --> 00:35:24,680
+ they weren't at the parties and then I don't know where they are.
+
+613
+00:35:24,680 --> 00:35:30,800
+ And yeah, I think just I feel more uncomfortable, kind of randomly wandering around hotel rooms,
+
+614
+00:35:30,800 --> 00:35:35,400
+ seeing what drinks they've got and awkwardly shuffling out when I don't know anyone.
+
+615
+00:35:35,400 --> 00:35:38,960
+ Yeah, so I had to walk quickly, shuffle out from one party that I was expected to be quite
+
+616
+00:35:38,960 --> 00:35:43,040
+ a good party because I was on my own at that point and I was like, I'm perfectly happy
+
+617
+00:35:43,040 --> 00:35:44,040
+ to meet people on my own.
+
+618
+00:35:44,040 --> 00:35:48,360
+ But in fact, it turned out to be a room full of people that I had almost zero interest
+
+619
+00:35:48,360 --> 00:35:49,880
+ in conversing with.
+
+620
+00:35:49,880 --> 00:35:55,120
+ So, you know, probably wouldn't be better at a kind of group of three or four, which
+
+621
+00:35:55,120 --> 00:35:56,440
+ was for some of the types.
+
+622
+00:35:56,440 --> 00:36:00,360
+ Well, I think you have to be, I definitely find that if I'm in a party, I'm not enjoying
+
+623
+00:36:00,360 --> 00:36:01,360
+ it.
+
+624
+00:36:01,360 --> 00:36:02,360
+ I'm like, I'm a go.
+
+625
+00:36:02,360 --> 00:36:04,360
+ I don't think that's a problem.
+
+626
+00:36:04,360 --> 00:36:06,760
+ But I do think you have to be willing to be like, Oh, no, this is terrible.
+
+627
+00:36:06,760 --> 00:36:11,320
+ I'm going to go and leave now and not worry about the optics very much because no one's
+
+628
+00:36:11,320 --> 00:36:12,320
+ going to remember you.
+
+629
+00:36:12,320 --> 00:36:14,600
+ Oh, yeah, you could definitely do that.
+
+630
+00:36:14,600 --> 00:36:16,000
+ I mean, I don't think anyone cares.
+
+631
+00:36:16,000 --> 00:36:19,600
+ Yeah, they don't particularly want people in their party, not having a good time.
+
+632
+00:36:19,600 --> 00:36:20,600
+ So that's okay.
+
+633
+00:36:20,600 --> 00:36:22,560
+ Yeah, that could have been in a nice bar for all this time.
+
+634
+00:36:22,560 --> 00:36:24,760
+ I spent wandering around trying to find the good party.
+
+635
+00:36:24,760 --> 00:36:29,840
+ My primary motivator with the parties is that it feels different every night and it
+
+636
+00:36:29,840 --> 00:36:32,960
+ feels like there are different spaces which I enjoy.
+
+637
+00:36:32,960 --> 00:36:33,960
+ I don't.
+
+638
+00:36:33,960 --> 00:36:37,280
+ And like, especially on the first night where there was like the random party being thrown
+
+639
+00:36:37,280 --> 00:36:40,760
+ by the two chaps that had the throbbing box in their room with the margaritas.
+
+640
+00:36:40,760 --> 00:36:44,880
+ That was a great party because that was my favorite party of the weekend.
+
+641
+00:36:44,880 --> 00:36:46,880
+ It was a really interesting group of people.
+
+642
+00:36:46,880 --> 00:36:52,200
+ So several of whom I didn't know and many of whom I then met over again over the weekend
+
+643
+00:36:52,200 --> 00:36:55,960
+ because they were people who, they were the sort of people who were drinking margaritas
+
+644
+00:36:55,960 --> 00:36:59,520
+ at the time at two o'clock in the morning, you know.
+
+645
+00:36:59,520 --> 00:37:03,720
+ So I did meet some of them again and they made margaritas with a beer in them, which
+
+646
+00:37:03,720 --> 00:37:05,360
+ was kind of weird, but it was good.
+
+647
+00:37:05,360 --> 00:37:06,520
+ But it was very nice.
+
+648
+00:37:06,520 --> 00:37:09,840
+ I was thinking we get the margarita and you tip beer and tough it.
+
+649
+00:37:09,840 --> 00:37:12,760
+ No, they were making, the beer was part of like the margarita mix.
+
+650
+00:37:12,760 --> 00:37:15,600
+ It was like a sour beer and they were using it.
+
+651
+00:37:15,600 --> 00:37:18,000
+ It was part of the basis of the margarita.
+
+652
+00:37:18,000 --> 00:37:19,560
+ The margaritas were probably...
+
+653
+00:37:19,560 --> 00:37:20,560
+ And they tasted like margaritas.
+
+654
+00:37:20,560 --> 00:37:23,640
+ They tasted like good margaritas, but they were like a beer-based recipe.
+
+655
+00:37:23,640 --> 00:37:24,640
+ It was impressive.
+
+656
+00:37:24,640 --> 00:37:25,840
+ And then there was the Hugo's.
+
+657
+00:37:25,840 --> 00:37:27,840
+ Yes, we went to Hugo's.
+
+658
+00:37:27,840 --> 00:37:29,120
+ Oh yes.
+
+659
+00:37:29,120 --> 00:37:31,800
+ Speaking of amazing parties.
+
+660
+00:37:31,800 --> 00:37:33,440
+ The Hugo Awards ceremony was on Sunday.
+
+661
+00:37:33,440 --> 00:37:39,320
+ There was a pre-award reception where we all went and we had our photos taken and we had
+
+662
+00:37:39,320 --> 00:37:44,720
+ a drink and we could have paid $9 for extra drink, but we decided not to.
+
+663
+00:37:44,720 --> 00:37:48,160
+ And then we went into the Hugo Award ceremony itself.
+
+664
+00:37:48,160 --> 00:37:50,960
+ And then afterwards there was another reception.
+
+665
+00:37:50,960 --> 00:37:51,960
+ Yeah.
+
+666
+00:37:51,960 --> 00:37:52,960
+ With cake.
+
+667
+00:37:52,960 --> 00:37:57,200
+ Um, and my mother told me that if I can't say anything nice, I shouldn't say anything
+
+668
+00:37:57,200 --> 00:37:58,200
+ at all.
+
+669
+00:37:58,200 --> 00:38:02,200
+ So let's talk about the pre-award reception and the awards themselves.
+
+670
+00:38:02,200 --> 00:38:03,680
+ So the pre-award reception was good.
+
+671
+00:38:03,680 --> 00:38:04,680
+ There's photos of us.
+
+672
+00:38:04,680 --> 00:38:06,000
+ Hopefully they come out some point.
+
+673
+00:38:06,000 --> 00:38:08,840
+ I haven't seen any of the photos from that bit come out.
+
+674
+00:38:08,840 --> 00:38:09,840
+ Yeah.
+
+675
+00:38:09,840 --> 00:38:13,920
+ I've seen lots of photos of people having taken photos of people having their photo taken.
+
+676
+00:38:13,920 --> 00:38:16,240
+ But I haven't seen any of the photos that were taken.
+
+677
+00:38:16,240 --> 00:38:17,240
+ Yeah.
+
+678
+00:38:17,240 --> 00:38:18,520
+ We haven't seen any of the official photos.
+
+679
+00:38:18,520 --> 00:38:24,760
+ But I wanted to do a shout out to Castor who Cathy Bond wrote into being Hugo Award
+
+680
+00:38:24,760 --> 00:38:29,800
+ finalist liaison and had never actually been to a Worldcon before.
+
+681
+00:38:29,800 --> 00:38:36,580
+ And they were great the entire beforehand and through the weekend and is now on the Hugo
+
+682
+00:38:36,580 --> 00:38:40,480
+ finalist discourse going, "I am going to track down those photos for you guys."
+
+683
+00:38:40,480 --> 00:38:43,600
+ So hopefully they will track down the photos for us.
+
+684
+00:38:43,600 --> 00:38:45,240
+ I enjoyed the Hugo's.
+
+685
+00:38:45,240 --> 00:38:46,240
+ It was good.
+
+686
+00:38:46,240 --> 00:38:49,520
+ I remit Brendan Nwazow who I was on a panel with.
+
+687
+00:38:49,520 --> 00:38:53,720
+ But because we were both wearing our glad rags and had our hair done, neither of us
+
+688
+00:38:53,720 --> 00:38:56,160
+ recognized the other until we exchanged details.
+
+689
+00:38:56,160 --> 00:38:57,640
+ And she was like, "I already fully wore Twitter."
+
+690
+00:38:57,640 --> 00:38:59,320
+ And I was like, "I wonder why that is."
+
+691
+00:38:59,320 --> 00:39:01,600
+ And it turned out it was because we'd be all paneled together.
+
+692
+00:39:01,600 --> 00:39:02,600
+ Why bother, John?
+
+693
+00:39:02,600 --> 00:39:06,480
+ You hadn't added your hair, did your hair just kind of miraculously fell into awesomeness
+
+694
+00:39:06,480 --> 00:39:07,480
+ somehow?
+
+695
+00:39:07,480 --> 00:39:09,720
+ I put hairspray in it, Liz.
+
+696
+00:39:09,720 --> 00:39:10,720
+ All right.
+
+697
+00:39:10,720 --> 00:39:11,720
+ Did you?
+
+698
+00:39:11,720 --> 00:39:12,720
+ Yeah.
+
+699
+00:39:12,720 --> 00:39:13,720
+ It's so warm.
+
+700
+00:39:13,720 --> 00:39:14,720
+ It does.
+
+701
+00:39:14,720 --> 00:39:19,520
+ I put the hairband in and I leave it there for two minutes so my hair goes sticky up and
+
+702
+00:39:19,520 --> 00:39:23,080
+ then I take the hairband out and I hairspray it so it stays and then I'm done.
+
+703
+00:39:23,080 --> 00:39:28,600
+ Sarah Felix made me a tiara that took my Hugo pin as part of the decoration like tiara
+
+704
+00:39:28,600 --> 00:39:34,560
+ and matched the coloring and style of my dress and also my necklace and was absolutely amazing.
+
+705
+00:39:34,560 --> 00:39:35,560
+ Thank you, Sarah.
+
+706
+00:39:35,560 --> 00:39:36,560
+ It's unbelievable.
+
+707
+00:39:36,560 --> 00:39:38,360
+ I'm so thrilled.
+
+708
+00:39:38,360 --> 00:39:43,120
+ I bought a necklace for Hugo's in the art show basically on the morning of the Hugo's and
+
+709
+00:39:43,120 --> 00:39:49,080
+ it just felt very kind of serendipitous that Vanessa had a necklace in the art show which
+
+710
+00:39:49,080 --> 00:39:50,520
+ was perfect match for my dress.
+
+711
+00:39:50,520 --> 00:39:53,600
+ So thank you very much, Vanessa, for making such lovely art.
+
+712
+00:39:53,600 --> 00:39:58,200
+ So I would like to give a shout out to Tammy Coxen who had the thankless task of trying
+
+713
+00:39:58,200 --> 00:40:03,400
+ to wrangle each Hugo category, get all the finalists into one place so you can take a
+
+714
+00:40:03,400 --> 00:40:09,200
+ photo of all of them which is basically almost impossible because it's hard to wrangle a
+
+715
+00:40:09,200 --> 00:40:12,200
+ bunch of people at the better times and not when they're extremely nervous and trying
+
+716
+00:40:12,200 --> 00:40:16,640
+ to drink their $1, $9 beer and not disrupt their mask.
+
+717
+00:40:16,640 --> 00:40:21,240
+ And networking with people who might be important for their professional career or just that
+
+718
+00:40:21,240 --> 00:40:24,160
+ they've always wanted to meet furiously.
+
+719
+00:40:24,160 --> 00:40:30,480
+ I failed to meet the people that I always wanted to meet because I was too busy eating.
+
+720
+00:40:30,480 --> 00:40:35,480
+ And that is living your best life, Liz.
+
+721
+00:40:35,480 --> 00:40:39,840
+ The people I'd always wanted to meet turned out to be dumplings.
+
+722
+00:40:39,840 --> 00:40:40,840
+ They were bowel.
+
+723
+00:40:40,840 --> 00:40:44,560
+ There were people I wanted to meet and by the time I realised that I'd had a nice time
+
+724
+00:40:44,560 --> 00:40:49,240
+ like chatting and eating dumplings for an hour, I had not left myself any time to actually
+
+725
+00:40:49,240 --> 00:40:54,000
+ meet them, especially when I went to Lou and got back and discovered that we were now all
+
+726
+00:40:54,000 --> 00:40:59,120
+ standing around for some reason so we got good seats in the already reserved seating area.
+
+727
+00:40:59,120 --> 00:41:07,680
+ And in the old days at Helsinki and San Jose and Dublin, the time you met the people you
+
+728
+00:41:07,680 --> 00:41:12,200
+ had always wanted to meet was at the party after the Hugos.
+
+729
+00:41:12,200 --> 00:41:17,560
+ But the problem was that the party after the Hugos was put on by the very lovely Cheng
+
+730
+00:41:17,560 --> 00:41:23,360
+ Dubid and it consisted of the food that hadn't been eaten at the pre-awards ceremony plus
+
+731
+00:41:23,360 --> 00:41:30,040
+ some bad cake and a single flute of extremely sweet, fizzy white wine.
+
+732
+00:41:30,040 --> 00:41:35,560
+ And so I ate some cake and had my fizzy white wine and decided hmm and then went straight
+
+733
+00:41:35,560 --> 00:41:39,960
+ up to the Glasgow party which was far better in every single respect.
+
+734
+00:41:39,960 --> 00:41:46,160
+ There was about a flute of fizzy white wine per third or finalists as well.
+
+735
+00:41:46,160 --> 00:41:47,160
+ Yes.
+
+736
+00:41:47,160 --> 00:41:51,440
+ So there weren't enough glasses of wine for anything like everyone who was there.
+
+737
+00:41:51,440 --> 00:41:55,480
+ It took us a while to realise that what we should have done was all brought a straw and
+
+738
+00:41:55,480 --> 00:42:00,720
+ drunk the fizzy white wine, three of us with a straw each and take the photo as is the
+
+739
+00:42:00,720 --> 00:42:02,480
+ octaloped tradition.
+
+740
+00:42:02,480 --> 00:42:05,680
+ Unfortunately we had one each like reprobates.
+
+741
+00:42:05,680 --> 00:42:10,840
+ It basically did not encourage people to stick around after the ceremony and hang out.
+
+742
+00:42:10,840 --> 00:42:14,720
+ And that was a very great shame because one of the very good things about the parties
+
+743
+00:42:14,720 --> 00:42:19,840
+ at 2017, 18 and 19 was that everyone was hanging out afterwards as you had time to
+
+744
+00:42:19,840 --> 00:42:23,800
+ get drunk enough to go up to defeat digs and be like you're really good.
+
+745
+00:42:23,800 --> 00:42:26,440
+ Which I'm sure was less fun for defeat digs than it was for everyone else.
+
+746
+00:42:26,440 --> 00:42:27,520
+ But like you know.
+
+747
+00:42:27,520 --> 00:42:31,880
+ I think I did that at Helsinki and I just did it in the bar.
+
+748
+00:42:31,880 --> 00:42:33,600
+ Oh yeah, that also works.
+
+749
+00:42:33,600 --> 00:42:38,280
+ I mean I think you've been spoiled by going to three losers parties that had a large budget
+
+750
+00:42:38,280 --> 00:42:42,600
+ then because the loser party was pretty much the same as like the official Helsinki run
+
+751
+00:42:42,600 --> 00:42:46,480
+ losers party in 2016 which is you know with the best will in the world they could not
+
+752
+00:42:46,480 --> 00:42:50,480
+ compare with someone hiring an offsite venue and putting a lot of money into it.
+
+753
+00:42:50,480 --> 00:42:55,680
+ And I mean what I've said is the downside of there being the fancy offsite losers party
+
+754
+00:42:55,680 --> 00:43:00,200
+ is it meant that anyone who didn't get nominated for Hugo could not hang out with anyone who
+
+755
+00:43:00,200 --> 00:43:01,600
+ was nominated for Hugo.
+
+756
+00:43:01,600 --> 00:43:02,600
+ Yeah.
+
+757
+00:43:02,600 --> 00:43:05,440
+ Because basically for those years the people who won and the losers would all kind of go
+
+758
+00:43:05,440 --> 00:43:08,280
+ off to that party and you didn't really see them.
+
+759
+00:43:08,280 --> 00:43:11,560
+ So it was really nice to be able to go up to Glasgow party and then just hang out with
+
+760
+00:43:11,560 --> 00:43:14,280
+ you know a bunch of people who were just at the come.
+
+761
+00:43:14,280 --> 00:43:19,720
+ No I mean that is fair but I had done that for the previous three nights so there is an
+
+762
+00:43:19,720 --> 00:43:24,200
+ element where I was like oh you know nice party would have been good.
+
+763
+00:43:24,200 --> 00:43:35,520
+ I went to better budgeted Hugo losers parties in 2005 and in 2014 and they still weren't
+
+764
+00:43:35,520 --> 00:43:42,880
+ the George RR Martin huge budget kind but they were they were significantly better budgeted
+
+765
+00:43:42,880 --> 00:43:43,880
+ than this one was.
+
+766
+00:43:43,880 --> 00:43:47,640
+ Do you mean the one in 2014 or the one run by 2014?
+
+767
+00:43:47,640 --> 00:43:53,240
+ The one in 2014 which was the Spokane one which we did think was pretty bad at the time
+
+768
+00:43:53,240 --> 00:43:55,920
+ but it did go on quite a lot longer than this one did.
+
+769
+00:43:55,920 --> 00:43:57,760
+ Yeah but you were my all the way.
+
+770
+00:43:57,760 --> 00:44:05,040
+ Yeah because the Chengdu one I think even the people like us who are on the kind of low
+
+771
+00:44:05,040 --> 00:44:10,240
+ end of the Hugo prestige scale had left after half an hour.
+
+772
+00:44:10,240 --> 00:44:14,320
+ I remember being at the one in Reno in 2011 and that one went for like an hour and a half
+
+773
+00:44:14,320 --> 00:44:17,680
+ two hours because you I mean like there was a bar and you got a couple of free drinks
+
+774
+00:44:17,680 --> 00:44:21,480
+ afterwards and so people did stick around and it and so like obviously the ones run by
+
+775
+00:44:21,480 --> 00:44:25,560
+ George RR Martin were fantastic and there was a lot of money spent but I do think that
+
+776
+00:44:25,560 --> 00:44:29,040
+ there is a like the Chengdu one didn't have a bar.
+
+777
+00:44:29,040 --> 00:44:30,040
+ Yeah.
+
+778
+00:44:30,040 --> 00:44:33,040
+ What like have someone selling drinks?
+
+779
+00:44:33,040 --> 00:44:38,040
+ I'm not saying it has to be a million pound party thrown by a millionaire for all his mates
+
+780
+00:44:38,040 --> 00:44:44,000
+ that's like in the ritziest place in the city but I do think it needs to be more than some
+
+781
+00:44:44,000 --> 00:44:45,160
+ sad cake.
+
+782
+00:44:45,160 --> 00:44:49,800
+ I mean I think you also have to take into account that there are probably twice as many people
+
+783
+00:44:49,800 --> 00:44:54,440
+ invited to the Hugo Luther party than there were in 2014 or 2005.
+
+784
+00:44:54,440 --> 00:44:59,160
+ Oh maybe but you also have to take into account the Chengdu have an awful lot of US dollars
+
+785
+00:44:59,160 --> 00:45:01,960
+ that they cannot spend and so realistically speaking.
+
+786
+00:45:01,960 --> 00:45:05,120
+ It's true they could have spent all the US dollars.
+
+787
+00:45:05,120 --> 00:45:07,320
+ They could have had a few beers yes.
+
+788
+00:45:07,320 --> 00:45:10,200
+ Glasgow did a consistently better job every night.
+
+789
+00:45:10,200 --> 00:45:16,200
+ Yeah I was going to say they rather less good party than the 50th anniversary of Duff and
+
+790
+00:45:16,200 --> 00:45:18,000
+ Falak party okay.
+
+791
+00:45:18,000 --> 00:45:19,000
+ Yeah fair enough.
+
+792
+00:45:19,000 --> 00:45:24,000
+ I mean yeah they should probably like there's got to be an in between where you know we
+
+793
+00:45:24,000 --> 00:45:29,720
+ can't have you know really super fancy parties but just something with a bit more gets a bit
+
+794
+00:45:29,720 --> 00:45:35,040
+ more socialization going rather than I'm going to drink my own glass of wine and then run away.
+
+795
+00:45:35,040 --> 00:45:40,760
+ Yeah you do need to put drink into your Hugo finalists after the ceremony because they're
+
+796
+00:45:40,760 --> 00:45:44,000
+ going to need sorry we're all starting like alcoholics here.
+
+797
+00:45:44,000 --> 00:45:47,280
+ Can I skip back to the Hugo rehearsal now because I forgot to mention it.
+
+798
+00:45:47,280 --> 00:45:48,280
+ Yeah go on.
+
+799
+00:45:48,280 --> 00:45:51,440
+ So the first is that it was our one chance to hold a Hugo we should have made a bit more
+
+800
+00:45:51,440 --> 00:45:54,960
+ of that and taken some photos then we got some photos with the.
+
+801
+00:45:54,960 --> 00:45:57,800
+ Well also two of us didn't told you goes.
+
+802
+00:45:57,800 --> 00:46:02,000
+ I held a Hugo at the Glasgow party after the Hugo's.
+
+803
+00:46:02,000 --> 00:46:10,280
+ I did I and I've got photos because the June Hugo was passed around to everyone who wanted
+
+804
+00:46:10,280 --> 00:46:11,280
+ to touch it.
+
+805
+00:46:11,280 --> 00:46:16,120
+ I have photos of John with the June Hugo which are available for a very low price.
+
+806
+00:46:16,120 --> 00:46:19,520
+ This is not the cover up to this episode.
+
+807
+00:46:19,520 --> 00:46:23,720
+ No no you can cut that if that is too much but you know.
+
+808
+00:46:23,720 --> 00:46:26,760
+ Nope I take solace and joy from that.
+
+809
+00:46:26,760 --> 00:46:30,880
+ So I sat down next to a man and started making at the rehearsal and started making kind of
+
+810
+00:46:30,880 --> 00:46:34,440
+ a pleasant conversation as you do and he was wearing a basket.
+
+811
+00:46:34,440 --> 00:46:35,440
+ I was wearing a basket.
+
+812
+00:46:35,440 --> 00:46:40,280
+ It wasn't the brightest room and after some time I realized it was Charlie Stross who I
+
+813
+00:46:40,280 --> 00:46:43,240
+ have known for 30 years.
+
+814
+00:46:43,240 --> 00:46:46,920
+ Yes I did see that and I was like I recognized it was Charlie Stross.
+
+815
+00:46:46,920 --> 00:46:52,040
+ Yeah I recognized him from behind as being Charlie Stross.
+
+816
+00:46:52,040 --> 00:46:55,040
+ I probably would have recognized him from behind right.
+
+817
+00:46:55,040 --> 00:46:59,480
+ Yeah well because and I don't know if you know this Alison Charlie Stross looks a lot
+
+818
+00:46:59,480 --> 00:47:03,800
+ like Charlie Stross like a lot like Charlie Stross even with a mask on.
+
+819
+00:47:03,800 --> 00:47:07,640
+ I might have been a bit struck out but also he didn't recognize me and again we have known
+
+820
+00:47:07,640 --> 00:47:11,560
+ each other you know we we've been to each other's houses we know each other fairly well.
+
+821
+00:47:11,560 --> 00:47:17,680
+ He had a good reason to be struck out he was up he was up for a Hugo and his Hugo's matter
+
+822
+00:47:17,680 --> 00:47:22,440
+ for his publication and like agents and our Hugo was just a little bit of a laugh.
+
+823
+00:47:22,440 --> 00:47:25,600
+ Although he might he had a good chance of winning a Hugo.
+
+824
+00:47:25,600 --> 00:47:26,840
+ How long do you go?
+
+825
+00:47:26,840 --> 00:47:31,440
+ Congratulations to Anna Lee and Charlie Jane for winning Best Fancast.
+
+826
+00:47:31,440 --> 00:47:36,400
+ Congratulations to Cora Bueller for winning Best Fan Writer and congratulations to Sean
+
+827
+00:47:36,400 --> 00:47:39,240
+ and McGuire and Lee Moyer for winning the other two fan categories.
+
+828
+00:47:39,240 --> 00:47:44,080
+ I was glad to see how well represented fandom was across the fan categories I think it's
+
+829
+00:47:44,080 --> 00:47:46,920
+ really great and tribute to the Hugo's.
+
+830
+00:47:46,920 --> 00:47:52,000
+ For anyone who has not looked at the the detailed results which we did approximately one second
+
+831
+00:47:52,000 --> 00:47:54,360
+ after the detailed results were made available.
+
+832
+00:47:54,360 --> 00:47:57,400
+ Which was approximately ten minutes after they ought to have been.
+
+833
+00:47:57,400 --> 00:48:00,320
+ There is a general there is a general thing people saying or maybe the statistics should
+
+834
+00:48:00,320 --> 00:48:04,040
+ not be available immediately because I think some people read them then then you know our
+
+835
+00:48:04,040 --> 00:48:07,000
+ souls to finalists about what is contained in them.
+
+836
+00:48:07,000 --> 00:48:12,600
+ But I think if the results had come out any later Alison would literally have exploded.
+
+837
+00:48:12,600 --> 00:48:19,040
+ One of the very few cast-on memories I have of my first Worldcon which was 1987 and I'm
+
+838
+00:48:19,040 --> 00:48:25,640
+ also really doing any fan act apart from Go to Parties then was leaving the Hugo Awards
+
+839
+00:48:25,640 --> 00:48:30,600
+ which I've found a bit kind of dull and then somebody handing me the sheet of paper with
+
+840
+00:48:30,600 --> 00:48:34,480
+ the long list on and I going oh but this is good.
+
+841
+00:48:34,480 --> 00:48:39,600
+ So it is one of the things that is very caught by a sense of who I am as a fan and what I
+
+842
+00:48:39,600 --> 00:48:44,520
+ value about fandom is that piece of paper or now electronic link.
+
+843
+00:48:44,520 --> 00:48:50,280
+ Though I did manage to get one of the ten pieces of paper that Nicholas had wickedly
+
+844
+00:48:50,280 --> 00:48:53,160
+ run off so there would be some printed copies.
+
+845
+00:48:53,160 --> 00:48:57,680
+ I would say I think I would be fine with it coming out the next morning in general.
+
+846
+00:48:57,680 --> 00:48:59,680
+ But yes I do like it.
+
+847
+00:48:59,680 --> 00:49:04,240
+ And it's because it's kind of when I was a baby fan it was kind of the fact that the
+
+848
+00:49:04,240 --> 00:49:08,640
+ long list comes out instantly was imprinted on my hand brain and I now follow it around
+
+849
+00:49:08,640 --> 00:49:09,640
+ like a baby duck.
+
+850
+00:49:09,640 --> 00:49:15,320
+ Yep you often strike me as a baby duck because you're quite a lot smaller than me and you've
+
+851
+00:49:15,320 --> 00:49:16,480
+ got a very pronounced bill.
+
+852
+00:49:16,480 --> 00:49:19,640
+ [Barking]
+
+853
+00:49:19,640 --> 00:49:21,400
+ Right shall we do pics?
+
+854
+00:49:21,400 --> 00:49:24,640
+ No because I'm still going to tell people where we came in the Hugos.
+
+855
+00:49:24,640 --> 00:49:26,640
+ Oh yeah tell people where we came in the Hugos Liz.
+
+856
+00:49:26,640 --> 00:49:30,760
+ The whole point of being that up was to say have you analysed the stats Liz you're going
+
+857
+00:49:30,760 --> 00:49:33,640
+ to do a statistical research and charts maybe.
+
+858
+00:49:33,640 --> 00:49:37,640
+ No because every time you say you're going to do a chart I'm less likely to make a chart.
+
+859
+00:49:37,640 --> 00:49:39,240
+ [Laughter]
+
+860
+00:49:39,240 --> 00:49:43,480
+ Because I listen was like you're going to make a chart right like 10 minutes after the Hugos
+
+861
+00:49:43,480 --> 00:49:46,680
+ and so now every time I listen to Ryan's me I'm like well I'm that ping-poo gift off
+
+862
+00:49:46,680 --> 00:49:47,680
+ well now I'm not doing it.
+
+863
+00:49:47,680 --> 00:49:48,680
+ But we came fifth.
+
+864
+00:49:48,680 --> 00:49:53,320
+ So thank you very much everyone who voted for us.
+
+865
+00:49:53,320 --> 00:49:59,480
+ Yes we managed to come fifth by one single vote which is quite exciting.
+
+866
+00:49:59,480 --> 00:50:02,440
+ Because otherwise we'd have been dead flat last.
+
+867
+00:50:02,440 --> 00:50:10,280
+ And we did also get 46 nominations so even though we voted to ratify and keep EPH we
+
+868
+00:50:10,280 --> 00:50:12,440
+ actually didn't hear this year to get on the ballot.
+
+869
+00:50:12,440 --> 00:50:14,360
+ So that was very nice to see.
+
+870
+00:50:14,360 --> 00:50:15,360
+ Yes.
+
+871
+00:50:15,360 --> 00:50:16,640
+ Thank everyone I will do more Hugo.
+
+872
+00:50:16,640 --> 00:50:20,560
+ I will do more Hugo stats and error in the future at some point.
+
+873
+00:50:20,560 --> 00:50:24,840
+ I would also like to say thank you to everyone who voted in the fan categories because they
+
+874
+00:50:24,840 --> 00:50:27,120
+ were all awarded and that was great.
+
+875
+00:50:27,120 --> 00:50:35,120
+ And congratulations to Hugo Girl our bestest friends now who were third.
+
+876
+00:50:35,120 --> 00:50:36,120
+ Yes.
+
+877
+00:50:36,120 --> 00:50:40,280
+ Because we're basically like well we can't win maybe Hugo Girl will win.
+
+878
+00:50:40,280 --> 00:50:43,560
+ That seems a bit grateful now because neither of us did but yes.
+
+879
+00:50:43,560 --> 00:50:45,560
+ Yes so it was good.
+
+880
+00:50:45,560 --> 00:50:46,560
+ [Laughter]
+
+881
+00:50:46,560 --> 00:50:50,240
+ Did we mention how much fun we had hanging out with the Hugo Girl people?
+
+882
+00:50:50,240 --> 00:50:51,560
+ It was very good.
+
+883
+00:50:51,560 --> 00:50:56,840
+ Especially I hung out with Hailey on her last night all the way till four o'clock.
+
+884
+00:50:56,840 --> 00:50:59,520
+ Or 30th of the morning when she had to go and catch her plane.
+
+885
+00:50:59,520 --> 00:51:00,520
+ That was really good.
+
+886
+00:51:00,520 --> 00:51:01,680
+ There are not photographs.
+
+887
+00:51:01,680 --> 00:51:02,680
+ That was at the Glasgow party.
+
+888
+00:51:02,680 --> 00:51:05,960
+ See that's what you should have done on your last night instead of sneaking out of John's
+
+889
+00:51:05,960 --> 00:51:07,960
+ room at five o'clock in the morning list.
+
+890
+00:51:07,960 --> 00:51:10,600
+ You should have ported until five o'clock in the morning.
+
+891
+00:51:10,600 --> 00:51:12,200
+ We went for ice cream.
+
+892
+00:51:12,200 --> 00:51:15,960
+ You know you're complaining Hailey's last night and Liz's last night were different last
+
+893
+00:51:15,960 --> 00:51:17,800
+ night so Liz.
+
+894
+00:51:17,800 --> 00:51:21,880
+ There were no parties on that night apart from I guess I could have tried to sneak into
+
+895
+00:51:21,880 --> 00:51:23,800
+ old farts party at 4am.
+
+896
+00:51:23,800 --> 00:51:24,800
+ No.
+
+897
+00:51:24,800 --> 00:51:27,200
+ I should have gone to the old farts actually if that was that night.
+
+898
+00:51:27,200 --> 00:51:28,200
+ I was asleep.
+
+899
+00:51:28,200 --> 00:51:33,280
+ I was asleep as well because I was about to spend 32 hours returning home and so I thought
+
+900
+00:51:33,280 --> 00:51:36,040
+ maybe you know six hours sleep would help.
+
+901
+00:51:36,040 --> 00:51:41,480
+ I was asleep because I was going to get on a plane from Chicago to Orlando and go straight
+
+902
+00:51:41,480 --> 00:51:45,480
+ back to Star Wars which is an excellent segue into pics.
+
+903
+00:51:45,480 --> 00:51:46,480
+ [Laughter]
+
+904
+00:51:46,480 --> 00:51:51,480
+ I'll go to where Star Wars after you two so do you want to do your pics first?
+
+905
+00:51:51,480 --> 00:51:56,520
+ Is this a pic or is this like a special three hour explanation of why John loves Galaxy
+
+906
+00:51:56,520 --> 00:51:57,520
+ set?
+
+907
+00:51:57,520 --> 00:51:58,520
+ Oh no I mean I did.
+
+908
+00:51:58,520 --> 00:52:04,160
+ I've written it all up Liz and that will be available to anyone who stays still too long
+
+909
+00:52:04,160 --> 00:52:06,160
+ at Eastacom.
+
+910
+00:52:06,160 --> 00:52:12,480
+ My pic this episode is Robert Jackson Bennett's Founders Trilogy which I finished on the plane
+
+911
+00:52:12,480 --> 00:52:18,840
+ home from Chicago and left me in the embarrassing situation of having a little cry on a plane
+
+912
+00:52:18,840 --> 00:52:21,320
+ because it was that good.
+
+913
+00:52:21,320 --> 00:52:24,000
+ So it is a fancy trilogy.
+
+914
+00:52:24,000 --> 00:52:28,200
+ I really like Robert Jackson Bennett's previous fancy trilogy which was nominated for a Hugo
+
+915
+00:52:28,200 --> 00:52:32,320
+ for Best Series in 2018.
+
+916
+00:52:32,320 --> 00:52:33,720
+ This is his follow up.
+
+917
+00:52:33,720 --> 00:52:39,280
+ It's essentially about it's a city state which runs on a kind of magic called scribing
+
+918
+00:52:39,280 --> 00:52:46,080
+ which essentially you can, the magic system is you write commands onto physical objects
+
+919
+00:52:46,080 --> 00:52:49,320
+ and it alters the way they interact with reality.
+
+920
+00:52:49,320 --> 00:52:55,520
+ So the first novel is essentially sort of a series of heists to try and steal a very powerful
+
+921
+00:52:55,520 --> 00:53:01,600
+ artifact from a thief who can look at scribed objects and know what's going on and it all
+
+922
+00:53:01,600 --> 00:53:05,960
+ interacts with these merchant houses and they end up stealing this prize artifact but it's
+
+923
+00:53:05,960 --> 00:53:10,920
+ things like you know you can essentially fly by making yourself a scribe gravity rig which
+
+924
+00:53:10,920 --> 00:53:15,120
+ thinks temporarily that gravity is going in the opposite direction and things like this.
+
+925
+00:53:15,120 --> 00:53:19,280
+ So there's a huge amount of very fun ideas in there and that's just the first book but
+
+926
+00:53:19,280 --> 00:53:23,800
+ then in the second one they get more deeply into okay so you can basically tell objects
+
+927
+00:53:23,800 --> 00:53:26,760
+ to rewrite the laws of reality.
+
+928
+00:53:26,760 --> 00:53:32,720
+ What else can you do by rewriting the laws of reality and it gets really deep into what
+
+929
+00:53:32,720 --> 00:53:37,040
+ if you could rewrite the laws of reality surrounding people and what if you can get really deeply
+
+930
+00:53:37,040 --> 00:53:40,760
+ into kind of you know rewriting reality itself.
+
+931
+00:53:40,760 --> 00:53:45,600
+ I'm not really doing it justice because it is like an entire fantasy trilogy about this.
+
+932
+00:53:45,600 --> 00:53:47,040
+ It sounds very interesting.
+
+933
+00:53:47,040 --> 00:53:51,840
+ It's kind of a really great idea that doesn't just like do three books using this great idea
+
+934
+00:53:51,840 --> 00:53:55,280
+ but then kind of each book it's building on it's like well what if I took this and then
+
+935
+00:53:55,280 --> 00:53:59,360
+ kind of showed you what my imagination thinks we could do with this.
+
+936
+00:53:59,360 --> 00:54:04,240
+ Plus it's also got great characters in there a lot of them get really character arcs and
+
+937
+00:54:04,240 --> 00:54:09,840
+ a really good send off or pay off at the end you know by the end of it I'm basically crying
+
+938
+00:54:09,840 --> 00:54:16,200
+ over a magical artifact so yeah I will definitely be nominating it for best series I may put
+
+939
+00:54:16,200 --> 00:54:22,040
+ the last volume lock lands on my best novel ballot and I think it's I can recommend everyone
+
+940
+00:54:22,040 --> 00:54:25,200
+ read it now because it's finished and it's six landing.
+
+941
+00:54:25,200 --> 00:54:31,200
+ And I read Bennett's previous trilogy which was the Divine Cities because it was nominated
+
+942
+00:54:31,200 --> 00:54:38,000
+ for best series in 2018 and at the time I thought it was an incredibly good example of
+
+943
+00:54:38,000 --> 00:54:40,560
+ the sort thing I think should be nominated in that category.
+
+944
+00:54:40,560 --> 00:54:44,960
+ I remember thinking it was amazing it lost out to Lois McMaster Boozjold.
+
+945
+00:54:44,960 --> 00:54:48,640
+ I had not realized that that trilogy had wrapped up but now I do know it has wrapped
+
+946
+00:54:48,640 --> 00:54:56,640
+ up I may have to read that in my pre Hugo nomination reading next year so thank you Liz.
+
+947
+00:54:56,640 --> 00:54:59,720
+ The previous trilogy was amazing I really really really enjoyed it.
+
+948
+00:54:59,720 --> 00:55:07,520
+ Yeah I would say this is as good and it's kind of recognizably the same but also very
+
+949
+00:55:07,520 --> 00:55:10,600
+ different and maybe interested in some different ideas.
+
+950
+00:55:10,600 --> 00:55:14,800
+ So as well as go to the Worldcon John and Liz also went to Orlando to do Disney things
+
+951
+00:55:14,800 --> 00:55:21,240
+ you might hear a bit more about those in a minute and I have massive massive FOMO because
+
+952
+00:55:21,240 --> 00:55:27,440
+ I had checked my bank account before booking my Chicago holiday and I knew that I could
+
+953
+00:55:27,440 --> 00:55:33,440
+ not possibly have added an extra week in Orlando or indeed anything else to the holiday.
+
+954
+00:55:33,440 --> 00:55:37,320
+ So I thought oh this is and then they kept going well you don't you know interactive
+
+955
+00:55:37,320 --> 00:55:42,400
+ things are amazing and immersives are amazing and you should do more of the malice and I
+
+956
+00:55:42,400 --> 00:55:44,160
+ was like oh oh I should.
+
+957
+00:55:44,160 --> 00:55:49,680
+ So what we did was we booked a trip for the family to a place called Phantom Peak which
+
+958
+00:55:49,680 --> 00:55:57,040
+ is an immersive at Canada Water where for the princely sum of 34 pounds you can run around
+
+959
+00:55:57,040 --> 00:56:02,840
+ for an evening in what the one-star reviews say is an overpriced theme bar and the five-star
+
+960
+00:56:02,840 --> 00:56:11,920
+ reviews say is a fantastic cross between a escape room and a bar and a theme park and
+
+961
+00:56:11,920 --> 00:56:15,200
+ a lop and I had a fantastic time.
+
+962
+00:56:15,200 --> 00:56:19,680
+ One of the other reviews said we did some of the trails but then we sat in the bar for
+
+963
+00:56:19,680 --> 00:56:22,800
+ the rest of the evening while our children ran around and did a load of water trails
+
+964
+00:56:22,800 --> 00:56:27,080
+ and that sounded like quite a good way to experience it because I think they have about
+
+965
+00:56:27,080 --> 00:56:32,880
+ 16 trails in total which are all of the form such and such a weird thing has happened.
+
+966
+00:56:32,880 --> 00:56:37,840
+ Go and find this person to talk to who will tell you the next stage of your fetch quest
+
+967
+00:56:37,840 --> 00:56:41,840
+ and you do this for a bit and you end up with very sore feet.
+
+968
+00:56:41,840 --> 00:56:44,480
+ I hit by rings.
+
+969
+00:56:44,480 --> 00:56:48,760
+ If you go in a weekday it's 34 pounds and the beer is pretty good and they also have
+
+970
+00:56:48,760 --> 00:56:55,280
+ got trails and we had a splendid time so if you're anywhere near Docklands that's a
+
+971
+00:56:55,280 --> 00:56:59,960
+ jolly good night out I would say and we were put on to it by Fiona Moore and Caroline
+
+972
+00:56:59,960 --> 00:57:04,320
+ Mersey and Russell Smith who had all been and you don't have to dress up but we did
+
+973
+00:57:04,320 --> 00:57:08,960
+ dress up just the tiniest bit and I think that helps as well and it was a lot of fun.
+
+974
+00:57:08,960 --> 00:57:17,720
+ It is a sort of steampunk Westworld themed town organized around one of the old docks
+
+975
+00:57:17,720 --> 00:57:22,000
+ so it uses Docklands in quite an interesting way and there's kind of there's a hooker
+
+976
+00:57:22,000 --> 00:57:27,320
+ platypus game and a really weird boat ride where Marianne got absolutely soaking wet
+
+977
+00:57:27,320 --> 00:57:32,280
+ because they had calculated that three adults could go on this boat ride but they did not
+
+978
+00:57:32,280 --> 00:57:38,840
+ think they would weigh as much as three of us so it was quite wobbly, wobbly that they
+
+979
+00:57:38,840 --> 00:57:40,760
+ thought we got a lot of water in.
+
+980
+00:57:40,760 --> 00:57:46,000
+ There's a whole backstory it is so it's fictional because there has been a blimp crash and there
+
+981
+00:57:46,000 --> 00:57:52,120
+ is some weird stuff going on in the town and you kind of learn about this through the
+
+982
+00:57:52,120 --> 00:57:55,960
+ setup trails but as well as the setup trails there's quite a lot of meta story as well
+
+983
+00:57:55,960 --> 00:57:59,800
+ that's not in any of the trails which is kind of weird so now I want to go back and do a
+
+984
+00:57:59,800 --> 00:58:03,800
+ bit more of it and strongly recommended if you're in the area.
+
+985
+00:58:03,800 --> 00:58:08,040
+ I'm very excited at some point to do it probably not this month.
+
+986
+00:58:08,040 --> 00:58:12,560
+ I assume it's going to be around for a while I assume it's not a limited time thing.
+
+987
+00:58:12,560 --> 00:58:17,240
+ Well, except for insofar as any business is a limited time thing.
+
+988
+00:58:17,240 --> 00:58:20,200
+ But they might go bust because I don't see how they're going to sell only tickets in
+
+989
+00:58:20,200 --> 00:58:21,200
+ the winter.
+
+990
+00:58:21,200 --> 00:58:23,560
+ Why wouldn't they sell tickets in the winter?
+
+991
+00:58:23,560 --> 00:58:24,560
+ Because it's outdoors.
+
+992
+00:58:24,560 --> 00:58:30,760
+ I mean it's under cover but it's in a dock so you're kind of running around the dock.
+
+993
+00:58:30,760 --> 00:58:34,120
+ I think I am less worried about being outside of the winter than you.
+
+994
+00:58:34,120 --> 00:58:36,200
+ Yeah, he said you got very wet right?
+
+995
+00:58:36,200 --> 00:58:37,920
+ People won't do that in the winter.
+
+996
+00:58:37,920 --> 00:58:39,240
+ You were not supposed to get wet.
+
+997
+00:58:39,240 --> 00:58:43,200
+ Our anger wet on the boat ride because we overbalanced the boat because they should
+
+998
+00:58:43,200 --> 00:58:45,640
+ have put two of us on one boat and two of us on the other.
+
+999
+00:58:45,640 --> 00:58:50,320
+ But there's no log flumes because when you said that I was imagining a log flume but
+
+1000
+00:58:50,320 --> 00:58:52,680
+ I'm now not imagining a log flume.
+
+1001
+00:58:52,680 --> 00:58:55,080
+ No, it's not like a theme park.
+
+1002
+00:58:55,080 --> 00:58:56,600
+ It's not like a theme park.
+
+1003
+00:58:56,600 --> 00:59:01,160
+ It's much closer to being a lop than it is to being a theme park.
+
+1004
+00:59:01,160 --> 00:59:05,720
+ Although there's some kind of infrastructure, mostly what you're doing is talking to the
+
+1005
+00:59:05,720 --> 00:59:09,760
+ inhabitants of the town about their lives and why they're there and what they're doing
+
+1006
+00:59:09,760 --> 00:59:13,240
+ there and why they came there and where they're going and so on.
+
+1007
+00:59:13,240 --> 00:59:17,720
+ But I was going to say I think 35 pounds for something with a lot of actors that is quite
+
+1008
+00:59:17,720 --> 00:59:18,720
+ cheap.
+
+1009
+00:59:18,720 --> 00:59:19,960
+ That is quite cheap.
+
+1010
+00:59:19,960 --> 00:59:24,400
+ It's just starting at 34 pounds but I don't understand what that means.
+
+1011
+00:59:24,400 --> 00:59:28,520
+ Yeah, it's 34 pounds on a weekday and I think it's about 49 at the weekend and they do
+
+1012
+00:59:28,520 --> 00:59:34,280
+ two, you're there for five hours so they do two sitting daytime one which will be full
+
+1013
+00:59:34,280 --> 00:59:37,600
+ of children I'll tell you and then an evening one which probably won't be.
+
+1014
+00:59:37,600 --> 00:59:40,200
+ It's only 39 pounds at the weekend.
+
+1015
+00:59:40,200 --> 00:59:42,400
+ They should charge more for this.
+
+1016
+00:59:42,400 --> 00:59:44,040
+ And do they sell you a lot of beer?
+
+1017
+00:59:44,040 --> 00:59:47,920
+ Yeah, no, and they saw me two beers but the beers were six pounds a pint which I would
+
+1018
+00:59:47,920 --> 00:59:50,520
+ say for four pure, it's perfectly good brand.
+
+1019
+00:59:50,520 --> 00:59:53,480
+ I would say six pounds a pint for beer.
+
+1020
+00:59:53,480 --> 00:59:56,000
+ A) I'd just be in a Chicago.
+
+1021
+00:59:56,000 --> 01:00:00,480
+ And B) if you go to a bar in that area of London you will be paying five pounds fifty
+
+1022
+01:00:00,480 --> 01:00:03,480
+ a pint so it didn't seem ludicrously expensive at all.
+
+1023
+01:00:03,480 --> 01:00:07,120
+ Yeah, so they're not making pocket loads on their drinks either.
+
+1024
+01:00:07,120 --> 01:00:10,960
+ They originally had a rather poor food offering that was expensive but they've improved the
+
+1025
+01:00:10,960 --> 01:00:16,320
+ food offering and although we didn't actually eat there we ate at a, there's a food caught
+
+1026
+01:00:16,320 --> 01:00:21,680
+ outside Canada water station and we had some food off of Van there because we'd been warned.
+
+1027
+01:00:21,680 --> 01:00:26,040
+ But so we didn't actually taste the food inside but we just have hacked into Lato.
+
+1028
+01:00:26,040 --> 01:00:31,680
+ I have an adorable picture of their sample codes which have tiny crocheted platypuses
+
+1029
+01:00:31,680 --> 01:00:33,440
+ at the rather than ice cream.
+
+1030
+01:00:33,440 --> 01:00:35,000
+ No, I want to go.
+
+1031
+01:00:35,000 --> 01:00:39,480
+ I would want to dress up because it is a steampunk world and the worst thing about that kind
+
+1032
+01:00:39,480 --> 01:00:42,480
+ of thing is when you've got a lot of people wearing like band t-shirts and jeans and
+
+1033
+01:00:42,480 --> 01:00:46,080
+ you're like this does not feel very steampunky so I would definitely want to at least make
+
+1034
+01:00:46,080 --> 01:00:48,600
+ the effort to match the aesthetic.
+
+1035
+01:00:48,600 --> 01:00:53,080
+ I think a lot of these things you get out what you put in so like I'd be very up for
+
+1036
+01:00:53,080 --> 01:00:54,080
+ doing that.
+
+1037
+01:00:54,080 --> 01:00:57,960
+ I've never been tempted to go to like a lop like empire or anything like that but I think
+
+1038
+01:00:57,960 --> 01:01:03,840
+ with this kind of thing where it's like you pay money and do it more as a theatre production
+
+1039
+01:01:03,840 --> 01:01:09,440
+ tempts me a lot more because I think I would have to put less in to get more out than of
+
+1040
+01:01:09,440 --> 01:01:10,840
+ a traditional art.
+
+1041
+01:01:10,840 --> 01:01:12,920
+ Yeah, I think 100%.
+
+1042
+01:01:12,920 --> 01:01:14,760
+ Okay, do you pick John?
+
+1043
+01:01:14,760 --> 01:01:15,760
+ My pick.
+
+1044
+01:01:15,760 --> 01:01:17,160
+ What is your pick John?
+
+1045
+01:01:17,160 --> 01:01:22,520
+ So I would see Liz for a week and Liz is great and my pick is Liz.
+
+1046
+01:01:22,520 --> 01:01:23,520
+ Hey.
+
+1047
+01:01:23,520 --> 01:01:29,840
+ So in 2020 me and my family were going to go to Orlando to go to Walt Disney World, partly
+
+1048
+01:01:29,840 --> 01:01:36,240
+ to visit Galaxy's Edge and do other things and obviously Covid got in the way and our
+
+1049
+01:01:36,240 --> 01:01:41,760
+ Virgin Atlantic ticket was made into an open ticket that we had to spend by mid 2022 and
+
+1050
+01:01:41,760 --> 01:01:45,120
+ then we got nominated for a Hugo Award.
+
+1051
+01:01:45,120 --> 01:01:50,000
+ And so long story short, I went on a family holiday to Orlando and then flew from that
+
+1052
+01:01:50,000 --> 01:01:56,080
+ family holiday to Worldcon to kill two birds with one stone and Liz was there as well because
+
+1053
+01:01:56,080 --> 01:02:00,080
+ Liz had some time before Worldcon where she was like, well, I could do a thing in America
+
+1054
+01:02:00,080 --> 01:02:05,840
+ and I said, I'll go to Orlando and Liz went, I like Disney and so Liz was in Orlando also.
+
+1055
+01:02:05,840 --> 01:02:10,680
+ And so I've got a life hack for jet lag, which is if you get off the plane in Orlando and
+
+1056
+01:02:10,680 --> 01:02:15,000
+ immediately go and hang out for three hours at a water park with Liz eating Mickey Mouse
+
+1057
+01:02:15,000 --> 01:02:17,960
+ ice creams, that gets you over jet lag instantly.
+
+1058
+01:02:17,960 --> 01:02:22,400
+ So if you're ever flying to the States, just contact Liz, ask her to meet you at a water
+
+1059
+01:02:22,400 --> 01:02:26,480
+ park in America somewhere and feed you ice cream and you'll be right as Wayne.
+
+1060
+01:02:26,480 --> 01:02:31,960
+ And so we went to Star Wars Galaxy's Edge the next day and it was pretty great.
+
+1061
+01:02:31,960 --> 01:02:33,800
+ I've very much enjoyed it.
+
+1062
+01:02:33,800 --> 01:02:37,640
+ Those of who have been listening to the podcast for a while may know that I quite like Star
+
+1063
+01:02:37,640 --> 01:02:39,760
+ Wars on the plane to America.
+
+1064
+01:02:39,760 --> 01:02:46,080
+ I read the Galaxy's Edge novel, so I was like prepared for Galaxy's Edge when I arrived
+
+1065
+01:02:46,080 --> 01:02:50,680
+ and then we went on the first day, we went to Oga's cantina, which is a Star Wars cantina
+
+1066
+01:02:50,680 --> 01:02:56,040
+ in Galaxy's Edgeland and it was so cool and they have like Star Wars drinks and they
+
+1067
+01:02:56,040 --> 01:02:59,280
+ have beer flights and they have Tiki mugs and it was amazing.
+
+1068
+01:02:59,280 --> 01:03:03,440
+ And then they also have kind of they're basically the entire places like being in Star Wars
+
+1069
+01:03:03,440 --> 01:03:05,040
+ and they use sound effects very cleverly.
+
+1070
+01:03:05,040 --> 01:03:10,040
+ So there's like sounds of starships going overhead as you're walking around.
+
+1071
+01:03:10,040 --> 01:03:16,040
+ And I went with a friend after Chicago by coincidence, my friend from uni Fred was on holiday.
+
+1072
+01:03:16,040 --> 01:03:22,040
+ In Orlando at that point, so we went to Galaxy together and his partner remarked saying,
+
+1073
+01:03:22,040 --> 01:03:26,560
+ "I've only just properly twigged that when I hear starships going overhead, they're not
+
+1074
+01:03:26,560 --> 01:03:32,240
+ actually starships, they're sound effects because it is so immersive that you just don't
+
+1075
+01:03:32,240 --> 01:03:34,040
+ really notice that it's not real.
+
+1076
+01:03:34,040 --> 01:03:35,480
+ It was very good.
+
+1077
+01:03:35,480 --> 01:03:39,200
+ There is an app which you could download which has an augmented reality game you can play
+
+1078
+01:03:39,200 --> 01:03:40,600
+ throughout the park.
+
+1079
+01:03:40,600 --> 01:03:44,120
+ I didn't really do that as much on the first day but I did a lot of it on previous things.
+
+1080
+01:03:44,120 --> 01:03:48,040
+ There are two rides both of which designed to be relatively accessible even to people
+
+1081
+01:03:48,040 --> 01:03:49,880
+ who don't really like rides.
+
+1082
+01:03:49,880 --> 01:03:52,600
+ This band is not a huge fan of roller coasters but enjoyed both a lot.
+
+1083
+01:03:52,600 --> 01:03:54,280
+ It was really, really good.
+
+1084
+01:03:54,280 --> 01:03:55,280
+ And yeah.
+
+1085
+01:03:55,280 --> 01:03:57,240
+ Did you dress up?
+
+1086
+01:03:57,240 --> 01:03:58,720
+ No, I didn't.
+
+1087
+01:03:58,720 --> 01:04:02,080
+ I haven't got a Star Wars cosplay at the moment.
+
+1088
+01:04:02,080 --> 01:04:07,960
+ Don't you think that dressing up and having there not be lots of people walking around
+
+1089
+01:04:07,960 --> 01:04:14,440
+ in jeans and t-shirts is just as important in a Star Wars immersive as it is in Steampunk?
+
+1090
+01:04:14,440 --> 01:04:16,280
+ I'm just wondering.
+
+1091
+01:04:16,280 --> 01:04:18,600
+ Yes, but I have a question for you.
+
+1092
+01:04:18,600 --> 01:04:24,680
+ In the London Docklands in mid September, was it 40 degrees?
+
+1093
+01:04:24,680 --> 01:04:25,680
+ No.
+
+1094
+01:04:25,680 --> 01:04:31,800
+ There is an element here of you're going to be very warm in August in Orlando as it turns
+
+1095
+01:04:31,800 --> 01:04:32,800
+ out.
+
+1096
+01:04:32,800 --> 01:04:34,600
+ But there are places, I've seen Star Wars.
+
+1097
+01:04:34,600 --> 01:04:36,840
+ There are places in the Star Wars universe that are 40 degrees.
+
+1098
+01:04:36,840 --> 01:04:39,880
+ There must be appropriate clothing in those places.
+
+1099
+01:04:39,880 --> 01:04:44,680
+ Well, mostly if you live in that kind of place all the time you get used to the heat, right?
+
+1100
+01:04:44,680 --> 01:04:50,120
+ I mean, the appropriate clothing for wearing to a theme park in Orlando in August is basically
+
+1101
+01:04:50,120 --> 01:04:53,240
+ as little as possible and incredibly sturdy shoes.
+
+1102
+01:04:53,240 --> 01:04:54,240
+ Yeah.
+
+1103
+01:04:54,240 --> 01:05:00,200
+ It doesn't really feel like it destroys the immersion somehow.
+
+1104
+01:05:00,200 --> 01:05:04,120
+ I mean, also bear in mind that Star Wars Galaxy's Edge is only one small part of a
+
+1105
+01:05:04,120 --> 01:05:05,840
+ much larger theme park as well.
+
+1106
+01:05:05,840 --> 01:05:09,480
+ So most people are not spending their entire day most in Galaxy's Edge.
+
+1107
+01:05:09,480 --> 01:05:13,520
+ They're going there for a couple of hours and then going off to ride the Slinky Dog World
+
+1108
+01:05:13,520 --> 01:05:14,520
+ Acosta.
+
+1109
+01:05:14,520 --> 01:05:20,800
+ I spent a large amount of my day in Galaxy's Edge and then I spent a further five days
+
+1110
+01:05:20,800 --> 01:05:25,120
+ in Galaxy's Edge going back and doing all the things because there is a game and I did
+
+1111
+01:05:25,120 --> 01:05:26,120
+ the game.
+
+1112
+01:05:26,120 --> 01:05:28,880
+ I haven't quite finished the game so I'm going to have to go back.
+
+1113
+01:05:28,880 --> 01:05:29,880
+ This is very sad.
+
+1114
+01:05:29,880 --> 01:05:33,800
+ But yeah, so there's two, there's a ride where you can ride the Millennium Falcon and
+
+1115
+01:05:33,800 --> 01:05:40,280
+ you get to fly or be the gunner or be the mechanic on a smuggling run to Corellia and
+
+1116
+01:05:40,280 --> 01:05:41,800
+ that's very cool.
+
+1117
+01:05:41,800 --> 01:05:46,360
+ I got to fly the Vulcan on my own because I went on the single rider queue and I got
+
+1118
+01:05:46,360 --> 01:05:49,280
+ to the front and there was literally no one else because I think they just had a breakdown
+
+1119
+01:05:49,280 --> 01:05:53,160
+ and they just reopened and they were like, do you just want to do it on your own?
+
+1120
+01:05:53,160 --> 01:05:55,240
+ And I was like, yes.
+
+1121
+01:05:55,240 --> 01:05:57,600
+ And so I did all my own and it was brilliant.
+
+1122
+01:05:57,600 --> 01:06:00,800
+ And then there's Rise of Resistance, which I don't want to talk too much about but is
+
+1123
+01:06:00,800 --> 01:06:01,800
+ amazing.
+
+1124
+01:06:01,800 --> 01:06:05,040
+ I wish I'd been able to go with my friend but unfortunately I had to fly back to London
+
+1125
+01:06:05,040 --> 01:06:08,040
+ because the day I went with him was the day we were flying home.
+
+1126
+01:06:08,040 --> 01:06:13,720
+ But I said, what was your face like when you got off the shuttle in Rise and he sent
+
+1127
+01:06:13,720 --> 01:06:15,520
+ me a photo of him being like this?
+
+1128
+01:06:15,520 --> 01:06:18,360
+ And I was like, yes, that is a correct face.
+
+1129
+01:06:18,360 --> 01:06:19,360
+ It does sound amazing.
+
+1130
+01:06:19,360 --> 01:06:23,040
+ It does sound like, and Disney generally does sound like it would be amazingly good.
+
+1131
+01:06:23,040 --> 01:06:25,480
+ I don't want to suggest it would be.
+
+1132
+01:06:25,480 --> 01:06:27,880
+ It is quite fun.
+
+1133
+01:06:27,880 --> 01:06:31,400
+ And Rise of Resistance isn't broken, which unfortunately is a lot.
+
+1134
+01:06:31,400 --> 01:06:33,920
+ It is technologically incredible.
+
+1135
+01:06:33,920 --> 01:06:40,120
+ There are things where I can only vaguely work out how they are doing those effects.
+
+1136
+01:06:40,120 --> 01:06:41,360
+ And it is really good.
+
+1137
+01:06:41,360 --> 01:06:44,960
+ I was saying you would love it because there's so many visual illusions and things like that.
+
+1138
+01:06:44,960 --> 01:06:47,520
+ You would be like, oh, how are they doing this hologram?
+
+1139
+01:06:47,520 --> 01:06:49,080
+ Yeah, I'm saving up my pennies.
+
+1140
+01:06:49,080 --> 01:06:50,480
+ I'm going to do it.
+
+1141
+01:06:50,480 --> 01:06:52,000
+ But you know, and also I love all of that.
+
+1142
+01:06:52,000 --> 01:06:58,240
+ I also love like, I love stuff that was state of the art in 1872 as well.
+
+1143
+01:06:58,240 --> 01:07:04,160
+ So even if I don't get to go until it's quite old hat, I'll still like it.
+
+1144
+01:07:04,160 --> 01:07:09,800
+ And then I went to get, I went to do the lightsaber, which is kind of a ride you can't
+
+1145
+01:07:09,800 --> 01:07:12,120
+ do unless you spend a lot of money on a lightsaber.
+
+1146
+01:07:12,120 --> 01:07:14,000
+ Liz, so you get a plus one?
+
+1147
+01:07:14,000 --> 01:07:17,400
+ Well, aren't all of these rides you can't do unless you spend a lot of money going to
+
+1148
+01:07:17,400 --> 01:07:18,400
+ a theme park?
+
+1149
+01:07:18,400 --> 01:07:21,840
+ Well, yeah, but the most of them aren't extra money when you get in.
+
+1150
+01:07:21,840 --> 01:07:25,320
+ It's not the rollercoaster tycoon model of charge them when they enter and then charge
+
+1151
+01:07:25,320 --> 01:07:26,520
+ them again when they ride.
+
+1152
+01:07:26,520 --> 01:07:29,280
+ Yeah, but could you now eBay your lightsaber?
+
+1153
+01:07:29,280 --> 01:07:31,920
+ Oh, yeah, but I don't want to.
+
+1154
+01:07:31,920 --> 01:07:32,920
+ Yeah.
+
+1155
+01:07:32,920 --> 01:07:37,960
+ But yeah, and so it's like a kind of like a little miniature theatrical thing with like
+
+1156
+01:07:37,960 --> 01:07:43,000
+ actors and like the speeches perfectly lined up with these sound cues and the lighting.
+
+1157
+01:07:43,000 --> 01:07:46,960
+ I don't know what to spoil it to, actually, but it was pretty freaking amazing.
+
+1158
+01:07:46,960 --> 01:07:48,840
+ And España was my plus one.
+
+1159
+01:07:48,840 --> 01:07:52,760
+ And Liz was my little brother's plus one because my little brother's wife was like,
+
+1160
+01:07:52,760 --> 01:07:53,760
+ you do you.
+
+1161
+01:07:53,760 --> 01:07:55,240
+ So the lightsaber was very good.
+
+1162
+01:07:55,240 --> 01:07:57,000
+ And very sad I just had a whale of a time.
+
+1163
+01:07:57,000 --> 01:08:04,320
+ I kind of have this question of, oh, but what wasn't it that everybody else buying a lightsaber
+
+1164
+01:08:04,320 --> 01:08:07,840
+ was a seven year old, but I'm sure that's not actually true.
+
+1165
+01:08:07,840 --> 01:08:11,920
+ No, I think I don't think and I think there were a couple of kids, but it was definitely
+
+1166
+01:08:11,920 --> 01:08:12,920
+ majority.
+
+1167
+01:08:12,920 --> 01:08:15,640
+ It's like collectors Lego.
+
+1168
+01:08:15,640 --> 01:08:16,640
+ Yeah, it is.
+
+1169
+01:08:16,640 --> 01:08:21,440
+ Yeah, I mean, if your kid just wants a lightsaber, you can buy them a $25 plastic lightsaber.
+
+1170
+01:08:21,440 --> 01:08:22,440
+ That's the other thing.
+
+1171
+01:08:22,440 --> 01:08:25,680
+ Because like if you've got a child who wants a lightsaber, buy them a metal one that comes
+
+1172
+01:08:25,680 --> 01:08:30,960
+ with the 36 inch long light bulb on the end is like, yeah.
+
+1173
+01:08:30,960 --> 01:08:37,480
+ I could go to Disney when I was 14 to Disney World and it was very good then.
+
+1174
+01:08:37,480 --> 01:08:42,240
+ But I feel like they might have a couple of new rides and new attractions.
+
+1175
+01:08:42,240 --> 01:08:46,960
+ That was 1979 and Star Wars, Star Wars was an enormous thing, but they didn't have a
+
+1176
+01:08:46,960 --> 01:08:47,960
+ thing.
+
+1177
+01:08:47,960 --> 01:08:48,960
+ It wasn't owned by Disney.
+
+1178
+01:08:48,960 --> 01:08:50,360
+ When did Star Tours open?
+
+1179
+01:08:50,360 --> 01:08:51,360
+ Late 80s.
+
+1180
+01:08:51,360 --> 01:08:52,360
+ 87, yeah.
+
+1181
+01:08:52,360 --> 01:08:57,800
+ Yeah, it's possible that they have a few more rides and stuff than they had in 1979
+
+1182
+01:08:57,800 --> 01:08:59,600
+ hours and had Space Mountain.
+
+1183
+01:08:59,600 --> 01:09:01,640
+ Still have Space Mountain.
+
+1184
+01:09:01,640 --> 01:09:06,360
+ And also they hadn't really, I think they've got a lot better at managing queues.
+
+1185
+01:09:06,360 --> 01:09:09,440
+ So one of the things about Phantom Peak is of course no queues really.
+
+1186
+01:09:09,440 --> 01:09:14,800
+ There was a very sad bit where somebody was waiting to talk to the guy.
+
+1187
+01:09:14,800 --> 01:09:17,880
+ We were getting to the end of a quest and getting our pay off for the end of the quest,
+
+1188
+01:09:17,880 --> 01:09:20,920
+ which is playing cards that you can keep.
+
+1189
+01:09:20,920 --> 01:09:23,800
+ And there were some people waiting to talk to him and they were clearly at the very beginning
+
+1190
+01:09:23,800 --> 01:09:25,080
+ of the same quest.
+
+1191
+01:09:25,080 --> 01:09:27,000
+ So that was not great.
+
+1192
+01:09:27,000 --> 01:09:30,200
+ Yeah, that is tricky.
+
+1193
+01:09:30,200 --> 01:09:34,280
+ One of my abiding memories about Disney was that even then they were better at managing
+
+1194
+01:09:34,280 --> 01:09:35,680
+ queues than any other theme parker.
+
+1195
+01:09:35,680 --> 01:09:37,720
+ I went to quite a lot of theme parks.
+
+1196
+01:09:37,720 --> 01:09:38,720
+ But there were a lot of queues.
+
+1197
+01:09:38,720 --> 01:09:44,280
+ I remember, I mean, we must have spent more than half our time at Disney World in queues.
+
+1198
+01:09:44,280 --> 01:09:46,840
+ Then you need to get up earlier in solution.
+
+1199
+01:09:46,840 --> 01:09:51,480
+ No, no, we got into the park at the first moment that you could get into the park.
+
+1200
+01:09:51,480 --> 01:09:52,480
+ I mean, this was 1979.
+
+1201
+01:09:52,480 --> 01:09:55,640
+ They didn't have all of the fast pass and...
+
+1202
+01:09:55,640 --> 01:09:58,280
+ Oh, they don't have fast pass anymore.
+
+1203
+01:09:58,280 --> 01:09:59,280
+ They're at anymore.
+
+1204
+01:09:59,280 --> 01:10:00,280
+ You've got to pay.
+
+1205
+01:10:00,280 --> 01:10:04,560
+ And the Port Marion thing, which we got to do this year, which is that if you're a privileged
+
+1206
+01:10:04,560 --> 01:10:08,720
+ person at Port Marion, you get to hang out in the village after everyone's left.
+
+1207
+01:10:08,720 --> 01:10:10,480
+ And I think Disney do that right.
+
+1208
+01:10:10,480 --> 01:10:13,480
+ Before everyone arises, after everyone leaves.
+
+1209
+01:10:13,480 --> 01:10:14,480
+ Yep.
+
+1210
+01:10:14,480 --> 01:10:15,480
+ Only if you're Liz.
+
+1211
+01:10:15,480 --> 01:10:16,480
+ Which I did.
+
+1212
+01:10:16,480 --> 01:10:19,000
+ Because Liz is very special.
+
+1213
+01:10:19,000 --> 01:10:23,800
+ John joined me one morning and, you know, we were there half an hour before the scheduled
+
+1214
+01:10:23,800 --> 01:10:25,840
+ opening, which was the early opening.
+
+1215
+01:10:25,840 --> 01:10:26,840
+ And it was already open.
+
+1216
+01:10:26,840 --> 01:10:30,920
+ You basically just like, if you arrived at the time, they say the theme park opens.
+
+1217
+01:10:30,920 --> 01:10:31,920
+ You were late.
+
+1218
+01:10:31,920 --> 01:10:33,400
+ So that's the way to do it.
+
+1219
+01:10:33,400 --> 01:10:34,400
+ I don't think we...
+
+1220
+01:10:34,400 --> 01:10:37,840
+ I don't know about you, John, but I did not spend a lot of time in queues.
+
+1221
+01:10:37,840 --> 01:10:41,640
+ I mean, I queued for half an hour for Rises since that first day, but that's about it.
+
+1222
+01:10:41,640 --> 01:10:44,960
+ The only time I queued for a long time was when I queued for Rises resistance and it broke
+
+1223
+01:10:44,960 --> 01:10:46,680
+ down while I was queuing.
+
+1224
+01:10:46,680 --> 01:10:47,960
+ That was a long queue.
+
+1225
+01:10:47,960 --> 01:10:53,440
+ But especially because if you go to theme parks, I just single ride on most things.
+
+1226
+01:10:53,440 --> 01:10:57,720
+ And those, like, you go from, like, some queue to basically zero.
+
+1227
+01:10:57,720 --> 01:11:00,400
+ Going as a single rider is so much quicker.
+
+1228
+01:11:00,400 --> 01:11:04,680
+ We went on and I think all but one Disney ride, which have a single rider queue, John.
+
+1229
+01:11:04,680 --> 01:11:05,680
+ They don't have them.
+
+1230
+01:11:05,680 --> 01:11:07,080
+ Oh, no.
+
+1231
+01:11:07,080 --> 01:11:09,160
+ That was the Octa Thought podcast.
+
+1232
+01:11:09,160 --> 01:11:10,640
+ And it's goodbye for me.
+
+1233
+01:11:10,640 --> 01:11:12,200
+ It's goodbye for me.
+
+1234
+01:11:12,200 --> 01:11:12,880
+ It's goodbye for me.
+
+1235
+01:11:12,880 --> 01:11:34,600
+ The
+
+1236
+01:11:34,600 --> 01:11:40,520
+ theme music for this episode was Fanfare for Space by Kevin MacLeod in Competec.com, used
+
+1237
+01:11:40,520 --> 01:11:47,520
+ under a Creative Commons attribution 4.0 license.
+
+1238
+01:11:47,520 --> 01:11:57,520
+ [BLANK_AUDIO]
+

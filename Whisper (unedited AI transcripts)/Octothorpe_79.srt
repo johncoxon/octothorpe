@@ -1,0 +1,1760 @@
+1
+00:00:00,000 --> 00:00:20,000
+ Hello everyone and welcome to the very 79th episode of Octa Thorpe. This episode is coming
+
+2
+00:00:20,000 --> 00:00:26,640
+ to you on the 16th of March 2023. I am John Coxon.
+
+3
+00:00:26,640 --> 00:00:31,920
+ I am Alison Scott and I'm Liz Batty. John, are you doing your best presenter voice in a
+
+4
+00:00:31,920 --> 00:00:38,400
+ way to be on match the day or something? We stand with Gary Lineker because he's a legend and he's
+
+5
+00:00:38,400 --> 00:00:44,160
+ the only match of the day host, whoever sold vegetables on Lester Market. The BBC's announced there's
+
+6
+00:00:44,160 --> 00:00:48,400
+ going to be no punditry. I woke up and it was like everyone's saying, I'm not going to do it and
+
+7
+00:00:48,400 --> 00:00:50,880
+ then are you right saying, well, I'm not going to do it. And then everyone else followed by saying,
+
+8
+00:00:50,880 --> 00:00:53,520
+ well, if you're right, it's not doing it. We won't do it either. In the comment, it's like, well,
+
+9
+00:00:53,520 --> 00:00:57,360
+ we won't commentate and I woke up to all this and it was like, yeah, that is an overnight cluster
+
+10
+00:00:57,360 --> 00:01:04,880
+ fucking it. Anyway, sorry, off topic. Yup. Did you see that Joe Lysit said I'll do it?
+
+11
+00:01:04,880 --> 00:01:11,600
+ Yes. Yeah, I really want Joe Lysit to do it so much. I love them so much.
+
+12
+00:01:11,600 --> 00:01:18,320
+ I think they'd be great because I'm also sure that Joe Lysit does not know a whole lot about
+
+13
+00:01:18,320 --> 00:01:22,320
+ Premier League football. But he does know a whole lot about being right-wing.
+
+14
+00:01:22,320 --> 00:01:28,720
+ He does. Right. Yeah, anyway, we're going to do a podcast. Anyone who's not British is like,
+
+15
+00:01:28,720 --> 00:01:33,040
+ what is going on? And we're going to refuse to explain. Sorry, American listeners.
+
+16
+00:01:33,040 --> 00:01:38,480
+ Just Google. Oh, no, I can't imagine there's going to be a single sensible roundup of this
+
+17
+00:01:38,480 --> 00:01:42,800
+ that incorporates everything we just said. We have a letter as a comment. I wanted to come back to
+
+18
+00:01:42,800 --> 00:01:48,720
+ a letter of comment from Raj on episode 77 because I didn't say something and then I regretted not
+
+19
+00:01:48,720 --> 00:01:53,520
+ saying something, which is that when I had been discussing Ms Marvel and representation,
+
+20
+00:01:53,520 --> 00:01:58,320
+ I'd had conversations with a couple of people who had doubted whether or not Ms Marvel would
+
+21
+00:01:58,320 --> 00:02:03,600
+ be good representation for people who were not American, like basically for members of the
+
+22
+00:02:03,600 --> 00:02:08,960
+ Pakistani diaspora from around the rest of the world. And Raj did say in his episode 77
+
+23
+00:02:08,960 --> 00:02:12,320
+ in luck that he really enjoyed Ms Marvel and he thought it was great for representation.
+
+24
+00:02:12,320 --> 00:02:17,600
+ And it was nice to see people who looked like me represented in genre fiction in the MCU no less.
+
+25
+00:02:17,600 --> 00:02:22,640
+ And Raj, to the best of my knowledge, is not a young girl living in New Jersey being as how
+
+26
+00:02:22,640 --> 00:02:28,320
+ he is a man who lives in Glasgow. We also heard from other people, Bridget, for instance.
+
+27
+00:02:28,320 --> 00:02:34,480
+ Yeah, so Bridget came on Cafe Moose, which is my regular weekday zoom thing and said,
+
+28
+00:02:34,480 --> 00:02:37,840
+ can I give you a lock here on Cafe Moose? And we said, if you must.
+
+29
+00:02:37,840 --> 00:02:44,880
+ We said, yes, that would be lovely. We did not grumble. John said, yes, that would be lovely.
+
+30
+00:02:44,880 --> 00:02:50,160
+ And I said, oh, I'm not sure I'll remember it. But luckily John wrote it down. So there we go.
+
+31
+00:02:50,160 --> 00:02:57,440
+ And Bridget said, fandom has great policies for things, but individual people in fandom can be
+
+32
+00:02:57,440 --> 00:03:03,440
+ obstreperous and obstrative. And this is very true. This is why we have great policies, honestly.
+
+33
+00:03:03,440 --> 00:03:05,440
+ Strew in a lot of places, to be honest.
+
+34
+00:03:05,440 --> 00:03:08,960
+ Yeah, it is not just fandom, but it is definitely true of fandom.
+
+35
+00:03:09,920 --> 00:03:15,600
+ Oh, I think that's a particular streak of stubborn in fandom. You might be right.
+
+36
+00:03:15,600 --> 00:03:22,320
+ We also heard from Christopher J Garcia, who's a legend like Gary Linnaker.
+
+37
+00:03:22,320 --> 00:03:27,920
+ I've answered several of our queries about sentences which he left halfway through in the
+
+38
+00:03:27,920 --> 00:03:33,440
+ last legend comment. Yep. And so he recommends a single best thing he watched last year,
+
+39
+00:03:33,440 --> 00:03:39,440
+ a film called Big Book, which is, according to the internet, a French science fiction black
+
+40
+00:03:39,440 --> 00:03:42,240
+ comedy film that you can watch on Netflix. So,
+
+41
+00:03:42,240 --> 00:03:48,720
+ that sounds like a good shout, actually. So it might be worth watching. I certainly have not
+
+42
+00:03:48,720 --> 00:03:53,280
+ watched any recent French black comedy science fiction films. So I might give that a go.
+
+43
+00:03:53,280 --> 00:03:59,600
+ It was Chris who showed me OSS Sandy Set for the first time, which is a delightful and ridiculous
+
+44
+00:03:59,600 --> 00:04:06,160
+ French movie, which I did wholly enjoy. It was not Chris that showed me Breece. And honestly,
+
+45
+00:04:06,160 --> 00:04:10,880
+ Chris, I will never forgive you because Breece is the best movie in the world. And the only reason I
+
+46
+00:04:10,880 --> 00:04:16,400
+ want the world con to be a niece. Breece is the word. And if anyone is listening who hasn't seen
+
+47
+00:04:16,400 --> 00:04:20,960
+ Breece, you should go see it because it's very good and extremely silly. Do we want to get into
+
+48
+00:04:20,960 --> 00:04:25,840
+ Chris's comment on the pronunciation of a particular word, which I think is now a running
+
+49
+00:04:25,840 --> 00:04:33,920
+ top view conversation for three whole episodes? Yes. So. Chris's on team, a mock rhymes with a lock.
+
+50
+00:04:34,480 --> 00:04:38,480
+ It's pronounced a mock if it follows the same pronunciation as a mock time,
+
+51
+00:04:38,480 --> 00:04:44,080
+ which I heard Theodore Sturgeon called a mock time in the before four times back when he was alive.
+
+52
+00:04:44,080 --> 00:04:49,440
+ I'm not sure if his ghost says it the same. On the other hand, you pronounce Spock, Spock.
+
+53
+00:04:49,440 --> 00:04:54,160
+ So thanks, Chris. That is valuable input to the debate, as always.
+
+54
+00:04:54,160 --> 00:05:00,640
+ Yeah. I mean, I think pulling out the I heard Theodore Sturgeon say it card is a powerful argument
+
+55
+00:05:00,640 --> 00:05:07,600
+ that Chris, thank you. It conflicts with Laurie from Hugo Girl saying that she pronounces it a
+
+56
+00:05:07,600 --> 00:05:14,560
+ muck, but she fails to note which legend of the science fiction genre taught her this pronunciation.
+
+57
+00:05:14,560 --> 00:05:18,800
+ So can we really trust her? Yeah, Laurie, if it turns out that you learned the pronunciation from
+
+58
+00:05:18,800 --> 00:05:29,200
+ like Ursula Le Guin, then. Well, I now want to do next time we're at the Glasgow World con,
+
+59
+00:05:29,200 --> 00:05:34,640
+ is every time one of us bumps into a famous author, we just record on our phone how they say the word.
+
+60
+00:05:34,640 --> 00:05:39,040
+ We have it on a little sign and we say, please read this word out and we record it.
+
+61
+00:05:39,040 --> 00:05:42,880
+ And then we play them all on a future episode of Octa Thorpe and we have ribbons.
+
+62
+00:05:42,880 --> 00:05:48,960
+ This would certainly be the best use of Octa Thorpe's time interviewing famous authors that are welcome.
+
+63
+00:05:48,960 --> 00:05:54,160
+ Yup. I might do it to Adrian Tchaikovsky at Eastcom and see whether he's confused.
+
+64
+00:05:54,160 --> 00:05:57,600
+ We could ask them about a few different words while we're at it.
+
+65
+00:05:57,600 --> 00:05:59,840
+ Could we? What else do we disagree on?
+
+66
+00:05:59,840 --> 00:06:01,280
+ Muffie!
+
+67
+00:06:01,280 --> 00:06:01,760
+ Muffie!
+
+68
+00:06:01,760 --> 00:06:03,520
+ [laughs]
+
+69
+00:06:03,520 --> 00:06:08,720
+ Thank you to Kurt Phillips who once saw me eat a cheeseburger.
+
+70
+00:06:08,720 --> 00:06:10,320
+ I don't know whether we want to unpack that or not.
+
+71
+00:06:10,320 --> 00:06:12,320
+ Well, we're just gonna leave it there.
+
+72
+00:06:12,320 --> 00:06:17,120
+ I think so. I also like that Kurt says, I find that I agree with most everything you all said.
+
+73
+00:06:17,120 --> 00:06:18,240
+ Thank you, Kurt.
+
+74
+00:06:18,240 --> 00:06:19,680
+ Hey.
+
+75
+00:06:19,680 --> 00:06:23,280
+ On the subject of agreeing, he says, he assumes over the next episode or two of Octa Thorpe
+
+76
+00:06:23,280 --> 00:06:27,120
+ will start making Hugo World suggestions and that will surely give him something to disagree with.
+
+77
+00:06:27,520 --> 00:06:30,160
+ He says, I'm sure you'll do your best for me.
+
+78
+00:06:30,160 --> 00:06:33,920
+ And yes, we will attempt to be opinionated.
+
+79
+00:06:33,920 --> 00:06:39,120
+ Obviously, we're usually very diplomatic and unopinionated, so it is hard, but we'll try.
+
+80
+00:06:39,120 --> 00:06:41,440
+ Yeah, I mean, usually we all agree with each other all of the time.
+
+81
+00:06:41,440 --> 00:06:42,000
+ Yup.
+
+82
+00:06:42,000 --> 00:06:43,520
+ Makes very difficult to do a podcast.
+
+83
+00:06:43,520 --> 00:06:44,080
+ Do we?
+
+84
+00:06:44,080 --> 00:06:44,800
+ Why do we appear?
+
+85
+00:06:44,800 --> 00:06:46,080
+ Why do we agree with each other?
+
+86
+00:06:46,080 --> 00:06:47,200
+ [laughs]
+
+87
+00:06:47,200 --> 00:06:47,760
+ [laughs]
+
+88
+00:06:47,760 --> 00:06:48,640
+ I love jokes.
+
+89
+00:06:48,640 --> 00:06:52,000
+ I love the wishing noise they make as they speed by.
+
+90
+00:06:52,000 --> 00:06:56,400
+ And he just makes some comments about the Chengdu Worldcon.
+
+91
+00:06:56,400 --> 00:07:00,640
+ Will there ever come a day when fans read or hear that name without a cold finger of dread
+
+92
+00:07:00,640 --> 00:07:02,640
+ playfully poking us in our hippocampus?
+
+93
+00:07:02,640 --> 00:07:08,560
+ Well, we're going to do our best with our regular Chengdu segment right up until October and probably beyond.
+
+94
+00:07:08,560 --> 00:07:09,600
+ Yes.
+
+95
+00:07:09,600 --> 00:07:11,040
+ Good segue Liz.
+
+96
+00:07:11,040 --> 00:07:17,360
+ Our regular segment about Chengdu is beginning to have more information and less whining,
+
+97
+00:07:17,360 --> 00:07:21,440
+ because this time Chengdu have opened Hugo nominations.
+
+98
+00:07:22,000 --> 00:07:25,280
+ Liz, do you want to summarize what is happening here?
+
+99
+00:07:25,280 --> 00:07:30,960
+ Chengdu opened Hugo nominations, which I know because they sent me an email about how
+
+100
+00:07:30,960 --> 00:07:36,000
+ Hugo nominations are open and how to nominate, and I went to the website and logged in and nominated
+
+101
+00:07:36,000 --> 00:07:37,840
+ some stuff, so it's all working, guys.
+
+102
+00:07:37,840 --> 00:07:40,720
+ But I was hoping you might go into more detail.
+
+103
+00:07:40,720 --> 00:07:45,120
+ Generally, the fact they've opened Hugo nominations would not be a big deal.
+
+104
+00:07:45,120 --> 00:07:49,200
+ It is a big deal, I guess, because it shows them doing something vaguely on time,
+
+105
+00:07:49,200 --> 00:07:52,640
+ and so it all makes us feel that maybe if they can open Hugo nominations on time,
+
+106
+00:07:52,640 --> 00:07:54,640
+ this is a sign you can maybe run a welcome.
+
+107
+00:07:54,640 --> 00:08:01,760
+ But also they have a special clause, which is about conversion factors for Chinese language nominees,
+
+108
+00:08:01,760 --> 00:08:10,480
+ because four of the categories for the Hugo Awards have word count limits on them.
+
+109
+00:08:10,480 --> 00:08:15,840
+ So you break short story, novelt, novella and novella up by the number of words in a story,
+
+110
+00:08:15,840 --> 00:08:20,640
+ and this in previous times has always been used to mean English language words,
+
+111
+00:08:20,640 --> 00:08:26,000
+ and they have thought about this, and since they're expecting nominations for items written in Chinese,
+
+112
+00:08:26,000 --> 00:08:30,080
+ they've decided that there will be a factor of 1.6 when converting.
+
+113
+00:08:30,080 --> 00:08:33,840
+ I don't know how they came up with that number, but I presume there's some
+
+114
+00:08:33,840 --> 00:08:39,440
+ statistics about this somewhere that you can calculate what the conversion factor is for language,
+
+115
+00:08:39,440 --> 00:08:46,720
+ and so essentially a short story is, say, fewer than 7,500 English words or 12,000 Chinese characters.
+
+116
+00:08:46,720 --> 00:08:50,240
+ It seems like a very sensible way to do it to me. I mean, it's not in the constitution,
+
+117
+00:08:50,240 --> 00:08:54,320
+ probably because the constitution has never really had to think about that before.
+
+118
+00:08:54,320 --> 00:08:58,800
+ I guess we've had World Cons in, we have had World Cons of the Countries,
+
+119
+00:08:58,800 --> 00:09:03,120
+ I mean, the only one I think we've had that uses a non, not the same character set as English is in
+
+120
+00:09:03,120 --> 00:09:07,920
+ Japan, and then there were no Japanese language nominees, so it didn't have to get thought about,
+
+121
+00:09:07,920 --> 00:09:12,240
+ but this is clearly going to be a thing, and so it's good that they've announced this now,
+
+122
+00:09:12,240 --> 00:09:16,400
+ because then if you're nominating something in the Chinese language, you can put it in the right
+
+123
+00:09:16,400 --> 00:09:20,880
+ category straight away, otherwise you're going to have this horrible mess where there's tons of
+
+124
+00:09:20,880 --> 00:09:25,920
+ stuff nominated because it has 12,000 Chinese characters, and then they have to try and do a
+
+125
+00:09:25,920 --> 00:09:30,320
+ conversion factor and say, "Oh, well, actually, this should be a novelist and move everything around,"
+
+126
+00:09:30,320 --> 00:09:35,760
+ and you'd also presumably, because the word limits are slightly different, end up with a lot of what
+
+127
+00:09:35,760 --> 00:09:39,520
+ we would think of as novellas that just get shoved in the novel category with everything else,
+
+128
+00:09:39,520 --> 00:09:43,680
+ so I think it's a good move to announce this ahead of time, and probably something other
+
+129
+00:09:43,680 --> 00:09:49,680
+ World Cons in the future will have to think about. So yes, my question was how did they decide
+
+130
+00:09:49,680 --> 00:09:56,560
+ how many characters you got, and I googled very quickly while Liz was explaining and got
+
+131
+00:09:56,560 --> 00:10:04,400
+ 19 different answers ranging from 1.2 to 2.1, so you know, I think 1.6 is probably somewhere in the
+
+132
+00:10:04,400 --> 00:10:12,320
+ middle, and they probably took some advice. I do wonder, there are many other languages which use
+
+133
+00:10:12,320 --> 00:10:18,800
+ the same alphabet as English, but which are more or less compact, and I wonder whether this is
+
+134
+00:10:18,800 --> 00:10:24,400
+ setting an interesting precedent for items written in other languages.
+
+135
+00:10:24,400 --> 00:10:28,960
+ It does, I mean, I guess if you were a German World Cons, since you might want to set one for German,
+
+136
+00:10:28,960 --> 00:10:33,760
+ but I don't know if the conversion factors for other languages are quite so dramatically different.
+
+137
+00:10:34,400 --> 00:10:41,200
+ Because the average 8000 word short story will translate into 14 German words.
+
+138
+00:10:41,200 --> 00:10:46,960
+ Yeah, so has there ever been a non-English language work nominated for Hugo?
+
+139
+00:10:46,960 --> 00:10:52,560
+ Not in the written fiction categories, I don't think.
+
+140
+00:10:52,560 --> 00:10:56,320
+ Because I was going to ask, when you said about, you made a comment, I can't remember exactly what
+
+141
+00:10:56,320 --> 00:11:00,640
+ it was of this, but I was wondering, like, obviously this is the first time that there's been a likelihood
+
+142
+00:11:00,640 --> 00:11:06,560
+ of things written not in Roman characters, but I was curious as to whether or not there had been
+
+143
+00:11:06,560 --> 00:11:13,360
+ anything that was not in English that had been nominated. Because I don't see why this precedent
+
+144
+00:11:13,360 --> 00:11:19,920
+ wouldn't hold if you had like a German book. I don't, I mean, unless it is very similar to English,
+
+145
+00:11:19,920 --> 00:11:22,960
+ which I don't know, so I'd be very interested to find out.
+
+146
+00:11:22,960 --> 00:11:25,440
+ I think it does depend language by language.
+
+147
+00:11:25,440 --> 00:11:31,200
+ There's also a 20% kind of wiggle room on the limits anyway, right? So if you're translating
+
+148
+00:11:31,200 --> 00:11:36,080
+ into a language that doesn't add a lot of verbosity or take it away, then it will make a lot of
+
+149
+00:11:36,080 --> 00:11:39,200
+ difference and it should be within the limits anyway. It's when you get to things where the
+
+150
+00:11:39,200 --> 00:11:44,160
+ conversion factor is this high that I guess is an issue. I don't think there's been any fiction
+
+151
+00:11:44,160 --> 00:11:49,280
+ nominees not in the English language. I think we have had things nominated which were originally
+
+152
+00:11:49,280 --> 00:11:54,880
+ not published in English, but it was the English translation that was nominated, but I don't think
+
+153
+00:11:54,880 --> 00:11:59,520
+ anything that was actually not in English has been nominated in the written fiction categories.
+
+154
+00:11:59,520 --> 00:12:03,680
+ If I've missed something again, expert should write in and let me know. But I feel I'm on
+
+155
+00:12:03,680 --> 00:12:04,880
+ steady ground with this one.
+
+156
+00:12:04,880 --> 00:12:18,160
+ Nebula nominees are out. Yes, we are all awards all the time this week. It's award season.
+
+157
+00:12:18,160 --> 00:12:25,440
+ Nebula Awards will be presented on May the 14th, 2023 and there will be a live stream
+
+158
+00:12:25,440 --> 00:12:29,920
+ and in-person event as part of the 2023 Nebula Conference online.
+
+159
+00:12:29,920 --> 00:12:34,800
+ So I read a few of these stories and I think you've read a few as well, John.
+
+160
+00:12:34,800 --> 00:12:41,120
+ Yeah, I have. There's a couple of stories, so obviously there are uncanny stories in here.
+
+161
+00:12:41,120 --> 00:12:45,840
+ There's one that was nominated that I thought was very good up until the end,
+
+162
+00:12:45,840 --> 00:12:51,600
+ at which point I thought that it really did just sort of not have an ending. It just sort of fizzled.
+
+163
+00:12:51,600 --> 00:12:57,280
+ And I find that very difficult with short stories because it's very easy to have a great setup
+
+164
+00:12:57,280 --> 00:13:02,320
+ for a short story and not stick the landing. It's interesting because the Nebula Award for
+
+165
+00:13:02,320 --> 00:13:09,760
+ Novella is only 60% tour.com, which is a shockingly poor showing given previous awards late.
+
+166
+00:13:09,760 --> 00:13:14,960
+ But yeah, no, some interesting stuff. I suspect Beiball and Nona the 9th will be on the Hugo
+
+167
+00:13:14,960 --> 00:13:21,120
+ Ballot. I suspect Netland Bone will be on the load star Ballot. I don't think it'll be on the
+
+168
+00:13:21,120 --> 00:13:27,520
+ novel for Hugo. Might be wrong. I don't know what else will come up. It's usually like about half
+
+169
+00:13:27,520 --> 00:13:31,760
+ and half, right? There's usually about three that cross over? Is that fair? That's not based
+
+170
+00:13:31,760 --> 00:13:36,560
+ on any stats listeners. That's based on gut intuition. Yeah, I'd have to do some stats. So,
+
+171
+00:13:36,560 --> 00:13:40,960
+ yeah. But I mean, I wonder if the mountain, the sea will make it because I have heard quite a
+
+172
+00:13:40,960 --> 00:13:46,240
+ lot of people talking about that. Usually it's a an unexpected thing that came out because,
+
+173
+00:13:46,240 --> 00:13:51,200
+ you know, I think everyone was expecting like Nona the 9th to be a good and on there, but the
+
+174
+00:13:51,200 --> 00:13:57,040
+ mountain, the sea has come about out of nowhere. I have read a few of the short fiction nominees,
+
+175
+00:13:57,040 --> 00:14:03,120
+ and I thought they were mostly good, but not super amazing. But mostly ones that I
+
+176
+00:14:03,120 --> 00:14:07,680
+ thought would be, you know, if I saw them on a short list, I would be happy with them being on
+
+177
+00:14:07,680 --> 00:14:13,040
+ a short list. Quite a few of them are from horror magazines and short story, which I don't tend to
+
+178
+00:14:13,040 --> 00:14:18,080
+ read, so I haven't read those. Yeah, so this is actually Four Shadows, something we will talk
+
+179
+00:14:18,080 --> 00:14:24,080
+ about later. But two of the novelets are novelets I will be nominating for the Hugo award. I will
+
+180
+00:14:24,080 --> 00:14:29,120
+ talk about those when I talk about that. And one of them is One Eye and I think it doesn't overlap,
+
+181
+00:14:29,120 --> 00:14:34,880
+ but maybe that's too much foreshadowing. I would say I am a little bit confused by how the Bradbury
+
+182
+00:14:34,880 --> 00:14:40,160
+ award works for dramatic breast dramatic presentation, because there's nominations for three complete
+
+183
+00:14:40,160 --> 00:14:46,160
+ series of TV shows and then one episode of Andor. So I don't quite understand how it works,
+
+184
+00:14:46,160 --> 00:14:50,880
+ you know, do all the nominations for different TV episodes get combined into one nomination for
+
+185
+00:14:50,880 --> 00:14:55,440
+ series, or do you have to explicitly nominate series? I don't know how it works. And as discussed,
+
+186
+00:14:55,440 --> 00:15:01,200
+ else always some friends, I don't really think our flag means death is particularly science
+
+187
+00:15:01,200 --> 00:15:08,080
+ fictional, fantastic. No. As opposed to being a thing fans like watching, but I don't think
+
+188
+00:15:08,080 --> 00:15:11,360
+ it's going to win anyway, because it's probably going to be a big fight between
+
+189
+00:15:11,360 --> 00:15:16,720
+ both of the other nominees, to be honest. I'm confused by dramatic presentation, because I'm
+
+190
+00:15:16,720 --> 00:15:23,520
+ confused. Are you confused, Sean? Are you confused? I'm a bit surprised that Andor got nominated for
+
+191
+00:15:23,520 --> 00:15:28,880
+ one episode and like not the whole season, but I guess that's just what people nominated. I do
+
+192
+00:15:28,880 --> 00:15:34,080
+ think that's probably the best episode. And then our flag means death definitely isn't science fiction
+
+193
+00:15:34,080 --> 00:15:40,080
+ and also definitely won't win. So I think it's probably fine. Yeah. Also, the Nebula Award for
+
+194
+00:15:40,080 --> 00:15:45,200
+ game writing is interesting. It's Elden Ring, Horizon Forbidden West, journeys through the
+
+195
+00:15:45,200 --> 00:15:51,920
+ radiant citadel, Pentiment, Stray, and Vampire the Masquerade, Sins of the Spires. Sins of the
+
+196
+00:15:51,920 --> 00:15:59,600
+ Sires, sorry. Yeah, it's Vampire but the Sires, John. The Sires. I think it's fair to say that
+
+197
+00:15:59,600 --> 00:16:05,040
+ not all of these games have been well received for their gameplay. And I'm not going to say which
+
+198
+00:16:05,040 --> 00:16:09,760
+ one I'm thinking of particularly, but I can't pronounce it. I'm sure they will have extremely
+
+199
+00:16:09,760 --> 00:16:15,440
+ good writing. This is one of the things that makes the Nebula game category a bit different
+
+200
+00:16:15,440 --> 00:16:20,480
+ from the Proceugo one is the very much focuses on the writing and not the gameplay.
+
+201
+00:16:21,760 --> 00:16:26,960
+ But I hope Horizon wins because Horizon is great. I'm sure Horizon will win. I don't know.
+
+202
+00:16:26,960 --> 00:16:32,080
+ I'm not. I'm not sure it will. I'm not because it is game writing. So really, it's like,
+
+203
+00:16:32,080 --> 00:16:36,480
+ oh, instead of making a game, why don't you just tell a story in game form?
+
+204
+00:16:36,480 --> 00:16:42,160
+ Stray and Elden Ring are both like, were both incredibly well received. So I wouldn't want to
+
+205
+00:16:42,160 --> 00:16:46,560
+ bet money that they wouldn't take it. So journeys through the radiant citadel is a
+
+206
+00:16:46,560 --> 00:16:51,840
+ Dungeons and Dragons anthology of one shot venture modules. I think it's 13 modules. I'm
+
+207
+00:16:51,840 --> 00:16:56,880
+ right wrong about that. It's very tricky to evaluate how you compare the writing in a game
+
+208
+00:16:56,880 --> 00:17:01,120
+ that will take like 200 hours to play versus the writing in a series of one shots that are
+
+209
+00:17:01,120 --> 00:17:05,040
+ designed for players to like interact with on the table. I have no idea how you made that
+
+210
+00:17:05,040 --> 00:17:11,040
+ judgement. But yeah, it's kind of interesting that there's one tabletop product on there.
+
+211
+00:17:11,040 --> 00:17:15,120
+ It's two tabletop products on there, right? No. Vampire the Masquerade since of the Sires is
+
+212
+00:17:15,120 --> 00:17:21,280
+ like an interactive steam game. Oh, I see. Okay. That's why I was saying not all of them have
+
+213
+00:17:21,280 --> 00:17:24,720
+ been well received for gameplay. Because as far as I can tell, it is basically you occasionally
+
+214
+00:17:24,720 --> 00:17:30,240
+ click and it gets to the end of a very linear story. But perhaps a very well written linear story.
+
+215
+00:17:30,240 --> 00:17:35,440
+ I really liked Stray, but I think it's going to be hard to think about the writing,
+
+216
+00:17:35,440 --> 00:17:41,680
+ as opposed to kind of how that interacts with the gameplay. Because would it be half as much fun
+
+217
+00:17:41,680 --> 00:17:47,280
+ if you were not a little cat rubbing up against robots and getting pets and sleeping on little
+
+218
+00:17:47,280 --> 00:17:53,120
+ cushions and things. But the writing's not really part of that. It's just you get to be a little cat.
+
+219
+00:17:53,120 --> 00:17:54,160
+ So we'll see.
+
+220
+00:17:54,160 --> 00:18:08,800
+ Anyway, shall we do the final final part of our three part award roundup this week?
+
+221
+00:18:08,800 --> 00:18:16,560
+ The BSFA. Yes, the BSA. We should say here that we would link to the BSFA website's list of the
+
+222
+00:18:16,560 --> 00:18:21,200
+ BSFA award nominees. But the BSFA does not have a list of the BSA award nominees. So we're listing
+
+223
+00:18:21,200 --> 00:18:26,560
+ the file 771 instead. I feel like we said that in 2022. We're going to keep saying it.
+
+224
+00:18:26,560 --> 00:18:34,720
+ Yup. Some interesting stuff on here. Friend of the podcast. Fiona Moore is nominated in
+
+225
+00:18:35,760 --> 00:18:40,560
+ best non-fiction for her book Management Lessons from Game of Thrones organization,
+
+226
+00:18:40,560 --> 00:18:44,560
+ Theory and Strategy in Westeros. Which one day we will talk about on the podcast.
+
+227
+00:18:44,560 --> 00:18:48,560
+ I am reading it. I'm not at the end yet. I've been meaning to have it as a pick for ages.
+
+228
+00:18:48,560 --> 00:18:54,800
+ Yeah, some other stuff as well. It's all very good. Very different to the Nebula shortlist,
+
+229
+00:18:54,800 --> 00:19:01,040
+ but that is often the case. Yes. And also, I find it quite notable that Adrian Trieskoski
+
+230
+00:19:01,040 --> 00:19:06,320
+ is nominated for Best Novel for I think one of his five novels out last year, maybe four.
+
+231
+00:19:06,320 --> 00:19:11,200
+ But you could conceivably have had an all-Adrian Trieskoski Best Novel shortlist.
+
+232
+00:19:11,200 --> 00:19:17,840
+ And the fact that we didn't is cowardice on the part of BSFA nominators. Come on guys.
+
+233
+00:19:17,840 --> 00:19:22,480
+ All Trieskoski all the time. It would have been quite funny and all the ones I've read were good
+
+234
+00:19:22,480 --> 00:19:26,800
+ anyway and I'd be happy to have them nominated. So yeah, come on, let's just do it. Yup. All
+
+235
+00:19:26,800 --> 00:19:31,120
+ Adrian all the time. I'm hoping that they will do they have done in previous years a little
+
+236
+00:19:31,120 --> 00:19:36,080
+ voter like booklet for BSFA members. I'm kind of hoping they will do that.
+
+237
+00:19:36,080 --> 00:19:41,760
+ So I'd quite like to see some of this gorgeous artwork before I actually cast my vote. And you
+
+238
+00:19:41,760 --> 00:19:46,720
+ know, it'd be good if someone sent me a PDF of it rather than having to quote unquote Google.
+
+239
+00:19:46,720 --> 00:19:51,520
+ Yeah. Also, I Googled and got the wrong book because there's one with the same name as a book
+
+240
+00:19:51,520 --> 00:19:55,360
+ which is nominated, but it's not the nominee. And so I got a bit confused. I was like, why is
+
+241
+00:19:55,360 --> 00:19:59,520
+ this on that? It doesn't look science fiction at all. And it wasn't. Which one was it?
+
+242
+00:19:59,520 --> 00:20:04,880
+ It was the way the light bends because there's more than one book called the way the light bends.
+
+243
+00:20:04,880 --> 00:20:05,520
+ Oh, I'm crying.
+
+244
+00:20:05,520 --> 00:20:13,760
+ Hi everyone. This is John. I'm recording this while I'm editing the podcast in a hotel room.
+
+245
+00:20:13,760 --> 00:20:18,800
+ And I just wanted to let you know that the BSFA sent the voter ban flat out shortly after
+
+246
+00:20:18,800 --> 00:20:27,040
+ you recorded. Now back to the episode. And we don't have any news on whether or not
+
+247
+00:20:27,040 --> 00:20:32,000
+ the how the voting is going to work. So no, you can probably vote for the awards. We can't tell
+
+248
+00:20:32,000 --> 00:20:37,280
+ you how, but you probably can. But yeah, BSFA members and Eastcon members are eligible to vote
+
+249
+00:20:37,280 --> 00:20:42,160
+ in the BSFA awards. So if you have if you think, oh, I'm coming to the Eastcon, but it's never
+
+250
+00:20:42,160 --> 00:20:46,480
+ occurred to me to vote in the BSFA awards, you should be able to do that. We haven't, I don't think
+
+251
+00:20:46,480 --> 00:20:51,280
+ we've announced how that's happening yet, but it will be. It looks like BSFA members can vote
+
+252
+00:20:51,280 --> 00:20:55,280
+ on the BSFA website, but only BSFA members.
+
+253
+00:20:55,280 --> 00:21:05,200
+ Oh, did we mention the everything everywhere all at once? Propulsion last time.
+
+254
+00:21:05,200 --> 00:21:13,040
+ Yeah, but we didn't put it out because it's in the weird bit. Okay, because it has now closed.
+
+255
+00:21:14,400 --> 00:21:19,840
+ And it was $90,000 for Raccoonie. Oh man, I could have afforded that.
+
+256
+00:21:19,840 --> 00:21:23,520
+ And also the rock with Googly eyes is a surprisingly big rock.
+
+257
+00:21:23,520 --> 00:21:31,360
+ Is it? Is it like? I thought it was a small rock, but it's got dimensions and it's like a
+
+258
+00:21:31,360 --> 00:21:40,240
+ foot wide. Hmm. Yeah, 42 pounds, which in real money is about 20 kilos. Yeah, it's quite a big
+
+259
+00:21:40,240 --> 00:21:46,080
+ rock. There's a massive Googly eyes. Ordeter of the month trophy with $60,000. Yeah.
+
+260
+00:21:46,080 --> 00:21:51,120
+ And I mean, that you can see how that would be a great present for somebody.
+
+261
+00:21:51,120 --> 00:21:57,600
+ Yup, yup. But that also is this is being two pounds. That is like a not a very solid artifact.
+
+262
+00:21:57,600 --> 00:22:02,560
+ Raccoonie was two kilos and someone had to have it on their head. So, you know,
+
+263
+00:22:02,560 --> 00:22:09,760
+ that seems pretty light for an actual puppet. There is a shot on the prop auction site where you
+
+264
+00:22:09,760 --> 00:22:17,120
+ can buy things, including the hot dog fingers gloves, like just for $36, which doesn't not
+
+265
+00:22:17,120 --> 00:22:24,880
+ pay $6,000 just a $6. So, you know, but that's merch rather than props. Oh yeah, but I don't know
+
+266
+00:22:24,880 --> 00:22:30,400
+ anywhere else you can buy hot dog finger gloves. And you can get for $35 and everything everywhere
+
+267
+00:22:30,400 --> 00:22:38,880
+ pet rock, which comes in a little box that says pet rock on it. This is great. Rock size may vary.
+
+268
+00:22:38,880 --> 00:22:43,920
+ Oh, oh, there's also a book. It is a pretty great idea to start selling the hot dog fingers.
+
+269
+00:22:43,920 --> 00:22:49,440
+ Yes. So basically listeners, on the last episode when we recorded, we discussed the prop auction
+
+270
+00:22:49,440 --> 00:22:53,600
+ very slightly as part of a Hugo discussion we had that we have not yet put out because we're
+
+271
+00:22:53,600 --> 00:22:59,760
+ going to do it as bonus material. And so this discussion is sort of time difficult, but there
+
+272
+00:22:59,760 --> 00:23:04,640
+ was a prop auction. It's gone. You just had us talk about it, but I will put a link in the
+
+273
+00:23:04,640 --> 00:23:08,880
+ show notes because there is also things you can just buy normally without spending that
+
+274
+00:23:08,880 --> 00:23:15,600
+ spending $1,000. So that might be of interest to people, including the laughing rocks multiverse
+
+275
+00:23:15,600 --> 00:23:20,560
+ poster, which is an image you can download and print out. Oh, I kind of want that.
+
+276
+00:23:20,560 --> 00:23:26,880
+ And I think as Alison is spotted, there is a book basically about the multiverse, but
+
+277
+00:23:26,880 --> 00:23:30,320
+ it's got a forward by Ted Jiang and a Douglas Adams quote in it.
+
+278
+00:23:30,320 --> 00:23:37,360
+ Oh, nice. Yeah, and a load of interesting things, three short stories,
+
+279
+00:23:37,360 --> 00:23:43,680
+ all beginning with the same sentence and parallel short fictions and it looks quite an interesting
+
+280
+00:23:43,680 --> 00:23:49,200
+ book. So if anyone's got that and has read it, it would be great if you could talk to us about it.
+
+281
+00:23:49,200 --> 00:23:52,240
+ I don't know if there's an e-book. I don't think there's an e-book.
+
+282
+00:23:52,240 --> 00:23:58,000
+ I think it's just a giant, hardback $50 one unfortunately.
+
+283
+00:23:58,000 --> 00:24:05,600
+ Boo, it's kind of a giant, hardback art book. Yeah, three tipping booklets, silver cold foil cover.
+
+284
+00:24:05,600 --> 00:24:10,080
+ Looks very nice, but also very heavy. Oh, they also sell official everything
+
+285
+00:24:10,080 --> 00:24:12,960
+ everywhere all at once, googly eyes, but they have sold out of those.
+
+286
+00:24:12,960 --> 00:24:13,760
+ They've sold out.
+
+287
+00:24:13,760 --> 00:24:19,360
+ Probably them. I don't feel they need to have official googly eyes. I feel googly eyes
+
+288
+00:24:19,360 --> 00:24:23,760
+ are available in sufficient places. They don't need official branded googly eyes because they've
+
+289
+00:24:23,760 --> 00:24:27,760
+ already got googly eyes to put the rumble. You put the money on, you put the money on the river.
+
+290
+00:24:28,000 --> 00:24:28,640
+ I did.
+
+291
+00:24:28,640 --> 00:24:30,400
+ I've got googly eyes on my rumble too.
+
+292
+00:24:30,400 --> 00:24:38,800
+ Right, picks. Yeah.
+
+293
+00:24:38,800 --> 00:24:39,600
+ We'll go on then.
+
+294
+00:24:39,600 --> 00:24:40,640
+ It's like a first.
+
+295
+00:24:40,640 --> 00:24:41,600
+ You can do.
+
+296
+00:24:41,600 --> 00:24:48,080
+ All right. My pick is "Losses bookies" or rather the first series of "Losses bookies"
+
+297
+00:24:48,080 --> 00:24:54,320
+ is an HBO comedy show about a group of friends who create kind of fake horror scenarios for people
+
+298
+00:24:54,320 --> 00:25:01,120
+ who pay them to do this. So they set up a fake alien invasion and a fake exorcism and things
+
+299
+00:25:01,120 --> 00:25:06,480
+ like this with their love of horror films and horror makeup and horror props. But it's also just
+
+300
+00:25:06,480 --> 00:25:13,360
+ unbelievably weird and I can't think of anything else quite like it. It's Spanish language for
+
+301
+00:25:13,360 --> 00:25:19,600
+ starters. It is set in an unnamed Latin American country, but it's got things like they meet the
+
+302
+00:25:19,600 --> 00:25:23,840
+ American ambassador where everything is Barbie Pink and she has a load of sort of clean-cut
+
+303
+00:25:23,840 --> 00:25:29,280
+ Americans who can't do anything at all in the embassy. And it's just all played very, very straight
+
+304
+00:25:29,280 --> 00:25:36,320
+ while being completely weird and off the wall. And it's just kind of lots of fun to watch and
+
+305
+00:25:36,320 --> 00:25:40,480
+ is not the sort of thing you would ever expect anyone to make a show about but works really well.
+
+306
+00:25:40,480 --> 00:25:44,080
+ Anyway, I've watched series one because that is once available on my streaming service.
+
+307
+00:25:44,080 --> 00:25:48,000
+ Series two is out, but I haven't watched it yet because I don't have it on streaming yet,
+
+308
+00:25:48,000 --> 00:25:52,720
+ but it wasn't 2022. So I'm going to try and get to it in case it is a potential Hugo
+
+309
+00:25:53,280 --> 00:25:58,320
+ nominee. And yeah, I just really enjoyed spending half an hour in this kind of
+
+310
+00:25:58,320 --> 00:26:05,840
+ strange universe where they're faking up horror things working through props and makeup and so on.
+
+311
+00:26:05,840 --> 00:26:10,160
+ But also there is clearly like an actual real supernatural element going on. Someone possessed
+
+312
+00:26:10,160 --> 00:26:14,800
+ by a demon and a cursed mirror. And then, you know, they buy the cursed mirror like we told
+
+313
+00:26:14,800 --> 00:26:19,600
+ you to buy a non-cursed mirror. Like it's just all very kind of straight and day to day. And
+
+314
+00:26:19,600 --> 00:26:23,440
+ John is laughing so I presume John has also watched lots of spooky and enjoyed it.
+
+315
+00:26:23,440 --> 00:26:28,400
+ It was so good. He's like, well, I bought the cursed mirror because I'm spooky. It's
+
+316
+00:26:28,400 --> 00:26:33,360
+ isn't helpful. Like, oh, the cursed mirror looked the best. They're like, yes, that's because it's
+
+317
+00:26:33,360 --> 00:26:40,400
+ cursed mirror. Yeah. And she's so cross. And I, yeah, I love, I don't want to spoil it, but I love
+
+318
+00:26:40,400 --> 00:26:44,880
+ the way that plotline resolves the end of the episode is bloody brilliant. No, it's great.
+
+319
+00:26:44,880 --> 00:26:50,480
+ Yeah, for all the reasons you've said, just very, very good. It's Fred Armisen in part.
+
+320
+00:26:50,480 --> 00:26:59,040
+ Julio Torres, Anna Faberge and Fred Armisen. So Anna Faberge plays Tati and Julio Torres plays
+
+321
+00:26:59,040 --> 00:27:05,760
+ Andres Valdez, who is the adopted heir to a chocolate empire. And his parents, his parents
+
+322
+00:27:05,760 --> 00:27:10,960
+ are mysterious. I don't think that ever come. I don't know why. So mysterious.
+
+323
+00:27:10,960 --> 00:27:15,040
+ There's mysterious memories. You never see their faces. They're never shot full on you. We see
+
+324
+00:27:15,040 --> 00:27:22,480
+ them like obscured by something. But there's no reason because they're just obviously completely
+
+325
+00:27:22,480 --> 00:27:26,640
+ like boring normal people, but you only ever see them shot in a really mysterious way.
+
+326
+00:27:26,640 --> 00:27:34,080
+ And it's never explained. It's so weird. And Tati like has, she's been catfished, but she
+
+327
+00:27:34,080 --> 00:27:41,920
+ is being catfished. She definitely thinks she's been catfished. Yeah, she's talking to
+
+328
+00:27:41,920 --> 00:27:48,720
+ prince on the internet. Nothing we are saying makes any sense to any of your listeners.
+
+329
+00:27:48,720 --> 00:27:54,000
+ I am so sorry, but you should watch this show because it is ridiculous. Or indeed to me.
+
+330
+00:27:54,000 --> 00:28:01,520
+ It's so good. Yeah, I recommend. Yeah. Ask a pick. I should have picked that at some point,
+
+331
+00:28:01,520 --> 00:28:06,560
+ but I'm glad I waited until you picked it because it is good to have someone to basically just make
+
+332
+00:28:06,560 --> 00:28:11,440
+ completely incomprehensible statements across one another. Yeah, we are this people going,
+
+333
+00:28:11,440 --> 00:28:14,400
+ oh, you remember that bit? Wasn't really good that bit. And then there was that thing with the dog.
+
+334
+00:28:14,400 --> 00:28:17,040
+ And it was really good. And then, you know, there was a bit with the mirror. And yeah,
+
+335
+00:28:17,040 --> 00:28:18,880
+ people who do that are really, really annoying.
+
+336
+00:28:18,880 --> 00:28:26,400
+ Okay, so no, I just sewn that guys. So I hope that was interesting. Should I do my pick?
+
+337
+00:28:26,400 --> 00:28:30,160
+ All right, Johnny, you're going to do your pick. Yeah, what did you pick at an allison?
+
+338
+00:28:30,160 --> 00:28:37,200
+ I still haven't done very many genre appropriate things, but I went last night to see Allegiance,
+
+339
+00:28:37,200 --> 00:28:45,920
+ which is a musical. It is the passion project of George Takai, who was interned as a small boy,
+
+340
+00:28:45,920 --> 00:28:54,080
+ as part of the Interment of Japanese Americans in the Second World War. And he got some help and
+
+341
+00:28:54,080 --> 00:28:59,760
+ produced a musical about this. And it ran on Broadway for a short while, and then closed,
+
+342
+00:28:59,760 --> 00:29:05,440
+ and has had several revivals because of Takai basically going, no, no, no, I really
+
+343
+00:29:05,440 --> 00:29:09,600
+ bought this story out there. I really wanted to be told. And it is currently playing until I think
+
+344
+00:29:09,600 --> 00:29:16,000
+ the 8th of April at the Charing Cross Theatre in London, which is technically not a Western
+
+345
+00:29:16,000 --> 00:29:21,200
+ theatre, though you would think it was in the West End. It's a very tiny theatre under the arches
+
+346
+00:29:21,200 --> 00:29:28,880
+ by Charing Cross Station. And the musical is, I think, it has mixed reviews. And I think I didn't
+
+347
+00:29:28,880 --> 00:29:34,880
+ think it was very good, but you might want to go and see it anyway. It's an important story,
+
+348
+00:29:34,880 --> 00:29:38,720
+ so if you don't know the story, then I think that's a good reason to go and see it. And there are
+
+349
+00:29:38,720 --> 00:29:44,320
+ some good performances. And in particular, Takai is very, very good and very well worth watching.
+
+350
+00:29:44,320 --> 00:29:50,640
+ And the man is 85. So if you would like to see him live on stage and afterwards go and meet him in
+
+351
+00:29:50,640 --> 00:29:57,040
+ the Q&A stage door and get your programme signed, they were very careful to say, we are only signing
+
+352
+00:29:57,040 --> 00:30:03,600
+ items from Allegiance. We are not going to sign items from any other show that any of the actors
+
+353
+00:30:03,600 --> 00:30:08,400
+ might have been involved in at any time. Then you can do that. And the tickets are not particularly
+
+354
+00:30:08,400 --> 00:30:12,640
+ expensive by London standards. I think there are 20-pound tickets for every show, but obviously,
+
+355
+00:30:12,640 --> 00:30:15,840
+ you know, it's hard to get those ones. But I think our tickets are about 40 quid, which is not
+
+356
+00:30:15,840 --> 00:30:20,560
+ unusual for which is not bad for London. And it's tiny theatre, so everyone has a good view.
+
+357
+00:30:20,560 --> 00:30:24,560
+ And so you might well want to go and see it, because Takai is very good. And the man is 85.
+
+358
+00:30:25,280 --> 00:30:30,320
+ He's exactly the same age as my dad was, just about a month older than my dad.
+
+359
+00:30:30,320 --> 00:30:37,520
+ And one of the things we said at my parents' funeral was, oh, one of the things they kept telling us
+
+360
+00:30:37,520 --> 00:30:42,160
+ was we were brought up in the war, don't you know? And I think that is also very true of Takai
+
+361
+00:30:42,160 --> 00:30:46,320
+ and very relevant to this show. And it's possible that war didn't affect him in quite the way it
+
+362
+00:30:46,320 --> 00:30:52,160
+ affected my parents. I think it's a different experience. But it was interesting seeing that experience
+
+363
+00:30:52,160 --> 00:30:57,360
+ and having the relevance to it. So yeah, enjoy myself. Thank you to Farah, friend of the show,
+
+364
+00:30:57,360 --> 00:31:01,920
+ Farah Mendelssohn, for sorting out that theatre trip. Weirdly related. I mean, it's not, I'm going
+
+365
+00:31:01,920 --> 00:31:07,280
+ to kind of have a bonus pick here, but if anyone hasn't read "Like, Petrol" by Francis Buffard,
+
+366
+00:31:07,280 --> 00:31:12,080
+ it's not really science fictional, but it's just kind of he imagines an alternate world in which
+
+367
+00:31:12,080 --> 00:31:16,960
+ five children were killed during a bomb attack in London in the war. And just imagines kind of
+
+368
+00:31:16,960 --> 00:31:21,760
+ the alternate universe if they lived. And it's about, you know, what their stories would have been.
+
+369
+00:31:21,760 --> 00:31:27,680
+ And it's just kind of very kind of sweetly written, kind of imagining, you know, these five people's
+
+370
+00:31:27,680 --> 00:31:33,920
+ lives with their ups and downs and what would have happened to them if they'd grown up, but they
+
+371
+00:31:33,920 --> 00:31:38,480
+ all died in 1944. It's all fictional, but I thought that was quite a nice novel from the
+
+372
+00:31:38,480 --> 00:31:42,720
+ past couple of years that's similarly about what would have happened if things were different.
+
+373
+00:31:42,720 --> 00:31:48,560
+ I have read something since last time, but I probably don't want to pick it.
+
+374
+00:31:48,560 --> 00:31:55,440
+ In episode 42 listeners, I'm sure you all remember episode 42. It was "I'm Up for Running
+
+375
+00:31:55,440 --> 00:32:02,160
+ Control Con". I used to have a different face. Alison was going to Smothcon, and Liz was in disguise.
+
+376
+00:32:02,160 --> 00:32:10,160
+ And we did picks and Liz picked a book by a man called Adrian Tchaikovsky, and it was an easy
+
+377
+00:32:10,160 --> 00:32:14,640
+ decision to pick a book by him because he's written half of all books. So, you know,
+
+378
+00:32:14,640 --> 00:32:17,280
+ you're going to end up picking one at some point.
+
+379
+00:32:17,280 --> 00:32:20,480
+ He's written the entire 2024 BSFA shortlist.
+
+380
+00:32:20,480 --> 00:32:30,080
+ You heard it here first. And Liz picked children of ruin, Eibley.
+
+381
+00:32:30,080 --> 00:32:32,480
+ Sounds quite possible. I read it.
+
+382
+00:32:32,480 --> 00:32:37,440
+ I'm current. I am currently reading children of ruin, but I'm not going to pick children of ruin
+
+383
+00:32:37,440 --> 00:32:42,400
+ because I have not finished it yet. But I am going to pick children of time,
+
+384
+00:32:42,400 --> 00:32:45,840
+ which we haven't picked before, and is therefore a completely crombulent pick.
+
+385
+00:32:45,840 --> 00:32:54,320
+ So children of time is good book. Children of time won the Arthur C. Clark Award. It was published
+
+386
+00:32:54,320 --> 00:33:01,520
+ in 2015. If you are an arachnophobe, I don't know whether you should read this book. If anyone
+
+387
+00:33:01,520 --> 00:33:05,440
+ listening is an arachnophobe that has read it, please write in because I would find that very
+
+388
+00:33:05,440 --> 00:33:09,280
+ interesting to hear. Liz is putting her hand up in her.
+
+389
+00:33:09,280 --> 00:33:15,120
+ I'm not a super arachnophobe, but like I will scroll past pictures of spiders on Facebook very,
+
+390
+00:33:15,120 --> 00:33:17,440
+ very quickly. And I read it and it was all right.
+
+391
+00:33:17,440 --> 00:33:20,880
+ Okay, that's good. So yeah, so this is a novel about spiders.
+
+392
+00:33:20,880 --> 00:33:28,720
+ It's a novel about a very strange lady and a planet which hasn't gone so well,
+
+393
+00:33:28,720 --> 00:33:34,240
+ and how that all pans out. And it's incredible. I think it was the first
+
+394
+00:33:34,240 --> 00:33:39,120
+ Tricosteky novel I read because I was like, I should really read some by him because he's very good.
+
+395
+00:33:39,120 --> 00:33:42,320
+ Everyone says so. And I decided to read that one because it was the one that would want the
+
+396
+00:33:42,320 --> 00:33:49,680
+ Clark. But it is fantastic. It has the benefit that children of memory has just come out,
+
+397
+00:33:49,680 --> 00:33:54,240
+ which is the third in this series. I'm reading Children of Ruin, and it has been a while since
+
+398
+00:33:54,240 --> 00:33:57,760
+ I read Children of Time, but Children of Ruin is also really, really good so far.
+
+399
+00:33:57,760 --> 00:34:03,760
+ I have just reached the point where I think the shit has hit the fan, and I'm curious to see
+
+400
+00:34:04,400 --> 00:34:08,000
+ how it will be distributed. But yeah, it's just amazing and I highly recommend it.
+
+401
+00:34:08,000 --> 00:34:11,680
+ So if you are thinking I should really read some Tricosteky before Easton,
+
+402
+00:34:11,680 --> 00:34:15,840
+ and you are at a loss for which of his many books you should dive into,
+
+403
+00:34:15,840 --> 00:34:20,880
+ I would highly recommend Children of Time as your entry point. I think it would be a good pick
+
+404
+00:34:20,880 --> 00:34:26,720
+ for anyone in that situation. And I would say I think, I mean, I'd read Empire of Black and Gold.
+
+405
+00:34:26,720 --> 00:34:32,160
+ So I'd read Men of Tricosteky before Children of Time. But that seems to me to mark the point
+
+406
+00:34:32,160 --> 00:34:37,840
+ where I think he's writing a step up. And also his kind of recognition and notice took a step up,
+
+407
+00:34:37,840 --> 00:34:41,440
+ because that was the point where I think he started to see him really getting on award short lists.
+
+408
+00:34:41,440 --> 00:34:46,000
+ And you know, I've seen it and chopped the Little Clark Award winner logo on and everything.
+
+409
+00:34:46,000 --> 00:34:49,840
+ So I think it's been doing quite well. No, Children of Ruin has a little sticker saying
+
+410
+00:34:49,840 --> 00:34:55,600
+ the previous book in the series won the Clark Award on it. It's very nice. Also, another little
+
+411
+00:34:55,600 --> 00:35:04,480
+ cheeky pick, which is if anyone here listening is a fan of podcasts and also tabletop games,
+
+412
+00:35:04,480 --> 00:35:09,440
+ there is an actual play podcast called Force Mature. And I'm not going to recommend the entire podcast.
+
+413
+00:35:09,440 --> 00:35:17,120
+ I'm going to recommend a very specific sub part of the podcast, which is that they have recently
+
+414
+00:35:17,120 --> 00:35:22,720
+ finished an arc. Well, I think they actually finished their main campaign. So they have been
+
+415
+00:35:22,720 --> 00:35:31,280
+ doing some other stuff since they have finished. They did a little four episode arc, which is called
+
+416
+00:35:31,280 --> 00:35:38,160
+ the outer dark trilogy part two. I admit I did not listen to the outer dark trilogy part one.
+
+417
+00:35:38,160 --> 00:35:44,000
+ They played the first parts using an OSR system that I wasn't particularly interested in listening
+
+418
+00:35:44,000 --> 00:35:48,960
+ to. So I didn't listen. But the second part they played using the Skomon villainy system,
+
+419
+00:35:48,960 --> 00:35:54,720
+ which I was very interested in listening to because it's a sci-fi hack of Blade in the Dark. And
+
+420
+00:35:54,720 --> 00:35:59,680
+ basically it has some of the usual suspects, but it also has Agent Shrykowski, who is very good
+
+421
+00:35:59,680 --> 00:36:05,120
+ and plays a very interesting character. And it also has John Robertson, who does the Dark Room.
+
+422
+00:36:05,120 --> 00:36:08,880
+ And if you have watched the Dark Room, you can imagine John Robertson role playing
+
+423
+00:36:08,880 --> 00:36:15,440
+ and imagine how fun that might be. He plays a satire of an American author who likes guns too
+
+424
+00:36:15,440 --> 00:36:23,360
+ much, which I think he's doing Larry Corea. I think not sure, but very, very funny.
+
+425
+00:36:23,360 --> 00:36:24,560
+ There's a few.
+
+426
+00:36:24,560 --> 00:36:30,000
+ Yeah, there are. Yes, it doesn't necessarily narrow it down to one, but it is very, very good. So if
+
+427
+00:36:30,000 --> 00:36:36,400
+ you do like actual plays and people being ridiculous, I would recommend listening to the outer dark
+
+428
+00:36:36,400 --> 00:36:43,360
+ trilogy part two episodes one to four. It's very good. And also another sneaky bonus pick. The Dark
+
+429
+00:36:43,360 --> 00:36:47,200
+ Room. If you get the opportunity to see the Dark Room, the Dark Room is amazing. I saw it at
+
+430
+00:36:47,200 --> 00:36:52,880
+ EasterCon for the first time a while back. And yeah, just if it's near you, go see it,
+
+431
+00:36:52,880 --> 00:36:57,920
+ because it is very funny. And it is SF-NOL. For shadowing. That was The Ultimate Podcast.
+
+432
+00:36:57,920 --> 00:37:02,240
+ And it's goodbye from me. It's goodbye from me. It's goodbye from me.
+
+433
+00:37:02,240 --> 00:37:22,320
+ [Music]
+
+434
+00:37:22,320 --> 00:37:26,400
+ A short list of science fiction novels. You should not read if you're a director of
+
+435
+00:37:26,400 --> 00:37:30,640
+ hope. There's a few. Yep. Esther, if you're listening. That's my nomination for the Glasgow
+
+436
+00:37:30,640 --> 00:37:36,880
+ special category for Hugo's best spider-related novel. Because you know, it's about time we had
+
+437
+00:37:36,880 --> 00:37:41,920
+ an all-aidery Tchaikovsky Hugo category. So let's make it happen. The theme music for this
+
+438
+00:37:41,920 --> 00:37:48,240
+ episode was Fanfare for Space by Kevin MacLeod and Competec.com used under a creative commons
+
+439
+00:37:48,240 --> 00:37:53,680
+ attribution 4.0 license. This podcast will end at the beep. Beep.
+
+440
+00:37:53,680 --> 00:38:03,680
+ [BLANK_AUDIO]
+

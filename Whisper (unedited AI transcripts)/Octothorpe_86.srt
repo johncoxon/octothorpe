@@ -1,0 +1,1960 @@
+1
+00:00:00,000 --> 00:00:03,360
+ who would like to do one. You can do one, John.
+
+2
+00:00:03,360 --> 00:00:23,840
+ Hello everyone and welcome to the very 86th episode of Octa Thorpe, a podcast for science fiction
+
+3
+00:00:23,840 --> 00:00:31,760
+ and science fiction fandom. This episode is coming to you on the 22nd of June 2023. I'm John Coxin.
+
+4
+00:00:31,760 --> 00:00:39,680
+ I'm Alison Scott and I'm Liz Batty and we have some letters of comments. Abigail Nussbaum wrote
+
+5
+00:00:39,680 --> 00:00:45,760
+ and said that we did a very good job of timing our podcast exactly to fit in with her commute,
+
+6
+00:00:45,760 --> 00:00:50,960
+ so you know glad to be of service. Please write in with the length of your evening
+
+7
+00:00:50,960 --> 00:00:55,680
+ commutes and we'll see what we can do. And she said a great discussion of a face-like glass
+
+8
+00:00:55,680 --> 00:01:01,200
+ and I'm not just saying that because I agreed with all your points. We're very pleased to have made
+
+9
+00:01:01,200 --> 00:01:05,680
+ points that Abigail agreed with because she's one of them clever people who knows a lot of stuff,
+
+10
+00:01:05,680 --> 00:01:11,760
+ so that was lovely. Abigail's like you. She has also given her official Francis Harding ranking
+
+11
+00:01:11,760 --> 00:01:16,560
+ for our future selection or anyone's future selection and that list I'm going to run
+
+12
+00:01:16,560 --> 00:01:41,440
+ through it very quickly is Fly by Night and Twilight Robbery at the top and then Verde
+
+13
+00:01:41,440 --> 00:01:46,400
+ at some point. That's my plan. Thank you very much Abigail. I'm not sure this list is actually in order,
+
+14
+00:01:46,400 --> 00:01:52,000
+ but Abigail writing and tell us if we completely misrepresented it. Oh no, it's not in order.
+
+15
+00:01:52,000 --> 00:01:58,880
+ My dust donsers. I just totally misread it. It's got more nuance than that. Abigail would never
+
+16
+00:01:58,880 --> 00:02:03,120
+ just send us a list in order. It's a nuanced ranking of which ones we should pick to read next.
+
+17
+00:02:03,120 --> 00:02:10,080
+ Like I went and bought a book face on a seat also. It succeeded. Okay, that was completely rubbish.
+
+18
+00:02:10,080 --> 00:02:15,520
+ So actually, Gullstruck Island was her favourite, which is called the Lost Conspiracy of the US
+
+19
+00:02:15,520 --> 00:02:21,440
+ and she says, "hands down my favourite Harding." So that's the one she recommends to anyone who
+
+20
+00:02:21,440 --> 00:02:28,320
+ asks if you were asking. They're just going to take my brownies readers badge away because I clearly
+
+21
+00:02:28,320 --> 00:02:36,240
+ cannot read and comprehend simple English text. We also heard from Christopher J Garcia who pointed
+
+22
+00:02:36,240 --> 00:02:42,080
+ out that they didn't do a Hugo recommendations issue of the drink tank. And I discovered this
+
+23
+00:02:42,080 --> 00:02:47,440
+ while trying to look it up for the show notes and finding that there was not one. And so I
+
+24
+00:02:47,440 --> 00:02:51,360
+ would have mentioned it if you hadn't Chris. What's happened? Look right, I expect a certain level
+
+25
+00:02:51,360 --> 00:02:57,200
+ of service and frankly, hmm, you're never going to win another Hugo with this attitude.
+
+26
+00:03:00,160 --> 00:03:07,120
+ And then, other things. He says he doesn't get many DMs on Insta but he does have a lot of
+
+27
+00:03:07,120 --> 00:03:12,960
+ friends who are porn stars. So, you know, that's data that is. That's good to know. Thanks Chris.
+
+28
+00:03:12,960 --> 00:03:17,920
+ Chris is also fairly certain there's going to be a whole bunch of Chinese stuff on the Hugo
+
+29
+00:03:17,920 --> 00:03:25,040
+ ballot. So agreeing with me there. Foreshadowing. Is it foreshadowing or a segue?
+
+30
+00:03:26,000 --> 00:03:37,040
+ Oh, it could be a segue. A segue. Yes. So, Chengdu posted to their socials to make an announcement
+
+31
+00:03:37,040 --> 00:03:44,400
+ about Hugo Awards. I will read out verbatim. Sorry folks, but due to the amount and complexity
+
+32
+00:03:44,400 --> 00:03:48,560
+ of this year's nominations, we have received the committee still needs some time to work out
+
+33
+00:03:48,560 --> 00:03:53,520
+ the official nomination list. Be assured that we are working very hard to reach the completion line,
+
+34
+00:03:53,520 --> 00:03:58,240
+ maybe one more week to go. And that was posted two days ago. So by the time you listen to this,
+
+35
+00:03:58,240 --> 00:04:05,360
+ it may indeed be out, but we did say that last week as well. So, yes. Also, it should be official
+
+36
+00:04:05,360 --> 00:04:10,480
+ finalist list. And frankly, I think it's appalling that no one from the Waspous Division caught that
+
+37
+00:04:10,480 --> 00:04:17,520
+ before that message was posted. Shame. Shame. But more seriously, I think we all three of us agree
+
+38
+00:04:17,520 --> 00:04:21,520
+ that that message makes us think there's probably going to be some Chinese nominees on the ballot
+
+39
+00:04:21,520 --> 00:04:26,160
+ or at the very least, some Chinese nominees on the long list. I mean, because I guess it's
+
+40
+00:04:26,160 --> 00:04:30,160
+ theoretically possible that they could control the numbers. And then it turns out none of the
+
+41
+00:04:30,160 --> 00:04:35,520
+ Chinese nominees get on the ballot, but it seems unlikely. Yes. So yeah, I assume from that it means
+
+42
+00:04:35,520 --> 00:04:44,320
+ things are complex for one or both of two reasons. One is that the ballots have come in with lots
+
+43
+00:04:44,320 --> 00:04:49,360
+ of stuff on there being represented in multiple ways, which we know is a problem, right? Because
+
+44
+00:04:49,360 --> 00:04:54,800
+ people can write, you know, things with hyphens, things with quote marks, things in funny orders,
+
+45
+00:04:54,800 --> 00:04:58,560
+ like you always have to go through and kind of tidy up the data to make sure you've got the
+
+46
+00:04:58,560 --> 00:05:03,440
+ nominations correct. But then if you're trying to do that, tidying up across two different languages,
+
+47
+00:05:03,440 --> 00:05:08,400
+ that is going to be even more a problem. The other thing I know is that they are using different
+
+48
+00:05:08,400 --> 00:05:13,440
+ software, I think, than previous years, which may be because this software better supports
+
+49
+00:05:14,080 --> 00:05:19,680
+ multilingual nominations. But it may be that kind of things are slightly less smooth because they
+
+50
+00:05:19,680 --> 00:05:23,360
+ are using different software and you've got different teething problems. I'm fine with it. You
+
+51
+00:05:23,360 --> 00:05:26,480
+ know, there's still plenty of time before the actual convention. And they've said, okay, yeah,
+
+52
+00:05:26,480 --> 00:05:31,440
+ it's taking us a little bit longer. Give us a bit of time. Fair enough. Yep. Means I might be right,
+
+53
+00:05:31,440 --> 00:05:37,360
+ though. So obviously good with me. It does mean that. It does. I think that's quite likely.
+
+54
+00:05:38,320 --> 00:05:44,480
+ Better get learning Chinese. Read all the finalists. Like, because, you know, if they're all in Chinese,
+
+55
+00:05:44,480 --> 00:05:50,640
+ how will I meet the Briarly Competence threshold if, if I don't know any Chinese? I do. I will know
+
+56
+00:05:50,640 --> 00:05:56,720
+ in a discussion of this noted critic Nick Clark. She said she thinks she has only once in her
+
+57
+00:05:56,720 --> 00:06:01,680
+ entire history of voting in the hue goes red or watched everything shortlisted in a given category
+
+58
+00:06:01,680 --> 00:06:07,200
+ anyway. So that is a counterpoint to the Briarly Competence threshold, which I enthusiastically endorse.
+
+59
+00:06:07,920 --> 00:06:15,600
+ What in any category? Yes. I think that is a much better use of one's time than trying to read
+
+60
+00:06:15,600 --> 00:06:21,600
+ everything out of a sense of nobility or obligation. Read stuff you like and then do what you want.
+
+61
+00:06:21,600 --> 00:06:26,240
+ I think it's quite nice to do everything in a category. It gives you a kind of feeling of,
+
+62
+00:06:26,240 --> 00:06:33,360
+ I don't know, smug superiority and internet chat. All that topic. I mean, I will say,
+
+63
+00:06:33,360 --> 00:06:38,640
+ I don't think I have ever read, for example, all the nominees in Best Series in a given year.
+
+64
+00:06:38,640 --> 00:06:43,680
+ I have managed Best Novel and I think I've managed the entirety of short fiction ballots and so on.
+
+65
+00:06:43,680 --> 00:06:48,480
+ But yeah, definitely categories I haven't read everything in. I've done all of Best Series before.
+
+66
+00:06:48,480 --> 00:06:55,040
+ I mean, I do tend to read all of the categories I vote in, but I just think you shouldn't. It's not
+
+67
+00:06:55,040 --> 00:07:00,240
+ a stick to beat yourself with or it shouldn't be. It should be a positive, lovely experience,
+
+68
+00:07:00,240 --> 00:07:05,200
+ not a stressful, awful one. Much like life. I can say that I never find you
+
+69
+00:07:05,200 --> 00:07:09,600
+ go voting to be particularly stressful and awful, even if I haven't read anything, read everything
+
+70
+00:07:09,600 --> 00:07:15,360
+ even. To be fair, Liz, you find nothing stressful or awful on account of how you are basically one
+
+71
+00:07:15,360 --> 00:07:21,520
+ of the most laid-back people in the universe. I would describe you as horizontal, especially
+
+72
+00:07:21,520 --> 00:07:28,880
+ because you're knitting in bed right now. I always relax. I just like have a very go with the flow
+
+73
+00:07:28,880 --> 00:07:36,400
+ attitude, which not always the best way to do things, but does lead to a maybe less stressful
+
+74
+00:07:36,400 --> 00:07:43,040
+ life than otherwise. Also, I recommend crochet. Oh, sorry. Liz is crocheting in bed right now.
+
+75
+00:07:43,040 --> 00:07:47,440
+ I always get those mixed up. I can't actually knit so uh. Yeah, I actually,
+
+76
+00:07:47,440 --> 00:07:52,880
+ I actually sell a t-shirt that was suggested to me by Kylie Ding and Robin Stevenson that says
+
+77
+00:07:54,240 --> 00:08:05,520
+ vule vu crochet a vet. That's quite good. We also, so Hugo Administrator Dave McCarty posted to
+
+78
+00:08:05,520 --> 00:08:14,800
+ their Facebook about the venue for Chengdu and and yeah, they've gone from a field to a conference
+
+79
+00:08:14,800 --> 00:08:22,400
+ centre in a year. And you know, I don't know how many people got concussed or severely injured doing
+
+80
+00:08:22,400 --> 00:08:27,840
+ that or or what the human toll was, but it is very impressive. Oh, I don't, you probably don't want
+
+81
+00:08:27,840 --> 00:08:32,240
+ to know the health and safety figures, but if you did, you probably couldn't find them. That's
+
+82
+00:08:32,240 --> 00:08:37,840
+ the thing, right? It's tricky because I see this and all of that is very impressive, but we know how
+
+83
+00:08:37,840 --> 00:08:43,200
+ countries like this do these things this quickly and it's by not giving a crap about the people
+
+84
+00:08:43,200 --> 00:08:47,760
+ who are doing the work. Shall we move on to the much less controversial topic of COVID?
+
+85
+00:08:50,560 --> 00:08:57,840
+ The Smoth News newsletter written by Patreia Mitchell basically is generally a massive list of
+
+86
+00:08:57,840 --> 00:09:04,400
+ conventions with a little bit of commentary at the top and it comes out about once every week.
+
+87
+00:09:04,400 --> 00:09:11,760
+ I think, um, but I just read it for the bit at the top. There is a new guidance from the CDC
+
+88
+00:09:11,760 --> 00:09:17,120
+ in conjunction with the American Society of Heating Refrigerating and Air Conditioning Engineers
+
+89
+00:09:17,120 --> 00:09:23,840
+ or ASHRAE and they have picked a number to aim for in terms of COVID circulation of five air
+
+90
+00:09:23,840 --> 00:09:29,680
+ changes per hour, which is absolutely like, I like this because it's a number that you could be like,
+
+91
+00:09:29,680 --> 00:09:36,000
+ yeah, we can benchmark against the number now and that's nice and it means we can stop talking about,
+
+92
+00:09:36,000 --> 00:09:41,440
+ well, I mean, maybe not immediately, but this is the first step on the way to sort of having
+
+93
+00:09:41,440 --> 00:09:46,160
+ arguments about what the phrase well ventilated means and starting to get towards a more,
+
+94
+00:09:46,960 --> 00:09:53,600
+ um, quantitative discussion of these things, which I think would be quite good. I thought it was
+
+95
+00:09:53,600 --> 00:09:58,720
+ interesting and that I thought I would mention it on the podcast. Yeah, so it's very interesting
+
+96
+00:09:58,720 --> 00:10:03,760
+ because when I've been looking at like air purifiers and things, because I own a home air purifier,
+
+97
+00:10:03,760 --> 00:10:12,240
+ they generally have this value, it calls CADR rating, which is the clean air delivery rate.
+
+98
+00:10:12,240 --> 00:10:18,240
+ So basically it's like kind of the, and it comes in, in for mine, it comes in like meters cubed per
+
+99
+00:10:18,240 --> 00:10:23,840
+ hour. So basically if a thing tells me this clean is like 200 meters cubed per hour, then you can
+
+100
+00:10:23,840 --> 00:10:29,600
+ work out the size of your room and from that workout, like whether this purifier is enough to give you
+
+101
+00:10:29,600 --> 00:10:35,120
+ five complete air changes per hour or whatever. So yeah, it's quite, I think it's quite a good
+
+102
+00:10:35,120 --> 00:10:38,560
+ standard. You have to then work out the size of your room and work out the efficiency of your
+
+103
+00:10:38,560 --> 00:10:43,200
+ purifier, but then you can basically have one of appropriate size in appropriate space,
+
+104
+00:10:43,200 --> 00:10:48,080
+ in appropriate size spaces, which is quite handy. Right, it's just being like, I'm going to buy a
+
+105
+00:10:48,080 --> 00:10:52,960
+ big air purifier and put it in the corner of this room and assume it's all fine. I just like, as a
+
+106
+00:10:52,960 --> 00:10:59,040
+ physicist, what I want is numbers. And so any numbers I view as good, good numbers. So I have
+
+107
+00:10:59,040 --> 00:11:04,080
+ some numbers, um, because I've just been googling furiously. Um, as always, when somebody says,
+
+108
+00:11:04,080 --> 00:11:09,440
+ here's what America is doing, I go, oh, there are other places in the world. So I checked to see if
+
+109
+00:11:09,440 --> 00:11:14,800
+ the Health and Safety Executive has, um, advice on ventilation, which it does. And its advice on
+
+110
+00:11:14,800 --> 00:11:24,400
+ ventilation is, um, five to eight liters of clean air supply per occupant of the space per second.
+
+111
+00:11:24,400 --> 00:11:30,720
+ So you can probably turn that into air changes an hour. Um, I would have thought that was rather
+
+112
+00:11:30,720 --> 00:11:36,080
+ less than, um, five air changes an hour in most workplaces, but I don't know.
+
+113
+00:11:36,080 --> 00:11:42,800
+ Is that, is the Health and Safety Executive? Have you got a link? Could I haven't read that?
+
+114
+00:11:42,800 --> 00:11:48,800
+ I've put a link to its ventilation pages. It's COVID pages when it talks about ventilation in,
+
+115
+00:11:48,800 --> 00:11:54,480
+ in respect of COVID, um, points to the general ventilation pages. It says that ventilation is
+
+116
+00:11:54,480 --> 00:11:58,800
+ just the same as COVID as for everything, all the other reasons why ventilation is important in
+
+117
+00:11:58,800 --> 00:12:04,000
+ workplaces. I think the CDC ones are better because they explicitly say, you know,
+
+118
+00:12:04,000 --> 00:12:09,360
+ they explicitly include, and this is what we are recommending based on COVID being an important
+
+119
+00:12:09,360 --> 00:12:14,000
+ thing, as well as all the other things for clean air changes, things like HEPA filters,
+
+120
+00:12:14,000 --> 00:12:19,520
+ you know, the, the rating of your HEPA filters, uh, you know, and so on. And also suggesting things
+
+121
+00:12:19,520 --> 00:12:26,000
+ like UV inactivation, you know, which is a, not a thing for all, you know, there's reasons for having
+
+122
+00:12:26,000 --> 00:12:30,960
+ air ventilation. Like the reason I know about like clean air delivery changes and so on is because
+
+123
+00:12:30,960 --> 00:12:37,120
+ my air purifier was bought for pollution, where you don't bother with like the germicidal standards.
+
+124
+00:12:37,120 --> 00:12:42,000
+ So I think it is worth, you know, making sure that they have taken COVID specifically into account
+
+125
+00:12:42,000 --> 00:12:45,520
+ and not just gone, you know, for what they had before.
+
+126
+00:12:45,520 --> 00:12:50,880
+ But they have done, but because it's a, this is in fact an outlet of the British government,
+
+127
+00:12:50,880 --> 00:12:57,520
+ I'm sure that John is right when he says it reflects government guidelines. Yeah, I like the CDC one
+
+128
+00:12:57,520 --> 00:13:01,920
+ better. As I said, five to eight liters a second. And the point about that one that's good is that
+
+129
+00:13:01,920 --> 00:13:08,080
+ it's per occupant, whereas the CDC one is per room. And I'll tell you that really puts the
+
+130
+00:13:08,080 --> 00:13:11,920
+ heebie-jeebies in me because the room with no people in it will not develop, you know,
+
+131
+00:13:11,920 --> 00:13:16,960
+ how much you pack the room does matter a lot here. And they, and that, and that recommendation
+
+132
+00:13:16,960 --> 00:13:22,080
+ takes no account of it. Our cinemas were saying when they reopened cinemas, they said they were
+
+133
+00:13:22,080 --> 00:13:26,320
+ changing the air every seven minutes, which is like, I guess, eight times an hour. So it's a bit
+
+134
+00:13:26,320 --> 00:13:29,920
+ more than that, but not a lot. But I do think that the number of people in the room is highly
+
+135
+00:13:29,920 --> 00:13:35,120
+ relevant to this. So I don't, I don't, I'm not just sort of instantly believing the CDC's
+
+136
+00:13:35,120 --> 00:13:39,280
+ recommendation here, any more than anything else. I think there are, like everything here,
+
+137
+00:13:39,280 --> 00:13:46,800
+ there's room for a range of views. It's worth, it's worth noting that the CDC makes it clear that
+
+138
+00:13:46,800 --> 00:13:53,600
+ five air changes an hour is the minimum. And they do note that it's not clear how that scales up for
+
+139
+00:13:53,600 --> 00:14:00,240
+ like extremely large numbers of people. I'm just deeply suspicious of what I don't want,
+
+140
+00:14:00,240 --> 00:14:04,560
+ because like, unless there's evidence that the health and safety executive has updated that
+
+141
+00:14:04,560 --> 00:14:12,400
+ ventilation advice from 2019, I, what I'm interested in is how the science has developed in light of
+
+142
+00:14:12,400 --> 00:14:20,560
+ the fact that we've had a pandemic. And I don't have much interest in pre pandemic opinions on this,
+
+143
+00:14:20,560 --> 00:14:24,560
+ because they don't seem particularly relevant. And so like, if the British government, I mean,
+
+144
+00:14:24,560 --> 00:14:28,080
+ I agree, like, you know, and I'm very sorry that I posted an American thing without
+
+145
+00:14:28,080 --> 00:14:31,840
+ checking whether or not there was a British equivalent. But at the same time, if the British
+
+146
+00:14:31,840 --> 00:14:37,200
+ equivalent is we had guidance on this before and here it is, then I think that's a sign that
+
+147
+00:14:37,200 --> 00:14:41,360
+ they're lagging. So I agree with you. And I think you were right. And that the UK are just using the
+
+148
+00:14:41,360 --> 00:14:45,360
+ same old guidelines and the CDC have actually thought about it and based it on Atlantic Commission
+
+149
+00:14:45,360 --> 00:14:50,080
+ recommendation. So it has a key table, which we're going to link to, which is table one. And what
+
+150
+00:14:50,080 --> 00:14:55,760
+ it basically says is that the it counts by two different mechanisms, which are per volume
+
+151
+00:14:55,760 --> 00:15:02,240
+ volumetric flow for air changes, where it says, good is for better is six and best is better than
+
+152
+00:15:02,240 --> 00:15:09,920
+ six. So the CDC's recommendation of five is kind of firmly there as between good and better. And it
+
+153
+00:15:09,920 --> 00:15:17,280
+ also has a volumetric flow per person, which it recommends. And that is the good is 10 liters per
+
+154
+00:15:17,280 --> 00:15:23,760
+ second per person, which your notice is significantly more than the HSE recommendations. So in conclusion,
+
+155
+00:15:23,760 --> 00:15:28,720
+ what that means is that the health and safety executive has not yet updated its guidelines to
+
+156
+00:15:28,720 --> 00:15:33,920
+ take account of the Lancet Committee. So if you're listening to this HSE, get your figure out.
+
+157
+00:15:33,920 --> 00:15:39,200
+ And thank you for listening. We're thrilled that we have so many people in the civil service as
+
+158
+00:15:39,200 --> 00:15:52,880
+ fans. And all the subject of 2025, Seattle is the only worldcom that has submitted any filing
+
+159
+00:15:52,880 --> 00:15:58,320
+ paperwork. Oh wait, is that when was the deadline? Was it deadline? Did I miss the deadline?
+
+160
+00:15:58,320 --> 00:16:03,440
+ Deadline for site selection. Shit, were you gonna biddlers? I mean, obviously, I wasn't personally
+
+161
+00:16:03,440 --> 00:16:08,080
+ gonna bid, but normally I am on top of all things with this constitution. And I've been slacking
+
+162
+00:16:08,080 --> 00:16:15,120
+ to be fair, but on holiday. I think the deadline must have been a couple of weeks ago. Yeah. Yeah,
+
+163
+00:16:15,120 --> 00:16:19,520
+ because they moved it when they moved the dates, because that's a moveable fee spit.
+
+164
+00:16:19,520 --> 00:16:23,840
+ According to the constitution, bid documents for opposing bids must be filed no later than 180
+
+165
+00:16:23,840 --> 00:16:30,080
+ days beforehand. And no other bids have been filed to Seattle will be the only bid on the ballot.
+
+166
+00:16:30,080 --> 00:16:36,240
+ So so yeah, well done Seattle. I mean, so I like Seattle for two reasons. Firstly, crack in logo.
+
+167
+00:16:36,240 --> 00:16:43,600
+ And secondly, Seattle is a pretty great city. So yeah, I am if it is successful, which I
+
+168
+00:16:43,600 --> 00:16:48,880
+ should expect it will be, but touch would, then then I might go. So I like Seattle, haven't been
+
+169
+00:16:48,880 --> 00:16:55,360
+ for a while. I've never been Seattle. So I like that idea. Oh, it's lovely Liz. Oh, no, we,
+
+170
+00:16:55,360 --> 00:17:01,600
+ Stephen was like Seattle. So I think I think the chances will be at the 25 worldcon and not
+
+171
+00:17:01,600 --> 00:17:07,680
+ nil. It seems nice that it's gone to a bunch of big American cities. Maybe helps grow world
+
+172
+00:17:07,680 --> 00:17:15,360
+ kind of it. If you go to like DC and Chicago and Seattle. Yes. I mean, as well as, you know,
+
+173
+00:17:15,360 --> 00:17:22,480
+ London and Dublin and Helsinki and Chengdu and so on. You mean as opposed to like Reno and Spokane?
+
+174
+00:17:22,480 --> 00:17:29,680
+ Well, Spokane in particular. And I believe this is filed for Seattle. So and I understand, I don't
+
+175
+00:17:29,680 --> 00:17:34,320
+ want to say too much because I'm not like, I don't know these people hugely well, but I believe it
+
+176
+00:17:34,320 --> 00:17:40,800
+ is a completely different con running team that essentially Seattle has two bunches of smoths.
+
+177
+00:17:40,800 --> 00:17:46,720
+ And it's the, you know, Westcon people doing this one. And by and large, Spokane was not.
+
+178
+00:17:46,720 --> 00:17:50,880
+ Though, of course, Wilcons are huge. Lots of people work on them. Everyone works, you know,
+
+179
+00:17:50,880 --> 00:17:55,520
+ most people do some jobs on all of the world cons, but but in terms of who the board are.
+
+180
+00:17:55,520 --> 00:18:01,440
+ No, yeah, yeah, no, that's a good point. I just wondered whether Liz was being sarcastic, like,
+
+181
+00:18:01,440 --> 00:18:05,360
+ wonder whether Liz was being like, well, it's very good that American cities are having a turn
+
+182
+00:18:05,360 --> 00:18:09,920
+ because they're, you know, we need to grow the world, come by getting more Americans into the
+
+183
+00:18:09,920 --> 00:18:14,400
+ Phantom. I realized that's not quite what she was getting at, but I did. I was like, I just wondered
+
+184
+00:18:14,400 --> 00:18:20,240
+ if it was the most straight faced sarcasm Liz has ever delivered on the pod. No, it was sincere.
+
+185
+00:18:20,240 --> 00:18:26,400
+ Like, if it's only going to go to the US, you know, four years out of 10, which is what it has been
+
+186
+00:18:26,400 --> 00:18:32,080
+ for the past decade, then it's nice to have it in big cities where more people can reach them,
+
+187
+00:18:32,080 --> 00:18:37,840
+ basically. I don't know, maybe I'm underestimating the ability of Americans to drive there.
+
+188
+00:18:37,840 --> 00:18:44,480
+ And different big cities. I think it would be quite nice if it went to Los Angeles sometime
+
+189
+00:18:44,480 --> 00:18:52,640
+ quite soon. Or, yeah. I believe there is a Los Angeles bid in the near future. And I have not
+
+190
+00:18:52,640 --> 00:18:59,760
+ prepared to answer this question. But I believe that there is a bid for like, 2029 maybe?
+
+191
+00:18:59,760 --> 00:19:05,760
+ 2026, according to Skiffy. That is that sooner than I thought, fair enough. I mean, because I think
+
+192
+00:19:05,760 --> 00:19:13,200
+ if you were going to pick three places to have world cons, you'd pick LA or San Jose, like, well,
+
+193
+00:19:13,200 --> 00:19:18,560
+ you'd pick LA or San Francisco, but sorry, San Jose fans in the absence of being able to do it in
+
+194
+00:19:18,560 --> 00:19:22,640
+ San Francisco, San Jose will do. Or you and then you'd pick Seattle and then you'd pick
+
+195
+00:19:22,640 --> 00:19:28,160
+ like Washington, North Chicago, right? Because they're like the corners and you wouldn't pick Orlando
+
+196
+00:19:28,160 --> 00:19:37,360
+ for reasons. I mean, many reasons, but it is, you know, humid swamp stars. That wasn't that
+
+197
+00:19:37,360 --> 00:19:41,360
+ wasn't the reason I was thinking of, but that is definitely a reason. And let's not go into.
+
+198
+00:19:41,920 --> 00:19:49,920
+ I believe it's an air conditioned humid swamp. Yes. Yes. That is true. I mean, yes, but if I say,
+
+199
+00:19:49,920 --> 00:19:56,880
+ you know, I got on a plane in Bangkok and got off it in Orlando and went, fuck me, this is warm and humid.
+
+200
+00:19:56,880 --> 00:20:05,440
+ That's definitely staying in the podcast, Liz. I mean, yes, obviously, no, no, I do not want
+
+201
+00:20:05,440 --> 00:20:10,720
+ to go to a convention in Florida, in under the current political situation in Florida, which is,
+
+202
+00:20:10,720 --> 00:20:16,880
+ you know, unsafe for many people who would like to go there. But also, I understand other people
+
+203
+00:20:16,880 --> 00:20:24,400
+ do not enjoy Disney World as much as me or human swamps. On the subject of conventions in North
+
+204
+00:20:24,400 --> 00:20:29,840
+ America, should we talk about Permicon? What did we have to say about Permicon? They've announced
+
+205
+00:20:29,840 --> 00:20:36,960
+ their virtual. Yeah. So Permicon, which is the 2023 North American starts fiction convention,
+
+206
+00:20:38,320 --> 00:20:44,080
+ which I have a sort of peculiar affinity for because their symbol is a moose. And as you know, I once
+
+207
+00:20:44,080 --> 00:20:50,160
+ ran an Easter con where our symbol was a moose. Now, as Permicon is in Winnipeg, a place that has
+
+208
+00:20:50,160 --> 00:20:55,200
+ quite a lot of moose. And as a population was in Docklands, which is a place that is not known for
+
+209
+00:20:55,200 --> 00:21:00,800
+ having moose at all, they probably have a slightly better claim to having a moose as their logo.
+
+210
+00:21:01,440 --> 00:21:09,120
+ But anyway, Permicon has announced its virtual rates, if you're in the UK, which is $90 Canadian,
+
+211
+00:21:09,120 --> 00:21:12,880
+ which sounds like a lot for a virtual convention until you realize that the Canadian dollar isn't
+
+212
+00:21:12,880 --> 00:21:18,160
+ really as much as you think it is. But it's a tick that comes out about 60 quid. And they're
+
+213
+00:21:18,160 --> 00:21:24,000
+ planning to have quite a lot of virtual programming. I was very excited by this because I saw their
+
+214
+00:21:24,000 --> 00:21:29,120
+ thing that said, if you voted in site selection, you will have a supporting membership. And of course,
+
+215
+00:21:29,120 --> 00:21:32,560
+ I voted in site selection, but I voted in World Conside selection. I did not vote in
+
+216
+00:21:32,560 --> 00:21:37,600
+ that's fixed selection. If you voted in that's fixed selection, you will have a supporting membership
+
+217
+00:21:37,600 --> 00:21:43,760
+ for the last week. And if you didn't, but you got drunk at Chacon and bought a $65 moose t-shirt
+
+218
+00:21:43,760 --> 00:21:48,400
+ by mistake, it turns out that also gives you a supporting membership, which you can then upgrade
+
+219
+00:21:48,400 --> 00:21:53,920
+ to virtual for, I think, $50 Canadian. And I'm thinking about doing that, even though, obviously,
+
+220
+00:21:53,920 --> 00:21:58,400
+ a lot of it happens in the middle of the night, UK time, because it's in Winnipeg, which six hours
+
+221
+00:21:58,400 --> 00:22:04,080
+ behind. And it's going to be a really good size of convention. They've got 725 attending so far. So,
+
+222
+00:22:04,080 --> 00:22:11,600
+ and I guess it's mid August. So I think it's going to be kind of like a really cool size for
+
+223
+00:22:11,600 --> 00:22:17,680
+ a national convention and way less big than World Cons. So as I like Eastern Consize
+
+224
+00:22:17,680 --> 00:22:22,240
+ conventions, it'll be a bit better than that. Yeah, no, that's awesome. I think that's good.
+
+225
+00:22:22,240 --> 00:22:30,560
+ On, yeah, another Worldcon note this week. Glasgow in 2024 now have the forms up to volunteer to be
+
+226
+00:22:30,560 --> 00:22:36,400
+ on programme or to suggest a programme item to happen. That does go into 2024. And they are
+
+227
+00:22:36,400 --> 00:22:40,800
+ separate forms. And to be on the programme, you will have to, I think, fill in that form, you have
+
+228
+00:22:40,800 --> 00:22:48,160
+ to create a login for the programme system planarama. So we'll link to the page that explains how you
+
+229
+00:22:48,160 --> 00:22:53,920
+ can do this. But that is the best way to suggesting you would like to see at Glasgow, like live
+
+230
+00:22:53,920 --> 00:23:02,400
+ podcasts hint hint. I think we should probably put in a bid for OctaThought Live. What do you think
+
+231
+00:23:02,400 --> 00:23:07,840
+ guys? Yes. Provided we don't have any ding dong arguments that caused us to stop doing the
+
+232
+00:23:07,840 --> 00:23:11,600
+ podcast before then. But you could always have a stunt, a stunt all three of us if necessary.
+
+233
+00:23:11,600 --> 00:23:17,120
+ Honestly, we could be on the programme or I could just be roaming the halls doing guerrilla podcasting
+
+234
+00:23:17,680 --> 00:23:21,040
+ inviting people to eat weird flavours of crisps. Or both.
+
+235
+00:23:21,040 --> 00:23:29,280
+ Do both, yes. No, that's good. I think I would like to do that. If there's anyone who particularly
+
+236
+00:23:29,280 --> 00:23:35,680
+ thinks it would be a bad idea, do write in. I think I think I probably am not supposed to say
+
+237
+00:23:35,680 --> 00:23:40,400
+ this as an official. I'm not supposed to say this as kind of an official pronouncement by Glasgow,
+
+238
+00:23:40,400 --> 00:23:46,400
+ but Esther did say she was hoping to have kind of a room that was going to be set up specifically
+
+239
+00:23:46,400 --> 00:23:51,840
+ with podcasts in mind that was kind of had all the tech that was that was needed to kind of split
+
+240
+00:23:51,840 --> 00:23:55,120
+ our streams for OctaThought and things like that. Because I think they're going to have a few.
+
+241
+00:23:55,120 --> 00:23:58,240
+ I don't think we'll be the only podcast wanting a split off to the work on programme.
+
+242
+00:23:58,240 --> 00:24:06,880
+ Yeah, there may be other superior podcasts that want us to like Hugo Girl. Yes. I mean,
+
+243
+00:24:06,880 --> 00:24:13,200
+ with my Glasgow programme admin helping out on, definitely don't give us a slot because we're
+
+244
+00:24:13,200 --> 00:24:19,120
+ awkward f*ckers. We are pain to wrangle. No, it's a lie. We'll be lovely.
+
+245
+00:24:19,120 --> 00:24:23,680
+ And also, if you do give us a slot, you better have a facility for people who've caught
+
+246
+00:24:23,680 --> 00:24:28,800
+ Covid over the course of the weekend at a pocket. Because you know what I'm like, guys.
+
+247
+00:24:35,920 --> 00:24:43,360
+ The clock award shortlist has been announced. Actually, the entire clock award long list was
+
+248
+00:24:43,360 --> 00:24:47,600
+ announced. And just when I'd finished looking at it and was thinking, oh, maybe I should try and
+
+249
+00:24:47,600 --> 00:24:53,440
+ predict what the shortlist is going to be, they announced shortlist. So that took the window at
+
+250
+00:24:53,440 --> 00:24:58,720
+ myself. It was quite a fast turnaround, wouldn't it? It was very fast. So I didn't get a chance to
+
+251
+00:24:58,720 --> 00:25:08,560
+ kind of pontificate too long. But yes, the shortlist is Venomous Lumpsucker by Ned Bowman,
+
+252
+00:25:08,560 --> 00:25:14,720
+ the red scholar's wake by Alliett DeBodard, Pluto Shine by Lucy Kissick, the anomaly by
+
+253
+00:25:14,720 --> 00:25:20,800
+ Herb Latellier, translated by Adrian Hunter, Coral Bones by E.J. Swift and Metronome by Tom Watson.
+
+254
+00:25:20,800 --> 00:25:29,440
+ Indeed. So it's the usual interesting list. I think they're all new nominees. It's got,
+
+255
+00:25:29,440 --> 00:25:34,480
+ you know, something's published as mainstream. It's got a translated novel on there. It's got
+
+256
+00:25:34,480 --> 00:25:43,200
+ something published by genre publishers. Sounds good, basically. Yes. In the show notes, Liz notes
+
+257
+00:25:43,200 --> 00:25:49,040
+ that she has read one of them. I have. Going to be the Alliett DeBodard. Correct. I have read
+
+258
+00:25:49,040 --> 00:25:56,320
+ the Alliett DeBodard. I have also read one of them. Is it the Coral Bones? No. Is it the Alliett
+
+259
+00:25:56,320 --> 00:26:01,920
+ DeBodard? No. Oh no, it's the anomaly. You said so on Discord this week. I did. The anomaly by
+
+260
+00:26:01,920 --> 00:26:09,280
+ Herb Latellier, translated by Adrian Hunter. So how did you find red scholars wake Liz? I liked it,
+
+261
+00:26:09,280 --> 00:26:15,680
+ but I'm not sure I would have put it on my list of the best of the year. Fair. I think it's got some
+
+262
+00:26:15,680 --> 00:26:22,400
+ really great stuff in there, but it does not really hang together as a novel for me. I mean,
+
+263
+00:26:22,400 --> 00:26:25,920
+ I don't know if we wish to discuss the clock shortlist in more detail, but I would say the
+
+264
+00:26:25,920 --> 00:26:33,280
+ Red Scholars Wake is essentially, it's a space opera about kind of space piracy, but also a lesbian
+
+265
+00:26:33,280 --> 00:26:38,240
+ romance novel between a human and a ship. And I think that's got some really interesting stuff,
+
+266
+00:26:38,240 --> 00:26:42,640
+ but it didn't quite work for me as a romance novel or as a science fiction novel. Well, I like
+
+267
+00:26:42,640 --> 00:26:47,360
+ bits of it. Yeah, kind of it didn't. It didn't go maybe fine off into either one, if that makes
+
+268
+00:26:47,360 --> 00:26:52,320
+ sense. I would say it's still worth reading, so I think it's something that's going to disappoint
+
+269
+00:26:52,320 --> 00:26:59,760
+ anyone who reads it on the Clark list. I'd give it three stars. Okay, fair enough. On the other hand,
+
+270
+00:26:59,760 --> 00:27:04,240
+ a lot of books I've read because they're on the Clark shortlist, and I would give them one star.
+
+271
+00:27:04,240 --> 00:27:12,480
+ So fewer than three stars. Dies Fair. Last year, I had at least one absolute shocker
+
+272
+00:27:12,480 --> 00:27:18,320
+ on it, so there was that. I enjoyed the anomaly. Didn't think it quite stuck the landing, but I did
+
+273
+00:27:18,320 --> 00:27:24,800
+ enjoy the conceit. So yeah, it was also a quite quick read. Was last year the one where one of
+
+274
+00:27:24,800 --> 00:27:30,560
+ the novels was a homage to a novel that you hadn't read that's very famous, but that you hadn't read,
+
+275
+00:27:30,560 --> 00:27:34,960
+ and so therefore you probably didn't get what the author was trying to do at all. That was,
+
+276
+00:27:35,600 --> 00:27:41,200
+ I don't think that was in the "pfft, where am I been?" Jamaica in, so Skywarden or something?
+
+277
+00:27:41,200 --> 00:27:48,320
+ Yeah. So I think there's an issue where you've got something that's trying to resonate with
+
+278
+00:27:48,320 --> 00:27:53,760
+ something that's quite famous, not everyone's going to have read that. Sometimes novels just
+
+279
+00:27:53,760 --> 00:27:59,200
+ of that kind just do not stand alone. I mean, I haven't read it, so I don't know if it's any good
+
+280
+00:27:59,200 --> 00:28:03,520
+ or not, but that might be the reason you didn't like it. I didn't like it because the only
+
+281
+00:28:03,520 --> 00:28:08,160
+ interesting SF-Nolbit was the final chapter, and that would have worked very well as a short story.
+
+282
+00:28:08,160 --> 00:28:13,360
+ I think the thing I'd be very interested in is the transcript of the judges' meetings for the
+
+283
+00:28:13,360 --> 00:28:18,560
+ Arthur C. Clark Award, because I'm sure they're phenomenally interesting. Yes, possibly.
+
+284
+00:28:18,560 --> 00:28:23,840
+ But I mean, I love the process, because what happens is that we end up with these very interesting
+
+285
+00:28:23,840 --> 00:28:31,920
+ shortlist. Oh, but it wasn't the worst book on the ballot last year. The worst book was bloody awful.
+
+286
+00:28:32,800 --> 00:28:38,640
+ No, so like last year's Clark list had two that I really detested, like really, really hated,
+
+287
+00:28:38,640 --> 00:28:43,840
+ and I am curious to know whether this year will be similar, but we will see.
+
+288
+00:28:43,840 --> 00:28:49,120
+ What's the other one you hate, John? A River Called Time by Caution Newland.
+
+289
+00:28:49,120 --> 00:28:57,040
+ I hated it more after I read the afterword. So this year, when they announced the shortlist,
+
+290
+00:28:57,040 --> 00:29:02,720
+ I did not immediately spread this news to my friends. I immediately went to my library's website,
+
+291
+00:29:03,360 --> 00:29:07,280
+ where I managed to download two of them straight away and have another three.
+
+292
+00:29:07,280 --> 00:29:12,480
+ I think one's downloaded as an actual thing, and then a second one that's coming to me by on paper,
+
+293
+00:29:12,480 --> 00:29:17,920
+ and then three of the rest are on my hold list. So I think there's only one that isn't in the
+
+294
+00:29:17,920 --> 00:29:23,280
+ London Library's consortium system. That's a lot better than normal, so I was quite excited by that.
+
+295
+00:29:23,280 --> 00:29:30,720
+ So hopefully I will have read them before the announcement this time. I think I am more likely
+
+296
+00:29:30,720 --> 00:29:36,640
+ to read the Clark Award shortlist this year. If it turns out that the Hugo novel shortlist
+
+297
+00:29:36,640 --> 00:29:42,640
+ is entirely an untranslated Chinese, a language which I cannot read or speak.
+
+298
+00:29:42,640 --> 00:29:50,800
+ Yes, I think that is fair. Entirely reasonable. So yeah, I will look forward to reading them,
+
+299
+00:29:50,800 --> 00:29:52,240
+ and etc.
+
+300
+00:29:59,200 --> 00:30:02,800
+ Alison, talk about your golf trip. Oh yeah, can I get which one about my
+
+301
+00:30:02,800 --> 00:30:08,400
+ golf trip? Right, I'm going to fly out, probably with Stephen as well, on the 26th of September,
+
+302
+00:30:08,400 --> 00:30:13,920
+ it looks like, and I'm going to go straight to Canberra, where I'm going to have a day to kind of
+
+303
+00:30:13,920 --> 00:30:20,160
+ collect my thoughts, because it's a very different time of the day, and then attend Conflux, which is
+
+304
+00:30:20,160 --> 00:30:28,000
+ the Australian NatCon, as well as being the sort of science fiction convention that says it's for
+
+305
+00:30:28,000 --> 00:30:34,720
+ writers, I think writers and artists, let me see what it says. Basically, it actually says it's not
+
+306
+00:30:34,720 --> 00:30:39,440
+ a convention for fans, it's too unusual, but there we go, it is also the Australian NatCon,
+
+307
+00:30:39,440 --> 00:30:43,440
+ so I think it's going to get some fans whether it wants them or not, at least one.
+
+308
+00:30:43,440 --> 00:30:46,880
+ So fans are coming, whether you want them or not. Fan anyway.
+
+309
+00:30:46,880 --> 00:30:50,320
+ I like that. It is, yeah, it's an odd attack.
+
+310
+00:30:50,320 --> 00:30:55,200
+ So I'm going to attend the National Convention, which is in Canberra, and then immediately after that,
+
+311
+00:30:55,200 --> 00:31:02,000
+ it looks like I'm going to go to Melbourne for about a week, and then go to Adelaide, and then
+
+312
+00:31:02,000 --> 00:31:07,520
+ have a couple of days in Sydney with Stephen not doing con things, just kind of celebrating our
+
+313
+00:31:07,520 --> 00:31:12,160
+ 25th wedding anniversary, which will be nice. It's actually going to happen, the 25th wedding
+
+314
+00:31:12,160 --> 00:31:18,800
+ anniversary, after Stephen's flown back to the UK. But you know, what does the exact date that
+
+315
+00:31:18,800 --> 00:31:24,160
+ really? And then probably hang around with fans in Sydney, if there are any I can find, and then
+
+316
+00:31:24,720 --> 00:31:30,320
+ go to Perth, well, I'm going to New Zealand, and I might squeeze in a few days in Perth, or we
+
+317
+00:31:30,320 --> 00:31:34,480
+ might decide that it's all too much, and I'll just go to New Zealand and do quite a lot of different
+
+318
+00:31:34,480 --> 00:31:40,080
+ things in New Zealand. It depends how the flights work. But that's the plan. So if you are in any
+
+319
+00:31:40,080 --> 00:31:43,840
+ of those places, and you listen to the podcast, and you would like to put me up or put me in
+
+320
+00:31:43,840 --> 00:31:49,360
+ Stephen up, or take me to do exciting things in Australia, like I quite like to see a cricket game,
+
+321
+00:31:49,360 --> 00:31:53,440
+ for example, let me know. That'd be good. Thank you very much. Gonna be fun.
+
+322
+00:31:53,440 --> 00:31:58,960
+ A variety of guff related merchandise will be available soon. That is very exciting. I hope you
+
+323
+00:31:58,960 --> 00:32:04,480
+ have a great guff trip. I'm trying to think of ways we can invite the listeners to troll Alison on
+
+324
+00:32:04,480 --> 00:32:09,520
+ her guff trip, but nothing has sprung to mine yet. So you're okay. Oh, I was wondering if I should
+
+325
+00:32:09,520 --> 00:32:14,160
+ say to conflicts, do you want to do an episode of Dr Thought Life? No, I know you're going to have
+
+326
+00:32:14,160 --> 00:32:18,480
+ two stunt people. Do you not want to be a go-no because you won't be members? Okay, fine.
+
+327
+00:32:18,480 --> 00:32:23,840
+ How much is the virtual? Won't be member and will be in bed. Will you be in bed?
+
+328
+00:32:23,840 --> 00:32:28,640
+ Why am I not being bad? John probably will. I mean, she's currently a bed Alison, so it seems likely.
+
+329
+00:32:28,640 --> 00:32:43,120
+ Shall we do pics? Who would like to pick first? Do you want me to pick first? Yes.
+
+330
+00:32:44,080 --> 00:32:52,400
+ So I have had a little holiday, and while I was on holiday I did some reading. That's not like you.
+
+331
+00:32:52,400 --> 00:32:59,200
+ You're saying the piss about how much I go to the beach, John? No, I would never. I think I'd
+
+332
+00:32:59,200 --> 00:33:04,000
+ probably go to the beach a lot as well if I were living near to some of the world's best beaches,
+
+333
+00:33:04,000 --> 00:33:10,400
+ rather than living near to South End and also Clackton. Don't make me send you pictures of
+
+334
+00:33:10,400 --> 00:33:14,640
+ absolutely beautiful beaches that you're not at. Ah, send me lots of pictures of beautiful beaches.
+
+335
+00:33:14,640 --> 00:33:23,920
+ Love them. So while I was on holiday I caught up on, I think the latest two full novels in the
+
+336
+00:33:23,920 --> 00:33:29,680
+ Rivers of London series. So when I was on who hasn't read Rivers of London, it is Ben Aranovich's
+
+337
+00:33:29,680 --> 00:33:35,680
+ series of novels about Peter Grant, a Met Police officer who basically works in the branch of the
+
+338
+00:33:35,680 --> 00:33:41,760
+ Met that deals with all things weird and supernatural. It's quite a long-running series now. There's a
+
+339
+00:33:41,760 --> 00:33:47,840
+ bunch of novels, some novellas, some graphic novels that I haven't read at all. Yeah, and I kind of
+
+340
+00:33:47,840 --> 00:33:54,160
+ caught up with the latest two and remembered really why I enjoy reading these. So I actually found the
+
+341
+00:33:54,160 --> 00:34:00,960
+ seventh book in the series. The seventh novel kind of ties up or partly ties up some plot strands
+
+342
+00:34:00,960 --> 00:34:05,040
+ right back from the first book, and I found it a bit satisfying, so I sort of took a big break,
+
+343
+00:34:05,040 --> 00:34:09,920
+ and then the eighth and the ninth are more standalone mysteries, and they're just fun. They're just like
+
+344
+00:34:09,920 --> 00:34:18,080
+ well, well put together, well paced, interesting mystery novels. Peter Grant, the main character,
+
+345
+00:34:18,080 --> 00:34:24,480
+ is really fun to kind of watch him go from new Met Police officer to the person who is now
+
+346
+00:34:24,480 --> 00:34:30,080
+ starting to be the magical expert and mentoring his other colleagues at the stage. These books are
+
+347
+00:34:30,080 --> 00:34:36,560
+ apt. He's also about to become a father for the first time with his girlfriend who is also a river.
+
+348
+00:34:36,560 --> 00:34:42,880
+ Yeah, and I think the one weak point is I don't think they ever end quite as well as I would like
+
+349
+00:34:42,880 --> 00:34:48,880
+ them to. The mysteries kind of always get tied up a bit too quickly or leave a little bit too much
+
+350
+00:34:48,880 --> 00:34:54,240
+ hanging for future novels, but I just really enjoy kind of racing through these two and will
+
+351
+00:34:54,240 --> 00:34:58,800
+ probably pick up the next one whenever it's published. And if I had thought of this and read them earlier,
+
+352
+00:34:58,800 --> 00:35:03,760
+ they probably would have been a Hugo Best Series pick, but I didn't think about it in time.
+
+353
+00:35:03,760 --> 00:35:08,320
+ I thought it was one of the things that came up when we were talking about possible picks for
+
+354
+00:35:08,320 --> 00:35:14,640
+ Best Series in fact. Could have been. But I think I would say, I think next year when the
+
+355
+00:35:14,640 --> 00:35:22,080
+ Worldcon is in the United Kingdom might be a good time to try and encourage all the British fans to
+
+356
+00:35:22,080 --> 00:35:28,640
+ vote there or the good British series onto the Hugo ballot. Yes, and I think there is a qualifying
+
+357
+00:35:28,640 --> 00:35:34,960
+ novella this year to the qualifying volume. Benaranovich was one of the guests of honor at
+
+358
+00:35:34,960 --> 00:35:39,760
+ Reconnect in New Zealand where I was also the guest of honor and he was absolutely delightful.
+
+359
+00:35:39,760 --> 00:35:44,000
+ I listened to his interview and really enjoyed it. I thought it was very good.
+
+360
+00:35:44,000 --> 00:35:51,280
+ So I just want to check the two you read were false value and and lies sleeping. I assume Liz.
+
+361
+00:35:52,480 --> 00:35:59,840
+ No, the two I read were false value and amongst our weapons. Oh, okay. I don't think I've read
+
+362
+00:35:59,840 --> 00:36:05,520
+ amongst our weapons yet, but I have read false value. Yes, so I quite like false value. I think
+
+363
+00:36:05,520 --> 00:36:12,080
+ amongst our weapons is a slightly better one. It also goes back but it also goes back to the
+
+364
+00:36:12,080 --> 00:36:17,920
+ Leslie plot arc, which I thought was a bit not well tied up in lies sleeping but sometimes it's
+
+365
+00:36:17,920 --> 00:36:24,240
+ a Reddit. Okay, having actually like done some live fact checking here, River of London was
+
+366
+00:36:24,240 --> 00:36:31,280
+ nominated for best series in 2017, but it didn't win and has definitely had sufficient volumes to
+
+367
+00:36:31,280 --> 00:36:38,560
+ be eligible again since then. Good. I read most of the first one and then on paper and then put
+
+368
+00:36:38,560 --> 00:36:44,160
+ it down somewhere and never picked it up again, which I mean, I really, really, I was really enjoying
+
+369
+00:36:44,160 --> 00:36:50,160
+ it. It was like, so I don't know why I didn't. I will read them one day. I need to read more books,
+
+370
+00:36:50,160 --> 00:36:56,880
+ guys. Can we read them on a golf trip? They're good kind of books for plowing through when you
+
+371
+00:36:56,880 --> 00:37:01,760
+ might be a bit distracted in transit and so on. Yes, that is fair. It is not a slight
+
+372
+00:37:01,760 --> 00:37:07,440
+ against them just that they're generally told in a fairly linear way and they're pretty easy to
+
+373
+00:37:07,440 --> 00:37:14,080
+ read. They're exactly the sort of books that I think the Hugo Award for Best Series is a good
+
+374
+00:37:14,080 --> 00:37:23,520
+ thing. It means that it's a good thing because I think it is a difficult skill but it does reward
+
+375
+00:37:23,520 --> 00:37:28,320
+ like it means you can write these big long series and it you know you can have these massive stories
+
+376
+00:37:28,320 --> 00:37:33,040
+ and I think that is something that like I would never pick one of these books as like the best
+
+377
+00:37:33,040 --> 00:37:38,240
+ novel of the year by definitely think this series is like a rollicking good read and I would recommend
+
+378
+00:37:38,240 --> 00:37:43,200
+ it to someone who just wants like some lovely books with characters that do interesting things
+
+379
+00:37:43,200 --> 00:37:47,920
+ but aren't like, I don't know, I think there's merit to that. I'm not describing it very well.
+
+380
+00:37:47,920 --> 00:37:54,320
+ Yes, yes. And Mashe's genre is together in an interesting way and also comes from a... Yes.
+
+381
+00:37:54,320 --> 00:38:00,880
+ Comes from a place, you know, the characters in this book are not well represented in
+
+382
+00:38:00,880 --> 00:38:06,560
+ science fiction in general, right? No. Fantasy, I suppose more fantasy, well fantasy mystery than
+
+383
+00:38:06,560 --> 00:38:10,880
+ SF. But I do like the book, you know, I really did enjoy the one I nearly read.
+
+384
+00:38:10,880 --> 00:38:15,840
+ I mean it does feel like they're very much the books about a modern London.
+
+385
+00:38:15,840 --> 00:38:21,440
+ Yeah, that's also true. And we like that if we live in modern London.
+
+386
+00:38:21,440 --> 00:38:25,760
+ God John, have you just convinced me of like a good argument for where we have the best series,
+
+387
+00:38:25,760 --> 00:38:30,320
+ Hugo? God damn it John. Well this is the argument I've always
+
+388
+00:38:30,720 --> 00:38:35,200
+ had in my head about the best series. Hugo, I'm just not sure I've ever been very good at
+
+389
+00:38:35,200 --> 00:38:40,240
+ articulating it. Oh, you've definitely articulated on the podcast. Oh, yeah, you know,
+
+390
+00:38:40,240 --> 00:38:45,440
+ I'd say that. I mean, the problem with the best series Hugo, at least in part, is that that's not
+
+391
+00:38:45,440 --> 00:38:50,160
+ how people vote though. They vote for the series that contains their favourite novel of the year.
+
+392
+00:38:50,160 --> 00:38:55,680
+ Look, right, we can't be grumpy at Hugo categories because people voting them wrong because if we
+
+393
+00:38:55,680 --> 00:39:02,800
+ were, that would just be angry all the time. All the live long day. Very hard being me.
+
+394
+00:39:02,800 --> 00:39:09,360
+ On with the on with the picks because it's bedtime. Shall I go next on the basis that
+
+395
+00:39:09,360 --> 00:39:15,360
+ Alison's pick is even less SF Northern mine. Yeah, go on. I went to a convention listeners.
+
+396
+00:39:15,360 --> 00:39:22,400
+ I went to the UK Games Expo, which was held at the NEC at the start of June. So,
+
+397
+00:39:22,400 --> 00:39:29,360
+ Conventions been running now for 16 years. I think the first one was in 2006, 2007,
+
+398
+00:39:29,360 --> 00:39:34,960
+ 2007, I think. And so I remember when it was in a Masonic Hall somewhere in Birmingham and it fit
+
+399
+00:39:34,960 --> 00:39:41,680
+ into a single room. And now it is the entire of the Birmingham NEC Hilton Metropolitan,
+
+400
+00:39:41,680 --> 00:39:49,280
+ plus three full halls of the NEC. It is truly bonkers now. But yes, I went and it was good.
+
+401
+00:39:49,920 --> 00:39:58,720
+ I had a lovely time and I played lots of board games, board games with people who love board games.
+
+402
+00:39:58,720 --> 00:40:06,320
+ So I played an interesting game called Earthborne Rangers, which is really interesting. One of the
+
+403
+00:40:06,320 --> 00:40:11,840
+ one of the key things about this game is that it's fully compostable, which is an odd selling point
+
+404
+00:40:11,840 --> 00:40:17,440
+ for a game. But it means that when you finally like you decided to order play it and slash or
+
+405
+00:40:17,440 --> 00:40:23,840
+ pop your clogs and your next kinder doesn't want to play it, it won't bugger up the earth when it
+
+406
+00:40:23,840 --> 00:40:32,720
+ goes. So that's nice. And it's a game set in a world that's a bit similar to Horizon. It's like
+
+407
+00:40:32,720 --> 00:40:40,240
+ a post-climate catastrophe world where humanity is kind of living more in balance with nature than
+
+408
+00:40:40,240 --> 00:40:46,480
+ at the moment. And it was quite kind of a nice contemplative little kind of questy card game.
+
+409
+00:40:46,480 --> 00:40:51,200
+ And it particularly tickled my fancy because it felt very much like a cross between
+
+410
+00:40:51,200 --> 00:40:56,240
+ Arkham Horror of the card game and Seventh Continent, the board game. And so yeah, I thought it was
+
+411
+00:40:56,240 --> 00:41:01,040
+ really interesting. Well, did I play? My friend bought a game called Solar Sphere, which is a game
+
+412
+00:41:01,040 --> 00:41:06,960
+ about building a Dyson Sphere that was nominated for or won an award. I can't remember which. But
+
+413
+00:41:06,960 --> 00:41:11,920
+ like that sounded like it would be quite fun. And I look forward to playing that. I played a game
+
+414
+00:41:11,920 --> 00:41:18,960
+ called Flick Fleet. Flick Fleet is a very good idea for a game that I would never ever buy. So the way
+
+415
+00:41:18,960 --> 00:41:24,240
+ it works is you get spaceships, which are bits of acrylic, and you put them on an earframe play
+
+416
+00:41:24,240 --> 00:41:30,880
+ map. And then you put asteroids on the near-prem play map. And in order to move your ships about,
+
+417
+00:41:30,880 --> 00:41:35,840
+ you have to flick them. Well, this is by the people who did asteroid dice. Possibly.
+
+418
+00:41:36,400 --> 00:41:43,760
+ So I played that at Dragon Meat and thought it was hilarious and also mad. But you know,
+
+419
+00:41:43,760 --> 00:41:48,880
+ I would never buy it. And I got them to tell me about their Kickstarter for Asteroid Dice,
+
+420
+00:41:48,880 --> 00:41:54,320
+ which has now launched. And Asteroid Dice is a game where you have large dice and you throw
+
+421
+00:41:54,320 --> 00:41:59,440
+ them at people. And I'm never going to buy that. But you know, people seem to like it. Large
+
+422
+00:41:59,440 --> 00:42:04,000
+ like foam dice. So if you want large foam dice, you can buy them on the internet now.
+
+423
+00:42:04,560 --> 00:42:14,160
+ Yes, yes, yes. I am confused because I know about Asteroid Dice, but that's not on the
+
+424
+00:42:14,160 --> 00:42:20,320
+ Flick Fleet website. So I don't know. No, their game is. Okay, so I did not play Flick Fleet.
+
+425
+00:42:20,320 --> 00:42:27,920
+ I played a game called Shape Invaders, where you have a bunch of acrylic space invaders and you flick
+
+426
+00:42:27,920 --> 00:42:33,920
+ them at people. That sounds like quite a similar game, doesn't it? Interesting.
+
+427
+00:42:33,920 --> 00:42:38,960
+ Turn any tabletop into a battleground with Shape Invaders. Aim Flick and eliminate the enemy.
+
+428
+00:42:38,960 --> 00:42:46,000
+ That has not yet been kick-started, but it's coming to Kickstarter, it says. So it looks
+
+429
+00:42:46,000 --> 00:42:52,160
+ less strategic. Yeah, no, it wasn't strategic at all. It was hilarious. Just, you know.
+
+430
+00:42:52,160 --> 00:42:58,640
+ So Flick Fleet is quite strategic. So Flick Fleet reminded me most of the X-Wing
+
+431
+00:42:58,640 --> 00:43:04,160
+ miniatures game. So you have like hit points and shields and like different systems that you can
+
+432
+00:43:04,160 --> 00:43:10,560
+ repair and etc. But it was just, it was a very good idea. I liked it quite a lot, but I was extremely
+
+433
+00:43:10,560 --> 00:43:17,360
+ bad at it. Yeah, so, so I don't really believe in it. That's like saying that Snuka or Pool or
+
+434
+00:43:17,360 --> 00:43:22,320
+ Games of that type are strategic because I know that they are, but they're not when I play them
+
+435
+00:43:22,320 --> 00:43:29,600
+ because I just tried not to foul. Yeah, no, that's fair. Yes. No, and that's like, I appreciate that
+
+436
+00:43:29,600 --> 00:43:35,280
+ Snuka is a very fine game and yes, I would never play it in the pub. And this is in exactly the
+
+437
+00:43:35,280 --> 00:43:39,200
+ same wheelhouse where it's like, Oh, and I would play it in the pub. I love playing these games in
+
+438
+00:43:39,200 --> 00:43:43,920
+ the pub. I'm just very bad at them. I like watching other people play them in the pub. Have either of
+
+439
+00:43:43,920 --> 00:43:53,040
+ you played a game called Catacombs, which was also a Kickstarter and sounds pretty similar?
+
+440
+00:43:53,040 --> 00:43:59,440
+ Ah, yes. Dextarity based dungeon delve. Yeah, it's like a dungeon game and everything is little
+
+441
+00:43:59,440 --> 00:44:08,400
+ wooden discs and you flick them around. Except for the Armadillo, which rolls and I always insist
+
+442
+00:44:08,400 --> 00:44:13,760
+ in getting the Armadillo where possible and you sort of roll it on its side and it goes somewhere
+
+443
+00:44:13,760 --> 00:44:20,000
+ completely unpredictable and it's fun. I have played a game called Dungeon Drop where you hunt for
+
+444
+00:44:20,000 --> 00:44:26,640
+ Treasurish kill monsters having dropped all the pieces onto your coffee table from or gaming table
+
+445
+00:44:26,640 --> 00:44:32,080
+ from a height of about 12 inches. This is a game that you really, really, really want to play on a
+
+446
+00:44:32,080 --> 00:44:36,240
+ tray, which we do because if you don't play it on a tray, then you have an additional game where
+
+447
+00:44:36,240 --> 00:44:42,640
+ you frightified all the little bits off the floor. Catacombs comes with like a side wall to go around
+
+448
+00:44:42,640 --> 00:44:48,400
+ the board. Nice. Sensible. And a Geelat in its cube. Dungeon Drop sells this as an extra,
+
+449
+00:44:48,400 --> 00:44:53,600
+ which is why we play it on a tray. I will attempt to link to all these things in the show notes,
+
+450
+00:44:53,600 --> 00:45:00,400
+ but apologies if I miss one. Octa thought gaming corner. Yes. But no, it was really good and I bought
+
+451
+00:45:00,400 --> 00:45:06,880
+ some games, but none of them are SFNAL. That's a lie. One of them is SFNAL. I bought this
+
+452
+00:45:06,880 --> 00:45:13,760
+ for the listeners who cannot see my camera. I bought Final Girl. So Final Girl is a single player
+
+453
+00:45:13,760 --> 00:45:19,440
+ game which kind of spins off of the hostage negotiator series of games. And it's based on the
+
+454
+00:45:19,440 --> 00:45:23,840
+ Final Girl trope, which is basically a thing that you find a lot in horror movies where you have like
+
+455
+00:45:23,840 --> 00:45:29,120
+ a single woman at the end of the movie who is like the only one left alive and is trying to stay that
+
+456
+00:45:29,120 --> 00:45:36,720
+ way. Notable examples of the genre include Alien and Cabin in the Woods. I bought, they basically do a
+
+457
+00:45:36,720 --> 00:45:41,760
+ lot of off-brand boxes which are kind of horror movies that they don't have the rights to that are
+
+458
+00:45:41,760 --> 00:45:48,000
+ like just generic enough to get away with it. So I bought the set which is the Evamorph, which has a
+
+459
+00:45:48,000 --> 00:45:52,480
+ picture of a woman who looks very likes a guinea weaver on the cover. And that's quite fun. It's
+
+460
+00:45:52,480 --> 00:45:58,240
+ incredibly difficult. I have not won a game yet. But I enjoy it. And that's the main thing. Indeed.
+
+461
+00:45:58,240 --> 00:46:02,480
+ But yeah, it had a lovely time. It was really good. So my pick this week was going to be,
+
+462
+00:46:02,480 --> 00:46:07,840
+ well, I wanted to go last in the picks because I thought there was a fairly good chance
+
+463
+00:46:07,840 --> 00:46:15,200
+ that that would be either at the close of play or after England had got all out. But in fact,
+
+464
+00:46:15,200 --> 00:46:20,160
+ they haven't. So my pick is the cricket I am planning to spend much of the next six weeks listening
+
+465
+00:46:20,160 --> 00:46:24,720
+ to cricket, watching cricket, drinking beer and talking about cricket. Cricket, that's good.
+
+466
+00:46:24,720 --> 00:46:29,360
+ It's not very science fictional though, is it? But yeah, England are playing Australia
+
+467
+00:46:29,360 --> 00:46:34,560
+ and the men, it's the men's turn this week and then it's the women's turn next week. And I'm
+
+468
+00:46:34,560 --> 00:46:40,720
+ going with science fiction fans, so that's science fictional right, to watch the women play in Nottingham.
+
+469
+00:46:40,720 --> 00:46:47,840
+ So one of the great things about the rise, women's cricket is good. Women's sport generally is good.
+
+470
+00:46:47,840 --> 00:46:54,000
+ It's good that it's a lot more represented than it was even when I was like, you know, even 15 years
+
+471
+00:46:54,000 --> 00:46:59,760
+ ago, like it's come on in leaps and bounds, which is great. But it does also give rise to there is a
+
+472
+00:46:59,760 --> 00:47:04,320
+ podcast called the nobles podcast, which if you'd like cricket is quite good. And they have started
+
+473
+00:47:04,320 --> 00:47:09,840
+ a trend of referring to the men's ashes and the women's ashes as the mashes and the washes.
+
+474
+00:47:09,840 --> 00:47:15,840
+ And that makes me very happy. So the mashes are on at the moment and the washes are on soon.
+
+475
+00:47:15,840 --> 00:47:20,000
+ Yeah, starting next week. Yeah, so they've already sold more tickets for the women's
+
+476
+00:47:20,000 --> 00:47:24,640
+ cricket than they did in the whole of 2022. And that included the game that I went to last year,
+
+477
+00:47:24,640 --> 00:47:29,920
+ which was the largest gate for a women's cricket game ever in the United Kingdom.
+
+478
+00:47:29,920 --> 00:47:34,400
+ None of this was really on topic for the podcast. So I did have a plan for what I was going to do
+
+479
+00:47:34,400 --> 00:47:39,520
+ as my pick, but I've had a bit of a mad week that hasn't quite gone according to plan.
+
+480
+00:47:39,520 --> 00:47:44,240
+ So hopefully you'll get that next week, which is a perfectly sensible and realistic pick
+
+481
+00:47:44,240 --> 00:47:47,440
+ of actual books that relate to the topic and everything.
+
+482
+00:47:47,440 --> 00:47:53,440
+ I don't want to, I mean, I don't want to, I'm not going to check, but I suspect you've picked
+
+483
+00:47:53,440 --> 00:48:01,200
+ cricket before. It's possible, I pick cricket every summer. Starting with last summer,
+
+484
+00:48:01,200 --> 00:48:08,160
+ I'm still a new fan of cricket. There are two summers a year because of the joy of hemispheres.
+
+485
+00:48:08,160 --> 00:48:14,160
+ And that was the old thought podcast, and it's goodbye from me. It's goodbye from me.
+
+486
+00:48:14,160 --> 00:48:35,440
+ [Music]
+
+487
+00:48:35,440 --> 00:48:39,440
+ God, there's a lot of news this week. There is, isn't there? I'm never getting to bed.
+
+488
+00:48:40,480 --> 00:48:45,760
+ The theme music for this episode was Surf Shimmy by Kevin McLeod and Combertec.com
+
+489
+00:48:45,760 --> 00:48:48,960
+ used under a Creative Commons attribution 4.0 license.
+
+490
+00:48:48,960 --> 00:48:52,560
+ This podcast will end at the beep. Beep.
+

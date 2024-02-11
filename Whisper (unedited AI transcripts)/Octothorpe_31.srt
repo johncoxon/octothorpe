@@ -1,0 +1,2424 @@
+1
+00:00:00,000 --> 00:00:02,480
+ We are not up to that bit. Stop segueing!
+
+2
+00:00:02,480 --> 00:00:04,240
+ Look, right, we read down...
+
+3
+00:00:04,240 --> 00:00:08,960
+ So there's this list, and we read down the list in order until we get to the end, and that's how we do.
+
+4
+00:00:08,960 --> 00:00:16,320
+ I wish Tush has choose your own adventure. If you would like to talk about Joff-Bex, please skip three paragraphs through the show notes.
+
+5
+00:00:27,360 --> 00:00:33,360
+ Hello everyone, and welcome to the very 31st episode of the OctaThorp podcast.
+
+6
+00:00:33,360 --> 00:00:38,080
+ This episode is going out on the 13th of May 2021. I'm John Coxon.
+
+7
+00:00:38,080 --> 00:00:42,080
+ I'm Alison Scott. I know I'm Liz Batty.
+
+8
+00:00:42,080 --> 00:00:55,760
+ And today we have some letters of comment from our listeners. So firstly, Phil Dyson says that the typical EasterCon tech budget will only buy 40 to 50 Oculus Quest 2 headsets,
+
+9
+00:00:55,760 --> 00:01:06,880
+ and therefore, I assume what he's suggesting is that we have some sort of sharing arrangement where only 40 or 50 people are allowed to move around the EasterCon space at a time, which, you know, could work.
+
+10
+00:01:06,880 --> 00:01:09,520
+ Could be the good ones. Could be the interesting people.
+
+11
+00:01:09,520 --> 00:01:21,040
+ But that's fine. In year one, we have 40 to 50 people. In year two, we buy another 40 to 50 Oculus Quest headsets, and by like year five, we've got quite a lot of EasterCon going.
+
+12
+00:01:21,040 --> 00:01:24,800
+ I mean, even by year five, you've still only got 250, right? Let's not.
+
+13
+00:01:24,800 --> 00:01:26,320
+ Eh, they're gonna get cheaper.
+
+14
+00:01:26,320 --> 00:01:33,280
+ Well, we could do a bit of bring your own device, really, because who would want an Oculus Quest headset that would be passed around the average EasterCon?
+
+15
+00:01:33,280 --> 00:01:46,640
+ I mean, I'm sure that in our world of coronavirus and the associated trauma, people will be very happy to glue things to their face shortly after they have been on someone else's face.
+
+16
+00:01:46,640 --> 00:02:02,000
+ God, that sounds weird. But yes, no, good point. No, but I think it is safe to say that we are not seriously advocating for the purchase of Oculus Quest for everyone unless an EasterCon chair wins the lottery.
+
+17
+00:02:02,000 --> 00:02:10,400
+ However, I've just realized that as a whole market for alien face huggers, skins, for Oculus Quest and other VR headsets.
+
+18
+00:02:10,400 --> 00:02:18,960
+ Hmm, make your technology look more fleshy. Make your technology look more like you've got something hideous stuck to your face.
+
+19
+00:02:18,960 --> 00:02:23,600
+ Right, speaking of something hideous stuck to your face, we have a lot for Chris Garcia.
+
+20
+00:02:23,600 --> 00:02:28,640
+ Now, that is quite the segue. That is quite the segue.
+
+21
+00:02:28,640 --> 00:02:35,120
+ It's okay, though. You won't mind. I promise you won't mind. I'm fairly pro super mind.
+
+22
+00:02:35,120 --> 00:02:43,920
+ He says a lot of good things, but the one that stands out to me is he asks, Robin Hobb is a jigsaw fan. Weird. I don't think she'd be a sore enthusiast.
+
+23
+00:02:43,920 --> 00:02:52,880
+ And that leads me neatly onto. I'm so excited that Spirald is out with Samuel Jackson and Chris Rock. I can't wait. I might actually go see it in the cinema if I get my jabs and it's still in the cinema by then.
+
+24
+00:02:52,880 --> 00:02:59,680
+ Oh boy, oh boy, oh boy, I love the saw movies. I don't know what the rest of the podcast's opinion on the saw movies is.
+
+25
+00:02:59,680 --> 00:03:02,160
+ Are they horror?
+
+26
+00:03:02,160 --> 00:03:03,280
+ Yeah. Yeah.
+
+27
+00:03:03,280 --> 00:03:04,800
+ Yes, I don't know.
+
+28
+00:03:04,800 --> 00:03:05,680
+ Fair enough.
+
+29
+00:03:05,680 --> 00:03:07,120
+ And there are eight of them.
+
+30
+00:03:07,120 --> 00:03:10,960
+ Then eight, eight times. No, no, no, no, no, no, no, no, no, no.
+
+31
+00:03:10,960 --> 00:03:12,160
+ Excellent stuff.
+
+32
+00:03:12,160 --> 00:03:13,600
+ Octa no.
+
+33
+00:03:13,600 --> 00:03:15,360
+ Far her.
+
+34
+00:03:15,360 --> 00:03:22,880
+ Also wrote to us to say that itterbium radically simplified its birth redistribution in October 2018.
+
+35
+00:03:22,880 --> 00:03:26,960
+ So the things we said about that, they did eventually change it.
+
+36
+00:03:26,960 --> 00:03:34,720
+ And she also says that she would have had a lot better a time at confusion if they'd had an FAQ sheet with fun things you can look for in gathertales.
+
+37
+00:03:34,720 --> 00:03:37,520
+ And then we did it again at Follicon.
+
+38
+00:03:37,520 --> 00:03:44,960
+ And those who went to Alison's excellent Follicon will remember that they did "Eis by the EasterCon".
+
+39
+00:03:44,960 --> 00:03:54,880
+ Follicon did "Eis by the EasterCon" as a promotion for Follicon because we were a bit at the time at Ennominate, which was at the Hilton Metropolitan in 2017.
+
+40
+00:03:54,880 --> 00:03:57,520
+ And then we did it again at Follicon.
+
+41
+00:03:57,520 --> 00:04:05,440
+ And I think I have committed to doing one for reclamation and you could easily adapt this for virtual.
+
+42
+00:04:05,440 --> 00:04:14,400
+ I think if you adapted it for virtual, you'd probably want to engage with the committee to find out what they were going to be doing so that you could put it in your thing.
+
+43
+00:04:14,400 --> 00:04:27,120
+ But the idea of "Eis by" for people who are not familiar with English traditions is that you give a small child a book before you go on a journey or some other boring activity
+
+44
+00:04:27,120 --> 00:04:31,680
+ with a long list of things that they could spot on a subject and what's their spot of a sufficient number of them.
+
+45
+00:04:31,680 --> 00:04:37,520
+ They traded in for it was like membership of the big chief "Eis by tribe".
+
+46
+00:04:37,520 --> 00:04:40,880
+ But I don't think we do any of that sort of thing anymore.
+
+47
+00:04:40,880 --> 00:04:44,560
+ So for the EasterCon, we've traded them in for a badge.
+
+48
+00:04:44,560 --> 00:04:46,400
+ And that was what we would do again.
+
+49
+00:04:46,400 --> 00:04:47,680
+ And it was pretty good.
+
+50
+00:04:47,680 --> 00:04:50,800
+ People like it, kids like it, newbies like it.
+
+51
+00:04:51,760 --> 00:04:56,720
+ Lots of people who need the kids on newbies but like collecting things like it. So yeah, it's pretty good.
+
+52
+00:04:56,720 --> 00:04:57,680
+ Do it again.
+
+53
+00:04:57,680 --> 00:05:00,080
+ But you definitely want to do it to virtual con.
+
+54
+00:05:00,080 --> 00:05:04,480
+ So I guess we should probably have a nice spike punctuation and I think I may have given myself an action.
+
+55
+00:05:04,480 --> 00:05:05,120
+ Oh dear.
+
+56
+00:05:05,120 --> 00:05:11,360
+ So yes, "Eis by the badge in ribbon" works perfectly well because as anyone who's seen at WorldCon,
+
+57
+00:05:11,360 --> 00:05:15,520
+ small children with enormous ribbon collections will know they really like collecting ribbons.
+
+58
+00:05:15,520 --> 00:05:20,320
+ And some adults also have enormous ribbon collections and really like collecting ribbons.
+
+59
+00:05:20,320 --> 00:05:26,080
+ I also thought I would just draw out Farah's point from her letter that the extra money they had from the
+
+60
+00:05:26,080 --> 00:05:31,600
+ "Eterbium" bursaries they spent on additional access support, including paying for all of the scooters,
+
+61
+00:05:31,600 --> 00:05:37,760
+ which I think is actually a good place that Eastercons with surplus money can put their money
+
+62
+00:05:37,760 --> 00:05:43,200
+ because they do tend to be quite expensive and for a lot of people it's basically an extra cost
+
+63
+00:05:43,200 --> 00:05:46,320
+ that falls on those with access needs that we can do something about.
+
+64
+00:05:46,320 --> 00:05:48,080
+ Now you may segue.
+
+65
+00:05:48,080 --> 00:05:48,880
+ No, it may sense.
+
+66
+00:05:50,080 --> 00:05:56,160
+ So Roman Orzansky emailed us about Octop 28 and we unfortunately missed it last episode,
+
+67
+00:05:56,160 --> 00:06:01,680
+ but we're going to read this episode, which is that he writes to us about...
+
+68
+00:06:01,680 --> 00:06:03,920
+ "A really contentious issue."
+
+69
+00:06:03,920 --> 00:06:08,240
+ Yeah, he writes to us about the Ditmar Award for Best Spanish Cat.
+
+70
+00:06:08,240 --> 00:06:09,920
+ And he...
+
+71
+00:06:09,920 --> 00:06:11,760
+ and he...
+
+72
+00:06:11,760 --> 00:06:16,400
+ alleges that a cat that is not badger is the best Spanish cat.
+
+73
+00:06:16,400 --> 00:06:22,720
+ And all I can say is that if the owner of said "Cat" wants to donate 70 quid to the League of
+
+74
+00:06:22,720 --> 00:06:26,320
+ Fan Funds to have us change our minds, then we are happy to be bought.
+
+75
+00:06:26,320 --> 00:06:35,360
+ But for now our allegiances must and will always remain with badger until our financial pickles are tickled.
+
+76
+00:06:35,360 --> 00:06:41,120
+ Yeah, we do accept sponsorship though, not so much sponsorship we will become a professional publication.
+
+77
+00:06:41,120 --> 00:06:44,640
+ Oh no, we don't get any of the money.
+
+78
+00:06:44,640 --> 00:06:47,680
+ The fan funds, the fan funds get all the money and we get nothing.
+
+79
+00:06:47,680 --> 00:06:53,120
+ That I feel like we should offer a regular sponsorship as well, you know, it does be clear here.
+
+80
+00:06:53,120 --> 00:06:55,520
+ But only for cats.
+
+81
+00:06:55,520 --> 00:06:57,280
+ Yeah.
+
+82
+00:06:57,280 --> 00:07:02,080
+ B.S, thank you very much Roman. I did not know we will put a link in the show notes
+
+83
+00:07:02,080 --> 00:07:06,720
+ to the File 770 article on the Best Spanish Cat.
+
+84
+00:07:06,720 --> 00:07:12,000
+ And thank you very much to Roman for bringing us to... for bringing that to our attention.
+
+85
+00:07:12,000 --> 00:07:18,560
+ Roman speculates that badger is not so far won an award for Best British Spanish Cat.
+
+86
+00:07:18,560 --> 00:07:22,720
+ And now I'm wondering is there an award for Best British Spanish Cat?
+
+87
+00:07:22,720 --> 00:07:28,080
+ Do we want to speculate on who would be on the shortlist for Best British Spanish Cat?
+
+88
+00:07:28,080 --> 00:07:33,440
+ Bearing in mind that there are, I would guess, semi-official octa-thorpe host cats.
+
+89
+00:07:33,440 --> 00:07:38,320
+ So I think what we really need to do is we need to launch a campaign for the B.S.F.A.
+
+90
+00:07:38,320 --> 00:07:42,400
+ to introduce a new B.S.F.A. award for Best Spanish Cat. I'm sure this will go well.
+
+91
+00:07:42,400 --> 00:07:46,960
+ But if the dipmars can have brilliant awards, then why can't the eastercon?
+
+92
+00:07:46,960 --> 00:07:51,360
+ That sounded like I was casting more shade on the B.S.F.A. than I intended to.
+
+93
+00:07:51,360 --> 00:07:58,160
+ Announcing the octos, the official octa-thorpe awards, there is only one category which is Best
+
+94
+00:07:58,160 --> 00:08:03,200
+ Spanish Cat. Best British Spanish Cat, obviously.
+
+95
+00:08:03,200 --> 00:08:08,000
+ Anyway, yes, let's do octa-thorpe awards because the B.S.F.A. probably won't do a Best
+
+96
+00:08:08,000 --> 00:08:13,520
+ Cat. I think the problem I would have with a Best Spanish Cat award is unless I could vote for
+
+97
+00:08:13,520 --> 00:08:18,880
+ all of the cats. It would be really difficult. I mean, imagine having to like rank cats in rank
+
+98
+00:08:18,880 --> 00:08:25,280
+ order. Yeah, no, that is true. That's fair. So ranking is ranking cats more or less difficult
+
+99
+00:08:25,280 --> 00:08:35,440
+ than herding cats? Yes. Mark Plummer writes an excellent letter of comment in the vein of his
+
+100
+00:08:35,440 --> 00:08:41,920
+ previous letter of comment. Claire and I were playing Arkham Horror the other day. It was my turn.
+
+101
+00:08:41,920 --> 00:08:45,040
+ "Have you got Mrs. Cthulhu, the Great Old One's wife?"
+
+102
+00:08:45,040 --> 00:08:48,560
+ This game is very gendered, said Claire, what with the way all the female characters are
+
+103
+00:08:48,560 --> 00:08:52,240
+ described by reference to their relationship to male characters, surely it should be Ms.
+
+104
+00:08:52,240 --> 00:08:56,720
+ Cthulhu, the Great Old One in her own right. Hey, I'm just following the rules on the box.
+
+105
+00:08:56,720 --> 00:09:00,800
+ It's not as if canonically Cthulhu even has a wife, and is he even a he?
+
+106
+00:09:01,440 --> 00:09:06,880
+ Well, the Cthulhu's do seem to be a family of sorts. Nuktosa and Nukt Kohu are twin daughters
+
+107
+00:09:06,880 --> 00:09:11,120
+ of Cthulhu. Kithaig is a half-sister and Yogshofarth and Shavnigar are
+
+108
+00:09:11,120 --> 00:09:14,560
+ author grandparents. Nug, however, was merely described as a parent of Cthulhu,
+
+109
+00:09:14,560 --> 00:09:19,120
+ and Cthulhu was spawned by pathonogenesis. You're just reading the Wikipedia page now,
+
+110
+00:09:19,120 --> 00:09:24,960
+ aren't you? No, no, it's all here on the box. Anyway, have you? No, my turn. Have you got Mrs.
+
+111
+00:09:24,960 --> 00:09:30,960
+ Ferdinand C. Ashley, the Miss Catonic University professor's wife. Mark. It's very good. I like
+
+112
+00:09:30,960 --> 00:09:38,000
+ to mark, sent it to us during the last live recording, and I giggled on air. But I will say,
+
+113
+00:09:38,000 --> 00:09:41,840
+ one of the things I do adore about the Arkham Horror card game is that it does roughly have
+
+114
+00:09:41,840 --> 00:09:47,280
+ gender parity in its playable characters, and so it is less representative of the
+
+115
+00:09:47,280 --> 00:09:53,040
+ Cthulhu mythos in terms of gender and ethnic representation than, well, it's just good.
+
+116
+00:09:53,040 --> 00:09:58,720
+ They've done good things in that regard. So, you know, hurrah, women and stuff.
+
+117
+00:09:59,680 --> 00:10:03,520
+ So, you're saying that it's less gendered than happy families?
+
+118
+00:10:03,520 --> 00:10:06,080
+ I appreciate that's a low bar. Just checking.
+
+119
+00:10:06,080 --> 00:10:11,680
+ What I like from Mark's letter is that I'm not sure, apart from the name
+
+120
+00:10:11,680 --> 00:10:15,840
+ "Fulu Yogshofarth and Shavnigararth", which I recognise, I'm not sure which of the other ones
+
+121
+00:10:15,840 --> 00:10:18,720
+ he has actually read of Wikipedia and which ones are completely made up.
+
+122
+00:10:18,720 --> 00:10:25,040
+ Oh, I assume it's all 100% true, which one day Mark will use to his advantage
+
+123
+00:10:25,760 --> 00:10:29,760
+ to get me to do something unspeakable, er, into my own gullibility?
+
+124
+00:10:29,760 --> 00:10:34,880
+ I mean, I was going to say that I didn't think you'd practiced all the words before
+
+125
+00:10:34,880 --> 00:10:42,400
+ reading out the lock, and I had practiced Mark's one last time, and I still made mistakes,
+
+126
+00:10:42,400 --> 00:10:47,520
+ because I have great difficulty pronouncing the names of old ones, which causes me a real
+
+127
+00:10:47,520 --> 00:10:49,920
+ problem in my summoning circles, let me sell you.
+
+128
+00:10:52,160 --> 00:10:58,560
+ Nuktosa and Nuktulhu are hard words to say, which is because their old itch monstrosities
+
+129
+00:10:58,560 --> 00:11:07,520
+ that man was not meant to pronounce. So, we've got a knock. Now, so Jonathan Cowie writes to us
+
+130
+00:11:07,520 --> 00:11:12,000
+ and says that he's not really written a lock, he's more written a comment, but because he wrote
+
+131
+00:11:12,000 --> 00:11:16,240
+ the comment in a letter, I would argue it is still a lock, so thank you very much Jonathan, for your
+
+132
+00:11:16,240 --> 00:11:21,360
+ lock. I think Jonathan might be one of these letter purists who believes that it's, unless it's
+
+133
+00:11:21,360 --> 00:11:26,560
+ attached to the email, it's not a letter, or possibly unless it's put in an envelope and put in a,
+
+134
+00:11:26,560 --> 00:11:31,840
+ in the post with a stamp on it, it's not a letter, but I think that's wrong. I think it's a letter
+
+135
+00:11:31,840 --> 00:11:35,840
+ of comment, even if he doesn't think so. Well, that's not going to get us furious, uh,
+
+136
+00:11:35,840 --> 00:11:38,400
+ a letter of the notes or comments from our audience, does it?
+
+137
+00:11:38,400 --> 00:11:43,680
+ To be fair, because Jonathan starts with this is not really a lock, but it's more a knock or just
+
+138
+00:11:43,680 --> 00:11:49,680
+ a see, because see is a single letter, therefore if it is a see, it becomes a letter of comment
+
+139
+00:11:49,680 --> 00:11:54,720
+ by virtue of being only one letter, and so we're right back to locks, but from the opposite meaning.
+
+140
+00:11:54,720 --> 00:12:01,040
+ Anyway, the substance of Jonathan's note of comment is to say that we were a little bit hard on
+
+141
+00:12:01,040 --> 00:12:08,400
+ Kevin Stanley, and we might have been. Kevin, um, is saying that, you know, this is a constitutional
+
+142
+00:12:08,400 --> 00:12:13,360
+ requirement, and therefore he has a good point. Now, I have two reactions to this. Firstly, that is
+
+143
+00:12:13,360 --> 00:12:18,560
+ very true. Um, it is a constitutional requirement. It is right for Kevin to point out. I think part
+
+144
+00:12:18,560 --> 00:12:22,880
+ of our reaction was based on the fact that Kevin did point out that this was a constitutional
+
+145
+00:12:22,880 --> 00:12:28,240
+ requirement, and everyone did say they're there, Kevin. No one, like, no action was taken as a
+
+146
+00:12:28,240 --> 00:12:33,360
+ result of this being pointed out. It's not that Kevin isn't right, although I think Kevin was
+
+147
+00:12:33,360 --> 00:12:36,560
+ right to point out. I don't think we were unfair in how we covered it.
+
+148
+00:12:36,560 --> 00:12:46,160
+ Jonathan points out the disc on says that they allow Winnipeg to appear on the site selection
+
+149
+00:12:46,160 --> 00:12:50,480
+ ballot using their discretion, and he argues, as did Dave Langford and asked, answer all that what
+
+150
+00:12:50,480 --> 00:12:56,960
+ they mean is that they're following the rules. Um, but it does reveal that there is a another bid
+
+151
+00:12:56,960 --> 00:13:04,480
+ for 2023, which is Winnipeg. Um, Winnipeg is a place in Canada, uh, and it is neither Memphis,
+
+152
+00:13:04,480 --> 00:13:11,920
+ nor Chengdu. So how do we feel about Winnipeg peeps? Yeah, I think it's a bit difficult because it's
+
+153
+00:13:11,920 --> 00:13:15,840
+ it's obvious that what we were all taking as a sort of hypothetical argument with, you know,
+
+154
+00:13:15,840 --> 00:13:20,000
+ actual ramifications, um, you know, was, was not as Jonathan puts it, constitutional
+
+155
+00:13:20,000 --> 00:13:23,760
+ predatory, but one was practical implications, which we didn't know two weeks ago when we were
+
+156
+00:13:23,760 --> 00:13:28,400
+ recording this. Um, and so that's how we treated it. And now there is an extra bid, and it seems
+
+157
+00:13:28,400 --> 00:13:33,760
+ like it's worked out in the best possible way, which is there is another bid, and it has been
+
+158
+00:13:33,760 --> 00:13:37,360
+ allowed to be on the ballot with the other two bids on the basis that it has been filed
+
+159
+00:13:37,920 --> 00:13:43,920
+ within what the constitution would consider to be the, the filing date. And so that's all,
+
+160
+00:13:43,920 --> 00:13:50,480
+ all fine as to the bid itself. I think it's unusual to have a bid sort of emerge this close to the
+
+161
+00:13:50,480 --> 00:13:57,840
+ convention. And I'm not sure if there's any backstory as to why it has emerged sort of this
+
+162
+00:13:57,840 --> 00:14:03,840
+ close to the time. I mean, it looks like a reasonable bid, but I haven't, I don't know, I don't have
+
+163
+00:14:03,840 --> 00:14:08,400
+ a lot to say. I haven't looked at it in huge detail. It looks like a bunch of people who've
+
+164
+00:14:08,400 --> 00:14:14,800
+ run some conventions before are going to run a one in Winnipeg. Winnipeg, uh, looks fine. I think
+
+165
+00:14:14,800 --> 00:14:23,680
+ there's like definitely sort of a minimum standard of world com bid. And it seems to meet that by having
+
+166
+00:14:23,680 --> 00:14:29,120
+ like a venue and some hotels and a plan and a committee. I mean, I think one of the things
+
+167
+00:14:29,120 --> 00:14:35,360
+ about the filing requirements for a world con is that they are designed to ensure that a world
+
+168
+00:14:35,360 --> 00:14:41,760
+ con meets a minimum standard bid. And I think this does meet a minimum standard. Um, I think there
+
+169
+00:14:41,760 --> 00:14:51,920
+ was a lot of pressure for a world con bid that was not either Memphis or Chengdu. And I think that
+
+170
+00:14:51,920 --> 00:15:00,480
+ this bid has appeared in response to that pressure. Um, I don't think it's, it doesn't feel like the
+
+171
+00:15:00,480 --> 00:15:07,360
+ best of all possible bids. Um, but I think you can, you can see that there are a lot of people out
+
+172
+00:15:07,360 --> 00:15:14,880
+ there going, I don't want to go to Chengdu either for good or bad. I mean, I think there are a lot
+
+173
+00:15:14,880 --> 00:15:19,440
+ of reasons why people don't want to go, don't want the world con going to Chengdu. And some of those
+
+174
+00:15:19,440 --> 00:15:24,880
+ reasons have some foundation. And some of those reasons have less foundation, but there was certainly
+
+175
+00:15:24,880 --> 00:15:32,000
+ a lot of pressure for a bid that wasn't Chengdu. And I think that the Memphis bid has just not been
+
+176
+00:15:32,000 --> 00:15:39,360
+ good enough. It's not been acting like it was contesting a bid that it might lose. And so therefore
+
+177
+00:15:39,360 --> 00:15:46,720
+ needed to get the word out about what was good and special about it. Um, I think I, I, I talked before
+
+178
+00:15:46,720 --> 00:15:51,840
+ on this podcast quite a lot about conventions needing to have a reasonably good social media
+
+179
+00:15:51,840 --> 00:15:57,360
+ game and needing to talk about what they are doing and why and what the, especially bids, but
+
+180
+00:15:57,360 --> 00:16:03,280
+ conventions generally, why, why you should come to this convention. Um, and I just don't think
+
+181
+00:16:03,280 --> 00:16:09,680
+ Memphis has done that. And so Winnipeg's seen a gap and filled it. No, and I agree. And I think,
+
+182
+00:16:09,680 --> 00:16:16,480
+ I think one of the huge symptoms of that is that I can't tell you what the Memphis logo
+
+183
+00:16:16,480 --> 00:16:21,360
+ looks like. It's Elvis as an alien. It's actually one of the better logos for World Cons.
+
+184
+00:16:21,360 --> 00:16:26,080
+ I can't tell you what the Memphis logo looks like. I can't tell you who's on the committee. I can't
+
+185
+00:16:26,080 --> 00:16:30,240
+ tell you any of these things. And I think that is symptomatic of a bid that is not doing enough
+
+186
+00:16:30,240 --> 00:16:34,720
+ to put itself in front of me and say, look, we're a thing that you need to be thinking about voting
+
+187
+00:16:34,720 --> 00:16:40,320
+ for. And as someone who is a supporting member of the World Cons, um, like it surprised me that
+
+188
+00:16:40,320 --> 00:16:47,200
+ that's the case with every previous World Conbid, like the Tricon bid and the, um, uh, New Zealand
+
+189
+00:16:47,200 --> 00:16:52,160
+ bid and the DC bid, I've, I've been able to conjure up like imagery and associated feelings
+
+190
+00:16:52,160 --> 00:16:57,200
+ with each of those bids. Memphis, I have no connection to at all. Um, so I think, I think that does
+
+191
+00:16:57,200 --> 00:17:02,320
+ speak a lot to how badly they've been doing at, um, kind of putting themselves out there and in
+
+192
+00:17:02,320 --> 00:17:07,920
+ front of people who might vote. And I think this, this Winnipeg bid is a reaction to that. Um, and
+
+193
+00:17:07,920 --> 00:17:13,520
+ I think we had a little bit of this, uh, with confusion. I think, um, I want to speak a little
+
+194
+00:17:13,520 --> 00:17:18,480
+ bit on that, which is that I think Memphis did have somebody at confusion. Um, but because
+
+195
+00:17:18,480 --> 00:17:23,200
+ that meant that they were in the dealer's room and that wasn't, if you weren't in the dealer's
+
+196
+00:17:23,200 --> 00:17:30,000
+ room in gather, you wouldn't see the fan tables. Um, it meant that it was much harder for individuals
+
+197
+00:17:30,000 --> 00:17:36,080
+ representing things to make their presence felt at confusion than it would have been at a physical
+
+198
+00:17:36,080 --> 00:17:40,560
+ Eastercon. So I don't think that's entirely Memphis's fault. They did come and represent the
+
+199
+00:17:40,560 --> 00:17:47,520
+ bid at Eastercon. I think in the form of Adam Beaton, I think, but like, I'm sure I saw stuff from DC
+
+200
+00:17:47,520 --> 00:17:54,240
+ and Conzeland and Troycon on, on, on like social media and stuff. Maybe I'm misremembering. Maybe
+
+201
+00:17:54,240 --> 00:17:58,800
+ I'm underestimating how much of it I did see at physical conventions and maybe the lack of physical
+
+202
+00:17:58,800 --> 00:18:04,480
+ conventions for Memphis to advertise at is a kind of mostly what's happening here.
+
+203
+00:18:04,480 --> 00:18:09,520
+ Maybe Memphis's social media game is not super strong. I have been to a couple of Memphis parties
+
+204
+00:18:09,520 --> 00:18:15,600
+ at World Cons and other cons, which I have enjoyed. So they definitely like had some ground game,
+
+205
+00:18:15,600 --> 00:18:19,760
+ but yeah, I think maybe they just don't have, they don't do a lot of, Memphis maybe just don't
+
+206
+00:18:19,760 --> 00:18:24,400
+ do a lot of tweeting. They don't do a lot to try to kind of get things out there. I mean, I think
+
+207
+00:18:24,400 --> 00:18:30,720
+ if you compare them to like, uh, the one I think which is going incredibly strongly, um, and I
+
+208
+00:18:30,720 --> 00:18:34,640
+ realize Alice in his involvement in this, but I think Glasgow in 2024, you can see them putting
+
+209
+00:18:34,640 --> 00:18:39,520
+ themselves out there at conventions. They've run, they've been running virtual events. They've been,
+
+210
+00:18:39,520 --> 00:18:44,480
+ you know, they have some incredibly strong artwork as well to use to promote themselves. I think
+
+211
+00:18:44,480 --> 00:18:49,680
+ that, that kind of thing is really just plants yourselves and people's memories in a way that,
+
+212
+00:18:49,680 --> 00:18:55,040
+ to be honest, Memphis has failed to do. Um, I'm going to give them a bit of a pass because, um,
+
+213
+00:18:55,760 --> 00:19:01,440
+ you know, it has been a hard year and everyone, um, has different abilities to do things during
+
+214
+00:19:01,440 --> 00:19:06,880
+ the past year. But I think they're also kind of ending up being the sort of the, um, people are
+
+215
+00:19:06,880 --> 00:19:12,800
+ not so much voting for Memphis in all cases as voting for not Chengdu. I think that does end up
+
+216
+00:19:12,800 --> 00:19:18,080
+ hurting them because it ends up that all the discussion ends up being about Chengdu and like,
+
+217
+00:19:18,080 --> 00:19:21,280
+ why people think they should be a World Con in Chengdu and also the many people who think we
+
+218
+00:19:21,280 --> 00:19:25,520
+ shouldn't have a World Con in Chengdu rather than ending up discussing whether we actually think
+
+219
+00:19:25,520 --> 00:19:32,080
+ Memphis would be a better bid. I will say that the one thing about Winnipeg is they do have a big
+
+220
+00:19:32,080 --> 00:19:35,920
+ committee but they actually, they don't have a full kind of code of conduct and things on their
+
+221
+00:19:35,920 --> 00:19:42,400
+ website yet. And I think even if you are doing a very speedy bid, it's good to get up and running
+
+222
+00:19:42,400 --> 00:19:47,840
+ with a code of conduct. They're from the start. Yeah, they, they literally have the stuff you
+
+223
+00:19:47,840 --> 00:19:51,760
+ have to file and nothing else and I'm going to give them a pass for the moment but they need to
+
+224
+00:19:51,760 --> 00:19:55,440
+ get that sorted. I guess they have a lot longer now to ramp up because I keep forgetting the
+
+225
+00:19:55,440 --> 00:19:59,120
+ that they do not have until August ramp up. They don't have until December.
+
+226
+00:19:59,120 --> 00:20:02,960
+ They do also have a page on their website that outlines their commitment to diversity in the
+
+227
+00:20:02,960 --> 00:20:07,200
+ code of conduct gives an example code of conduct that they might piece their code of conduct on
+
+228
+00:20:07,200 --> 00:20:11,840
+ and says that they're working on it with a specific person who is in charge of that effort.
+
+229
+00:20:11,840 --> 00:20:16,880
+ So I don't think it's that they haven't thought about it. I will say Winnipeg is chaired by Terry
+
+230
+00:20:16,880 --> 00:20:24,000
+ Fong and if that name sounds familiar to you, Terry was the co-chair of the Montreal 2017 bid
+
+231
+00:20:24,560 --> 00:20:29,600
+ and I will note that I can't, I can't check whether I'm friends with the people on the Memphis
+
+232
+00:20:29,600 --> 00:20:33,680
+ in 23 committee because as far as I could tell, their website doesn't have the committee on it.
+
+233
+00:20:33,680 --> 00:20:39,760
+ Had a very smuffy conversation a few days ago where we were talking about the World Convids.
+
+234
+00:20:39,760 --> 00:20:47,120
+ So, so one of the smuffy people said maybe the chairs or maybe some of the other people involved
+
+235
+00:20:47,120 --> 00:20:53,840
+ in Memphis were concerned about having full lists of staff online because they had experienced
+
+236
+00:20:53,840 --> 00:21:00,800
+ harassment online in the past and felt that having their staff listed on the website
+
+237
+00:21:00,800 --> 00:21:06,880
+ made harassment of that kind easier and I have quite a lot of sympathy with that. We have we have
+
+238
+00:21:06,880 --> 00:21:12,720
+ quite a few con runners in Britain who have been while running conventions and have decided not to
+
+239
+00:21:12,720 --> 00:21:17,280
+ do it again as a result but I think if you're not going to have your full staff online, I think
+
+240
+00:21:17,280 --> 00:21:22,720
+ you probably need to have something saying why you haven't put your full staff online.
+
+241
+00:21:22,720 --> 00:21:26,400
+ There's a huge difference between having a committee page that says here is the chair we have decided
+
+242
+00:21:26,400 --> 00:21:30,800
+ not to list the rest of our committee because we are concerned about harassment and then I would
+
+243
+00:21:30,800 --> 00:21:33,520
+ have read that and been like oh that's a really good point and like they've thought about it and
+
+244
+00:21:33,520 --> 00:21:37,280
+ it's not just that they haven't done it but because they haven't got that page it just looks like
+
+245
+00:21:37,280 --> 00:21:43,840
+ they're not doing a very good job and that is tough because it might not be the case but like
+
+246
+00:21:43,840 --> 00:21:48,480
+ keep going back to this people don't know how to communicate like just think about the messages
+
+247
+00:21:48,480 --> 00:21:53,520
+ you're sending and like just if you if there is a reason you've done a thing tell people the reason
+
+248
+00:21:53,520 --> 00:21:59,040
+ that you've done the thing and explain what the thing was it's that easy like people usually want
+
+249
+00:21:59,040 --> 00:22:03,920
+ to understand where you are coming from especially if you're running an event as part of a community
+
+250
+00:22:03,920 --> 00:22:08,880
+ like in the UK so if you're having trouble with social media talk about it if you're having trouble
+
+251
+00:22:08,880 --> 00:22:14,480
+ like listing your community because you've got concerns about harassment talk about it talk about
+
+252
+00:22:14,480 --> 00:22:19,280
+ these things with the people in your community and then the community will be there for you and
+
+253
+00:22:19,280 --> 00:22:26,480
+ we'll we're having these discussions don't don't shun it all to back chat and like have it all like
+
+254
+00:22:26,480 --> 00:22:32,320
+ be gossip that doesn't help anyway I know I'm I know I'm silly and like not thinking through the
+
+255
+00:22:32,320 --> 00:22:38,320
+ ramifications but it just it frustrates me because yeah it's not I'm looking forward to seeing all
+
+256
+00:22:38,320 --> 00:22:43,840
+ three of the bids ramp up as we come to the vote um I was just going to say two things one is that
+
+257
+00:22:43,840 --> 00:22:48,880
+ as you mentioned some of the bid committee for Winnipeg in 23 were also part of the committee
+
+258
+00:22:48,880 --> 00:22:55,360
+ bidding for Montreal in 2017 so that they're clearly used to being basically the third bid
+
+259
+00:22:55,360 --> 00:23:01,520
+ come into a into a contested field so it's not a new situation for them so hopefully they did take
+
+260
+00:23:01,520 --> 00:23:06,720
+ something from what I think was quite an unfortunate situation in 2017 where you did sort of have
+
+261
+00:23:06,720 --> 00:23:10,880
+ this thing where it was almost like the US versus Europe are we going to have this big chunk of
+
+262
+00:23:10,880 --> 00:23:16,080
+ European world comes in a row and people were very unsure about that and then we ended up basically
+
+263
+00:23:16,080 --> 00:23:21,600
+ with a sort of two horse race and I think Montreal and Japan a distant third and fourth
+
+264
+00:23:21,600 --> 00:23:28,240
+ um but it's clearly like experience they have and so they'll now be I'm sure thinking about how to
+
+265
+00:23:28,240 --> 00:23:35,600
+ up their game for this next bid I was also going to say I quite like their sort of retro spacey logo
+
+266
+00:23:35,600 --> 00:23:39,280
+ I really like I really like the Winnipeg really like the Winnipeg logo I think it's really cool
+
+267
+00:23:40,000 --> 00:23:46,160
+ um and uh yeah the the website has an awful lot more on it than the Memphis website which is
+
+268
+00:23:46,160 --> 00:23:52,400
+ quite impressive given that Winnipeg arose in the last two weeks and Memphis has had years uh to
+
+269
+00:23:52,400 --> 00:23:57,840
+ get their stuff together. There's also one next thing I wanted to say which is I looked through the um
+
+270
+00:23:57,840 --> 00:24:04,240
+ I looked through all their bid documents and I have never been to Canada but the Winnipeg tourism
+
+271
+00:24:04,240 --> 00:24:09,760
+ documents they have are just like so enthusiastic about please come to Winnipeg which is essentially
+
+272
+00:24:09,760 --> 00:24:14,400
+ this place in Canada that is probably like fifth or sixth of your list of places in Canada you
+
+273
+00:24:14,400 --> 00:24:25,040
+ might ever think going to um way way way lower than that way way I'm being very nice
+
+274
+00:24:25,040 --> 00:24:33,040
+ and it just just feeling it's nice. Well so so um Kevin Kevin said there's an interesting
+
+275
+00:24:33,040 --> 00:24:37,600
+ there's an interesting blog post I think it's on a blog that Kevin Sander wrote so maybe it's on his
+
+276
+00:24:37,600 --> 00:24:43,440
+ dream with um I will try and find it to put in the show notes listeners um but they basically wrote
+
+277
+00:24:43,440 --> 00:24:48,480
+ a thing which says you can't when you're planning a Canadian WorldCon and you know that Seattle
+
+278
+00:24:48,480 --> 00:24:54,400
+ are bidding for the WorldCon two years after there were rules in the Worcester Constitution
+
+279
+00:24:54,400 --> 00:24:59,360
+ which mean that you can't bid a city if it's within a certain distance of the of the host
+
+280
+00:24:59,360 --> 00:25:04,000
+ WorldCon that which site selection will occur and so they couldn't for instance pick Vancouver
+
+281
+00:25:04,000 --> 00:25:09,440
+ because that would have meant Seattle had to fold and so this was a very careful balancing act of
+
+282
+00:25:09,440 --> 00:25:16,800
+ not wanting to automatically lose the Pacific Northwest fandom entirely and so I think I think
+
+283
+00:25:16,800 --> 00:25:24,080
+ there are considerations here along those lines. I do not personally go to WorldCons because I want
+
+284
+00:25:24,080 --> 00:25:32,480
+ to holiday in the city I am sure that Winnipeg contains as every host city does contains enough to
+
+285
+00:25:33,280 --> 00:25:40,320
+ entertain me around a WorldCon that it'll be fine and um as does of course Memphis as does Chengdu
+
+286
+00:25:40,320 --> 00:25:45,920
+ but there's there's a huge benefit to having a tourist board who absolutely loves you and wants
+
+287
+00:25:45,920 --> 00:25:52,800
+ you to be there because if you are in a city that is a major tourist destination you are that a
+
+288
+00:25:52,800 --> 00:25:57,840
+ WorldCon is fairly small beans but if you are the big thing that's going to happen in Winnipeg that
+
+289
+00:25:57,840 --> 00:26:04,720
+ yeah um it's going to be very cool and they will look after us I'm sure. No I will say I used to go
+
+290
+00:26:04,720 --> 00:26:09,680
+ to WorldCons and I used to be like oh it's in a city I really want to go to and then having now
+
+291
+00:26:09,680 --> 00:26:15,280
+ been to five or six WorldCons I'm like oh I don't see the city like I see the restaurants in the city so
+
+292
+00:26:15,280 --> 00:26:19,600
+ that if they've got good restaurants that's nice. A WorldCon is an expensive proposition and to do
+
+293
+00:26:19,600 --> 00:26:24,240
+ tourism on either side means you have to spend for a week of extra hotel which is not a cheap
+
+294
+00:26:24,240 --> 00:26:30,240
+ proposition and I have not yet achieved the wealth privilege I need for that to be a situation in
+
+295
+00:26:30,240 --> 00:26:35,600
+ which I am in. I'm sure lots of WorldCon fans are in a situation for whom that makes sense but
+
+296
+00:26:35,600 --> 00:26:41,200
+ like I've never I've never felt like I can really. I think that's interesting because I am more of
+
+297
+00:26:41,200 --> 00:26:46,000
+ the mind that actually I will probably go to fewer WorldCons but do more tourism around them because
+
+298
+00:26:46,000 --> 00:26:52,560
+ that seems like a more kind of more economical and you know marginally more environmentally friendly
+
+299
+00:26:52,560 --> 00:26:58,560
+ option. It depends what your aim I don't go I go to WorldCons to see lots of people I like
+
+300
+00:26:58,560 --> 00:27:05,360
+ and once all the people I like I like have left the city staying there. We've had this we've litigated
+
+301
+00:27:05,360 --> 00:27:10,880
+ this in previous episodes but I think I think it is clear that for me conventions are my focus in
+
+302
+00:27:10,880 --> 00:27:16,080
+ convention going is much more social than it is for you I think Liz and so it doesn't surprise me that
+
+303
+00:27:16,080 --> 00:27:23,120
+ that I if I prioritize going to more WorldCons to get that and prioritizing the social experience
+
+304
+00:27:23,120 --> 00:27:29,200
+ at those WorldCons that doesn't seem out of character with like our attitudes to conventions
+
+305
+00:27:29,200 --> 00:27:32,960
+ is that I hope I'm not being super I'm really worried I'm being super harsh I don't intend to
+
+306
+00:27:32,960 --> 00:27:37,360
+ be super harsh do you think that's fair or do you think I'm off base? I think I think it's a bit harsh
+
+307
+00:27:37,360 --> 00:27:43,440
+ but I think the issue is that I would even if I had unlimited wealth and holiday I would probably
+
+308
+00:27:43,440 --> 00:27:48,080
+ never go to every single WorldCon. Oh no I definitely would. Yeah I know 100%
+
+309
+00:27:48,080 --> 00:27:57,200
+ yeah no I live like like an 18 hour flight from the US right now it is a big thing yeah I might
+
+310
+00:27:57,200 --> 00:28:03,920
+ actually I would go to a foreign convention each year saving the planet not being a not being a
+
+311
+00:28:03,920 --> 00:28:09,680
+ preventer for that so it wouldn't necessarily be work on but I do like WorldCons a lot. If I had
+
+312
+00:28:09,680 --> 00:28:16,320
+ unlimited money and the ability to travel without causing climate change you know but but I have a
+
+313
+00:28:16,320 --> 00:28:20,880
+ point about shoulder days for WorldCons that is new and we haven't talked about before and I really
+
+314
+00:28:20,880 --> 00:28:25,600
+ want to talk about which is that if you go for a couple of weeks with a WorldCon in the middle
+
+315
+00:28:25,600 --> 00:28:31,360
+ or even more than a couple of weeks you do actually get to have those social events around the WorldCon
+
+316
+00:28:31,360 --> 00:28:36,000
+ with a fairly random set of people who are also doing this plus the people who live in the city
+
+317
+00:28:36,000 --> 00:28:41,760
+ and you get to do it in a much more relaxed way because I find WorldCons themselves to be quite
+
+318
+00:28:41,760 --> 00:28:49,600
+ frenetic so you know for Helsinki we flew up to the Arctic Circle after the WorldCon and we met
+
+319
+00:28:49,600 --> 00:28:54,720
+ numerous fans who we had not previously met who were also in Rovid Yemi and you could tell because
+
+320
+00:28:54,720 --> 00:29:01,040
+ they were the only tourists in the Arctic Circle in August because you know it's not a sensible place
+
+321
+00:29:01,040 --> 00:29:07,280
+ to go really but it was really nice meeting fans in an environment that really wasn't connected
+
+322
+00:29:07,280 --> 00:29:11,760
+ to the WorldCon at all and was a little bit I've talked a lot before about randomicity that one
+
+323
+00:29:11,760 --> 00:29:16,880
+ of the things I like about fandom is that you have random conversations not just ones with people
+
+324
+00:29:16,880 --> 00:29:22,320
+ you know very well already. It's a good point because one of my favorite conventions was
+
+325
+00:29:22,320 --> 00:29:28,480
+ Shamrakhan and that was like a similar thing where it was like all the same people but after the World
+
+326
+00:29:28,480 --> 00:29:36,160
+Con and Waychiller so I'm definitely I guess I'm kind of not giving enough credit to how nice it can be
+
+327
+00:29:36,160 --> 00:29:41,360
+ to go to like associated events before and afterwards but again that's not I don't think I'm coming
+
+328
+00:29:41,360 --> 00:29:48,400
+ out that from the tourism angle I mean but then you know the I mean I think part of the other
+
+329
+00:29:48,400 --> 00:29:53,280
+ thing is that although I love traveling I also quite like my house and like my creature comforts so
+
+330
+00:29:54,000 --> 00:29:59,600
+ being away for longer I find more disruptive but maybe that I don't know I don't know there's
+
+331
+00:29:59,600 --> 00:30:04,240
+ probably a lot of different it might be this is quite complicated and like we all have slightly
+
+332
+00:30:04,240 --> 00:30:10,240
+ different relationships with it yeah which is why we do a podcast and normally we can talk to
+
+333
+00:30:10,240 --> 00:30:15,440
+ each other during the podcast rather than monologuing in three separate places well that's not let's
+
+334
+00:30:15,440 --> 00:30:20,160
+ not get carried away for the listener who is wondering why we might be more monologuing than usual my
+
+335
+00:30:20,160 --> 00:30:25,920
+ internet is not happy with me today I don't know why I don't know why I did to offend the internet
+
+336
+00:30:25,920 --> 00:30:33,360
+ gods something that we forgot to say when we were reading Jonathan's log is that when Kevin made his
+
+337
+00:30:33,360 --> 00:30:40,640
+ point about the Wussfuss constitution and the requirements it has for bid deadlines he was
+
+338
+00:30:40,640 --> 00:30:45,760
+ clearly doing so because he knew about the Winnipeg bid because he is a the Wussfuss advisor to the
+
+339
+00:30:45,760 --> 00:30:52,560
+ Winnipeg bid and he is on their webpage but he didn't mention that and I think it would have
+
+340
+00:30:52,560 --> 00:30:57,840
+ changed the conversation quite a lot if he had just said here is all the information I have here
+
+341
+00:30:57,840 --> 00:31:03,120
+ is what I think here is what has led me to say it and and here is why it's important and then we
+
+342
+00:31:03,120 --> 00:31:10,400
+ could have an conversation with all of the information which would have been more informed and I kind
+
+343
+00:31:10,400 --> 00:31:18,800
+ of appreciate that he has stated this is a constitutional problem because there is there is an argument
+
+344
+00:31:18,800 --> 00:31:23,360
+ that it's important to treat this as a constitutional problem rather than as a but there is this bid
+
+345
+00:31:23,360 --> 00:31:29,760
+ that needs to file because you know it is an important point even if there isn't a bid but I
+
+346
+00:31:29,760 --> 00:31:35,200
+ will say a reaction to that it doesn't look a whole like Kevin decided that this was a problem he
+
+347
+00:31:35,200 --> 00:31:41,280
+ wanted to highlight until there was a reason that it needed highlighting and so I kind of think that's
+
+348
+00:31:41,280 --> 00:31:46,160
+ a little bit disingenuous on his part to be like I expect everyone else to consider this in isolation
+
+349
+00:31:46,160 --> 00:31:50,320
+ from the principle of the thing but the reason I am bringing it up is not for those reasons and
+
+350
+00:31:50,320 --> 00:31:55,120
+ I think you know again just less secrecy just tell people what you're saying and why you're saying
+
+351
+00:31:55,120 --> 00:32:00,560
+ it and then everyone can chat and it's just so much easier I think you're right that they could have
+
+352
+00:32:00,560 --> 00:32:05,440
+ been more open because let's face it the question of like when the site selection deadline and what
+
+353
+00:32:05,440 --> 00:32:13,040
+ the risk of this constitution says is pretty inside baseball for Worldcon fans and I find it hard to
+
+354
+00:32:13,040 --> 00:32:19,200
+ believe that the Winnipeg bid has been so stealthy that a bunch of people didn't already know about
+
+355
+00:32:19,200 --> 00:32:24,720
+ it anyway so there's a lot of people discussing this probably were also aware of the subtext and
+
+356
+00:32:24,720 --> 00:32:28,240
+ then there'd be a bunch of people like us who were sort of just outside those circles who were not
+
+357
+00:32:28,240 --> 00:32:32,880
+ aware of the subtext and yeah then yeah I'm just like yeah you may as well say look I know there's
+
+358
+00:32:32,880 --> 00:32:38,320
+ another bid in the works and they they would like to bid for it and they'd like to be fiddly on the
+
+359
+00:32:38,320 --> 00:32:43,440
+ bid rather than kind of doing this here is my hypothetical question and two weeks later it will
+
+360
+00:32:43,440 --> 00:32:48,400
+ be revealed that it was not very hypothetical I want to make the point that I made to John when he
+
+361
+00:32:48,400 --> 00:32:56,640
+ raised this in conversation which is that Winnipeg was accepted because it was known con runners doing
+
+362
+00:32:56,640 --> 00:33:05,040
+ it and they had done all the things but it is not obvious to me that a bid that did not have those
+
+363
+00:33:05,040 --> 00:33:11,600
+ qualities would have been given the discretion of disc on and things like that should not be
+
+364
+00:33:11,600 --> 00:33:17,760
+ discretion of disc on they should be yes yeah that there should be there should be a procedure
+
+365
+00:33:17,760 --> 00:33:23,680
+ and rules and there were so I am kind of on Kevin's side a bit no and I think you're right I think
+
+366
+00:33:23,680 --> 00:33:29,040
+ if I was Kevin I would have said here is a thing there are two reasons this is important one is
+
+367
+00:33:29,040 --> 00:33:35,840
+ the principle and the fact that we can't be seen to allow our mates to file past the deadline
+
+368
+00:33:35,840 --> 00:33:41,760
+ when we might not allow people who are not known to us to do the same but secondly there is this
+
+369
+00:33:41,760 --> 00:33:46,880
+ bid so there is also a practical component to this problem because then you can have the discussion
+
+370
+00:33:46,880 --> 00:33:52,160
+ of like there's a principle there's a practical reason it's important that we don't make the
+
+371
+00:33:52,160 --> 00:33:54,720
+ decision based purely on the practical reason because that would be potentially
+
+372
+00:33:54,720 --> 00:34:01,440
+ it would potentially be gatekeeping in a way so but I do take the point and I think that is
+
+373
+00:34:01,440 --> 00:34:06,400
+ probably what I think that was probably the reason Kevin did it in this order I'm just skeptical
+
+374
+00:34:06,400 --> 00:34:10,400
+ that that was the best way to do it from the perspective of the wider conversation especially
+
+375
+00:34:10,400 --> 00:34:14,400
+ when you do a podcast that comes out every two weeks and by the time the episode dropped
+
+376
+00:34:14,400 --> 00:34:18,880
+ with a bigger announced by the time we recorded they hadn't very unhelpful if everyone could
+
+377
+00:34:18,880 --> 00:34:23,920
+ just make sure that they make big news announcements in line with octa thought recording schedules
+
+378
+00:34:23,920 --> 00:34:28,240
+ that would be that would be good yeah I think we should put a change to that effect in the
+
+379
+00:34:28,240 --> 00:34:32,720
+ wussfuss constitution John I think you could solve this problem if you just edited octa thought
+
+380
+00:34:32,720 --> 00:34:40,080
+ overnight and released it the next day then we would never be scooped anyway it's been a good run
+
+381
+00:34:40,080 --> 00:34:45,680
+ 31 episodes five hours so fast the year I think we're about to come up on the second year of
+
+382
+00:34:45,680 --> 00:34:51,520
+ billing so it's a good time to decide to stop anyway it was lovely uh lovely podcasting with you both
+
+383
+00:34:51,520 --> 00:35:04,720
+ in other news oh I think Winnipeg was being kept quite close to its chest I think though
+
+384
+00:35:04,720 --> 00:35:08,640
+ there were probably more people in the know than we know but but plenty of people were not
+
+385
+00:35:08,640 --> 00:35:13,440
+ were surprised by it and it's clear that that was partly because they wanted to
+
+386
+00:35:14,640 --> 00:35:18,960
+ not announce it not like anyone know it was happening until it was a fully formed properly
+
+387
+00:35:18,960 --> 00:35:25,200
+ filed with all its bits together bid and we've talked before on this podcast about how
+
+388
+00:35:25,200 --> 00:35:31,520
+ the benefits the virtues of surprise are not perhaps as great as the people who are
+
+389
+00:35:31,520 --> 00:35:36,480
+ pulling the surprise together think they are and I think this may be one of those cases as well
+
+390
+00:35:36,480 --> 00:35:42,960
+ that that surprise that's a new bid well yeah what what did you get out of that much real
+
+391
+00:35:42,960 --> 00:35:48,080
+ I don't think you got anything out of that I mean they they certainly didn't get you knowing
+
+392
+00:35:48,080 --> 00:35:51,600
+ what their host city was so that that is an important point
+
+393
+00:35:51,600 --> 00:35:55,840
+ and get more drill what did you get out of that Winnipeg
+
+394
+00:35:55,840 --> 00:36:02,240
+ I actually recorded the pickup for you you didn't need to just it was just a simple slip
+
+395
+00:36:02,240 --> 00:36:05,920
+ of the tug you don't need to put it everything I say no but I was stupid
+
+396
+00:36:05,920 --> 00:36:10,640
+ that's going in the episode
+
+397
+00:36:12,080 --> 00:36:16,720
+ oh but that that's like at least 50% of my enjoyment of the podcast so
+
+398
+00:36:16,720 --> 00:36:24,320
+ Alison says stupid things because she's old her her disability and age and not reflect
+
+399
+00:36:24,320 --> 00:36:30,960
+ and not appreciated by her younger co-hosts oh it's not I also sometimes flood my lines
+
+400
+00:36:30,960 --> 00:36:36,400
+ uh uh listen as it tells me to say that in the script you'll be having to know
+
+401
+00:36:36,400 --> 00:36:40,640
+ I've got a good takeaway can I do a good takeaway oh yes to it to please yes
+
+402
+00:36:40,640 --> 00:36:46,880
+ speaking of conventions where we fail to run them very stealthily at all before we announce them
+
+403
+00:36:46,880 --> 00:36:54,960
+ we're doing punctuation too yeah hey yes so if you are thinking surely they already announced
+
+404
+00:36:54,960 --> 00:37:03,760
+ punctuation too yeah we're really bad at secrets listeners uh but you can join today for 0.5 or 10
+
+405
+00:37:03,760 --> 00:37:08,960
+ pounds we don't mind which and we actually do have a official line on this which is that punctuation
+
+406
+00:37:08,960 --> 00:37:14,160
+ to cost a fiver and if that's a problem for you then pay us nothing and you can join and if you'd
+
+407
+00:37:14,160 --> 00:37:18,640
+ like to give us more support um pay us a tenor that's all great and all these memberships are
+
+408
+00:37:18,640 --> 00:37:26,480
+ exactly the same yes um to the point where obviously in the uh obviously in the conridge.org um csv
+
+409
+00:37:26,480 --> 00:37:31,600
+ it does tell us um how much you paid but in the database we're actually looking at doesn't
+
+410
+00:37:31,600 --> 00:37:37,360
+ so it really is yeah the the treasury the treasury knows because we have to make numbers add up
+
+411
+00:37:37,360 --> 00:37:44,720
+ but otherwise it's nobody knows yes we're doing punctuation too a a we've already talked about
+
+412
+00:37:44,720 --> 00:37:54,000
+ it a little bit um but we're excited we currently have drum roll please 81 members
+
+413
+00:37:54,000 --> 00:38:03,120
+ punctuation one had 200 members um so we're almost halfway to our previous um total we have
+
+414
+00:38:03,120 --> 00:38:08,000
+ 62 people in the UK four in Ireland four in Australia three in the USA two in the Netherlands one in
+
+415
+00:38:08,000 --> 00:38:13,280
+ Germany sorry two in Germany one in Thailand one in Poland one in Canada and one in Sweden uh
+
+416
+00:38:13,280 --> 00:38:18,560
+ that adds up to 81 listeners so we've made some changes this time uh you can pay without
+
+417
+00:38:18,560 --> 00:38:24,320
+ subscribing to a WordPress website uh for some reason so that's good there's a discord we have
+
+418
+00:38:24,320 --> 00:38:30,160
+ launched a non-biding consultative referendum so if you have thoughts on what platforms we use to
+
+419
+00:38:30,160 --> 00:38:36,320
+ get our program content to your eyes and ears please fill that in because we are keen to understand
+
+420
+00:38:36,320 --> 00:38:41,280
+ what people like and what people don't like about two options that we are mulling over for our
+
+421
+00:38:41,280 --> 00:38:49,120
+ program delivery method and we're also keen to speak to people who are people who use
+
+422
+00:38:49,120 --> 00:38:54,000
+ subtitling uh because we would like to try and implement some subtitling if we have the budget
+
+423
+00:38:54,000 --> 00:38:58,560
+ and we'd be keen to understand how people use subtitling and what they would find useful
+
+424
+00:38:58,560 --> 00:39:04,080
+ and also please fill in if you'd like to volunteer fill in the volunteering form uh I will put links
+
+425
+00:39:04,080 --> 00:39:10,000
+ to all of these things in the show notes the volunteering form is also a good way to tell us
+
+426
+00:39:10,000 --> 00:39:14,480
+ about program items you would like to see even if you would not necessarily like to be on those
+
+427
+00:39:14,480 --> 00:39:19,360
+ items so please come and tell us what you would like to see and we will do our best to come up with
+
+428
+00:39:19,360 --> 00:39:27,520
+ an entertaining program full of things you want to see yay we've already got one program item no
+
+429
+00:39:27,520 --> 00:39:32,800
+ two program items are they the opening ceremony and the closing ceremony job we've already got
+
+430
+00:39:32,800 --> 00:39:40,160
+ and the beer tasting seven program items in place so get your program ideas and include
+
+431
+00:39:40,160 --> 00:39:46,080
+ the fan fun fortune in that oh no eight program ideas already in place look all i'm saying is get
+
+432
+00:39:46,080 --> 00:39:53,040
+ your program items in now because we are we are programmed to the gills people like for a convention
+
+433
+00:39:53,040 --> 00:39:58,400
+ that doesn't really have a program list yet we have we have come up with a lot of ideas
+
+434
+00:39:58,400 --> 00:40:03,440
+ most of them it should be admitted by virtue of looking at the punctuation one program and saying
+
+435
+00:40:03,440 --> 00:40:08,720
+ yeah we could do that again yeah no join it's good it's going to be good um yeah you're very
+
+436
+00:40:08,720 --> 00:40:16,000
+ encouraged um yes tell all your friends yes definitely um especially tell your friends who do
+
+437
+00:40:16,000 --> 00:40:20,160
+ interesting things and would like to come and do them at punctuation because that'll be cool
+
+438
+00:40:20,160 --> 00:40:24,800
+ i think we would like to maintain roughly the same program balance we had at punctuation one
+
+439
+00:40:24,800 --> 00:40:30,720
+ which is we had some serious and interesting and thoughtful discussions and talks and also
+
+440
+00:40:30,720 --> 00:40:35,840
+ some fun stuff and some things that are just of general interest fans and also we're quite happy
+
+441
+00:40:35,840 --> 00:40:43,440
+ to have interactive items and workshops and ways of getting people engaged over zoom or over other
+
+442
+00:40:43,440 --> 00:40:48,880
+ platforms so basically anything along any of those lines that you would be interested in put them
+
+443
+00:40:48,880 --> 00:40:52,960
+ in our form otherwise i'll have to come up with them all and then the program will be of interest
+
+444
+00:40:52,960 --> 00:40:58,800
+ entirely to me so yeah it got an incentive i am particularly i'm hoping the convention will be a
+
+445
+00:40:58,800 --> 00:41:03,920
+ little bit bigger this time though we are arguing in committee about exactly how large that might be
+
+446
+00:41:03,920 --> 00:41:08,320
+ but if it's bigger we may need slightly more program so that's a thing and i would like to have
+
+447
+00:41:08,320 --> 00:41:14,480
+ more things that involve people getting outside into the fresh air as we will be in june and you
+
+448
+00:41:14,480 --> 00:41:19,840
+ might not want to be stuck in your house all weekend so if you think about ways in which people can
+
+449
+00:41:19,840 --> 00:41:24,880
+ engage online whilst also engaging with their local community that will be a good idea as well
+
+450
+00:41:24,880 --> 00:41:32,160
+ sitting on video all the time is not necessarily the best thing for uh well being and that's why
+
+451
+00:41:32,160 --> 00:41:37,920
+ we record oct thought entirely in the garden speaking as somebody who's just about 23 hours a day on
+
+452
+00:41:37,920 --> 00:41:44,320
+ video for a year
+
+453
+00:41:44,480 --> 00:41:50,400
+ there is a facebook group called joth uh joth is a place for comrunners to go which is less
+
+454
+00:41:50,400 --> 00:41:56,960
+ clique than smoth and so to really emphasize that they gave it a similarly impenetratable acronym
+
+455
+00:41:56,960 --> 00:42:01,680
+ that doesn't make any sense unless you know the in-joke it stands for journeyman of fandom and that
+
+456
+00:42:01,680 --> 00:42:07,120
+ comes from uh masquerade where the journeyman category is one step below the master category
+
+457
+00:42:07,120 --> 00:42:12,960
+ and so smoth becomes joth secret master of fandom to journeyman of fandom haraa inclusivity
+
+458
+00:42:13,680 --> 00:42:18,960
+ it's a facebook group uh it's it's basically the smoth's list but on facebook instead of on email
+
+459
+00:42:18,960 --> 00:42:22,720
+ and perhaps a little bit more positive actually perhaps a lot more positive
+
+460
+00:42:22,720 --> 00:42:28,080
+ perhaps a great deal more positive um and it's a really good place to have discussions
+
+461
+00:42:28,080 --> 00:42:34,160
+ it's it is um it's much broader group i think it's probably the world's largest
+
+462
+00:42:34,160 --> 00:42:41,840
+ con-running group that is focused on fan run conventions and it includes enormous numbers of
+
+463
+00:42:41,840 --> 00:42:48,320
+ different sorts of conventions so you'll find people who are running small anime conventions in
+
+464
+00:42:48,320 --> 00:42:54,960
+ pig f*ck Nebraska on joth i think you'll find it's it's it's pronounced pig-fook
+
+465
+00:42:54,960 --> 00:43:00,720
+ liz listeners liz if anyone came to autofop live and saw liz's reaction to my pun
+
+466
+00:43:00,720 --> 00:43:07,200
+ the i laugh very hard at imagine liz has made that face and then you have you have liz i think
+
+467
+00:43:07,200 --> 00:43:11,280
+ it's a bit rude about nebraska but i'd be far out of love into nebraska so
+
+468
+00:43:11,280 --> 00:43:19,200
+ i'm sure nebraskas lovely i've i would love to go nebraskan listeners please invite us to your
+
+469
+00:43:19,200 --> 00:43:25,360
+ homes once we're all back vaccinated no but in in all seriousness um joth is a fantastic community
+
+470
+00:43:25,360 --> 00:43:30,240
+ and is a fantastically to go if you're interested at all in con-running and is a super friendly bunch
+
+471
+00:43:30,240 --> 00:43:37,120
+ of people and allyson has been reading it yeah it's a super friendly bunch of people as a rule
+
+472
+00:43:37,120 --> 00:43:42,160
+ but that doesn't mean every single one of them is super friendly and it has recently been it has
+
+473
+00:43:42,160 --> 00:43:48,160
+ had a pair of discussions one is um what what is wrong with the wollcon which is such a large
+
+474
+00:43:48,160 --> 00:43:53,200
+ topic that you could podcast about it every fortnight for a year and not still not scratch the
+
+475
+00:43:53,200 --> 00:43:58,000
+ surface of things that you can say and the other one of which is tell us all the great things about
+
+476
+00:43:58,000 --> 00:44:03,040
+ wollcon and then there are some sort kind of sub threads about what should wollcons and other
+
+477
+00:44:03,040 --> 00:44:08,560
+ large conventions be doing to improve their inclusivity and they have just explored a vast number of
+
+478
+00:44:08,560 --> 00:44:14,560
+ things but one of the things that has happened in that is that some people say traditional fans are
+
+479
+00:44:14,560 --> 00:44:23,520
+ not welcoming enough of new fans and their their needs and the traditional fans some of them go
+
+480
+00:44:23,520 --> 00:44:29,680
+ but we all welcoming look at all this stuff we do and don't necessarily bridge the gap and some
+
+481
+00:44:29,680 --> 00:44:34,960
+ of the other ones go oh no really you can't be a proper fan unless you've read the enchanted
+
+482
+00:44:34,960 --> 00:44:39,680
+ duplicator here i'll link to it and this is it okay i may be exaggerating slightly but not very much
+
+483
+00:44:39,680 --> 00:44:45,280
+ and i wanted to talk about the business meeting which is that the one of the ways in which
+
+484
+00:44:45,280 --> 00:44:51,920
+ wollcons are incredibly uninclusive is that they say ah if you really want to change the way things
+
+485
+00:44:51,920 --> 00:44:59,360
+ are done the solution is to spend many months immersing yourself in wuswis manushi i and then
+
+486
+00:44:59,360 --> 00:45:04,960
+ spend your wollcon which you've traveled halfway around the world to attend and it's all of your
+
+487
+00:45:04,960 --> 00:45:09,680
+ holiday money for three years um i'm just talking about myself for other people it might be all
+
+488
+00:45:09,680 --> 00:45:14,000
+ of their holiday money for five years or all of their holiday money for six months you know people
+
+489
+00:45:14,000 --> 00:45:20,000
+ vary but you've spent a very considerable outlay of time and energy to get to you want to spend that
+
+490
+00:45:20,000 --> 00:45:26,320
+ weekend in a business meeting and that seems like an unreasonable ask to me and that is one of the
+
+491
+00:45:26,320 --> 00:45:31,440
+ reasons why wuswiswis changes much more slowly than the wollcon in general and here is my
+
+492
+00:45:31,440 --> 00:45:36,320
+ small suggestion which is that we take the wuswiswis business meeting out of the wollcon and we put
+
+493
+00:45:36,320 --> 00:45:41,600
+ it on a different weekend and we put it online and we open it up to everyone who is a supporting
+
+494
+00:45:41,600 --> 00:45:50,080
+ member of the current or future seated wollcons or the immediate past previous wollcon and um i
+
+495
+00:45:50,080 --> 00:45:53,280
+ don't want to do this myself so i'd like some wuswis nerds to agree with me please
+
+496
+00:45:53,280 --> 00:46:00,560
+ but i wanted to say it to doctor thought so that wuswis nerds might start thinking about this
+
+497
+00:46:00,560 --> 00:46:06,400
+ yeah so i have thoughts about the wuswis business meeting here are my thoughts i appreciate that
+
+498
+00:46:06,400 --> 00:46:11,520
+ there are a lot of people um i don't i don't know it's i don't think it's a majority of the
+
+499
+00:46:11,520 --> 00:46:15,680
+ membership of any given wollcon but there is even a lot of people for whom the wuswis business
+
+500
+00:46:15,680 --> 00:46:22,480
+ meeting is a highlight of their wollcon and they really enjoy going to the wiswis meeting and um
+
+501
+00:46:22,480 --> 00:46:30,080
+ and i'm aware that the things i'm about to say might make the wollcon worse for those people
+
+502
+00:46:30,080 --> 00:46:34,240
+ because um if you separate the wiswis meeting with the wollcon and the business meeting is one of
+
+503
+00:46:34,240 --> 00:46:38,240
+ your favorite parts of the wollcon you're going to have a wuswollcon and that's hard
+
+504
+00:46:38,240 --> 00:46:44,960
+ and i'm aware and i don't i'm aware of that i say all of this being aware that this is one of the
+
+505
+00:46:44,960 --> 00:46:53,040
+ side effects of my proposal having said that i think i would argue that effective and fair governance
+
+506
+00:46:53,040 --> 00:47:00,000
+ of wiswis is more important than the enjoyment of those people at the business meeting at wollcon
+
+507
+00:47:00,000 --> 00:47:06,240
+ i think if the way the business meeting is structured at the moment disenfranchises people who do not
+
+508
+00:47:06,240 --> 00:47:13,760
+ find the business meeting enjoyable that is a problem and i think if it disenfranchises people who
+
+509
+00:47:14,560 --> 00:47:20,720
+ have spent a higher percentage of their yearly holiday budget ongoing to wollcon say the five
+
+510
+00:47:20,720 --> 00:47:24,880
+ year people in turn of the six months people i think those people are less likely to want to spend
+
+511
+00:47:24,880 --> 00:47:30,720
+ that time at the business meeting and so i think it inadvertently also hugely privileges the wealthy
+
+512
+00:47:30,720 --> 00:47:36,000
+ to involvement in the governance of wollcon which i feel is a huge problem and so i completely
+
+513
+00:47:36,000 --> 00:47:41,920
+ agree with what alison has just said i feel quite strongly that the business meeting should not be
+
+514
+00:47:41,920 --> 00:47:47,040
+ at the wollcon and i think that it made a lot of sense in a world where we couldn't do this stuff
+
+515
+00:47:47,040 --> 00:47:54,800
+ online but now we can and i feel like we can uh we can i think assume that anyone who can afford
+
+516
+00:47:54,800 --> 00:48:01,120
+ to go to a wollcon can also afford to have internet for one weekend a year and maybe that's unfair
+
+517
+00:48:01,120 --> 00:48:05,600
+ and privileged of me but i i think that's a reasonable perspective if it's not please write in
+
+518
+00:48:06,320 --> 00:48:12,320
+ as someone who can only attend the wollcon occasionally i've been in fandom since 1984
+
+519
+00:48:12,320 --> 00:48:18,480
+ 1983 so that's about that's more years than i care to think about and i've doubled in with my
+
+520
+00:48:18,480 --> 00:48:24,720
+ tenth wollcon so i think one year in three is not a bad representation of that the the wuss
+
+521
+00:48:24,720 --> 00:48:30,080
+ was business meeting has gone to some lengths to get its self put on to get itself available online
+
+522
+00:48:30,080 --> 00:48:37,760
+ to view when it's a physical event and i do watch it religiously when i don't go to the wollcon but i
+
+523
+00:48:37,760 --> 00:48:42,800
+ can't what i can't get to it when i'm am at the wollcon because i'm not the wollcon so i would i
+
+524
+00:48:42,800 --> 00:48:48,000
+ think this is a change that's time whose time has come my thoughts on the wollcon business meeting i
+
+525
+00:48:48,000 --> 00:48:54,000
+ have done on several podcasts in the past and i'm not going to repeat them because that will also
+
+526
+00:48:54,000 --> 00:48:59,440
+ bore the pants of people who are listening to our back catalogue right now but i would say two things
+
+527
+00:48:59,440 --> 00:49:05,200
+ one is that i think uh something that's becoming evident from a lot of sort of meetings and conferences
+
+528
+00:49:05,200 --> 00:49:13,280
+ i go to is that sometimes having people kind of ask questions by text chat during remote meetings
+
+529
+00:49:13,280 --> 00:49:18,160
+ actually works really well because you can see who is also going to make the same point as you
+
+530
+00:49:18,160 --> 00:49:22,960
+ and you can upvote them or you can agree with them and it seems to work really nicely basically for
+
+531
+00:49:22,960 --> 00:49:28,240
+ having a bit of discussion going on and i wonder if there are opportunities for things like that
+
+532
+00:49:28,240 --> 00:49:31,440
+ which could be seized at this sort of virtual business meeting
+
+533
+00:49:31,440 --> 00:49:40,560
+ that we are not at the moment i i realize that this is basically impossible to do well i assume
+
+534
+00:49:40,560 --> 00:49:45,440
+ it is impossible to do under Roberts Rules of Order i don't know because every time i think about
+
+535
+00:49:45,440 --> 00:49:50,720
+ looking at Roberts Rules of Order uh my eyes glaze over and i follow suit i also did have a thought
+
+536
+00:49:50,720 --> 00:49:55,760
+ that maybe we should try using Roberts Rules of Order on the podcast in order that we all get a
+
+537
+00:49:55,760 --> 00:50:03,920
+ word in edgeways maybe that would improve thoughts i think to be fair like if me and
+
+538
+00:50:03,920 --> 00:50:10,960
+ allison just did some breathing exercises beforehand that might also help uh maybe that certainly from
+
+539
+00:50:10,960 --> 00:50:16,560
+ my perspective i feel if you feel that Roberts Rules of Order is being used at the wuss for
+
+540
+00:50:16,560 --> 00:50:22,400
+ business meeting to allow the quieter and less privilege to get a word in edgeways you are very
+
+541
+00:50:22,400 --> 00:50:28,000
+ wrong about that that was almost a tightly joke i also do not feel that i am the quiet and under
+
+542
+00:50:28,000 --> 00:50:32,240
+ privilege role on this podcast i feel i am more of the long suffering one on this podcast that's my
+
+543
+00:50:32,240 --> 00:50:40,480
+ role it cut that out i feel like oh hang on i'm not going to i'm going to put it in i didn't actually
+
+544
+00:50:40,480 --> 00:50:45,280
+ include the bit about i think Roberts Rules of Order does not help there are people in wuss first
+
+545
+00:50:45,280 --> 00:50:50,960
+ whose job it is to explain how wuss first works to people who are not used to wuss first and they
+
+546
+00:50:50,960 --> 00:50:59,120
+ are seen as people who do a good job of um bringing people into wuss first and making it accessible
+
+547
+00:50:59,120 --> 00:51:04,880
+ but i would argue that if you are a group of people that has instituted a method for discussion
+
+548
+00:51:04,880 --> 00:51:12,080
+ which is so impenetrable it needs a guide then volunteering to be that guide does not mean you're
+
+549
+00:51:12,080 --> 00:51:18,400
+ part of the solution it's a bit like if i set fire to allison and then offered to put her out i would
+
+550
+00:51:18,400 --> 00:51:25,200
+ still be the person that set fire to allison and me offering to put her out again would not make
+
+551
+00:51:25,200 --> 00:51:33,760
+ me the good guy i i may disagree with you here because i think it is it is a town meeting democracy
+
+552
+00:51:33,760 --> 00:51:41,760
+ and if you're going to do it that way you probably do need a set of rules of order to do it with
+
+553
+00:51:41,760 --> 00:51:50,720
+ and i am not convinced that switching switching sets would necessarily solve the problem so i mean
+
+554
+00:51:50,720 --> 00:51:56,080
+ i i do think it's they are more bureaucratic than they need to be anyway and it does need to be much
+
+555
+00:51:56,080 --> 00:52:00,800
+ easier for people but i think actually making it a much making it over a weekend so there was time
+
+556
+00:52:00,800 --> 00:52:05,840
+ for people to have much more elaborate discussions all things and then have a main have cleaneries
+
+557
+00:52:05,840 --> 00:52:11,360
+ that bring things back to plenary i think would just make it much better it would be a much better
+
+558
+00:52:11,360 --> 00:52:16,160
+ event and people and it would be very nerdy but you could then just come along because you knew that
+
+559
+00:52:16,160 --> 00:52:20,000
+ the particular thing you're interested in will be being talked about at three o'clock on friday
+
+560
+00:52:20,000 --> 00:52:25,600
+ or whatever and it would just be so much better i actually thought the podcast where we nerd out
+
+561
+00:52:25,600 --> 00:52:33,040
+ about was for 25 minutes while everyone cries it's a very world connie podcast in it it wasn't
+
+562
+00:52:33,040 --> 00:52:36,960
+ going to be and then it was um but you know these things happen
+
+563
+00:52:37,120 --> 00:52:42,560
+ [Music]
+
+564
+00:52:42,560 --> 00:52:46,400
+ so i'm just going to say marx later said everyone should stop what they're doing and watch the
+
+565
+00:52:46,400 --> 00:52:52,960
+ mitchell's versus the machines which is a an animated movie about a family who saved the world from
+
+566
+00:52:52,960 --> 00:52:58,160
+ robots and um and we watched last night and it's pretty good so it will amuse you for one hour and
+
+567
+00:52:58,160 --> 00:53:04,080
+ 54 minutes and that is my ox thought recommendation for popular culture for you to do in the next week
+
+568
+00:53:04,080 --> 00:53:07,760
+ i think everyone should i think we should institute this what should we do what should we do next
+
+569
+00:53:07,760 --> 00:53:13,360
+ week to amuse ourselves this and john what should i what should i listen us do to amuse themselves
+
+570
+00:53:13,360 --> 00:53:20,400
+ for two hours or less read a book uh you should read "Do Transition Baby" by tori peters um which is
+
+571
+00:53:20,400 --> 00:53:24,720
+ one of the i think the women's prize nominees this year and it's very good it's sort of a
+
+572
+00:53:24,720 --> 00:53:31,520
+ uh a comedy of manners uh and now i'm on the spot and now i don't know how to describe it anyway
+
+573
+00:53:31,520 --> 00:53:35,520
+ you should go and read obviously with that you should go and read "Do Transition Baby" by tori peters
+
+574
+00:53:35,520 --> 00:53:40,160
+ and i'll put a link in the show notes because i really enjoyed it i just finished reading a
+
+575
+00:53:40,160 --> 00:53:46,160
+ wizard's guide to defensive baking by teaking fisher which is the pen name of Ursula Vernon it is
+
+576
+00:53:46,160 --> 00:53:53,200
+ on the hugo ballots i thoroughly enjoyed it it might take slightly more than two hours uh to read
+
+577
+00:53:53,200 --> 00:53:57,360
+ i don't know how long it took me me to read uh but i really enjoyed it so that would be my
+
+578
+00:53:57,360 --> 00:54:02,240
+ recommendation for the week oh and taskmaster if you haven't watched taskmaster go and watch taskmaster
+
+579
+00:54:02,240 --> 00:54:06,800
+ all of it now you can do that in under a week i think you got two weeks till the next one you've
+
+580
+00:54:06,800 --> 00:54:12,160
+ got two weeks to watch all of taskmaster yeah go for it that was the octa thought podcast and it's
+
+581
+00:54:12,160 --> 00:54:30,880
+ goodbye from me it's goodbye from me and it's goodbye from me
+
+582
+00:54:30,880 --> 00:54:41,760
+ Memphis' logo which i think is actually a pretty good logo now i've seen it it's really good
+
+583
+00:54:41,760 --> 00:54:48,880
+ and does not suffer from the does not suffer from the rocket ship phallic rocket ship issue that so
+
+584
+00:54:48,880 --> 00:54:56,400
+ many work on logos no true um but i thought when you were talking about the um how good
+
+585
+00:54:56,400 --> 00:55:04,240
+ Glasgow in 2024's branding is you might have linked to the Star Wars day version of the Glasgow
+
+586
+00:55:04,240 --> 00:55:10,240
+ in 2024 logo because that's really cool i'm not sure i saw that change in 2023 also have a funky
+
+587
+00:55:10,240 --> 00:55:16,560
+ panda logo as of course they would mmm if someone could post if someone could link to the Star Wars
+
+588
+00:55:16,560 --> 00:55:21,040
+ Glasgow logo that would also be very good because i was like i said i didn't think i've seen it okay
+
+589
+00:55:21,040 --> 00:55:27,440
+ i've put a link to twitter that's got the amazing Glasgow Star Wars day logo in it so you can look
+
+590
+00:55:27,440 --> 00:55:35,200
+ at it down go oh that's amazing yeah so Glasgow very good branding seraphelics um seraphelics is
+
+591
+00:55:36,080 --> 00:55:42,320
+ um i don't know i am i should disclaim that the fact that i am working on the
+
+592
+00:55:42,320 --> 00:55:50,720
+ um Glasgow in 2024 bid but the but seraphelics is fan art is amazing and she is also a finalist in
+
+593
+00:55:50,720 --> 00:55:58,240
+ fan artist Hugo and as far as i'm concerned her work is really exemplifies what i think fan art
+
+594
+00:55:58,240 --> 00:56:06,400
+ should be like which is that it is it surrounds and is of the fan activity that it is being done for
+
+595
+00:56:06,400 --> 00:56:13,520
+ it surrounds us and penetrates us it binds the fan act together can probably talk about this we
+
+596
+00:56:13,520 --> 00:56:19,280
+ should talk about fan art and what fan art is some other time but um i think it's very good logo
+
+597
+00:56:19,280 --> 00:56:25,840
+ and i think her other work for Glasgow has been very good it is my second favorite seraphelics logo
+
+598
+00:56:26,560 --> 00:56:34,480
+ after after the lulzine logo but i am biased oh did she do the lulzine logo yeah you are very biased
+
+599
+00:56:34,480 --> 00:56:40,160
+ she did i am very biased i can't even remember what the lulzine logos like that i feel very guilty
+
+600
+00:56:40,160 --> 00:56:47,360
+ imagine a beautiful piece of seraphelics art with word lulzine written on it i mean when you have
+
+601
+00:56:47,360 --> 00:56:53,280
+ beautiful art i sort of feel like less is more in a way with stuff that you put on top of the
+
+602
+00:56:53,280 --> 00:57:00,720
+ vu didn't i do a logo for you once john yeah yep retweet for a fancy and you never actually did
+
+603
+00:57:00,720 --> 00:57:07,520
+ no i did it just not basically it was in the house in days where twitter was still something
+
+604
+00:57:07,520 --> 00:57:14,480
+ you could read all of uh which as it turns out is less true these days um oh yeah or would want to
+
+605
+00:57:14,480 --> 00:57:21,760
+ read all of yeah anyway the theme music for this episode was fanfare for space by kevin mcloud at
+
+606
+00:57:21,760 --> 00:57:30,480
+ ncompetech.com used under a creative commons attribution 3.0 license this podcast will end at the beep beep
+

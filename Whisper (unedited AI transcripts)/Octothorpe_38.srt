@@ -1,0 +1,2060 @@
+1
+00:00:00,000 --> 00:00:03,480
+ But as if this is your first episode, I recommend going and listening to a different one first,
+
+2
+00:00:03,480 --> 00:00:04,480
+ because this one is mad.
+
+3
+00:00:04,480 --> 00:00:19,160
+ One, two, three.
+
+4
+00:00:19,160 --> 00:00:28,160
+ Hello everyone and welcome to the very 38th episode of Octa Thought, a podcast for science fiction
+
+5
+00:00:28,160 --> 00:00:31,440
+ and science fiction fandom. I'm Jon Coxon.
+
+6
+00:00:31,440 --> 00:00:32,480
+ I'm Alison Scott.
+
+7
+00:00:32,480 --> 00:00:33,520
+ And I'm Liz Batty.
+
+8
+00:00:33,520 --> 00:00:41,120
+ This episode is coming to you on the 19th of August 2021, and we are live and in person and next to
+
+9
+00:00:41,120 --> 00:00:43,520
+ each other sitting around a table.
+
+10
+00:00:43,520 --> 00:00:45,040
+ Big hug!
+
+11
+00:00:45,040 --> 00:00:46,400
+ Yeah!
+
+12
+00:00:46,400 --> 00:00:49,200
+ No actual hugging, because we haven't got that face yet.
+
+13
+00:00:49,200 --> 00:00:52,240
+ But also, yeah, like, you know.
+
+14
+00:00:52,240 --> 00:00:53,680
+ Yeah, I'm not sure about this.
+
+15
+00:00:53,680 --> 00:00:55,360
+ Yeah, you slide those.
+
+16
+00:00:56,160 --> 00:00:59,120
+ But we are at the same place. It is amazing.
+
+17
+00:00:59,120 --> 00:01:00,240
+ It is good.
+
+18
+00:01:00,240 --> 00:01:01,360
+ It's very nice.
+
+19
+00:01:01,360 --> 00:01:02,160
+ It's very nice.
+
+20
+00:01:02,160 --> 00:01:06,080
+ We went to a brewery, yes, Tain drank beer that people brought to us.
+
+21
+00:01:06,080 --> 00:01:10,160
+ Yeah, we sat in a bar with lots of people in a bar.
+
+22
+00:01:10,160 --> 00:01:10,560
+ It was good.
+
+23
+00:01:10,560 --> 00:01:14,880
+ Well, sit for us in a bar and then as soon as we finished recording this podcast,
+
+24
+00:01:14,880 --> 00:01:18,480
+ we're going to go back to the same brewery where our friends already are,
+
+25
+00:01:18,480 --> 00:01:21,520
+ and we're going to drink more beer in the same brewery, which is why
+
+26
+00:01:21,520 --> 00:01:25,120
+ today's episode is going to be very, very short.
+
+27
+00:01:25,120 --> 00:01:25,680
+ Every minute.
+
+28
+00:01:25,680 --> 00:01:26,320
+ Okay, thank you.
+
+29
+00:01:26,320 --> 00:01:29,120
+ That's just not too full of 30 minutes.
+
+30
+00:01:29,120 --> 00:01:30,800
+ I'm being else's daughter.
+
+31
+00:01:30,800 --> 00:01:33,840
+ So we have to apologise also.
+
+32
+00:01:33,840 --> 00:01:35,200
+ The sound quality will be rubbish.
+
+33
+00:01:35,200 --> 00:01:37,280
+ We will interrupt each other a lot and it is very short.
+
+34
+00:01:37,280 --> 00:01:40,480
+ But that is because we are recording lower eve before going to a brewery.
+
+35
+00:01:40,480 --> 00:01:45,120
+ We have one studio mic in the middle of the room set to omni.
+
+36
+00:01:45,120 --> 00:01:45,520
+ It is true.
+
+37
+00:01:45,520 --> 00:01:47,920
+ It means that John and I are going to be even louder than usual,
+
+38
+00:01:47,920 --> 00:01:51,040
+ and Liz is going to be even quieter than usual despite the fact
+
+39
+00:01:51,040 --> 00:01:54,960
+ that we have put the right narrow list and don't make it.
+
+40
+00:01:54,960 --> 00:01:55,840
+ Hee hee hee.
+
+41
+00:01:55,840 --> 00:01:59,360
+ We will lean in and then my chair creaks.
+
+42
+00:01:59,360 --> 00:02:00,240
+ So I won't do that.
+
+43
+00:02:00,240 --> 00:02:00,960
+ No, it's good.
+
+44
+00:02:00,960 --> 00:02:03,600
+ Chair creaking is all part of how all the sausage is made.
+
+45
+00:02:03,600 --> 00:02:08,080
+ I don't know if people remember the chair creaking from early octa-thorps,
+
+46
+00:02:08,080 --> 00:02:11,920
+ but maybe people miss it maybe then he'll stop jig for the sign of my chair going.
+
+47
+00:02:11,920 --> 00:02:16,720
+ So there is a concert warning for this episode,
+
+48
+00:02:16,720 --> 00:02:20,720
+ which is that we are likely to be vague and unfocused,
+
+49
+00:02:20,720 --> 00:02:22,240
+ even more so than usual.
+
+50
+00:02:22,240 --> 00:02:24,880
+ Yes, we would like to have a photo for the last episode.
+
+51
+00:02:24,880 --> 00:02:30,800
+ We should have put a content warning in for discussion of entrenched social injustice,
+
+52
+00:02:30,800 --> 00:02:35,440
+ and also I should have used the word "golly" instead of the word I actually used when discussing
+
+53
+00:02:35,440 --> 00:02:39,360
+ "eaninged light inspection", which I am truly sorry and has been bleeped now
+
+54
+00:02:39,360 --> 00:02:42,560
+ after a listener suggested so doing.
+
+55
+00:02:42,560 --> 00:02:45,360
+ I mean the listener was Liz, but Liz did listen, so it counts.
+
+56
+00:02:45,360 --> 00:02:49,440
+ Didn't we get a lot from disgusted of Tumbridge Wells?
+
+57
+00:02:49,440 --> 00:02:53,120
+ No, I consulted a crew of people.
+
+58
+00:02:53,120 --> 00:02:58,080
+ I think of them in my head as the woke squad, which is whenever I need to know whether
+
+59
+00:02:58,080 --> 00:03:01,280
+ I've done something wrong, I contact a certain group of people and say, "Hello,
+
+60
+00:03:01,280 --> 00:03:05,280
+ I have a question about why I should have done in this situation and they tell me."
+
+61
+00:03:05,280 --> 00:03:05,760
+ And so...
+
+62
+00:03:05,760 --> 00:03:09,680
+ So I use my children for that function.
+
+63
+00:03:09,680 --> 00:03:15,440
+ Whenever I think, "Is this something that is going to be adequate for today's social
+
+64
+00:03:15,440 --> 00:03:18,320
+ lorries?" I ask my daughter and she says, "No."
+
+65
+00:03:18,320 --> 00:03:21,680
+ Or sometimes, "No, mum."
+
+66
+00:03:21,680 --> 00:03:25,360
+ Or sometimes, "Mum, why are you even asking?"
+
+67
+00:03:25,360 --> 00:03:29,600
+ "John, you're really loud. I haven't seen you for like two years or something.
+
+68
+00:03:29,600 --> 00:03:33,360
+ I don't think I realized how loud you can be."
+
+69
+00:03:33,360 --> 00:03:39,200
+ Zoom, Zoom automatically modulates my life to normal human levels, but in person my
+
+70
+00:03:39,200 --> 00:03:40,400
+ laugh is too loud.
+
+71
+00:03:40,400 --> 00:03:42,160
+ It is ear splitting.
+
+72
+00:03:42,160 --> 00:03:43,200
+ It's amazing.
+
+73
+00:03:43,200 --> 00:03:46,560
+ Yeah, so this is actually bleeding slightly from Ollieur at the moment.
+
+74
+00:03:46,560 --> 00:03:52,960
+ People have on multiple previous occasions found where I live by going to the street and
+
+75
+00:03:52,960 --> 00:03:55,360
+ listening for my laugh and just knocking on that door.
+
+76
+00:03:55,360 --> 00:04:01,520
+ Like in three different places, different people have employed that method for finding my house.
+
+77
+00:04:01,520 --> 00:04:03,040
+ So I know my laugh is loud.
+
+78
+00:04:03,040 --> 00:04:08,960
+ And if I go to Radio 4 recordings, I can hear myself on the recording in the laugh.
+
+79
+00:04:08,960 --> 00:04:15,840
+ That's like when live music is recorded at festivals or folk clubs that I'm at,
+
+80
+00:04:15,840 --> 00:04:20,240
+ I can often hear my voice in the edit when they're singing on to the chorus.
+
+81
+00:04:20,240 --> 00:04:25,280
+ I'm like, "Oh, that is Nature's Way of Telling You. You are singing too loudly on choruses.
+
+82
+00:04:25,280 --> 00:04:30,080
+ You should stop COVID-19 was also Nature's Way of Telling Me. I sang too loudly on choruses."
+
+83
+00:04:30,080 --> 00:04:31,840
+ No, you should sing along to chorus very loudly.
+
+84
+00:04:31,840 --> 00:04:32,960
+ That's what the chorus is for.
+
+85
+00:04:32,960 --> 00:04:34,480
+ I mean, not right now, obviously.
+
+86
+00:04:34,480 --> 00:04:37,280
+ It doesn't take a lot.
+
+87
+00:04:37,280 --> 00:04:41,680
+ But anyway, yeah, me and Alison are loud.
+
+88
+00:04:41,680 --> 00:04:44,000
+ Who knew?
+
+89
+00:04:44,000 --> 00:04:45,840
+ I did.
+
+90
+00:04:45,840 --> 00:04:48,000
+ Yes, that is very funny.
+
+91
+00:04:48,000 --> 00:04:49,920
+ Are we now doing a person online?
+
+92
+00:04:49,920 --> 00:04:51,440
+ Yeah.
+
+93
+00:04:51,440 --> 00:04:54,640
+ Well, online I can pull my headphones away from my ears.
+
+94
+00:04:54,640 --> 00:04:56,560
+ And it works and that doesn't work.
+
+95
+00:04:56,560 --> 00:04:59,280
+ Well, you can wear headphones while we record.
+
+96
+00:04:59,280 --> 00:05:00,640
+ I could wear earplugs, George.
+
+97
+00:05:00,640 --> 00:05:04,080
+ None of us are wearing headphones today.
+
+98
+00:05:04,080 --> 00:05:06,480
+ We just all have naked ears.
+
+99
+00:05:07,440 --> 00:05:09,360
+ Yes, we do have naked ears.
+
+100
+00:05:09,360 --> 00:05:10,880
+ But oh yeah, we're in person.
+
+101
+00:05:10,880 --> 00:05:11,360
+ It's weird.
+
+102
+00:05:11,360 --> 00:05:13,600
+ We went to a brewery called Double Barreled.
+
+103
+00:05:13,600 --> 00:05:14,720
+ So thank you to them.
+
+104
+00:05:14,720 --> 00:05:18,640
+ And thank you very much to Steve and Julia for hosting this punctuation
+
+105
+00:05:18,640 --> 00:05:24,880
+ committee meeting and also making very good food and bringing beers and coffee and
+
+106
+00:05:24,880 --> 00:05:27,040
+ just generally being fantastic hosts.
+
+107
+00:05:27,040 --> 00:05:32,160
+ Yes, generally this podcast is fueled by Double Barrel Brewery and also Steve and Julie.
+
+108
+00:05:32,160 --> 00:05:32,640
+ And his family.
+
+109
+00:05:32,640 --> 00:05:33,440
+ Happy tears.
+
+110
+00:05:33,440 --> 00:05:35,200
+ Julie is tartafled.
+
+111
+00:05:35,200 --> 00:05:36,160
+ Tartafled.
+
+112
+00:05:36,160 --> 00:05:37,280
+ That's so good.
+
+113
+00:05:37,280 --> 00:05:40,000
+ I understand you're going to the brewery this afternoon.
+
+114
+00:05:40,000 --> 00:05:47,600
+ So I thought we might have a dish made from bacon and potatoes and cheese and cream for lunch.
+
+115
+00:05:47,600 --> 00:05:51,120
+ I mean, I've got to say this morning I watched Johnny to full English breakfast
+
+116
+00:05:51,120 --> 00:05:53,600
+ followed by a hash brown sandwich.
+
+117
+00:05:53,600 --> 00:05:59,360
+ Followed by three pano chocolat which will be in the in the chapter art listeners of this
+
+118
+00:05:59,360 --> 00:06:00,080
+ chapter.
+
+119
+00:06:00,080 --> 00:06:01,200
+ They're only mini.
+
+120
+00:06:01,200 --> 00:06:02,320
+ They're only mini.
+
+121
+00:06:02,320 --> 00:06:03,440
+ I think but I did.
+
+122
+00:06:03,440 --> 00:06:05,440
+ I got two slices of toast and I had two hash browns.
+
+123
+00:06:05,440 --> 00:06:07,360
+ I had some mushrooms and I met myself for toast sandwich.
+
+124
+00:06:07,360 --> 00:06:08,080
+ It was very nice.
+
+125
+00:06:08,080 --> 00:06:08,880
+ I have no regrets.
+
+126
+00:06:08,880 --> 00:06:11,440
+ I recommend it to anyone who likes hash browns and toast.
+
+127
+00:06:11,440 --> 00:06:14,560
+ Well, we'll like we'll be having anything to talk about because we've got no topic.
+
+128
+00:06:14,560 --> 00:06:16,880
+ And all we're going to do is talk about what we're doing this weekend,
+
+129
+00:06:16,880 --> 00:06:18,960
+ which is being in person with all the people.
+
+130
+00:06:18,960 --> 00:06:19,440
+ Yes.
+
+131
+00:06:19,440 --> 00:06:20,880
+ You have no idea.
+
+132
+00:06:20,880 --> 00:06:22,000
+ It is so much fun.
+
+133
+00:06:22,000 --> 00:06:27,280
+ People, although we were inside in the bar, the bar is very large.
+
+134
+00:06:27,280 --> 00:06:29,760
+ It's like an industrial unit.
+
+135
+00:06:29,760 --> 00:06:31,120
+ I mean, it is an industrial unit.
+
+136
+00:06:31,120 --> 00:06:31,680
+ It's a brewery.
+
+137
+00:06:31,680 --> 00:06:32,240
+ Yeah.
+
+138
+00:06:32,240 --> 00:06:36,800
+ This is using the like in the modern down with the young people way where I mean is.
+
+139
+00:06:36,800 --> 00:06:42,720
+ I'm using like to mean the brewery is like a large industrial unit.
+
+140
+00:06:42,720 --> 00:06:47,600
+ Sorry, I didn't assume you were using like in the modern young person way.
+
+141
+00:06:47,600 --> 00:06:50,400
+ I should be using it in the like regular old person.
+
+142
+00:06:50,400 --> 00:06:53,120
+ Regular actually English English uses for a year.
+
+143
+00:06:53,120 --> 00:06:53,840
+ Well, you know, I do.
+
+144
+00:06:53,840 --> 00:07:02,160
+ So the brewery is an industrial unit with benches and beer and the other thing about
+
+145
+00:07:02,160 --> 00:07:05,920
+ seeing John in person, which I haven't done since we started doing octa-thorb.
+
+146
+00:07:05,920 --> 00:07:09,440
+ And I feel like I didn't know John as well.
+
+147
+00:07:09,440 --> 00:07:10,000
+ No, yeah.
+
+148
+00:07:10,000 --> 00:07:15,360
+ And I had not realized that he just he interjects the most appalling
+
+149
+00:07:15,360 --> 00:07:16,800
+ thumbs into conversation.
+
+150
+00:07:16,800 --> 00:07:17,760
+ Yeah, yeah, do.
+
+151
+00:07:17,760 --> 00:07:21,440
+ In the manner of somebody who hasn't been trained out of it by the mates yet.
+
+152
+00:07:21,440 --> 00:07:22,720
+ Well, my wife finds it funny.
+
+153
+00:07:22,720 --> 00:07:23,760
+ She encourages me.
+
+154
+00:07:23,760 --> 00:07:25,040
+ So I've been all on her.
+
+155
+00:07:25,040 --> 00:07:25,680
+ Love you, honey.
+
+156
+00:07:25,680 --> 00:07:26,240
+ Yeah.
+
+157
+00:07:26,240 --> 00:07:32,080
+ So, um, yes, we are in person and this episode, we're not going to do letters of comment.
+
+158
+00:07:32,080 --> 00:07:36,800
+ Gonna say we're going to say all the letters of comment on both episode
+
+159
+00:07:36,800 --> 00:07:40,480
+ did 7 and 36 for a bumper podcast next time.
+
+160
+00:07:40,480 --> 00:07:44,240
+ I was going to talk about the brewery and say it was, although we were in person
+
+161
+00:07:44,240 --> 00:07:51,280
+ and with all of us on a table, it's huge and has high ceilings and is very well ventilated and lofty.
+
+162
+00:07:51,680 --> 00:07:54,560
+ And so it felt very comfortable.
+
+163
+00:07:54,560 --> 00:07:59,120
+ And in terms of Stephen Julia's house, we all did lateral flow tests and we have all been
+
+164
+00:07:59,120 --> 00:08:03,600
+ at least double vaccinated and we are being super careful in the house.
+
+165
+00:08:03,600 --> 00:08:10,960
+ So, you know, and hey, you know, we've been petting cats because there's cats and they are
+
+166
+00:08:10,960 --> 00:08:13,520
+ less scared than they were last time we were here.
+
+167
+00:08:13,520 --> 00:08:19,440
+ So one of them is still pretty scared and one of them is scared, but we'll do things for food
+
+168
+00:08:19,440 --> 00:08:23,200
+ and the other one is scared, but we'll, if you start playing with them, they go,
+
+169
+00:08:23,200 --> 00:08:26,400
+ "Oh, this is a scary monster who dang was a cat toy."
+
+170
+00:08:26,400 --> 00:08:27,760
+ No, it's good. It is very good.
+
+171
+00:08:27,760 --> 00:08:29,840
+ So we're being in person is fun.
+
+172
+00:08:29,840 --> 00:08:35,280
+ I feel like being in the same place as other people and having fun together is fun.
+
+173
+00:08:35,280 --> 00:08:36,880
+ It is. You are not wrong.
+
+174
+00:08:36,880 --> 00:08:40,880
+ It is. I mean, I still feel, personally, I still feel slightly cautious about it
+
+175
+00:08:40,880 --> 00:08:43,600
+ whenever I end up in a group largely than about four.
+
+176
+00:08:43,600 --> 00:08:48,160
+ Yeah. So this is a group of nine, which is my biggest group yet indoors, definitely.
+
+177
+00:08:48,160 --> 00:08:48,720
+ Yes.
+
+178
+00:08:48,720 --> 00:08:52,160
+ I mean, it's not mine. And also I did, I mean, it's been not as long for me.
+
+179
+00:08:52,160 --> 00:08:55,760
+ I mean, I went to a New Year's Eve party where there were like 20, 30 people,
+
+180
+00:08:55,760 --> 00:09:00,480
+ because that was all perfectly fine. And within, you know, the restrictions at the time.
+
+181
+00:09:00,480 --> 00:09:06,640
+ So it's not been quite as long, but I am feeling slightly cautious even with vaccinations.
+
+182
+00:09:06,640 --> 00:09:07,600
+ That's fair.
+
+183
+00:09:07,600 --> 00:09:11,440
+ So, but it's, yeah, it's going to be interesting to see where we go from here.
+
+184
+00:09:11,440 --> 00:09:12,480
+ Because the next day...
+
+185
+00:09:12,480 --> 00:09:13,040
+ The brewery.
+
+186
+00:09:13,040 --> 00:09:15,360
+ Well, where we go from here is going to be back to the brewery.
+
+187
+00:09:15,360 --> 00:09:15,920
+ Yeah, it's not beer.
+
+188
+00:09:15,920 --> 00:09:17,040
+ Where we'll go to drink beer.
+
+189
+00:09:17,040 --> 00:09:20,080
+ And oh, the other thing I was going to say about the brewery is that
+
+190
+00:09:20,080 --> 00:09:23,840
+ since the last time I went and hung out in a pub with my mates over the afternoon,
+
+191
+00:09:23,840 --> 00:09:28,000
+ they've introduced a process where by you sit at a table and you just order the beer
+
+192
+00:09:28,000 --> 00:09:31,120
+ that you want on your phone and they bring it to you.
+
+193
+00:09:31,120 --> 00:09:34,160
+ And that means that you can order the beer that you want and pay for it.
+
+194
+00:09:34,160 --> 00:09:40,480
+ And there are no rounds. There's just a kind of beer drinking system.
+
+195
+00:09:40,480 --> 00:09:40,720
+ Yeah.
+
+196
+00:09:40,720 --> 00:09:41,280
+ Yeah.
+
+197
+00:09:41,280 --> 00:09:41,920
+ It's good.
+
+198
+00:09:41,920 --> 00:09:44,400
+ They unfortunately email you...
+
+199
+00:09:44,400 --> 00:09:45,200
+ Twice.
+
+200
+00:09:45,200 --> 00:09:50,880
+ A list of exactly what beer you bought, which when you're looking at it afterwards,
+
+201
+00:09:50,880 --> 00:09:57,120
+ I think I prefer the pre-COVID methodism of waking up in the morning.
+
+202
+00:09:57,120 --> 00:09:59,520
+ What we used to call it a visit from the gorilla.
+
+203
+00:09:59,520 --> 00:10:01,920
+ Are you familiar with this?
+
+204
+00:10:01,920 --> 00:10:02,160
+ No.
+
+205
+00:10:02,160 --> 00:10:03,120
+ Don't do so.
+
+206
+00:10:03,120 --> 00:10:03,520
+ Okay.
+
+207
+00:10:03,520 --> 00:10:05,920
+ But Steve, you've just tagged us on Untacked.
+
+208
+00:10:05,920 --> 00:10:06,080
+ Yeah.
+
+209
+00:10:06,080 --> 00:10:07,040
+ He's just...
+
+210
+00:10:07,040 --> 00:10:11,680
+ You wake up feeling that you've had a visit from the gorilla by means that something,
+
+211
+00:10:11,680 --> 00:10:15,840
+ something very large and unfriendly, has beaten you around the head,
+
+212
+00:10:15,840 --> 00:10:18,000
+ rifle your wallet and peed in your mouth.
+
+213
+00:10:18,000 --> 00:10:18,560
+ I mean, that's...
+
+214
+00:10:18,560 --> 00:10:20,880
+ Yeah, that is not inaccurate.
+
+215
+00:10:20,880 --> 00:10:23,120
+ So now you get a set of emails going,
+
+216
+00:10:23,120 --> 00:10:27,360
+ "I am your friendly gorilla and here are the seven beers you bought yesterday after the evening."
+
+217
+00:10:27,360 --> 00:10:28,000
+ Yeah.
+
+218
+00:10:28,000 --> 00:10:29,600
+ We should pay for them.
+
+219
+00:10:29,600 --> 00:10:32,000
+ We should discuss the summer of fun.
+
+220
+00:10:32,000 --> 00:10:32,880
+ Oh, yeah.
+
+221
+00:10:32,880 --> 00:10:35,200
+ This is actually this weekend is my summer of fun.
+
+222
+00:10:35,200 --> 00:10:40,080
+ So listeners, astute listeners will have noticed that this episode and the preceding two episodes
+
+223
+00:10:40,080 --> 00:10:42,960
+ had a different theme song to our usual.
+
+224
+00:10:42,960 --> 00:10:45,120
+ And that is because it being summer,
+
+225
+00:10:45,120 --> 00:10:47,440
+ we're all busier than we would usually be.
+
+226
+00:10:47,440 --> 00:10:49,120
+ It's a preceding episode.
+
+227
+00:10:49,120 --> 00:10:49,600
+ The one...
+
+228
+00:10:49,600 --> 00:10:51,280
+ I mean, I know episode X had a different one,
+
+229
+00:10:51,280 --> 00:10:53,120
+ but the one before that I have a different one as well.
+
+230
+00:10:53,120 --> 00:10:56,880
+ I went back and edited it retrospectively to Gaslight Alice-norship,
+
+231
+00:10:56,880 --> 00:10:58,000
+ but don't tell them.
+
+232
+00:10:58,000 --> 00:10:59,680
+ Uh, sorry.
+
+233
+00:10:59,680 --> 00:11:03,760
+ John went back retrospectively and edited it to Gaslight Alice-n.
+
+234
+00:11:03,760 --> 00:11:07,360
+ Well, I know, because I told you straight away as soon as you watched,
+
+235
+00:11:07,360 --> 00:11:08,240
+ is that Gaslight-n?
+
+236
+00:11:08,800 --> 00:11:09,440
+ It's very...
+
+237
+00:11:09,440 --> 00:11:11,840
+ It's more sort of like candle-lying.
+
+238
+00:11:11,840 --> 00:11:15,760
+ Anyway, John is very taken with this idea of the summer of...
+
+239
+00:11:15,760 --> 00:11:16,560
+ Summer of fun?
+
+240
+00:11:16,560 --> 00:11:19,440
+ No, we have to have sort of surf guitar instead of our regular.
+
+241
+00:11:19,440 --> 00:11:20,640
+ Yeah, I think it's quite nice.
+
+242
+00:11:20,640 --> 00:11:21,840
+ I like surf guitar a lot.
+
+243
+00:11:21,840 --> 00:11:26,080
+ I mean, John knew when he sent me the cheesy surf guitar music,
+
+244
+00:11:26,080 --> 00:11:27,600
+ he knew that it was right up like...
+
+245
+00:11:27,600 --> 00:11:28,400
+ Yes.
+
+246
+00:11:28,400 --> 00:11:33,040
+ Ali, because we've been talking about nerd surf guitar tunes.
+
+247
+00:11:33,040 --> 00:11:33,600
+ So we will.
+
+248
+00:11:33,600 --> 00:11:34,240
+ In chat.
+
+249
+00:11:34,240 --> 00:11:35,680
+ We're going to discuss one lock,
+
+250
+00:11:35,680 --> 00:11:37,440
+ because we did get one lock on the last episode,
+
+251
+00:11:37,440 --> 00:11:41,040
+ which we recorded about a year ago, saying it was our best episode yet.
+
+252
+00:11:41,040 --> 00:11:44,560
+ And as Liz pointed out, that means we peaked in September 2020.
+
+253
+00:11:44,560 --> 00:11:46,400
+ So we're very happy about that, obviously.
+
+254
+00:11:46,400 --> 00:11:48,240
+ We know that it's all downhill from here.
+
+255
+00:11:48,240 --> 00:11:53,120
+ But last episode was an episode we recorded ages ago,
+
+256
+00:11:53,120 --> 00:11:55,600
+ and the episode before that was a episode we recorded,
+
+257
+00:11:55,600 --> 00:11:57,680
+ like as soon as dropping the previous episode.
+
+258
+00:11:57,680 --> 00:12:02,480
+ And so this has all been kind of very around our schedules in a way that
+
+259
+00:12:02,480 --> 00:12:04,000
+ normal lock-stalk is not.
+
+260
+00:12:04,000 --> 00:12:05,920
+ But next episode,
+
+261
+00:12:05,920 --> 00:12:07,520
+ we will discuss lots of letters of comment,
+
+262
+00:12:07,520 --> 00:12:10,480
+ and we promise we will cover the important
+
+263
+00:12:10,480 --> 00:12:11,680
+ vanished topics of the day,
+
+264
+00:12:11,680 --> 00:12:14,320
+ which there are definitely going to be by then.
+
+265
+00:12:14,320 --> 00:12:20,240
+ This time, I think I want to talk about how doing things in person with people is fun,
+
+266
+00:12:20,240 --> 00:12:22,720
+ and so maybe we'll be going to in person,
+
+267
+00:12:22,720 --> 00:12:24,800
+ Corflu, and so it will come on.
+
+268
+00:12:24,800 --> 00:12:26,720
+ Liz, are you going to go to Corflu and overcome?
+
+269
+00:12:26,720 --> 00:12:27,280
+ No.
+
+270
+00:12:27,280 --> 00:12:27,760
+ Cool.
+
+271
+00:12:27,760 --> 00:12:29,360
+ By the time we record the next episode,
+
+272
+00:12:29,360 --> 00:12:31,760
+ I'll probably be back in quarantine again.
+
+273
+00:12:31,760 --> 00:12:32,400
+ In July?
+
+274
+00:12:32,400 --> 00:12:34,320
+ Yes, I'll probably be back in quarantine again,
+
+275
+00:12:34,320 --> 00:12:37,280
+ and you know, things as they are,
+
+276
+00:12:37,280 --> 00:12:40,880
+ the idea of quarantining on both ends of a trip is currently not fun,
+
+277
+00:12:40,880 --> 00:12:43,920
+ so no, there's basically no chance I will come to Corflu and overcome.
+
+278
+00:12:43,920 --> 00:12:44,400
+ Yeah.
+
+279
+00:12:44,400 --> 00:12:46,160
+ I will definitely be going to know the quarantine.
+
+280
+00:12:46,160 --> 00:12:48,640
+ You said this in the previous thing,
+
+281
+00:12:48,640 --> 00:12:50,640
+ but you said that quarantining is no fun,
+
+282
+00:12:50,640 --> 00:12:51,840
+ but then we were like,
+
+283
+00:12:51,840 --> 00:12:54,880
+ we're really sorry for Liz who is stuck in quarantine,
+
+284
+00:12:54,880 --> 00:12:57,040
+ and you sent us a photo of the most beautiful garden,
+
+285
+00:12:57,040 --> 00:12:57,520
+ so you know.
+
+286
+00:12:57,520 --> 00:12:58,960
+ Yes, it was a beautiful garden,
+
+287
+00:12:58,960 --> 00:13:01,040
+ and that was all I was allowed to do for today.
+
+288
+00:13:01,040 --> 00:13:01,120
+ Yeah.
+
+289
+00:13:01,120 --> 00:13:01,680
+ So,
+
+290
+00:13:01,680 --> 00:13:02,080
+ Yeah.
+
+291
+00:13:02,080 --> 00:13:02,880
+ Hades?
+
+292
+00:13:02,880 --> 00:13:03,520
+ Not yet.
+
+293
+00:13:03,520 --> 00:13:03,680
+ Yeah.
+
+294
+00:13:03,680 --> 00:13:06,560
+ Don't have a PlayStation 4 with me in quarantine.
+
+295
+00:13:06,560 --> 00:13:07,760
+ Oh.
+
+296
+00:13:07,760 --> 00:13:10,720
+ That could probably be the right to read,
+
+297
+00:13:10,720 --> 00:13:13,120
+ if we thought about it early enough, actually.
+
+298
+00:13:13,120 --> 00:13:16,160
+ Shall I have a Liz squad who just came and gave you like entertainment?
+
+299
+00:13:16,160 --> 00:13:17,440
+ So, it re-naded you.
+
+300
+00:13:17,440 --> 00:13:18,800
+ It was fine, but basically,
+
+301
+00:13:18,800 --> 00:13:21,200
+ it means all trips have to be long trips,
+
+302
+00:13:21,200 --> 00:13:22,640
+ and it is still, you know,
+
+303
+00:13:22,640 --> 00:13:26,160
+ it is still a lot more complicated than it used to be and involves.
+
+304
+00:13:26,160 --> 00:13:28,400
+ It is lovely to see you and so on,
+
+305
+00:13:28,400 --> 00:13:29,440
+ so I'm happy to see you.
+
+306
+00:13:29,440 --> 00:13:30,560
+ Lovely to see you.
+
+307
+00:13:30,560 --> 00:13:31,120
+ Yes.
+
+308
+00:13:31,120 --> 00:13:33,040
+ Very glad I have done it, but I will not.
+
+309
+00:13:33,040 --> 00:13:35,840
+ It is not something you can just leap on a plane and do,
+
+310
+00:13:35,840 --> 00:13:36,560
+ and still.
+
+311
+00:13:36,560 --> 00:13:37,040
+ Yeah.
+
+312
+00:13:37,040 --> 00:13:39,840
+ So, for those who really don't pay attention,
+
+313
+00:13:39,840 --> 00:13:41,440
+ or for whom this is your first episode,
+
+314
+00:13:41,440 --> 00:13:44,480
+ Liz is in the UK, and usually Liz is in Thailand,
+
+315
+00:13:44,480 --> 00:13:46,640
+ so this is very exciting, and it's been very good to see you.
+
+316
+00:13:46,640 --> 00:13:47,520
+ But how you set that?
+
+317
+00:13:47,520 --> 00:13:49,840
+ If you think this is exciting,
+
+318
+00:13:49,840 --> 00:13:53,040
+ wait till the issue when all three of us are in Thailand.
+
+319
+00:13:53,040 --> 00:13:58,320
+ Because John and I are going to be bouncing off walls at one point.
+
+320
+00:13:58,320 --> 00:13:59,440
+ That will be good.
+
+321
+00:13:59,440 --> 00:14:00,480
+ Well, it will be very hot,
+
+322
+00:14:00,480 --> 00:14:01,840
+ so I might not be bouncing off walls.
+
+323
+00:14:01,840 --> 00:14:03,760
+ It is very hot all year round,
+
+324
+00:14:03,760 --> 00:14:06,880
+ or is there a time that we can kind of be on the beach in Thailand,
+
+325
+00:14:06,880 --> 00:14:08,240
+ and it is not so very hot?
+
+326
+00:14:08,240 --> 00:14:09,760
+ What you consider to be...
+
+327
+00:14:09,760 --> 00:14:10,960
+ Above 19 hot.
+
+328
+00:14:10,960 --> 00:14:11,600
+ On a beach.
+
+329
+00:14:11,600 --> 00:14:15,520
+ Yeah, but what temperature do you consider to be very hot is a question.
+
+330
+00:14:15,520 --> 00:14:18,320
+ If I'm on a beach, I'm really comfortable at 90.
+
+331
+00:14:18,320 --> 00:14:20,000
+ What's 90?
+
+332
+00:14:20,000 --> 00:14:20,720
+ I don't know what that is.
+
+333
+00:14:20,720 --> 00:14:24,080
+ Hey Siri, what's 90 degrees Fahrenheit in sensory grade?
+
+334
+00:14:24,080 --> 00:14:27,760
+ The 90 degrees Fahrenheit is 32.2 degrees Celsius.
+
+335
+00:14:27,760 --> 00:14:28,560
+ That's far too high.
+
+336
+00:14:28,560 --> 00:14:30,000
+ Oh yeah, if you like 32 degrees,
+
+337
+00:14:30,000 --> 00:14:32,720
+ then you can get that probably 9 months of the year.
+
+338
+00:14:32,720 --> 00:14:33,520
+ So, but if I'm,
+
+339
+00:14:33,520 --> 00:14:36,400
+ of course I don't tell I could get a hotel with air conditioning.
+
+340
+00:14:36,400 --> 00:14:36,480
+ Yes.
+
+341
+00:14:36,480 --> 00:14:37,840
+ So I get a hotel with air conditioning.
+
+342
+00:14:37,840 --> 00:14:38,400
+ Air conditioning.
+
+343
+00:14:38,400 --> 00:14:38,800
+ At the beach.
+
+344
+00:14:38,800 --> 00:14:39,440
+ Yeah, that's fair.
+
+345
+00:14:39,440 --> 00:14:40,000
+ Yes.
+
+346
+00:14:40,000 --> 00:14:42,960
+ I'm fine with weather in the mid 80s, sorry.
+
+347
+00:14:42,960 --> 00:14:44,320
+ Up to about 30 or so.
+
+348
+00:14:44,320 --> 00:14:46,640
+ I'm British.
+
+349
+00:14:46,640 --> 00:14:52,160
+ The normal British way to do weather is cold temperatures in Celsius is fine.
+
+350
+00:14:52,160 --> 00:14:55,760
+ So if it's down about like two degrees or three degrees,
+
+351
+00:14:55,760 --> 00:14:57,040
+ you do it in Celsius.
+
+352
+00:14:57,040 --> 00:14:59,280
+ So if it's hot, you do it in Fahrenheit.
+
+353
+00:14:59,280 --> 00:15:00,880
+ I think this might be a generational.
+
+354
+00:15:00,880 --> 00:15:02,320
+ It is very much a generation.
+
+355
+00:15:02,320 --> 00:15:04,320
+ In the middle of the scale somewhere.
+
+356
+00:15:04,320 --> 00:15:04,560
+ No.
+
+357
+00:15:04,560 --> 00:15:06,640
+ Anyway, we may have digressed.
+
+358
+00:15:06,640 --> 00:15:08,160
+ Okay, you can.
+
+359
+00:15:08,160 --> 00:15:09,280
+ You can.
+
+360
+00:15:09,280 --> 00:15:12,320
+ You're going to get letters from readers because there are other readers.
+
+361
+00:15:12,320 --> 00:15:14,560
+ No, you can swap.
+
+362
+00:15:14,560 --> 00:15:15,840
+ You may not.
+
+363
+00:15:15,840 --> 00:15:19,680
+ I withdraw any implied permission for you to do so listeners.
+
+364
+00:15:19,680 --> 00:15:20,880
+ And if you have been doing,
+
+365
+00:15:20,880 --> 00:15:22,560
+ I demand you cease now.
+
+366
+00:15:22,560 --> 00:15:24,960
+ Okay, because John is the arbiter of what we do.
+
+367
+00:15:26,160 --> 00:15:28,480
+ That has never been true, even a octa-thole.
+
+368
+00:15:28,480 --> 00:15:30,160
+ Yeah, in this case, I agree with John.
+
+369
+00:15:30,160 --> 00:15:35,040
+ Okay, so on octa-thole, apparently we use the Celsius.
+
+370
+00:15:35,040 --> 00:15:35,760
+ Yes.
+
+371
+00:15:35,760 --> 00:15:36,880
+ That's so useful.
+
+372
+00:15:36,880 --> 00:15:39,760
+ That's actually almost like hugging.
+
+373
+00:15:39,760 --> 00:15:42,400
+ Kelvin would also be acceptable.
+
+374
+00:15:42,400 --> 00:15:43,280
+ I could do Kelvin.
+
+375
+00:15:43,280 --> 00:15:46,880
+ I can't do Kelvin for ordinary UK weather or even Thai weather.
+
+376
+00:15:46,880 --> 00:15:48,320
+ It's pretty complicated.
+
+377
+00:15:48,320 --> 00:15:49,840
+ About 200 and something usually.
+
+378
+00:15:49,840 --> 00:15:53,840
+ No, I think we're kind of like 300 and...
+
+379
+00:15:54,480 --> 00:15:55,040
+ No, true.
+
+380
+00:15:55,040 --> 00:15:55,520
+ Thailand.
+
+381
+00:15:55,520 --> 00:15:56,000
+ Thailand.
+
+382
+00:15:56,000 --> 00:15:57,680
+ We'll be 300 and something, right?
+
+383
+00:15:57,680 --> 00:16:01,520
+ If you could plot the distribution of temperatures in Kelvin in Thailand at different times of year,
+
+384
+00:16:01,520 --> 00:16:03,440
+ and just send it to us for the chapter, I'll be great.
+
+385
+00:16:03,440 --> 00:16:08,480
+ You probably want to get me to do that.
+
+386
+00:16:08,480 --> 00:16:09,360
+ Am I doing crayon?
+
+387
+00:16:09,360 --> 00:16:11,040
+ Yes.
+
+388
+00:16:11,040 --> 00:16:12,240
+ Yes, please do that.
+
+389
+00:16:12,240 --> 00:16:12,720
+ It's crayon.
+
+390
+00:16:12,720 --> 00:16:13,200
+ It's crayon.
+
+391
+00:16:13,200 --> 00:16:14,640
+ Program or do you actually mean crayon?
+
+392
+00:16:14,640 --> 00:16:15,600
+ No, I mean with a crayon.
+
+393
+00:16:15,600 --> 00:16:18,000
+ If you draw a barf chart of temperatures in crayon,
+
+394
+00:16:18,000 --> 00:16:18,960
+ I will put it in the crayon.
+
+395
+00:16:18,960 --> 00:16:20,560
+ It's going to be mostly a straight line.
+
+396
+00:16:20,560 --> 00:16:21,200
+ That's fine.
+
+397
+00:16:21,200 --> 00:16:23,840
+ Every minute we spend digressing is a minute
+
+398
+00:16:23,840 --> 00:16:25,600
+ we are not digressing in the pub.
+
+399
+00:16:25,600 --> 00:16:26,160
+ That's true.
+
+400
+00:16:26,160 --> 00:16:28,160
+ I'm sure it's the podcast, isn't it?
+
+401
+00:16:28,160 --> 00:16:30,480
+ I'm sure.
+
+402
+00:16:30,480 --> 00:16:31,280
+ This is too far.
+
+403
+00:16:31,280 --> 00:16:32,400
+ John, this is too far.
+
+404
+00:16:32,400 --> 00:16:36,160
+ So one of the things we have been discussing on this weekend of punctuation
+
+405
+00:16:36,160 --> 00:16:40,400
+ committee meetings is the prospect of future punctuation.
+
+406
+00:16:40,400 --> 00:16:42,320
+ There may be more punctuation.
+
+407
+00:16:42,320 --> 00:16:44,880
+ Yeah, we're thinking about whether we want to do another punctuation.
+
+408
+00:16:44,880 --> 00:16:49,680
+ We're thinking about whether we want to do another virtual punctuation at a time of year,
+
+409
+00:16:49,680 --> 00:16:51,920
+ when although we could theoretically get together and meet people,
+
+410
+00:16:51,920 --> 00:16:52,880
+ nobody's going to want to.
+
+411
+00:16:53,440 --> 00:16:56,880
+ And all we could do a punctuation in person sometime.
+
+412
+00:16:56,880 --> 00:17:02,320
+ And all of these things are possibilities and punctuation too.
+
+413
+00:17:02,320 --> 00:17:05,040
+ Okay, so I need to do a little bit of explanation for punctuation too,
+
+414
+00:17:05,040 --> 00:17:07,680
+ which is because we made too much money for punctuation one.
+
+415
+00:17:07,680 --> 00:17:12,000
+ For punctuation two, we explicitly said that people could pay zero pounds or five pounds or 10 pounds
+
+416
+00:17:12,000 --> 00:17:15,360
+ depending on what they wanted to spend.
+
+417
+00:17:15,360 --> 00:17:21,760
+ In fact, lots of people gave us 10 pounds, so if we make more money and that is paid for our weekend.
+
+418
+00:17:21,760 --> 00:17:23,520
+ But you know, I don't know.
+
+419
+00:17:23,520 --> 00:17:26,080
+ No, it's paid for the grocery.
+
+420
+00:17:26,080 --> 00:17:29,760
+ It's not like we haven't gotten like caviar and cigar.
+
+421
+00:17:29,760 --> 00:17:35,920
+ So we have got the convention to pay for the groceries for our post convention committee meeting,
+
+422
+00:17:35,920 --> 00:17:36,640
+ which is the day.
+
+423
+00:17:36,640 --> 00:17:41,200
+ And by groceries, I do not include the beer of which there was very large options.
+
+424
+00:17:41,200 --> 00:17:44,960
+ Yes, rest assured listeners, none of your money has gone on beer.
+
+425
+00:17:44,960 --> 00:17:50,240
+ Yes, we have not been spending your punctuation funds on double barreled.
+
+426
+00:17:50,880 --> 00:17:51,680
+ No.
+
+427
+00:17:51,680 --> 00:17:53,120
+ No, double barreled is quite good.
+
+428
+00:17:53,120 --> 00:17:54,480
+ Yeah.
+
+429
+00:17:54,480 --> 00:17:56,880
+ Because that's like got a hyphen in the middle and that's punctuation.
+
+430
+00:17:56,880 --> 00:17:58,480
+ No, it could be.
+
+431
+00:17:58,480 --> 00:17:59,920
+ And doesn't they have a hyphen in the name?
+
+432
+00:17:59,920 --> 00:18:01,120
+ Oh, damn.
+
+433
+00:18:01,120 --> 00:18:01,760
+ What was that?
+
+434
+00:18:01,760 --> 00:18:04,000
+ I don't think they have a hyphen in their name.
+
+435
+00:18:04,000 --> 00:18:04,640
+ Really?
+
+436
+00:18:04,640 --> 00:18:06,960
+ I think they're just double barreled.
+
+437
+00:18:06,960 --> 00:18:07,360
+ Too much.
+
+438
+00:18:07,360 --> 00:18:08,960
+ The Spaniards just sent me a picture of some beer.
+
+439
+00:18:08,960 --> 00:18:10,080
+ Oh, no, they do have one in there.
+
+440
+00:18:10,080 --> 00:18:10,400
+ Yeah, it's interesting.
+
+441
+00:18:10,400 --> 00:18:12,960
+ Hey, it's got a very good logo.
+
+442
+00:18:12,960 --> 00:18:16,000
+ Yeah, everything about double barreled is lovely.
+
+443
+00:18:16,000 --> 00:18:21,920
+ We are considering an in-person punctuation or as I think we should call it, in-per-ulturation.
+
+444
+00:18:21,920 --> 00:18:24,880
+ Yeah, okay.
+
+445
+00:18:24,880 --> 00:18:26,880
+ Listen, I like that one, so I can't get away with it.
+
+446
+00:18:26,880 --> 00:18:27,840
+ I'm going to have to cut that one out.
+
+447
+00:18:27,840 --> 00:18:30,880
+ Yeah, no, that don't think that was very good.
+
+448
+00:18:30,880 --> 00:18:36,640
+ I think we're considering it but I don't think we are anywhere near.
+
+449
+00:18:36,640 --> 00:18:38,640
+ Oh, we have no plan right now.
+
+450
+00:18:38,640 --> 00:18:40,080
+ No, other than...
+
+451
+00:18:40,080 --> 00:18:40,880
+ It's a future possibility.
+
+452
+00:18:40,880 --> 00:18:43,360
+ So, what are we all doing on our summer of fun?
+
+453
+00:18:43,360 --> 00:18:50,240
+ Because I have... I got another video game into the Hugo packet, so if you are a Hugo member
+
+454
+00:18:50,240 --> 00:18:57,920
+ and you haven't yet hit us up for free copies of Hades, Spiritfarer, and Final Fantasy 7 Remake,
+
+455
+00:18:57,920 --> 00:18:59,440
+ please do so.
+
+456
+00:18:59,440 --> 00:19:04,240
+ The instructions are in your Hugo packet and if you haven't downloaded the new version of the
+
+457
+00:19:04,240 --> 00:19:07,200
+ Hugo packet, you should do so and get the stuff there.
+
+458
+00:19:07,200 --> 00:19:08,480
+ They're quite good.
+
+459
+00:19:08,480 --> 00:19:10,880
+ Because they're all very good games and I would...
+
+460
+00:19:11,680 --> 00:19:14,560
+ Yeah, so now you can play four of the six games for Nothing
+
+461
+00:19:14,560 --> 00:19:20,560
+ and the other two are The Last of Us Part 2 and Animal Crossing.
+
+462
+00:19:20,560 --> 00:19:25,440
+ Animal Crossing is quite a bit more than Nothing, certainly, because that's how Nintendo do.
+
+463
+00:19:25,440 --> 00:19:27,200
+ I think both of those are quite a bit more than Nothing.
+
+464
+00:19:27,200 --> 00:19:27,840
+ Yeah, they are quite...
+
+465
+00:19:27,840 --> 00:19:28,960
+ They're both lots of games.
+
+466
+00:19:28,960 --> 00:19:32,480
+ I was kind of looking and getting them second-hand but even then they're quite expensive.
+
+467
+00:19:32,480 --> 00:19:38,880
+ Yeah, but then if you buy a second-hand physical copy, you can then take it back to your video game shop and get money.
+
+468
+00:19:38,880 --> 00:19:43,440
+ I have sold Alice in a PlayStation 2, PlayStation 2, PlayStation 4.
+
+469
+00:19:43,440 --> 00:19:44,720
+ I wrote on a tray.
+
+470
+00:19:44,720 --> 00:19:46,560
+ But she's going to go to a PlayStation 4 and I'll play Final Fantasy 7 Remake.
+
+471
+00:19:46,560 --> 00:19:47,520
+ That's the important thing.
+
+472
+00:19:47,520 --> 00:19:53,200
+ You're going to be able to play this Hugo award finalist-ed game.
+
+473
+00:19:53,200 --> 00:19:57,840
+ Yeah, using John's old PlayStation 4 and I have some other games to play and so you won't be hearing
+
+474
+00:19:57,840 --> 00:20:00,000
+ much from me because I'm going to be playing games with the next couple of months.
+
+475
+00:20:00,000 --> 00:20:02,880
+ That's my plan for the next two weeks.
+
+476
+00:20:02,880 --> 00:20:04,880
+ So your plan for the summer fun is...
+
+477
+00:20:04,880 --> 00:20:08,480
+ So in games we're going to see Hampshire tourist attractions that we haven't seen yet.
+
+478
+00:20:08,480 --> 00:20:09,440
+ And cricket.
+
+479
+00:20:09,440 --> 00:20:12,720
+ And cricket to go and see the Southern Brave play Welsh Fire.
+
+480
+00:20:12,720 --> 00:20:14,320
+ So what are you doing the summerless?
+
+481
+00:20:14,320 --> 00:20:20,240
+ Well, I've come to the UK and I've been on holiday and now I'm doing some work and then I'm going to go back to Thailand.
+
+482
+00:20:20,240 --> 00:20:22,800
+ So yeah, my summer is over.
+
+483
+00:20:22,800 --> 00:20:24,640
+ Weirdo.
+
+484
+00:20:24,640 --> 00:20:26,080
+ This is the beginning of my summer-
+
+485
+00:20:26,080 --> 00:20:30,000
+ And your summer is really interesting because most people's summer are hot and sunny.
+
+486
+00:20:30,000 --> 00:20:32,400
+ And Liz.
+
+487
+00:20:32,400 --> 00:20:38,640
+ And Liz is basically deciding to have a cold wet summer as an interjection in the middle of a hot sunny lifestyle.
+
+488
+00:20:38,640 --> 00:20:40,400
+ Yes, I'm wearing a jumper right now.
+
+489
+00:20:40,400 --> 00:20:41,600
+ Yes, but also shorts.
+
+490
+00:20:41,600 --> 00:20:43,520
+ Yeah, that was a tactical error.
+
+491
+00:20:43,520 --> 00:20:46,640
+ My summer of fun is just starting because this
+
+492
+00:20:46,640 --> 00:20:52,640
+ Yesterday marked two weeks since my second jab of the Fonzer vaccine.
+
+493
+00:20:52,640 --> 00:20:57,200
+ So I am now immortal and I can go to places, obviously wearing a mask and
+
+494
+00:20:57,200 --> 00:21:01,440
+ compulsively sanitize my hands and try to say outside where possible,
+
+495
+00:21:01,440 --> 00:21:06,160
+ except for the hotel breakfast this morning, which was less socially distanced than
+
+496
+00:21:06,160 --> 00:21:10,400
+ all of the things I've done in the previous 18 months put together.
+
+497
+00:21:10,400 --> 00:21:17,440
+ How long have we recorded in Freshland Check?
+
+498
+00:21:17,440 --> 00:21:18,000
+ Some.
+
+499
+00:21:18,000 --> 00:21:19,440
+ Oh, yeah, about 30 minutes.
+
+500
+00:21:19,440 --> 00:21:21,200
+ Yeah, so it's very much that lovely.
+
+501
+00:21:21,200 --> 00:21:25,680
+ That was a lot of fun, but beer is also fun and yeah.
+
+502
+00:21:25,680 --> 00:21:29,600
+ And on that bombshell, that was the Hooked to Thought podcast.
+
+503
+00:21:29,600 --> 00:21:31,120
+ And it's goodbye from me.
+
+504
+00:21:31,120 --> 00:21:32,400
+ It's goodbye from me.
+
+505
+00:21:32,400 --> 00:21:33,600
+ And it's goodbye from me.
+
+506
+00:21:33,600 --> 00:21:37,360
+ And we are off to the double barrel brewery for hijinks.
+
+507
+00:21:37,360 --> 00:21:50,960
+ I'm getting that out.
+
+508
+00:21:50,960 --> 00:21:54,720
+ We're not but that in the middle of the rest.
+
+509
+00:21:54,720 --> 00:21:55,120
+ What?
+
+510
+00:21:55,120 --> 00:21:55,920
+ That's definitely going.
+
+511
+00:21:55,920 --> 00:22:00,160
+ That will like pick up on the podcast and it's also going to be a nightmare to edit.
+
+512
+00:22:00,160 --> 00:22:00,800
+ Sorry, John.
+
+513
+00:22:00,800 --> 00:22:06,960
+ The theme music for this episode was Surf Shimmy by Kevin McLeod and Combertek.com
+
+514
+00:22:06,960 --> 00:22:10,240
+ used under a Creative Commons attribution 4.0 license.
+
+515
+00:22:10,240 --> 00:22:13,040
+ This podcast will end at the beep.
+

@@ -1,0 +1,2276 @@
+1
+00:00:00,000 --> 00:00:11,820
+ [Music]
+
+2
+00:00:11,820 --> 00:00:18,720
+ Hello everyone and welcome to the 91st episode of Octa Thorpe, a podcast for Science Fiction
+
+3
+00:00:18,720 --> 00:00:24,680
+ and Science Fiction Founder which is coming to you on the 31st of August, 2023. I'm John
+
+4
+00:00:24,680 --> 00:00:33,560
+ Coxin. I'm Alison Scott and I'm Liz Batty. And we have some letters of comment for you
+
+5
+00:00:33,560 --> 00:00:41,360
+ all. We got some letters of comment. First off we got letters about, oh no yeah we got
+
+6
+00:00:41,360 --> 00:00:46,360
+ letters from Chris Garcia and Abigail and it turns out that Chris Garcia and Abigail
+
+7
+00:00:46,360 --> 00:00:50,600
+ Nussbaum are going to have to have a cage fight. Oh that sounds good. This is news to
+
+8
+00:00:50,600 --> 00:00:55,680
+ both of them. But we basically got various letters about AI. Thank you everyone who wrote
+
+9
+00:00:55,680 --> 00:01:03,080
+ in about that. Chris says he's looking forward to Asteroid C and Abigail said that Liz would
+
+10
+00:01:03,080 --> 00:01:08,360
+ not succeed in baiting her with praise for the last blade priest. So your attempt to
+
+11
+00:01:08,360 --> 00:01:17,400
+ hook an Abigail has failed Liz. Well has it failed or did she write a letter? See because
+
+12
+00:01:17,400 --> 00:01:24,680
+ I was like it's a bold move to put a PS about not being baited at the start of the successful
+
+13
+00:01:24,680 --> 00:01:32,120
+ reeling in. I think it is a bold move. I think Liz has caught and that's a fishing trip that's
+
+14
+00:01:32,120 --> 00:01:37,480
+ gone well for you Liz. Yeah to be fair to Abigail she has read other things on the kitschy's
+
+15
+00:01:37,480 --> 00:01:41,960
+ red tentacle shortlist and I have not so I can't say if they're better and for I know they may
+
+16
+00:01:41,960 --> 00:01:48,520
+ well they may well be better but I still enjoyed it so they're... She also explains that sub-length
+
+17
+00:01:48,520 --> 00:01:55,240
+ that I was being to one note about Luddites. So I think when I talk about Luddites I do know
+
+18
+00:01:55,240 --> 00:02:00,040
+ something of the history so I was including the fact that the Luddites weren't totally
+
+19
+00:02:00,040 --> 00:02:06,440
+ daft about their protests. It was it was reasonable. I still think they're wrong and Abigail thinks
+
+20
+00:02:06,440 --> 00:02:11,400
+ they're totally reasonable which is fine. I think we can we can have differing opinions.
+
+21
+00:02:11,400 --> 00:02:18,280
+ Laurie Anderson also says "Hugok to Thorpe girl" so that's good. Liz has done a thumbs up and a
+
+22
+00:02:18,280 --> 00:02:24,840
+ triumphant facial expression Laurie so um... I mean I can't hug them because on the other side
+
+23
+00:02:24,840 --> 00:02:30,520
+ of the planet but you know metaphorically. Yes. I still haven't got over the fact that she's
+
+24
+00:02:30,520 --> 00:02:37,640
+ Laurie Anderson. I just want to go oh oh oh oh oh oh oh oh every time. I assume that's referencing
+
+25
+00:02:37,640 --> 00:02:42,440
+ something I am too young to know about. Yeah yeah it's a superman. I see.
+
+26
+00:02:42,440 --> 00:02:49,000
+ Alison will provide links for the show notes. No I found a link that's actually uh huh huh.
+
+27
+00:02:49,000 --> 00:02:54,120
+ Well there's there's a joke for all of our older listeners. We have plenty of older listeners.
+
+28
+00:02:54,120 --> 00:03:00,440
+ I'm gonna clip I'm gonna clip that out. That might be a useful thing to have all the self-force.
+
+29
+00:03:00,440 --> 00:03:06,120
+ Just it might be useful if I have a button that I compressed that just says in Liz's voice there's
+
+30
+00:03:06,120 --> 00:03:13,800
+ a joke for our older listeners. I can be useful at conventions. Okay guys look you don't have to
+
+31
+00:03:13,800 --> 00:03:21,640
+ remind me of my impending senility all of the time. What we've done here listeners is we've kept
+
+32
+00:03:21,640 --> 00:03:30,280
+ strictly on topic and we've not digressed so that's good. Right then we did get letters about
+
+33
+00:03:31,080 --> 00:03:37,640
+ six wakes. We heard from Christopher J Garcia. We heard from Laurie Anderson. We heard from
+
+34
+00:03:37,640 --> 00:03:43,320
+ Edward Moreland and then we heard from Ali Brooke, Ali Baker Brooks and David Curry about
+
+35
+00:03:43,320 --> 00:03:49,400
+ problems they have with the representation of their expertise in culture. So yes I think it's fair
+
+36
+00:03:49,400 --> 00:03:53,640
+ to say that some people like the book and some people didn't. You've just summarized the whole
+
+37
+00:03:53,640 --> 00:04:00,760
+ episode, child. Why are you gonna be bothered by this? But I did hear from at least two people who did
+
+38
+00:04:00,760 --> 00:04:05,240
+ who had not read the book, who did then really enjoy it. So I was glad because even if you read
+
+39
+00:04:05,240 --> 00:04:09,400
+ it and you hated it I'm very sorry to you but if you read it and you loved it, hooray hello.
+
+40
+00:04:09,400 --> 00:04:14,840
+ Yeah Emily January really liked it so that was she read it because of our episode and she really
+
+41
+00:04:14,840 --> 00:04:20,200
+ liked it and I was like *sigh* and also having just finished the spare man this is a spoiler for
+
+42
+00:04:20,200 --> 00:04:24,920
+ a Hugo episode. I actually need to make this joke in the Hugo episode which is I think I may just
+
+43
+00:04:24,920 --> 00:04:30,520
+ not like books with food bridges in them. Fair enough. Fair enough.
+
+44
+00:04:30,520 --> 00:04:41,720
+ Shall we talk about the Clark Award? Yes, we can talk about the Clark Award.
+
+45
+00:04:41,720 --> 00:04:45,960
+ On the topic of books, so the Clark Award was awarded.
+
+46
+00:04:45,960 --> 00:04:53,080
+ Liz do you want to tell us about this? So the Clark Award was awarded this year
+
+47
+00:04:53,960 --> 00:05:00,360
+ in a nice ceremony that I did not attend that was in the UK. Do we want to explain what the
+
+48
+00:05:00,360 --> 00:05:06,760
+ Clark Award is for our new reviewers? New listeners. Oh I suppose I could do that. So
+
+49
+00:05:06,760 --> 00:05:13,480
+ the Arthsee Clark Award is an award for the best science fiction novel first published in the UK.
+
+50
+00:05:13,480 --> 00:05:19,160
+ It's been running for, ooh I don't know how long it's been for now since about 1987 I think
+
+51
+00:05:19,960 --> 00:05:26,040
+ and it's a Judgement Award, a jury award, so there's a jury which is made up of judges from the British
+
+52
+00:05:26,040 --> 00:05:30,200
+ Science Fiction Association, the Science Fiction Foundation and currently the Sci-Fi London Film
+
+53
+00:05:30,200 --> 00:05:37,480
+ Festival. And so these judges read nearly every single science fiction novel published in the UK
+
+54
+00:05:37,480 --> 00:05:41,480
+ in a year. They do have to be submitted so of course for publishers who don't submit them but
+
+55
+00:05:41,480 --> 00:05:46,280
+ generally they're getting a submission list of kind of up to 100 books and then they pick a
+
+56
+00:05:46,280 --> 00:05:53,160
+ shortlist of six and then they get together and pick a winner. And the winner is, it has been
+
+57
+00:05:53,160 --> 00:05:56,760
+ announced previously I think earlier in the year kind of in May or June when that was when the
+
+58
+00:05:56,760 --> 00:06:02,280
+ Sci-Fi London Film Festival was but this year it was announced in August and the winner was
+
+59
+00:06:02,280 --> 00:06:09,080
+ Venomous Slump Soccer by Ned Bowman as I believe mentioned by John as his sort of stealth pick on
+
+60
+00:06:09,080 --> 00:06:15,080
+ a previous episode. But as it happens I managed to read all of the Clark shortlist before although I
+
+61
+00:06:15,080 --> 00:06:20,600
+ did not read every single one of them before the award was announced I fell slightly short.
+
+62
+00:06:20,600 --> 00:06:24,520
+ Were you on a long intercontinental holiday involving a lot of reading Liz?
+
+63
+00:06:24,520 --> 00:06:27,880
+ I did go on a long intercontinental holiday involving a lot of reading which is why I've read
+
+64
+00:06:27,880 --> 00:06:32,360
+ about 20 books since our last episode so I've got lots of material for picks now really maybe for
+
+65
+00:06:32,360 --> 00:06:37,080
+ the rest of the year. And so I did read I think I read three or four of them while on that holiday
+
+66
+00:06:37,080 --> 00:06:42,600
+ which was very nice thank you to Neil Harrison who lent me all of those and then I read the other
+
+67
+00:06:42,600 --> 00:06:49,160
+ two myself and yeah I would. So the Clark award always comes up with a shortlist where I don't know
+
+68
+00:06:49,160 --> 00:06:52,920
+ it's interesting because there's usually some overlap with other awards but quite often there
+
+69
+00:06:52,920 --> 00:06:58,440
+ will be kind of some left field books quite often ones that were published by more literary
+
+70
+00:06:58,440 --> 00:07:03,320
+ publishers or not marketed as science fiction quite often something completely out of left field
+
+71
+00:07:03,320 --> 00:07:09,320
+ where I have no idea at all why that book has been nominated. Sometimes it's quite fun because you do
+
+72
+00:07:09,320 --> 00:07:14,920
+ know who the judges are and then you can you know try and wonder what they saw in a book you think
+
+73
+00:07:14,920 --> 00:07:21,080
+ was terrible but I think it usually picks a pretty good book as the winner. And this year I would
+
+74
+00:07:21,080 --> 00:07:26,440
+ agree I really liked Venomous Lumpsucker by Ned Bowman which is about you know the the titular
+
+75
+00:07:26,440 --> 00:07:32,280
+ Venomous Lumpsuckers are a type of fish which you know being studied and maybe more intelligent
+
+76
+00:07:32,280 --> 00:07:38,360
+ than previously thought and this is a big thing because we are in this sort of climate change dystopia
+
+77
+00:07:38,360 --> 00:07:45,400
+ where part of the economy now involves extinction credits and you know paying if you drive a species
+
+78
+00:07:45,400 --> 00:07:50,920
+ extinct and kind of the whole market that would just horribly inevitably spring up around this
+
+79
+00:07:50,920 --> 00:07:56,360
+ like okay so if I was predicted to make 15 species extinct but actually only made 10 extinct do I
+
+80
+00:07:56,360 --> 00:08:02,600
+ now get some some tax credits back for not making them extinct. How do we incentivize companies and
+
+81
+00:08:02,600 --> 00:08:08,280
+ nations not to top down forests? The price of these extinction credits fluctuates which means
+
+82
+00:08:08,280 --> 00:08:13,560
+ there's a kind of really comedy segment where they go to a place where the last known example of a
+
+83
+00:08:13,560 --> 00:08:20,760
+ species is being kept and when the extinction credits weren't worth very much known was really
+
+84
+00:08:20,760 --> 00:08:24,520
+ paying very much attention to it because they didn't get very much money for keeping them alive and
+
+85
+00:08:24,520 --> 00:08:28,360
+ now extinction credits have become extremely expensive and so they're all like yeah we're going to get
+
+86
+00:08:28,360 --> 00:08:33,240
+ lots more money but oh wait some of those species maybe are not quite as alive as we hoped and we
+
+87
+00:08:33,240 --> 00:08:41,080
+ thought no one was checking. It's basically a kind of funny dystopian counterpart to I would say to
+
+88
+00:08:41,080 --> 00:08:45,800
+ Kim Stanley Robinson's Ministry for the future because they're which can kind of posit a sort of you
+
+89
+00:08:45,800 --> 00:08:50,760
+ know different credit system and incentives and things and have them work as intended this is like
+
+90
+00:08:50,760 --> 00:08:56,200
+ how you get all the credits and systems and have them work in a kind of the way you can imagine they
+
+91
+00:08:56,200 --> 00:09:02,120
+ might do under a current capitalist system. So I really enjoyed it. Don did not like it as much
+
+92
+00:09:02,120 --> 00:09:07,320
+ think sorry Dom. My reaction to this is actually very similar to Liz's reaction to six weeks where
+
+93
+00:09:07,320 --> 00:09:14,280
+ I liked the ideas and I thought the execution was quite poor. I think my main problem with it is it's
+
+94
+00:09:14,280 --> 00:09:19,560
+ a book that posits that the UK is completely irrelevant and yet the entire world knows the UK
+
+95
+00:09:19,560 --> 00:09:25,080
+ by a special name and the UK turns out to be pivotal to the plot and it's like you've got a pick one
+
+96
+00:09:25,080 --> 00:09:31,080
+ either we're special or we're not but he kind of has his cake and eats it there. We've been not
+
+97
+00:09:31,080 --> 00:09:37,400
+ doing that for a long time. No I know and I'm like you can't criticize British exceptionalism
+
+98
+00:09:37,400 --> 00:09:44,600
+ while also practicing British exceptionalism that doesn't land for me which I found very frustrating
+
+99
+00:09:44,600 --> 00:09:50,280
+ I'm a bit worried at one because I thought it was okay and I'm a bit worried I'm gonna like all
+
+100
+00:09:50,280 --> 00:09:55,080
+ the others even less. I haven't read the others yet so we'll see. You have read at least one of
+
+101
+00:09:55,080 --> 00:10:02,520
+ them right? Yeah I like the anomaly a lot. I understand why it didn't win but I like the fact it doesn't
+
+102
+00:10:02,520 --> 00:10:08,760
+ commit to an interpretation. It's a very it's on the very literary end of science fiction I think
+
+103
+00:10:08,760 --> 00:10:13,640
+ in that it is much more idea interested in the ideas than the mechanics of the ideas but also
+
+104
+00:10:13,640 --> 00:10:20,920
+ it's a what they called the oh oh hang on if I go to the anomaly to Wikipedia page it will tell me.
+
+105
+00:10:20,920 --> 00:10:26,840
+ From there a Lupien work which is one where you basically firstly it's very French and secondly
+
+106
+00:10:26,840 --> 00:10:33,800
+ it's one where you like adopt faux constraints on your writing as your writing and so like it is
+
+107
+00:10:33,800 --> 00:10:38,440
+ also a literary experiment which I could see some people might have gone with. This is the same
+
+108
+00:10:38,440 --> 00:10:43,640
+ group that like writes books in palindrones or without using the letter E or stuff like that
+
+109
+00:10:43,640 --> 00:10:49,640
+ but I haven't read the others. I've heard mixed reports. I'm looking forward to the coral bones
+
+110
+00:10:49,640 --> 00:10:54,440
+ because I've heard good things about that. I believe that one of the things about the way that the
+
+111
+00:10:54,440 --> 00:11:01,880
+ Clark Award is structured is that the judges always come from very different perspectives so
+
+112
+00:11:01,880 --> 00:11:10,920
+ judges meetings are allegedly extremely angry but kind of they've got a lot of they've got a
+
+113
+00:11:10,920 --> 00:11:16,440
+ they're not angry they're just disappointed. They're disappointed. I think that's individual
+
+114
+00:11:16,440 --> 00:11:21,880
+ judges are in fact disappointed because they come in going one of these books is much better
+
+115
+00:11:21,880 --> 00:11:26,600
+ than all of the others and then and then it turns out that all of the judges believe that but they
+
+116
+00:11:27,240 --> 00:11:34,200
+ are picking different horses. Yeah I mean I enjoyed the anomaly but it is basically like a sort of
+
+117
+00:11:34,200 --> 00:11:39,880
+ I like its sort of character extrapolation stuff of what would actually be the effect on people if
+
+118
+00:11:39,880 --> 00:11:44,280
+ a certain thing happened but it's science fiction feels like it's got the middle bit where it sort
+
+119
+00:11:44,280 --> 00:11:49,240
+ of lays out a bunch of potential science fiction like explanations for why a particular thing has
+
+120
+00:11:49,240 --> 00:11:55,000
+ happened that just feels like a big info dump in the middle of the novel in a way which I wasn't
+
+121
+00:11:55,000 --> 00:12:01,560
+ very interested in. It has the same problem as six weeks that Edward Moreland was annoyed by
+
+122
+00:12:01,560 --> 00:12:05,880
+ which is the other problem it has is that all of the people from the religions basically agree
+
+123
+00:12:05,880 --> 00:12:12,200
+ and Edward Moreland says that he feels that this is unrealistic. I think it is but I think that I
+
+124
+00:12:12,200 --> 00:12:16,840
+ feel part of the problem there is if you try to do a realistic take-off all the religions would do
+
+125
+00:12:16,840 --> 00:12:24,040
+ in reaction to certain very difficult uh ecumenical questions that that would be and you'd end up
+
+126
+00:12:24,040 --> 00:12:31,240
+ wearing a 26 novel epic it's a lot to grapple with I could understand why authors don't like doing so
+
+127
+00:12:31,240 --> 00:12:36,360
+ but yeah I mean you're going for plausibility here that they have managed to kind of pick a
+
+128
+00:12:36,360 --> 00:12:40,680
+ representative per religion which would probably be a whole novel in itself of like who would you
+
+129
+00:12:40,680 --> 00:12:47,080
+ pick as a representative for each world religion. It especially has like as someone who grew up in
+
+130
+00:12:47,080 --> 00:12:52,280
+ the church of England like you can't even there's not I mean there's not even just two different
+
+131
+00:12:52,280 --> 00:12:56,680
+ groups in the church of England with opinions like it's fractal right there's disagreements all
+
+132
+00:12:56,680 --> 00:13:03,320
+ the way down. I think that's all true about the anomaly but I think I liked it better than Venomous
+
+133
+00:13:03,320 --> 00:13:09,960
+ Lumpsucker but I still didn't think it was great I thought it was solid. I think that's my main
+
+134
+00:13:09,960 --> 00:13:15,960
+ the 2022 list has so many books that I thought were great on it and the 2023 list is like oh
+
+135
+00:13:15,960 --> 00:13:21,240
+ I was excited and now I'm not so I don't know we'll see maybe after I've read the bar I have a
+
+136
+00:13:21,240 --> 00:13:26,440
+ different opinion. So I would say they break down into the three that I would recommend you read in
+
+137
+00:13:26,440 --> 00:13:32,040
+ this three where I'd say you probably don't need to bother or I was less excited by them and
+
+138
+00:13:32,040 --> 00:13:37,560
+ the anomaly is one of the three I enjoyed along with Venomous Lumpsucker and The Coral Bones by E.J.
+
+139
+00:13:37,560 --> 00:13:43,720
+ Swift and then the other three the Red Skullers Wake by Alette Bodard I already talked about a
+
+140
+00:13:43,720 --> 00:13:48,840
+ few episodes to go there's Plutishine by Lucy Hissick and also Imagine on by Tom Watson and I
+
+141
+00:13:48,840 --> 00:13:53,880
+ would say they're all kind of flawed in one way or another and I would have been a little
+
+142
+00:13:53,880 --> 00:13:59,080
+ disappointed if any of them had one but they didn't so I'm pretty happy with that. I think we
+
+143
+00:13:59,080 --> 00:14:03,640
+ talked about Plutishine at all we talked about Plutishine before I'm surprised it was on the
+
+144
+00:14:03,640 --> 00:14:08,360
+ shortlist and I would have been quite a stylish difficult one it would be a remarkable departure
+
+145
+00:14:08,360 --> 00:14:13,400
+ for the Clark Award judges if it had won. It is interesting because the 2022 shortlist had
+
+146
+00:14:13,400 --> 00:14:19,640
+ two I detested and three I loved and one I thought was okay but I understood why it was the winner
+
+147
+00:14:19,640 --> 00:14:24,760
+ but this one just seemed to be much more it seems to be in many ways a much safer shortlist
+
+148
+00:14:24,760 --> 00:14:28,840
+ I don't think there's anything I will truly detest and I don't think there's anything that
+
+149
+00:14:28,840 --> 00:14:33,480
+ will completely capture me it seemed to be much more kind of regression to the meme
+
+150
+00:14:33,480 --> 00:14:39,000
+ than previous ones and I don't know whether that says something about 2023 or 2022 as a year for
+
+151
+00:14:39,000 --> 00:14:43,800
+ the genre because the other thing is the I mean spoilers for our Hugo book discussion episode
+
+152
+00:14:43,800 --> 00:14:49,720
+ listeners but I think the same could be argued of the Hugo finalists this year as well where I don't
+
+153
+00:14:49,720 --> 00:14:55,400
+ think there's one that really astounded me. A lot of people are saying a lot of people are saying
+
+154
+00:14:55,400 --> 00:15:01,640
+ gosh isn't it a week year for the Hugo shortlist we are if we conclude that we will not be alone
+
+155
+00:15:01,640 --> 00:15:06,360
+ in our thoughts but I've only read two of them so far but I've read two of them that's amazing
+
+156
+00:15:06,360 --> 00:15:10,120
+ yeah no well done well done and the one that I've seen a lot of people say should have been on
+
+157
+00:15:10,120 --> 00:15:15,400
+ these shortlists was the moon day letters which as we previously discussed I liked a lot but I
+
+158
+00:15:15,400 --> 00:15:20,760
+ thought it had flaws I don't think I've read any books that I would give five out of five on good
+
+159
+00:15:20,760 --> 00:15:28,440
+ reads from 2022 yet maybe there's one lurking I just haven't heard about Sea of Tranquility by
+
+160
+00:15:28,440 --> 00:15:33,560
+ Emily Cindre-Mantle oh yeah I haven't read that one yet it is on my it is on my radar as is
+
+161
+00:15:33,560 --> 00:15:39,240
+ I don't give book star ratings really because I kind of think well a lot of books are just kind
+
+162
+00:15:39,240 --> 00:15:43,960
+ of not not a book that's being written for somebody like me but um Sea of Tranquility is
+
+163
+00:15:43,960 --> 00:15:47,640
+ absolutely a book that's being written for people like me and if I gave star ratings I'd
+
+164
+00:15:47,640 --> 00:15:52,600
+ give it a five stars because it's short and thoughtful the other one that I'm looking forward to reading
+
+165
+00:15:52,600 --> 00:15:56,840
+ which I think I will love is the spear cuts through water which I have not yet read yeah you'd love
+
+166
+00:15:56,840 --> 00:16:01,720
+ the Vanish birds I did love the Vanish birds but it was very good people say the spear cuts through
+
+167
+00:16:01,720 --> 00:16:06,600
+ water is better than the Vanish birds I have not read either anyway books in it but I'm glad you
+
+168
+00:16:06,600 --> 00:16:13,160
+ liked I'm glad you liked the numerous love sucker Liz I um yes hoorah and I would just say yes the
+
+169
+00:16:13,160 --> 00:16:18,120
+ final the final book that we because we haven't mentioned it on this podcast at all yet is metronome
+
+170
+00:16:18,120 --> 00:16:25,400
+ by Tom Watson which is very much your literary science fiction pick but two people who have committed
+
+171
+00:16:25,400 --> 00:16:32,920
+ some mysterious crime and their sentence is to live alone on an island or is it and every day
+
+172
+00:16:32,920 --> 00:16:37,480
+ they must take pills that get spent three times a day to keep them alive basically and it's about
+
+173
+00:16:37,480 --> 00:16:43,080
+ what happens when they come up to supposedly the end of their sentence and relief does not arrive
+
+174
+00:16:43,080 --> 00:16:50,520
+ and you learn more about their backstory and why they're on the island and it's fine it just feels
+
+175
+00:16:50,520 --> 00:16:58,120
+ a bit like not very new not to spoil too much but it does turn into a fairly standard dystopian
+
+176
+00:16:58,120 --> 00:17:02,360
+ reason for why these two have been exiled to an island and then it all goes a bit off the rails
+
+177
+00:17:02,360 --> 00:17:07,400
+ at the end I wouldn't recommend seeking out unless you're being a clerk shortlist completist this year
+
+178
+00:17:14,440 --> 00:17:23,960
+ and then on the topic of awards the Hugo voter packet has been released yes so a lot of people
+
+179
+00:17:23,960 --> 00:17:27,320
+ said that they were having a lot of trouble downloading and that was because
+
+180
+00:17:27,320 --> 00:17:34,440
+ Chengdu hadn't sorted its certificates out but they have sorted that all out now and I found it
+
+181
+00:17:34,440 --> 00:17:41,960
+ straightforward to download some of the downloads are huge and I'm you know I always cut slack to
+
+182
+00:17:41,960 --> 00:17:48,840
+ the best graphic story category because if you significantly reduce the size of those files then
+
+183
+00:17:48,840 --> 00:17:55,400
+ you also reduce the quality of the past probably what people really want but there's two enormous
+
+184
+00:17:55,400 --> 00:18:02,520
+ files one of which is I think the episode of the expanse that has been this is a finalist has
+
+185
+00:18:02,520 --> 00:18:07,560
+ been included in full but I wouldn't recommend anybody watch that if they haven't watched the
+
+186
+00:18:07,560 --> 00:18:13,240
+ previous 197 episodes of the expanse or how many have ever been in the hour so I'm not sure what
+
+187
+00:18:13,240 --> 00:18:21,480
+ used the two and a half gigabytes there is for you but in best related work there's a four gigabyte
+
+188
+00:18:21,480 --> 00:18:28,600
+ download that is the uncompressed audiobook of Terry Pratchett A Life with Footnotes by Rob
+
+189
+00:18:28,600 --> 00:18:34,200
+ Wilkins it's narrated by Rob Wilkins and it's lovely to have it in the packet I think that might be a
+
+190
+00:18:34,200 --> 00:18:39,480
+ first supply the audiobook edition as well as the print versions love it but they could probably
+
+191
+00:18:39,480 --> 00:18:45,960
+ have compressed that uncompressed audio is quite big yeah yeah I can see so I can see what they're
+
+192
+00:18:45,960 --> 00:18:50,360
+ going for so I would say also I had a problem downloading the packet at the start because the
+
+193
+00:18:50,360 --> 00:18:54,280
+ links would not automatically open when you clicked on them you had to basically go and open them in
+
+194
+00:18:54,280 --> 00:19:01,640
+ a new tab because the HTTP HTTPS was messed up but I also had some very slow downloads and I'm not
+
+195
+00:19:01,640 --> 00:19:04,760
+ sure why but it meant I actually haven't downloaded best related work yet because
+
+196
+00:19:04,760 --> 00:19:09,720
+ I know it's going to be a slow download and I don't listen to audiobooks so I am thinking look in
+
+197
+00:19:09,720 --> 00:19:14,120
+ future if you're going to have like anything which is or maybe over gig for a certain thing
+
+198
+00:19:14,120 --> 00:19:18,440
+ then make it optional I don't need two and a half gigs of the expanse it's very nice but I've
+
+199
+00:19:18,440 --> 00:19:23,160
+ seen it I don't need no new book I'm never going to listen to and it'd be fine if they were you
+
+200
+00:19:23,160 --> 00:19:27,960
+ know hosted somewhere incredibly fast like previous ones I think have been hosted on Amazon's like
+
+201
+00:19:27,960 --> 00:19:33,240
+ hosting system and I've been very quick to download but these were quite slow and so I don't
+
+202
+00:19:33,240 --> 00:19:37,960
+ want to just sort of sit there downloading a bunch of files I don't need also all the downloads are
+
+203
+00:19:37,960 --> 00:19:44,520
+ called Hugo packet so I have like Hugo packet folders one through 20 or something but on the
+
+204
+00:19:44,520 --> 00:19:52,920
+ contents of the Hugo packet I can link to it but um our occasional correspondent
+
+205
+00:19:52,920 --> 00:19:58,200
+ uh a Sats Culture has put together a page which tells you what is in the voter pack
+
+206
+00:19:58,200 --> 00:20:01,960
+ for all the fiction categories so not for every category but I think just for
+
+207
+00:20:01,960 --> 00:20:06,360
+ the fiction and some of and I think that's dramatic or is it or it might be everything it
+
+208
+00:20:06,360 --> 00:20:10,600
+ might be everything but it basically tells you what you get in there is it a partial version a
+
+209
+00:20:10,600 --> 00:20:17,000
+ complete version pdf e-pub what language is it in and then a few notes and that is quite useful to
+
+210
+00:20:17,000 --> 00:20:24,200
+ see what has been what has been presented in every category you can see that basically you get
+
+211
+00:20:24,200 --> 00:20:29,880
+ complete versions of all the novels but only if you go to netgalley and request one of them and
+
+212
+00:20:29,880 --> 00:20:34,280
+ also some of them are only in pdf and not e-pub which is a tiny bit annoying to me because I
+
+213
+00:20:34,280 --> 00:20:40,280
+ would much rather read things in e-pub and I can't think it is that beneficial to stop piracy to
+
+214
+00:20:40,280 --> 00:20:45,800
+ give me a complete book in pdf but only part of it in e-pub so it seems a bit strange I don't
+
+215
+00:20:45,800 --> 00:20:49,640
+ understand the logic where you put it in pdf and not in e-pub I can understand the logic of not
+
+216
+00:20:49,640 --> 00:20:54,120
+ providing it because you think some of the Hugo electorate might buy it and I guess by putting it
+
+217
+00:20:54,120 --> 00:20:59,000
+ in pdf and not e-pub you think that people who are annoyed enough by pdfs will buy the e-pub instead
+
+218
+00:20:59,000 --> 00:21:03,560
+ but like it just seems very strange to me I don't I really understand the logic and if it is piracy
+
+219
+00:21:03,560 --> 00:21:09,160
+ based that makes even less sense to me because they must be aware these books were already out there
+
+220
+00:21:09,160 --> 00:21:13,800
+ they're out there as soon as they're published like the Hugo's is not how these works are making
+
+221
+00:21:13,800 --> 00:21:19,720
+ it into into the seven seas I mean I would buy the e-book if I thought they were books that if
+
+222
+00:21:19,720 --> 00:21:23,640
+ they were books I would otherwise gonna probably buy anyway then I would go and buy the e-pub but
+
+223
+00:21:23,640 --> 00:21:29,880
+ I think they might be books which I may not otherwise have bought so I'm not going to go straight
+
+224
+00:21:29,880 --> 00:21:35,080
+ out there and buy the e-pubs when I can I can read the pdfs I just prefer to have them in e-pub
+
+225
+00:21:35,080 --> 00:21:40,440
+ so they can go on my e-reader that's exactly it right like I'm gonna read the e-pub I'm gonna read
+
+226
+00:21:40,440 --> 00:21:45,640
+ the pdf and be grumpy I'm not gonna spend money I'm just gonna be grumpy and that seems like the
+
+227
+00:21:45,640 --> 00:21:50,200
+ the weirds you shouldn't want me to be grumpy whatever you read your book I will get it some of
+
+228
+00:21:50,200 --> 00:21:55,960
+ the books you get to the long end of the long extracts and it says do ask for the whole of this
+
+229
+00:21:55,960 --> 00:22:01,480
+ book on netgalley and I have asked for some of these and I have not yet been sent any this is one of
+
+230
+00:22:01,480 --> 00:22:06,840
+ these when I was doing the Hugo packet thing one of the reasons we just like netgalley is that there's
+
+231
+00:22:06,840 --> 00:22:15,080
+ a kind of secret if you are in the US caveat to netgalley because mostly if people are not in the US
+
+232
+00:22:15,080 --> 00:22:22,200
+ the publishers will not give it to you so so you're disenfranchising your non-us photos I don't
+
+233
+00:22:22,200 --> 00:22:28,520
+ I mean I don't like netgalley very much so I don't too much mind the netgalley thing I think the problem
+
+234
+00:22:28,520 --> 00:22:32,920
+ with the netgalley thing is that you can't just log in and make an account now you have to make
+
+235
+00:22:32,920 --> 00:22:37,560
+ an account and fill in your whole profile and say whether you're like a reviewer or what and put
+
+236
+00:22:37,560 --> 00:22:43,000
+ in like the website where you post your reviews like you can't just sign up as a Hugo voter who is
+
+237
+00:22:43,000 --> 00:22:48,440
+ interested in only getting Hugo voter packet things you have to sign up like as a full member
+
+238
+00:22:48,440 --> 00:22:54,360
+ to get it and I did get the one I requested but like it's just quite a lot of extra faff because I
+
+239
+00:22:54,360 --> 00:23:01,400
+ had to basically log in and say oh well I'm a I'm a podcaster and I might podcast it we do in fact
+
+240
+00:23:01,400 --> 00:23:07,160
+ talk about books on our Hugo finalist podcast now so if anyone would like to send me books please
+
+241
+00:23:07,160 --> 00:23:13,640
+ feel free but that's kind of what annoys me about the netgalley thing which is they're like
+
+242
+00:23:13,640 --> 00:23:20,520
+ requests us on that galley and it's like but how if you're just someone who is a Hugo voter and does
+
+243
+00:23:20,520 --> 00:23:25,320
+ not have a broadcast and does not like have a blog where they talk about the books they read
+
+244
+00:23:25,320 --> 00:23:29,560
+ I don't get the impression you're likely to be accepted so they're basically saying if you're
+
+245
+00:23:29,560 --> 00:23:32,920
+ an important member of the community click this button and we'll give it to you but if you're one
+
+246
+00:23:32,920 --> 00:23:37,320
+ of the plebs you can't have it sorry and I'm like the whole point of the Hugo voter packet is it's
+
+247
+00:23:37,320 --> 00:23:42,840
+ good because all the voters get the packet and so I would rather it didn't have this bifurcation
+
+248
+00:23:42,840 --> 00:23:49,240
+ so when we did the packet we basically if people said oh they can ask for netgalley we were like
+
+249
+00:23:49,240 --> 00:23:53,480
+ well you're gonna get up to everyone right and they were like absolutely oh that's good when people
+
+250
+00:23:53,480 --> 00:23:57,160
+ wrote to us and said this has not come through from netgalley which wasn't variably because they
+
+251
+00:23:57,160 --> 00:24:01,480
+ worded to the US we would write back to the publishers and say right you're gonna send him a deep
+
+252
+00:24:01,480 --> 00:24:06,600
+ pub then here's their email address and and I did quite a lot of because one of the reasons that the
+
+253
+00:24:06,600 --> 00:24:11,960
+ Hugo voter packet was a ton of work was that we did quite a lot of managing round the edges
+
+254
+00:24:11,960 --> 00:24:17,400
+ through the Hugo packet help the other thing we did was stick um whatever they ended up download
+
+255
+00:24:17,400 --> 00:24:22,200
+ was over a gigabyte we just stuck it on a streaming site and pointed people at it we're not gonna we
+
+256
+00:24:22,200 --> 00:24:29,480
+ we didn't let people download 4 gigabytes of you know expanse episode I mean I I know that I think
+
+257
+00:24:29,480 --> 00:24:34,360
+ the download should be optional but as someone who always downloads all of the massive things um
+
+258
+00:24:34,360 --> 00:24:40,520
+ I'm quite glad that they uh they are there because I like downloading them so just to say
+
+259
+00:24:40,520 --> 00:24:44,920
+ some of the other things so Vincent Best Novella is there entirely an e-pub which is nice and
+
+260
+00:24:44,920 --> 00:24:51,480
+ therefore I'll probably read that entire category quite excited by that um one story in Best Novelette
+
+261
+00:24:52,040 --> 00:24:59,640
+ has a full Chinese translation one novelt that is uh was in the Chinese languages only available
+
+262
+00:24:59,640 --> 00:25:06,200
+ in in Chinese unfortunately so that's a bit of a shame but in Best Nove's short story it looks like
+
+263
+00:25:06,200 --> 00:25:12,120
+ five out of the six nominees are available in both languages which is very nice so actually
+
+264
+00:25:12,120 --> 00:25:15,480
+ this is this is gonna be really nice I was worried that I would not be able to have any
+
+265
+00:25:15,480 --> 00:25:18,760
+ opinions on some of these categories because of stories I couldn't get to but actually I will
+
+266
+00:25:18,760 --> 00:25:23,240
+ be able to read most of the nominees in these categories I think it's worth saying I think
+
+267
+00:25:23,240 --> 00:25:30,280
+ for once in future the graphic story where volume four has been nominated I think the entire work
+
+268
+00:25:30,280 --> 00:25:35,320
+ is in there and I read the first two volumes while on holiday and pretty enjoyed it so now I'm
+
+269
+00:25:35,320 --> 00:25:39,400
+ gonna read the benefits that he goes and read all the rest everything else in graphic story
+
+270
+00:25:39,400 --> 00:25:44,200
+ seems to be there completely best related work there's a bunch of stuff I guess the only one
+
+271
+00:25:44,200 --> 00:25:50,840
+ where it might be hard to judge is Best Series you get complete works for two of them and for three
+
+272
+00:25:50,840 --> 00:25:56,360
+ of them you have to try and request copies on net galley and for one of them you there are any net
+
+273
+00:25:56,360 --> 00:26:00,840
+ galley requests links so it'll be interesting to see if that has any well I bet we can't really
+
+274
+00:26:00,840 --> 00:26:06,440
+ tell if that has any effect on the voting but I think that is very nice particularly as tiny
+
+275
+00:26:06,440 --> 00:26:11,320
+ spoilers for our Hugo episode but I read uh terms and mirrors known of the ninth and if you have
+
+276
+00:26:11,320 --> 00:26:15,240
+ not read Gideon the ninth and Harrow the ninth I think you will be completely confused by
+
+277
+00:26:15,240 --> 00:26:21,160
+ Nona the ninth so that's going to be an interesting one does having all the material you need in the
+
+278
+00:26:21,160 --> 00:26:26,920
+ Best Series packet help you in best novel if your novel is quite a difficult entry point
+
+279
+00:26:26,920 --> 00:26:32,280
+ John have you read Gideon the ninth and Harrow the ninth yes obviously uh brilliant um
+
+280
+00:26:32,280 --> 00:26:35,640
+ I'm sorry you could be a guinea pig I want someone who hasn't read him to read Nona
+
+281
+00:26:36,200 --> 00:26:41,560
+ it's time for our new segment which is called what does my wife think about the state of the field
+
+282
+00:26:41,560 --> 00:26:48,520
+ of science fiction da da da da da hey jingle it's basically it's fanny was going to read Nona the ninth
+
+283
+00:26:48,520 --> 00:26:53,080
+ because she was very unconvinced by Harrow uh she I think she quite liked Gideon but she did not
+
+284
+00:26:53,080 --> 00:26:57,720
+ really get on with Harrow she went to download Nona the ninth and then she read in the thing this
+
+285
+00:26:57,720 --> 00:27:01,960
+ is the third book in the four book series and she was like no this is not what Best Novel is for this
+
+286
+00:27:01,960 --> 00:27:07,880
+ is why we gave you lot Best Series push off with your series is and this triggered a run and that
+
+287
+00:27:07,880 --> 00:27:12,840
+ made me laugh quite a lot yeah I don't know I don't think Nona Nona didn't I just want half an
+
+288
+00:27:12,840 --> 00:27:17,160
+ hour of his spanias opinions can we just have you recording episode with a spaniel one day
+
+289
+00:27:17,160 --> 00:27:22,920
+ what spaniel thinks about the state of science fiction I think it would be fun yes I only report
+
+290
+00:27:22,920 --> 00:27:26,520
+ the things that I think that will make you laugh there are things that would make you argue with
+
+291
+00:27:26,520 --> 00:27:30,760
+ her and that's where the problem would arise so one of the things that's interesting about the
+
+292
+00:27:30,760 --> 00:27:36,680
+ voter packet is that it's not complete and for example best fan scene where people did submit
+
+293
+00:27:36,680 --> 00:27:43,320
+ uploads to it has not appeared in the packet and there may be more but I'm not sure so it seems
+
+294
+00:27:43,320 --> 00:27:48,360
+ quite strange to me that it's complete in most areas but not in others did one of you just say
+
+295
+00:27:48,360 --> 00:27:53,560
+ there's the whole rivers of London nine books as long as you like PDFs yeah that's what I said
+
+296
+00:27:54,200 --> 00:28:01,400
+ I am I'm on net galley as we speak uh which is bad form I know I shouldn't do these things
+
+297
+00:28:01,400 --> 00:28:08,280
+ but uh I am doing so you know there's that and I am requesting the books but I had to update my
+
+298
+00:28:08,280 --> 00:28:12,200
+ account so I created it before you needed to give them loads of information but they have
+
+299
+00:28:12,200 --> 00:28:17,800
+ basically when you log in they're like oh you have to give us all the information so I am now
+
+300
+00:28:17,800 --> 00:28:26,840
+ listed as john c/media-comer-journalist which is ludicrous yeah I'm a serious book reviewer
+
+301
+00:28:26,840 --> 00:28:33,320
+ there's no option for I just quite like books I think that's what makes me I think that
+
+302
+00:28:33,320 --> 00:28:40,200
+ what makes me a little bit sneer about using net galley which is you shouldn't need to be
+
+303
+00:28:40,200 --> 00:28:46,360
+ anything other than someone who quite likes books to engage with the Hugo voting you should not
+
+304
+00:28:46,360 --> 00:28:52,440
+ need to have an outlet I should not need to give a URL of where I am going to discuss this book
+
+305
+00:28:52,440 --> 00:28:57,240
+ and I understand why net galley does that because it is a book for reviewers to ask for copies of
+
+306
+00:28:57,240 --> 00:29:02,760
+ review books but that is not what the Hugo's there's no there's no implication of a quid pro
+
+307
+00:29:02,760 --> 00:29:07,640
+ pro of like I will read this and might review it in the Hugo packet you read it and might vote for
+
+308
+00:29:07,640 --> 00:29:13,160
+ it so like put it in or don't put it in but the net galley thing is daft imho I'm feeling very
+
+309
+00:29:13,160 --> 00:29:18,520
+ punchy today sorry I'm very opinionated I mean it's a net galley thing because they can
+
+310
+00:29:18,520 --> 00:29:24,440
+ do one of those like watermarked e-pubs that has all my details in or something
+
+311
+00:29:24,440 --> 00:29:28,040
+ I haven't actually opened my net galley one yet but if they did that I guess that would kind of make
+
+312
+00:29:28,040 --> 00:29:33,480
+ sense right like if you buy books or for so books then they're all DRM free and they email them to
+
+313
+00:29:33,480 --> 00:29:39,000
+ you if you go to request short and requires books on net galley you can just download them you
+
+314
+00:29:39,000 --> 00:29:42,600
+ don't actually have to request them they're just there so like if you have been thinking about
+
+315
+00:29:42,600 --> 00:29:49,480
+ reading those they just have a read it link rather than a request access link um so that that and that
+
+316
+00:29:49,480 --> 00:29:55,560
+ I think is that I'm fine with is the requesting bit that I find odd I haven't read those and I
+
+317
+00:29:55,560 --> 00:30:00,920
+ think they're the only ones in best series I haven't read hmm maybe I read one or two Rosemary
+
+318
+00:30:00,920 --> 00:30:07,160
+ room is fine it doesn't take long and it's not like it's not so terrible you throw it across a room
+
+319
+00:30:07,720 --> 00:30:10,920
+ but equally I don't think it's good enough to merit winning an award
+
+320
+00:30:10,920 --> 00:30:20,760
+ site selection uh Liz has written in the show notes
+
+321
+00:30:20,760 --> 00:30:26,280
+ site selection voting has started if you can manage it Liz do you want to talk about that
+
+322
+00:30:26,280 --> 00:30:31,960
+ well I I have not personally tried to vote in site selection because there's only one bid this
+
+323
+00:30:31,960 --> 00:30:37,640
+ year so it's not like they need my vote especially and it seemed like quite a lot of hassle because
+
+324
+00:30:37,640 --> 00:30:43,160
+ all the emails like went into my spam folder I basically interactions with the Chengdu website
+
+325
+00:30:43,160 --> 00:30:48,280
+ are basically oh yeah I'll do them if I have to but they're normally like oh maybe the certificate's
+
+326
+00:30:48,280 --> 00:30:55,160
+ broken or or maybe this page isn't load or oh maybe I can get a reset email for my password but I
+
+327
+00:30:55,160 --> 00:31:00,040
+ can never actually manage to log in in the time the password reset email is actually valid um you
+
+328
+00:31:00,040 --> 00:31:04,120
+ know basically it's with a hassle and so I haven't voted in site selection because
+
+329
+00:31:04,120 --> 00:31:14,680
+ I can't build it but there is one bid it is for Seattle a place I have never been but sounds
+
+330
+00:31:14,680 --> 00:31:24,360
+ quite nice Seattle's amazing um it would be in the brand new expansion to the conference center
+
+331
+00:31:24,360 --> 00:31:29,560
+ in downtown Seattle it hasn't been settled since 1961 it seems like a pretty good bid for a world
+
+332
+00:31:29,560 --> 00:31:33,880
+ con and a pretty interesting place to have a world con and they've got a fun logo which is
+
+333
+00:31:33,880 --> 00:31:38,840
+ presumably as close as you can get to the Starbucks logo without getting sued what a look good on
+
+334
+00:31:38,840 --> 00:31:45,000
+ t-shirts and so you can now vote for it and I also got some emails which said that there would be
+
+335
+00:31:45,000 --> 00:31:52,200
+ like a Q&A session with the Seattle bid unfortunately this Q&A session was held yesterday and I
+
+336
+00:31:52,200 --> 00:31:57,160
+ fished the emails out of my spam bucket this morning but it's the thought that counts right
+
+337
+00:31:57,160 --> 00:32:01,960
+ it's just changing the end of the problem right this is a perfectly reasonable email
+
+338
+00:32:01,960 --> 00:32:06,680
+ but the problem is that the registration link obviously goes through doesn't go straight to
+
+339
+00:32:06,680 --> 00:32:10,920
+ a zoom page something it goes to some kind of like link thing through their email which
+
+340
+00:32:10,920 --> 00:32:14,840
+ presume you used for nefarious purposes and so Google thinks all of them are trying to steal my
+
+341
+00:32:14,840 --> 00:32:19,320
+ information and so they always end up in spam and I just don't regularly tip my spam enough
+
+342
+00:32:19,320 --> 00:32:24,120
+ so I'm very glad it's not a contested bid actually because I think it was a contested bid and people
+
+343
+00:32:24,120 --> 00:32:30,760
+ were having lots of problems logging in and lots of problems paying I think you can only pay using
+
+344
+00:32:30,760 --> 00:32:37,720
+ credit card not like buy check or cash this year but I can't be long let me just check that one
+
+345
+00:32:37,720 --> 00:32:43,880
+ I think this is 2023 right it is 2023 but potentially people don't want to give their credit card
+
+346
+00:32:43,880 --> 00:32:50,840
+ details to a Chinese welcome yes so buy yourself a throw away prepayment card and use that yeah
+
+347
+00:32:50,840 --> 00:32:58,120
+ probably but I mean I've never tried doing that in the US and I don't know who easy is and okay
+
+348
+00:32:58,120 --> 00:33:01,880
+ bit it's a bit different because you've always been able to like hand carry a ballot with some
+
+349
+00:33:01,880 --> 00:33:06,520
+ dollars in it basically if you really wanted to and that year that's not going to be an option
+
+350
+00:33:06,520 --> 00:33:12,040
+ yeah and I think like yeah probably yeah you could say okay we're not going to take any cash
+
+351
+00:33:12,040 --> 00:33:17,640
+ or checks for site selection like I think if Glasgow wanted to say now we are not taking cash
+
+352
+00:33:17,640 --> 00:33:22,200
+ or checks for site selection you have to manage to pay through our online system or at the comm
+
+353
+00:33:22,200 --> 00:33:25,880
+ could announce it now but maybe you need to announce that one a little bit in advance for those people
+
+354
+00:33:25,880 --> 00:33:29,800
+ who don't have credit cards or don't wish to get a credit card but I mean then they get a friend
+
+355
+00:33:29,800 --> 00:33:33,800
+ to pay for them and pay them back presumably there are ways around it and I'm sure they will
+
+356
+00:33:33,800 --> 00:33:39,160
+ figure them out so I guess it's good it's not in a contested bid year but I have not joined it
+
+357
+00:33:39,160 --> 00:33:41,800
+ I'll join Seattle when they actually become the seated bid
+
+358
+00:33:41,800 --> 00:33:48,920
+ [Music]
+
+359
+00:33:48,920 --> 00:33:53,560
+ I need to before I go on my guff trip spoiler for the next section I am going to get a bra
+
+360
+00:33:53,560 --> 00:33:59,320
+ that contains no wire oh yeah get one for traveling you need a wire free bra anyway
+
+361
+00:33:59,320 --> 00:34:03,320
+ it was a pandemic yeah obviously I don't know why I hadn't worked this out before
+
+362
+00:34:03,320 --> 00:34:08,600
+ I just like people feeling my tits in public on the subject of Alison's tits let's talk about
+
+363
+00:34:08,600 --> 00:34:14,680
+ guff what's your guff plans Alison so yes it's happening it's really it's really really
+
+364
+00:34:14,680 --> 00:34:19,560
+ really happening now I have booked almost all of my flights I've booked almost all of my accommodation
+
+365
+00:34:19,560 --> 00:34:24,200
+ though it's all the accommodation is cancelable so if fans come out of the woodwork in the places
+
+366
+00:34:24,200 --> 00:34:29,960
+ where we've where I've ended up booking hotels and say no no no I can put you up do not do not stay
+
+367
+00:34:29,960 --> 00:34:36,600
+ in a hotel there then booked a very exciting train up the east coast of the south island of New
+
+368
+00:34:36,600 --> 00:34:41,560
+ Zealand and I've booked a very exciting ferry across the cook straight which is supposed to be the
+
+369
+00:34:41,560 --> 00:34:46,520
+ best beautiful ferry journey in the world or my New Zealand friends say when the weather is good
+
+370
+00:34:46,520 --> 00:34:50,680
+ which is apparently a bit random but you know I used to live in Scotland I understand this
+
+371
+00:34:50,680 --> 00:34:56,600
+ I have lots of plans to meet up with people if you are in Melbourne, Sydney, Canberra or if you're
+
+372
+00:34:56,600 --> 00:35:03,320
+ going to Conflux which is the Australian netcon Adelaide, Christchurch, Picton or Nelson which is
+
+373
+00:35:03,320 --> 00:35:09,000
+ quite near Picton Wellington Auckland or Perth get in touch I mean not if you're already in touch
+
+374
+00:35:09,000 --> 00:35:12,600
+ because obviously a lot of these things are already sorted but I'll be in all of those places and in
+
+375
+00:35:12,600 --> 00:35:17,800
+ most cases I'll be in those places for long enough that I can be fairly flexible about when I meet up
+
+376
+00:35:17,800 --> 00:35:23,880
+ and I'm very excited by all of this and I've got like side trips and where there's one side trip I
+
+377
+00:35:23,880 --> 00:35:28,120
+ don't want to talk about because it's so exciting that if it happens I'll be like oh I can talk about
+
+378
+00:35:28,120 --> 00:35:35,240
+ it out and I'll go to islands and I'm going to tourist places and I'm going to Faddish
+
+379
+00:35:35,240 --> 00:35:40,360
+ Haultsard I'm going to hear Justin Accroyd singing Acapella music with men
+
+380
+00:35:40,360 --> 00:35:50,760
+ and wow it's just amazing it's gonna be amazing guys it's also going to be incredibly expensive
+
+381
+00:35:50,760 --> 00:35:57,080
+ oh I mean I'm sorry for the person who's going to come north in 2024 because
+
+382
+00:35:57,080 --> 00:36:02,040
+ there's going to be any funds so I guess I'm going to have to start fundraising
+
+383
+00:36:02,040 --> 00:36:05,240
+ massively for that immediately after I get back from the trip
+
+384
+00:36:05,240 --> 00:36:11,160
+ them are them are the rules I mean this is a serious thing I think is that as far as I can tell
+
+385
+00:36:11,160 --> 00:36:19,560
+ flights in the post-COVID flights in this kind of weird semi-post pandemic flights of resumed time
+
+386
+00:36:20,280 --> 00:36:26,200
+ are drastically more expensive than they were in the pre-pandemic era so just for that
+
+387
+00:36:26,200 --> 00:36:31,000
+ basically more we're going to need more fundraising for every every fanist trip
+
+388
+00:36:31,000 --> 00:36:36,760
+ internal flights don't actually seem to have gone up as much as I thought but I think the
+
+389
+00:36:36,760 --> 00:36:44,440
+ actual flight to and from Australia is about it's not quite doubled it's about 80% more than I
+
+390
+00:36:44,440 --> 00:36:48,920
+ thought I was going to have to pay for that flight well when I ran in 2020 and hence because
+
+391
+00:36:48,920 --> 00:36:53,080
+ Stephen's coming with me for three weeks his flight is also his flight's not quite as expensive as
+
+392
+00:36:53,080 --> 00:36:58,760
+ mine because I'm going by one airline to Sydney and I'm coming back by another airline from Perth so
+
+393
+00:36:58,760 --> 00:37:05,800
+ oh yeah that'll get you one of my expensive things about this trip is that it's going to be the
+
+394
+00:37:05,800 --> 00:37:11,480
+ first time we think that a guff delegate has taken a non-stop flight from Australia to the UK so
+
+395
+00:37:11,480 --> 00:37:16,840
+ that's quite exciting oh god that's going to be a long flight do you feel do you like long flights
+
+396
+00:37:16,840 --> 00:37:25,640
+ Alison 17 hours 45 minutes I believe that I am going to test whether it's possible for me to sleep
+
+397
+00:37:25,640 --> 00:37:30,760
+ continuously for 17 hours and 45 minutes and it might be because I mean I kind of look at the
+
+398
+00:37:30,760 --> 00:37:34,840
+ things I've packed into Perth on the grounds that I can sleep when I'm dead or rather when I'm on
+
+399
+00:37:34,840 --> 00:37:40,360
+ an aeroplane for 17 hours and 45 minutes I well I hope it I hope it's a very good trip you're going
+
+400
+00:37:40,360 --> 00:37:47,480
+ to need a squishy bra all I can say I am going to get a squishy bra but also I quite good at sleeping
+
+401
+00:37:47,480 --> 00:37:51,560
+ on Forbes and public transport so I hope it's going to be okay this probably can't go in the
+
+402
+00:37:51,560 --> 00:37:57,720
+ podcast but one way you could raise funds is by auctioning the squishy bra at the end having
+
+403
+00:37:57,720 --> 00:38:03,800
+ not washed it that's disgusting and no and also the squishy bra would have been washed on multiple
+
+404
+00:38:03,800 --> 00:38:09,960
+ occasions during the trip you can't you can't tell me you don't think it might work it could there's
+
+405
+00:38:09,960 --> 00:38:16,040
+ a chance it would it would work I mean you probably can push to the podcast but though I have never
+
+406
+00:38:16,040 --> 00:38:19,480
+ I have never ever ever ever ever ever ever ever you know because I do quite a lot of eBay and
+
+407
+00:38:19,480 --> 00:38:26,760
+ so Alison will you be reporting on your goth trip on you know live journal or twitter or your only
+
+408
+00:38:26,760 --> 00:38:34,680
+ fans I tell you what that is a good way to raise money for the fan funds that is the only fans
+
+409
+00:38:34,680 --> 00:38:49,000
+ with discussion of the exact nature of the squishy bra only fan funds
+
+410
+00:38:49,000 --> 00:38:57,720
+ so shall we do pics yes we're going to make Alison go first on account of how
+
+411
+00:38:57,720 --> 00:39:05,080
+ she's got another non-Sf no pic it's totally a sf no oh hello oh hello come on now yeah no actually
+
+412
+00:39:05,080 --> 00:39:12,280
+ that's that is fair that is fair all right Alison do your very very relevant pic so so my pic is
+
+413
+00:39:12,280 --> 00:39:19,880
+ several crates of unsorted lego which is where my decluttering has got to and I was like I can
+
+414
+00:39:19,880 --> 00:39:24,920
+ take these what I should have done was go I have several I found several unsorted crates of lego
+
+415
+00:39:24,920 --> 00:39:30,760
+ what I should do is put them to us to one side until much later in the decluttering process where I
+
+416
+00:39:30,760 --> 00:39:35,800
+ could then sort out the lego but in fact I went oh lego let me sort it out this will not take it
+
+417
+00:39:35,800 --> 00:39:42,280
+ long and I will generate order out of chaos it has it is it is it is one box of lego what
+
+418
+00:39:42,280 --> 00:39:46,440
+ great lego belonging to one of my offspring one crate of lego belonging to my other offspring
+
+419
+00:39:46,440 --> 00:39:52,920
+ and two castles which I thought were in two separate crates but appear to be in two crates
+
+420
+00:39:52,920 --> 00:39:59,240
+ each of which have bits of each castle in it in that helpful way and also a box or a crate of
+
+421
+00:39:59,240 --> 00:40:05,880
+ bionicle which has never been sorted it was given to us as I was kind of here have a crate of
+
+422
+00:40:05,880 --> 00:40:11,320
+ totally unsorted bionicle and it has stayed in that way and I thought I would generate order
+
+423
+00:40:11,320 --> 00:40:16,840
+ out of chaos but in fact what I have done is generate several slightly smaller heaps of chaos
+
+424
+00:40:16,840 --> 00:40:23,240
+ which is not necessarily a good outcome but I have made one of the castles and and I was like
+
+425
+00:40:23,240 --> 00:40:27,240
+ because it's very straightforward you could buy the bits if there are a few bits missing I will
+
+426
+00:40:27,240 --> 00:40:32,360
+ sort everything out sort of to two sets work out which bits are missing get all the spare bits
+
+427
+00:40:32,360 --> 00:40:39,000
+ profit and it turns out that one of the bits that's missing from this castle is a piece of
+
+428
+00:40:39,720 --> 00:40:49,480
+ hose lego hose that only existed in this castle yep and somebody in Denmark will sell me for 14
+
+429
+00:40:49,480 --> 00:40:55,320
+ pounds that's not happening so I don't know I'm leaving this as a maybe later maybe it'll be
+
+430
+00:40:55,320 --> 00:40:59,480
+ somewhere else if I like my child's bedroom but I think what happens is that although we'd be very
+
+431
+00:40:59,480 --> 00:41:06,600
+ assiduous about not throwing away lego ever a random bit of plastic tube could easily have
+
+432
+00:41:06,600 --> 00:41:14,440
+ got thrown away are you sure that it is hose and it's not hose hose have you considered looking for
+
+433
+00:41:14,440 --> 00:41:22,920
+ any tiny letter o's in lego in your house this foreign listeners is a two ronnie's joke well if
+
+434
+00:41:22,920 --> 00:41:27,960
+ you cut it very fine with a knife because one of my one of my options for this hose is to get
+
+435
+00:41:27,960 --> 00:41:34,120
+ the same hose in roughly the same color and a bit longer and chop a bit off the end of it that
+
+436
+00:41:34,120 --> 00:41:38,600
+ might happen and then when they're like she did this they'll be like there's no proof and they
+
+437
+00:41:38,600 --> 00:41:45,720
+ will direct people to Oxford episode 91 hello future lego police it's good to have you with us
+
+438
+00:41:45,720 --> 00:41:51,960
+ yeah so of course it is science fiction because the castles are from the 2006 to
+
+439
+00:41:51,960 --> 00:42:00,200
+ 2008 fantasy castle era of of lego which is fantastic the castle I have built is the dwarf's mine
+
+440
+00:42:00,200 --> 00:42:07,720
+ which is way better than any 40 pound lego set has ever been it's wonderful it's got like
+
+441
+00:42:07,720 --> 00:42:13,400
+ it's got like little tippy crates full of golds that you tip and and many like double-headed
+
+442
+00:42:13,400 --> 00:42:20,520
+ axes and just fantastic stuff Liz you got any lego? I mean not anymore I did have a lot of lego
+
+443
+00:42:20,520 --> 00:42:24,680
+ I'm not entirely sure whether lego ended up I mean it wouldn't have been thrown away right
+
+444
+00:42:24,680 --> 00:42:30,680
+ because yeah no I mean it'll probably have been donated to some younger children who wanted lego
+
+445
+00:42:30,680 --> 00:42:35,720
+ I think oh yeah I had tons very organized filing system as well the lego knight's castle
+
+446
+00:42:35,720 --> 00:42:42,840
+ which is the one that like uses all the iconography for when I was a child is 344 pounds 99 yeah it's
+
+447
+00:42:42,840 --> 00:42:48,680
+ about four times the size of the original knight's castle oh yeah but it's also four times the
+
+448
+00:42:48,680 --> 00:42:54,120
+ and a lot of the new lego they've got a lot of like small little bits but they don't they don't
+
+449
+00:42:54,120 --> 00:43:00,120
+ necessarily have the stuff that's so you know exciting about the about the dwarf mine the dwarf
+
+450
+00:43:00,120 --> 00:43:04,600
+ mine's the dwarf mine's an awesome set um it's amazing how much of it is still there actually
+
+451
+00:43:04,600 --> 00:43:10,280
+ given you know given the fact that it has got things like projectiles sorry Liz I interrupted your
+
+452
+00:43:10,280 --> 00:43:14,840
+ you're about to tell us all about it's all right no I've got I've got distracted by looking
+
+453
+00:43:14,840 --> 00:43:21,000
+ lego pirate ships now yes this is the way yes so one of the problems of this is that I don't feel
+
+454
+00:43:21,000 --> 00:43:27,560
+ I don't really want to give children crates of unsorted lego but also my my offspring feel like
+
+455
+00:43:27,560 --> 00:43:32,760
+ there is probably money in there them their hills and they are probably right even but I'll know
+
+456
+00:43:32,760 --> 00:43:38,680
+ how much money after I finished all the sort of Liz yes oh do you want my pick or I'm gonna talk
+
+457
+00:43:38,680 --> 00:43:43,720
+ about lego yes please you want my pick oh okay so I read a lot of books and now I'm like oh which
+
+458
+00:43:43,720 --> 00:43:50,360
+ ones do I want people to to to use my pick I am gonna go with the mountain in the sea by Ray
+
+459
+00:43:50,360 --> 00:43:57,000
+ Naylor which was a Hugo nominee at the time which was a nebula finalist and also one of those
+
+460
+00:43:57,000 --> 00:44:02,040
+ books where I thought people were thinking it was a nailed on Hugo finalist and it was not
+
+461
+00:44:02,040 --> 00:44:07,400
+ along with Babel or that was even more nailed on so the mountain in the sea is I believe a
+
+462
+00:44:07,400 --> 00:44:16,120
+ debut novel of Ray Naylor and it is about octopuses yay more specifically it is about it's kind of a
+
+463
+00:44:16,120 --> 00:44:23,800
+ book about kind of the nature of intelligence and what it means to be intelligent and what it means
+
+464
+00:44:23,800 --> 00:44:31,720
+ to be conscious in a sort of near future setting a lot of it is set on these Condal Islands which
+
+465
+00:44:31,720 --> 00:44:37,080
+ are set of islands in Vietnam which have now been kind of cordoned off from the world by a large
+
+466
+00:44:37,080 --> 00:44:42,120
+ tech corporation and the scientists get sent to investigate what is essentially an extremely
+
+467
+00:44:42,120 --> 00:44:47,720
+ intelligent octopus species living down there but there's also kind of the nature of artificial
+
+468
+00:44:47,720 --> 00:44:54,120
+ intelligence of AIs it's near future you've got the hacking of AIs you've got human slavery on these
+
+469
+00:44:54,120 --> 00:45:00,520
+ giant fishing ships run by AI that are sailing the seas and it's a bit of a slightly dystopian
+
+470
+00:45:00,520 --> 00:45:05,800
+ future and I quite enjoyed it I think its main floor is it it does feel like someone read a lot of
+
+471
+00:45:05,800 --> 00:45:09,640
+ books on octopuses and was like yeah octopuses they're super cool I'm gonna write a book about
+
+472
+00:45:09,640 --> 00:45:15,800
+ super telling octopuses yay and there's a bit much of that and I'm not quite sure it gets the DNA
+
+473
+00:45:15,800 --> 00:45:21,240
+ and evolution stuff quite right but I mean that is my problem with like all novels with DNA and
+
+474
+00:45:21,240 --> 00:45:25,960
+ evolution as we've been through on the podcast before but it's good enough and yeah I quite
+
+475
+00:45:25,960 --> 00:45:33,960
+ enjoyed it it's a very good start and I would read more by Raynaylor nice I've not heard of that one
+
+476
+00:45:33,960 --> 00:45:43,880
+ so that is interesting is it as good as Agent Tchaikovsky's book about octopuses um no but it is short
+
+477
+00:45:43,880 --> 00:45:50,440
+ and standalone intriguing I mean I do like octopuses so you know that could work anyway now that I've
+
+478
+00:45:50,440 --> 00:45:57,320
+ started reading books I have I have um Paul requested it from the library I guess a lot of these books
+
+479
+00:45:57,320 --> 00:46:02,600
+ are going to come in while I'm in Australia you can always let the lapses expire and then just
+
+480
+00:46:02,600 --> 00:46:08,920
+ re-request them right but yeah but it's 65 pence every time John so you're five pence you
+
+481
+00:46:08,920 --> 00:46:16,520
+ place a hold yeah that's almost when I place a hold for a physical book it's 65 pence online I think
+
+482
+00:46:16,520 --> 00:46:20,920
+ it would I think it would be free if I place the holds at the library on a book that was in
+
+483
+00:46:20,920 --> 00:46:25,160
+ Walthon Forest but I never place holds at the library always place holds online because it's
+
+484
+00:46:25,160 --> 00:46:30,600
+ not really worth 65 p to me to queue up at the library desk and then I should do my pick we're
+
+485
+00:46:30,600 --> 00:46:35,400
+ in the sequence of the year where almost all of the reading I'm doing is for the Hugo episode
+
+486
+00:46:35,400 --> 00:46:40,680
+ and so I have no good recommend it like I have nothing to report there really
+
+487
+00:46:40,680 --> 00:46:46,600
+ realize I picked Lego and I could have picked the world I've left this I've left this for picks
+
+488
+00:46:46,600 --> 00:46:53,720
+ because it's not I guess it's not really directly Oct Thorpe's remit and also I've been accused before
+
+489
+00:46:53,720 --> 00:46:59,640
+ of wanging on for too long about stuff I've read or played under the guise of not picking so this
+
+490
+00:46:59,640 --> 00:47:05,560
+ time I'm going to do it under the guise of picking them so I have played the Spilled Eora's nominees
+
+491
+00:47:05,560 --> 00:47:14,920
+ for 2023 I have not to be fair this is a slight lie because I have not played fun facts because I
+
+492
+00:47:14,920 --> 00:47:21,080
+ cannot find an implementation of it or a copy of it anywhere I can access it which is like you
+
+493
+00:47:21,080 --> 00:47:28,280
+ know it happens but it is very slightly irritating but I have managed to play the other five so I
+
+494
+00:47:28,280 --> 00:47:35,400
+ don't tend to bother with the Kinder Spilled Eora because that's like for younger games and they're
+
+495
+00:47:35,400 --> 00:47:43,640
+ not usually my speed so I have played challenges and Icky and Planet Unknown and then I've also
+
+496
+00:47:43,640 --> 00:47:49,400
+ played Dothromantic and Next Station London Dothromantic and Next Station London were up for the Spiel
+
+497
+00:47:49,400 --> 00:47:56,520
+ and challenges and Icky and Planet Unknown were up for the Kenna Spiel and I enjoyed all of them
+
+498
+00:47:56,520 --> 00:48:02,680
+ actually so Dothromantic is based on a video game which is out for PC and Switch and I actually
+
+499
+00:48:02,680 --> 00:48:08,600
+ think the board game adaptation is better than the video game because the video game is infinite
+
+500
+00:48:08,600 --> 00:48:15,560
+ and you basically just keep going until you fail but the board game is a bit more structured which
+
+501
+00:48:15,560 --> 00:48:20,360
+ I like and I kind of hope they will add a mode to the video game which recreates the way the board
+
+502
+00:48:20,360 --> 00:48:24,520
+ game works because that would be neat I would be interested to play the board game more the
+
+503
+00:48:24,520 --> 00:48:30,600
+ the TTS mode I used to play it does not have the campaign elements in the mod and so I would
+
+504
+00:48:30,600 --> 00:48:34,760
+ call it go to a board game cafe and see like how it unfolds as you can see to use play
+
+505
+00:48:34,760 --> 00:48:38,120
+ because I think that might be quite interesting and Next Station London is a lovely little roll
+
+506
+00:48:38,120 --> 00:48:46,760
+ and write it's very vaguely themed around London like almost non-existently but it's got bright
+
+507
+00:48:46,760 --> 00:48:53,640
+ colours and it's about making trains on a little pad so I liked that one quite a lot that's the game
+
+508
+00:48:53,640 --> 00:49:00,280
+ I played of all the board games I played in 2022 Next Station London is the one I played the most
+
+509
+00:49:00,280 --> 00:49:07,000
+ about 12 times I think it takes about 10 minutes right and you can play five games in a row yep
+
+510
+00:49:07,000 --> 00:49:12,600
+ now those are both true facts I don't neither of those games would be good enough to end up in
+
+511
+00:49:12,600 --> 00:49:18,200
+ my collection I don't think they're both like probably Dothromantic is probably a six and Next
+
+512
+00:49:18,200 --> 00:49:23,160
+ Station London is probably a five like I would play Dothromantic again but I can't see myself
+
+513
+00:49:23,160 --> 00:49:26,840
+ playing it a lot and Next Station London like I'm glad I played it but I probably won't go back
+
+514
+00:49:26,840 --> 00:49:33,400
+ because it's very light I have better role and write so I think Next Station London's on board
+
+515
+00:49:33,400 --> 00:49:39,000
+ game arena and that's a very good way of playing it I was gonna get to that at the end
+
+516
+00:49:39,000 --> 00:49:45,240
+ the other three games are played with Challengers Icky and Planet Unknown Icky has a terrible rule
+
+517
+00:49:45,240 --> 00:49:50,120
+ book but the actual game is lovely my friends really disliked the game because of how bad the
+
+518
+00:49:50,120 --> 00:49:54,440
+ rule book was and this is a salutary lesson in if you are designing a game make sure the rule book
+
+519
+00:49:54,440 --> 00:49:58,600
+ does not make the game feel like a chore to play because I think the core gameplay loop
+
+520
+00:49:58,600 --> 00:50:04,120
+ Icky is really good and I think the rule book does a terrible job of introducing you to it but
+
+521
+00:50:04,120 --> 00:50:10,440
+ it's really nice it's got beautiful art again played that on a tabletop simulator and then Planet
+
+522
+00:50:10,440 --> 00:50:19,800
+ Unknown is fine it's got a lazy Susan and I can't remember what Susan stands for but it's an acronym
+
+523
+00:50:19,800 --> 00:50:25,960
+ and it's something like space utilization sort of system something something anyway and that's
+
+524
+00:50:25,960 --> 00:50:31,000
+ okay it's like a tile playing game into your drafting tiles but where the tiles you can draft
+
+525
+00:50:31,000 --> 00:50:37,080
+ from changes because of the lady Susan and it's kind of interesting but but a lot of plastic and
+
+526
+00:50:37,080 --> 00:50:42,360
+ kind of gimmicky and then finally Challengers which won the Kennespiel and that's a game where
+
+527
+00:50:42,360 --> 00:50:48,200
+ you draft a deck and then you play a tournament with your deck every round but the tournament is
+
+528
+00:50:48,200 --> 00:50:51,720
+ basically you're just turning over the top card of your deck and doing what the card says there's
+
+529
+00:50:51,720 --> 00:50:56,520
+ not really any you're just kind of running your engine and so most of the game is building your
+
+530
+00:50:56,520 --> 00:51:01,080
+ engine and then you run it to see if you've got a better engine than your opponent and that one
+
+531
+00:51:01,080 --> 00:51:06,680
+ and next station London are both on board game arena and so it's really good because once you get
+
+532
+00:51:06,680 --> 00:51:12,120
+ the hang of what's going on it's very easy the problem with board game arena is that unlike with
+
+533
+00:51:12,120 --> 00:51:16,280
+ CTS where you have to read the rules and understand what's happening to manipulate the pieces
+
+534
+00:51:16,280 --> 00:51:20,840
+ board game arena you can just sort of start going and start clicking and sometimes it can be
+
+535
+00:51:20,840 --> 00:51:26,760
+ unclear what is actually happening when you're clicking and this is this is something I think
+
+536
+00:51:26,760 --> 00:51:32,120
+ I think they could stand to address in slightly more detail. This is the Scott Kane family
+
+537
+00:51:32,120 --> 00:51:36,760
+ approach to board game arena so every Tuesday night we pick a game that's not too complicated
+
+538
+00:51:36,760 --> 00:51:41,800
+ and we just start playing and at the point where Stephen is like oh god I have no idea what I'm
+
+539
+00:51:41,800 --> 00:51:45,240
+ supposed to do everyone else rolls their eyes and reads the rule book while they're waiting for him
+
+540
+00:51:45,240 --> 00:51:52,440
+ to play. But anyways yeah good good group of games um good little group of games and and would highly
+
+541
+00:51:52,440 --> 00:51:57,320
+ recommend looking out for them. Challenges might end up in my collection I haven't decided yet but
+
+542
+00:51:57,320 --> 00:52:02,840
+ it is quite an interesting little little game and especially like because I like I've got sushi
+
+543
+00:52:02,840 --> 00:52:08,680
+ go because I like drafting mechanics but obviously like challenges kind of takes the drafting to the
+
+544
+00:52:08,680 --> 00:52:15,960
+ place where like magic has taken it but without needing to know how the game you're drafting for
+
+545
+00:52:15,960 --> 00:52:22,440
+ works. Oh that looks right up our street complexity two out of five plays with four. That was the
+
+546
+00:52:22,440 --> 00:52:29,240
+ thought podcast and it's goodbye for me. It's goodbye for me. It's goodbye for me. Okay and then
+
+547
+00:52:29,240 --> 00:52:31,800
+ we should stop recording and start again. Yes.
+
+548
+00:52:31,800 --> 00:52:53,960
+ [Music]
+
+549
+00:52:53,960 --> 00:52:59,320
+ I started reading the Lewis McMasterful Joel books with cryo-bum.
+
+550
+00:52:59,320 --> 00:53:01,320
+ [Laughter]
+
+551
+00:53:01,320 --> 00:53:04,200
+ Because that was the one that was in the packet and it worked fine. It worked fine.
+
+552
+00:53:04,200 --> 00:53:09,160
+ It's like people get very confused but it's just it turns out most authors don't expect you to have
+
+553
+00:53:09,160 --> 00:53:13,560
+ read literally everything they've ever read in the or written in the order that they wrote it.
+
+554
+00:53:13,560 --> 00:53:19,480
+ No and even when they do part of the job of their editor is to make sure that there are.
+
+555
+00:53:19,480 --> 00:53:23,640
+ So that's that's kind of brilliant actually though I do like it because the thing with I think the
+
+556
+00:53:23,640 --> 00:53:28,440
+ thing with cryo-burn is and I hope I'm thinking the right one. Cryo-burn is basically absolutely fine
+
+557
+00:53:28,440 --> 00:53:33,720
+ but like the long-term fans would read like the last page and cry and Joel would be like yeah.
+
+558
+00:53:33,720 --> 00:53:40,280
+ Yep this is the exact conversation I had with Claire. She was like isn't the last page sad and
+
+559
+00:53:40,280 --> 00:53:46,840
+ I'm like not really. Yeah no the the the last page of cryo-burn is an absolute knife in the gut you know
+
+560
+00:53:46,840 --> 00:53:53,880
+ and it's like and it's like a knife in the gut that you you've been knowing for some books
+
+561
+00:53:53,880 --> 00:53:58,600
+ was gonna come anyway. Actually no so okay so it's time for another segment which is
+
+562
+00:53:58,600 --> 00:54:01,560
+ "My Mum and Dad's approach to Marvel movies."
+
+563
+00:54:01,560 --> 00:54:07,560
+ Da da da da da da da. Hey Jingle um so basically Mum and Dad are going to go see
+
+564
+00:54:07,560 --> 00:54:13,640
+ the Marvels very excited about this they think it looks great. The MCU movies they have seen so far
+
+565
+00:54:13,640 --> 00:54:20,200
+ are Ant-Man and the Wasp end of list. They liked Ant-Man and the Wasp a lot they thought it was really good.
+
+566
+00:54:20,200 --> 00:54:24,440
+ Why did they go and see Ant-Man at the Wasp specifically? Got Paul Rudd in it.
+
+567
+00:54:24,440 --> 00:54:27,640
+ But why don't they go and see Ant-Man? They were probably busy.
+
+568
+00:54:27,640 --> 00:54:35,560
+ The theme music for this episode was Surf Shimmy by Kevin McLeod and Combertek.com
+
+569
+00:54:35,560 --> 00:54:42,360
+ used under a Creative Commons attribution 4.0 license. This podcast will end at the beep. Beep.
+

@@ -1,0 +1,1652 @@
+1
+00:00:00,000 --> 00:00:08,640
+ We have 20 minutes, shall we do some actual topics?
+
+2
+00:00:08,640 --> 00:00:10,800
+ Yes, so...
+
+3
+00:00:10,800 --> 00:00:21,600
+ [Music]
+
+4
+00:00:21,600 --> 00:00:28,800
+ Hello everyone and welcome to the OctaThole podcast, a podcast for Science Fiction and Science Fiction
+
+5
+00:00:28,800 --> 00:00:35,120
+ from Fandom. This episode is coming to you on the 27th of May 2021. I'm John Coxon.
+
+6
+00:00:35,120 --> 00:00:37,840
+ I'm Alison Scott and I'm Liz Batty.
+
+7
+00:00:37,840 --> 00:00:45,200
+ And we have some letters of comment for you all in this low energy podcast.
+
+8
+00:00:45,200 --> 00:00:48,000
+ And why is this a low energy podcast, John?
+
+9
+00:00:48,000 --> 00:00:55,280
+ Eurovision because two-thirds of this podcast stayed up to watch Eurovision.
+
+10
+00:00:55,280 --> 00:00:59,760
+ And it turns out that when you watch Eurovision, even if you're not playing a Eurovision drinking
+
+11
+00:00:59,760 --> 00:01:01,680
+ game, you drink.
+
+12
+00:01:01,680 --> 00:01:02,800
+ You do drink.
+
+13
+00:01:02,800 --> 00:01:05,760
+ And the other third of the podcast did not watch Eurovision or do any drinking,
+
+14
+00:01:05,760 --> 00:01:09,920
+ but I did have to unexpectedly work on a Saturday. So I'm tired.
+
+15
+00:01:09,920 --> 00:01:15,120
+ But many normal Eurovision things happened at Eurovision, including my favourite track, Not Winning,
+
+16
+00:01:15,120 --> 00:01:19,920
+ and a lot of people wearing spangly things and...
+
+17
+00:01:19,920 --> 00:01:22,320
+ There was an awful lot of spangle.
+
+18
+00:01:22,320 --> 00:01:28,160
+ A lot of jokes and the British entry cut no points.
+
+19
+00:01:28,160 --> 00:01:31,280
+ And it was compounded by the head of the British jurors saying,
+
+20
+00:01:31,280 --> 00:01:36,960
+ "Oh, I've just said hello in German and Dutch, but I don't know which is which."
+
+21
+00:01:36,960 --> 00:01:42,480
+ Which I think really sums up the UK attitude to Europe and why we got Europoints.
+
+22
+00:01:42,480 --> 00:01:44,640
+ So it's quite interesting because obviously I did not watch Eurovision,
+
+23
+00:01:44,640 --> 00:01:48,160
+ but when I wake up, my Twitch and Facebook feeds are full of Eurovision.
+
+24
+00:01:48,160 --> 00:01:51,520
+ So now I want somebody who's not me, but might be listening to this podcast,
+
+25
+00:01:51,520 --> 00:01:55,120
+ or write a science-fictional story about the intergalactic song contest,
+
+26
+00:01:55,120 --> 00:01:59,840
+ where the broadcasting unions of various federation planets.
+
+27
+00:01:59,840 --> 00:02:03,600
+ Oh, that was nominated for a Hugo two years ago.
+
+28
+00:02:03,600 --> 00:02:08,480
+ It was written by Catherine M. Valente, and it was called Space Opera.
+
+29
+00:02:08,480 --> 00:02:10,320
+ Damn.
+
+30
+00:02:10,320 --> 00:02:13,600
+ Yes, and I read 30 pages of it.
+
+31
+00:02:13,600 --> 00:02:16,160
+ I really enjoyed it, but it was divisive.
+
+32
+00:02:16,160 --> 00:02:18,880
+ You need to read more science fiction on it.
+
+33
+00:02:18,880 --> 00:02:22,080
+ I do. That sounds like the sort of thing I'd really like.
+
+34
+00:02:22,080 --> 00:02:29,040
+ Did it have some aliens on a tricked-out tractor singing about spring?
+
+35
+00:02:29,040 --> 00:02:30,240
+ Basically, yeah.
+
+36
+00:02:30,240 --> 00:02:34,160
+ It was literally Eurovision in space.
+
+37
+00:02:34,160 --> 00:02:38,560
+ If you were not a fan of that style of comedy, you did not get on with it.
+
+38
+00:02:38,560 --> 00:02:39,600
+ I thought it was quite good.
+
+39
+00:02:39,600 --> 00:02:43,360
+ So was it more or less science-fictional than
+
+40
+00:02:43,360 --> 00:02:46,720
+ Fire Saga, the story of Eurovision or whatever it's called?
+
+41
+00:02:46,720 --> 00:02:48,240
+ It's literally set in space.
+
+42
+00:02:48,240 --> 00:02:50,160
+ Yeah, so then yes.
+
+43
+00:02:50,160 --> 00:02:55,360
+ No, I think, because I know Liz said she didn't like it,
+
+44
+00:02:55,360 --> 00:03:00,960
+ I think the thing is with comedy is that the reason comedies don't do well in awards
+
+45
+00:03:00,960 --> 00:03:06,320
+ that do not explicitly recognize comedy is because comedy is far more divisive than non-comedy.
+
+46
+00:03:06,320 --> 00:03:10,240
+ A sense of humor is way more personal than drama or anything else.
+
+47
+00:03:10,240 --> 00:03:15,520
+ So it is, I enjoyed it, but if it doesn't align with your sense of humor,
+
+48
+00:03:15,520 --> 00:03:17,200
+ like you will bounce off it hard.
+
+49
+00:03:17,200 --> 00:03:21,360
+ So yeah, it's like one of those things.
+
+50
+00:03:21,360 --> 00:03:27,520
+ Yeah, I think my issue is that I love how Catherine Blente has an extremely strong
+
+51
+00:03:27,520 --> 00:03:31,040
+ style in all of her novels, and it can be quite different in all of her novels.
+
+52
+00:03:31,040 --> 00:03:38,000
+ But for this one, I read 40 pages and went, "This is trying so hard to have that Douglas Addams
+
+53
+00:03:38,000 --> 00:03:42,160
+ sense of humor that I feel embarrassed to be reading it."
+
+54
+00:03:42,160 --> 00:03:47,200
+ Like it just hit that sort of like, "I cannot read it because it is trying so hard and failing
+
+55
+00:03:47,200 --> 00:03:51,600
+ for me to be funny in this particular way that I just couldn't get further into it."
+
+56
+00:03:51,600 --> 00:03:54,800
+ It was a really strong reaction, and I don't normally have a reaction
+
+57
+00:03:54,800 --> 00:03:57,360
+ that's strong to books actually.
+
+58
+00:03:57,360 --> 00:04:01,040
+ Like sometimes I will stop reading them because I'm a bit bored, but in this case,
+
+59
+00:04:01,040 --> 00:04:02,000
+ I was not bored.
+
+60
+00:04:02,000 --> 00:04:05,520
+ I was just, "Ooh, it triggered something and I could not read any more."
+
+61
+00:04:05,520 --> 00:04:10,800
+ But I did really like Radiance, one of her previous books,
+
+62
+00:04:10,800 --> 00:04:12,560
+ so you should just go and read that one instead.
+
+63
+00:04:12,560 --> 00:04:14,960
+ Anyway, we have letters of comment.
+
+64
+00:04:14,960 --> 00:04:15,200
+ Yeah.
+
+65
+00:04:15,200 --> 00:04:21,760
+ So, and Rosin wrote in to say, "Four minutes into your last episode did Alan Partridge shout
+
+66
+00:04:21,760 --> 00:04:27,200
+ aha in the distance, possibly down into the tunnel that Alison was broadcasting from."
+
+67
+00:04:27,200 --> 00:04:32,560
+ And we did respond to tell her that we did eventually manage to coax Alison out with her tunnel.
+
+68
+00:04:32,560 --> 00:04:36,000
+ But Alison was very happy and we felt a bit bad about it.
+
+69
+00:04:36,000 --> 00:04:40,000
+ I did go back and someone does shout aha in the background at that moment.
+
+70
+00:04:40,000 --> 00:04:41,520
+ So, well noticed, and...
+
+71
+00:04:41,520 --> 00:04:42,800
+ Is that me?
+
+72
+00:04:42,800 --> 00:04:46,160
+ I think it was you, because I didn't notice it while we were recording,
+
+73
+00:04:46,160 --> 00:04:50,080
+ or while I was listening to the edited version for later release.
+
+74
+00:04:50,080 --> 00:04:51,360
+ So, good ears and...
+
+75
+00:04:51,360 --> 00:04:56,880
+ Yeah, that is the sort of thing that we're supposed to pick up whilst editing and say,
+
+76
+00:04:56,880 --> 00:04:59,920
+ "Oi John, you've left us faint aha in."
+
+77
+00:04:59,920 --> 00:05:00,720
+ No.
+
+78
+00:05:00,720 --> 00:05:02,560
+ It's very quiet.
+
+79
+00:05:02,560 --> 00:05:04,240
+ Why would we have done that?
+
+80
+00:05:04,240 --> 00:05:06,720
+ We already got one fewer letter of comment.
+
+81
+00:05:06,720 --> 00:05:09,520
+ Are you saying you left it in deliberately as a comment took?
+
+82
+00:05:09,520 --> 00:05:12,960
+ We would never say things just to get letters of comment, would we?
+
+83
+00:05:12,960 --> 00:05:15,120
+ No, we wouldn't.
+
+84
+00:05:15,120 --> 00:05:15,680
+ We would...
+
+85
+00:05:15,680 --> 00:05:18,080
+ No, obviously not, however, be terrible.
+
+86
+00:05:18,080 --> 00:05:28,880
+ So, Pete Asullivan also tweeted us to say that his concern with a whole weekend of the
+
+87
+00:05:28,880 --> 00:05:34,480
+ Wussfuss business meeting can basically be summarised as the devil makes work for idle hands to do.
+
+88
+00:05:34,480 --> 00:05:41,680
+ And that is a cogent and succinct criticism of our last conversation.
+
+89
+00:05:41,680 --> 00:05:43,120
+ Thank you very much, Peter.
+
+90
+00:05:43,120 --> 00:05:44,400
+ You may have a point.
+
+91
+00:05:44,400 --> 00:05:49,920
+ Yeah, he goes on to say that his directory is that a business meeting with more time
+
+92
+00:05:49,920 --> 00:05:52,720
+ would start trying to micromanage the world calm itself.
+
+93
+00:05:52,720 --> 00:05:56,160
+ And I can see that there's a possibility that would happen.
+
+94
+00:05:56,160 --> 00:05:59,440
+ It just occurs to me that things like at the moment we have kind of the business meeting
+
+95
+00:05:59,440 --> 00:06:03,760
+ will appoint a committee and in theory the committee goes away and deliberates for like a year
+
+96
+00:06:03,760 --> 00:06:07,040
+ or two years and then comes back with a report.
+
+97
+00:06:07,040 --> 00:06:10,720
+ And the question is whether we could take some of that extremely lengthy
+
+98
+00:06:10,720 --> 00:06:14,720
+ deliberations that normally happen over a year or two and maybe fire some of them off
+
+99
+00:06:14,720 --> 00:06:20,240
+ in a weekend in a more concise way, or at least rather than kind of saying a committee will go
+
+100
+00:06:20,240 --> 00:06:24,320
+ and study that, have a meeting which then set up a committee with
+
+101
+00:06:24,320 --> 00:06:29,600
+ you know more of a remit for what they're actually going to do which is doable in a year.
+
+102
+00:06:29,600 --> 00:06:34,160
+ So I just feel some things have kind of gone off to committees and then something which
+
+103
+00:06:34,160 --> 00:06:37,520
+ already takes several years to ratify then spend several years being discussed by committee
+
+104
+00:06:37,520 --> 00:06:40,560
+ and it just gets kind of slower and slower to change anything.
+
+105
+00:06:40,560 --> 00:06:43,360
+ Maybe I'm missing the point of the WISFUS business meeting there.
+
+106
+00:06:43,360 --> 00:06:46,640
+ Well, hang on, I just want to say something in reaction to what Liz said.
+
+107
+00:06:46,640 --> 00:06:51,920
+ Here, the one thing about that is obviously like some committees are going to take a year
+
+108
+00:06:51,920 --> 00:06:55,840
+ because they need to like consult with the community and that's a thing you can't shorten.
+
+109
+00:06:56,800 --> 00:07:02,960
+ But in general like if it's just doing research like I can definitely see that some of those things
+
+110
+00:07:02,960 --> 00:07:08,800
+ could be shortened perhaps. You could definitely shorten consulting with the community if you do
+
+111
+00:07:08,800 --> 00:07:12,720
+ it by saying we're going to have a meeting on the internet on this day and if you want to be
+
+112
+00:07:12,720 --> 00:07:17,040
+ involved this is where you're going to be. But you can't do that with six hours notice, right?
+
+113
+00:07:17,040 --> 00:07:20,560
+ You can't be like we're going to consult with the community and if the community in six hours
+
+114
+00:07:20,560 --> 00:07:24,400
+ could be consulted with that would be great. That's not how community consultations work.
+
+115
+00:07:25,280 --> 00:07:30,880
+ Yeah, so as Spani wrote with two further points on WISFUS, she said it might be worth clarifying
+
+116
+00:07:30,880 --> 00:07:36,320
+ that member of WISFUS and member of WILCON are the same thing and that is quite right it might be.
+
+117
+00:07:36,320 --> 00:07:40,800
+ And I think one of the things I specifically said last time is that I would like to see the
+
+118
+00:07:40,800 --> 00:07:46,000
+ member of WISFUS expanded to be more than merely the member of the seated WILCON.
+
+119
+00:07:46,000 --> 00:07:50,480
+ But that leads into a Spani's second point which is that while she agrees that making the business
+
+120
+00:07:50,480 --> 00:07:56,720
+ meeting easier, better or less mind-numbing to attend is desirable, she is the very of the idea
+
+121
+00:07:56,720 --> 00:08:04,160
+ to opening it up to anyone on the internet with $50 and a grudge. Not a bad point, a fair point.
+
+122
+00:08:04,160 --> 00:08:08,640
+ There are a lot of those people. The fact that it's structured at the moment in a way that means
+
+123
+00:08:08,640 --> 00:08:14,560
+ you have to have a certain level of kind of wealth privilege to make it worth your while attending
+
+124
+00:08:14,560 --> 00:08:20,080
+ does mean that there is a kind of a gatekeeping aspect by saying it is worth pointing out that
+
+125
+00:08:20,080 --> 00:08:26,560
+ that does cut both ways. It may mean that the people who attend are more invested in the good
+
+126
+00:08:26,560 --> 00:08:31,200
+ of the world con than otherwise and that might actually be a good side effect and you would have
+
+127
+00:08:31,200 --> 00:08:35,280
+ to think quite carefully about how to replicate that if you did try and open it up.
+
+128
+00:08:35,280 --> 00:08:41,920
+ So that is I think a very good point. Spani's first point brought to you by a conversation
+
+129
+00:08:41,920 --> 00:08:46,960
+ where she was like sometimes you guys use words and like not everyone will know what the words
+
+130
+00:08:46,960 --> 00:08:50,640
+ mean and I was like that is a good point. I'm wondering whether we should do some sort of
+
+131
+00:08:50,640 --> 00:08:59,760
+ fanist dictionary episode at some point where newer listeners can get up to date on all of our
+
+132
+00:08:59,760 --> 00:09:04,720
+ jargon but if you do ever listen to a say something and you're like oh they're using a word and I
+
+133
+00:09:04,720 --> 00:09:08,880
+ don't really know what it means please do write in because we're not doing it on purpose and we
+
+134
+00:09:08,880 --> 00:09:15,920
+ would very much like to be told when we are being more obtuse than usual. Yes you can also instead
+
+135
+00:09:15,920 --> 00:09:19,840
+ of writing to us you could write to Mr. Google who will probably tell you what the word means
+
+136
+00:09:19,840 --> 00:09:26,720
+ and you might want to include contexts like fanak or science fiction fandom with your word
+
+137
+00:09:26,720 --> 00:09:32,480
+ otherwise you will discover weird things on urban dictionary. Fanak is one of the words that you
+
+138
+00:09:32,480 --> 00:09:39,680
+ might use. Fanak is a portmanteau meaning fan activity the more you know.
+
+139
+00:09:41,760 --> 00:09:46,480
+ But it's then often defined as anything that fans do like watching Eurovision.
+
+140
+00:09:46,480 --> 00:09:53,440
+ I like Spanish letter. I think an episode purely about jargon would be very tedious
+
+141
+00:09:53,440 --> 00:09:57,760
+ but maybe we can have jargon corner. Please write to us listeners and tell us what should be
+
+142
+00:09:57,760 --> 00:10:03,520
+ in jargon corner. We may have too many corners by now but we're virtual we can have as many corners
+
+143
+00:10:03,520 --> 00:10:10,480
+ as we like. We're a dodecahedron of love Liz. Okay so let's be clear here. The dodecahedrons
+
+144
+00:10:10,480 --> 00:10:19,120
+ don't really have corners. You meant dodeca gone. I did mean dodeca gone. A dodecahedron
+
+145
+00:10:19,120 --> 00:10:27,200
+ has vertices. It does. Well this is good and for those who don't know a dodecahedron is a both-sided
+
+146
+00:10:27,200 --> 00:10:34,400
+ solid shape. No it bloody isn't. No it isn't. It doesn't have sides it has faces. What we're hearing
+
+147
+00:10:34,400 --> 00:10:41,520
+ here is a mathematician and a physicist in conversation. All so we have many corners
+
+148
+00:10:41,520 --> 00:10:48,160
+ as we are a mathematical object of indeterminate size. No we've just discussed we don't have any
+
+149
+00:10:48,160 --> 00:10:55,840
+ corners we have vertices. So actually we have dictionary vertex and jargon vertex and poetry
+
+150
+00:10:55,840 --> 00:11:03,760
+ vertex and I will go back and edit all of those in the previous episodes. Octa thought poetry vortex
+
+151
+00:11:04,560 --> 00:11:08,320
+ yes let's have some vertices instead. I think that's the way forward.
+
+152
+00:11:08,320 --> 00:11:13,200
+ Vortices. Maybe this conversation can go down a vortex.
+
+153
+00:11:13,200 --> 00:11:22,240
+ C. Dave wrote in. He's not yet admitted to himself that he's never going to get around to
+
+154
+00:11:22,240 --> 00:11:29,040
+ casting something in resin. You could Dave just to do it. Yeah I believe in you. And also he says
+
+155
+00:11:29,040 --> 00:11:33,760
+ he's never going to ascend a was for business meeting and is unlikely to ever get deep enough
+
+156
+00:11:33,760 --> 00:11:39,280
+ into the weeds to understand all the discussion if he did go but he enjoys listening to the discussion
+
+157
+00:11:39,280 --> 00:11:45,840
+ because his wholebie isn't SFF or fandom it's fandom fandom so yes fandom is a way of life etc.
+
+158
+00:11:45,840 --> 00:11:52,080
+ I would say I am glad that someone is enjoying the wistful spaces being segments because I suspect
+
+159
+00:11:52,080 --> 00:11:59,600
+ many of our audience have reached the end of the we've had a number of letters to that effect.
+
+160
+00:11:59,600 --> 00:12:07,120
+ And so maybe maybe next time will be a wistful free podcast. I also would say that I did go to
+
+161
+00:12:07,120 --> 00:12:11,840
+ a suspicious business meeting and that someone gave me a popcorn smoth ribbon which I treasure
+
+162
+00:12:11,840 --> 00:12:18,560
+ for a person who is a fan of business fandom. That is a very good ribbon. I like that. Popcorn
+
+163
+00:12:18,560 --> 00:12:25,120
+ smoth. Popcorn smoth as in I'm at the business meeting for the popcorn. Oh because they gave
+
+164
+00:12:25,120 --> 00:12:31,840
+ you popcorn or because you were eating popcorn whilst watching wisps. No like in the sense that
+
+165
+00:12:31,840 --> 00:12:38,560
+ when you see drama on the discord or a slack sometimes you just comment with a popcorn emoji
+
+166
+00:12:38,560 --> 00:12:43,680
+ instead of actually arguing. You say I'll get the popcorn. Yeah I don't think it is that I think
+
+167
+00:12:43,680 --> 00:12:48,400
+ it's that they give out popcorn at the wisps business meeting. No no one gave me any popcorn.
+
+168
+00:12:48,800 --> 00:12:53,200
+ Yeah no I mean if they gave out popcorn at the wisps business meeting we would go to the wisps
+
+169
+00:12:53,200 --> 00:12:57,440
+ business meeting. This should be a constitutional amendment. There should always be popcorn at.
+
+170
+00:12:57,440 --> 00:13:03,360
+ I'm pretty sure I've been to a wisps business meeting that had muffins or something. I think in
+
+171
+00:13:03,360 --> 00:13:10,800
+ the US there was coffee and muffins. Yeah yeah yeah there is often snacks, snackage in the European
+
+172
+00:13:10,800 --> 00:13:22,560
+ ones. No snacks. No boo. Buck your ideas up Europe. Yes. So Spike wrote to us to tell us two exciting
+
+173
+00:13:22,560 --> 00:13:28,560
+ things about Winnipeg. Yes. One of which is it's only about a ten-hour drive from Nebraska.
+
+174
+00:13:28,560 --> 00:13:37,760
+ And the second is backman turn overdrive and and you need to know that neither of these quite
+
+175
+00:13:37,760 --> 00:13:45,840
+ hit my excitability threshold Spike. I think I think because because when you say oh such a
+
+176
+00:13:45,840 --> 00:13:49,600
+ such a place as always because it's only ten-hour drive from such such another place that's not
+
+177
+00:13:49,600 --> 00:13:55,600
+ damning with faint praise in the UK that is just a straight-out insult. So it doesn't read to us as
+
+178
+00:13:55,600 --> 00:14:03,840
+ a compliment or as a like double-edged sword just reads as if this place is awful. Because to me
+
+179
+00:14:03,840 --> 00:14:12,960
+ like an hour away is too long. Ten hours is like Scotland. She sends a link to a song by backman
+
+180
+00:14:12,960 --> 00:14:18,240
+ turn overdrive and there and we will put the link to the show notes and she would like us to know
+
+181
+00:14:18,240 --> 00:14:23,120
+ that lead singer is not Chris Garcia because the band would have to have been called Garcia turn
+
+182
+00:14:23,120 --> 00:14:29,200
+ overdrive. I would also like to say that Spike sends me hand instructions for how to find Nebraska
+
+183
+00:14:29,200 --> 00:14:33,600
+ on the map which turns out to be find Winnipeg and then go south. And when she's there with the
+
+184
+00:14:33,600 --> 00:14:38,560
+ instructions I did look at it on a map and I did discover that I have in fact been to Nebraska
+
+185
+00:14:38,560 --> 00:14:42,880
+ despite saying I had never been to Nebraska but I went through it on a train and the train
+
+186
+00:14:42,880 --> 00:14:47,040
+ deliberately I think goes to Nebraska at night because there's nothing very interesting to look
+
+187
+00:14:47,040 --> 00:14:53,440
+ at. Whereas you know it's it spends its days going through Colorado and the Sierra Nevada's which
+
+188
+00:14:53,440 --> 00:14:58,080
+ are much more fun to look at I think than Nebraska. So sorry Nebraska I have been there but I have
+
+189
+00:14:58,080 --> 00:15:03,360
+ absolutely no recollection of it. That is that is fair. I have been looking on a map while we
+
+190
+00:15:03,360 --> 00:15:07,840
+ have been talking and if I drove for 10 hours I could get to the Scottish Highlands. I started
+
+191
+00:15:07,840 --> 00:15:13,120
+ by looking at Aberdeen but Aberdeen is too close and that is a sentence no one has ever said about
+
+192
+00:15:13,120 --> 00:15:19,200
+ Aberdeen before. Is it always there lurking in the back of your mind the threat of Aberdeen?
+
+193
+00:15:19,200 --> 00:15:26,480
+ And for people who don't know the details domestic arrangements of octa thought John lives almost
+
+194
+00:15:26,480 --> 00:15:31,680
+ as fast as it's possible to live and not fall off the bottom of England so it's true.
+
+195
+00:15:31,680 --> 00:15:42,480
+ Right so we we end our letters of comment today with Chris Garcia who says that Winnipeg is pretty
+
+196
+00:15:42,480 --> 00:15:49,200
+ cool actually he likes the conventions and there's a lot of good food around and yeah he
+
+197
+00:15:49,200 --> 00:15:56,080
+ generally seems quite positive. Farah Mendelson wrote to us to tell us that the solution to the
+
+198
+00:15:56,080 --> 00:16:03,040
+ best cat award is the Village Faked Pet Show Award also also used for Children's Baskerades
+
+199
+00:16:03,040 --> 00:16:09,120
+ where you give every cat an award for being best cat at something so Badger is the best
+
+200
+00:16:09,120 --> 00:16:15,520
+ will-con bid-chair cat and Farah's own major Tom who has a Hugo rocket on his nose is quite
+
+201
+00:16:15,520 --> 00:16:21,040
+ obviously best science fiction cat face which gets through to illustrate a cat with a Hugo on his nose.
+
+202
+00:16:21,600 --> 00:16:26,160
+ I like this because then Quentin Alice can clearly be best octa thought podcast cats.
+
+203
+00:16:26,160 --> 00:16:34,000
+ It's true. Yeah but in fact um masquerades and and children's pet displays at Village Fets have
+
+204
+00:16:34,000 --> 00:16:40,880
+ things like the snuggliest cat and the furiest cat and the outchiest cat if one of them has
+
+205
+00:16:40,880 --> 00:16:46,800
+ bitten the judges. Alice is the softest cat but I think Quinn is the fufiest cat.
+
+206
+00:16:46,800 --> 00:16:51,440
+ There we go. Regularists should note that I've met John's cats and I cannot tell them apart
+
+207
+00:16:51,440 --> 00:16:58,880
+ it's all in the ears Liz it's all in the ears. They are both equally soft and fluffy anyway.
+
+208
+00:16:58,880 --> 00:17:09,440
+ It's Banya bought a new phone and as a result of which I can now detect John's cats in photographs
+
+209
+00:17:09,440 --> 00:17:14,880
+ because prior to that I just believe they were kind of black cat-shaped holes in the middle of
+
+210
+00:17:15,600 --> 00:17:21,840
+ zoom meetings and pictures and things but but the new cameras adequate identify it as a cat.
+
+211
+00:17:21,840 --> 00:17:31,120
+ Yes. I assume that's machine learning. Probably probably um and then finally we have Chris Garcia.
+
+212
+00:17:31,120 --> 00:17:39,760
+ Now last episode we said that we did not always go to World Conspiratorism but Chris points out a
+
+213
+00:17:39,760 --> 00:17:46,320
+ very key point which I had not thought of which is that he is a food world conveyor and he votes on
+
+214
+00:17:46,320 --> 00:17:52,400
+ his stomach and actually that is a 10 out of 10 way to vote because um my my my parents get
+
+215
+00:17:52,400 --> 00:17:56,960
+ annoyed with me when we go all holiday because the thing I like best about travel is eating
+
+216
+00:17:56,960 --> 00:17:59,920
+ and they'll be like do you remember this thing that was really good that was something to do with
+
+217
+00:17:59,920 --> 00:18:03,280
+ architectural culture or something. I'll be like no and then they'll be like oh and I'll be like I
+
+218
+00:18:03,280 --> 00:18:09,280
+ do remember that restaurant and they'll be like but but what uh by I bloody love food. Anyone who
+
+219
+00:18:09,280 --> 00:18:16,640
+ has met me will regard my shape and maybe notice that that is not a surprise but yes um and he
+
+220
+00:18:16,640 --> 00:18:22,720
+ talks about some of the good food that he had in Dublin. Yeah what I remember from Dublin is
+
+221
+00:18:22,720 --> 00:18:29,840
+ the donuts. Oh the donuts. The donuts and the pizza at 2am although to be fair the pizza at 2am was the
+
+222
+00:18:29,840 --> 00:18:34,640
+ other side of Dublin were not the other side of Dublin but it was a long way from the convention
+
+223
+00:18:34,640 --> 00:18:40,640
+ center but it was near our Airbnb so we did a lot of pizza or put an image in the chapter art
+
+224
+00:18:40,640 --> 00:18:46,560
+ but it was good and the donuts are applying for a fellowship in Dublin and I would be lying if I
+
+225
+00:18:46,560 --> 00:18:59,120
+ didn't say the donuts had played a role. Alison is honourable. I'm going to be one of the guests of
+
+226
+00:18:59,120 --> 00:19:06,160
+ honour at the Joint Science Fiction Foundation and British Science Fiction Association AGM which is
+
+227
+00:19:06,160 --> 00:19:16,240
+ happening online on the 26th of June. I'm giving a talk um tentatively entitled My Year in Virtual
+
+228
+00:19:16,240 --> 00:19:23,520
+ fandom but I haven't written it yet so if you want to know my writing plan it's that I will not think
+
+229
+00:19:23,520 --> 00:19:29,120
+ about it until about 8am on the 26th of June and then I will cry for three hours.
+
+230
+00:19:29,120 --> 00:19:35,200
+ That is having having worked with Alison on projects that seems reasonable.
+
+231
+00:19:35,200 --> 00:19:42,880
+ It's called Conspire which is a good name, very good name. I think the Science Fiction Foundation
+
+232
+00:19:42,880 --> 00:19:48,560
+ and the British Science Fiction Association are sort of organisations for critical analysis of SF
+
+233
+00:19:48,560 --> 00:19:56,320
+ in the UK would you say? No I don't think so. The Science Fiction Foundation is a charity
+
+234
+00:19:56,320 --> 00:20:00,640
+ which uh basically promotes science fiction and related topics. I should actually find out
+
+235
+00:20:00,640 --> 00:20:05,760
+ what the Science Fiction Foundation's um actual like charitable goal is which I should know because
+
+236
+00:20:05,760 --> 00:20:10,240
+ I have been on the committee of both the Science Fiction Foundation and I mean I don't mean to
+
+237
+00:20:10,240 --> 00:20:14,000
+ I don't mean to contradict you but it's to provide research facilities to investigate
+
+238
+00:20:14,000 --> 00:20:18,080
+ promote usefulness of SF to disseminate information and to preserve for a discriminating
+
+239
+00:20:18,080 --> 00:20:25,200
+ understanding of the nature of so I think it's to be organized for critique like it seems from the
+
+240
+00:20:25,200 --> 00:20:30,640
+ forums I've got on the website it seems very much geared towards academic analysis to me.
+
+241
+00:20:30,640 --> 00:20:36,320
+ I think it's much closer to say academic analysis than criticism. What's the difference between
+
+242
+00:20:36,320 --> 00:20:40,800
+ academic analysis and criticism? That could we could have an entire episode just on that
+
+243
+00:20:40,800 --> 00:20:48,160
+ popcorn? Because I was fascinated by the Hugo finalist who describes themselves as a professional
+
+244
+00:20:48,160 --> 00:20:54,320
+ enthusiast which I think means an uncritical critic. The Science Fiction Foundation also
+
+245
+00:20:54,320 --> 00:21:01,440
+ notably organised the George A. Lecture at EasterCon to promote a science topic an interesting talk
+
+246
+00:21:01,440 --> 00:21:09,600
+ by a scientist to people at the uh EasterCon and I think that's also kind of a key part is kind to
+
+247
+00:21:09,600 --> 00:21:15,920
+ kind of rather than stay in an academic bubble but then try and you know bring this out to the wider
+
+248
+00:21:15,920 --> 00:21:21,760
+ SF fandom. The Science Fiction Foundation definitely has an outreach role and the British Science
+
+249
+00:21:21,760 --> 00:21:27,920
+ Fiction Association no matter how hard it is to tell sometimes is a member association it's a club
+
+250
+00:21:27,920 --> 00:21:34,160
+ and it is a club for science fiction fans but it has the kind of same issues around that as as
+
+251
+00:21:34,160 --> 00:21:40,560
+ you get with other hobbies that that sort of central club never quite accurately reflects the set of
+
+252
+00:21:40,560 --> 00:21:46,000
+ people who are who might be in the club. And spare. It's not all British Science Fiction fans are in
+
+253
+00:21:46,000 --> 00:21:53,120
+ the BSFA by um by a long shot um and I left at the point where I discovered that they were sending
+
+254
+00:21:53,120 --> 00:21:56,400
+ me a lot of paper every month that I didn't want to read. I think they probably stopped sending
+
+255
+00:21:56,400 --> 00:22:03,760
+ people large bunches of paper but I might be wrong about that. No you are I wrote to the
+
+256
+00:22:03,760 --> 00:22:08,240
+ membership secretary to be like how do I get the uh paperless option and now I was met with no
+
+257
+00:22:08,240 --> 00:22:13,280
+ one's ever asked that before as the response which I find incredibly difficult to believe.
+
+258
+00:22:13,280 --> 00:22:21,040
+ That is a lie no one's ever asked the current secretary um paperless option. Yes.
+
+259
+00:22:21,040 --> 00:22:28,240
+ But I think I think when I say they're both um critical organizations I think I think going
+
+260
+00:22:28,240 --> 00:22:34,560
+ on the website that is unfair but I will say that um both of them send paper to do with criticism
+
+261
+00:22:34,560 --> 00:22:41,680
+ to you if you join them. So it it may well be that uh if you're my primary experience with the BSFA
+
+262
+00:22:41,680 --> 00:22:47,200
+ has been receiving their publications and their publications are focused around criticism academic
+
+263
+00:22:47,200 --> 00:22:51,680
+ analysis and reviewing um but going on the website they have also got writing groups and
+
+264
+00:22:51,680 --> 00:22:58,960
+ of participation fund and things like that. So yes I remember at the BSFA very newly um and
+
+265
+00:22:58,960 --> 00:23:03,680
+ and yeah it's been good so far I enjoy vector even though most of it I don't really understand.
+
+266
+00:23:03,680 --> 00:23:09,280
+ I think it's also case that uh so there used to be more than one magazine I think they don't have
+
+267
+00:23:09,280 --> 00:23:15,920
+ matrix anymore it kind of was a sort of news, zine um I had some reviews into lots of media SF
+
+268
+00:23:15,920 --> 00:23:21,440
+ um I think it was kind of going to go online but then never really took off and at this point I'm
+
+269
+00:23:21,440 --> 00:23:29,040
+ not sure what status is. I think kind of vectors academicness sort of varies depending on who is
+
+270
+00:23:29,040 --> 00:23:33,920
+ editing it um and what they're focusing on at the time. I feel it may be more of an academic phase
+
+271
+00:23:33,920 --> 00:23:37,760
+ but I do think some of their recent issues look very interesting. I am not a member but at this
+
+272
+00:23:37,760 --> 00:23:43,600
+ point I would also need very much a paperless option um and like you said I'm not sure that
+
+273
+00:23:43,600 --> 00:23:48,400
+ is currently available. Yeah and and of course they run the BSFA awards they have a
+
+274
+00:23:49,040 --> 00:23:56,880
+ long-standing not quite link with Eastercon um because for a while they ran the Eastercon but
+
+275
+00:23:56,880 --> 00:24:02,080
+ that was a very very long time ago. They do go through more and less critical phases and I think
+
+276
+00:24:02,080 --> 00:24:07,120
+ the BSFA is in a more critical phase at the moment. They used to have a magazine called Focus for
+
+277
+00:24:07,120 --> 00:24:16,320
+ Aspiring Writers. I believe Focus is still going yes. They actually do have in in in times when we
+
+278
+00:24:16,320 --> 00:24:22,560
+ can have actual clubhouse meetings. They do have London meetings at least um where they where
+
+279
+00:24:22,560 --> 00:24:28,160
+ they get an author to do a little talk and then they drink. Yes I did go to number of London
+
+280
+00:24:28,160 --> 00:24:33,840
+ meetings when I was listening to do that and they were good fun. Back in the before times they
+
+281
+00:24:33,840 --> 00:24:39,040
+ they worked out that the way that they could make their AGM Quarat was to combine with the
+
+282
+00:24:39,040 --> 00:24:45,520
+ Science Fiction Foundation and have a un-rata one-day convention into which they included both the
+
+283
+00:24:45,520 --> 00:24:51,360
+ AGMs and some other stuff and that is the that is the thing that is now conspire online. So I
+
+284
+00:24:51,360 --> 00:24:56,240
+ assume that both organizations didn't have their AGM last year but concluded that they needed to
+
+285
+00:24:56,240 --> 00:25:00,480
+ have one this year but I don't know. Traditionally I think they would have one AGM just before
+
+286
+00:25:00,480 --> 00:25:05,120
+ lunch and one AGM just after lunch so that anyone who was not interested in the AGMs could have an
+
+287
+00:25:05,120 --> 00:25:10,320
+ extra long lunch. This is a good plan. Students union at West University used to provide us to
+
+288
+00:25:10,320 --> 00:25:16,240
+ attend the AGM by threatening our society funding if we didn't go.
+
+289
+00:25:16,240 --> 00:25:28,160
+ Okay so fanzines before we wrap up today we're going to have a chat about the humble fanzine
+
+290
+00:25:28,160 --> 00:25:34,720
+ and also in modern times the not so humble fanzine that that was a joke for basically for
+
+291
+00:25:34,720 --> 00:25:41,760
+ Claire and maybe for Alison. So Alison wants to talk about fanzines and I'm going to let her
+
+292
+00:25:41,760 --> 00:25:46,320
+ and then I'm going to interject with thoughts when she has things that I have thoughts about
+
+293
+00:25:46,320 --> 00:25:52,640
+ and Liz is going to also have thoughts but perhaps fewer thoughts because Liz doesn't care as much
+
+294
+00:25:52,640 --> 00:26:01,040
+ about fanzines as we do. Basically correct. I now look like a rabbit caught in headlights and the
+
+295
+00:26:01,040 --> 00:26:06,480
+ reason why is that I had a whole plan for our fanzine episode in which I was going to read
+
+296
+00:26:06,480 --> 00:26:14,960
+ quite a bit of all of the Hugo finalist fanzines and I was also going to read or reread quite a bit
+
+297
+00:26:14,960 --> 00:26:22,720
+ of the sorts of fanzines that I like and think ought to be Hugo finalists and I did neither of these
+
+298
+00:26:22,720 --> 00:26:30,400
+ things. So I am therefore left arguing from a position of almost complete ignorance.
+
+299
+00:26:30,400 --> 00:26:35,840
+ Well maybe this can be like the fanzine fanzine five minutes and we can do a full episode at some
+
+300
+00:26:35,840 --> 00:26:42,640
+ point when you've done it. So I think what I want to do is actually kick off. I think quite a lot
+
+301
+00:26:42,640 --> 00:26:48,480
+ of people who are listening to Octa Thorpe do like the sort of fanzines I like which where and here's
+
+302
+00:26:48,480 --> 00:26:55,360
+ the tiny little rant. What you're actually doing is writing about things in order to set up a dialogue
+
+303
+00:26:55,360 --> 00:27:00,800
+ and discussion with the other people who are reading your fanzine as part of a community
+
+304
+00:27:00,800 --> 00:27:07,040
+ to therefore build interesting thoughts and you have therefore an active letter column and
+
+305
+00:27:07,040 --> 00:27:17,520
+ you you you listen to what your readers have to say and I was very struck yesterday when reading the
+
+306
+00:27:18,160 --> 00:27:26,880
+ um 1700 issues of philosophical transactions which is the Journal of the Royal Society
+
+307
+00:27:26,880 --> 00:27:33,280
+ um which are now all online and clearly people wrote longer letters then but the fact is that
+
+308
+00:27:33,280 --> 00:27:40,960
+ what that was reads much more like a fanzine than than a lot of the Hugo finalist fanzines where I
+
+309
+00:27:40,960 --> 00:27:48,240
+ am not seeing the interplay of of different community views in the way that I would expect
+
+310
+00:27:48,240 --> 00:27:52,560
+ and I know that that interplay does happen it just doesn't I think happen in the pages of fanzines
+
+311
+00:27:52,560 --> 00:28:00,480
+ anymore um or not the pages of fanzines that get regularly nominated for Hugo's. I would like to see
+
+312
+00:28:00,480 --> 00:28:07,200
+ more of the sort of thing I like getting onto the Hugo shortlist and I want to think about how we
+
+313
+00:28:07,200 --> 00:28:12,400
+ can make that happen does that sound like a kickoff rant for a discussion of fanzines?
+
+314
+00:28:12,400 --> 00:28:17,920
+ Yes I have thoughts. Good. So oh sorry press a company except it obviously
+
+315
+00:28:17,920 --> 00:28:28,560
+ except not because yes no I mean so Journey Planet the um fanzine which I um edit as part of a
+
+316
+00:28:29,120 --> 00:28:36,960
+ enormous sort of amorphous blob with many heads and tentacles snap out that was a
+
+317
+00:28:36,960 --> 00:28:42,240
+ a tentacle snapping out listeners tentacle snap out and snare interviews with people and
+
+318
+00:28:42,240 --> 00:28:47,360
+ and things like that but we don't really have a letter column so in that sense um we are not a
+
+319
+00:28:47,360 --> 00:28:55,600
+ fanzine that fulfills Allison's exhortation to uh community dialogue I will say two things here
+
+320
+00:28:55,600 --> 00:29:02,800
+ which I think will probably cause letters the first one is I think and this is an argument
+
+321
+00:29:02,800 --> 00:29:10,480
+ that I've had with people before the traditional fanzine fandom never really developed beyond
+
+322
+00:29:10,480 --> 00:29:19,280
+ PDFs being shared on a website uh with lots of PDFs on it and that is as and and and I don't have a
+
+323
+00:29:19,280 --> 00:29:24,480
+ problem with that being a form of fanzine that people enjoy and want to engage with
+
+324
+00:29:24,480 --> 00:29:32,160
+ but there was I think a very hard kind of edge to the traditional kind of fanzine community who
+
+325
+00:29:32,160 --> 00:29:37,280
+ who progressed and moved with the times and like they went from mimeo to word processors and they
+
+326
+00:29:37,280 --> 00:29:43,840
+ went from kind of printed fanzines to PDFs and then they kind of stopped at PDFs and there is this
+
+327
+00:29:43,840 --> 00:29:48,560
+ disconnect between the community of people who make PDFs and the community of people who are doing
+
+328
+00:29:48,560 --> 00:29:53,280
+ fan writing in more accessible media and I don't have a problem with people preferring PDFs and
+
+329
+00:29:53,280 --> 00:29:57,520
+ wanting to play in that space and then that's brilliant and if that's your bag great but I do
+
+330
+00:29:57,520 --> 00:30:03,440
+ think it is a shame that there is this this real step between the community of people who are doing
+
+331
+00:30:03,440 --> 00:30:08,400
+ that and like the community of people who are doing fan writing everywhere else on the internet
+
+332
+00:30:08,400 --> 00:30:15,520
+ and I think that is something that is not wholly the fault of either camp I am frustrated with both
+
+333
+00:30:15,520 --> 00:30:20,800
+ groups that there is not a gradient in between those I think it's just the way it ended up being
+
+334
+00:30:20,800 --> 00:30:26,880
+ but like it is a shame I think that there are not more people from the fanzine community that I
+
+335
+00:30:26,880 --> 00:30:34,080
+ grew up in making fanzines that are not just PDFs being shared on the internet some notable
+
+336
+00:30:34,080 --> 00:30:40,640
+ exceptions to this include the excellent banana wings which is also available in e-pub formats now
+
+337
+00:30:40,640 --> 00:30:45,680
+ which I think is great I was doing e-pubs before I wrapped up procrastinations and I always thought
+
+338
+00:30:45,680 --> 00:30:50,560
+ they were a very good vehicle for that more kind of traditional fanzine but most fanzines are still
+
+339
+00:30:50,560 --> 00:30:55,600
+ PDFs which are very difficult to read for example on a phone which is where I do most of my reading
+
+340
+00:30:55,600 --> 00:31:01,200
+ of things that are not novels or comics and so banana wings I think does a really good job and
+
+341
+00:31:01,200 --> 00:31:08,320
+ is one of the more innovative players in this space the other one is Alison did a letter fanzine
+
+342
+00:31:09,040 --> 00:31:16,240
+ through email which I think she did two issues of a few years ago I'm definitely doing another one
+
+343
+00:31:16,240 --> 00:31:23,040
+ of those as soon as I finish this you go vote packet and punctuation and get eastbound 2023 sorted
+
+344
+00:31:23,040 --> 00:31:30,160
+ yeah so 2024 look out for issue three and lolzine was inspired by Alison's
+
+345
+00:31:30,160 --> 00:31:37,120
+ zine in that regard but these are zines that come out over email and have more of a traditional
+
+346
+00:31:37,120 --> 00:31:41,440
+ fanzine sensibility in the like lolzine and Alison's zine both had letters of comment
+
+347
+00:31:41,440 --> 00:31:48,880
+ and had that kind of letter column experience but were not doing it in a kind of printed
+
+348
+00:31:48,880 --> 00:31:58,880
+ fanzine way but kind of playing with with with more up-to-date media Chuck Conner did a CD
+
+349
+00:31:58,880 --> 00:32:04,640
+ ROM fanzine which was about 10 or 12 years ago now but it was basically he was sending you a CD
+
+350
+00:32:04,640 --> 00:32:09,040
+ ROM and it had a website on it and you browse the website and I thought that was fantastic and that
+
+351
+00:32:09,040 --> 00:32:13,120
+ was kind of before WordPress and stuff like that got popular and I was like this is really great
+
+352
+00:32:13,120 --> 00:32:17,680
+ and I can see how this is going to be really cool in the future and then no one's really
+
+353
+00:32:17,680 --> 00:32:24,720
+ played with that and lolzine did start trying to do a kind of website based experience but it's
+
+354
+00:32:24,720 --> 00:32:30,640
+ quite hard and maintaining websites is tedious so I do understand why more people do not do that
+
+355
+00:32:30,640 --> 00:32:36,720
+ because it requires an awful lot more consistent effort than making a pdf that you then upload
+
+356
+00:32:36,720 --> 00:32:42,560
+ somewhere does on the other side of the coin I think the people making more modern fanzines are
+
+357
+00:32:42,560 --> 00:32:47,280
+ ignoring that letter column thing but I think part of the reason for that is that there are so
+
+358
+00:32:47,280 --> 00:32:52,960
+ many more places you can have those conversations now than there were when the traditional fanzines
+
+359
+00:32:52,960 --> 00:32:57,280
+ were kind of coming out so in the old days in like the 50s if you wanted to have a conversation
+
+360
+00:32:57,280 --> 00:33:00,400
+ with people you did it in the letter column because you couldn't just tweet at them or text them
+
+361
+00:33:00,400 --> 00:33:08,240
+ but now like I think in a way Twitter is kind of like a worldwide letter column and so I think
+
+362
+00:33:08,240 --> 00:33:13,120
+ part of the reason we're seeing much less engagement in zines themselves is because a lot of that
+
+363
+00:33:13,120 --> 00:33:18,960
+ engagement has been shunted to other platforms and I see why that's happening but I do think it's a
+
+364
+00:33:18,960 --> 00:33:25,440
+ shame because I think there is merit to having a consistent group of commentators and building
+
+365
+00:33:25,440 --> 00:33:32,400
+ that conversation that is more coherent and I think that's something that OctaThork does in that we
+
+366
+00:33:32,400 --> 00:33:40,160
+ have the letter column which we have kind of poached from old style fanzines but is also
+
+367
+00:33:40,160 --> 00:33:45,520
+ something you see in a lot of the tech podcasts that me and Alison kind of formed our opinions on
+
+368
+00:33:45,520 --> 00:33:50,880
+ how podcasts should work by listening to and where you do have this sense of community and
+
+369
+00:33:50,880 --> 00:33:57,680
+ this sense of comment and this building up of relationships with the commentators and the audience
+
+370
+00:33:57,680 --> 00:34:05,520
+ and so I think we're trying to build that kind of coherent conversation in OctaThork but doing it
+
+371
+00:34:05,520 --> 00:34:11,120
+ in a way that isn't a PDF on our website and so sometimes I refer to Lulzine as an episode and
+
+372
+00:34:11,120 --> 00:34:15,760
+ sometimes I refer to OctaThork as an issue and that's because in my head they're both very much
+
+373
+00:34:15,760 --> 00:34:21,360
+ attempts to do the same sort of thing which is to lever more modern styles of communication
+
+374
+00:34:21,360 --> 00:34:28,480
+ but to try and capture that sense of community that the fanzines I read when I was younger kind of
+
+375
+00:34:28,480 --> 00:34:36,320
+ addressed and also if anyone knows Jim DeLiscard, get him to publish another bloody Gerald will you
+
+376
+00:34:36,320 --> 00:34:40,240
+ because that's the third thing that's wrong with fanzines today there's not enough Gerald.
+
+377
+00:34:40,240 --> 00:34:46,640
+ I now of course have many many things to say but that's all we've got time for this week on
+
+378
+00:34:46,640 --> 00:34:51,280
+ OctaThork so it's good oh no we can't you John has to do that bit.
+
+379
+00:34:51,280 --> 00:34:59,440
+ Am I am I not allowed like you know a 30 second rebuttal? I believe you're allowed 90 seconds
+
+380
+00:34:59,440 --> 00:35:05,120
+ which is fine I can do it in 90 seconds I have two responses mostly to John one is that I
+
+381
+00:35:05,120 --> 00:35:09,360
+ hadn't realized that what you were doing when you persuaded us to set up OctaThork was stealthily
+
+382
+00:35:09,360 --> 00:35:14,400
+ reinvigorating your fanzine tradition but well done I do like the regular commenter
+
+383
+00:35:14,400 --> 00:35:20,080
+ commenters who write to us very often thank you very much and if anyone hasn't written
+
+384
+00:35:20,080 --> 00:35:24,240
+ as a letter for a while please write in and tell us how you're doing I'd like to hear from you
+
+385
+00:35:24,240 --> 00:35:32,400
+ and second I think that in a way what is happening in the wider world is maybe something
+
+386
+00:35:32,400 --> 00:35:37,680
+ that fanzines can learn from which is I think people are leaving Twitter a little bit and maybe
+
+387
+00:35:37,680 --> 00:35:44,240
+ moving to platforms like sub stack or other kind of sub stack clones where you can have
+
+388
+00:35:44,240 --> 00:35:49,040
+ something which is a letter which gets emailed to people but you can also have a thriving
+
+389
+00:35:49,040 --> 00:35:54,800
+ comment section under them now I know a lot of sub stack seem to set that up by essentially
+
+390
+00:35:54,800 --> 00:35:59,440
+ having paid subscriptions and then you have special threads for your paid subscribers and
+
+391
+00:35:59,440 --> 00:36:04,480
+ that's maybe not a model to move to but that is it kind of feels like a blog that you email to
+
+392
+00:36:04,480 --> 00:36:09,600
+ people but it does seem to be working in a lot of fields to get people really engaged and
+
+393
+00:36:09,600 --> 00:36:16,080
+ discussing with each other I just want to say I didn't deliberately start OctaThork to try
+
+394
+00:36:16,080 --> 00:36:20,560
+ and reinvigorate my fanzine sensibilities it just sort of accidentally happened when we started
+
+395
+00:36:20,560 --> 00:36:27,920
+ getting layers of comment so it wasn't as insidious as it sounds when you put it like that I didn't
+
+396
+00:36:27,920 --> 00:36:34,400
+ mean to hoodwink anyone but yes yeah yeah I think those are good points and I should also
+
+397
+00:36:34,400 --> 00:36:39,760
+ note file 770 does have a thriving comment section underneath each post and I should
+
+398
+00:36:39,760 --> 00:36:46,000
+ I should not have left file 770 out because I think past 770 is actually the one great the other
+
+399
+00:36:46,000 --> 00:36:51,440
+ great example of a traditional fanzine that did really successfully bridge that cap and Mike
+
+400
+00:36:51,440 --> 00:36:58,400
+ Glyer won several hugos I think in recent years in part because he had successfully managed to do
+
+401
+00:36:58,400 --> 00:37:03,280
+ that please write in tell us if we're wrong please also write in if you haven't written in for a while
+
+402
+00:37:03,280 --> 00:37:09,920
+ we miss you I was going through the old letters of comment of a day and Karen Schafer was messaging
+
+403
+00:37:09,920 --> 00:37:17,280
+ us about her jigsaw's how are your jigsaws Karen we liked hearing about boats so yes we really
+
+404
+00:37:17,280 --> 00:37:22,160
+ do have to wrap up Alison doesn't want to wrap up she is simmering with things she wishes to say
+
+405
+00:37:22,160 --> 00:37:26,960
+ but that is good because it means that when letters of comment come in saying them we will be able to
+
+406
+00:37:26,960 --> 00:37:33,760
+ segue seamlessly into fans these next episode listeners I have gone from comatose to to simmering
+
+407
+00:37:33,760 --> 00:37:41,920
+ in one hour all all that has to happen is that I say wrong things about fandom and they are
+
+408
+00:37:41,920 --> 00:37:49,840
+ some wakes up great quick and on that bombshell it's goodbye from me it's goodbye from me and it's
+
+409
+00:37:49,840 --> 00:37:57,840
+ goodbye from me
+
+410
+00:38:10,480 --> 00:38:14,480
+ gossier turn the turn it over dr-
+
+411
+00:38:14,480 --> 00:38:23,040
+ octa-thorpe beatboxing vertex the theme music for this episode was fanfare for space by kevin
+
+412
+00:38:23,040 --> 00:38:30,880
+ mclowd at incompatec.com used under a creative commons attribution 3.0 license this podcast will
+
+413
+00:38:30,880 --> 00:38:34,880
+ end at the beat beep
+

@@ -1,0 +1,1984 @@
+1
+00:00:00,000 --> 00:00:06,480
+ Hello everyone, it's John here just letting you know we're aware that Alison has some music
+
+2
+00:00:06,480 --> 00:00:14,240
+ bleeding through in the La Half of the podcast. Alison very kindly recorded while she was at a
+
+3
+00:00:14,240 --> 00:00:19,520
+ festival in a field but unfortunately we hadn't quite grasped what that would mean for the audio
+
+4
+00:00:19,520 --> 00:00:24,960
+ scape. Hopefully it doesn't impede your enjoyment too much but we'll be back to a regular service
+
+5
+00:00:24,960 --> 00:00:34,320
+ next episode. See you all after the music.
+
+6
+00:00:34,320 --> 00:00:50,560
+ Hello everyone and welcome to the very 87th episode of Octa Thorpe, a podcast for science fiction and
+
+7
+00:00:50,560 --> 00:00:57,200
+ science fiction fandom. This episode is coming to you on the 6th of July 2023. I'm John Coxon,
+
+8
+00:00:57,200 --> 00:01:07,360
+ I'm Alison Scott and I'm Liz Batty and we have some letters of comment. So sometimes we have
+
+9
+00:01:07,360 --> 00:01:13,760
+ tweets of comment, Twitter broke. So if you sent us a tweet a comment please try sending it again
+
+10
+00:01:13,760 --> 00:01:17,760
+ on a different social network. Thank you, we love you all, we love hearing from you.
+
+11
+00:01:17,760 --> 00:01:26,160
+ Christopher J Garcia wrote in as he usually does. A day late, I swear I will speedily listen next
+
+12
+00:01:26,160 --> 00:01:34,400
+ week. We will be watching Chris. Chris says lots of things all of which are good. He saw a moose
+
+13
+00:01:34,400 --> 00:01:39,680
+ in person once, it was about eight feet tall and it was in chill mode and that is about the opposite
+
+14
+00:01:39,680 --> 00:01:45,520
+ of Alison in both respects. Because Alison is not eight feet tall and is perhaps not as chill as a
+
+15
+00:01:45,520 --> 00:01:54,320
+ moose. I am pretty chill, I do not, I very rarely stampede at people and flack them with my giant
+
+16
+00:01:54,320 --> 00:02:02,880
+ antlers. I would also say that a moose is considerably more deadly than Alison that is another way in
+
+17
+00:02:02,880 --> 00:02:12,160
+ which you are differentiated. Oh you just crossed me. Listeners, if you could write in and tell us
+
+18
+00:02:12,160 --> 00:02:15,680
+ whether you'd rather have a fight with Alison or a fight with a moose and we will read out the
+
+19
+00:02:15,680 --> 00:02:23,760
+ best responses next episode. Would you rather have a fight with 100 Alison sized moose or one
+
+20
+00:02:23,760 --> 00:02:29,600
+ moose sized Alison? Chris, Chris did pick us up on some pronunciation. He says never call it Los
+
+21
+00:02:29,600 --> 00:02:35,200
+ Angeles, it's Los Angeles. And also if we need stunt versions of ourselves Chris volunteers to
+
+22
+00:02:35,200 --> 00:02:39,040
+ portray John Coxon. He might be able to pull off a reasonable Liz but he's been working on his
+
+23
+00:02:39,040 --> 00:02:43,760
+ Coxon delivery since 2009 and he's awesome at it. What I now want to see is whether Chris could
+
+24
+00:02:43,760 --> 00:02:49,440
+ do all three of us. Well we know that we've done it on the cover. Well that was all three of us
+
+25
+00:02:49,440 --> 00:02:54,480
+ doing Chris. No I was just going to say about Chris's letter that I think Chris Garcia I think
+
+26
+00:02:54,480 --> 00:03:00,560
+ is the man with the most energy who could do all three of us convincingly during a live episode and
+
+27
+00:03:00,560 --> 00:03:06,960
+ I would like to see that. Yep and I'd like to see that at a Californian convention but obviously
+
+28
+00:03:06,960 --> 00:03:13,440
+ in Eastercon I'd want it to be Tobe's. Ooh I think that would be funny. Yeah I'm okay with that. We
+
+29
+00:03:13,440 --> 00:03:20,240
+ also heard from Anne-Gell Nussbaum who writes in and apologizes for confusing Alison.
+
+30
+00:03:20,240 --> 00:03:24,320
+ Adliss I think. Would you rather confuse Alison or confuse a moose?
+
+31
+00:03:24,320 --> 00:03:32,880
+ No no I knew what was going on. I knew what was going on. I just let you finish before I
+
+32
+00:03:32,880 --> 00:03:38,960
+ pointed out that you got the wrong end of the sick. Oh my god that's so much worse.
+
+33
+00:03:38,960 --> 00:03:45,280
+ I don't like to interrupt people John. No I don't listen as may know I don't have that
+
+34
+00:03:45,280 --> 00:03:51,680
+ character character as a judge described. Yes but Abigail would like to clarify that the most
+
+35
+00:03:51,680 --> 00:03:56,240
+ recommended Francis Harding novels are Gullsford Carlin, Skimfleshadows, Verdigree, Deep,
+
+36
+00:03:56,240 --> 00:04:02,720
+ and a Facelight class and I've read three of those and they're all good so go for it. Which ties in
+
+37
+00:04:02,720 --> 00:04:09,200
+ very nicely to an email we got from Karen Shafer thanking us for our recommendation over Facelight
+
+38
+00:04:09,200 --> 00:04:14,880
+ class and they read it just before listening to the discussion just like a book club. It's just
+
+39
+00:04:14,880 --> 00:04:20,080
+ like a book club except we get to pontificate for like an hour and then you get to write as a
+
+40
+00:04:20,080 --> 00:04:24,880
+ letter of comment that we extract the bits we like from. So it's not quite like a book club.
+
+41
+00:04:24,880 --> 00:04:28,320
+ Maybe we should announce more often that we're going to do like a book episode and then people
+
+42
+00:04:28,320 --> 00:04:34,560
+ can read it. That might be a good idea. Maybe we should. That's a good point. When we record,
+
+43
+00:04:34,560 --> 00:04:41,920
+ so the next episode we will be doing a book club about will be Six Weeks by Merlafferty which was
+
+44
+00:04:41,920 --> 00:04:47,360
+ a Hugo Award finalist in I think 2018 which is my pick that I get to make Liz and Alison read
+
+45
+00:04:47,360 --> 00:04:52,240
+ and I don't know when it will come out. We haven't yet read and recorded the episode and you'll be
+
+46
+00:04:52,240 --> 00:04:58,480
+ able to do some behind the scenes cryptography because if it comes out in like August 2024
+
+47
+00:04:58,480 --> 00:05:02,720
+ you now have an indication of timescale. But we'll let you know when we do record it.
+
+48
+00:05:02,720 --> 00:05:06,960
+ Well we'll let you know, I guess we'll let you know when near when it comes out so that people
+
+49
+00:05:06,960 --> 00:05:13,360
+ can read it closer to the time. But yeah foreshadowing. Something that happened this week is that one
+
+50
+00:05:13,360 --> 00:05:20,160
+ of file 777 throwback novels was Grass by Sherry Tepper which is my choice for the book that I'm
+
+51
+00:05:20,160 --> 00:05:25,280
+ going to make John and Liz read. So I thought it was quite funny that given all of the books in
+
+52
+00:05:25,280 --> 00:05:30,640
+ all of the world they will pick that one. Of all the books of all the world you had to walk in a
+
+53
+00:05:30,640 --> 00:05:38,800
+ mine. Yeah like that one like that. We heard toots. We had toots of comment. Firstly Peter Sullivan
+
+54
+00:05:38,800 --> 00:05:44,160
+ says that he's beginning to catch up with the backlog. So obviously he said that and then he
+
+55
+00:05:44,160 --> 00:05:47,840
+ probably isn't going to listen to this episode for a while. But when you get here, hi Peter.
+
+56
+00:05:48,720 --> 00:05:55,840
+ And then Raj says he loves Alison's episode art. This is the cricket episode art. It feels like a
+
+57
+00:05:55,840 --> 00:06:00,400
+ 1930 seaside murder mystery where Alison is murdered. John is innocent but is framed for her
+
+58
+00:06:00,400 --> 00:06:04,640
+ murder because he looks shifty and lizzes the Ditzy but very sharp lady detective who has saw
+
+59
+00:06:04,640 --> 00:06:09,840
+ everything out. I don't know if that's how it would unfold but we could do it as a play.
+
+60
+00:06:09,840 --> 00:06:15,280
+ I'm happy to be the Ditzy but sharp lady detective. I think I do get off lightly here.
+
+61
+00:06:15,280 --> 00:06:21,760
+ I don't want to be murdered. Thank you. I don't really want to be murdered even in the play.
+
+62
+00:06:21,760 --> 00:06:27,600
+ I don't know how that's so funny but it is. If you were murdered would you want me to investigate
+
+63
+00:06:27,600 --> 00:06:34,560
+ your murder or jump? Is this hypothetical too far? I wonder if neither is an option if I could
+
+64
+00:06:34,560 --> 00:06:40,720
+ pick a detective who is not either of you. All of the rights who would it be? Any fan who's
+
+65
+00:06:40,720 --> 00:06:46,560
+ investigating your murder? Chris Garcia. Chris Garcia. I mean he does have, he is writing a book about
+
+66
+00:06:46,560 --> 00:06:52,560
+ true crime I think. Yeah speaking to the skill set. I feel like he'd investigate my murder with
+
+67
+00:06:52,560 --> 00:06:58,480
+ considerable energy. On the subject of cricket Malcolm Hutchison told us on Facebook,
+
+68
+00:06:58,480 --> 00:07:02,640
+ "What do you mean cricket is an SF no a game created from my racial memory of being attacked by cricket
+
+69
+00:07:02,640 --> 00:07:07,440
+ robots?" I did think that when we were discussing it and I didn't say it but thank you very much
+
+70
+00:07:07,440 --> 00:07:12,480
+ for writing up writing in Malcolm that was very good. And also Fara thanked us for the discussion
+
+71
+00:07:12,480 --> 00:07:28,080
+ of COVID ventilation. We have news. We have been nominated for a Hugo Award. Yay.
+
+72
+00:07:32,240 --> 00:07:38,080
+ So thank you very much. Which answers one important question which we had at the time of recording
+
+73
+00:07:38,080 --> 00:07:42,160
+ which is will there be any English language finalists on the ballot? And the answer is yes
+
+74
+00:07:42,160 --> 00:07:47,920
+ because we are. So we're very pleased. Which makes conversations that are being had in theory
+
+75
+00:07:47,920 --> 00:07:51,440
+ about the Hugo is very difficult because people are loudly asserting there won't be any and I'm
+
+76
+00:07:51,440 --> 00:07:59,280
+ like I know there will be but I can't tell you why. Oh no I have heard elsewhere on gossipy grapevines.
+
+77
+00:07:59,280 --> 00:08:05,840
+ I heard before we learnt that we were a nominee. I heard that there was at least one English language
+
+78
+00:08:05,840 --> 00:08:10,160
+ nominee through the grapevine. At time recording we don't know anything else that's on the ballot.
+
+79
+00:08:10,160 --> 00:08:16,240
+ We're recording this after we receive the you know super secret email. Oh no we do we do we do we do we
+
+80
+00:08:16,240 --> 00:08:21,600
+ do we do we do we do we actually know two other things that are on the ballot Liz. You know two
+
+81
+00:08:21,600 --> 00:08:26,160
+ other things on the ballot. I do not know two other things on the ballot. Well I have been nominated
+
+82
+00:08:26,160 --> 00:08:32,880
+ for my role in a fanzine called journey planet. Congratulations John. I did not know that you did
+
+83
+00:08:32,880 --> 00:08:39,360
+ not tell me that. Yes I do not obviously do not officially know these things because no one would
+
+84
+00:08:39,360 --> 00:08:45,920
+ ever you know break the Hugo and Bargo to tell them eight stuff. No well it's tricky I feel like
+
+85
+00:08:45,920 --> 00:08:50,800
+ you two are good at keeping secrets and also I feel like it would be weird to have this episode
+
+86
+00:08:50,800 --> 00:08:55,840
+ going out celebrating our Hugo norm as a podcast without mentioning our other Hugo norms.
+
+87
+00:08:56,640 --> 00:09:03,280
+ Yeah it would yes. I edited the and or issue of journey planet and that was very good.
+
+88
+00:09:03,280 --> 00:09:08,160
+ Oh thank you. I'm a journey planet did absolutely fantastic work last year and
+
+89
+00:09:08,160 --> 00:09:12,000
+ they were definitely on my ballot and I'm sure lots of other people's and I'm very glad to see
+
+90
+00:09:12,000 --> 00:09:18,640
+ that they're on the thing. So congratulations John and the and or episode issue was fantastic
+
+91
+00:09:18,640 --> 00:09:23,440
+ even though it had the same joke on the cover that we'd use for octalope and you must have known
+
+92
+00:09:23,440 --> 00:09:27,120
+ at the point where you commissioned it for octalope and you did not tell me and I was only a bit
+
+93
+00:09:27,120 --> 00:09:35,120
+ annoyed and by a bit annoyed I mean absolutely fucking furious. You underestimate how joined up
+
+94
+00:09:35,120 --> 00:09:43,520
+ the journey planet team is. But you edited that I blame I blame sharing competence.
+
+95
+00:09:43,520 --> 00:09:47,920
+ I guess I guess a little bit of a look behind the curtain but it's actually usually James who
+
+96
+00:09:47,920 --> 00:09:54,000
+ does the cover art commissioning. Oh right. Like like so so for all of the episode all of the issues
+
+97
+00:09:54,000 --> 00:09:59,280
+ of journey planet I have worked on it has been James who commissioned the covers except for the
+
+98
+00:09:59,280 --> 00:10:03,760
+ matrix issue which I commissioned. James needs to commission a cover for me then doesn't he?
+
+99
+00:10:03,760 --> 00:10:08,480
+ Because as we know Bob. So on the subject of people who were on
+
+100
+00:10:08,480 --> 00:10:13,760
+ nomination ballots from other people on the podcast so what else is nominated for a Hugo
+
+101
+00:10:14,800 --> 00:10:22,320
+ in our company? I am also eligible in best fan artist and I have been nominated for this my first
+
+102
+00:10:22,320 --> 00:10:31,120
+ aye this is my first finalist place for best fan artist and I am very happy because I have
+
+103
+00:10:31,120 --> 00:10:42,080
+ been doing fan art in Fansies and in other places since 1996 so I'm kind of like oh this is amazing
+
+104
+00:10:42,080 --> 00:10:45,840
+ I didn't think this would ever happen so I'm very pleased. I've sent them a note saying
+
+105
+00:10:45,840 --> 00:10:52,800
+ here's my eligible stuff and about 13 of those pieces are octa-thorpe covers so thank you guys
+
+106
+00:10:52,800 --> 00:10:59,040
+ for not only providing me an outlet for my art but also insisting that I do it every two weeks
+
+107
+00:10:59,040 --> 00:11:04,160
+ because that is what we call good discipline and I'm pretty proud of some of the covers that I did
+
+108
+00:11:04,160 --> 00:11:11,520
+ in 2022 so do check them out if you've never looked at our cover art we do have cover art
+
+109
+00:11:11,520 --> 00:11:16,560
+ most issues episodes and most of that's me but some of it's by our other excellent artists
+
+110
+00:11:16,560 --> 00:11:23,280
+ like Sue Mason and Spanish Shove and Brad Foster we've had it had in 2022 and is that everyone?
+
+111
+00:11:23,280 --> 00:11:29,120
+ Oh Sarah Felix and if you are a fan artist and we have no invited you to do fan art for our
+
+112
+00:11:29,120 --> 00:11:34,160
+ podcast please write in because we're very British and coy and what that means is you have to kick
+
+113
+00:11:34,160 --> 00:11:39,280
+ us to get us to ask you to do things. No no no we will yeah we'd love for you to do us art.
+
+114
+00:11:39,280 --> 00:11:43,920
+ Yes. We have an art specification but you're welcome to ignore all of it it's only there so
+
+115
+00:11:43,920 --> 00:11:48,880
+ that you can have ideas to bounce off. Yeah I should say how the process normally goes for the
+
+116
+00:11:48,880 --> 00:11:53,680
+ fortnightly octa-thorpe artist Alison goes do you have any art prompts guys and I try and come up
+
+117
+00:11:53,680 --> 00:11:59,040
+ with the most ludicrous one possible like saying can we all be mouse detectives or can we have
+
+118
+00:11:59,040 --> 00:12:04,720
+ a commemorative plates and then Alison somehow makes them into something amazing. It is very good.
+
+119
+00:12:04,720 --> 00:12:13,040
+ On the subject of being nominated for Hugo Awards the Hugo Award finalists are out but at the
+
+120
+00:12:13,040 --> 00:12:20,160
+ recording time we do not know what they are because they weren't when we recorded. I'm gonna say that
+
+121
+00:12:20,160 --> 00:12:25,760
+ I worked on the Hugo team a couple of years ago for the Disc on 300th Hugo vote packet.
+
+122
+00:12:25,760 --> 00:12:34,320
+ This entire area of Worldcon work is tedious for nickety hard work that takes ages even if you don't
+
+123
+00:12:34,320 --> 00:12:40,080
+ theoretically have a load of nominations in a language you don't understand with a lot of
+
+124
+00:12:40,080 --> 00:12:45,920
+ different conventions for how titles are portrayed so I mean I feel like they've probably had a
+
+125
+00:12:45,920 --> 00:12:50,480
+ bucket load of work to do and we should cut them a load of slack and the people are not cutting
+
+126
+00:12:50,480 --> 00:12:54,160
+ them a load of slack yeah should take a chill pill because I'm sure it's going to get sorted out
+
+127
+00:12:54,160 --> 00:12:58,640
+ and the hugas will be awarded and it will all be lovely but they did say that they would have it
+
+128
+00:12:58,640 --> 00:13:03,760
+ done by the end of June and it's now the second of July as we record. So and I would say I mean
+
+129
+00:13:04,240 --> 00:13:09,360
+ my experience of Worldcon deadlines is generally you have a deadline you set an advance and then
+
+130
+00:13:09,360 --> 00:13:13,840
+ like it slips by a couple of weeks and then sometimes it slips by a bit more but most of these
+
+131
+00:13:13,840 --> 00:13:19,840
+ deadlines because they're not as public facing as a Hugo's no one really notices or cares about them
+
+132
+00:13:19,840 --> 00:13:23,680
+ as long as you actually get it done in time and you build in enough slack into the system that
+
+133
+00:13:23,680 --> 00:13:27,840
+ your deadline is always well we're going to do it now and then if it slips by a couple of weeks it
+
+134
+00:13:27,840 --> 00:13:33,120
+ won't actually you know cause any massive problems it will just tighten up all your timescales so
+
+135
+00:13:33,120 --> 00:13:37,440
+ hopefully they will get them out and still give people a good couple of months to read everything
+
+136
+00:13:37,440 --> 00:13:42,640
+ um I guess the timescales for the Hugo packet do get a little bit tight if that slips well
+
+137
+00:13:42,640 --> 00:13:47,520
+ assuming there is a Hugo packet if that slips as far as the nominees have that might be a little
+
+138
+00:13:47,520 --> 00:13:53,120
+ bit difficult if people are relying on that to read things but yeah I would just urge people to get
+
+139
+00:13:53,120 --> 00:13:58,720
+ on with getting books out from the library and reading what fiction is free online and you know
+
+140
+00:13:58,720 --> 00:14:02,240
+ engaging with whatever else they can get their hands on before the Hugo packet if they're worried
+
+141
+00:14:02,240 --> 00:14:08,640
+ about running out of time. Three of us know that there are finalists out there uh the file 770
+
+142
+00:14:08,640 --> 00:14:15,520
+ comments Paul Weimer notes that he knows that someone has been notified they're a finalist so they
+
+143
+00:14:15,520 --> 00:14:21,600
+ are clearly going through so like it's not like no one has heard anything so presumably it's just
+
+144
+00:14:21,600 --> 00:14:28,320
+ taking longer than they thought. So two days ago um Chung Do announced on their Facebook page 114
+
+145
+00:14:28,320 --> 00:14:36,640
+ lucky emails have been sent we have now sent the emails to all of the finalists for final
+
+146
+00:14:36,640 --> 00:14:41,600
+ confirmation and the official list will be announced once all the finalists have confirmed by email.
+
+147
+00:14:41,600 --> 00:14:48,560
+ Chung Do is a shower we're recording a little pick up a little bit after we recorded because
+
+148
+00:14:48,560 --> 00:14:53,600
+ since we recorded the Hugo finalists were announced and then were unannounced again.
+
+149
+00:14:53,600 --> 00:14:58,240
+ I think announced is a strong word. They were not really announced were they they sort of
+
+150
+00:14:58,240 --> 00:15:03,840
+ they were they were put on the website in a kind of by somebody who clearly didn't think that anybody
+
+151
+00:15:03,840 --> 00:15:11,200
+ would ever check you know Chung Do Worldcon.com/Hugoes. I believe there's actually Hugo Heifen Award which
+
+152
+00:15:11,200 --> 00:15:20,000
+ is clearly very obvious. Is there any thoughts? Yeah I mean I can kind of see how it happened and
+
+153
+00:15:20,000 --> 00:15:27,200
+ I suspect that Chung Do are having to put more effort than many conventions into making sure
+
+154
+00:15:27,200 --> 00:15:36,400
+ their Hugo voting site is accessible from lots of different locations but I think just don't put
+
+155
+00:15:36,400 --> 00:15:41,760
+ the actual data in there to leave an empty awards. But apparently they were using they've been using
+
+156
+00:15:41,760 --> 00:15:45,760
+ fake data for weeks. The thing that happened was that people noticed when it changed to
+
+157
+00:15:45,760 --> 00:15:52,240
+ data which Tammy Coxen assures us is not correct. People who follow these things have
+
+158
+00:15:52,240 --> 00:15:57,760
+ pointed out numerous ways in which it cannot be correct because things are in wrong categories
+
+159
+00:15:57,760 --> 00:16:03,440
+ or there is double dipping in the best dramatic presentations. But why would you even like ever
+
+160
+00:16:03,440 --> 00:16:09,280
+ take a set of data which is wrong and put it in there instead of dummy data? I just yeah.
+
+161
+00:16:09,280 --> 00:16:13,920
+ It doesn't make any sense right? Because you hadn't noticed it was wrong at the point where
+
+162
+00:16:13,920 --> 00:16:19,360
+ you put it on and it took putting it on and having it around to cause people including people who
+
+163
+00:16:19,360 --> 00:16:23,920
+ should have known better to actually look at it and check it. No obviously then it was wrong
+
+164
+00:16:23,920 --> 00:16:29,760
+ because Tammy said this is the incorrect list like why did they get the list from the Hugo
+
+165
+00:16:29,760 --> 00:16:35,760
+ administrators in the first place if it was not the actual list? Yeah that's my question as well.
+
+166
+00:16:35,760 --> 00:16:41,840
+ Did they realize it was wrong until people pointed out it was wrong? Like did the Hugo team
+
+167
+00:16:41,840 --> 00:16:46,560
+ think to put the categories in alphabetical order for example? There's incompetence here
+
+168
+00:16:46,560 --> 00:16:50,960
+ from at least one group right? Either the Hugo administrator was incompetent because they
+
+169
+00:16:50,960 --> 00:16:56,480
+ let an incorrect list into the wild of the rest of the convention which should absolutely not have
+
+170
+00:16:56,480 --> 00:17:00,000
+ happened. It should have been the correct list and there should have been no list and then the
+
+171
+00:17:00,000 --> 00:17:05,040
+ correct list and they should not have been an intermediate stage and the web team were incompetent
+
+172
+00:17:05,040 --> 00:17:10,400
+ because on no account should you use real data when you're testing. Ever if you need representative
+
+173
+00:17:10,400 --> 00:17:15,600
+ data use the 2022 Hugo finalists which would be fine from the perspective of making sure like all
+
+174
+00:17:15,600 --> 00:17:21,360
+ your line wrapping is worked but we clearly not the actual ballot. These things do happen and I don't
+
+175
+00:17:21,360 --> 00:17:28,240
+ want to be mean but at the same time this should not have happened. Oh yeah no matter how many
+
+176
+00:17:28,240 --> 00:17:34,720
+ how much slack you are cutting the Shagdo team for having to do a very good difficult job in a
+
+177
+00:17:34,720 --> 00:17:40,560
+ very difficult year they absolutely should not have done this and the number of the number of
+
+178
+00:17:40,560 --> 00:17:46,480
+ lead so so when you're thinking about health and safety and risk management you have this model of
+
+179
+00:17:46,480 --> 00:17:51,360
+ the Swiss cheese where you have layers of protection none of which are perfect but the idea is that
+
+180
+00:17:51,360 --> 00:17:57,840
+ things don't get through because a lot of imperfect barriers is as good as a perfect one or it feels
+
+181
+00:17:57,840 --> 00:18:04,240
+ like you had to have made a cascade of stupid mistakes in order to have this happen in this way
+
+182
+00:18:04,240 --> 00:18:08,080
+ and they should have not have done that. It's a little bit annoying because when we posited a
+
+183
+00:18:08,080 --> 00:18:12,800
+ binary when we first recorded this episode of they will announce it or they won't announce it we
+
+184
+00:18:12,800 --> 00:18:19,040
+ didn't imagine the third option where they would do both. So sorry listeners we've let you down
+
+185
+00:18:19,040 --> 00:18:23,920
+ we've let ourselves down. Yeah and we're not going to talk about the people who we now expect to be
+
+186
+00:18:23,920 --> 00:18:28,720
+ on the ballot and are thrilled to see on the ballot that we shouldn't have seen but we are thrilled
+
+187
+00:18:28,720 --> 00:18:35,040
+ to see them all well done everyone. There are no Hugo finalists at the moment there are only past
+
+188
+00:18:35,040 --> 00:18:40,560
+ winners and that's finalists. So my favorite my favorite comment on this whole thing is the
+
+189
+00:18:40,560 --> 00:18:46,320
+ person who's busy saying oh so when we see the final list if there's anyone who wasn't on the
+
+190
+00:18:46,320 --> 00:18:51,440
+ redacted who was on the redacted list but isn't on the final list they are necessarily the people
+
+191
+00:18:51,440 --> 00:18:57,440
+ that the invidious forces of the Chinese government have deemed cannot be on the Hugo list and I thought
+
+192
+00:18:57,440 --> 00:19:04,320
+ that was amazing. Oh god I hadn't occurred to me until you just said it and now it has occurred to
+
+193
+00:19:04,320 --> 00:19:08,960
+ me and it makes me sad. I think it's very unlikely guys I don't think I don't think the Chinese
+
+194
+00:19:08,960 --> 00:19:14,400
+ government cares that much. Oh no I 100% agree with that but there will definitely be people who
+
+195
+00:19:14,400 --> 00:19:17,840
+ don't appear on the ballot because they'll have like recused or something and then we're gonna
+
+196
+00:19:17,840 --> 00:19:23,520
+ have a massive argument about whether that may or I just I'm not here for a listeners I can't be
+
+197
+00:19:23,520 --> 00:19:29,760
+ out. Yeah I mean well I listen so as did they only I'm going to give them not much benefit of
+
+198
+00:19:29,760 --> 00:19:33,200
+ the doubt but I don't think they can possibly realize that the list was not the correct list
+
+199
+00:19:33,200 --> 00:19:37,760
+ until they saw it on the website because it had dramatic presentations in both short and long form
+
+200
+00:19:37,760 --> 00:19:43,920
+ and we know that they always put them in one or the other category and that is a really easy thing
+
+201
+00:19:43,920 --> 00:19:49,120
+ that was the instant thing to spot. It's not like an edge case like did someone you know self you
+
+202
+00:19:49,120 --> 00:19:54,160
+ know self-publish their you know fiction on a tiny website in 2019 that makes them ineligible
+
+203
+00:19:54,160 --> 00:19:59,520
+ for astounding it's like a big thing. So my my personal theory is that it's just the top five in
+
+204
+00:19:59,520 --> 00:20:04,960
+ every category so top six in every category on the website before they do this kind of eligibility
+
+205
+00:20:04,960 --> 00:20:10,160
+ checking and so what I hope is that the only people who disappear are those who actually decline or
+
+206
+00:20:10,160 --> 00:20:15,200
+ are ineligible or are in two categories and then we only get new people. Are we very sad if there is
+
+207
+00:20:15,200 --> 00:20:20,960
+ anyone who is actually on the list and then gets taken off because it was a colossal error that would
+
+208
+00:20:20,960 --> 00:20:34,160
+ be a big shame. Especially if it's us. Anyway next segment.
+
+209
+00:20:34,160 --> 00:20:41,440
+ The Locust Award winners have been announced recently there are a whole load of them actually
+
+210
+00:20:41,440 --> 00:20:46,800
+ because they break down novel into multiple categories and they also award for short fiction
+
+211
+00:20:46,800 --> 00:20:52,480
+ and short story anthology and collection and magazine and so I'll link them in the show notes
+
+212
+00:20:52,480 --> 00:20:58,000
+ and you can go and read through them. I think the ones I would pull out are the winner of
+
+213
+00:20:58,000 --> 00:21:03,440
+ novelt is if you find yourself speaking to a dress god within formal you which I think was one of
+
+214
+00:21:03,440 --> 00:21:08,400
+ John and I's picks for best novelt for the Hugos. The winner of best short story was rabbit test
+
+215
+00:21:08,400 --> 00:21:14,720
+ by Samantha Mills which again was one of our picks and I don't think I've read any of the other
+
+216
+00:21:15,600 --> 00:21:21,680
+ winners actually so it's hard for me to pass comment on those but they do it like a solid list
+
+217
+00:21:21,680 --> 00:21:29,600
+ of stuff. I will say that Best Publisher winner was once again Tor. So I will also pull out that
+
+218
+00:21:29,600 --> 00:21:35,200
+ in the category of Best Publisher which was previously awarded under Best Book Publisher
+
+219
+00:21:35,200 --> 00:21:44,000
+ I think it has been Tor since about 1988 as far as I can tell although it has been split into
+
+220
+00:21:44,640 --> 00:21:49,120
+ it's been Best Publisher or Best Publisher Test imprint or Best Book Publisher at different times
+
+221
+00:21:49,120 --> 00:21:56,960
+ as far as I can tell they've all since 1988 gone to Tor so maybe I mean I'm not saying Tor out good
+
+222
+00:21:56,960 --> 00:22:01,600
+ but I am saying maybe it's time we thought about whether there are other publishers who may have
+
+223
+00:22:01,600 --> 00:22:08,160
+ published something good in the past 35 years. It is tricky to look at because I've looked up on the
+
+224
+00:22:08,160 --> 00:22:15,280
+ ISFDB and it's sort of split into five different awards at different times but it looks like
+
+225
+00:22:15,280 --> 00:22:21,840
+ previously it was mostly Valentine Delray and then passed seriously onto Tor or Tor,
+
+226
+00:22:21,840 --> 00:22:28,080
+ St Martin's and I think those are the only winners. Probably represents the you know the
+
+227
+00:22:28,080 --> 00:22:33,680
+ makeup of the voters and that they're probably predominantly American and probably do read a lot
+
+228
+00:22:33,680 --> 00:22:39,360
+ books from Tor but there's a number of you know British imprints on there in the the long list
+
+229
+00:22:39,360 --> 00:22:47,440
+ angry robot glance orbit and also small presses like Small Bit Press so yeah. Having said this I
+
+230
+00:22:47,440 --> 00:22:53,920
+ bet next year that we're not just going to be Tor.com instead. I said that. Oh do you think you have
+
+231
+00:22:53,920 --> 00:23:00,320
+ that much power over the locus fetus list? No I don't I think it will just be to spite me basically
+
+232
+00:23:00,320 --> 00:23:05,280
+ anyway the the the long list I think we mentioned the long list the long list do all look pretty good
+
+233
+00:23:05,280 --> 00:23:11,200
+ I've read some of the fiction of the short fiction lists while I was reading for the hugos and I
+
+234
+00:23:11,200 --> 00:23:16,480
+ liked pretty much all the ones on these lists I've read. So as always locus is the locus awards
+
+235
+00:23:16,480 --> 00:23:22,640
+ long list is quite a good survey of the fields and has loads of good stuff in it. It does and I suspect
+
+236
+00:23:22,640 --> 00:23:30,160
+ it's going to have some crossover with the Hugo nominations when we see those. Yes probably.
+
+237
+00:23:30,160 --> 00:23:37,840
+ Finalists. Finalists. There was a tempest in a teacup on a social network no one can get on
+
+238
+00:23:37,840 --> 00:23:44,000
+ where some people were unhappy that John Scalzi won for best science fiction novel and John Scalzi
+
+239
+00:23:44,000 --> 00:23:49,120
+ was unhappy that those people were unhappy and that went about as well as you'd expect. There
+
+240
+00:23:49,120 --> 00:23:55,360
+ is an interesting bit from the July 2023 issue of locus. Decide you preservation society by John
+
+241
+00:23:55,360 --> 00:23:59,840
+ Scalzi won with the smallest winning lead this year just 17 points ahead of the equality by Emily
+
+242
+00:23:59,840 --> 00:24:04,800
+ St. John Mandel which had the most votes and first place votes and would have won without the
+
+243
+00:24:04,800 --> 00:24:10,320
+ doubling of subscriber points and this is because if you are a locus subscriber your vote
+
+244
+00:24:10,320 --> 00:24:19,600
+ counts double in the locus awards so if you were annoyed by any of that it's all locus readers fault
+
+245
+00:24:19,600 --> 00:24:24,160
+ is that accurate is that is that the line we're taking is that good I think that's good
+
+246
+00:24:24,160 --> 00:24:28,960
+ dear's passionate I mean I didn't really follow the slap fight because I'm not on Twitter anymore
+
+247
+00:24:28,960 --> 00:24:34,000
+ I just hear about the snap slap fights third hand which is I gotta be honest much more fun
+
+248
+00:24:34,000 --> 00:24:38,880
+ it no one's on Twitter anymore it's true I tried clicking the link you put to the tweet in and it
+
+249
+00:24:38,880 --> 00:24:42,560
+ just said no error so I'm like okay this is good
+
+250
+00:24:42,560 --> 00:24:58,080
+ I am a member of the BSA and the BSA sent me their June 2023 newsletter I read in the newsletter
+
+251
+00:24:58,080 --> 00:25:03,440
+ that there are proposals for new awards categories which reflect the expanding communities of science
+
+252
+00:25:03,440 --> 00:25:14,320
+ fiction the BSA are connected with and then they are detailed in the minutes of the AGM now they say
+
+253
+00:25:14,320 --> 00:25:21,600
+ that these will be put out in more detail in the July newsletter so maybe there will be more detail
+
+254
+00:25:21,600 --> 00:25:28,000
+ then but as far as I can tell from the minutes there are going to be some new BSA awards and that's
+
+255
+00:25:28,000 --> 00:25:34,080
+ exciting so we're going to talk about it here so there is going to be a split they are splitting
+
+256
+00:25:34,080 --> 00:25:42,400
+ non-fiction into short non-fiction which is under 30,000 words or under 30 minutes and long non-fiction
+
+257
+00:25:42,400 --> 00:25:48,240
+ which is over 30,000 words or over 30 minutes and you will notice listeners that that has the word
+
+258
+00:25:48,240 --> 00:25:54,080
+ minutes in it as well as words and therefore I believe it means that podcasts such as ours will
+
+259
+00:25:54,080 --> 00:25:59,280
+ be officially eligible rather than under the radar eligible because I assume the intention is to
+
+260
+00:25:59,280 --> 00:26:05,200
+ encompass well and also it says non-fiction any platform which is the other key clue there will
+
+261
+00:26:05,200 --> 00:26:10,960
+ be we will be eligible again which is cool because long-time listeners might remember we were nominated
+
+262
+00:26:10,960 --> 00:26:16,400
+ in 2021 but we weren't nominated in 2022 and I suspect part of the reason was that we pointed
+
+263
+00:26:16,400 --> 00:26:20,800
+ out we were not technically eligible so so to try to try to what we we were nominated and we got
+
+264
+00:26:20,800 --> 00:26:25,200
+ a got into our gladrags and went along to the awards ceremony and a lot of people came up to us
+
+265
+00:26:25,200 --> 00:26:28,720
+ said you know that we've read the rules and you're not actually eligible which was true
+
+266
+00:26:28,720 --> 00:26:34,320
+ well no it wasn't people didn't come up to us they read the description of the award when they
+
+267
+00:26:34,320 --> 00:26:39,760
+ were awarding the awards and I noticed that the description did make it very clear it had to be
+
+268
+00:26:39,760 --> 00:26:45,120
+ written down which I just assumed that because we were nominated we were eligible but that is as
+
+269
+00:26:45,120 --> 00:26:48,960
+ it turns out bad assumption listeners don't make that assumption necessarily but anyway this is
+
+270
+00:26:48,960 --> 00:26:56,800
+ good I think and they're also introducing original audio fiction they're introducing best collection
+
+271
+00:26:56,800 --> 00:27:04,080
+ and they are splitting the short story I believe into novella and into short story although I am not
+
+272
+00:27:04,080 --> 00:27:14,800
+ 100% clear about that so yes there's also I believe a new one for best translated work of short
+
+273
+00:27:14,800 --> 00:27:20,320
+ fiction but that's going to be a jury award not bs-fay award in the same style as the others
+
+274
+00:27:20,320 --> 00:27:25,680
+ did you mention the one for collections I did mention the one for collections and so this is
+
+275
+00:27:25,680 --> 00:27:34,560
+ all very interesting in a vacuum I think several very good ideas here my worry is participation in
+
+276
+00:27:34,560 --> 00:27:39,520
+ the bs-fay award is not always as high as one might ideally like it to be it's lower than you
+
+277
+00:27:39,520 --> 00:27:45,040
+ like it to be it's lower both at nomination stage which means that things sometimes get onto the
+
+278
+00:27:45,040 --> 00:27:50,240
+ final ballot with very small numbers of nominations and it's also lower than you'd like to be at
+
+279
+00:27:50,240 --> 00:27:54,880
+ finalist stage considering what a large member organization the bs-fay is and the fact that
+
+280
+00:27:54,880 --> 00:28:01,840
+ east econ members can also vote in the bs-fay awards it would be nice if there were more people
+
+281
+00:28:01,840 --> 00:28:06,960
+ I mean basically a lot of you guys out there are eligible to vote in these awards at both stages
+
+282
+00:28:06,960 --> 00:28:12,400
+ please do that it's good because broader participation is better so I should say I am the one of us who
+
+283
+00:28:12,400 --> 00:28:19,920
+ is not a bs-fay member at present do we get much detail on how many people actually voted
+
+284
+00:28:19,920 --> 00:28:27,360
+ or nominated no I'm relying on insider gossip here yeah so it is it is quite difficult to know and
+
+285
+00:28:27,360 --> 00:28:32,400
+ I think if I was at the AGM I might have wanted to have a bit more detail on that so I'd sort of know
+
+286
+00:28:32,400 --> 00:28:36,320
+ maybe I've been into this but I would want to kind of know how many people you've you got
+
+287
+00:28:36,320 --> 00:28:41,680
+ that seem to be part of your sort of active nominating body but you could also you could argue that
+
+288
+00:28:41,680 --> 00:28:46,320
+ the way to get more people engaged with your awards is to give them more categories of things they
+
+289
+00:28:46,320 --> 00:28:53,040
+ really care about and so maybe with more categories you will get a more engaged voting body so that
+
+290
+00:28:53,040 --> 00:28:57,520
+ that was like what I was going to come back to which is that's the counter argument I think is that if
+
+291
+00:28:57,520 --> 00:29:02,480
+ you recognize more categories that people care about you might find that there's an uptick it might be
+
+292
+00:29:02,480 --> 00:29:07,920
+ that this is the first step in doing that I would also say that this was based on a committee they
+
+293
+00:29:07,920 --> 00:29:13,600
+ did look at the viability of each of the things they proposed so presumably this has been discussed
+
+294
+00:29:13,600 --> 00:29:18,560
+ at some point I will also say and it's interesting because I hadn't read this until just now but
+
+295
+00:29:18,560 --> 00:29:23,680
+ one of the reasons stipulated in the report from the committee is that the reason this is happening
+
+296
+00:29:23,680 --> 00:29:29,520
+ now is because the award booklet is no longer being printed it's only going to be a PDF which
+
+297
+00:29:29,520 --> 00:29:34,560
+ means that expanding the award doesn't cost extra money for printing and I had not really thought
+
+298
+00:29:34,560 --> 00:29:40,240
+ of that as like a consideration but I guess that is that is another consideration happening here
+
+299
+00:29:40,240 --> 00:29:45,040
+ that's an interesting thing imagine if they got rid of all their other print publications
+
+300
+00:29:45,040 --> 00:29:51,920
+ well so yeah BSA awards interesting stuff I have a slight worry about that because although
+
+301
+00:29:51,920 --> 00:29:59,440
+ increasing the number of reward categories doesn't it doesn't cause them actual cash problems because
+
+302
+00:29:59,440 --> 00:30:05,440
+ of printing increasing the number of awards materially increases the amount of admin work
+
+303
+00:30:05,440 --> 00:30:12,400
+ and as we know from the Hugo Awards the the admin award for the the admin work for awards can become
+
+304
+00:30:12,400 --> 00:30:18,160
+ overwhelming yeah I'm I'm slightly surprised they did so many at once rather than kind of doing
+
+305
+00:30:18,160 --> 00:30:23,280
+ you know doing maybe doing these changes one at a time but maybe there's a
+
+306
+00:30:23,280 --> 00:30:27,920
+ I sense you're just doing them all at once and seeing how they go and then you can drop them if
+
+307
+00:30:27,920 --> 00:30:34,240
+ it turns out there is no appetite for particularly ones I said I could have sworn that the BSA
+
+308
+00:30:34,240 --> 00:30:40,240
+ had an award for best translation or best translation work that was a jury award but am I barking up
+
+309
+00:30:40,240 --> 00:30:46,400
+ totally the wrong tree was non-fictioned jury for a while someone who can like remember the 2010s
+
+310
+00:30:46,400 --> 00:30:50,400
+ please write it. Karen Mark you know everything about the history of the BSA
+
+311
+00:30:50,400 --> 00:30:56,080
+ A until they decide they didn't care about the history so please write it. Also anyone who can
+
+312
+00:30:56,080 --> 00:31:02,800
+ tell me why I can no longer remember the 2010s also please write. Oh it gets so much worse
+
+313
+00:31:02,800 --> 00:31:06,160
+ Liz you have no idea that was the BSA award
+
+314
+00:31:06,160 --> 00:31:17,600
+ I have a pick and somewhere I have some notes because normally when I pick books I have the books
+
+315
+00:31:17,600 --> 00:31:23,440
+ but the books are so heavy I was like I'm not taking them camping right so my pick this week is museum
+
+316
+00:31:23,440 --> 00:31:30,400
+ catalogs and in particular the museum catalogs of two of the museums I went to last two of the
+
+317
+00:31:30,400 --> 00:31:37,200
+ exhibitions I went to last year which were science fiction, voyage to the edge of imagination at the
+
+318
+00:31:37,200 --> 00:31:43,680
+ science museum and in the black fantastic at the Hayward Gallery and I think both of those got picked
+
+319
+00:31:43,680 --> 00:31:50,320
+ as picks on the podcast. Now museum catalogs used to just have pictures of everything that was in
+
+320
+00:31:50,320 --> 00:31:56,240
+ the museum and some text about the artist that more or less duplicated the material you could see
+
+321
+00:31:56,240 --> 00:32:02,240
+ in the exhibition but they have worked out that they can limit the amount of information in the
+
+322
+00:32:02,240 --> 00:32:08,640
+ exhibition and put it in museum catalogs instead for the nerds and charge a lot of money for these
+
+323
+00:32:08,640 --> 00:32:14,560
+ books so being me and a massive cheapskate I went to my library as soon as these books were published
+
+324
+00:32:14,560 --> 00:32:20,560
+ and said please get me copies of these books and now almost a year later I have them both at once
+
+325
+00:32:20,560 --> 00:32:28,480
+ so they are large very interesting hardbacks and they do they address the subject in two different
+
+326
+00:32:28,480 --> 00:32:35,840
+ ways so voyage to the edge of imagination um glim organ has collected contributions from a range
+
+327
+00:32:35,840 --> 00:32:42,320
+ of different academics to write chapters about the topic and this is illustrated with material
+
+328
+00:32:42,320 --> 00:32:47,440
+ about the exhibition as well so it does it would represent it would be a great souvenir of the
+
+329
+00:32:47,440 --> 00:32:53,680
+ exhibition if you wanted to keep these sorts of things in your house which I don't um and that's
+
+330
+00:32:53,680 --> 00:32:59,600
+ kind of explore the themes of the exhibition in more depth through a variety of different perspectives
+
+331
+00:32:59,600 --> 00:33:10,720
+ and in the black fantastic has the author echoation actually going into more depth on the topic and
+
+332
+00:33:10,720 --> 00:33:15,840
+ the themes of the exhibition but pulling in some contributions from other people but not with the
+
+333
+00:33:15,840 --> 00:33:20,480
+ sense of it being an academic work in chapters in quite the same way I think the thing that struck
+
+334
+00:33:20,480 --> 00:33:28,240
+ me most about this is that several of the reviews of voyage to the edge of the imagination have
+
+335
+00:33:28,240 --> 00:33:35,440
+ suggested that the edge of the imagination of what is essentially odd visual science fiction
+
+336
+00:33:35,440 --> 00:33:41,520
+ of the last 50 years we're not actually all that imaginative that the edge of the imagination
+
+337
+00:33:41,520 --> 00:33:47,200
+ is not that far away because of the limits of human imagination and then you look at it in the
+
+338
+00:33:47,200 --> 00:33:55,680
+ black fantastic where echelon is playing with essentially the whole of black culture not merely
+
+339
+00:33:55,680 --> 00:34:04,960
+ afrofuturism but also lots of different sorts of um black art and um and the whole of the myth of
+
+340
+00:34:05,520 --> 00:34:12,160
+ all of the african peoples which is an enormous range of culture and has and of course it's
+
+341
+00:34:12,160 --> 00:34:20,080
+ it's massively more imaginative than the relatively narrow um robots and spaceship stuff that is
+
+342
+00:34:20,080 --> 00:34:24,400
+ it there's most of the stuff of science fiction edge of the imagination these are two very good
+
+343
+00:34:24,400 --> 00:34:30,640
+ books and I recommend them both and both books made me think again about what I've seen in their
+
+344
+00:34:30,640 --> 00:34:34,160
+ relative exhibitions and think about what they were telling me in different ways and I'd strongly
+
+345
+00:34:34,160 --> 00:34:38,480
+ recommend them and you can get them from your library by pushing your name down and waiting
+
+346
+00:34:38,480 --> 00:34:46,240
+ for a very long time. I'm going next so my pick is a book I read basically in one sitting while on
+
+347
+00:34:46,240 --> 00:34:53,680
+ my uh some holidays it is a novella called Stealing for the Sky by Adam Roberts which
+
+348
+00:34:53,680 --> 00:34:58,080
+ it seemed to sort of sneak out I mean Adam Roberts writes a lot of kind of well regarded science
+
+349
+00:34:58,080 --> 00:35:03,360
+ fiction novels many of which have ended up on award shortlist and Silling for the Sky I think
+
+350
+00:35:03,360 --> 00:35:09,760
+ is by a different press than his novels come out and it just sort of like snuck out it seems and
+
+351
+00:35:09,760 --> 00:35:16,080
+ it's it's quite enjoyable all the reviews say is in the style of Donald Westlake and all that I
+
+352
+00:35:16,080 --> 00:35:22,000
+ have never read but it's basically like one of these sort of it's sort of a science fiction thriller
+
+353
+00:35:22,000 --> 00:35:27,840
+ with a kind of very a very violent and gory edge I mean if anyone who is planning to read this does
+
+354
+00:35:27,840 --> 00:35:34,080
+ not like kind of a protagonist who is not afraid to deal out a lot of violence in the cause of
+
+355
+00:35:34,080 --> 00:35:39,440
+ doing the um fevery that he does but it seems it's quite entertaining and it ends up with him
+
+356
+00:35:39,440 --> 00:35:44,560
+ basically stealing a mystery device kind of in the course of another like high steers pulling
+
+357
+00:35:44,560 --> 00:35:52,560
+ um which has some really odd momentum effects and then he ends up he mostly still satellites and
+
+358
+00:35:52,560 --> 00:35:58,240
+ he steals a strange orb and then he ends up getting chased by the authorities chased by Russians
+
+359
+00:35:58,240 --> 00:36:05,040
+ going out to try and heist an obsolete rocket in the middle of the Russian winter and it's just
+
+360
+00:36:05,040 --> 00:36:10,400
+ quite a fun kind of techno thriller near future you know in the the protagonist whose name is
+
+361
+00:36:10,400 --> 00:36:16,080
+ Starman slightly unbelievably but it's his nickname is um essentially stealing things to try and get
+
+362
+00:36:16,080 --> 00:36:21,600
+ enough money to go into space and probably get away from people so it's it's it's quite short I mean
+
+363
+00:36:21,600 --> 00:36:26,720
+ it's a novella I don't think it's going to win any awards but I did find it kind of an entertaining
+
+364
+00:36:26,720 --> 00:36:34,560
+ thing to read while I was in transit because it's quite pacy and keeps your keeps your attention
+
+365
+00:36:34,560 --> 00:36:40,320
+ nice I had a moment of cognitive dissonance because you said Donald Westlake and I was like
+
+366
+00:36:40,320 --> 00:36:46,880
+ what isn't that the chair of the Wussfuss mark protection committee but that's Donald Eastlake
+
+367
+00:36:46,880 --> 00:36:52,800
+ yeah wrong one so uh completely different lake Adam Roberts is one of the authors that I do
+
+368
+00:36:52,800 --> 00:37:00,560
+ keep dipping into because he does normally write quite chewy stuff that is trying to expand my
+
+369
+00:37:00,560 --> 00:37:06,080
+ horizons I mean he doesn't necessarily always succeed and it does sound like you've just described
+
+370
+00:37:06,080 --> 00:37:12,720
+ a Adam Roberts novella which is just kind of cheerily pacy and entertaining and I'm sure it's
+
+371
+00:37:12,720 --> 00:37:18,320
+ the same Adam Roberts so one thing I would say is that I read quite a lot of Adam Roberts I haven't
+
+372
+00:37:18,320 --> 00:37:25,120
+ read all of his work but you know I've probably read at least 10 probably more of his novels but
+
+373
+00:37:25,120 --> 00:37:29,440
+ I do think he you know there there is some kind of common ground to them but I don't think he writes
+
+374
+00:37:29,440 --> 00:37:35,680
+ the same book twice yeah no I'd agree with that which you know I applaud him for even when it's one
+
+375
+00:37:35,680 --> 00:37:40,640
+ that doesn't quite work for me I do applaud him for what he's doing I would say this one has some
+
+376
+00:37:40,640 --> 00:37:45,520
+ commonalities with yellow blue tibia because he goes back to the sort of it's in Russia and
+
+377
+00:37:45,520 --> 00:37:53,040
+ there's always sort of the slightly slightly comedically done Russian accent kind of thing of like dour
+
+378
+00:37:53,040 --> 00:37:59,360
+ Russian heavies so there's that in it but I think because it's so short and because it's basically
+
+379
+00:37:59,360 --> 00:38:06,800
+ kind of pretty tight perspective on this warm hardball protagonist who is just going around doing
+
+380
+00:38:06,800 --> 00:38:10,880
+ kind of a couple of heists and that's basically the whole thing I think it does manage to be quite
+
+381
+00:38:10,880 --> 00:38:16,880
+ pacy maybe pacy than a lot of his regular novels but I mean I went into it I think I picked it up
+
+382
+00:38:16,880 --> 00:38:21,120
+ picked up of Amazon because it's very cheap on Amazon like I think it was under a quid and so I
+
+383
+00:38:21,120 --> 00:38:25,760
+ thought well I'll give it a go and I didn't really have many expectations for it because I hadn't read
+
+384
+00:38:25,760 --> 00:38:34,480
+ any of the comparator things and yeah I just found it to be a good little you know two-hour diversion
+
+385
+00:38:34,480 --> 00:38:41,040
+ Adam Roberts is one of the people who I would be absolutely delighted to see on next year's hugo
+
+386
+00:38:41,040 --> 00:38:47,440
+ ballot when um the Worldconners in the UK so we might get more British stuff on the ballot
+
+387
+00:38:47,440 --> 00:38:53,760
+ so therefore write some good things in 2022 Adam what is this book eligible no this is a
+
+388
+00:38:53,760 --> 00:39:01,280
+ it's a 2022 book oh boo so you need so he needs to write a 2023 one get your skates on Adam I honestly
+
+389
+00:39:01,280 --> 00:39:06,960
+ don't expect Adam Roberts to end up on the Hugo shortlist I mean he's been on the BSA
+
+390
+00:39:06,960 --> 00:39:12,480
+ shortlist but I don't know if these books kind of have enough mass appeal to get on the Hugo
+
+391
+00:39:12,480 --> 00:39:17,040
+ shortlist I think they are one thing always very different for each other they are sometimes
+
+392
+00:39:17,040 --> 00:39:21,760
+ quite difficult reads quite philosophical and maybe they've never quite passed that threshold
+
+393
+00:39:21,760 --> 00:39:26,880
+ of being on the Hugo ballot I also don't know if he has a high readership in the US whereas for
+
+394
+00:39:26,880 --> 00:39:32,320
+ instance I know let's say Adrian Tricowski now has like a US publisher and gets more attention in the
+
+395
+00:39:32,320 --> 00:39:38,880
+ US and that might be part of why he's starting to turn upon on Hugo ballots but like you say 2024
+
+396
+00:39:38,880 --> 00:39:43,120
+ is going to be 2024 is going to be an incredibly odd year for Hugo nominations because it's going
+
+397
+00:39:43,120 --> 00:39:50,480
+ to be anyone who joined to vote in 2023 which could be a lot it could be and we'll see the Chinese
+
+398
+00:39:50,480 --> 00:39:57,440
+ influence on there which may be persistent at 2024 plus a whole load more Europeans than you might
+
+399
+00:39:57,440 --> 00:40:03,280
+ have had for the past few years plus the Americans who are still joining to come to Glasgow or just
+
+400
+00:40:03,280 --> 00:40:07,280
+ to have voting and nomination rights could be really odd next year I look forward to it
+
+401
+00:40:07,280 --> 00:40:11,600
+ I'm going to pick I'm going to not pick something and then I'm going to do my pick
+
+402
+00:40:11,600 --> 00:40:17,840
+ so I'm not going to pick every clerk award finalist that as I read them because I think that would
+
+403
+00:40:17,840 --> 00:40:23,520
+ get tedious for everyone but I have just finished reading Venomous Lumpsucker by Ned Bowman which
+
+404
+00:40:23,520 --> 00:40:30,080
+ I've put in my Goodreads review that it felt to me like in some places the Ministry for the
+
+405
+00:40:30,080 --> 00:40:36,400
+ Future by Kim Stanley Robertson but in other places it felt like Ready Player One by Ernest Cline
+
+406
+00:40:36,400 --> 00:40:41,600
+ and it really distresses me that like I can see how this book could have been amazing
+
+407
+00:40:41,600 --> 00:40:47,200
+ but there is just so many bits where it isn't and there was one bit where I did a full body
+
+408
+00:40:47,200 --> 00:40:54,080
+ eye roll which I didn't know I was capable of oh could you can you do want to demonstrate what
+
+409
+00:40:54,080 --> 00:41:01,360
+ a full body eye roll looks like John for the for the audio podcast it's like ah it's like
+
+410
+00:41:01,360 --> 00:41:09,200
+ some of it's very insightful and interesting and some of it is extremely crude and uninsightful
+
+411
+00:41:09,200 --> 00:41:17,600
+ and sort of very unfunny and unwitty you know in a part of it feel very incisive and cutting and
+
+412
+00:41:17,600 --> 00:41:25,200
+ part of it feels zany in a bad way and I found that incredibly frustrating. Can I just check
+
+413
+00:41:25,200 --> 00:41:29,840
+ is it the bits that were like Kim Stanley Robinson that were the insightful ones and the bits that
+
+414
+00:41:29,840 --> 00:41:36,000
+ were unfunny and forced like Ready Player One by any chance? You have successfully you have
+
+415
+00:41:36,000 --> 00:41:43,920
+ successfully grasped the key yeah it's tricky I do wonder whether someone more grounded in the
+
+416
+00:41:43,920 --> 00:41:48,000
+ genre would have avoided some of the zanniness but I don't know whether that's fair I don't know
+
+417
+00:41:48,000 --> 00:41:51,360
+ whether that's fair or not really because I get the impression this comes from the literary angle
+
+418
+00:41:51,360 --> 00:41:58,800
+ as did the anomaly but yes I didn't hate it but I and I wanted to like it more than I ended up
+
+419
+00:41:58,800 --> 00:42:03,520
+ liking it which was a frustrating experience. Does it at any point have chapters where we just
+
+420
+00:42:03,520 --> 00:42:08,640
+ like list a whole bunch of shit? There's a lot of info dumping and there's a lot of I'm very clever
+
+421
+00:42:08,640 --> 00:42:13,520
+ and have worked out the I'm going to tell you things in the guise of what are the characters now
+
+422
+00:42:13,520 --> 00:42:19,040
+ which is yeah in that same kind of way that Ready Player One does. This is of course not my pick
+
+423
+00:42:19,040 --> 00:42:28,800
+ I'm just explaining why it's not my pick for the for the listener. My actual pick is
+
+424
+00:42:29,360 --> 00:42:34,160
+ Across the Spider-Verse which I went to see with friends of the
+
+425
+00:42:34,160 --> 00:42:39,280
+ Friends of the Pod Neil Harrison and Nick Clark in the Jamdrah Cinema in Willie Bay which
+
+426
+00:42:39,280 --> 00:42:48,640
+ lovely little cinema and it's very good it is interesting I believe it is spoiler half a movie
+
+427
+00:42:48,640 --> 00:42:53,920
+ yeah but I don't mind that I mean it became very clear it was half a movie when I looked at my
+
+428
+00:42:53,920 --> 00:42:58,240
+ watch and I was like well it feels like we're about at the end of act two and we have been in the
+
+429
+00:42:58,240 --> 00:43:04,000
+ cinema for over two hours and I do not understand how they could do a compelling act three in the
+
+430
+00:43:04,000 --> 00:43:08,480
+ next sort of 20 minutes and then there was a 2B continued and I was like oh yes that makes sense
+
+431
+00:43:08,480 --> 00:43:12,880
+ in the in the sense of what I know about the structures of movies. I don't think this is a
+
+432
+00:43:12,880 --> 00:43:18,720
+ problem at all if you know it's happening. I didn't know it was happening and I wasn't bothered
+
+433
+00:43:18,720 --> 00:43:24,880
+ and you know I've seen lots of good movies in the cinema where well I really like the first
+
+434
+00:43:24,880 --> 00:43:29,120
+ half of June but I went into that clear-eyed believing I was getting the first half of June
+
+435
+00:43:29,120 --> 00:43:33,680
+ I think if I'd gone into the cinema believing I was seeing the entire plot I would have been
+
+436
+00:43:33,680 --> 00:43:38,640
+ pretty pissed off because it really it really just does film the first half of the thing.
+
+437
+00:43:38,640 --> 00:43:43,200
+ Dune didn't market itself as a part one right all of the posters just said Dune.
+
+438
+00:43:43,200 --> 00:43:46,640
+ I think if you were paying attention to Dune you knew Dune was part one of a two-part story
+
+439
+00:43:46,640 --> 00:43:50,400
+ and if you're paying attention to this you probably know the same but both movies have not
+
+440
+00:43:50,400 --> 00:43:56,800
+ marketed themselves as part one which it like you know is not great but I've noticed a lot of
+
+441
+00:43:56,800 --> 00:44:04,400
+ people talking about this in ways that I think are slightly okay so people have been
+
+442
+00:44:04,400 --> 00:44:08,640
+ commending the art style which I think is great and obviously the first one did a lot in terms
+
+443
+00:44:08,640 --> 00:44:13,440
+ of animation techniques which was very fresh. One of the things that's been repeatedly kind of
+
+444
+00:44:13,440 --> 00:44:19,920
+ praised is the art style of Spider Gwen's universe and it's slightly frustrating because no one is
+
+445
+00:44:19,920 --> 00:44:24,480
+ discussing that. Everyone is discussing that as if that was something the film did and that is
+
+446
+00:44:24,480 --> 00:44:28,080
+ just straight from the comics and that is something the comics have been doing since Spider Gwen was
+
+447
+00:44:28,080 --> 00:44:32,080
+ a character in the comic so like I do find it slightly frustrating that a lot of people are
+
+448
+00:44:32,080 --> 00:44:37,200
+ giving Miller and Lord the Crayard it for that in a way that I think is weird because I think it
+
+449
+00:44:37,200 --> 00:44:43,360
+ betrays a lack of knowledge of the source material. Not unusual for comic adaptations in movies.
+
+450
+00:44:43,360 --> 00:44:48,800
+ No no probably not. It's very common for things that are straight out of the comics to be
+
+451
+00:44:48,800 --> 00:44:55,040
+ hailed as as fresh and innovative in movies because one of the things that you could do in comics is
+
+452
+00:44:55,040 --> 00:45:01,920
+ explore cinematographic styles at low cost. Much lower cost than making movies which is an
+
+453
+00:45:01,920 --> 00:45:10,000
+ expensive thing to do. Yes in general I think the pacing is weird in the start because it starts
+
+454
+00:45:10,000 --> 00:45:15,440
+ by telling Spider Gwen's story and then kind of cuts to the title sequence and takes us back to
+
+455
+00:45:15,440 --> 00:45:22,480
+ Miles probably about 20 minutes in which is quite a long time to basically do an act zero and that
+
+456
+00:45:22,480 --> 00:45:27,840
+ was it didn't feel the structure is slightly weird as a result and I'm glad they did that but
+
+457
+00:45:27,840 --> 00:45:33,280
+ certainly at the beginning I was a bit like this is not quite as well paced as the original which is
+
+458
+00:45:33,280 --> 00:45:38,800
+ probably about as perfect as you could structure a movie but when it gets into things it's really
+
+459
+00:45:38,800 --> 00:45:47,200
+ good and I also find it interesting that they don't use the characters from the original movie as
+
+460
+00:45:47,200 --> 00:45:52,640
+ prominently as they might have done. Like obviously Gwen's in it a lot of Miles's in it a lot but
+
+461
+00:45:52,640 --> 00:45:58,080
+ the other characters are like not featured as much which I was a bit surprised by by assuming that
+
+462
+00:45:58,080 --> 00:46:04,560
+ they will come back in the third installment but in general I really liked it and I think it does
+
+463
+00:46:04,560 --> 00:46:10,800
+ a good job of doing something a bit different with the series than you might otherwise have done
+
+464
+00:46:10,800 --> 00:46:16,080
+ and also I really like how enthusiastically they've embraced the complete lunacy of the
+
+465
+00:46:16,080 --> 00:46:20,720
+ Spider-verse because like they were just growing stuff in the film and I was like I cannot believe
+
+466
+00:46:20,720 --> 00:46:25,120
+ that they are putting all of this in the movie because it doesn't really be kind of hard to
+
+467
+00:46:25,120 --> 00:46:29,760
+ work out what's going on in the comics and there you can reread the page but this is like the web
+
+468
+00:46:29,760 --> 00:46:36,880
+ of destiny and you're like oh my god it's all here which is fabulous but kind of mad.
+
+469
+00:46:36,880 --> 00:46:41,200
+ That was true the first one though. Oh but the second one have you seen the second one?
+
+470
+00:46:41,200 --> 00:46:50,240
+ No should I? No so the second one rams it up to like 11 or 12 I think. They fully embrace well
+
+471
+00:46:50,240 --> 00:46:54,640
+ because I think the first one the first one does have like the multiverse stuff in but it doesn't
+
+472
+00:46:54,640 --> 00:47:00,880
+ go anywhere near as much into like the mysticism behind it that's in the comics and the second one
+
+473
+00:47:00,880 --> 00:47:08,160
+ I feel like is starting to touch on all that more and I think is kind of I like it a lot but I'm not
+
+474
+00:47:08,160 --> 00:47:12,320
+ necessarily I don't think I would have guessed that that was the way they were going to go.
+
+475
+00:47:12,320 --> 00:47:17,120
+ Maybe that's the best way to put it. So yeah. It sounds great. I liked it a great deal I would
+
+476
+00:47:17,120 --> 00:47:21,120
+ highly recommend seeing it in the cinema even though it is a part one. For most of the
+
+477
+00:47:21,120 --> 00:47:26,080
+ reason I regret not seeing Dune in the cinema despite it being a part one although Dune I didn't
+
+478
+00:47:26,080 --> 00:47:29,680
+ go and see not because it was a part one but because it was too long however rule about
+
+479
+00:47:29,680 --> 00:47:38,000
+ long movies. Well that was the Hold To Thought podcast and it's goodbye from me. It's goodbye from me.
+
+480
+00:47:38,000 --> 00:47:44,080
+ It's goodbye from me and somehow while we were doing that every Lebanese restaurant on my
+
+481
+00:47:44,080 --> 00:47:55,760
+ delivery app has gone offline. Probably because it rained while we were doing podcasts.
+
+482
+00:47:55,760 --> 00:48:12,640
+ I think we're getting through it. I think we've got some stuff here this is good.
+
+483
+00:48:12,640 --> 00:48:15,760
+ I think we're done apart from pics aren't we? Probably that out of a pic.
+
+484
+00:48:15,760 --> 00:48:19,120
+ Yeah you do you've got a pic Liz. Search your feelings you know it to be true.
+
+485
+00:48:19,120 --> 00:48:27,680
+ I did watch Rogue One. Pick, pick the beach. I've been to the beach. You went to the beach last time
+
+486
+00:48:27,680 --> 00:48:33,760
+ we recorded right? Yeah I mean I'm not gonna pick like Indonesia it's my pic. That is very nice.
+
+487
+00:48:33,760 --> 00:48:38,160
+ Let me see what books I've read someone else go first. Why what's wrong with picking Indonesia?
+
+488
+00:48:38,160 --> 00:48:44,160
+ Is it very nice should we go? I'm not going to pick a country for a pic. It's not science fictional.
+
+489
+00:48:44,160 --> 00:48:49,680
+ You can because it's the summer of fun. Well we're going to pick the summer of fun then I'm
+
+490
+00:48:49,680 --> 00:48:56,000
+ picking sport and you probably don't want that. Oh do it do it. You need all sport or a specific
+
+491
+00:48:56,000 --> 00:49:01,440
+ sport. No specific sport. No I've got something it's all right. Pick a sport pick a sport pick a sport.
+
+492
+00:49:01,440 --> 00:49:06,000
+ No we're good I've got a book. Pick a sport that's not cricket because I feel like we should have
+
+493
+00:49:06,000 --> 00:49:11,200
+ equal representation for other sports that are played in summer. Well I feel this is like
+
+494
+00:49:11,200 --> 00:49:17,680
+ just escalating the off topic cricket mentions of the pod. The theme music for this episode was
+
+495
+00:49:17,680 --> 00:49:24,880
+ Surf Shimmy by Kevin MacLeod and Combetech.com used under a Creative Commons attribution 4.0 license.
+
+496
+00:49:24,880 --> 00:49:27,920
+ This podcast will end at the beep. Beep.
+

@@ -1,0 +1,2664 @@
+1
+00:00:00,000 --> 00:00:04,560
+ I'm- I'm operating on the assumption that someone somewhere must know what's going on.
+
+2
+00:00:04,560 --> 00:00:08,640
+ And if I could only get them to tell me everything would be a lot better.
+
+3
+00:00:08,640 --> 00:00:14,320
+ If you're the person who knows what's going on, do get in touch. Please email us.
+
+4
+00:00:14,320 --> 00:00:18,720
+ Specifically, knows what's going on with John. That- that's a stretch.
+
+5
+00:00:18,720 --> 00:00:20,720
+ [Laughing]
+
+6
+00:00:20,720 --> 00:00:32,720
+ [Music]
+
+7
+00:00:32,720 --> 00:00:40,720
+ Hello everyone and welcome to the very 88th episode of Octa Thorpe, a podcast for science fiction and science fiction fandom
+
+8
+00:00:40,720 --> 00:00:44,720
+ brought to you on the 20th of July, 2023. I'm John Coxon.
+
+9
+00:00:44,720 --> 00:00:46,720
+ I'm Alison Scott.
+
+10
+00:00:46,720 --> 00:00:48,720
+ And I'm Liz Batty.
+
+11
+00:00:48,720 --> 00:00:54,720
+ So, we might have some new listeners today because we have been nominated for a Hugo.
+
+12
+00:00:54,720 --> 00:01:00,720
+ And so we thought we would reintroduce ourselves for those of you that haven't started listening from episode one,
+
+13
+00:01:00,720 --> 00:01:03,720
+ which is the- is a good way of listening.
+
+14
+00:01:03,720 --> 00:01:10,720
+ So hello, I'm John Coxon. I am a science fiction fan residing in Newcastle, Blondheim in the UK.
+
+15
+00:01:10,720 --> 00:01:14,720
+ By my day job, I am a space physicist and I play lots of games.
+
+16
+00:01:14,720 --> 00:01:20,720
+ Hi, I'm Alison Scott. I'm a science fiction fan resident in North East London.
+
+17
+00:01:20,720 --> 00:01:26,720
+ I do a lot of different things. I do a lot of projects, which in the words of a Spanish sheriff,
+
+18
+00:01:26,720 --> 00:01:30,720
+ get me no ego boo and make no money. [Laughing]
+
+19
+00:01:30,720 --> 00:01:39,720
+ And I am currently the Guff delegate. So I'm going to be going to Australia and New Zealand to further international fan
+
+20
+00:01:39,720 --> 00:01:44,720
+ concord or whatever it is. The purpose of the fanfons is-
+
+21
+00:01:44,720 --> 00:01:51,720
+ Hello, I'm Liz Batty. I'm a science fiction fan who's from the UK, but currently I live in Bangkok.
+
+22
+00:01:51,720 --> 00:01:56,720
+ And so there is always some exciting scheduling to be done for the podcast.
+
+23
+00:01:56,720 --> 00:02:00,720
+ I live in Bangkok because my day job is Tropical Medicine Research.
+
+24
+00:02:00,720 --> 00:02:05,720
+ And the thing about Bangkok is the sun sets very quickly there.
+
+25
+00:02:05,720 --> 00:02:10,720
+ Yes, as previously established in previous podcasts, sometimes the sun is setting when we are doing the podcast
+
+26
+00:02:10,720 --> 00:02:16,720
+ and it sets very fast and this is very exciting to certain other people on the podcast.
+
+27
+00:02:16,720 --> 00:02:24,720
+ We probably don't have time to explain every in-joke now, but they'll probably become apparent and most of them are very silly.
+
+28
+00:02:24,720 --> 00:02:27,720
+ I know it's one of the most annoying things about podcasts, isn't it?
+
+29
+00:02:27,720 --> 00:02:32,720
+ That you don't know who these people are and they have a load of in-jokes that you don't understand, so sorry.
+
+30
+00:02:32,720 --> 00:02:36,720
+ We would like to apologise from the bottom of our hearts.
+
+31
+00:02:36,720 --> 00:02:38,720
+ So yes, hello everyone.
+
+32
+00:02:38,720 --> 00:02:44,720
+ And we have some letters of comments, so who wants to take the first letter of comment?
+
+33
+00:02:44,720 --> 00:02:48,720
+ Who's our first letter of comment? Is it Christopher J. Garcia? Did he write as a letter?
+
+34
+00:02:48,720 --> 00:02:57,720
+ It is Christopher J. Garcia, Hugo finalist, Flintstonesshire wearer and general good egg.
+
+35
+00:02:57,720 --> 00:03:02,720
+ Yeah, and he reckons that he would absolutely take on Alison over Moose.
+
+36
+00:03:02,720 --> 00:03:09,720
+ One Moose? I mean, I think probably I'm probably not as dangerous as one Alison-sized Moose, really.
+
+37
+00:03:09,720 --> 00:03:18,720
+ No. And he also reckons that I need a cozy mystery series about me, maybe called the Back to the Criminal Detach Agency, which sounds pretty good.
+
+38
+00:03:18,720 --> 00:03:21,720
+ Writing listeners with fictional crimes.
+
+39
+00:03:21,720 --> 00:03:24,720
+ That would be the cover art if I hadn't already done it.
+
+40
+00:03:24,720 --> 00:03:29,720
+ He does have a true crime book coming out. It's probably about to come about in the UK.
+
+41
+00:03:29,720 --> 00:03:33,720
+ It's called Food and Crime from Penn and Sword.
+
+42
+00:03:33,720 --> 00:03:40,720
+ So if you're in the market for a book written by a man who owns at least one Flintstones t-shirt, that is the book for you.
+
+43
+00:03:40,720 --> 00:03:45,720
+ So we also heard from Mark Plummer, who was very shocked to discover we'd changed the music.
+
+44
+00:03:45,720 --> 00:03:47,720
+ Had we changed the music, John?
+
+45
+00:03:47,720 --> 00:03:49,720
+ Well, it's the summer of fun.
+
+46
+00:03:49,720 --> 00:03:51,720
+ Summer of fun!
+
+47
+00:03:51,720 --> 00:03:56,720
+ It's our summer music. It's kind of our surf, our octaphor surfing corner.
+
+48
+00:03:56,720 --> 00:03:58,720
+ But on our summer outfits.
+
+49
+00:03:58,720 --> 00:04:06,720
+ Yeah, because we all go surfing. Like, we do a surfing, not many people know this, but we do a surfing holiday as a three every year in the summer.
+
+50
+00:04:06,720 --> 00:04:10,720
+ Brainstorm, what the next year holds for octop.
+
+51
+00:04:10,720 --> 00:04:14,720
+ So that's a little inside, inside peek into the workings of the pod.
+
+52
+00:04:14,720 --> 00:04:21,720
+ So Mark wrote us, as always, a very long and extremely entertaining letter that we don't have time to read out all of.
+
+53
+00:04:21,720 --> 00:04:36,720
+ But I wanted to say he wrote about the reveling in the novelty of a fan-historical query about something of which I have first-hand knowledge, which is the BSFA non-fiction award.
+
+54
+00:04:36,720 --> 00:04:46,720
+ The original idea was that we opened to book length works and shorter pieces because there might not be enough book length and non-fiction works.
+
+55
+00:04:46,720 --> 00:04:55,720
+ And there was quite a lot of fiddling about with the eligibility, an experiment with a juried non-fiction award in 2006 where there was a winner but no shortlist.
+
+56
+00:04:55,720 --> 00:05:00,720
+ And in 2007 where there was a recommended reading list with no winner.
+
+57
+00:05:00,720 --> 00:05:17,720
+ And then also the back end of the Hugo voting, the Hugo nomination process, where when he and Claire did it, they started checking eligibility well before the end of the voting period because most of the things that end up on the ballot are represented in early votes.
+
+58
+00:05:17,720 --> 00:05:31,720
+ So we start checking the front-runners straight away and then he gives us a 21st century, Spanish aphorism. Dave McCarty says no more than seven of you can sit here.
+
+59
+00:05:31,720 --> 00:05:38,720
+ And I predict that no more than seven of our listeners will find that very funny indeed, which isn't up right.
+
+60
+00:05:38,720 --> 00:05:50,720
+ In that case, we also heard on Mastodon from Raj and Duncan. Duncan has disgraced himself when he knows what he did.
+
+61
+00:05:50,720 --> 00:05:59,720
+ Raj congratulated us for our Hugo nomination. Lots of people congratulated us on our Hugo nomination.
+
+62
+00:05:59,720 --> 00:06:02,720
+ Thank you very much to everyone who got in touch.
+
+63
+00:06:02,720 --> 00:06:18,720
+ Yes, so we also heard from Neil Harrison, a fandom researcher extraordinaire. Thank you, Neil, because he went and looked up after our discussion last time about Adam Roberts and how he never writes the same book twice, but also has never been nominated for a Hugo.
+
+64
+00:06:18,720 --> 00:06:30,720
+ And then when I looked up what books Adam has out that might be eligible and he's got, basically he's just released one more near future techno thriller, which I've just bought.
+
+65
+00:06:30,720 --> 00:06:42,720
+ And then he's got what appears to be a sort of maybe fantasy crime novel. And then the year after that he's got what sounds like sort of a straight space mystery space opera.
+
+66
+00:06:42,720 --> 00:06:51,720
+ Anyway, basically he's got another three books out over the next like two and a half years. And they all sound great and they all sound entirely different. So we'll see how that goes.
+
+67
+00:06:51,720 --> 00:06:54,720
+ Who does he think he is? Adrian Charkovsky?
+
+68
+00:06:54,720 --> 00:07:10,720
+ Yeah, I'll put all the books in the show notes. Thank you very much to everyone who wrote in. Oh, I was going to say, and I completely forgot that last episode we mentioned that the next special episode we're doing will be us reading six weeks.
+
+69
+00:07:10,720 --> 00:07:22,720
+ And I was going through dimensions and I found when we, I must have mentioned it to Laurie from the Hugo Girl podcast because she really liked it and is trying to persuade them to do an episode on it.
+
+70
+00:07:22,720 --> 00:07:23,720
+ Well, that's quite good.
+
+71
+00:07:23,720 --> 00:07:25,720
+ Tune in episode. That will be quite fun, actually.
+
+72
+00:07:25,720 --> 00:07:28,720
+ Oh, they should do that. If it is at the same time as we did it.
+
+73
+00:07:28,720 --> 00:07:30,720
+ Oh, a collab.
+
+74
+00:07:30,720 --> 00:07:38,720
+ Chris Garcia in his log said he quite enjoyed it. You will have to wait to see what we thought of it listeners for shadowing.
+
+75
+00:07:38,720 --> 00:07:51,720
+ Shall we talk about another email that we received this week?
+
+76
+00:07:51,720 --> 00:07:54,720
+ Alison and I received it, but I don't believe Liz did.
+
+77
+00:07:54,720 --> 00:07:56,720
+ I did not receive it.
+
+78
+00:07:56,720 --> 00:08:03,720
+ Yes, this is the email from levitation inviting people to.
+
+79
+00:08:03,720 --> 00:08:10,720
+ It's not even fill in a survey, is it? It's inviting people to sign up to fill in a survey that will be coming later.
+
+80
+00:08:10,720 --> 00:08:11,720
+ Have I got that right?
+
+81
+00:08:11,720 --> 00:08:18,720
+ Yeah, so they are planning a COVID survey, which is something we've been saying they should do. So that's good.
+
+82
+00:08:18,720 --> 00:08:31,720
+ And they want to make sure that they hit more people than just their own membership, but they also want to make sure that they don't let people fill the survey in multiple times because they're worried about ballot stuffing.
+
+83
+00:08:31,720 --> 00:08:38,720
+ And so they have released a link you can click on if you would like to be invited to fill in the survey when it goes live.
+
+84
+00:08:38,720 --> 00:08:43,720
+ So I've put link in the show notes. If that sounds like something you would be interested, dear listener.
+
+85
+00:08:43,720 --> 00:08:48,720
+ Yes, in order to fill in the survey, you need to have attended Eastercon at least once.
+
+86
+00:08:48,720 --> 00:08:56,720
+ That's the that's what they've done is that's how they've decided they're going to do the boundaries of the community, which I think is not totally unreasonable.
+
+87
+00:08:56,720 --> 00:09:05,720
+ That does mean that they are excluding people who have always always wanted to go to EasterCon, but it's never quite been the year until food was going to be the year, but only if they have the right COVID policy.
+
+88
+00:09:05,720 --> 00:09:07,720
+ Sorry guys, you're disenfranchised.
+
+89
+00:09:07,720 --> 00:09:13,720
+ I mean, actually it's levitation members and UK based fans are attended past EasterCon.
+
+90
+00:09:13,720 --> 00:09:16,720
+ So in theory that excludes any visiting members.
+
+91
+00:09:16,720 --> 00:09:17,720
+ Yes.
+
+92
+00:09:17,720 --> 00:09:20,720
+ Any UK based fan who has attended one or more Eastercons.
+
+93
+00:09:20,720 --> 00:09:22,720
+ Do you count this?
+
+94
+00:09:22,720 --> 00:09:25,720
+ Oh, that's a good question. No, I don't.
+
+95
+00:09:25,720 --> 00:09:26,720
+ Can't flit in.
+
+96
+00:09:26,720 --> 00:09:32,720
+ So, so Liz, you have to be personally disenfranchised by levitation the swines.
+
+97
+00:09:32,720 --> 00:09:34,720
+ Have you ever been to an EasterCon?
+
+98
+00:09:34,720 --> 00:09:36,720
+ Uh, one or two.
+
+99
+00:09:36,720 --> 00:09:37,720
+ Yeah.
+
+100
+00:09:37,720 --> 00:09:50,720
+ But yeah, no, it's stuffed because like I can understand that you don't want international fans who haven't attended Eastercons to contribute, but people like Liz or Bill Burns or other long standing members who might not have signed up.
+
+101
+00:09:50,720 --> 00:09:52,720
+ I mean, Bill will have done, but that's a bad example.
+
+102
+00:09:52,720 --> 00:09:59,720
+ But yeah, if you're if you're a previous international attendee who has opinions, it seems like you should be able to comment.
+
+103
+00:09:59,720 --> 00:10:00,720
+ I don't know.
+
+104
+00:10:00,720 --> 00:10:01,720
+ That's odd.
+
+105
+00:10:01,720 --> 00:10:07,720
+ I think about like Irish fans, quite a lot of Irish fans come to the EasterCon.
+
+106
+00:10:07,720 --> 00:10:08,720
+ Yes.
+
+107
+00:10:08,720 --> 00:10:11,720
+ That's a big, big obvious problem, isn't it?
+
+108
+00:10:11,720 --> 00:10:12,720
+ I think so.
+
+109
+00:10:12,720 --> 00:10:22,720
+ Because I mean, now a day, I mean, okay, for the last 30 years there has been a national Irish convention, but before that, there wasn't a lot of Irish fans felt that the EasterCon was the national convention.
+
+110
+00:10:22,720 --> 00:10:24,720
+ Oh, we're going to get so many of that as.
+
+111
+00:10:24,720 --> 00:10:31,720
+ It's, I think I can see what they're trying to do, which is they pick up most of the regular Eastern Congroids because they will be members of levitation.
+
+112
+00:10:31,720 --> 00:10:40,720
+ And what they're going to lose here is a small number of people who maybe regularly attend Eastercons live overseas, but have not yet joined levitation, which to be honest is probably a very small number.
+
+113
+00:10:40,720 --> 00:10:41,720
+ It may just be me.
+
+114
+00:10:41,720 --> 00:10:53,720
+ But I will say the reason I'm not a member of levitation is I assume I'm not going to levitation because I'm going to Glasgow in 2024, and I would not be surprised if there's a lot of people who are currently planning on skipping levitation for that reason.
+
+115
+00:10:53,720 --> 00:10:55,720
+ Yeah, so, oh, I don't have to fill it up for them.
+
+116
+00:10:55,720 --> 00:10:56,720
+ It's fine.
+
+117
+00:10:56,720 --> 00:11:02,720
+ I can call the episode something like Eastercons, spurns, liz, personally.
+
+118
+00:11:02,720 --> 00:11:04,720
+ [laughs]
+
+119
+00:11:04,720 --> 00:11:06,720
+ Yes, just me on my own.
+
+120
+00:11:06,720 --> 00:11:07,720
+ [moans]
+
+121
+00:11:07,720 --> 00:11:09,720
+ We really are going to get letters.
+
+122
+00:11:09,720 --> 00:11:12,720
+ We had some thoughts about the survey.
+
+123
+00:11:12,720 --> 00:11:15,720
+ Here's what I reckon listeners in the true spirit of what I thought.
+
+124
+00:11:15,720 --> 00:11:18,720
+ I think you want to make sure this survey does three things.
+
+125
+00:11:18,720 --> 00:11:20,720
+ I think you want to avoid yes or no answers.
+
+126
+00:11:20,720 --> 00:11:22,720
+ You want to have one to five scales.
+
+127
+00:11:22,720 --> 00:11:25,720
+ Yes, when I want to have a recipe for trouble, one to five scales are better.
+
+128
+00:11:25,720 --> 00:11:27,720
+ One to four scales are even better.
+
+129
+00:11:27,720 --> 00:11:28,720
+ No, one to five.
+
+130
+00:11:28,720 --> 00:11:31,720
+ You need one where it has a middle.
+
+131
+00:11:31,720 --> 00:11:42,720
+ Okay, so there is an argument to be had about whether you want the scale that has the middle, which encourages people to be in the middle, or whether you have the scale that doesn't have the middle, which encourages people to express a preference.
+
+132
+00:11:42,720 --> 00:11:44,720
+ I don't think you want to...
+
+133
+00:11:44,720 --> 00:11:50,720
+ The problem with not having a scale with the middle is it forces people into preferences if they don't have them, which distorts your data.
+
+134
+00:11:50,720 --> 00:11:57,720
+ So we're told quite strongly not to do it in public engagement because it means you don't accurately capture what your audience thinks.
+
+135
+00:11:57,720 --> 00:12:04,720
+ There's just one question at the top saying, "I genuinely do not care and I do not want to fill in the rest of the survey."
+
+136
+00:12:04,720 --> 00:12:08,720
+ Well, that is, you can abstain, obviously, if you just have no preference.
+
+137
+00:12:08,720 --> 00:12:13,720
+ But yes, and I also think they need to make sure that they say it's non-binding because you don't want to do a Brexit.
+
+138
+00:12:13,720 --> 00:12:22,720
+ What they have said is, we will, of course, use the results to inform levitations COVID policy, but we will not necessarily just pick the average result and implement that.
+
+139
+00:12:22,720 --> 00:12:23,720
+ Yeah, that seems good.
+
+140
+00:12:23,720 --> 00:12:24,720
+ Which seems fair.
+
+141
+00:12:24,720 --> 00:12:27,720
+ That seems sensible to me anyway.
+
+142
+00:12:27,720 --> 00:12:29,720
+ Liz, do you have opinions?
+
+143
+00:12:29,720 --> 00:12:32,720
+ I think you've covered them, which is, yeah, have a scale rather than yes or no.
+
+144
+00:12:32,720 --> 00:12:38,720
+ I think do allow people to genuinely not have an opinion on this one because you don't want to kind of force people one way or the other.
+
+145
+00:12:38,720 --> 00:12:57,720
+ You want to know people genuinely don't care because if there's a bit of policy you're considering implementing and you have ten people on one end who feel very strongly in favour of it and ten people on the other end who feel very strongly against it, but 80 people in the middle who don't care, then that's different than if you genuinely do have 50/50 polarised.
+
+146
+00:12:57,720 --> 00:12:58,720
+ Yeah, so I think that's good.
+
+147
+00:12:58,720 --> 00:13:04,720
+ I think it's going to be a lot of work to try and summarise it and I think it's going to be interesting to see kind of what questions they pick.
+
+148
+00:13:04,720 --> 00:13:15,720
+ And what might also be interesting would be to be instead of having one to five scales on things, maybe give people different scenarios or different options and get them to say which is the most favoured and least favoured.
+
+149
+00:13:15,720 --> 00:13:19,720
+ But yeah, I'm not a survey, survey making expert.
+
+150
+00:13:19,720 --> 00:13:28,720
+ I just think it will be interesting to know, yeah, to know what we get and since they've emailed it to everyone, hopefully that will reach a lot of the kind of community.
+
+151
+00:13:28,720 --> 00:13:30,720
+ Fingers crossed.
+
+152
+00:13:30,720 --> 00:13:31,720
+ Yeah.
+
+153
+00:13:31,720 --> 00:13:37,720
+ [Music]
+
+154
+00:13:37,720 --> 00:13:41,720
+ The Hugo Awards finalists are out.
+
+155
+00:13:41,720 --> 00:13:42,720
+ We're on it.
+
+156
+00:13:42,720 --> 00:13:44,720
+ We are on it.
+
+157
+00:13:44,720 --> 00:13:46,720
+ Yay! Thanks everyone who voted.
+
+158
+00:13:46,720 --> 00:13:52,720
+ We said that, well thanks to anyone who nominated, we said that last time we'll say it again because we really are.
+
+159
+00:13:52,720 --> 00:13:59,720
+ It's always a pleasure to be nominated, especially on the same ballot as our lovely friends, Hugo Girl.
+
+160
+00:13:59,720 --> 00:14:02,720
+ And my lovely wife, Ispania.
+
+161
+00:14:02,720 --> 00:14:03,720
+ That is nice.
+
+162
+00:14:03,720 --> 00:14:06,720
+ I like being on the same ballot as your lovely wife, Ispania.
+
+163
+00:14:06,720 --> 00:14:17,720
+ Very, very nice that Ispania's on the ballot and I am also on the ballot for fan artist and someone wrote and said, "What you have terrible arguments in the octaphore pazzles?"
+
+164
+00:14:17,720 --> 00:14:19,720
+ And I would have thought we wouldn't have any really.
+
+165
+00:14:19,720 --> 00:14:22,720
+ We'd just kind of vote for who we think is best.
+
+166
+00:14:22,720 --> 00:14:23,720
+ Yeah.
+
+167
+00:14:23,720 --> 00:14:27,720
+ The only person who's going to have an argument is Liz in her own head.
+
+168
+00:14:27,720 --> 00:14:34,720
+ Yeah, I mean, well it's ranked choice voting, but I also might not tell you who I vote for and who I put in which position is best fan artist.
+
+169
+00:14:34,720 --> 00:14:39,720
+ I assume that you'll declare it live on the pod with both me and Alison Geering.
+
+170
+00:14:39,720 --> 00:14:40,720
+ [Laughs]
+
+171
+00:14:40,720 --> 00:14:41,720
+ No?
+
+172
+00:14:41,720 --> 00:14:43,720
+ Oh, people can vote who they like, right?
+
+173
+00:14:43,720 --> 00:14:44,720
+ I was like, you know.
+
+174
+00:14:44,720 --> 00:14:47,720
+ That's actually not true. They have to vote for people on the ballot.
+
+175
+00:14:47,720 --> 00:14:48,720
+ It's true.
+
+176
+00:14:48,720 --> 00:14:49,720
+ Yeah.
+
+177
+00:14:49,720 --> 00:14:50,720
+ Yeah.
+
+178
+00:14:50,720 --> 00:14:52,720
+ You can't write in listeners.
+
+179
+00:14:52,720 --> 00:14:57,720
+ It varies from WILCOME site suspension in Lamberingard.
+
+180
+00:14:57,720 --> 00:14:58,720
+ Yup.
+
+181
+00:14:58,720 --> 00:15:08,720
+ So yeah, no vote for who you want. I don't think, I mean, I am very, this is my first time ever having an interventional nomination, so I am pretty pleased because I've been doing fan art for quite a long time.
+
+182
+00:15:08,720 --> 00:15:12,720
+ And I'm also very pleased to see Ispania on the ballot.
+
+183
+00:15:12,720 --> 00:15:17,720
+ And I'm going to make my joke now, which is it's really good to have an actual fan artist on the ballot.
+
+184
+00:15:17,720 --> 00:15:22,720
+ So for anyone who's not familiar with Ispania's work, she paints lovely fans.
+
+185
+00:15:22,720 --> 00:15:24,720
+ So she does, she does.
+
+186
+00:15:24,720 --> 00:15:27,720
+ They're very good. I have one. It's got a Death Star on it.
+
+187
+00:15:27,720 --> 00:15:30,720
+ So I was just going to say that I won the bet.
+
+188
+00:15:30,720 --> 00:15:32,720
+ You did. You did.
+
+189
+00:15:32,720 --> 00:15:37,720
+ That's only because I decided like, I thought we were all not going to bet and then at the end you decided it was still a bet.
+
+190
+00:15:37,720 --> 00:15:39,720
+ [Laughs]
+
+191
+00:15:39,720 --> 00:15:44,720
+ So yes, technically, I'll buy you a beer.
+
+192
+00:15:44,720 --> 00:15:46,720
+ There's... Yeah.
+
+193
+00:15:46,720 --> 00:15:48,720
+ But yes, there are some Chinese things on there.
+
+194
+00:15:48,720 --> 00:16:05,720
+ Although I do think a lot of what we said still stands up because there were people who were really ringing like bells of whoa about how it would all be like, you know, I had at least one person say that they'd have more time for their summer reading because nothing on the ballot would be in English.
+
+195
+00:16:05,720 --> 00:16:10,720
+ And I think that some of the fear mongering has not come to pass, which makes it.
+
+196
+00:16:10,720 --> 00:16:14,720
+ Which are the categories that have Chinese works in Liz?
+
+197
+00:16:14,720 --> 00:16:18,720
+ There are two nominees in Best Fan Writer.
+
+198
+00:16:18,720 --> 00:16:21,720
+ There are two in Best Fan Zine.
+
+199
+00:16:21,720 --> 00:16:24,720
+ I think there are two in Best Editor Long Form.
+
+200
+00:16:24,720 --> 00:16:26,720
+ I'm not sure about Pro Artist.
+
+201
+00:16:26,720 --> 00:16:29,720
+ Two in Best Editor Short Form.
+
+202
+00:16:29,720 --> 00:16:35,720
+ I believe Pro Artist and Fan Writer both have at least one Chinese novel.
+
+203
+00:16:35,720 --> 00:16:43,720
+ I think they do, and then in Best Short Story, I believe there are four Chinese stories that the six on the ballot.
+
+204
+00:16:43,720 --> 00:16:49,720
+ At least one of those I know as a translation that's going to be published this year, so hopefully some of those will be out in translation.
+
+205
+00:16:49,720 --> 00:16:54,720
+ There's one in Best Novelt, and that is it.
+
+206
+00:16:54,720 --> 00:16:55,720
+ One in Best Related Work as well.
+
+207
+00:16:55,720 --> 00:16:58,720
+ I don't know. I didn't think you said that by my be wrong.
+
+208
+00:16:58,720 --> 00:17:02,720
+ I didn't. I zoomed straight past it. Sorry. There is one in Best Related Work.
+
+209
+00:17:02,720 --> 00:17:07,720
+ Yeah. So there's a smattering, but it's not an overwhelming deluge.
+
+210
+00:17:07,720 --> 00:17:16,720
+ And it's notable that the longer fiction is completely, like those two, novella and novel look like they could have been at any world gone in the last decade.
+
+211
+00:17:16,720 --> 00:17:21,720
+ In general, I'm sure people will crunch this when the long list comes out.
+
+212
+00:17:21,720 --> 00:17:31,720
+ The categories where you've required more nominations to get on the ballot have lower numbers of Chinese finalists,
+
+213
+00:17:31,720 --> 00:17:36,720
+ which is kind of what you'd expect. I think they probably did get quite a lot of balance from Chinese fans,
+
+214
+00:17:36,720 --> 00:17:44,720
+ but I'm not sure that the Chinese fans are quite as organized about having lists of recommended things for people to ever think about
+
+215
+00:17:44,720 --> 00:17:48,720
+ and all of that stuff as the US and UK fans yet.
+
+216
+00:17:48,720 --> 00:17:56,720
+ So that is not true in certain categories, right? Because unfortunately, generally, we know that there are very few nominations in Best Fan Artists,
+
+217
+00:17:56,720 --> 00:17:59,720
+ and that is entirely Western nominees.
+
+218
+00:17:59,720 --> 00:18:04,720
+ I don't think Alison is saying it that way round, if that makes sense.
+
+219
+00:18:04,720 --> 00:18:11,720
+ I mean, she's saying that all of the ones where there's a Chinese presence are low totals rather than all of the low total ones have Chinese nominees.
+
+220
+00:18:11,720 --> 00:18:19,720
+ Well, and I think you are probably right, but I will say, I think in short story, it's because I think probably there are a lot of nominators,
+
+221
+00:18:19,720 --> 00:18:23,720
+ but we do know that there's a really long tail in short story and there is every year.
+
+222
+00:18:23,720 --> 00:18:28,720
+ So I think short story behaves differently to other categories, but for different reasons.
+
+223
+00:18:28,720 --> 00:18:33,720
+ But I still think it's like a worthwhile thing to highlight. Sorry, Liz, I interrupted you.
+
+224
+00:18:33,720 --> 00:18:39,720
+ Yeah, I think that's fair. Like, yes, they were not going to get enough to get anything on the, there was not enough to get things on the ballot,
+
+225
+00:18:39,720 --> 00:18:47,720
+ and like, best novel where you need really kind of over, probably about 120 last year to get on the ballot.
+
+226
+00:18:47,720 --> 00:18:51,720
+ Yeah, it's interesting because last year, you know, it wasn't that much different for short story and novel yet,
+
+227
+00:18:51,720 --> 00:18:53,720
+ but I guess there's one novel yet and four short stories.
+
+228
+00:18:53,720 --> 00:18:59,720
+ Yeah, and there's nothing in long form, so there's nothing in best series or load star either.
+
+229
+00:18:59,720 --> 00:19:03,720
+ You mentioned Chinese recommendations and stuff, Alison, I think.
+
+230
+00:19:03,720 --> 00:19:14,720
+ And I just wanted to highlight, there was someone on Twitter called Ersatkulture, who posted a link to a recommendation post in Chinese
+
+231
+00:19:14,720 --> 00:19:21,720
+ where like some people had clearly been thinking, "Oh, you know, what's eligible in the style of kind of some of the recommendation posts."
+
+232
+00:19:21,720 --> 00:19:25,720
+ Which seemed to have died off a little bit in the English speaking fan spiers.
+
+233
+00:19:25,720 --> 00:19:29,720
+ I exist in, but used to be very common when I was first paying attention.
+
+234
+00:19:29,720 --> 00:19:34,720
+ It's tricky because I thought this was really interesting, but I didn't like the framing.
+
+235
+00:19:34,720 --> 00:19:39,720
+ I tooted at the person who posted about this, and they said, "Don't you think the categories were one or two wrecks,
+
+236
+00:19:39,720 --> 00:19:45,720
+ and that they all appeared on the eventual list match what's expected of a bullet slate strategy in EPH?"
+
+237
+00:19:45,720 --> 00:19:54,720
+ And honestly, no, I think there is a massive difference between people in a fandom discussing things they might nominate.
+
+238
+00:19:54,720 --> 00:19:59,720
+ Like, there is a clear difference between this and the recommendation posts that used to be posted by critics in the English Bogosphere
+
+239
+00:19:59,720 --> 00:20:01,720
+ and the sort of thing that the puppies were doing.
+
+240
+00:20:01,720 --> 00:20:03,720
+ I was really encouraged to see this.
+
+241
+00:20:03,720 --> 00:20:09,720
+ I think it's really good that the Chinese voters were discussing what was eligible and corralling behind things that they all liked.
+
+242
+00:20:09,720 --> 00:20:14,720
+ Remember that we had the bulkiest of bullet nominations.
+
+243
+00:20:14,720 --> 00:20:20,720
+ When we didn't quite cut it on the ballot the first year, I think we had an enormous proportion of nominations
+
+244
+00:20:20,720 --> 00:20:23,720
+ from people who didn't nominate anything else who fang lost.
+
+245
+00:20:23,720 --> 00:20:27,720
+ We are the problem. We may not be the problem.
+
+246
+00:20:27,720 --> 00:20:32,720
+ So that's the thing. If you know, if you're voting for you guys and you've never voted before
+
+247
+00:20:32,720 --> 00:20:37,720
+ and you were looking for Chinese language recommendation lists and you found one and it only had a couple of things on
+
+248
+00:20:37,720 --> 00:20:41,720
+ one particular category and you looked at them and thought, "Oh, these are great. I'll nominate them."
+
+249
+00:20:41,720 --> 00:20:45,720
+ Yeah, they're more likely to get on the "if you nominated" six things.
+
+250
+00:20:45,720 --> 00:20:47,720
+ Yeah, that's just how it works.
+
+251
+00:20:47,720 --> 00:20:55,720
+ I will say that there was, as we mentioned, there was a little leak of the ballot before the final ballot was actually, you know?
+
+252
+00:20:55,720 --> 00:20:59,720
+ Shh, we're not allowed to tell anyone, Liz. It was a secret.
+
+253
+00:20:59,720 --> 00:21:00,720
+ It was a secret.
+
+254
+00:21:00,720 --> 00:21:02,720
+ No one saw it.
+
+255
+00:21:02,720 --> 00:21:04,720
+ No one saw it apart from...
+
+256
+00:21:04,720 --> 00:21:05,720
+ I think everyone saw it.
+
+257
+00:21:05,720 --> 00:21:07,720
+ Yeah, I saw it in the screen, shouted it. Anyway...
+
+258
+00:21:07,720 --> 00:21:08,720
+ Ha ha ha ha!
+
+259
+00:21:08,720 --> 00:21:18,720
+ There was one item on there that was in that recommendation post and it's not eligible because the year it wasn't actually a 2022 release.
+
+260
+00:21:18,720 --> 00:21:24,720
+ So that's what made me think, "Oh, actually this recommendation post probably was quite influential and maybe sparked quite a lot of discussion."
+
+261
+00:21:24,720 --> 00:21:30,720
+ But unfortunately, they put some of their nominating weight behind an item that was released in 2020.
+
+262
+00:21:30,720 --> 00:21:37,720
+ In the spirit of full disclosure, we should note that some of the things that we have recommended people to already are on the ballot.
+
+263
+00:21:37,720 --> 00:21:38,720
+ So...
+
+264
+00:21:38,720 --> 00:21:40,720
+ But that's because they're good.
+
+265
+00:21:40,720 --> 00:21:41,720
+ Yeah.
+
+266
+00:21:41,720 --> 00:21:42,720
+ Don't think we have that much power.
+
+267
+00:21:42,720 --> 00:21:49,720
+ Well, it's interesting, in Best Fan Artist, that is Fan Your Analysis and are both first-time finalists.
+
+268
+00:21:49,720 --> 00:21:57,720
+ So potentially, potentially, we have the power of "In Best Fan Artist" which last year needed 15 nominations.
+
+269
+00:21:57,720 --> 00:22:02,720
+ Yes, I think we have more than 15 listeners who nominate in the Hugos.
+
+270
+00:22:02,720 --> 00:22:04,720
+ I think we get influenced 15 people.
+
+271
+00:22:04,720 --> 00:22:10,720
+ Whereas, you know, some of the other things I championed are on the ballot, but I don't think that had anything at all to do with it.
+
+272
+00:22:10,720 --> 00:22:11,720
+ So...
+
+273
+00:22:11,720 --> 00:22:12,720
+ Yeah, that's fair, that's fair.
+
+274
+00:22:12,720 --> 00:22:21,720
+ Yeah, I mean, I personally like the fact that Fan Artist is swinging back towards people who are doing what I think of as Fan Artists, so that's quite nice.
+
+275
+00:22:21,720 --> 00:22:23,720
+ I mean, that just meant being B, right?
+
+276
+00:22:23,720 --> 00:22:38,720
+ But, I mean, we mean two totally different things by "Phall Art" at the moment, which is art that is done by fans to illustrate their "Phallac" and which is the traditional definition, and art for fans of a thing.
+
+277
+00:22:38,720 --> 00:22:47,720
+ And that second definition has been kind of becoming much more prevalent in the "Phall Art" - "Phall Artist" nominations, and it's nice to see people who do more of the first sort of thing.
+
+278
+00:22:47,720 --> 00:22:48,720
+ Getting a look in.
+
+279
+00:22:48,720 --> 00:22:53,720
+ It's a good C variety in all of the... I like that kind of variety in all the categories.
+
+280
+00:22:53,720 --> 00:23:03,720
+ I like having, like, Bitter Corella has been nominated again, and I very much like their stuff, but it's a completely different style of fan writer to Chris Spartley.
+
+281
+00:23:03,720 --> 00:23:09,720
+ It would be difficult to imagine them being more different. I suppose they're both in English.
+
+282
+00:23:09,720 --> 00:23:17,720
+ Speaking of people who are not in English, Arthur Liu, who has got a "Dobbed in Fan writer", is one of the people I spent quite a lot of time chatting to.
+
+283
+00:23:17,720 --> 00:23:23,720
+ At "Discone" in the Discord is one of the Chinese fans that I got to know.
+
+284
+00:23:23,720 --> 00:23:28,720
+ I just wanted to call out "Best Series" this year for being absolutely stacked.
+
+285
+00:23:28,720 --> 00:23:30,720
+ Oh yeah, yeah, it's been "Lifton".
+
+286
+00:23:30,720 --> 00:23:40,720
+ I honestly do not know which one I'm putting at the top of the ballot. I've read items from five of the six finalists.
+
+287
+00:23:40,720 --> 00:23:43,720
+ Yeah, I don't know which one I'm going to vote. That's going to be really tricky.
+
+288
+00:23:43,720 --> 00:23:52,720
+ And honestly, unless "Best Novel" has some absolutely smashing stuff in it, I think "Best Series" might be the best category on the ballot.
+
+289
+00:23:52,720 --> 00:24:02,720
+ Oh, it's "Best Series" that I thought the opt-of-thaw massive might have had a sway, because we did tell people to get on and vote for Rivers of London and Children of Time.
+
+290
+00:24:02,720 --> 00:24:10,720
+ I don't think we can claim either, really, because Rivers of London has been on before, and Children of Time is just objectively fucking brilliant.
+
+291
+00:24:10,720 --> 00:24:15,720
+ But yes, I mean, we do have great taste though. We should say that early and often.
+
+292
+00:24:15,720 --> 00:24:21,720
+ I mean, I did tell people to vote for Robert Jackson Bennett about 27 times, but I'm not sure I've seen notice.
+
+293
+00:24:21,720 --> 00:24:22,720
+ Yes.
+
+294
+00:24:22,720 --> 00:24:28,720
+ I was wondering about that. I was like, "I think Liz mentioned that maybe early and often."
+
+295
+00:24:28,720 --> 00:24:34,720
+ For the listener, you cannot see the shit-eating grin that Alison is doing to tease Liz.
+
+296
+00:24:34,720 --> 00:24:46,720
+ I will say, I don't want to diss you, Liz, but the reason I read Robert Jackson Bennett is because he appeared on the "Best Series" shortlist for his previous trilogy, which was also very good.
+
+297
+00:24:46,720 --> 00:24:51,720
+ He did, and obviously, if I had any sway, then he would have been on the "Best Novel" ballot, which he's not, so...
+
+298
+00:24:51,720 --> 00:24:57,720
+ No, I will say it. So I think it is very cool that the "Best Series" finalists look so good.
+
+299
+00:24:57,720 --> 00:25:02,720
+ And as an avowed "Best Series" fan, it makes me happy.
+
+300
+00:25:02,720 --> 00:25:06,720
+ Do we have anything else on those things?
+
+301
+00:25:06,720 --> 00:25:13,720
+ I'm sure I'll have more to say once we get round to reading and watching and listening to more of these,
+
+302
+00:25:13,720 --> 00:25:18,720
+ and we hope that a lot of them will be in the Hugo packet, because spoilers, there will be a Hugo packet,
+
+303
+00:25:18,720 --> 00:25:23,720
+ and we know because they've asked us what we would like to put in the Hugo packet.
+
+304
+00:25:23,720 --> 00:25:34,720
+ So listeners, if you have any suggestions for particularly great episodes of "Optus Orp" released in 2022, then tell us them, we might consider putting them in the Hugo packet.
+
+305
+00:25:34,720 --> 00:25:37,720
+ Yeah, "Slinger" right over.
+
+306
+00:25:37,720 --> 00:25:41,720
+ I was going to say I've been a fan of Travis Baldre- I haven't read "Legends and Luttays",
+
+307
+00:25:41,720 --> 00:25:51,720
+ but I've been a fan of Travis Baldre for a very, very long time because, um, ever since he was a kind of very baby video game designer and designed a dungeon crawler called "Fate",
+
+308
+00:25:51,720 --> 00:25:56,720
+ which was like Diablo, but much, much cuter, which it wasn't very narrative.
+
+309
+00:25:56,720 --> 00:26:06,720
+ So, I mean, his games that I really liked were "Fate" and "Torchlight" and "Torchlight 2", and none of them have much narrative to speak of, so, you know, now he's a novelist, so...
+
+310
+00:26:06,720 --> 00:26:12,720
+ But it's good to see people, um, making that switch from game design to novel writing.
+
+311
+00:26:12,720 --> 00:26:17,720
+ I played "Torchlight" and did enjoy it and had not realised the connection until he mentioned it underscored, so...
+
+312
+00:26:17,720 --> 00:26:25,720
+ Speaking of the Hugo voter packet, one author who won't be putting things in the packet is "S B Divya".
+
+313
+00:26:25,720 --> 00:26:32,720
+ Boom, a segue, because they have declined their Hugo nominations.
+
+314
+00:26:32,720 --> 00:26:37,720
+ And they wrote a thoughtful blog post about why they had done that.
+
+315
+00:26:37,720 --> 00:26:46,720
+ Yeah, I mean, we should probably, we should probably summarise briefly why she did decline them, which is, she essentially declined them as a protest against hosting.
+
+316
+00:26:46,720 --> 00:26:50,720
+ The 2023 Wilcon in China.
+
+317
+00:26:50,720 --> 00:26:56,720
+ And, you know, it is not possible to run something as large as a Wilcon without government involvement.
+
+318
+00:26:56,720 --> 00:27:06,720
+ And so, you know, there is some government involvement in the Wilcon, and also that, you know, as we've said before, one of the guests of honor is an apologist for the Russian invasion of Ukraine.
+
+319
+00:27:06,720 --> 00:27:15,720
+ And so, "Divya felt it was best to withdraw her items from consideration and not participate in the future."
+
+320
+00:27:15,720 --> 00:27:28,720
+ Which, yeah, I think is a very, very principled stance to basically give up, give up potentially winning an award, because I think she did have a very good novelt last year that might have sort of chance of winning to make her principled stand.
+
+321
+00:27:28,720 --> 00:27:37,720
+ My wife also wrote a blog post about her thoughts and conflicts on accepting the nomination, so I've linked to that in the show notes as well.
+
+322
+00:27:37,720 --> 00:27:42,720
+ We have not blogged about it. What do we think about accepting our nomination, peeps?
+
+323
+00:27:42,720 --> 00:27:46,720
+ We didn't really have much of a discussion, we just kind of went, "Yeah, we're going to do that."
+
+324
+00:27:46,720 --> 00:27:50,720
+ Yes. Are we morally bankrupt as people?
+
+325
+00:27:50,720 --> 00:27:51,720
+ Discuss.
+
+326
+00:27:51,720 --> 00:27:55,720
+ Oh, that's as much wider question than just the hue-anomination.
+
+327
+00:27:55,720 --> 00:27:59,720
+ (Laughter)
+
+328
+00:27:59,720 --> 00:28:10,720
+ I essentially can see all the reasons for declining the nomination, but equally, my reasons for not, whether it is, you know, a fan voted award and fans from around the world have voted on it.
+
+329
+00:28:10,720 --> 00:28:23,720
+ And I didn't feel that by accepting the nomination, I was therefore kind of endorsing or implicitly supporting any of the, you know, wider policies or opinions around the world come.
+
+330
+00:28:23,720 --> 00:28:25,720
+ I think that is well put.
+
+331
+00:28:25,720 --> 00:28:32,720
+ They did translate the name of our podcast as Poundkey Sign, which I think is absolutely fine.
+
+332
+00:28:32,720 --> 00:28:33,720
+ Yes.
+
+333
+00:28:33,720 --> 00:28:40,720
+ And they also translate the names phonetically, as far as I can tell, and it seemed like my analysis were quite good and John's not quite so good.
+
+334
+00:28:40,720 --> 00:28:43,720
+ Which is quite neat, actually. It's quite neat to have a phonetic translation of my name.
+
+335
+00:28:43,720 --> 00:28:44,720
+ Yeah.
+
+336
+00:28:44,720 --> 00:29:02,720
+ It's again, I don't know if this is probably a little bit obstrut- they should have asked us about that, because if you've done any studying of Chinese at all, you will have a Chinese name in the same way that all the Chinese fans have western names like Riverflow and Arthur.
+
+337
+00:29:02,720 --> 00:29:08,720
+ And Arthur Liu, yeah. They're all kind of pseudonyms for dealing with the west.
+
+338
+00:29:08,720 --> 00:29:12,720
+ And if you start to learn Chinese, they get you to do that in reverse.
+
+339
+00:29:12,720 --> 00:29:14,720
+ So people probably already have them.
+
+340
+00:29:14,720 --> 00:29:19,720
+ Quite a lot of people are on the nomination list, but they just kind of published a phonetic translation instead.
+
+341
+00:29:19,720 --> 00:29:21,720
+ I think a lot of people have them.
+
+342
+00:29:21,720 --> 00:29:22,720
+ Some.
+
+343
+00:29:22,720 --> 00:29:23,720
+ They should have asked.
+
+344
+00:29:23,720 --> 00:29:26,720
+ But they were very tight for time. I think they were very tight for time.
+
+345
+00:29:26,720 --> 00:29:28,720
+ Yeah, they got no time. So, yeah.
+
+346
+00:29:28,720 --> 00:29:34,720
+ [Music]
+
+347
+00:29:34,720 --> 00:29:38,720
+ We're going to segue to Chengdu Worldcon discussion.
+
+348
+00:29:38,720 --> 00:29:46,720
+ So, there has been an email asking for people to fill out the program participant survey if they would like to take part in program.
+
+349
+00:29:46,720 --> 00:29:52,720
+ I don't know if you two are members or not. I remember because I was- I voted in site selection.
+
+350
+00:29:52,720 --> 00:29:53,720
+ Yeah, me too.
+
+351
+00:29:53,720 --> 00:29:56,720
+ Are you going to fill in the program survey, Liz?
+
+352
+00:29:56,720 --> 00:29:58,720
+ I tried to.
+
+353
+00:29:58,720 --> 00:29:59,720
+ Oh.
+
+354
+00:29:59,720 --> 00:30:03,720
+ But I haven't actually managed to get it to work.
+
+355
+00:30:03,720 --> 00:30:04,720
+ Ah.
+
+356
+00:30:04,720 --> 00:30:06,720
+ So, I think it's just the website is a bit slow.
+
+357
+00:30:06,720 --> 00:30:15,720
+ And so I've managed to get on there, but it never managed to send me a reset password email in time for me to actually coordinate getting back on there and resetting my password.
+
+358
+00:30:15,720 --> 00:30:17,720
+ So, I haven't done anything yet.
+
+359
+00:30:17,720 --> 00:30:18,720
+ Okay.
+
+360
+00:30:18,720 --> 00:30:23,720
+ I'm like, I'm not sure. I've got- I've paid any attention to this email.
+
+361
+00:30:23,720 --> 00:30:28,720
+ It's probably in your spam. I was in the spam with a big red warning about how it was a scam and I shouldn't click on it.
+
+362
+00:30:28,720 --> 00:30:29,720
+ [Laughs]
+
+363
+00:30:29,720 --> 00:30:32,720
+ I mean, I do get- I've had a few emails through.
+
+364
+00:30:32,720 --> 00:30:40,720
+ Oh yeah, but this one in particular, the link does not go to the actual Planorama instance on the Chengdu website.
+
+365
+00:30:40,720 --> 00:30:45,720
+ It has a very long and obfuscated URL of the sort that makes you think you probably shouldn't click on it.
+
+366
+00:30:45,720 --> 00:30:47,720
+ Yeah. No, I did notice that.
+
+367
+00:30:47,720 --> 00:30:49,720
+ Which, you know, is a choice.
+
+368
+00:30:49,720 --> 00:30:52,720
+ It's tricky because I'm sure part of the problems they're having with email.
+
+369
+00:30:52,720 --> 00:30:56,720
+ It's clearly because they're from China and that's bad.
+
+370
+00:30:56,720 --> 00:31:03,720
+ But some of the things they're having with email are clearly slight own goals in this kind of way.
+
+371
+00:31:03,720 --> 00:31:08,720
+ Which, if I was there, I'd be doing my utmost to try and make sure every email was bulletproof.
+
+372
+00:31:08,720 --> 00:31:11,720
+ And they really seem to be doing that.
+
+373
+00:31:11,720 --> 00:31:16,720
+ So it's tricky because I'm sure part of that is Western imperialism, but yeah.
+
+374
+00:31:16,720 --> 00:31:22,720
+ Oh, it contains a suspicious link that was used to steal people's personal information.
+
+375
+00:31:22,720 --> 00:31:28,720
+ Exactly. So I assume the domain it's using is one that has been used by scammers and that is probably not helping them.
+
+376
+00:31:28,720 --> 00:31:29,720
+ No.
+
+377
+00:31:29,720 --> 00:31:37,720
+ Yes, so that's Henry Bailin said their domain is on a spam list, on a block list.
+
+378
+00:31:37,720 --> 00:31:40,720
+ So about 20% of the internet just blocks everything.
+
+379
+00:31:40,720 --> 00:31:49,720
+ So if you're hoping to fill this survey in and you don't think you've received this email, we encourage you to check your spam folder listeners.
+
+380
+00:31:49,720 --> 00:31:52,720
+ Alison, you are going virtually. Is that right?
+
+381
+00:31:52,720 --> 00:32:00,720
+ I'm intending to. It all depends. I mean, I intend to go virtually, but it depends what the virtual offering is like.
+
+382
+00:32:00,720 --> 00:32:07,720
+ Because if it is just watching a lot of program items in the to taking place in enormous conference said to halls.
+
+383
+00:32:07,720 --> 00:32:09,720
+ I'm not sure I'm very interested in that.
+
+384
+00:32:09,720 --> 00:32:16,720
+ Possibly one of the people who went on the stuff weekend, which was a stuff week and in Chengdu.
+
+385
+00:32:16,720 --> 00:32:23,720
+ One of those people said they've seen a mock up of the virtual convention suite and it looked amazing.
+
+386
+00:32:23,720 --> 00:32:25,720
+ So who knows?
+
+387
+00:32:25,720 --> 00:32:30,720
+ I've got a free virtual membership. So I probably will sign up and watch some stuff and see what's going on.
+
+388
+00:32:30,720 --> 00:32:33,720
+ But I'm not sure how much time I'd actually spend on it.
+
+389
+00:32:33,720 --> 00:32:36,720
+ But it is basically my time zone. So it really happens.
+
+390
+00:32:36,720 --> 00:32:40,720
+ Interesting. There's also a tweet. Alison wanted to talk about.
+
+391
+00:32:40,720 --> 00:32:43,720
+ Yeah, it's about stars and something or other.
+
+392
+00:32:43,720 --> 00:32:51,720
+ Yeah, well, if I've actually had a request to fill in the program survey and I've seen it, this tweet wouldn't have been so strange.
+
+393
+00:32:51,720 --> 00:32:55,720
+ But it was the first I'd heard of how you could participate in the program.
+
+394
+00:32:55,720 --> 00:33:02,720
+ And it's, I think it's saying we're particularly looking for items on a theme.
+
+395
+00:33:02,720 --> 00:33:11,720
+ But it's been, there's some cultural baggage attached to that, which means that once it got translated into English, it didn't make very much sense to me.
+
+396
+00:33:11,720 --> 00:33:18,720
+ They want you to register for a panel, a party or a fan table on the theme of the stars and the sea.
+
+397
+00:33:18,720 --> 00:33:21,720
+ And they're going to reward people who do this.
+
+398
+00:33:21,720 --> 00:33:29,720
+ The activity you initiated will be compiled into the corresponding page of the WILCOM publication, which I think means we'll put it in the program.
+
+399
+00:33:29,720 --> 00:33:42,720
+ Yeah. And the committee will set up a signature wall for recording your messages to our WILCOM from the debut day on the courage and perseverance of your honor will be etched among the stars throughout the wall.
+
+400
+00:33:42,720 --> 00:33:48,720
+ I think this means your name will be written in the stars and then there'll be like presents and prizes.
+
+401
+00:33:48,720 --> 00:33:52,720
+ And there's going to be another plan, a hundredth light second plan.
+
+402
+00:33:52,720 --> 00:33:55,720
+ So there are going to be more themes of this kind.
+
+403
+00:33:55,720 --> 00:34:06,720
+ Although I do not understand it at all, I'm quite excited that they're thinking of themes that are not just the history of Chinese science fiction.
+
+404
+00:34:06,720 --> 00:34:14,720
+ I mean, I'm sure they'll be doing some of that stuff as well, but I like having more nebulous themes that you could get some creativity going around if it works.
+
+405
+00:34:14,720 --> 00:34:17,720
+ But I think a lot of people will look at this and go, "I don't understand it."
+
+406
+00:34:17,720 --> 00:34:27,720
+ I don't feel ready from that tweet to make a proposal for something in the lines of the stars and the sea. Let's put it that way.
+
+407
+00:34:27,720 --> 00:34:35,720
+ If I was to guess based on this tweet, I assume it's a call for fan table. But that doesn't quite seem to be what's going on.
+
+408
+00:34:35,720 --> 00:34:39,720
+ They said that you should contact them about panels and themed exhibitions. So...
+
+409
+00:34:39,720 --> 00:34:40,720
+ Yes, everything.
+
+410
+00:34:40,720 --> 00:34:44,720
+ I mean, I think something is definitely a bit lost in translation.
+
+411
+00:34:44,720 --> 00:34:52,720
+ If anyone involved with Chengdu has any more information on the stars and the sea co-proposals, please write in, because we would be interesting to know.
+
+412
+00:34:52,720 --> 00:34:59,720
+ Okay, so we'd be asking people who were involved in Chengdu to write in for about the last year at this point.
+
+413
+00:34:59,720 --> 00:35:04,720
+ And I think we have to conclude that nobody involved in Chengdu in any capacity is listening to this podcast.
+
+414
+00:35:04,720 --> 00:35:08,720
+ Apart from obviously the Chinese government, but only as far as they listen to everything.
+
+415
+00:35:08,720 --> 00:35:12,720
+ Yeah, we're the Hugo fans. Maybe one or two more people are listening.
+
+416
+00:35:12,720 --> 00:35:14,720
+ Oh, that'd be good.
+
+417
+00:35:14,720 --> 00:35:20,720
+ [Music]
+
+418
+00:35:20,720 --> 00:35:21,720
+ Do you want to pick a book?
+
+419
+00:35:21,720 --> 00:35:29,720
+ Yeah. I would like to pick Plutoshine by Lucy Kisack, which is one of the Clark Award nominees.
+
+420
+00:35:29,720 --> 00:35:33,720
+ And I ordered it from the library and they've got it for me.
+
+421
+00:35:33,720 --> 00:35:37,720
+ And I read it straight away because it's quite an easy read.
+
+422
+00:35:37,720 --> 00:35:51,720
+ It is a book about a colony on Pluto that has decided to go in for a bit of terraforming, so it gets some terraformers in from Earth and they do some terraforming.
+
+423
+00:35:51,720 --> 00:35:54,720
+ And that's half of the plot of the book.
+
+424
+00:35:54,720 --> 00:35:59,720
+ And obviously, you know, science happens and things go wrong because, you know, it's a book.
+
+425
+00:35:59,720 --> 00:36:12,720
+ And the other half of the book is that is about a little girl and her rather elder brother and their father, who discovers something that looks very much like extraterrestrial life.
+
+426
+00:36:12,720 --> 00:36:16,720
+ And I mean, you learned that bit in the first couple of pages of the book.
+
+427
+00:36:16,720 --> 00:36:28,720
+ And as a result of that, the father is in a coma and the little girl isn't communicated with anyone at the start of the book and her bigger brother is also damaged, but she's not obviously how.
+
+428
+00:36:28,720 --> 00:36:32,720
+ And that's the other half of the book is what has happened to them and why.
+
+429
+00:36:32,720 --> 00:36:43,720
+ And some way in which it's told is that one of the terraformers forms a friendship with the little girl and starts working out how he can get her to communicate more.
+
+430
+00:36:43,720 --> 00:36:46,720
+ And you may have already spotted from this.
+
+431
+00:36:46,720 --> 00:36:49,720
+ This is quite an old fashioned sort of science fiction book.
+
+432
+00:36:49,720 --> 00:37:01,720
+ Luca Kissak is a young woman who has a PhD in planetary science from Oxford and so knows where off she speaks in terms of having lots of kind of good pluto science stuff about it.
+
+433
+00:37:01,720 --> 00:37:09,720
+ It's probably a bit too sciencey for me and a bit too simple for me now, but I would have loved this book when I was 12.
+
+434
+00:37:09,720 --> 00:37:24,720
+ If you think the science fiction isn't as a science-y and space-explory and interesting things going on with extraterrestrial lifey in the far reaches of the solar system, as it was when you were a child, this is definitely the book for you.
+
+435
+00:37:24,720 --> 00:37:25,720
+ And I quite liked it.
+
+436
+00:37:25,720 --> 00:37:32,720
+ But as I said, it is strangely old fashioned. It's not like a lot of the other science fiction books that I read now.
+
+437
+00:37:32,720 --> 00:37:46,720
+ I don't think it has the obvious failings that I think something like Project Hail Mary, which is also a book that people say this off, has, I think it isn't falling into those traps quite.
+
+438
+00:37:46,720 --> 00:38:01,720
+ And it's possible that the author is a Mary Sue self-insert into our own universe as she is an attractive young woman with a PhD in planetary science whose first novel was picked up by Delance and has a successful YouTube channel.
+
+439
+00:38:01,720 --> 00:38:04,720
+ But apparently some people are like this.
+
+440
+00:38:04,720 --> 00:38:10,720
+ She can't be that good a planetary physicist because she doesn't know pluto isn't a planet.
+
+441
+00:38:10,720 --> 00:38:20,720
+ Hey, oh, it's a bit weird. Why is she necessarily like an intern from another world just because she has a PhD as a young woman and has a YouTube channel?
+
+442
+00:38:20,720 --> 00:38:25,720
+ And her first book got picked up by Delance, though Kerry says this happens all the time.
+
+443
+00:38:25,720 --> 00:38:26,720
+ Yeah.
+
+444
+00:38:26,720 --> 00:38:30,720
+ Yeah, it's quite specific, isn't it?
+
+445
+00:38:30,720 --> 00:38:38,720
+ Yeah, you write a book and rather than tout it round all the publishers forever, it gets published, I get on the award short lists and there you go.
+
+446
+00:38:38,720 --> 00:38:47,720
+ Yeah, it was that bit of exciting success because I know a lot of authors and most of them, this is not the way their career is got.
+
+447
+00:38:47,720 --> 00:38:56,720
+ So, I mean, I've also read pluto shine and you will know I didn't pick pluto shine because I thought it was pretty rubbish.
+
+448
+00:38:56,720 --> 00:39:10,720
+ Oh, okay, I mean, I judge it more harshly because it is on the Clark short list, but I don't know why it is on the Clark short list unless someone just really, really likes kind of like solar system based SF and there's nothing else they could choose to pick.
+
+449
+00:39:10,720 --> 00:39:21,720
+ I just thought it was poorly written, weak, you know, there's supposed like a big part of the plot hinges around kind of, you know, should we terraform pluto.
+
+450
+00:39:21,720 --> 00:39:30,720
+ But there's very that there's a very minimal, ever actual discussion of it. Like, I don't know. And there's some giant like plop contrivances.
+
+451
+00:39:30,720 --> 00:39:36,720
+ And then at the end, I mean giant plop contrivance being how can I kind of say it's without spoilers.
+
+452
+00:39:36,720 --> 00:39:43,720
+ But the bit where one of the characters thinks, oh, I can't find my magical McGuffin. Maybe I should check up on where that is.
+
+453
+00:39:43,720 --> 00:39:54,720
+ And then it turns out that the magical McGuffin is being used to sabotage the entire project and no one thought, oh, maybe we shouldn't leave these magical McGuffins that can sabotage the entire project hanging around.
+
+454
+00:39:54,720 --> 00:40:04,720
+ Oh, I didn't have a problem with that, but I just, I mean, I do think like, yeah, it did not feel strongly plotted.
+
+455
+00:40:04,720 --> 00:40:19,720
+ I thought the characterization in places was a bit weak, and I thought quite a lot of the writing was like, there's some terrible similes in there. And also it's not got that kind of, when there's kind of lots of kind of action going on, there's lots of things happening, there's lots of characters moving, there's events happening.
+
+456
+00:40:19,720 --> 00:40:27,720
+ It doesn't have that kind of clarity of writing that let me know what was going on all times. I was like, I don't actually know what is happening here.
+
+457
+00:40:27,720 --> 00:40:31,720
+ And it's also kind of curiously easy to live on Pluto.
+
+458
+00:40:31,720 --> 00:40:32,720
+ Yeah, no, that is true.
+
+459
+00:40:32,720 --> 00:40:45,720
+ There's no kind of, doesn't mean there's any kind of sort of difficulties. We just suddenly are able to kind of magically have a space base on Pluto where they have, you know, a forest full of trees and got all their own food and...
+
+460
+00:40:45,720 --> 00:40:47,720
+ And there's 70 of them, yeah.
+
+461
+00:40:47,720 --> 00:40:55,720
+ I have not read this. I've only read the tweets about it that people posted in a Discord I'm on.
+
+462
+00:40:55,720 --> 00:41:04,720
+ I can't remember which Discord was a Discord, but basically a comment was, but there was someone who was very angry about the metaphors that Liz mentioned.
+
+463
+00:41:04,720 --> 00:41:12,720
+ And they posted a lot of screenshots of how dare anything with this metaphor beyond an award short list.
+
+464
+00:41:12,720 --> 00:41:22,720
+ No, so the one, the one I, the one that sticks in the head, I get very frustrated when people post out of context experts on Twitter bid, like, how bad is this?
+
+465
+00:41:22,720 --> 00:41:29,720
+ It's like, well, it does, I do sometimes think these things do sometimes work better in context than they do when accepted and put on Twitter.
+
+466
+00:41:29,720 --> 00:41:36,720
+ Equally, the fridge magnet metaphor is the one that sticks in my head as being like, what is happening?
+
+467
+00:41:36,720 --> 00:41:39,720
+ She had all the retention of a magnet among fridges.
+
+468
+00:41:39,720 --> 00:41:40,720
+ It's...
+
+469
+00:41:40,720 --> 00:41:42,720
+ I don't understand what that means.
+
+470
+00:41:42,720 --> 00:41:45,720
+ Don't know what that means. And it's not the way taking it out of context.
+
+471
+00:41:45,720 --> 00:41:49,720
+ I mean, I do understand what it means because I kind of infer it.
+
+472
+00:41:49,720 --> 00:41:52,720
+ I know what they want it to mean, but I'm not sure it does.
+
+473
+00:41:52,720 --> 00:42:02,720
+ And yeah, I can't agree with you in that it kind of, you know, scratches a bit of that itch of like, I don't know, reading the old Heinlein juvenile as a teenager.
+
+474
+00:42:02,720 --> 00:42:07,720
+ Yeah, Hugh Walters. This could have been Hugh Walters' juvenile.
+
+475
+00:42:07,720 --> 00:42:09,720
+ But I don't read those anymore, so yeah.
+
+476
+00:42:09,720 --> 00:42:18,720
+ It's the same thing we said, I think, in the Hugo episode from last year, which is, I enjoyed reading Project Hail Mary,
+
+477
+00:42:18,720 --> 00:42:20,720
+ but I did not think it was good.
+
+478
+00:42:20,720 --> 00:42:22,720
+ And I think those are important.
+
+479
+00:42:22,720 --> 00:42:24,720
+ That is an important separation.
+
+480
+00:42:24,720 --> 00:42:29,720
+ You can have fun with a nonsense book while being able to criticize all the things that were wrong with it.
+
+481
+00:42:29,720 --> 00:42:35,720
+ Like, Project Hail Mary was fluff, but it was enjoyable fluff with a cool rock alien thing.
+
+482
+00:42:35,720 --> 00:42:38,720
+ And if I thought about it too hard, it made me sad, so I just didn't.
+
+483
+00:42:38,720 --> 00:42:43,720
+ I did not want to throw it across the room anything like as much as I wanted to throw.
+
+484
+00:42:43,720 --> 00:42:49,720
+ This is the kind of brick velocity test for novels, right?
+
+485
+00:42:49,720 --> 00:42:53,720
+ Listeners, please write in with the book you've thrown furthest across a room.
+
+486
+00:42:53,720 --> 00:42:56,720
+ It's a combination of density of book as well.
+
+487
+00:42:56,720 --> 00:43:03,720
+ So if you throw a big book across the room, you're not going to get it quite as far as if you throw a nice light little book like that.
+
+488
+00:43:03,720 --> 00:43:05,720
+ So this one could go a long, long way.
+
+489
+00:43:05,720 --> 00:43:11,720
+ Yeah, so I think we found that the key difference between us is that Alison,
+
+490
+00:43:11,720 --> 00:43:14,720
+ can't say this is a super good book, but did enjoy reading it.
+
+491
+00:43:14,720 --> 00:43:17,720
+ Don can't say Project Hail Mary is a really good book, but did enjoy reading it.
+
+492
+00:43:17,720 --> 00:43:19,720
+ I didn't enjoy reading either of them.
+
+493
+00:43:19,720 --> 00:43:25,720
+ I think, I think, if we had been forced to have a think about which of us,
+
+494
+00:43:25,720 --> 00:43:29,720
+ I don't think listeners will be surprised if they've been listening for a while.
+
+495
+00:43:29,720 --> 00:43:31,720
+ And if this is your first episode, welcome.
+
+496
+00:43:31,720 --> 00:43:32,720
+ This is what we're like.
+
+497
+00:43:32,720 --> 00:43:35,720
+ I'm Liz and I don't enjoy things.
+
+498
+00:43:35,720 --> 00:43:41,720
+ Before Liz got here today, I was doing a bit of, oh, I've read a couple of books,
+
+499
+00:43:41,720 --> 00:43:45,720
+ but now I'm reading a proper science fiction book that's obviously serious
+
+500
+00:43:45,720 --> 00:43:50,720
+ and has some things to say and is densely and interestingly written.
+
+501
+00:43:50,720 --> 00:43:51,720
+ And I'm reading it.
+
+502
+00:43:51,720 --> 00:43:56,720
+ I keep reading for 15 minutes and go, right, that's why 15 minutes I can do something else back.
+
+503
+00:43:56,720 --> 00:44:00,720
+ So it might catch far for me in a bit, but I didn't have any trouble reading Pluto Shilah.
+
+504
+00:44:00,720 --> 00:44:02,720
+ I just kind of went, oh, I'm in a field.
+
+505
+00:44:02,720 --> 00:44:03,720
+ I need a book to read.
+
+506
+00:44:03,720 --> 00:44:04,720
+ This will all do.
+
+507
+00:44:04,720 --> 00:44:08,720
+ I find, and this is not universally true,
+
+508
+00:44:08,720 --> 00:44:15,720
+ but it's certainly true that books that give me more to think about tend to be books I have to read more slowly.
+
+509
+00:44:15,720 --> 00:44:17,720
+ What are you reading now, Alison? Just out of interest.
+
+510
+00:44:17,720 --> 00:44:21,720
+ Oh, the book that I am struggling with is Goliath.
+
+511
+00:44:21,720 --> 00:44:22,720
+ Ah, okay.
+
+512
+00:44:22,720 --> 00:44:24,720
+ Todji on your buchi, yeah.
+
+513
+00:44:24,720 --> 00:44:31,720
+ I'm currently reading "Lone of the Ninth", which is making me think but more in a crime way than a science fiction way.
+
+514
+00:44:31,720 --> 00:44:35,720
+ I'm not thinking about the massive ideas I'm thinking about what's going on,
+
+515
+00:44:35,720 --> 00:44:36,720
+ which is a bit different.
+
+516
+00:44:36,720 --> 00:44:37,720
+ Yeah, I'm enjoying it though.
+
+517
+00:44:37,720 --> 00:44:43,720
+ And the book I read in the middle, which was a, which I didn't pick because it's been a previous pick
+
+518
+00:44:43,720 --> 00:44:48,720
+ and everyone knows about it already, is "City of Lost Chances" by Adrian Shikovsky, which is great.
+
+519
+00:44:48,720 --> 00:44:52,720
+ Slightly pissed off with the ending, but basically loved it.
+
+520
+00:44:52,720 --> 00:44:55,720
+ And also that's as light as I want fantasy to be.
+
+521
+00:44:55,720 --> 00:44:58,720
+ So when I went on Goodreads and discovered that the Goodreads are reusable and people going,
+
+522
+00:44:58,720 --> 00:45:03,720
+ "Oh, this is really dark and difficult." I was like, "Oh, right."
+
+523
+00:45:03,720 --> 00:45:05,720
+ That's why I don't like all the fantasy love.
+
+524
+00:45:05,720 --> 00:45:07,720
+ All you people who like really like fantasy.
+
+525
+00:45:07,720 --> 00:45:10,720
+ It's a very easy book as "City of Lost Chances" to read it straight.
+
+526
+00:45:10,720 --> 00:45:13,720
+ But I think, I don't know if I think it's very easy.
+
+527
+00:45:13,720 --> 00:45:17,720
+ I don't think it's complicated, but I think it's not complicated because Todovsky does a really good job
+
+528
+00:45:17,720 --> 00:45:21,720
+ with merging all the threads together, but there is an awful lot to keep track of in that book.
+
+529
+00:45:21,720 --> 00:45:22,720
+ Erm...
+
+530
+00:45:22,720 --> 00:45:26,720
+ Yeah, but he gives you a check, which I didn't need.
+
+531
+00:45:26,720 --> 00:45:29,720
+ It's got a dramatic persona and a map and things like that.
+
+532
+00:45:29,720 --> 00:45:32,720
+ You don't need any of that stuff. It's completely clear what's going on at all.
+
+533
+00:45:32,720 --> 00:45:34,720
+ And I'm not that careful a reader.
+
+534
+00:45:34,720 --> 00:45:37,720
+ For example, I did not notice the fridge max at better for a impletor's ride.
+
+535
+00:45:37,720 --> 00:45:44,720
+ Right, I'm going to do my pick in the spirit of introducing ourselves and making sure people know who we are.
+
+536
+00:45:44,720 --> 00:45:47,720
+ I'm going to pick an expansion for our Comora the Card Game.
+
+537
+00:45:47,720 --> 00:45:48,720
+ [laughter]
+
+538
+00:45:48,720 --> 00:45:50,720
+ On Brand.
+
+539
+00:45:50,720 --> 00:45:51,720
+ [laughter]
+
+540
+00:45:51,720 --> 00:45:55,720
+ You should probably start with an explanation of what our Comora the Card Game is.
+
+541
+00:45:55,720 --> 00:45:57,720
+ Our Comora the Card Game is a...
+
+542
+00:45:57,720 --> 00:45:58,720
+ erm...
+
+543
+00:45:58,720 --> 00:46:00,720
+ Tabletop card game.
+
+544
+00:46:00,720 --> 00:46:04,720
+ If you've played Magic the Gathering, you're kind out on the right lines if you start there.
+
+545
+00:46:04,720 --> 00:46:09,720
+ Instead of being random booster packs, it is boxes where you buy the box and you know what's in it,
+
+546
+00:46:09,720 --> 00:46:11,720
+ which is a big part of the appeal for me.
+
+547
+00:46:11,720 --> 00:46:12,720
+ Erm...
+
+548
+00:46:12,720 --> 00:46:17,720
+ And it is a cooperative card game that tells a story, which is the other half of the big draw for me
+
+549
+00:46:17,720 --> 00:46:21,720
+ because I like cooperative and narrative games a great deal.
+
+550
+00:46:21,720 --> 00:46:24,720
+ The way it works is you build decks.
+
+551
+00:46:24,720 --> 00:46:28,720
+ Decks represent your investigator and you investigate the mythos.
+
+552
+00:46:28,720 --> 00:46:31,720
+ And so yeah, you pile it through these scenarios.
+
+553
+00:46:31,720 --> 00:46:35,720
+ The latest expansion is called the Scarlet Keys.
+
+554
+00:46:35,720 --> 00:46:40,720
+ They used to release these expansions as a pack a month for six months.
+
+555
+00:46:40,720 --> 00:46:44,720
+ So you'd buy a box at the beginning and then you'd buy six packs and it would be eight scenarios
+
+556
+00:46:44,720 --> 00:46:48,720
+ and you would go through a linear story and then at the end you would fight the ancient one
+
+557
+00:46:48,720 --> 00:46:49,720
+ and that would be the end.
+
+558
+00:46:49,720 --> 00:46:54,720
+ The Scarlet Keys is a bit different because they've moved to a distribution model where they give you a big box
+
+559
+00:46:54,720 --> 00:46:56,720
+ that has a whole campaign in it all at once.
+
+560
+00:46:56,720 --> 00:47:03,720
+ And what that means is instead of doing it as a linear story, they give you basically a Choose Your Own Adventure book
+
+561
+00:47:03,720 --> 00:47:05,720
+ and a world map.
+
+562
+00:47:05,720 --> 00:47:12,720
+ And you have to go around the world visiting cities and reading out the consequent entries in the Choose Your Own Adventure book,
+
+563
+00:47:12,720 --> 00:47:16,720
+ trying to work out what's going on and if there's any way of stopping it.
+
+564
+00:47:16,720 --> 00:47:22,720
+ And this is really interesting because the first time you go through you don't know what's happening
+
+565
+00:47:22,720 --> 00:47:28,720
+ and in the same spirit as like a very open Choose Your Own Adventure book, you can get yourself in trouble
+
+566
+00:47:28,720 --> 00:47:32,720
+ and you can go to scenarios which are really quite difficult, really quite early on.
+
+567
+00:47:32,720 --> 00:47:35,720
+ But we finished the finale.
+
+568
+00:47:35,720 --> 00:47:37,720
+ We played the finale me and my wife last night.
+
+569
+00:47:37,720 --> 00:47:38,720
+ We won.
+
+570
+00:47:38,720 --> 00:47:43,720
+ We managed to stop the bad thing that was happening from happening
+
+571
+00:47:43,720 --> 00:47:49,720
+ and we got in trouble with the organisation we were supposed to be working for because every time anyone ever asked us a question,
+
+572
+00:47:49,720 --> 00:47:54,720
+ we immediately told them everything we knew every time because I am a cinnamon roll.
+
+573
+00:47:54,720 --> 00:47:56,720
+ It was really good.
+
+574
+00:47:56,720 --> 00:48:00,720
+ It really shows what the new distribution model can do and it's something they haven't done in the game before,
+
+575
+00:48:00,720 --> 00:48:04,720
+ which I think when you're at expansion number eight is quite impressive.
+
+576
+00:48:04,720 --> 00:48:06,720
+ John and I played an awful lot of arkamora.
+
+577
+00:48:06,720 --> 00:48:12,720
+ Well, an awful lot of arkamora for me, probably the regular amount of arkamora for John Turing, the pandemic lockdown online.
+
+578
+00:48:12,720 --> 00:48:14,720
+ But then we haven't actually played me an awful lot of arkamora for a bit.
+
+579
+00:48:14,720 --> 00:48:16,720
+ We didn't even play it in person.
+
+580
+00:48:16,720 --> 00:48:18,720
+ No, everyone got busy Liz.
+
+581
+00:48:18,720 --> 00:48:21,720
+ We played it once to you guys.
+
+582
+00:48:21,720 --> 00:48:27,720
+ I, it's sad to say it didn't quite grab me, but maybe over the board it would do better.
+
+583
+00:48:27,720 --> 00:48:33,720
+ Liz, you have played 92 hours of arkamora over 32 play sessions.
+
+584
+00:48:33,720 --> 00:48:35,720
+ Oh my God.
+
+585
+00:48:35,720 --> 00:48:41,720
+ Which is approximately one sixth of the time I have played arkamora.
+
+586
+00:48:41,720 --> 00:48:48,720
+ That's not bad actually. I thought you would have played like one percent of your arkamora playing, but.
+
+587
+00:48:48,720 --> 00:48:52,720
+ If it was one percent I would have played nine thousand hours of arkamora Liz.
+
+588
+00:48:52,720 --> 00:48:54,720
+ That would be a lot of arkamora.
+
+589
+00:48:54,720 --> 00:48:57,720
+ Yeah, no, I didn't know we played 92 hours of it.
+
+590
+00:48:57,720 --> 00:48:59,720
+ It's quite a lot of arkamora.
+
+591
+00:48:59,720 --> 00:49:02,720
+ It's four days Liz. Four glorious days.
+
+592
+00:49:02,720 --> 00:49:09,720
+ Yeah, there probably some bits where one or other of us, like we were technically playing, but someone's connection had gone down and we'd all fucked up.
+
+593
+00:49:09,720 --> 00:49:15,720
+ I've played arkamora for 22.5 days. That's quite a lot of days.
+
+594
+00:49:15,720 --> 00:49:21,720
+ Yeah, especially when you consider that's like, assuming you spend 24 hours a day on it, right?
+
+595
+00:49:21,720 --> 00:49:29,720
+ Oh yeah, if you think, if you're thinking in terms of like, eight hour days, then it's 67.6 days.
+
+596
+00:49:29,720 --> 00:49:33,720
+ It's like 6, 64 days of arkamora.
+
+597
+00:49:33,720 --> 00:49:37,720
+ It doesn't seem that many days really. I mean, I think, you know, if it's something you like.
+
+598
+00:49:37,720 --> 00:49:42,720
+ Liz, what's your pick? Is it playing arkamora the card game for 92 hours with John?
+
+599
+00:49:42,720 --> 00:49:46,720
+ John, that is always the pick of my heart, but I didn't do any of that in the past two weeks.
+
+600
+00:49:46,720 --> 00:49:51,720
+ So I was going to pick a book, but honestly, I haven't read that much in the past two weeks because the Tour de France is on.
+
+601
+00:49:51,720 --> 00:49:56,720
+ So I've just watched the Tour de France for probably 92 hours.
+
+602
+00:49:56,720 --> 00:49:58,720
+ Hey.
+
+603
+00:49:58,720 --> 00:50:00,720
+ And people say cycling is boring.
+
+604
+00:50:00,720 --> 00:50:03,720
+ No, it's not boring this year. It's great.
+
+605
+00:50:03,720 --> 00:50:10,720
+ And people say cricket is boring is what I was going to say, but because I've got a premature sinusity, it came out wrong.
+
+606
+00:50:10,720 --> 00:50:19,720
+ It's true, but basically it lasts for three weeks instead of having five days and a bit of break and then another five days and a break and then another five days and so on and so on forever.
+
+607
+00:50:19,720 --> 00:50:21,720
+ But also that it's not boring.
+
+608
+00:50:21,720 --> 00:50:22,720
+ I'm sure it's never boring.
+
+609
+00:50:22,720 --> 00:50:29,720
+ Sometimes it is boring. I admit that sometimes it's boring, but this time there are two guys who might possibly win.
+
+610
+00:50:29,720 --> 00:50:35,720
+ They both won before at the moment they are nine seconds apart after like two the first two weeks of the race.
+
+611
+00:50:35,720 --> 00:50:42,720
+ And it's really exciting, but I don't think I'm going to convert anyone on the pod, listening to the pod to Tour de France.
+
+612
+00:50:42,720 --> 00:50:52,720
+ But if you are interested, there is a Netflix show which is like a behind the scenes thing from last year, which you can go and watch and give you a bit of an idea of the flavour of the race.
+
+613
+00:50:52,720 --> 00:51:03,720
+ And also one of the two people who might win is great and seems to spend half his time when he's not racing going around filming memes for Instagram, riding his bike one handed while eating a baguette and so on.
+
+614
+00:51:03,720 --> 00:51:04,720
+ Amazing.
+
+615
+00:51:04,720 --> 00:51:11,720
+ Especially as someone who enjoys cricket, which is a much maligned thing to enjoy, I am probably often a bit too rude about the cycling.
+
+616
+00:51:11,720 --> 00:51:19,720
+ It is in jest, but I do think like I think anything that you know enough about kind of becomes interesting the more you learn about it almost.
+
+617
+00:51:19,720 --> 00:51:31,720
+ Cycling does see, I can see how it is tense and I can see how it can be very tense in the same way cricket can be, especially because I think they are both sports which last long enough that you can properly get into them.
+
+618
+00:51:31,720 --> 00:51:46,720
+ And that is one of the things that really appeals to me about cricket and I suspect if I go into cycling, it would be one of the things that appealed to me about cycling is it tosses and turns, but there's a lot of strategy and a lot of like meta game there, which I think is great.
+
+619
+00:51:46,720 --> 00:51:59,720
+ Yes, there is huge amount of strategy and what are these guys doing, what is this team doing, what is their plan, do they have something up their sleeve and then when it all kind of comes together in the minute of things happening, it is great.
+
+620
+00:51:59,720 --> 00:52:12,720
+ The Tour de France is, it seems like incredibly long when you watched on TV, but I went to see the Tour de France when it came past my house, which was in the summer of 2014.
+
+621
+00:52:12,720 --> 00:52:17,720
+ For those who don't know, Alison lives in France.
+
+622
+00:52:17,720 --> 00:52:32,720
+ I do not live in France, but the Tour de France went about 200 yards from here and it goes past in about 30 seconds less and they kind of try to make it better because you'd be there all day, right?
+
+623
+00:52:32,720 --> 00:52:43,720
+ And so they have quite a lot of pre-show, so there are a lot of things that drive past before the Tour de France drives past and they kind of throw you samples of things and it's all a laugh.
+
+624
+00:52:43,720 --> 00:52:58,720
+ But the difference between the Tour de France on the telly where you can watch for a three weeks and things happen but very, very slowly, a lot of the time, and the Tour de France right by you when you go to see it where they just go, whoosh, and you go, oh, that's interesting.
+
+625
+00:52:58,720 --> 00:53:02,720
+ I'll go back and watch the end of the stage, I'll tell you there, which I did.
+
+626
+00:53:02,720 --> 00:53:21,720
+ This is one of the reasons why I've never been to see, and this is a foreshadowing for a future pick listeners because when I pick sport, I will probably pick Formula E, and it's one of the reasons why I have zero interest whatsoever and going to see the Formula E live, because it'd just be blurs going past periodically with the real idea of anything that was going on.
+
+627
+00:53:21,720 --> 00:53:30,720
+ And I think cricket is interesting because I think the experience of going to the game is very similar to the experience of going and watching it on telly, but I think racing really isn't.
+
+628
+00:53:30,720 --> 00:53:35,720
+ And that's kind of interesting how divergent the experiences can be with racing.
+
+629
+00:53:35,720 --> 00:53:41,720
+ I include motor racing, horse racing, cycling, presumably all of these things, and the experience is quite different.
+
+630
+00:53:41,720 --> 00:53:43,720
+ Maybe not horse racing.
+
+631
+00:53:43,720 --> 00:53:45,720
+ Horse racing fans, right in.
+
+632
+00:53:45,720 --> 00:53:48,720
+ Also stop here, those horses are animals.
+
+633
+00:53:48,720 --> 00:53:49,720
+ Come on.
+
+634
+00:53:49,720 --> 00:53:55,720
+ Apart from the Tour de France, I don't think I've ever seen any racing sport live.
+
+635
+00:53:55,720 --> 00:54:02,720
+ Apart from, actually I did watch a tortoise race once, which probably is in your category of things people do with animals.
+
+636
+00:54:02,720 --> 00:54:14,720
+ Yeah, I mean, basically the nice thing about bike racing is it's free to go and watch, so you know, everyone just goes and stands on a big hill where there'll be only lots slower and you can watch them go past for a lot longer, and has a big party basically.
+
+637
+00:54:14,720 --> 00:54:18,720
+ Yes, Wolfhamstone, not known for its big hills.
+
+638
+00:54:18,720 --> 00:54:25,720
+ But also to be fair, I went to watch the same Tour de France stage, you went to watch Rowan to the start in Cambridge and you presumably watched it then go to London.
+
+639
+00:54:25,720 --> 00:54:29,720
+ And it was the dullest stage I've ever watched start to finish, nothing happened.
+
+640
+00:54:29,720 --> 00:54:31,720
+ Spectacularly dull stage here.
+
+641
+00:54:31,720 --> 00:54:37,720
+ When kind of the biggest talking point on the stage is that someone crashed, then it's not great.
+
+642
+00:54:37,720 --> 00:54:40,720
+ And that was the "Ode to Thor" podcast, and it's goodbye from me.
+
+643
+00:54:40,720 --> 00:54:42,720
+ It's goodbye from me.
+
+644
+00:54:42,720 --> 00:54:43,720
+ It's goodbye from me.
+
+645
+00:54:43,720 --> 00:55:04,720
+ [Music]
+
+646
+00:55:04,720 --> 00:55:06,720
+ I'm glad you picked Sportliz, that was good.
+
+647
+00:55:06,720 --> 00:55:16,720
+ Oh, I found my, I found my, I'll put it in the list, but I found my favourite, like, why I love the guy who's winning so much.
+
+648
+00:55:16,720 --> 00:55:20,720
+ Well, he's second at the moment by nine seconds, but he might win and he's done it before.
+
+649
+00:55:20,720 --> 00:55:24,720
+ It's basically, yeah, I've put the, the tweet in.
+
+650
+00:55:24,720 --> 00:55:28,720
+ Someone tweeted basically, "Oh, these are, I'm looking forward to like the race next week.
+
+651
+00:55:28,720 --> 00:55:31,720
+ These are my big picks. This is who I think might win."
+
+652
+00:55:31,720 --> 00:55:35,720
+ And some replied to him saying, you know, "Oh, Terepocca asked you to ride it."
+
+653
+00:55:35,720 --> 00:55:38,720
+ And the, the guy was like, "No, he's not riding."
+
+654
+00:55:38,720 --> 00:55:44,720
+ And then the actual rider, who, presumably taking a break from being the world's best firefighter, just popped up on Twitter to shout, "Are you sure?"
+
+655
+00:55:44,720 --> 00:55:45,720
+ And then he won it.
+
+656
+00:55:45,720 --> 00:55:47,720
+ [Laughs]
+
+657
+00:55:47,720 --> 00:55:56,720
+ So, he is a good shit poster. He doesn't post a lot of tweets, and presumably someone posts is like official, "Here is a photo of me riding my bike" or whatever.
+
+658
+00:55:56,720 --> 00:56:05,720
+ But his fiancé is also a cyclist, and when she won a race, someone referred to her as like, you know, "famous riders girlfriend."
+
+659
+00:56:05,720 --> 00:56:12,720
+ And he took great pleasure then in like posting lots of stuff where people were referring to him as "famous riders boyfriend."
+
+660
+00:56:12,720 --> 00:56:14,720
+ So he's definitely into the shit posting.
+
+661
+00:56:14,720 --> 00:56:16,720
+ There's a lot of that going on in the cricket at the moment.
+
+662
+00:56:16,720 --> 00:56:22,720
+ He just needs to be having a nice time at all times, even though it must be incredibly high pressure.
+
+663
+00:56:22,720 --> 00:56:30,720
+ But yeah, he's basically spent half his time racing and then the other bit seems to be trolling people on Instagram and Twitter, which is, uh, pleasing.
+
+664
+00:56:30,720 --> 00:56:39,720
+ The theme music for this episode was Surf Shimmy by Kevin MacLeod and Comitec.com used under a Creative Commons attribution 4.0 license.
+
+665
+00:56:39,720 --> 00:56:41,720
+ This podcast will end at the beep.
+
+666
+00:56:41,720 --> 00:56:42,720
+ Beep.
+

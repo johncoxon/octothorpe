@@ -1,0 +1,2008 @@
+1
+00:00:00,000 --> 00:00:11,720
+ [Music]
+
+2
+00:00:11,720 --> 00:00:18,000
+ Hello everyone and welcome to the very 96th episode of OctaThorp, a podcast for
+
+3
+00:00:18,000 --> 00:00:23,200
+ Science Fiction and Science Fiction Poundome, which is coming to you on the 9th of November
+
+4
+00:00:23,200 --> 00:00:28,160
+ 2023. I'm John Coxon. I'm Alison Scott and I'm Liz Batty.
+
+5
+00:00:28,160 --> 00:00:34,720
+ So Chengdu was a shower or was it? But it's definitely past tense because I think today is the last
+
+6
+00:00:34,720 --> 00:00:38,880
+ day or is tomorrow the last day. By the time this comes out it's past 10.
+
+7
+00:00:38,880 --> 00:00:43,280
+ Ah, yeah it's gone. It's closing now. There were lots of very shiny things.
+
+8
+00:00:43,280 --> 00:00:48,560
+ Yes, I think if it was there it was probably quite shiny if you were there.
+
+9
+00:00:48,560 --> 00:00:53,840
+ I get the impression the online aspects were kind of hard to interact with
+
+10
+00:00:54,560 --> 00:01:01,440
+ from other people that went past on my socials. I've heard nothing good about them.
+
+11
+00:01:01,440 --> 00:01:07,200
+ No, okay. I've heard it's like oh they've they basically learned nothing from all of the
+
+12
+00:01:07,200 --> 00:01:12,960
+ experience of doing things online. That's sad. That is, you know. I mean yeah, did either of you
+
+13
+00:01:12,960 --> 00:01:20,720
+ do any online stuff or? No, I tried. Oh Liz, Liz tried. Did you? What happened? It didn't work.
+
+14
+00:01:21,360 --> 00:01:26,720
+ So you like, I should say that my home internet is broken so I'm on my phone internet at the
+
+15
+00:01:26,720 --> 00:01:31,600
+ moment. But my phone internet is really pretty fast as in we are doing a live as a podcaster it.
+
+16
+00:01:31,600 --> 00:01:36,160
+ And so you log in and you like pick a little avatar and you should be able to wander around
+
+17
+00:01:36,160 --> 00:01:41,840
+ in a full 3D environment and so on. And I did that a bit and then I tried to teleport to the live
+
+18
+00:01:41,840 --> 00:01:46,800
+ programming room and I did teleport to live programming room where you get your little avatar
+
+19
+00:01:46,800 --> 00:01:52,000
+ sitting in a little chair but then I couldn't actually get any programming to load. So I gave up.
+
+20
+00:01:52,000 --> 00:01:57,280
+ That's very consistent with reports I've seen. I mean some people have had it working audio only.
+
+21
+00:01:57,280 --> 00:02:03,760
+ Some people have had it working audio and video a bit but mostly we've not really had any
+
+22
+00:02:03,760 --> 00:02:10,560
+ output from the work on. It's just been reports. We've had reports and the reports have been,
+
+23
+00:02:10,560 --> 00:02:15,760
+ well, you know, this is amazing. I mean the report's been amazing. I get the feeling that they
+
+24
+00:02:15,760 --> 00:02:21,600
+ only did the online stuff because they kind of felt they should have an online component because
+
+25
+00:02:21,600 --> 00:02:26,960
+ we have the last few World Cons and people generally like it if they can get something out of World
+
+26
+00:02:26,960 --> 00:02:31,760
+ Cons that they attend remotely. But I think they should really just have ditched it all. Maybe
+
+27
+00:02:31,760 --> 00:02:37,680
+ just stream the opening and closing and the hue goes on some platform and just not bothered
+
+28
+00:02:37,680 --> 00:02:43,840
+ with the rest of it because there wasn't a lot of stuff going on. Some of it was kind of panels
+
+29
+00:02:43,840 --> 00:02:49,840
+ being attended remotely by people doing them remotely which I kind of didn't really see the
+
+30
+00:02:49,840 --> 00:02:55,520
+ point of. And there wasn't a lot of like items that were interactive between the people online
+
+31
+00:02:55,520 --> 00:02:59,520
+ and the people in the audience which is what kind of you want to do to bring people in. So I think
+
+32
+00:02:59,520 --> 00:03:03,760
+ honestly they should have just scrapped it and not bothered. I mean they sold attendance to it for
+
+33
+00:03:03,760 --> 00:03:09,360
+ like $10 or something or $2 for first World Cons. $10 if it's not your first World Cons.
+
+34
+00:03:09,360 --> 00:03:13,680
+ So it didn't cost people a lot so they hadn't lost a lot by signing up to it. Like if it
+
+35
+00:03:13,680 --> 00:03:18,880
+ was a con where I paid $60 for a virtual membership then I'd be annoyed. But it's kind of like
+
+36
+00:03:18,880 --> 00:03:22,400
+ well I'm as well have a go and it didn't really work so I think they should have just skipped it
+
+37
+00:03:22,400 --> 00:03:28,000
+ and had a great time in person which it looks like everyone did. So I can only go buy a report
+
+38
+00:03:28,000 --> 00:03:35,520
+ of what's coming out. File 770 has a lot of stuff. I think our occasional correspondent
+
+39
+00:03:35,520 --> 00:03:41,520
+ Sats Culture has been collecting a lot of stuff together. Honestly like the in-person experience
+
+40
+00:03:41,520 --> 00:03:46,000
+ looks like it's an amazing spectacle and I am kind of sad I wasn't there.
+
+41
+00:03:46,000 --> 00:03:53,280
+ Yes and I just want to say one thing which is thank you to one man cultural liaison at Sats Culture
+
+42
+00:03:53,280 --> 00:04:00,880
+ for basically rendering the entire thing interpretable to Western audiences. Like I think without his work
+
+43
+00:04:00,880 --> 00:04:09,120
+ like I would have so much less idea of what was happening and he has been doing a lot. So I will
+
+44
+00:04:09,120 --> 00:04:14,560
+ just want to call him out and I will say I believe he is eligible for best friend writer in the next
+
+45
+00:04:14,560 --> 00:04:20,720
+ Hugo Awards and I for one should be very glad to see him as a finalist because I think he probably
+
+46
+00:04:20,720 --> 00:04:27,600
+ has earned it. Ooh there are a set of official program photos. Ooh. Instead of just posting the
+
+47
+00:04:27,600 --> 00:04:33,120
+ links in File 770 they've posted the QR codes but not actually said well these are the links.
+
+48
+00:04:34,080 --> 00:04:40,240
+ Yeah I think you're from a less QR code using society but yeah I mean the pictures look amazing
+
+49
+00:04:40,240 --> 00:04:46,880
+ they're venue. The venue which was yeah the venue was amazing. The Hugo's themselves look amazing
+
+50
+00:04:46,880 --> 00:04:51,600
+ I'm sad I don't have a panda Hugo. The Hugo's a beautiful yeah I would have liked a panda Hugo that
+
+51
+00:04:51,600 --> 00:04:57,200
+ would be good. They released just a few days before the convention a promotional video which I
+
+52
+00:04:57,200 --> 00:05:01,120
+ kind of linked to and was like well what is this for and people were like well you know they want
+
+53
+00:05:01,120 --> 00:05:10,160
+ to do nice things. It's not a 2D video it's a 3D animation that has taken professionals hundreds
+
+54
+00:05:10,160 --> 00:05:16,880
+ of hours to do. What's going on here? It does seem like a lot of effort has been put into Chengdu
+
+55
+00:05:16,880 --> 00:05:22,720
+ and it does surprise me a little bit. I'm not sure I would have deployed the hours where they
+
+56
+00:05:22,720 --> 00:05:29,680
+ have deployed the hours which is not a criticism so much as an observation like clearly they had a
+
+57
+00:05:29,680 --> 00:05:35,600
+ vision and they have it seems like they have executed on that vision. But also we we don't in a way
+
+58
+00:05:35,600 --> 00:05:40,480
+ know what they got offered. We don't know if they said right we've got a chunk of money and you'll
+
+59
+00:05:40,480 --> 00:05:45,760
+ you'll get the spoilers for future episodes but you'll get us at some point discussing a little
+
+60
+00:05:45,760 --> 00:05:50,240
+ bit more about you know how you best spend your money and your people points at conventions
+
+61
+00:05:50,240 --> 00:05:54,800
+ spoiler for future episode. We don't know if they had a ton of money and they were like shall we put
+
+62
+00:05:54,800 --> 00:06:00,880
+ a bunch of this money into making a really attractive promotional video or if someone came to them
+
+63
+00:06:00,880 --> 00:06:04,720
+ and said hey we would love to sponsor your convention by doing you a really great promotional
+
+64
+00:06:04,720 --> 00:06:10,160
+ video and they were like yeah fantastic. Yeah no that is true that is Dye's Fair. Yes it probably
+
+65
+00:06:10,160 --> 00:06:14,880
+ is something like that and you know I'm sure it was played at the com. I'm sure it's played at the
+
+66
+00:06:14,880 --> 00:06:18,560
+ com and then you get this kind of like great thing for the author. Yeah it was just in English.
+
+67
+00:06:18,560 --> 00:06:24,400
+ I mean there may be another version of it. Yeah I had very little dialogue at all it's not like it
+
+68
+00:06:24,400 --> 00:06:28,880
+ was the one with a voice over. You could really easily change that one entirely to a Chinese
+
+69
+00:06:28,880 --> 00:06:33,120
+ language. Yeah that's probably right. I'm sure it would have been amazing to have been there and of
+
+70
+00:06:33,120 --> 00:06:37,680
+ course had I not been on my guff trip I probably would have been there so you know it's kind of weird.
+
+71
+00:06:37,680 --> 00:06:43,280
+ There's so many photos of like school children as well and young people and like kids sitting next
+
+72
+00:06:43,280 --> 00:06:49,680
+ a panda photos. Oh so many young people. I just can't help but find that just really cool.
+
+73
+00:06:49,680 --> 00:06:54,640
+ It's not what we see at World Cons usually. And also Nicholas White signing autographs.
+
+74
+00:06:54,640 --> 00:07:00,960
+ Don't they probably thought she was the science fiction author? Maybe I don't know.
+
+75
+00:07:00,960 --> 00:07:06,480
+ It's just it's very good. I got us from autograph once and I found that even funnier.
+
+76
+00:07:06,480 --> 00:07:14,000
+ I haven't seen pictures of Nicholas signing autograph. He posted them on the internet somewhere.
+
+77
+00:07:14,000 --> 00:07:18,560
+ It's supposed to be a bit of one-time. I think he posted autograph. So we don't know if it's plural
+
+78
+00:07:18,560 --> 00:07:24,400
+ but I think that's just going to be there's not that many people there from outside China and so
+
+79
+00:07:24,400 --> 00:07:28,160
+ some children are collecting the autographs of every single one like children who go around
+
+80
+00:07:28,160 --> 00:07:33,440
+ collecting a million ribbons. I will put a link in the show notes listeners so you can you can see
+
+81
+00:07:33,440 --> 00:07:38,400
+ all of this. Yeah I mean how many people are there from outside China because some of the people I
+
+82
+00:07:38,400 --> 00:07:45,760
+ was expecting to be are not. I don't know. I genuinely don't. It's hard to tell. I mean I could listen
+
+83
+00:07:45,760 --> 00:07:52,000
+ off but I reckon I've seen reports from maybe 30 or 40 some of whom are like invited guests on
+
+84
+00:07:52,000 --> 00:07:57,120
+ the program some of whom are just fans who are there. I've seen reports of some fans like
+
+85
+00:07:57,120 --> 00:08:01,280
+ not from the US or UK kind of going there. There's an Indonesian fan there I think.
+
+86
+00:08:01,280 --> 00:08:06,480
+ There's people there from the Uganda bid. I think there are people there from Saudi Arabia as well.
+
+87
+00:08:06,480 --> 00:08:09,440
+ Plus the head of wetter workshop. He's gone all the way from the New Zealand.
+
+88
+00:08:09,440 --> 00:08:14,800
+ Yeah he probably didn't have quite such a tight timetable New Zealanders me.
+
+89
+00:08:14,800 --> 00:08:24,720
+ I mean that seems bizarre but. We know Gillian Pollack did a online program item I believe
+
+90
+00:08:24,720 --> 00:08:29,520
+ for Chengdu and I don't know I assume other people did as well. I assume it wasn't just Gillian
+
+91
+00:08:29,520 --> 00:08:34,880
+ although you know yeah we know it would work. If you are listening and you did please write in
+
+92
+00:08:34,880 --> 00:08:39,280
+ because it would be very fascinating to hear how those went from the horse's mouth. Yeah well
+
+93
+00:08:39,280 --> 00:08:44,080
+ what happened to Lucianco in the end? Was he just kind of there and hanging out? No one knows.
+
+94
+00:08:44,640 --> 00:08:49,520
+ Don't think he's there? Like he seems to have been massively downplayed and yeah I'm not sure
+
+95
+00:08:49,520 --> 00:08:55,840
+ if he is there but I don't understand why you'd uninvite him without announcing you'd uninvited him.
+
+96
+00:08:55,840 --> 00:09:00,640
+ I mean it may just have been logistical difficulties and actually maybe he just literally could not
+
+97
+00:09:00,640 --> 00:09:06,400
+ attend because he cannot get there. I watched some of the replay videos of the opening ceremony which
+
+98
+00:09:06,400 --> 00:09:09,520
+ are on YouTube which are worth watching and I think there is one where they list all the guests
+
+99
+00:09:09,520 --> 00:09:13,680
+ and he's not listed as a guest so maybe they just decide they had to drop him because he couldn't make
+
+100
+00:09:13,680 --> 00:09:20,560
+ it. Maybe maybe yeah fair enough very strange well I mean not very strange but notable.
+
+101
+00:09:20,560 --> 00:09:25,040
+ So the other thing that people have been posting pictures of is pandas because they've got to see
+
+102
+00:09:25,040 --> 00:09:29,600
+ pandas what they really check do which is quite good and don't you aren't you really looking
+
+103
+00:09:29,600 --> 00:09:33,200
+ forward to the pictures of everyone who goes to Glasgow and takes pictures with the haggis in the
+
+104
+00:09:33,200 --> 00:09:38,080
+ same way. Oh that'll be adorable. I mean they have to do a bit of work because they actually have to go
+
+105
+00:09:38,080 --> 00:09:43,200
+ up to Loch Ness and then they have to go and hide out on the mountain with their bait. Yep yep yep
+
+106
+00:09:43,200 --> 00:09:46,640
+ I'm sure some of them will be up for that because it's not like pandas in like a
+
+107
+00:09:46,640 --> 00:09:50,720
+ the pandas are in a big preservation thing whereas when they go to Glasgow they're going to have to go
+
+108
+00:09:50,720 --> 00:09:58,000
+ out at twilight into the wild yeah to get there yeah to get pictures of wild haggis so it's a bit
+
+109
+00:09:58,000 --> 00:10:03,120
+ harder because they're crepposcular they are crepposcular but also I'm just looking forward to the
+
+110
+00:10:03,120 --> 00:10:10,560
+ Hugo Award rocket base having the tiny haggis mascot on it. Okay so so you heard it at first it's
+
+111
+00:10:10,560 --> 00:10:15,120
+ gonna be it's gonna be a haggis but because haggis have two long legs and two short legs is everyone
+
+112
+00:10:15,120 --> 00:10:20,320
+ knows this right? Yeah yeah exactly yeah. So haggis is a lot they're designed for mountains so they have
+
+113
+00:10:20,320 --> 00:10:24,960
+ two long legs and two short legs so so the the hot because the base is going to be shaped like a
+
+114
+00:10:24,960 --> 00:10:30,880
+ haggis the the hugos go to be offered a jaunty angle because because the haggis bit lopsided
+
+115
+00:10:30,880 --> 00:10:36,560
+ but it'll be fine if you put your Hugo on a mountain when you win it or maybe the haggis is running
+
+116
+00:10:36,560 --> 00:10:44,960
+ around the Hugo. Oh or scaling the Hugo they kind of like a series of Esther can you write in and let us
+
+117
+00:10:44,960 --> 00:10:52,720
+ know when the base design competition starts because I believe we're going to want to submit one yeah
+
+118
+00:10:52,720 --> 00:11:00,080
+ because we've got one we've got one we've got a plan little talking little ton haggis is going
+
+119
+00:11:00,080 --> 00:11:11,840
+ up side of the Hugo with crampons. Do we want to talk about the business meeting? What happened
+
+120
+00:11:11,840 --> 00:11:15,200
+ at the business? Hang on no no no no no no no no no no no no no no no no no no no no no no no no no
+
+121
+00:11:15,200 --> 00:11:23,520
+ badliss. So we didn't have an episode where I could talk about it but there were quite a lot
+
+122
+00:11:23,520 --> 00:11:32,080
+ of amendments on the agenda for Chengdu. I'm just loading them so I can have a look. Where's my
+
+123
+00:11:32,080 --> 00:11:38,720
+ amendment for all Hugo designs should incorporate a funny animal? Can I have that next year? Yeah so
+
+124
+00:11:38,720 --> 00:11:44,400
+ there were tons of amendments we don't actually have a report on everything that pasten failed so
+
+125
+00:11:44,400 --> 00:11:50,880
+ it's I'm going to have to wait to give a full report but according to file 770 they did pass a
+
+126
+00:11:50,880 --> 00:11:58,320
+ few things they ratified the ones that were up for amendment which is the 0% solution and best
+
+127
+00:11:58,320 --> 00:12:05,280
+ game and interactive work apparently so yes we'll have a best game Hugo from next year. Good!
+
+128
+00:12:05,280 --> 00:12:12,160
+ And also we will no longer no award a category if it's on a 25% of the total which I think we were
+
+129
+00:12:12,160 --> 00:12:18,480
+ in favor of. Yes please. So that's pretty good. Was there anything that wasn't ratified Liz?
+
+130
+00:12:18,480 --> 00:12:23,600
+ So those are only things that were for ratification but then there were things that were like this
+
+131
+00:12:23,600 --> 00:12:29,600
+ year's business. So there was nothing that passed at Chicago that needed ratifying that wasn't
+
+132
+00:12:29,600 --> 00:12:34,720
+ ratified. I don't think so because there were only two things that were passed on and they both
+
+133
+00:12:34,720 --> 00:12:40,240
+ passed. Nice okay cool cool cool. And then there was a bunch of new business some of which appears to
+
+134
+00:12:40,240 --> 00:12:44,880
+ have passed on some of which I don't know yet because we don't have a report from the
+
+135
+00:12:44,880 --> 00:12:50,160
+ appropriate business meeting so probably we'll before then but it looks like they've referred
+
+136
+00:12:50,160 --> 00:12:56,640
+ to committee the one about whether you should be paid for fan casts or whether that should disqualify
+
+137
+00:12:56,640 --> 00:13:01,520
+ you basically. What is clear is that there's a lot of people who have taken the opportunity to
+
+138
+00:13:01,520 --> 00:13:05,600
+ propose constitutional amendments because the World Congress in China and this is their year when
+
+139
+00:13:05,600 --> 00:13:10,400
+ they can propose constitutional amendments and some of them I think do make sense and some of them
+
+140
+00:13:11,120 --> 00:13:15,920
+ it kind of depends do you think that fan casts should be analogous to fanzine or do you think
+
+141
+00:13:15,920 --> 00:13:20,640
+ fan cast should be analogous to kind of both fanzine and semi-prozine in terms of its limits of
+
+142
+00:13:20,640 --> 00:13:27,200
+ professionalism? Yeah I think the wussfuss nerds would say that this has been gone over endlessly
+
+143
+00:13:27,200 --> 00:13:31,760
+ including at the point where the category was developed. Yeah but I don't think you can blame
+
+144
+00:13:31,760 --> 00:13:37,040
+ people for saying it's weird that fan cast is different from fanzine and we should make them
+
+145
+00:13:37,040 --> 00:13:42,240
+ the same when kind of all the debate took place 10 years ago at a business meeting they weren't at.
+
+146
+00:13:42,240 --> 00:13:51,760
+ Yeah and also I think this has largely been answered by the fact that escape pod, pod castel and
+
+147
+00:13:51,760 --> 00:13:58,400
+ writing excuses all got nominated in categories that weren't fan cast and so my argument would be
+
+148
+00:13:58,400 --> 00:14:05,680
+ that the way the hughos have been treating these is very much in the sense of fan cast is the equivalent
+
+149
+00:14:05,680 --> 00:14:10,480
+ of fanzine and if you are doing a semi-prozine in audio it goes in semi-prozine and if you are
+
+150
+00:14:10,480 --> 00:14:17,360
+ doing a professional podcast it goes in best related work. So my gut feeling is we should respect
+
+151
+00:14:17,360 --> 00:14:23,920
+ the voters and codify that in the constitution so that it continues forward and I think that is
+
+152
+00:14:23,920 --> 00:14:30,640
+ usually my opinion about the hughos. I'm usually of the opinion that if that if the voters are
+
+153
+00:14:30,640 --> 00:14:35,600
+ treating something in a certain way it should be codified with the very very strong exception
+
+154
+00:14:35,600 --> 00:14:42,080
+ that I don't think conventions belong on hughos finalist lists and I would be quite happy if
+
+155
+00:14:42,080 --> 00:14:46,240
+ that never happened ever again. Yeah well it looks like that runs the committee for more discussion
+
+156
+00:14:46,240 --> 00:14:51,360
+ which actually feels like a sensible way to do it because I think there is some discussion to be
+
+157
+00:14:51,360 --> 00:14:56,800
+ had there and also you don't want to make it so strict that if your podcast has you know a patreon
+
+158
+00:14:56,800 --> 00:15:02,160
+ that gets you a couple hundred quid a year that you spend on hosting a microphone like that shouldn't
+
+159
+00:15:02,160 --> 00:15:07,360
+ automatically make you a semi-professional podcast but as is written maybe you can't get any money
+
+160
+00:15:07,360 --> 00:15:16,080
+ at all. Anyway that is up for discussion they failed to pass one for best young writer this was
+
+161
+00:15:16,080 --> 00:15:24,080
+ a proposal for basically a new category for writers age between 15 and 24 which hasn't been passed on.
+
+162
+00:15:24,720 --> 00:15:30,240
+ Firstly that's just ageist because people can come to writing a later in life and that is okay
+
+163
+00:15:30,240 --> 00:15:36,080
+ and secondly we have an award for new writers already we have a sounding yes we have an award for
+
+164
+00:15:36,080 --> 00:15:40,880
+ new writers and this was specifically you know the person proposed it said it's a try and encourage
+
+165
+00:15:40,880 --> 00:15:44,880
+ young writers in their creative endeavors which is fine but they'll do it some other way that's
+
+166
+00:15:44,880 --> 00:15:52,240
+ not a hugho and then the other thing that passed is there were two basically conflicting proposals
+
+167
+00:15:52,240 --> 00:15:58,400
+ for what you put on site selection ballot and they have passed a slightly more restrictive one
+
+168
+00:15:58,400 --> 00:16:05,520
+ which basically means you have to have now a postal address and it's mandatory and if you
+
+169
+00:16:05,520 --> 00:16:12,800
+ don't put a postal address in it may be a no preference ballot. Interesting. It doesn't explicitly
+
+170
+00:16:12,800 --> 00:16:18,080
+ say what a postal address in the other amendment said it should be addressed including at least
+
+171
+00:16:18,080 --> 00:16:23,440
+ country and province/state but then otherwise left it as is so you wouldn't have to put a full
+
+172
+00:16:23,440 --> 00:16:27,360
+ postal address in. So I interpret this to mean that site selection will now require people to put
+
+173
+00:16:27,360 --> 00:16:32,240
+ their full street address on the site selection ballot which is the situation that came up a
+
+174
+00:16:32,240 --> 00:16:37,520
+ couple of years ago during the vote for Chengdu. I don't know if I have a I think about whether
+
+175
+00:16:37,520 --> 00:16:43,360
+ I have a strong opinion about that it just seems like fiddling but yeah. I have a fairly strong
+
+176
+00:16:43,360 --> 00:16:49,040
+ opinion on it which is that it's it's of parochial. It just doesn't take account of the way the
+
+177
+00:16:49,040 --> 00:16:52,800
+ world works. Lots and lots of people don't have addresses that a street address is including
+
+178
+00:16:52,800 --> 00:16:57,600
+ incidentally many people who are traditional voters of for the WorldCom because they have
+
+179
+00:16:57,600 --> 00:17:01,520
+ post office boxes and they aren't going to put their post office boxes they're just thinking that
+
+180
+00:17:01,520 --> 00:17:06,240
+ their post office boxes are street address which is not they mean post they think postal address.
+
+181
+00:17:06,240 --> 00:17:11,680
+ But it doesn't specify didn't specify what a postal address is so I assume it can mean
+
+182
+00:17:12,240 --> 00:17:19,600
+ wherever you would get post. Yeah so the point is that in lots of places you don't get post in the
+
+183
+00:17:19,600 --> 00:17:25,680
+ way that you think about it if you come from a western world in which post is delivered in the
+
+184
+00:17:25,680 --> 00:17:32,720
+ way it's delivered in Britain right? Yeah no no no no I appreciate that. Lots of places deliver
+
+185
+00:17:32,720 --> 00:17:40,080
+ post to your name and a bursi at the village shop essentially. But then that would count on the ballot.
+
+186
+00:17:40,080 --> 00:17:45,520
+ Yeah potentially that would count as a postal address. I think that's an argument you can have later.
+
+187
+00:17:45,520 --> 00:17:51,200
+ Yeah maybe it would count as the postal address rather than a street address so so some of these
+
+188
+00:17:51,200 --> 00:17:56,080
+ things have asked for a street address and that is hard because lots of places don't have those lots
+
+189
+00:17:56,080 --> 00:18:00,400
+ of people don't have those. It did need clarifying because it just said address so it hadn't been
+
+190
+00:18:00,400 --> 00:18:05,360
+ updated since we invented the email address basically and this has never previously been a problem
+
+191
+00:18:05,360 --> 00:18:10,480
+ and it has come up as a problem so I agree with clarifying it but I guess you know maybe they need
+
+192
+00:18:10,480 --> 00:18:15,600
+ to include what is an example of a valid postal address and I so I felt like the one that was just
+
+193
+00:18:15,600 --> 00:18:20,800
+ like at least put like your country in province in maybe was clarifying that better because then
+
+194
+00:18:20,800 --> 00:18:25,840
+ you could say okay it's got a province and a country it's an address so I don't know if this will now
+
+195
+00:18:25,840 --> 00:18:33,120
+ basically leave it to site selection administrators to determine what counts as a valid postal address
+
+196
+00:18:33,120 --> 00:18:37,360
+ and potentially leave us with more problems but that's the one that passed so there we go.
+
+197
+00:18:37,360 --> 00:18:42,080
+ I will go on record as saying that if a site selection administrator disqualified a ballot for
+
+198
+00:18:42,080 --> 00:18:47,760
+ a postal address that is a completely like crombulent like one of those in whatever country the vote
+
+199
+00:18:47,760 --> 00:18:51,680
+ was for I'd be very angry so we're like if you know if you are a decision where your postal address
+
+200
+00:18:51,680 --> 00:18:56,000
+ is effectively given to Bertie at the village shop and the site selection administrator got angry
+
+201
+00:18:56,000 --> 00:19:00,160
+ I'd be like well that's just parochial nonsense. We'll see. I guess my point is it doesn't seem like
+
+202
+00:19:00,160 --> 00:19:04,560
+ it's solving a problem it just seems like it's being driven by the wussfus nerds need to categorize
+
+203
+00:19:04,560 --> 00:19:13,520
+ and I'm not wholly behind constitutional amendments that I feel are being driven primarily by a
+
+204
+00:19:13,520 --> 00:19:20,000
+ desire for neatness rather than a desire to actually address problems which but that is a take I guess
+
+205
+00:19:20,000 --> 00:19:26,480
+ which you go ahead and have your takes done. Oh thanks Liz. I'm happy about Best Game and I
+
+206
+00:19:26,480 --> 00:19:31,840
+ can nominate things for Best Game. Have you seen Don Eastlake's report on the main business meeting
+
+207
+00:19:31,840 --> 00:19:37,440
+ from the wussfus business meeting Facebook group? No I don't really go on Facebook very often. No
+
+208
+00:19:37,440 --> 00:19:44,320
+ not on the wussfus business meeting group. Right so that's included independent films has moved
+
+209
+00:19:44,320 --> 00:19:51,680
+ up the agenda amended to add sun setting and past. Oh god yes yes this is what I was getting to
+
+210
+00:19:51,680 --> 00:19:58,160
+ which is the independent film were moved up and was passed so if that is ratified next year that
+
+211
+00:19:58,160 --> 00:20:03,440
+ adds two new hugos. I will be going to the Glasgow business meeting and voting against
+
+212
+00:20:03,440 --> 00:20:09,520
+ ratification. Yeah don't it's got zero chance of getting ratified I would have thought I think
+
+213
+00:20:09,520 --> 00:20:16,000
+ there'd be actual pitchforks. In theory I don't mind the idea of a category that tries to represent
+
+214
+00:20:16,000 --> 00:20:21,680
+ represents things that are not massive TV shows and massive blockbuster movies and like indeed I
+
+215
+00:20:21,680 --> 00:20:26,880
+ have some sympathy for that but I think the way you do it is firstly run a trial category so you
+
+216
+00:20:26,880 --> 00:20:31,680
+ ask Glasgow please could you use your special hugo to run this category and see if it works because
+
+217
+00:20:31,680 --> 00:20:38,640
+ putting a hugo on the ballot without the test is insane and then secondly you consult with the
+
+218
+00:20:38,640 --> 00:20:44,880
+ community you don't just spring it on people like I am not against the category in principle but
+
+219
+00:20:44,880 --> 00:20:48,960
+ even I will be voting against ratification because like and I will be encouraging lots of people to
+
+220
+00:20:48,960 --> 00:20:54,320
+ come with me because I'm like you don't know if this is going to work like the game hugo was
+
+221
+00:20:54,320 --> 00:21:00,240
+ carefully crafted over years and like that's on the ballot and that's how it should be done. Sorry
+
+222
+00:21:00,240 --> 00:21:06,560
+ but also this is a this is a this carves independent because we have a general rule of not having
+
+223
+00:21:06,560 --> 00:21:11,840
+ one thing eligible for multiple hugos this carves independent films out of the hugos
+
+224
+00:21:11,840 --> 00:21:17,440
+ out of the best dramatic pro inflation long form so it's it's incredibly controversial in the same
+
+225
+00:21:17,440 --> 00:21:21,280
+ way that the load star was and it's gonna take if you want to have something like that it's
+
+226
+00:21:21,280 --> 00:21:27,920
+ gonna take decades to get it sorted or at least a decade and also everything everywhere all at
+
+227
+00:21:27,920 --> 00:21:36,960
+ once is won you know it's it's definitely definitely or the indecided happened to be a massive blockbuster
+
+228
+00:21:36,960 --> 00:21:43,200
+ but there was no reason to expect that to be the case. How do they define independent film Liz?
+
+229
+00:21:43,200 --> 00:21:47,680
+ I don't think this is particularly worth discussing how they define it but what I would say is we
+
+230
+00:21:47,680 --> 00:21:53,200
+ have complained a lot on this podcast about the business meeting and how difficult it is to
+
+231
+00:21:53,200 --> 00:21:57,120
+ figure out what's going on at the business meeting and how difficult it is to work out what's going
+
+232
+00:21:57,120 --> 00:22:03,840
+ on so when this amendment is brought by two Chinese members of the world con a world con which seems
+
+233
+00:22:03,840 --> 00:22:08,480
+ to have had a ton of stuff about like independent films and small films in the film industry
+
+234
+00:22:08,480 --> 00:22:13,040
+ generally it may just be they thought the best way to get people discussing it was to put it
+
+235
+00:22:13,040 --> 00:22:18,640
+ forward as an amendment it's hard to know kind of from the outside exactly how much work went into
+
+236
+00:22:18,640 --> 00:22:24,160
+ best game yeah no that is fair to get it up there and how many years that took so I'm gonna give
+
+237
+00:22:24,160 --> 00:22:29,760
+ them a pass I mean I think they're gonna probably fail to be ratified I just think it's people
+
+238
+00:22:29,760 --> 00:22:35,120
+ saying well this is the things we're interested in can we have an award for them and if you don't
+
+239
+00:22:35,120 --> 00:22:38,720
+ you know spend a lot of time reading business meeting minutes then probably you think that's
+
+240
+00:22:38,720 --> 00:22:43,520
+ the best way to get them get them on the agenda because maybe it isn't other places but it turns
+
+241
+00:22:43,520 --> 00:22:48,720
+ out if there was a best way to get something passed is basically now to build you know spend a lot
+
+242
+00:22:48,720 --> 00:22:53,040
+ of time building support before you actually bring it to the business meeting which is not
+
+243
+00:22:53,040 --> 00:22:57,440
+ immediately obvious if it's just like would you like to pro some business send us an email I'm
+
+244
+00:22:57,440 --> 00:23:02,320
+ not opposed to the two people who brought the amendment I will say and there was a little baby
+
+245
+00:23:02,320 --> 00:23:08,800
+ faced Cox and who brought an amendment to Chicago 2012 Chai Khan 7 with Emily Arrow I think
+
+246
+00:23:08,800 --> 00:23:14,320
+ reporting a best very short category for dramatic presentation because we wanted to see more
+
+247
+00:23:14,320 --> 00:23:20,960
+ short films get hoo-hoo's so like I genuinely am sympathetic to this the thing that annoys me is
+
+248
+00:23:20,960 --> 00:23:27,760
+ that they passed it yeah like I'm not disappointed with the two uh proposals I'm disappointed with
+
+249
+00:23:27,760 --> 00:23:31,840
+ literally everyone else in the room there weren't that many people in the room maybe 40 and that
+
+250
+00:23:31,840 --> 00:23:35,680
+ might have included quite a few Chinese fans who had never had any previous experience with the
+
+251
+00:23:35,680 --> 00:23:39,920
+ business meeting when this opens up a really big can of worms right which is like if the Chinese
+
+252
+00:23:39,920 --> 00:23:46,160
+ fans got one thing through an iO Western fan I'm like boo is that good of me but equally I really
+
+253
+00:23:46,160 --> 00:23:51,120
+ don't think this is a category we need but also this is why you want to have online presence at
+
+254
+00:23:51,120 --> 00:23:55,280
+ your business meeting so you do in fact have a permanent group of people are interested in this
+
+255
+00:23:55,280 --> 00:24:02,080
+ I can come in from everywhere so hmm maybe this is the best argument for actually sorting that
+
+256
+00:24:02,080 --> 00:24:05,600
+ problem out which is do you want best independent film hoo-hoo's because that's how you get best
+
+257
+00:24:05,600 --> 00:24:09,680
+ independent film hoo-hoo's is it called best independent film or is it called best dramatic
+
+258
+00:24:09,680 --> 00:24:14,320
+ presentation independent it's called is best independent short film award and best independent
+
+259
+00:24:14,320 --> 00:24:20,720
+ feature film award there are two oh yeah there's two soon there'll be more hugos than cacopos
+
+260
+00:24:20,720 --> 00:24:25,360
+ now i'm transitioned to thinking this is very funny and if we can get a ratified that increases
+
+261
+00:24:25,360 --> 00:24:31,600
+ the number of hugos by three in three years and and that would be that would really like if if
+
+262
+00:24:31,600 --> 00:24:35,440
+ if that makes people angry enough to sort out online participation with the business meeting
+
+263
+00:24:35,440 --> 00:24:41,280
+ which I repeat should be a doggle uh then we can just do this and that'll be good but they're
+
+264
+00:24:41,280 --> 00:24:46,160
+ trying to actively prevent it they're actually going further in the other direction so you know
+
+265
+00:24:46,160 --> 00:24:52,880
+ everyone go to the business meeting at Glasgow and propose to ratify have you reversed your
+
+266
+00:24:52,880 --> 00:24:57,360
+ position completely in the last five minutes of the podcast because if you have yes because if
+
+267
+00:24:57,360 --> 00:25:03,600
+ ratifying these two makes the nerds angry enough that they finally open up the business meeting online
+
+268
+00:25:03,600 --> 00:25:10,640
+ that is a concrete win no they won't no no they won't and then and then we just propose ever more
+
+269
+00:25:10,640 --> 00:25:16,640
+ bizarre things when the world comes not in North America best fresh language film
+
+270
+00:25:16,640 --> 00:25:23,840
+ yes when it's in nieced best film involving a man who surfs and lives in a landlocked city
+
+271
+00:25:23,840 --> 00:25:29,920
+ yeah okay anyway thank you for bringing this to our attention Liz this is sparking lots of joy
+
+272
+00:25:29,920 --> 00:25:36,160
+ convention time bracket was amended to replace preferably between first august to the 30th of
+
+273
+00:25:36,160 --> 00:25:43,120
+ september we and past as amended that's just to say no more discons isn't it no more christmas
+
+274
+00:25:43,120 --> 00:25:48,080
+ worldcon well I think this come would have been all right because it's not quite that late but
+
+275
+00:25:48,080 --> 00:25:54,800
+ yeah it's all kind of like it's it's nitpicking things and cleaning them up yeah I mean there are
+
+276
+00:25:54,800 --> 00:26:00,480
+ other things that passed some of which are quite sensible basically the thing about works appearing
+
+277
+00:26:00,480 --> 00:26:06,000
+ in a language other english being eligible um in the year its first issued in english has been
+
+278
+00:26:06,000 --> 00:26:12,720
+ tweaked because it makes more sense to not say english but say the language of the convention
+
+279
+00:26:12,720 --> 00:26:17,920
+ that year because otherwise you kind of block I think this would actually have blocked some
+
+280
+00:26:17,920 --> 00:26:25,120
+ things which came out in translation but came out you know in in in tina in a particular year like
+
+281
+00:26:25,120 --> 00:26:28,800
+ there was some edge case that they wanted to fix and it sounds like this went to committee and
+
+282
+00:26:28,800 --> 00:26:33,600
+ they did something sensible and that and they fixed it so we'll go with that does it basically
+
+283
+00:26:33,600 --> 00:26:38,800
+ add the language of the hosting convention and english or is it does it replace english with
+
+284
+00:26:38,800 --> 00:26:42,960
+ the language of the hosting convention it replaces english with the language of the countries of
+
+285
+00:26:42,960 --> 00:26:47,520
+ the administering and previous year worldcon and here it is just today translated to a main
+
+286
+00:26:47,520 --> 00:26:51,040
+ language of the country the ministry in previous year worldcon I think it covers things that were
+
+287
+00:26:51,040 --> 00:26:56,160
+ published in english and then translated into chinese not being eligible in the year they could
+
+288
+00:26:56,160 --> 00:27:01,120
+ be read by them what what it means is so like obviously this year it would have been fine the
+
+289
+00:27:01,120 --> 00:27:05,200
+ thing i would say would have been fine because it went chicago chenghu so that's english and chinese
+
+290
+00:27:05,200 --> 00:27:10,080
+ what it would mean is that if last year it had been held in france and this year was in chenghu
+
+291
+00:27:10,080 --> 00:27:14,160
+ any chinese language science fiction that had only just been translated into english wouldn't
+
+292
+00:27:14,160 --> 00:27:20,240
+ have been eligible and that feels like a shame to me because a lot of the voters are still reading
+
+293
+00:27:20,240 --> 00:27:25,520
+ in english and so i do think that building in support for works which are translated into
+
+294
+00:27:25,520 --> 00:27:31,600
+ english in the year of the worldcon does make more international works eligible for the award
+
+295
+00:27:31,600 --> 00:27:36,800
+ which i think probably benefit international science fiction more than removing that does
+
+296
+00:27:36,800 --> 00:27:40,640
+ so from the perspective of having more international stuff on the ballot i kind of wish they hadn't
+
+297
+00:27:40,640 --> 00:27:45,840
+ gone that way but maybe i'm wrong i don't know it's a very nitpicky point because it will
+
+298
+00:27:45,840 --> 00:27:51,040
+ i think i haven't i think i haven't quite got my head around this because it changes the language
+
+299
+00:27:51,040 --> 00:27:55,440
+ requirement but also changes the works immediately published outside the usa to
+
+300
+00:27:55,440 --> 00:27:59,600
+ countries of the ministering and previous it will come again i think i'll need to
+
+301
+00:27:59,600 --> 00:28:05,200
+ really sit down and think about it that's interesting yeah because that means that like
+
+302
+00:28:05,200 --> 00:28:11,200
+ if something had been published in if it had been london then chengdu well and it's about to be
+
+303
+00:28:11,200 --> 00:28:18,080
+ chengdu then glasgo so anything that's published in the us for the first time in 2024 won't be eligible
+
+304
+00:28:18,080 --> 00:28:24,320
+ and it would used to have been if this would if this had already been ratified so i i think
+
+305
+00:28:24,320 --> 00:28:29,440
+ this is a well-meaning amendment that on the face of it seeks to make the constitution less
+
+306
+00:28:29,440 --> 00:28:36,480
+ parochial but i think will probably actually make it more parochial by by basically meaning that
+
+307
+00:28:36,480 --> 00:28:41,760
+ a america fans can't vote for things that haven't made it big in america yet i think it's designing
+
+308
+00:28:41,760 --> 00:28:45,440
+ language for the worldcon we wish we had rather than the worldcon we actually have and i think
+
+309
+00:28:45,440 --> 00:28:50,080
+ that's very laudable but this all still just gives stuff an extra year of eligibility it doesn't
+
+310
+00:28:50,080 --> 00:28:55,440
+ mean it's not eligible it just gives it an extra year based on slightly different criteria right
+
+311
+00:28:55,440 --> 00:29:00,320
+ i think maybe we should hold this over and really i need to think about the different you know this
+
+312
+00:29:00,320 --> 00:29:06,160
+ was published here in this year in this situation and we can discuss that asfic another time asfic
+
+313
+00:29:06,160 --> 00:29:11,680
+ can fuck off that's my opinion yeah i just like the idea of it be called asfic well because i do
+
+314
+00:29:11,680 --> 00:29:17,920
+ want to say i think ispania is right about asfic it's time for ispania's opinion
+
+315
+00:29:17,920 --> 00:29:22,720
+ dah dah dah dah dah dah jingle ispania has always pointed out the reason that nazphic is codified
+
+316
+00:29:22,720 --> 00:29:27,200
+ in the waspus constitution is that if the worldcon is held outside the us and that means that the
+
+317
+00:29:27,200 --> 00:29:31,520
+ main convention which is often held in the us is not in the us that incentivizes us fans to vote
+
+318
+00:29:31,520 --> 00:29:36,320
+ against foreign world cons and the reason that nazphic is in the constitution is so that you don't
+
+319
+00:29:36,320 --> 00:29:42,240
+ have an incentive for north american fans to vote against non-north american world cons and so that
+
+320
+00:29:42,240 --> 00:29:47,840
+ provision is there mostly to encourage there to be world cons outside north america which is another
+
+321
+00:29:47,840 --> 00:29:53,840
+ example of how what looks like on the face of it a pro-keel provision in the constitution is actually
+
+322
+00:29:53,840 --> 00:29:59,600
+ acting to try to make the organization less pro-keel if we had like a truly egalitarian society we
+
+323
+00:29:59,600 --> 00:30:03,360
+ wouldn't need any of our affirmative action policies because all of the jobs would go to the best
+
+324
+00:30:03,360 --> 00:30:07,840
+ people regardless of like gender or ethnicity but because we do not have a truly egalitarian
+
+325
+00:30:07,840 --> 00:30:11,600
+ society we have to have lots of very tedious things that like try and make it more egalitarian
+
+326
+00:30:11,600 --> 00:30:17,040
+ yes so you're saying that american fandom is even more pro-keel than we had thought
+
+327
+00:30:17,040 --> 00:30:24,560
+ no i'm i'm saying i'm saying that you need to incentivize the behavior you want to see in your
+
+328
+00:30:24,560 --> 00:30:30,720
+ society i think not incentivizing that and crossing your fingers you get it anyway is a bad way of
+
+329
+00:30:30,720 --> 00:30:34,880
+ going about these things no that's often fine but i mean if you're saying that the reason the
+
+330
+00:30:34,880 --> 00:30:42,640
+ nazphic is encoded is embodied in the constitution is to discourage american fans from voting against
+
+331
+00:30:42,640 --> 00:30:48,800
+ foreign world cons which they would do otherwise um that's basically saying oh we accept that american
+
+332
+00:30:48,800 --> 00:30:55,600
+ fandom is ossley xenophobic and we've had to do something to deal with it no that's that's bullshit
+
+333
+00:30:55,600 --> 00:30:59,200
+ you told me you weren't going to see janelle mene and manchester because you couldn't be
+
+334
+00:30:59,200 --> 00:31:03,440
+ asked to go to manchester and she should play in london thank you it is exactly the same thing
+
+335
+00:31:03,440 --> 00:31:07,840
+ people tend to go to things they can go to and voting for the thing you can go to or the thing
+
+336
+00:31:07,840 --> 00:31:12,320
+ you can't i don't think it's unfair to vote for the thing you can go to for much the same way
+
+337
+00:31:12,320 --> 00:31:17,200
+ that if there's like well i mean firstly there's vanished been vanishingly few eastercoms in whales
+
+338
+00:31:17,200 --> 00:31:21,120
+ on northern island which is partly due to venues but also partly because there are bugger for most
+
+339
+00:31:21,120 --> 00:31:28,240
+ eastercom attendees to get to it's 100% to do with venues and zero potential you know lots of people
+
+340
+00:31:28,240 --> 00:31:34,880
+ have tried this multiple times it is not 100 to 0 i will guarantee you that i so put it this way
+
+341
+00:31:34,880 --> 00:31:40,800
+ if they ever said let's have the eastercon at the um at that hotel that novicon uses i would vote
+
+342
+00:31:40,800 --> 00:31:44,240
+ against it because i don't want to have to go to buckston because it's ages away and i don't think
+
+343
+00:31:44,240 --> 00:31:50,560
+ that makes me xenophobic i think incentivizing the behaviors you want to see is sensible do we think
+
+344
+00:31:50,560 --> 00:31:58,000
+ the nazvik really incentivizes people anymore well no i don't think it does nail but i definitely
+
+345
+00:31:58,000 --> 00:32:04,000
+ think there was a period for a long time where that did work in the right way and so it might be
+
+346
+00:32:04,000 --> 00:32:10,560
+ time now to get rid of it but i think a lot of the discussion about this ignores ignores how
+
+347
+00:32:10,560 --> 00:32:17,120
+ things used to be and how they have changed for the better um but i do i do think having metrics
+
+348
+00:32:17,120 --> 00:32:21,520
+ like the constitution has always sought to make sure that the constitution can't just stay
+
+349
+00:32:21,520 --> 00:32:26,240
+ so sorry that the convention can't just stay in one place and that it has to travel and i think
+
+350
+00:32:26,240 --> 00:32:31,520
+ the nazvik is part of that attempt to force it to travel and so like i'm not saying it should
+
+351
+00:32:31,520 --> 00:32:36,560
+ still be there because i do think at this point the world con has become properly i mean maybe this
+
+352
+00:32:36,560 --> 00:32:41,360
+ is just my bias as like someone who's only come into it sort of in the last sort of 15 years but
+
+353
+00:32:41,360 --> 00:32:47,120
+ it seems to me like it's much more international that was like in the past and i would be surprised
+
+354
+00:32:47,120 --> 00:32:52,320
+ if that went backwards again and i think it's probably slightly more fragile when you think i think
+
+355
+00:32:52,320 --> 00:32:57,680
+ the cost of getting around the world is going to shock a lot of people over the next few years
+
+356
+00:32:57,680 --> 00:33:03,040
+ klaska is going to be a real wake-up call well that's the other thing right as as travel was getting
+
+357
+00:33:03,040 --> 00:33:07,520
+ cheaper i think the nazvik became less and less relevant but now now travel is getting more
+
+358
+00:33:07,520 --> 00:33:14,560
+ expensive again post pandemic i do wonder whether you're right and it's often very it's very alluring
+
+359
+00:33:14,560 --> 00:33:20,080
+ i think to think oh i've won the argument i can stop worrying about this but so in general i don't
+
+360
+00:33:20,080 --> 00:33:23,760
+ support the waspus implementing asvick because i think it's cultural appropriation that wouldn't
+
+361
+00:33:23,760 --> 00:33:29,360
+ do anything to help the world travel worldwide which is but that that's to say that's not in contrast
+
+362
+00:33:29,360 --> 00:33:35,440
+ with my opinion that likes the fact the nazvik is in the constitution i actually do think it might
+
+363
+00:33:35,440 --> 00:33:40,560
+ be important that the nazvik is properly codified in the constitution despite the fact it looks
+
+364
+00:33:40,560 --> 00:33:45,200
+ pro-kill and and that's why i have that opinion about the previous thing liz was talking about was
+
+365
+00:33:45,200 --> 00:33:50,160
+ because i also wonder whether that's something that looks pro-kill but removing it will actually
+
+366
+00:33:50,160 --> 00:33:54,000
+ work in the opposite way to what people think it will and this is something that worries me
+
+367
+00:33:54,000 --> 00:34:00,480
+ sometimes when we have these these discussions i think hopefully that's all useful and reasonable
+
+368
+00:34:00,480 --> 00:34:04,560
+ insight and not just the wafflings of a lunatic could go either way though couldn't it
+
+369
+00:34:04,560 --> 00:34:12,960
+ i think we should do asvick at a different time asvick asvick nazvik and also it's got changed so i
+
+370
+00:34:12,960 --> 00:34:17,680
+ think we should yeah probably hold over some of this until we can properly discuss it so it might
+
+371
+00:34:17,680 --> 00:34:20,800
+ have been a bit of a waste of time but just because i think there'll be a full business meeting
+
+372
+00:34:20,800 --> 00:34:26,240
+ report an asvick is now like also generalized to regional stuff not just ajour anymore but i can
+
+373
+00:34:26,240 --> 00:34:31,520
+ see why again i can see why someone submitted it you're like why is there a nazvik why does a nazvik
+
+374
+00:34:31,520 --> 00:34:37,600
+ exist why don't we have one no yeah no exactly exactly yeah i i think that's right i i think
+
+375
+00:34:38,240 --> 00:34:44,080
+ this could be a long discussion yes we we will come back to this on future episodes listeners
+
+376
+00:34:44,080 --> 00:34:49,440
+ if you have opinions right in yeah um somebody something else that people have said on
+
+377
+00:34:49,440 --> 00:34:55,040
+ about apodcasters that we talk about world cons way too much so that's the thing we did just have
+
+378
+00:34:55,040 --> 00:35:00,240
+ one well i mean it's difficult it's it i mean that's a difficult criticism to respond to the
+
+379
+00:35:00,240 --> 00:35:06,000
+ episode that happened right after world con isn't it i haven't even done hugo stats yet because we
+
+380
+00:35:06,000 --> 00:35:10,320
+ don't have the hugos that's it yeah i did we can't do hugo stats the one thing i did want to do that
+
+381
+00:35:10,320 --> 00:35:18,880
+ we haven't mentioned yet is site selection voting because they were 168 ballots cast wow yeah that's
+
+382
+00:35:18,880 --> 00:35:24,400
+ not many it's not knowing we were some contestants and no one could be bothered when also it was
+
+383
+00:35:24,400 --> 00:35:30,320
+ really hard to vote that's not why it was it was no harder than usual to vote from like well it was
+
+384
+00:35:30,320 --> 00:35:35,120
+ harder than it was harder than in the years that they've managed to implement online voting but it
+
+385
+00:35:35,120 --> 00:35:41,200
+ wasn't i'd say it was easier than the health sinky vote which is only about well eight years ago
+
+386
+00:35:41,200 --> 00:35:46,080
+ that was hard vote yeah but there was a reason to vote for health sinky because it was yeah multi-way
+
+387
+00:35:46,080 --> 00:35:50,960
+ contested i guess what i mean is it's an uncontested year and it was harder to vote than it could have
+
+388
+00:35:50,960 --> 00:35:55,920
+ been and i it's slightly harder than it could have been pdf scribbling a pdf to send it to hell
+
+389
+00:35:55,920 --> 00:36:02,400
+ and Montgomery i think was the way you think who then printed off your ballot without looking at it
+
+390
+00:36:02,400 --> 00:36:09,120
+ and put it in a sealed envelope and took it to China with her um yes and the face palm emoji you have
+
+391
+00:36:09,120 --> 00:36:14,640
+ just demonstrated is how i feel about this i don't know that wasn't a face palm that was me pretending
+
+392
+00:36:14,640 --> 00:36:19,680
+ to be Helen covering my eyes as i was printing out the ballots don't look don't look don't look
+
+393
+00:36:19,680 --> 00:36:24,080
+ but in fact i voted i very have to say that i voted for Seattle what do you think it was though
+
+394
+00:36:24,080 --> 00:36:30,720
+ Alison Seattle was not offering a discount for voters which is why the vote count is so low had i
+
+395
+00:36:30,720 --> 00:36:37,920
+ known that i would not have voted so there we go i feel like i put a lot of work into voting that was
+
+396
+00:36:37,920 --> 00:36:44,800
+ not a lot of work but slightly more work than maybe necessary into voting that that wasn't really
+
+397
+00:36:44,800 --> 00:36:50,080
+ very much rewarded and they did it because they thought that generating a vote would involve
+
+398
+00:36:50,080 --> 00:36:55,680
+ giving people's details to China and some people didn't want to do that so they made a direct decision
+
+399
+00:36:55,680 --> 00:37:00,400
+ i believe not to have a voting discount you couldn't because you had to get a membership in Chengdu
+
+400
+00:37:00,400 --> 00:37:04,960
+ to buy the site section token but i wonder whether they could have solved it by saying we'll offer a
+
+401
+00:37:04,960 --> 00:37:10,080
+ voting discount or a pre-support discount i wonder if they could have sold like some pre-support tier
+
+402
+00:37:10,080 --> 00:37:13,520
+ which converted into a supporting membership in the same way that a vote would have done
+
+403
+00:37:13,520 --> 00:37:19,600
+ because the thing is that i guess the reason i say that is that they're not they don't have
+
+404
+00:37:19,600 --> 00:37:26,000
+ much money then like what's 185 times 20 like i i think if i was them i would have thought quite
+
+405
+00:37:26,000 --> 00:37:30,800
+ carefully about how i was going to replace that revenue stream because it doesn't seem like an
+
+406
+00:37:30,800 --> 00:37:36,800
+ obviously good thing to incentivize people not to join so i might have thought about how to
+
+407
+00:37:36,800 --> 00:37:42,240
+ incentivize people to join but you know i've never run a world con so who knows a lot of people
+
+408
+00:37:42,240 --> 00:37:49,600
+ will join now right and also i'm a sucker who voted i did not vote i think people will join now
+
+409
+00:37:49,600 --> 00:37:56,720
+ but also there have been issues with getting like pre-supports and money around to because of
+
+410
+00:37:56,720 --> 00:38:01,840
+ tend to get them into Chengdu right and they had to set up like a holding company in the US so
+
+411
+00:38:01,840 --> 00:38:06,560
+ it may be that all the finances are just weird and also that some pass along that couldn't get to
+
+412
+00:38:06,560 --> 00:38:12,400
+ Chengdu because of logistical issues may now pass on to Glasgow and Seattle it might be that they
+
+413
+00:38:12,400 --> 00:38:17,600
+ know what they're doing and they've got new branding which is no longer which is no longer
+
+414
+00:38:17,600 --> 00:38:24,800
+ riffing off a major corporations logo that's probably a good a good thing yeah i mean i did like the
+
+415
+00:38:24,800 --> 00:38:31,040
+ it was cute yeah i would say it's time for it's time for his spani is opinion
+
+416
+00:38:31,040 --> 00:38:38,080
+ da da da da jingle um so his family was happy about the guests of honor she says Bridget Landry
+
+417
+00:38:38,080 --> 00:38:46,320
+ is a good value space and cosplay guest and is a regular at los cons and Alexander James Adams
+
+418
+00:38:46,320 --> 00:38:52,720
+ is a bay con uh was a bay con guest and is a noted fillker apparently so she is very excited for both
+
+419
+00:38:52,720 --> 00:38:59,760
+ of those people um the other guests are nissy shawl k-tempoest bradford denato jian cola and
+
+420
+00:38:59,760 --> 00:39:05,040
+ martha wells so it does seem like a good seems like a good ballad something for everyone perhaps
+
+421
+00:39:05,040 --> 00:39:10,240
+ um i'm excited about you know quite a few of those guests so who are and i might go to Seattle because
+
+422
+00:39:10,240 --> 00:39:15,200
+ i like Seattle although i might also not because i might be poor we'll see
+
+423
+00:39:15,200 --> 00:39:26,240
+ and now it's time for picks uh it's been ages since we did our last picks uh i think you're both
+
+424
+00:39:26,240 --> 00:39:36,400
+ agree so i am going to pick i'm going to pick a movie i'm going to pick the movie halloween
+
+425
+00:39:36,400 --> 00:39:41,200
+ by john carpenter which i watched for the first time so this is a slightly delayed
+
+426
+00:39:41,200 --> 00:39:46,480
+ belated pick but this is the first episode post halloween uh so it seems relevant
+
+427
+00:39:46,480 --> 00:39:50,560
+ it's fanny and i have a rule that during october all of the films we watch have to be horror so
+
+428
+00:39:50,560 --> 00:39:54,320
+ we went to watch for friday the 13th on friday the 13th which was great and then we watch halloween
+
+429
+00:39:54,320 --> 00:40:00,000
+ halloween is amazing a young jamelee kurtis absolutely smashing it out of the park uh in every way
+
+430
+00:40:00,640 --> 00:40:06,560
+ genuinely scary and unsettling just yeah really enjoyed it and i also enjoyed the trivia that
+
+431
+00:40:06,560 --> 00:40:13,760
+ ispania delighted in telling me that the mask that the main antagonist wears uh was basically
+
+432
+00:40:13,760 --> 00:40:19,280
+ the cheapest mask they could find at the local um store spray painted white and it turns out the
+
+433
+00:40:19,280 --> 00:40:26,480
+ cheapest mask was a william shatnam mask so under his terrifying visage there is a terrifying
+
+434
+00:40:26,480 --> 00:40:35,440
+ visage good good movie uh obviously not if you don't like horror but john carpenter um just
+
+435
+00:40:35,440 --> 00:40:41,200
+ obviously a fantastic director and uh really good really good film we watched it on lion's
+
+436
+00:40:41,200 --> 00:40:47,520
+ gate plus oh god is that another thing to subscribe to yeah we only survived for a month we tried
+
+437
+00:40:47,520 --> 00:40:52,080
+ watching on pluto tv but firstly it had adverts and i don't know if you know this adverts detract
+
+438
+00:40:52,080 --> 00:40:57,040
+ from the sense of terror in a horror movie like you know premiere in and it's like that is quite
+
+439
+00:40:57,040 --> 00:41:03,680
+ terrifying but not in the same way uh and also there were no subtitles and uh and i really i was
+
+440
+00:41:03,680 --> 00:41:08,400
+ willing to pay five pounds to be able to work out what the dialogue was uh because for those who
+
+441
+00:41:08,400 --> 00:41:13,680
+ don't listen regularly i am slightly deaf i like a good premiere here i put one for glasco no
+
+442
+00:41:13,680 --> 00:41:18,800
+ premiere ends are good it was a cheap joke i am also in a premiere in for glasco cheap joke at
+
+443
+00:41:18,800 --> 00:41:24,800
+ the expense of premiering are we all in the same premiere in for glasco i think the premiere in
+
+444
+00:41:24,800 --> 00:41:30,560
+ a gla yeah basically liz allison and i have a rule that whatever hotel we stay in for a convention
+
+445
+00:41:30,560 --> 00:41:35,680
+ must match the octa thought logo and so we are all obviously in the premiere in which is naturally
+
+446
+00:41:35,680 --> 00:41:42,480
+ purple how did the heart regency how did the heart regency match the octa thought logo i spray
+
+447
+00:41:42,480 --> 00:41:48,720
+ baneid it purple oh that explains it don't worry boo i got you john is just making a
+
+448
+00:41:48,720 --> 00:41:57,040
+ cheap joke a cheap joke a lot of them today um liz what's your pick my pick is a tv show that i
+
+449
+00:41:57,040 --> 00:42:02,160
+ largely watched on a plane just breaking allison sort of watching things on planes uh it is poker
+
+450
+00:42:02,160 --> 00:42:09,840
+ face starring natechelyon and created by natechelyon and ryan johnson of you know glass onion fame etc
+
+451
+00:42:10,720 --> 00:42:14,880
+ um it's really good what streaming services at all i was on it was on a plane
+
+452
+00:42:14,880 --> 00:42:19,520
+ i will do a google but i think the answer might be yarr
+
+453
+00:42:19,520 --> 00:42:27,360
+ i really wanted to watch this because because natechelyon is like a murder mystery series about
+
+454
+00:42:27,360 --> 00:42:33,440
+ a woman who has a psychic ability right liz yeah she knows when people are lying nice which is
+
+455
+00:42:33,440 --> 00:42:38,800
+ great but she's essentially like she's not operating you know as a law enforcement officer
+
+456
+00:42:38,800 --> 00:42:43,280
+ anything she's basically operating i don't want to give too many spoilers but basically she's
+
+457
+00:42:43,280 --> 00:42:47,520
+ operating outside this and trying not to attract the attention of law enforcement and also it's
+
+458
+00:42:47,520 --> 00:42:52,560
+ really clever with how it uses a gift because she can't literally go up to people a lot the time
+
+459
+00:42:52,560 --> 00:42:57,600
+ and say oh you're lying or you know sometimes she picks people up because they've done like a trivial
+
+460
+00:42:57,600 --> 00:43:02,480
+ lie and sometimes people do trivial white lies for all kinds of reasons but sometimes they're
+
+461
+00:43:02,480 --> 00:43:07,280
+ doing a trivial lie because it's actually covering up that they committed a murder and it spends a
+
+462
+00:43:07,280 --> 00:43:14,400
+ lot of time in each episode kind of setting up the other characters in the show around
+
+463
+00:43:14,400 --> 00:43:18,160
+ a tashley aunt she's basically a different place every week and it's setting up kind of that that
+
+464
+00:43:18,160 --> 00:43:24,080
+ weeks cast and and murderer and murder victim and supporting cast and they're all really great and
+
+465
+00:43:24,080 --> 00:43:30,480
+ there's some amazing like guest actors in there as well i'm looking at like the list of
+
+466
+00:43:30,480 --> 00:43:36,800
+ Wikipedia Ron Perlman, John Ratzenberger, who's the other one i saw that i thought was great,
+
+467
+00:43:36,800 --> 00:43:42,880
+ Nick Noltee, Joseph Gordon Levitt, like yeah that is some Rhea Perlman who doesn't get enough work
+
+468
+00:43:42,880 --> 00:43:48,160
+ Tim Blake Nelson, yes! Jamey Lidrimet, I'm going to stop reading names now Liz and let you get
+
+469
+00:43:48,160 --> 00:43:55,280
+ back to your segment. I am also going to say for the benefit of listeners sky, sky and now tv
+
+470
+00:43:55,920 --> 00:44:02,640
+ is how you can watch it in the UK. So for that month that you decide it's worth taking now tv
+
+471
+00:44:02,640 --> 00:44:07,760
+ that's the thing to watch. And there's 10 episodes all about an hour long there is a kind of overarching
+
+472
+00:44:07,760 --> 00:44:12,960
+ plot in kind of that you know the last episode refers back to the first and sets it up for like
+
+473
+00:44:12,960 --> 00:44:16,400
+ the next series i think there will be a future series yeah you should just go and watch it it's
+
+474
+00:44:16,400 --> 00:44:21,920
+ good. Yeah the tashley aunts very good. Alison, at the time of release you're back from your
+
+475
+00:44:21,920 --> 00:44:30,160
+ golf trip you've had loads of time to watch films and movies what's your pick? My pick this week is
+
+476
+00:44:30,160 --> 00:44:36,960
+ New Zealand. Hey! New Zealand is a country it's it's very attractive it's full of
+
+477
+00:44:36,960 --> 00:44:42,880
+ lovely and interesting wildlife and lovely people and you should definitely go there and visit there
+
+478
+00:44:42,880 --> 00:44:47,200
+ and i was there for about 10 days and i had a brilliant time and i would strongly recommend
+
+479
+00:44:48,720 --> 00:44:54,080
+ New Zealand yes um do i need to say any more about it it's on the other side of the world it's
+
+480
+00:44:54,080 --> 00:44:58,240
+ quite a bit to get to unless you're already in New Zealand in which case it's right there.
+
+481
+00:44:58,240 --> 00:45:02,800
+ Yeah but in that case we really are fansplaining to New Zealanders about New Zealand aren't we?
+
+482
+00:45:02,800 --> 00:45:08,000
+ Like have you heard of this place called New Zealand? Yeah yeah it's good.
+
+483
+00:45:08,000 --> 00:45:15,760
+ At some point there will be more reportage of New Zealand after i've had some sleep.
+
+484
+00:45:15,760 --> 00:45:21,760
+ So at the moment my all my reportage is in like huge piles of notes most of which have been delivered
+
+485
+00:45:21,760 --> 00:45:29,200
+ in in the form of text to Claire Bralley and also some to my husband and to other people.
+
+486
+00:45:29,200 --> 00:45:33,920
+ I don't know John, have I texted you at all? Probably not much. People have had a few texts
+
+487
+00:45:33,920 --> 00:45:39,120
+ and and i've got to collect all this stuff. I've been trying not to text you too much because i'm
+
+488
+00:45:39,120 --> 00:45:44,560
+ worried i'm interrupting your lovely time. You won't because i just i just only look at my phone
+
+489
+00:45:44,560 --> 00:45:51,360
+ but i have time to it's all right. That's fair. As Alison said last episode there's nothing quite
+
+490
+00:45:51,360 --> 00:45:57,200
+ i've never done anything before since that was quite like my TAFT trip and it is the only people
+
+491
+00:45:57,200 --> 00:46:03,200
+ who really get it. I think other people who have done it. I should say that i have not found a life
+
+492
+00:46:03,200 --> 00:46:08,720
+ partner on this guff trip i just want to make this clear. I mean Stephen's going to be given that
+
+493
+00:46:08,720 --> 00:46:14,560
+ you were with Stephen for three weeks. I took one with me. We had one day off
+
+494
+00:46:14,560 --> 00:46:19,920
+ Stephen travel with me for three weeks. We had one day off guff where we kind of sat around
+
+495
+00:46:19,920 --> 00:46:27,040
+ circular key and at dinner with like the the Sydney Opera House and the and the Harbor Bridge and
+
+496
+00:46:27,040 --> 00:46:32,960
+ and kind of said how we'll celebrate our 25th wedding anniversary because fun fact our actual
+
+497
+00:46:32,960 --> 00:46:39,360
+ 25th wedding anniversary is tomorrow we're going to be well it's today now apparently but not for him.
+
+498
+00:46:39,360 --> 00:46:45,600
+ We're going to be 12,000 miles apart which is almost as far apart as you can get without
+
+499
+00:46:45,600 --> 00:46:51,120
+ actually going off planet and that was the Octa Thought podcast and it's goodbye from me.
+
+500
+00:46:51,120 --> 00:47:01,600
+ It's goodbye from me and it's goodbye from me.
+
+501
+00:47:01,600 --> 00:47:29,040
+ The theme music for this episode was Fanfare for Space by Kevin McLeod in Com
+
+502
+00:47:29,040 --> 00:47:39,040
+ [Silence]
+

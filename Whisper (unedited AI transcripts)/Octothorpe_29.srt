@@ -1,0 +1,2980 @@
+1
+00:00:00,000 --> 00:00:07,680
+ Before we get started, we'd just like to congratulate Phil Dyson and his team for being
+
+2
+00:00:07,680 --> 00:00:14,080
+ the seated Eastercon. Reclamation 2022 will be our next British National Science
+
+3
+00:00:14,080 --> 00:00:19,040
+ Fixing Convention and you can go and join now. There is a link in the show notes.
+
+4
+00:00:19,040 --> 00:00:23,920
+ Alison appears to now be eating a bagel with jam on.
+
+5
+00:00:24,480 --> 00:00:30,160
+ There is a long explanation for this. Is it that Steven toasted a bagel and put jam on it?
+
+6
+00:00:30,160 --> 00:00:37,360
+ That's like the last 8% of the long explanation. So if you'd like the rest of it, you can have it,
+
+7
+00:00:37,360 --> 00:00:42,240
+ but we do have a lot to get through. If you want the other 92% of that anecdote,
+
+8
+00:00:42,240 --> 00:00:46,080
+ please come to Octa Thought Live, which will be on 25th April 2021.
+
+9
+00:00:46,080 --> 00:00:49,200
+ And when we will have nothing to talk about in fandom.
+
+10
+00:00:49,200 --> 00:01:00,880
+ [Music]
+
+11
+00:01:00,880 --> 00:01:08,640
+ Hello everyone and welcome to the 29th episode of Octa Thought. A podcast for science fiction and
+
+12
+00:01:08,640 --> 00:01:16,160
+ science fiction fandom. This episode will be going out on the 15th of April 2021. I'm John Coxon.
+
+13
+00:01:16,160 --> 00:01:21,840
+ I'm Alison Scott and I'm Liz Batty. Today we have two letters of comments,
+
+14
+00:01:21,840 --> 00:01:27,440
+ which is probably because it was Eastercon in between last episode and this episode. And so
+
+15
+00:01:27,440 --> 00:01:31,120
+ people have been busy partying and conventioning and other things.
+
+16
+00:01:31,120 --> 00:01:35,520
+ I would like to say that one of the things that happened at Eastercon is that people
+
+17
+00:01:35,520 --> 00:01:40,560
+ kept coming up to us as saying that they were enjoying the podcast and they thought it was good,
+
+18
+00:01:40,560 --> 00:01:44,960
+ including people that we had had no idea were listening to it at all. So if you're out there,
+
+19
+00:01:44,960 --> 00:01:49,600
+ A, thank you very much. And B, this does not prevent you from writing us letters.
+
+20
+00:01:49,600 --> 00:01:55,840
+ Yes, thank you very much for the compliments, but why don't you write to us? We're very needy.
+
+21
+00:01:55,840 --> 00:02:00,240
+ Now, and there were actually quite a few people who said that they had not realised we were doing
+
+22
+00:02:00,240 --> 00:02:05,200
+ a podcast and have now started listening, which is kind of pleasing because I assumed that, you
+
+23
+00:02:05,200 --> 00:02:11,040
+ know, we had hit our absolutely peak listenership. So it is bewildering that apparently we had not.
+
+24
+00:02:11,680 --> 00:02:19,360
+ But DC wrote to us and said that they were feeling sad at the lack of opportunity at
+
+25
+00:02:19,360 --> 00:02:24,480
+ Eastercon to acquire delicious bits of chocolate late at night from Malcolm. And so they have
+
+26
+00:02:24,480 --> 00:02:32,640
+ attached a photograph of nine bars of lint chocolate to an email to us. And I am very jealous because
+
+27
+00:02:32,640 --> 00:02:38,480
+ I had Reese's peanut butter eggs for my Eastercon experience, which were great, but were not nine
+
+28
+00:02:38,480 --> 00:02:44,240
+ bars of lint chocolate. One of the things about lockdown is that my husband has to service a
+
+29
+00:02:44,240 --> 00:02:51,760
+ greater variety of needs than he might have been required to in pre pandemic time. Family show,
+
+30
+00:02:51,760 --> 00:02:59,360
+ Alison, family show. So as well as his normal requirement to provide me with an Easter egg
+
+31
+00:02:59,360 --> 00:03:06,480
+ over Easter, I let it be known before Easter that it would be very helpful if he also had a number of
+
+32
+00:03:06,480 --> 00:03:14,080
+ boxes of slightly cheap chocolate of the sort that Michael Amorthan's round and also a number of
+
+33
+00:03:14,080 --> 00:03:21,920
+ bars of the sort of chocolate that Malcolm Hutchison hands round to hand and provided me with some
+
+34
+00:03:21,920 --> 00:03:27,920
+ single variety, a couple of different single variety of chocolate. So they were very nice. So thank
+
+35
+00:03:27,920 --> 00:03:32,720
+ you very much, Steve, and you're your age. But this is what I'd recommend. We did go through
+
+36
+00:03:32,720 --> 00:03:37,840
+ Eastercon ago. What does what things do we normally have that had heart-sire Eastercon that we won't
+
+37
+00:03:37,840 --> 00:03:42,880
+ be getting unless we get them ourselves in advance? DC also says in the West Ring reference that they
+
+38
+00:03:42,880 --> 00:03:48,160
+ see me more as a Josh, but that's mainly because they envision me wearing little more than waders
+
+39
+00:03:48,160 --> 00:03:55,040
+ and bleerily asking what's happening. So thanks, DC. Much appreciated. And then they also say best
+
+40
+00:03:55,040 --> 00:04:01,600
+ wishes for the live podcast of OptaThorp, the tech that works. So yes, thanks, DC. We are going to be
+
+41
+00:04:01,600 --> 00:04:06,880
+ doing our live episode next episode, which will be on the 25th of April 2021.
+
+42
+00:04:06,880 --> 00:04:10,560
+ I don't think I have much to add except that obviously John, any time you would like to
+
+43
+00:04:10,560 --> 00:04:15,280
+ answer the podcast wearing only waders. That is totally fine with us. Please don't.
+
+44
+00:04:15,280 --> 00:04:21,760
+ Two very different opinions from my co-hosts on that, interestingly.
+
+45
+00:04:21,760 --> 00:04:27,680
+ And I would also like to highlight DC's tweet to us where they say they're still unconsciously
+
+46
+00:04:27,680 --> 00:04:33,360
+ saying Pete along with John at the end of the podcast. So listeners, you can all join in at home.
+
+47
+00:04:33,360 --> 00:04:41,200
+ Yes. And then other people who tweeted at us were Peter Sullivan, who agrees that having an
+
+48
+00:04:41,200 --> 00:04:46,800
+ overarching ed of communications for a convention is a good thing. Thanks, Peter. I'm glad you think so.
+
+49
+00:04:46,800 --> 00:04:52,400
+ And also volunteered, which is obviously a dangerous thing to do in here sort of John right now.
+
+50
+00:04:53,040 --> 00:05:00,720
+ That is true. That's very true. Jersey Griffin tweeted at us to say ambassador with these
+
+51
+00:05:00,720 --> 00:05:07,120
+ episodes who are really spoiling us, which I think is a chocolate reference. And when tweeted at us
+
+52
+00:05:07,120 --> 00:05:10,640
+ to say that they've just started listening to our podcast, and it's awesome looking forward to your
+
+53
+00:05:10,640 --> 00:05:17,360
+ chat on Father Ted, it will definitely one day happen. Just it might be like, you know, a couple
+
+54
+00:05:17,360 --> 00:05:22,800
+ of years away. We keep recording episodes, which you'd think would be a positive thing.
+
+55
+00:05:22,800 --> 00:05:27,760
+ Yeah, we should explain the Father Ted is our break glass in case it's well, it's part of the
+
+56
+00:05:27,760 --> 00:05:33,200
+ debate on our break glass in case of emergency podcasts, which is ready to be deployed. Should
+
+57
+00:05:33,200 --> 00:05:37,840
+ any of us not be available to podcast one fortnight, but evolving quite reliable so far.
+
+58
+00:05:37,840 --> 00:05:43,920
+ Yes. That's because two of us have not gone anywhere for a year. And that one time I did go
+
+59
+00:05:43,920 --> 00:05:49,200
+ somewhere I did make you podcasts at a different time. Yeah. And basically it's for when me and
+
+60
+00:05:49,200 --> 00:05:53,920
+ Alison are on a beach and Liz is in lockdown, which appears to be the trajectory in which things
+
+61
+00:05:53,920 --> 00:05:58,480
+ are heading, which is a bit weird. I have some beaches in mind and we should book that.
+
+62
+00:05:58,480 --> 00:06:04,160
+ Oh, just be me having a solo podcast. They're just being extremely grumpy while you guys send me,
+
+63
+00:06:04,160 --> 00:06:12,080
+ you know, pitch to the ocean. Fine, it's fine. Margay, Alison Margay, let's get this done.
+
+64
+00:06:12,640 --> 00:06:19,280
+ Oh, I love Margay. Oh, Dreamland, I can take you on the one of Britain's oldest rollercoats,
+
+65
+00:06:19,280 --> 00:06:23,360
+ one of the world's oldest rollercoasters except that the day that I went to Margayate,
+
+66
+00:06:23,360 --> 00:06:26,640
+ specifically so that I could ride the rollercoaster, it was shut.
+
+67
+00:06:26,640 --> 00:06:34,240
+ That is always the way. I will ride on it one day. I'm excited. We did also have a comment from
+
+68
+00:06:34,240 --> 00:06:39,520
+ Duncan McGregor on the diversity of gaming panels. I will say the gaming panel has got a lot more
+
+69
+00:06:39,520 --> 00:06:43,600
+ diverse when the program was finished. So that was good. The program was finished, I would say,
+
+70
+00:06:43,600 --> 00:06:50,800
+ at about noon on Saturday of EasterCon, maybe. But at that point, there was a lot more
+
+71
+00:06:50,800 --> 00:06:56,960
+ like different voices and stuff, which was very good to see. And if anyone is a member who didn't
+
+72
+00:06:56,960 --> 00:07:01,920
+ watch, I really recommend the accessibility on gaming podcast, which has some really interesting
+
+73
+00:07:01,920 --> 00:07:07,520
+ insights from the particular accessibility in games, which was really good.
+
+74
+00:07:08,960 --> 00:07:13,280
+ And then finally, we have a letter from Claire Briarley of Groiden.
+
+75
+00:07:13,280 --> 00:07:19,840
+ So, Claire says, "On your records, John claimed his bowling ball is a round black thing with a
+
+76
+00:07:19,840 --> 00:07:24,480
+ hole in the middle, but anyone who was a teenage reader of smash hits in the 1980s might suspect
+
+77
+00:07:24,480 --> 00:07:29,040
+ that Roy's got there as a licorice also. Taste, offensiveness and legality, well there's another
+
+78
+00:07:29,040 --> 00:07:33,360
+ comedy trio for you, but only you can decide if that's in the right order for you. I wonder if
+
+79
+00:07:33,360 --> 00:07:37,520
+ anyone got confused by the beeps and stopped the podcast before Alison's first hits.
+
+80
+00:07:38,160 --> 00:07:44,480
+ I don't know. I hope not. That would have been 1975, so you know, that's that.
+
+81
+00:07:44,480 --> 00:07:53,920
+ So, if it was taste, offensiveness and legality in order, I'm taste Alison's offensiveness and
+
+82
+00:07:53,920 --> 00:08:00,560
+ Liz's legality. And that doesn't. I don't know. I don't feel it's the worst match up of the three.
+
+83
+00:08:00,560 --> 00:08:05,760
+ Alison's making eyes at me, listener. Not the sort of eyes you're thinking of.
+
+84
+00:08:06,560 --> 00:08:12,880
+ Like googly eyes. Paddington hard stare eyes. No googly eyes. I'm telling you.
+
+85
+00:08:12,880 --> 00:08:18,400
+ And then Claire says, "I am safe from Jerry sending me more weed to mix," says John.
+
+86
+00:08:18,400 --> 00:08:23,840
+ Famous last words, worth repeating. Well, I have just repeated them, so well played Claire.
+
+87
+00:08:23,840 --> 00:08:31,680
+ But also, Jerry, please don't send me weed to mix. I would feel bad about the carbon footprint
+
+88
+00:08:31,680 --> 00:08:43,120
+ of that wee mix. We're going to talk about a topic in which we all sincerely and deeply believe.
+
+89
+00:08:43,120 --> 00:08:51,360
+ And that is Esther's Cat, Badger. Badger the cat is obviously the best cat in science fiction
+
+90
+00:08:51,360 --> 00:08:55,760
+ fandom. If you are listening to this thinking, "My cat is better," you are wrong. Badger is better.
+
+91
+00:08:56,320 --> 00:09:02,320
+ He's best cat. I have no skin in this game because unlike some of my co-hosts, I don't
+
+92
+00:09:02,320 --> 00:09:12,960
+ personally have a cat. So I can say that Badger is absolutely magnificent. He is a cat amongst cats.
+
+93
+00:09:12,960 --> 00:09:26,080
+ He is peerless in his majesty. He's quite the cat. He is perfect. He is excellent and handsome
+
+94
+00:09:26,080 --> 00:09:33,760
+ and high virtue and in need of praise. And he has given his name to a very, very, very tiny kitten,
+
+95
+00:09:33,760 --> 00:09:41,040
+ who hopefully can spend its life hoping to live up to the badgeriness of Big Badger.
+
+96
+00:09:41,040 --> 00:09:49,280
+ Yes. And as Esther notes, Badger is probably licking his bum right now, and he will be doing
+
+97
+00:09:49,280 --> 00:09:57,360
+ so in a glorious and fantastic way. I'm sure he could give lessons to other cats in how to lick their bottoms.
+
+98
+00:09:57,360 --> 00:10:03,520
+ I think we would all agree that if T.S. Eliot were still with us, the cat he would be writing about
+
+99
+00:10:03,520 --> 00:10:10,080
+ is Badger the Cat. But alas, he is not with us and so I have had to compose my own ode to Badger.
+
+100
+00:10:10,080 --> 00:10:17,200
+ Oh Badger Cat, you are so large and fond of sunbeams to recharge your energy. So when it's late,
+
+101
+00:10:17,200 --> 00:10:23,760
+ at Esther's jigsaw's lie in state, you sit on them with mighty weight because you are the best roommate.
+
+102
+00:10:23,760 --> 00:10:32,800
+ Badger, we love you. Badger's the best cat. Thank you very much to Esther for giving an enormous amount
+
+103
+00:10:32,800 --> 00:10:40,000
+ of money to the fanfons at the fanfon auction. Esther is as good a fan as Badger is a cat.
+
+104
+00:10:46,480 --> 00:10:53,360
+ Right, so launching in to the topics. We have thought about confusion. For those who don't know,
+
+105
+00:10:53,360 --> 00:11:01,680
+ confusion was the Eastercon of 2021, which occurred at Easter, which is last weekend as we record.
+
+106
+00:11:01,680 --> 00:11:09,920
+ We went to Eastercon. It was very like Eastercon. No, more like Eastercon than I was expecting.
+
+107
+00:11:09,920 --> 00:11:14,880
+ Yes. I got too drunk every day and stayed up till 2am.
+
+108
+00:11:15,440 --> 00:11:21,600
+ Yep, I did too. But it was also like Eastercon sufficiently much that I do wonder when the
+
+109
+00:11:21,600 --> 00:11:26,800
+ committee sat down and said, "It's not going to feel proper lie-like Eastercon unless we have a
+
+110
+00:11:26,800 --> 00:11:32,720
+ mad panic trying to get everything working in the first day of the convention." We have thoughts
+
+111
+00:11:32,720 --> 00:11:40,160
+ about confusion and what went well and what went badly. And we're going to kind of tackle them in
+
+112
+00:11:41,280 --> 00:11:46,240
+ kind of theme by theme and go through and say kind of the things we liked and the things we
+
+113
+00:11:46,240 --> 00:11:50,960
+ didn't like so much. So the first thing we're going to discuss is Eastercon's communications.
+
+114
+00:11:50,960 --> 00:12:00,960
+ So I think Eastercon's communications strategy was idiosyncratic for an Eastercon. I think it
+
+115
+00:12:00,960 --> 00:12:07,120
+ relied on video and social media to an extent that we have not seen from previous Eastercons.
+
+116
+00:12:08,160 --> 00:12:15,440
+ In some ways that's a very modern take on how to convey information and in some ways I think
+
+117
+00:12:15,440 --> 00:12:20,160
+ that's to be applauded. But in other ways I think the reliance on video as a medium
+
+118
+00:12:20,160 --> 00:12:26,880
+ did frustrate some people, especially those people for whom video is not an accessible medium.
+
+119
+00:12:26,880 --> 00:12:34,160
+ And that was an interesting choice. And one I think that if I was going to do communications
+
+120
+00:12:34,160 --> 00:12:42,560
+ for an Eastercon I would probably not be doing it by video as a result. The other kind of hallmark
+
+121
+00:12:42,560 --> 00:12:48,080
+ of the Eastercon communication strategies I saw it was a desire to keep things very close to their
+
+122
+00:12:48,080 --> 00:12:51,920
+ chest. So we didn't find out until quite close to the convention that they were planning to use
+
+123
+00:12:51,920 --> 00:12:58,400
+ GAVA and kind of a lot of things like program items started to be trailed in the two weeks before
+
+124
+00:12:58,400 --> 00:13:03,040
+ the convention which was quite close to the convention. And that was again that was a decision that I
+
+125
+00:13:03,040 --> 00:13:10,240
+ think they made to kind of stoke anticipation. But I think in some quarters that I was seeing
+
+126
+00:13:10,240 --> 00:13:15,680
+ discussion it was actually stoking worry which I think was not what they were trying to achieve.
+
+127
+00:13:15,680 --> 00:13:20,320
+ And so I think my two takeaways from their communication strategy is that secrecy is I
+
+128
+00:13:20,320 --> 00:13:23,920
+ think probably overrated. I think it's better to have people getting excited about all the cool
+
+129
+00:13:23,920 --> 00:13:28,160
+ stuff you're doing rather than getting excited about all the cool stuff you might announce eventually.
+
+130
+00:13:28,960 --> 00:13:34,240
+ And it's also probably better not to focus on methods of dissemination that are
+
+131
+00:13:34,240 --> 00:13:39,280
+ potentially accessibility issues. I think I broadly agree with you. I think that where I disagree
+
+132
+00:13:39,280 --> 00:13:44,240
+ about video is that using video would be absolutely the right way when they had for example videos
+
+133
+00:13:44,240 --> 00:13:50,720
+ introducing like GAVA as a platform. And those kind of tutorial videos I think are really helpful.
+
+134
+00:13:50,720 --> 00:13:56,560
+ Like I know for punctuation we did kind of very sort of text and screenshot heavy instructions on
+
+135
+00:13:56,560 --> 00:14:01,840
+ how you are going to access our different platforms. But it was maybe the video introducing things
+
+136
+00:14:01,840 --> 00:14:06,160
+ that was the most useful for people to go and go and watch. But I agree that if you're going to do
+
+137
+00:14:06,160 --> 00:14:11,760
+ that one I think you need to really try and have a transcript up at the same time because there's
+
+138
+00:14:11,760 --> 00:14:15,600
+ nothing worse than having a video playing and finding that everyone else is kind of you know able to
+
+139
+00:14:15,600 --> 00:14:19,120
+ look at this video and get all the information out. And if videos are not accessible to you then
+
+140
+00:14:19,120 --> 00:14:22,960
+ you're sort of left in the dark and you don't want any. If you want to get people excited you don't
+
+141
+00:14:22,960 --> 00:14:26,640
+ want them to be sad because they can't be excited with long with everyone else because you haven't
+
+142
+00:14:26,640 --> 00:14:31,280
+ provided the information and media making access. And yeah just to sort of general overline some
+
+143
+00:14:31,280 --> 00:14:37,040
+ video and also kind of the expectation that we're going to do weekly videos and then it was sort
+
+144
+00:14:37,040 --> 00:14:40,480
+ of there were three videos and then they stopped. I think it was a bit of a problem because you're
+
+145
+00:14:40,480 --> 00:14:43,760
+ sort of waiting for the next video and thinking oh well I'm sure there'll be more detail in the
+
+146
+00:14:43,760 --> 00:14:48,880
+ next video but there wasn't the next video. And maybe if you had an easier sort of more text-based
+
+147
+00:14:48,880 --> 00:14:53,440
+ strategy it's less effort. You wouldn't have to be waiting to try and make a video and it's
+
+148
+00:14:53,440 --> 00:14:56,320
+ good that some of the people who are making the videos were also the people who were trying to do
+
+149
+00:14:56,320 --> 00:15:00,880
+ the rest of the convention. So I think there's ways you could do videos but do them in a slightly
+
+150
+00:15:00,880 --> 00:15:05,040
+ different way that would be more helpful. That's actually a phenomenal point which I hadn't considered
+
+151
+00:15:05,040 --> 00:15:09,840
+ which is the point about if you're going to make videos which are quite difficult and quite
+
+152
+00:15:09,840 --> 00:15:15,120
+ intensive I lack the skill to do them which is why we did not do them for punctuation. Having
+
+153
+00:15:15,120 --> 00:15:19,760
+ someone do them that is not also either trying to run every part of the communications or trying
+
+154
+00:15:19,760 --> 00:15:25,840
+ to build the tech stack is probably a good thing. So yes very very good point Alison.
+
+155
+00:15:25,840 --> 00:15:33,520
+ So I ran social media for Mankynicon which was six years ago now but we actually had to stop our
+
+156
+00:15:33,520 --> 00:15:39,120
+ social media strategy before it really got going because the convention was clearly going to fill
+
+157
+00:15:39,120 --> 00:15:44,400
+ its space but one of the reasons that was was the social media strategy which was basically
+
+158
+00:15:44,400 --> 00:15:50,720
+ we won't think about it too hard but we will keep tweeting out and and sharing interesting things
+
+159
+00:15:50,720 --> 00:15:56,720
+ with membership was was actually generating all the buzz that we needed and the convention would be
+
+160
+00:15:56,720 --> 00:16:03,120
+ full. This convention didn't do that so you talked about them relying on social media but they
+
+161
+00:16:03,120 --> 00:16:10,320
+ they hardly tweeted at all or made any posts in the first five months of running the convention.
+
+162
+00:16:10,320 --> 00:16:17,360
+ So there's about one post a month until you get to the point where they say we're going virtual
+
+163
+00:16:17,360 --> 00:16:21,200
+ and then there was nothing more after that for about three months and I this is the point where I
+
+164
+00:16:21,200 --> 00:16:27,680
+ go if I had done it I would have tried to do it differently and I think part of what went wrong
+
+165
+00:16:27,680 --> 00:16:33,280
+ for them there is that they were being very concerned about controlling the message so that
+
+166
+00:16:33,280 --> 00:16:39,440
+ they didn't give the I'm surmising I don't know how to talk to Zoe about this if you're listening
+
+167
+00:16:39,440 --> 00:16:45,120
+ Zoe please get in touch and tell all or to actually don't tell all just tell the nice bits.
+
+168
+00:16:45,120 --> 00:16:51,200
+ I didn't feel that they had a social media tomb who felt empowered which is a very crappy
+
+169
+00:16:51,200 --> 00:16:58,480
+ management word but didn't feel able to just have that slight frivolity that you need in order to
+
+170
+00:16:58,480 --> 00:17:02,800
+ do social media well that you need to be able to go with whatever the flow of this is happening
+
+171
+00:17:02,800 --> 00:17:06,560
+ at the time and you need to be quite regular about it and you don't need to make sure that
+
+172
+00:17:06,560 --> 00:17:11,440
+ every single word has been cleared back through the committee and chair because it's quite easy
+
+173
+00:17:11,440 --> 00:17:15,600
+ to take things down and apologize if you stuff up obviously you don't want to do it too spectacularly.
+
+174
+00:17:15,600 --> 00:17:23,760
+ What that led to was partly it it reflected this kind of sense of secrecy that we weren't being
+
+175
+00:17:23,760 --> 00:17:29,920
+ told because they actually didn't want Eastacom members to know what the Eastacom was going to
+
+176
+00:17:29,920 --> 00:17:34,960
+ be like which is weird especially if not if you're trying to build membership they were kind of like
+
+177
+00:17:34,960 --> 00:17:38,640
+ we're desperate to get more members it's going to be great but without actually telling anyone
+
+178
+00:17:38,640 --> 00:17:43,680
+ anything about anything it's very hard to make that happen but also when they do kind of go
+
+179
+00:17:43,680 --> 00:17:49,600
+ we're not telling you anything but the theme is fun and whimsy and you've just had eight months or
+
+180
+00:17:49,600 --> 00:17:54,640
+ ten months of a social media strategy that has never once showed the slightest
+
+181
+00:17:54,640 --> 00:18:01,920
+ twinge of fun or whimsy that that provides a kind of disconnect in the in the readers and the
+
+182
+00:18:01,920 --> 00:18:06,960
+ members that make them go fun whimsy is that is that what you're about that's not what we get
+
+183
+00:18:06,960 --> 00:18:11,840
+ and in fact they did have their actual branding was quite fun and whimsical they had like rocket
+
+184
+00:18:11,840 --> 00:18:16,960
+ ships and cute fountains and all of that cuteness that was that was doing that but but I think
+
+185
+00:18:16,960 --> 00:18:22,560
+ unless your communications reflect that all the way through people aren't really going to believe
+
+186
+00:18:22,560 --> 00:18:26,000
+ you and I think that's what happened I think people didn't believe they were going to have fun
+
+187
+00:18:26,000 --> 00:18:33,520
+ if they came to the convention and a lot of people didn't come as a result so so I it's not how I
+
+188
+00:18:33,520 --> 00:18:40,080
+ would have done it yeah I think that all seems fair and I think this is one thing when people
+
+189
+00:18:40,080 --> 00:18:44,560
+ think they've got an excellent thing that they need to surprise people with they forget that actually
+
+190
+00:18:44,560 --> 00:18:49,520
+ secrecy is not the most important thing the most important thing is excitement and there is more
+
+191
+00:18:49,520 --> 00:18:53,600
+ than one way to generate excitement and one of those things is by telling people why they should
+
+192
+00:18:53,600 --> 00:18:59,360
+ be excited and I think that is almost the antithesis of secrecy and they're both valid
+
+193
+00:18:59,360 --> 00:19:03,920
+ ways of doing it but when it becomes people if it becomes clear that people are more
+
+194
+00:19:03,920 --> 00:19:08,880
+ aggravated than excited about your secrecy that might be the point of which you switch
+
+195
+00:19:08,880 --> 00:19:15,120
+ tack perhaps and I think what you were saying Alison about the lack of flexibility and responsiveness
+
+196
+00:19:15,120 --> 00:19:22,480
+ in social media is slightly I think touching on that and I think I think it's probably fair for
+
+197
+00:19:22,480 --> 00:19:28,240
+ me to share this on the podcast now so I I actually approached Eastcom before we ran punctuation to
+
+198
+00:19:28,240 --> 00:19:33,600
+ set up the discord and I did most of the initial work on their discord but I eventually left the
+
+199
+00:19:33,600 --> 00:19:41,760
+ team because I was working under Zoe as the kind of head of social media but I I was not able to
+
+200
+00:19:41,760 --> 00:19:46,960
+ have discussions with her at which decisions were made because decisions had to be passed back
+
+201
+00:19:46,960 --> 00:19:51,600
+ up the chain so it'd be a week between me suggesting something and me hearing from Zoe whether or
+
+202
+00:19:51,600 --> 00:19:55,440
+ not that was something we could do and I just found it so frustrating that I eventually left
+
+203
+00:19:55,440 --> 00:20:00,320
+ because I was like I can't I just feel like I'm moving through treacle and I'm not used to that
+
+204
+00:20:00,320 --> 00:20:04,560
+ kind of thing in a in something like running a discord or a social media thing where I feel
+
+205
+00:20:04,560 --> 00:20:10,000
+ like responsiveness is is an incredibly key component of doing that and that's not a slight
+
+206
+00:20:10,000 --> 00:20:15,680
+ on how they did it necessarily but it was definitely something I felt was not fun for me.
+
+207
+00:20:15,680 --> 00:20:20,880
+ I have one more point on surprise and then let's get have a go which is that there are some sorts
+
+208
+00:20:20,880 --> 00:20:27,440
+ of surprise that are lovely like when I left the United States when I was 18 my friends can try
+
+209
+00:20:27,440 --> 00:20:33,760
+ to give me a massive surprise party on my last night and I was not expecting it at all and that's
+
+210
+00:20:33,760 --> 00:20:41,760
+ a lovely surprise. When I am thinking about how to attend an event I haven't attended before the
+
+211
+00:20:41,760 --> 00:20:46,400
+ information about how you're going to get there how you're going to park what the arrangements are
+
+212
+00:20:46,400 --> 00:20:53,440
+ for meals where you camp or in this case how you log on to this exactly what services you're going
+
+213
+00:20:53,440 --> 00:20:58,720
+ to be using exactly what sort of computer you'll need these are not part of a lovely surprise
+
+214
+00:20:58,720 --> 00:21:10,560
+ so they should have been extremely much more open and earlier with things like these you'll be
+
+215
+00:21:10,560 --> 00:21:15,600
+ doing it in a browser you'll need a computer that's got these sorts of specs to make it work here are
+
+216
+00:21:15,600 --> 00:21:20,400
+ the problems that other people sometimes have with these programs and the ways in which you
+
+217
+00:21:20,400 --> 00:21:25,760
+ can solve them lots of lots of that I've just been past a link that I haven't managed to follow yet
+
+218
+00:21:25,760 --> 00:21:33,040
+ for a convention that used Gather that that has a single page with very clear instructions for all
+
+219
+00:21:33,040 --> 00:21:38,000
+ parts of the convention on it and I'm like oh that's good and and and Easter can't have these things
+
+220
+00:21:38,000 --> 00:21:43,200
+ but I don't think they released them until like the Friday a lot more different if we'd actually
+
+221
+00:21:43,200 --> 00:21:47,200
+ handle that material one week earlier and this isn't again it's not the fault for the publications
+
+222
+00:21:47,200 --> 00:21:52,320
+ lead because it was the fault of decisions not being made early enough because so many
+
+223
+00:21:52,320 --> 00:21:56,960
+ decisions had to be made at committee level the next thing we're going to talk about is
+
+224
+00:21:56,960 --> 00:22:01,920
+ technology at the East Com so we're going to segregate this into two different technologies
+
+225
+00:22:01,920 --> 00:22:05,680
+ we're going to segregate into streaming technology so the stuff they use to deliver their program
+
+226
+00:22:05,680 --> 00:22:11,600
+ panels and then we're going to also discuss social technology basically the discord and the Gather
+
+227
+00:22:12,320 --> 00:22:19,040
+ so let's start with the streaming technology East Com was very quiet about what tech stack
+
+228
+00:22:19,040 --> 00:22:24,080
+ they were using but I had a couple of meetings with Keith Smith who was the head of tech just a bit
+
+229
+00:22:24,080 --> 00:22:30,240
+ a few days before the Easter Com where he surfaced quite a lot of that in the meeting and also
+
+230
+00:22:30,240 --> 00:22:37,920
+ Zoe mentioned that they were using one one element of that thing which is is red B which is a very
+
+231
+00:22:37,920 --> 00:22:45,440
+ high-end content distribution system that like the BBC uses and things like that they were also
+
+232
+00:22:45,440 --> 00:22:55,360
+ using a program called VMix as the kind of front-end mixer and overall there were many I heard
+
+233
+00:22:55,360 --> 00:23:05,840
+ 22 Keith said 22 to me different programs in the stack that got you from you in your house out to
+
+234
+00:23:07,280 --> 00:23:12,960
+ the person on the stream and they decided I think this was a committee level decision rather than a
+
+235
+00:23:12,960 --> 00:23:21,760
+ decision in tech that they were going to use this stack for all of their programs so essentially
+
+236
+00:23:21,760 --> 00:23:28,960
+ every program item apart from a few readings in Gather was going to be done by running it through
+
+237
+00:23:28,960 --> 00:23:34,160
+ this stack and that meant that it ended up getting used for quite a lot of events that would have
+
+238
+00:23:34,160 --> 00:23:39,680
+ been much better with a more interactive technology and this is partly because the convention had a
+
+239
+00:23:39,680 --> 00:23:45,440
+ huge vision the committee had a bit vision of what the convention would be like and how it would
+
+240
+00:23:45,440 --> 00:23:56,320
+ operate that meant that they then didn't always make the right decision for particular program
+
+241
+00:23:56,320 --> 00:24:01,680
+ items about how they would best run and this is effectively mostly with the fanfans auction where
+
+242
+00:24:01,680 --> 00:24:07,520
+ people had stream lag of up to two minutes which made it very difficult for them to bid on things
+
+243
+00:24:07,520 --> 00:24:14,080
+ it was a very successful auction the tech crew and prog ops worked with us incredibly hard to make
+
+244
+00:24:14,080 --> 00:24:21,360
+ it good it was you know and as did as did the actual fanfans teams but the they should not have
+
+245
+00:24:21,360 --> 00:24:27,120
+ had to do that amount of work and it would have just been much better running zoom it's just
+
+246
+00:24:27,120 --> 00:24:32,720
+ about an example of something where the tech stack was far too ambitious for the thing that was being
+
+247
+00:24:32,720 --> 00:24:37,760
+ was being streamed and it would have been better if it hadn't been streamed at all other conventions
+
+248
+00:24:37,760 --> 00:24:44,000
+ have dealt with this by having everything on interactive technologies like zoom or by having
+
+249
+00:24:44,000 --> 00:24:51,760
+ much simpler streaming stacks i think this is the most complicated streaming stack that any
+
+250
+00:24:51,760 --> 00:24:58,240
+ virtual convention has tried and i think the result was that nobody was trained so once it
+
+251
+00:24:58,240 --> 00:25:02,960
+ worked it worked pretty well for most things not the fanfans auction but for most things it worked
+
+252
+00:25:02,960 --> 00:25:10,880
+ really well but that nobody was trained i think the mistake they made was that they bought an
+
+253
+00:25:10,880 --> 00:25:18,240
+ awful lot of technologies that were paid for by the minute or by the hour rather than buying
+
+254
+00:25:18,240 --> 00:25:23,680
+ technologies that were bought by the month for instance and then they decided that it would be
+
+255
+00:25:23,680 --> 00:25:30,240
+ a waste of money to pay for those far enough in advance of the convention to properly onboard
+
+256
+00:25:30,240 --> 00:25:36,560
+ volunteers with how those technologies worked and i think one of those two decisions was a huge
+
+257
+00:25:36,560 --> 00:25:41,120
+ mistake i don't know which one and i wasn't privy to the discussions in the convention
+
+258
+00:25:41,120 --> 00:25:47,520
+ but certainly i think if your tech stack and your budget for your tech stack requires that
+
+259
+00:25:47,520 --> 00:25:53,920
+ the first time you start training people on it is the day of the convention then that is a tech
+
+260
+00:25:53,920 --> 00:26:01,280
+ stack that is not going to work well with the net effect that the convention effectively started
+
+261
+00:26:01,280 --> 00:26:07,120
+ a day late because the program items on friday and saturday morning just didn't really work and
+
+262
+00:26:07,120 --> 00:26:11,360
+ i'm sympathetic so i asked a question in the feedback session about why didn't you use something
+
+263
+00:26:11,360 --> 00:26:15,920
+ like stream yard and keith very reasonably said well stream yard didn't offer everything we needed
+
+264
+00:26:15,920 --> 00:26:20,400
+ and i will say that i'm sure that is true but the advantage they would have
+
+265
+00:26:20,400 --> 00:26:25,680
+ the advantage they would have had with stream yard is that it is paid by the month and so they
+
+266
+00:26:25,680 --> 00:26:30,160
+ would have had the ability to familiarize their staff and so i am wondering and the question i
+
+267
+00:26:30,160 --> 00:26:37,440
+ asked is is the features that you got from this tech stack that you couldn't have got with more
+
+268
+00:26:37,440 --> 00:26:45,680
+ simple tools worth the human cost to your volunteers and attendees because there was one and it seems
+
+269
+00:26:45,680 --> 00:26:50,960
+ like you're prioritizing bells and whistles over stressing people out on the day they're trying
+
+270
+00:26:50,960 --> 00:26:56,400
+ to get their program to work and that i think is something we've seen spill over onto for example
+
+271
+00:26:56,400 --> 00:27:00,640
+ the anonymous claire discord and in a lot of the discussion of what was happening at the convention
+
+272
+00:27:00,640 --> 00:27:07,920
+ i think i agree both you and you have stolen some of my talking points um i think i want to say that
+
+273
+00:27:07,920 --> 00:27:12,800
+ there's nothing wrong with being ambitious like they are right in that you know certainly
+
+274
+00:27:12,800 --> 00:27:16,720
+ some conventions have used very simple methods you either have a big zoom room or you have one of
+
+275
+00:27:16,720 --> 00:27:21,760
+ the simpler simpler streaming methods like stream yard or so on and they are limited and they do
+
+276
+00:27:21,760 --> 00:27:25,760
+ have issues and particularly they identify i think that you can't really play long videos within
+
+277
+00:27:25,760 --> 00:27:30,960
+ stream yard you then have to go and you know play them off another basically off another tab
+
+278
+00:27:30,960 --> 00:27:36,800
+ which works okay um but not always and and it's things like you know we can note a punctuation that
+
+279
+00:27:36,800 --> 00:27:41,360
+ one of our items basically got dropped from youtube because we were trying to play short video clips
+
+280
+00:27:41,360 --> 00:27:44,880
+ off something else and they got pulled which is not a not going to be a problem if you're running
+
+281
+00:27:44,880 --> 00:27:50,160
+ your own content distribution but yeah i think it's obvious that there was kind of a big mismatch
+
+282
+00:27:50,160 --> 00:27:58,480
+ between the ambition they had and the actual amount of person time they could afford to budget to pull
+
+283
+00:27:58,480 --> 00:28:06,560
+ it off and then what is interesting is i don't know when they chose to use that tech setup and it
+
+284
+00:28:06,560 --> 00:28:10,800
+ feels to me that either they needed to put more money into the tech setup in order to have more
+
+285
+00:28:10,800 --> 00:28:14,960
+ time to familiarize themselves with it but that again would have made them an extremely
+
+286
+00:28:14,960 --> 00:28:18,720
+ expensive streaming only convention or they need at some point to make the decision of
+
+287
+00:28:18,720 --> 00:28:22,880
+ okay we can't do all these things we're going to have to say no we're going to run things
+
+288
+00:28:22,880 --> 00:28:28,560
+ slightly differently and cut some of that out and i know that's really hard to do especially
+
+289
+00:28:28,560 --> 00:28:33,200
+ lay on but you've got to wonder sort of are you so committed to doing this thing that you keep
+
+290
+00:28:33,200 --> 00:28:38,560
+ carrying on even when it's becoming obvious that it's not quite going to pull off and i should say
+
+291
+00:28:38,560 --> 00:28:43,760
+ also that from about saturday afternoon most things were working perfectly well and if everything
+
+292
+00:28:43,760 --> 00:28:48,960
+ had worked that well from friday morning it would have just been you know the occasional hiccup the
+
+293
+00:28:48,960 --> 00:28:54,000
+ occasional stream that needed restarting or rebooting and it would have been fine it only became so
+
+294
+00:28:54,000 --> 00:29:00,400
+ obvious when you know we got saturday morning and i was doing program ops on an item which was not
+
+295
+00:29:00,400 --> 00:29:03,920
+ being broadcast live we were just doing it on the assumption that we could record it and then some
+
+296
+00:29:03,920 --> 00:29:07,920
+ people might watch it later which meant there were no questions because that people would have
+
+297
+00:29:07,920 --> 00:29:13,600
+ to ask questions without seeing the item and things like that in case this ever happens to you in the
+
+298
+00:29:13,600 --> 00:29:19,920
+ future i have a tip which is that i went into the discord halfway through my item being recorded
+
+299
+00:29:19,920 --> 00:29:23,680
+ without the chance of everyone for anyone to be asked questions and i went into this
+
+300
+00:29:23,680 --> 00:29:27,680
+ court and said obviously you can't see what we said so far but does anyone have any questions and we
+
+301
+00:29:27,680 --> 00:29:32,080
+ came up with half a dozen really good questions so you know i mean i did ask for them but that was
+
+302
+00:29:32,080 --> 00:29:37,200
+ a slightly different item like you can't ask for questions on a it was the item about like um
+
+303
+00:29:37,200 --> 00:29:42,560
+ what is punk in fiction and it was an extremely sort of free form wide range discussion and there
+
+304
+00:29:42,560 --> 00:29:47,520
+ was no way to predict like from the description where the panelists would take it and what
+
+305
+00:29:47,520 --> 00:29:50,720
+ be sent for questions to ask and then i think it would be even worse if i'd said well we have a
+
+306
+00:29:50,720 --> 00:29:55,600
+ question here is a question it relates to nothing at all you said on the panel what would you like
+
+307
+00:29:55,600 --> 00:30:00,320
+ to answer anyway you may be better off not even having the questions at that point yeah and like i
+
+308
+00:30:00,320 --> 00:30:05,840
+ say this all comes back to their decisions the decisions that they made not to have that day of
+
+309
+00:30:05,840 --> 00:30:10,880
+ training which would have made it all fine and it's something we were telling them up to the convention
+
+310
+00:30:10,880 --> 00:30:15,760
+ and i was doing my best to stay optimistic and sort of saying you know we're being very critical
+
+311
+00:30:15,760 --> 00:30:20,640
+ but i'm sure they've got it under control and then it's after the convention and they didn't and
+
+312
+00:30:20,640 --> 00:30:28,400
+ you know that is a problem and i don't know whose problem it was but i think it think it's worth
+
+313
+00:30:28,400 --> 00:30:34,400
+ coming back to and saying yeah that that is something you can't do that does make the beginning of your
+
+314
+00:30:34,400 --> 00:30:39,600
+ convention full of argument stress and bad feeling instead of full of excitement joy and happiness
+
+315
+00:30:39,600 --> 00:30:44,320
+ which is the feelings i associate with her convention and the feelings you should be aiming
+
+316
+00:30:44,320 --> 00:30:50,720
+ to instill um a really crystallizing moment for me was when we were in the newsletter on Saturday
+
+317
+00:30:50,720 --> 00:30:55,600
+ morning and they just decided that they were going to not run program on Saturday morning
+
+318
+00:30:56,720 --> 00:31:03,520
+ and i said well you know what it seems like an odd choice to say we're going to take the program
+
+319
+00:31:03,520 --> 00:31:09,520
+ down completely when it would take 200 quid and about 20 minutes to get to the entire thing set up
+
+320
+00:31:09,520 --> 00:31:17,200
+ on zoom and uh lina there's been a lot of discussion about there's been a lot of fallout about
+
+321
+00:31:17,200 --> 00:31:24,640
+ easter con and the sorts of decisions that were made and why all over my smeads and in one of them
+
+322
+00:31:24,640 --> 00:31:35,600
+ lina thane clark said and i thought this was very wise um it's all very well um members coming up
+
+323
+00:31:35,600 --> 00:31:41,680
+ with buckets of water but sometimes from the point of view of the committee they're just coming along
+
+324
+00:31:41,680 --> 00:31:46,640
+ with buckets of paraffin to throw on the fire and i feel that my suggestion that i could pick the
+
+325
+00:31:46,640 --> 00:31:51,200
+ whole thing up and put it on zoom in 20 minutes might have been one of those buckets of paraffin i
+
+326
+00:31:51,200 --> 00:31:57,680
+ think it was a bucket of water i feel like they got into a hole and they carried on digging out
+
+327
+00:31:57,680 --> 00:32:02,560
+ that hole rather than going oh no let's get the convention up and running and then we can and
+
+328
+00:32:02,560 --> 00:32:08,240
+ then we can sort the the whizzy stuff out in the background while we just meanwhile run the
+
+329
+00:32:08,240 --> 00:32:14,160
+ convention using a less good system but you know that's me and not them so obviously i do respect
+
+330
+00:32:14,160 --> 00:32:20,000
+ their right to decide it was better have no program at all and one that wasn't perfect i also have
+
+331
+00:32:20,000 --> 00:32:25,600
+ one point about the particular tech stack that they ended up with which is that it was possible for
+
+332
+00:32:25,600 --> 00:32:34,320
+ random people on being given a link by saying overtired program ops member of staff or because
+
+333
+00:32:34,320 --> 00:32:39,040
+ tech ops are given the wrong link to program ops or because they just clicked the wrong link in
+
+334
+00:32:39,040 --> 00:32:45,120
+ their email and find themselves parachuted live onto a totally different program item
+
+335
+00:32:45,120 --> 00:32:51,680
+ thereby bumping off someone who was on that program item and for me that was not fit for
+
+336
+00:32:51,680 --> 00:32:58,800
+ purpose you should not be able to do that is that okay yeah i think i think that's all fair and i
+
+337
+00:32:58,800 --> 00:33:03,440
+ think ultimately it's very difficult to second guess the decisions they made in the heat in the
+
+338
+00:33:03,440 --> 00:33:10,080
+ moment and i don't want to i i don't want to nitpick decisions that were made kind of on Saturday
+
+339
+00:33:10,080 --> 00:33:15,120
+ morning when they were trying to put all the fires out because i i do want to say i think i think
+
+340
+00:33:15,120 --> 00:33:18,960
+ they should have done things differently in terms of the lead up but i don't want to say that
+
+341
+00:33:18,960 --> 00:33:22,720
+ i know what they should have done then because i think that was an incredibly difficult thing
+
+342
+00:33:22,720 --> 00:33:26,080
+ because obviously the counterpoint to well you could just do it through zoom which is possibly
+
+343
+00:33:26,080 --> 00:33:31,040
+ true is that then you don't get on holodeck so i think you've got a um it's a difficult question
+
+344
+00:33:31,040 --> 00:33:37,200
+ right and one we're talking about um for punctuation to washermat that was hope um he's like is it more
+
+345
+00:33:37,200 --> 00:33:44,000
+ important why don't you get you just record the zoom i don't know how difficult that would have been
+
+346
+00:33:44,000 --> 00:33:48,560
+ and you don't either it may have been difficult to do it across all the program items we know they
+
+347
+00:33:48,560 --> 00:33:52,880
+ managed it for the bid session but they may not have been you know there to snap into action have
+
+348
+00:33:52,880 --> 00:33:58,880
+ seven people record them and ready yeah yeah they did of course take a very long time to get
+
+349
+00:33:58,880 --> 00:34:03,440
+ stuff onto holodeck anyway so that's another thing that it was not because of all the other
+
+350
+00:34:03,440 --> 00:34:08,400
+ problems attack it it it didn't cut up get up and running as fast as ideally you do want stuff on
+
+351
+00:34:08,400 --> 00:34:14,240
+ holodeck within a couple of hours i think probably so the next thing that we're going to pull out
+
+352
+00:34:14,240 --> 00:34:20,960
+ and discuss in a little bit more detail is gather which was the conventions primary kind of virtual
+
+353
+00:34:20,960 --> 00:34:27,840
+ space slash social space um i know we've discussed this on previous shows but it's basically sort of
+
+354
+00:34:27,840 --> 00:34:33,440
+ looks like a little sort of uh top-down 8-bit video game style uh layout where you pick a little
+
+355
+00:34:33,440 --> 00:34:37,600
+ avatar and there's a physical space that you can wander around and as you wander close to people
+
+356
+00:34:37,600 --> 00:34:41,520
+ their video is an audio pop-up so you can hear them and as you wander further away they get
+
+357
+00:34:41,520 --> 00:34:47,920
+ quieter and drift away and confusion has set it up with a really kind of nice big elaborate sort of
+
+358
+00:34:47,920 --> 00:34:55,040
+ space space station setup um and it had lots of cool little things it had all the rooms where you
+
+359
+00:34:55,040 --> 00:34:59,440
+ could watch the program in in gather if you wanted to you know and go and find like the art show and
+
+360
+00:34:59,440 --> 00:35:05,440
+ a little dealers room but it also had cool things like uh there was an observation dome um there
+
+361
+00:35:05,440 --> 00:35:10,720
+ were as an alboretum where of course we all kept leaving our avatars hiding under trees
+
+362
+00:35:10,720 --> 00:35:15,680
+ there were hidden things like hidden rooms and mazes and shortcuts and teleportation and just
+
+363
+00:35:15,680 --> 00:35:22,000
+ generally like clearly an awful lot of effort had gone into producing it but i'm not sure i used
+
+364
+00:35:22,000 --> 00:35:29,440
+ that much of the stuff they've made yes i think that's probably a fair point i have things
+
+365
+00:35:29,440 --> 00:35:38,160
+ okay so i i really wish proximity chat worked it almost does there's quite a few different
+
+366
+00:35:38,160 --> 00:35:42,560
+ place things in the space i've been told about a new one i need to go try gathers
+
+367
+00:35:42,560 --> 00:35:49,440
+ not quite there yet but that i loved you know you could wander past somebody in the corridor and
+
+368
+00:35:49,440 --> 00:35:54,320
+ stop for a conversation and and that feels that feels like an experience i have hugely missed for
+
+369
+00:35:54,320 --> 00:36:00,560
+ the last year and i loved being able to do that i mean i do like gather a lot and i liked gather here
+
+370
+00:36:00,560 --> 00:36:09,520
+ but gathers primarily a social tool and so therefore when you're designing and building the gather
+
+371
+00:36:09,520 --> 00:36:15,360
+ i think the energy should go into designing the social spaces i don't think most people care about
+
+372
+00:36:15,360 --> 00:36:19,440
+ tardis isn't his and major mazes and you know things like the arborita was very nice
+
+373
+00:36:19,440 --> 00:36:24,320
+ so so scenery i think is is probably quite useful but i think a lot of the easter eggs
+
+374
+00:36:24,320 --> 00:36:30,320
+ didn't work as well as they thought people didn't make us spend as much time exploring the gather
+
+375
+00:36:30,320 --> 00:36:36,000
+ because people are mostly there to see their friends and i think i would have liked to have seen
+
+376
+00:36:36,000 --> 00:36:42,880
+ more energy put into thinking how you engineer social spaces in gather so that you can so they
+
+377
+00:36:42,880 --> 00:36:48,880
+ work as effectively as possible and and i don't feel that that was the and i guess this is very
+
+378
+00:36:48,880 --> 00:36:53,760
+ much a personal choice rather the conventions choice but it's um i don't feel that didn't feel
+
+379
+00:36:53,760 --> 00:36:59,600
+ to me to be where the center of the energy in designing the gather went that's yeah i think that's
+
+380
+00:36:59,600 --> 00:37:07,840
+ fair um i really enjoyed the gather space in general um i think that i i was always i think the most
+
+381
+00:37:07,840 --> 00:37:11,520
+ optimistic of the three of us about the use of gather because i've used it professionally and
+
+382
+00:37:11,520 --> 00:37:16,800
+ usually enjoyed it in that context but i think the moment at which it kind of crystallized for me
+
+383
+00:37:16,800 --> 00:37:21,280
+ that actually i really enjoyed this was when i was going from newsletter to the dealer's room to
+
+384
+00:37:21,280 --> 00:37:28,720
+ ask someone a question and i bumped into um mark and come with the other person was but mark plumber
+
+385
+00:37:28,720 --> 00:37:32,000
+ and someone else were talking in the corridor and i bumped into them when we had a chat and i said
+
+386
+00:37:32,000 --> 00:37:36,800
+ hi and we all kind of chat for five minutes and then someone from the newsletter pinged me on this
+
+387
+00:37:36,800 --> 00:37:41,520
+ go to be like oikox and where have you gone and i got on with what i was supposed to be doing um
+
+388
+00:37:41,520 --> 00:37:44,720
+ and but i think that it was that kind of thing where i was like this is the sort of thing that
+
+389
+00:37:44,720 --> 00:37:51,440
+ happens at a real convention that has not happened to me in any zoom or discord i've been on and i
+
+390
+00:37:51,440 --> 00:37:57,840
+ do think that that mode of interaction is a good one and and having a tool that can capture that
+
+391
+00:37:57,840 --> 00:38:04,320
+ is wonderful i now want to launch into the pessimistic bit gather needs to sort out their
+
+392
+00:38:04,320 --> 00:38:09,840
+ accessibility story and it's bananas to me that they haven't done it kind of made sense in april
+
+393
+00:38:09,840 --> 00:38:14,160
+ 2020 that they hadn't done because they were very new and everything was moving very quickly but
+
+394
+00:38:14,160 --> 00:38:19,120
+ look at how much work zoom has done to substantially improve their offering in the last year and
+
+395
+00:38:19,120 --> 00:38:24,240
+ compare and contrast together and you're like what are they doing there are key low hanging no not
+
+396
+00:38:24,240 --> 00:38:28,960
+ low hanging fruit there are key requirements for members of our community to be able to access
+
+397
+00:38:28,960 --> 00:38:35,520
+ services that gather just have not bothered to implement and that is and i think they need to
+
+398
+00:38:35,520 --> 00:38:41,520
+ he said as an able-bodied white guy but like it really frustrates me because i want the whole
+
+399
+00:38:41,520 --> 00:38:47,600
+ community to feel able to partake in this tool that i enjoyed using and it really i feel uncomfortable
+
+400
+00:38:47,600 --> 00:38:51,920
+ suggesting it for conventions i want to run because i know that i'm being exclusionary if i do so
+
+401
+00:38:51,920 --> 00:38:57,360
+ despite the fact that i enjoyed it for me i really really wish that it was accessible to everyone
+
+402
+00:38:57,920 --> 00:39:04,080
+ if you're out there listening to octa thought and you know of a proximity chat system that has a
+
+403
+00:39:04,080 --> 00:39:09,200
+ good accessibility story to tell which would certainly include working on mobiles and tablets
+
+404
+00:39:09,200 --> 00:39:16,560
+ please um can you get in touch because i am actively trying out every one i can find at the moment
+
+405
+00:39:16,560 --> 00:39:22,480
+ yes that would be very good of course i too love i love proximity chat i think it's really good
+
+406
+00:39:24,000 --> 00:39:29,920
+ i think i think my final thought and gather is that i also think it's very difficult to design a space
+
+407
+00:39:29,920 --> 00:39:34,320
+ where you intend there to be sort of several hundreds at max little avatars running around
+
+408
+00:39:34,320 --> 00:39:41,120
+ when you're trying to design it probably with a very smaller set of people to test it so i mean i
+
+409
+00:39:41,120 --> 00:39:47,760
+ like the big spaces in the gather but they are horrendous for slowing down my system such that i
+
+410
+00:39:47,760 --> 00:39:52,160
+ had to put on quiet mode so i didn't see everyone's proximity videos or i just couldn't move around
+
+411
+00:39:52,160 --> 00:39:55,920
+ but then when i got in some of the smaller spaces it felt a bit like oh now is now actually a little
+
+412
+00:39:55,920 --> 00:40:01,520
+ bit small and everyone's trying to squeeze around a table so i'm not sure that you know i think we
+
+413
+00:40:01,520 --> 00:40:04,720
+ say it would have been nice if they could have done different things to it but i think this
+
+414
+00:40:04,720 --> 00:40:10,400
+ was very much a sort of first experiment and i don't blame them for trying what they did and then
+
+415
+00:40:10,400 --> 00:40:16,240
+ i'm sure if they had to redesign it they would do things differently and i will just very quickly
+
+416
+00:40:16,240 --> 00:40:22,000
+ note that part of my um screed about accessibility should have been i do wish gather was not a
+
+417
+00:40:22,000 --> 00:40:28,560
+ web app because i think it would be much more accessible to people on less well-spected computers
+
+418
+00:40:28,560 --> 00:40:33,600
+ if it was being written in kind of native code and not being done in a web stack because at the
+
+419
+00:40:33,600 --> 00:40:38,800
+ moment it's very CPU intensive and then there was the discord and the discord was good it wasn't big
+
+420
+00:40:38,800 --> 00:40:46,160
+ enough and what this led to was every time someone said oh hey i wish you had this channel i posted a
+
+421
+00:40:46,160 --> 00:40:50,080
+ link to anonymous claire which had that channel and then people joined anonymous claire with the net
+
+422
+00:40:50,080 --> 00:40:54,160
+ effect that we have about 50 new members over the weekend so if you're listening to this because
+
+423
+00:40:54,160 --> 00:40:58,560
+ you've seen me link it on anonymous claire hello welcome we're happy you're here we like to the
+
+424
+00:40:58,560 --> 00:41:05,040
+ hoyland uh watch along isn't it fun having all these people here oh boy oh boy oh golly i i just had
+
+425
+00:41:05,040 --> 00:41:11,040
+ a word with somebody who's worked on nine world's tech and i said anyone else who's ever worked on
+
+426
+00:41:11,040 --> 00:41:15,360
+ nine words tech would probably be very welcome on an anonymous claire so it's possible that
+
+427
+00:41:15,360 --> 00:41:21,440
+ anonymous claire is just going to kind of generally grow now until it becomes a focal point for uk
+
+428
+00:41:21,440 --> 00:41:27,040
+ fandom and i for one would be very happy about that um we're not going to put a link in the
+
+429
+00:41:27,040 --> 00:41:31,040
+ show notes but if you don't yet have an invite to anonymous claire get in touch with one of us
+
+430
+00:41:31,040 --> 00:41:36,160
+ and we'll see you straight i'm very happy with that except i realized i started being a waterway
+
+431
+00:41:36,160 --> 00:41:42,240
+ term anonymous claire when it had like six members and now i need to consider the fact that it may have
+
+432
+00:41:42,880 --> 00:41:48,880
+ uh i don't know 250 members i will say that while i feel the anonymous claire discord
+
+433
+00:41:48,880 --> 00:41:52,960
+ definitely filled a niche for what people wanted at easter con it was a shame that it couldn't have
+
+434
+00:41:52,960 --> 00:41:59,200
+ been provided through easter con it feels a bit like they got a discord and we know from
+
+435
+00:41:59,200 --> 00:42:03,280
+ punctuation that you have to work quite hard to get your members onto discords a lot of the time
+
+436
+00:42:03,280 --> 00:42:07,760
+ and so you'd only have part of the membership there but then felt that actually during easter it
+
+437
+00:42:07,760 --> 00:42:11,680
+ would be too hard to try and keep the discord running as well and so they wanted people to move
+
+438
+00:42:11,680 --> 00:42:16,080
+ together except that then the discord did keep running and it seemed like the easiest way to
+
+439
+00:42:16,080 --> 00:42:21,280
+ get any sort of tech problems or other issue solve was to come and mention them on discord so
+
+440
+00:42:21,280 --> 00:42:26,720
+ it felt a bit like it was sort of an official but unofficial space it was it was the formal help
+
+441
+00:42:26,720 --> 00:42:32,560
+ test for the convention they didn't really have an ops room that you went to get help with they
+
+442
+00:42:32,560 --> 00:42:39,200
+ did have that but as i think Liz noted when john dod said people aren't coming to the ops room and
+
+443
+00:42:39,200 --> 00:42:42,960
+ we've got loads of people who could help you there and Liz quite rightly said yes but if i'm watching
+
+444
+00:42:42,960 --> 00:42:48,480
+ a program item in program room one that isn't working i could either walk to the ops room and
+
+445
+00:42:48,480 --> 00:42:53,120
+ ask you about it or i could copy and paste things into this box that is here while i am in that
+
+446
+00:42:53,120 --> 00:42:57,760
+ program room and i do wonder i think this is one of the very good examples of where the easter con
+
+447
+00:42:57,760 --> 00:43:04,160
+ did not correctly assess how they could use the fact they were virtual in ways that did not limit
+
+448
+00:43:04,160 --> 00:43:08,960
+ themselves to the like physical space limitations they would usually have because one of the great
+
+449
+00:43:08,960 --> 00:43:14,160
+ benefits of virtual is that the help desk can be like disconnected from the physical space of
+
+450
+00:43:14,160 --> 00:43:18,320
+ the convention in a way that makes it more accessible and i think the fact that we saw the discord
+
+451
+00:43:18,320 --> 00:43:23,440
+ so full of people asking ops questions and the ops room was apparently according to the manager
+
+452
+00:43:23,440 --> 00:43:27,520
+ of ops always completely empty for the whole weekend really shows that this is one way in which
+
+453
+00:43:27,520 --> 00:43:32,480
+ people are quite happy to take advantage of the fact it's virtual and not limited to physical space
+
+454
+00:43:33,360 --> 00:43:40,080
+ i think the other thing that they tried to replicate sort of a physical easter con in gather was by
+
+455
+00:43:40,080 --> 00:43:45,120
+ having ops rovers so there were ops rovers i think wandering around the gather the problem is because
+
+456
+00:43:45,120 --> 00:43:49,440
+ gather doesn't let you kind of sort the list of people there in any way the only way to find the
+
+457
+00:43:49,440 --> 00:43:53,520
+ ops rover was sort of to scroll through this list of names and find out who would tag themselves
+
+458
+00:43:53,520 --> 00:43:59,200
+ ops rover and it was nowhere near as useful as if you're at an actual convention and you can go
+
+459
+00:43:59,200 --> 00:44:03,360
+ and find a person carrying a radio and wearing a sash and figure out who is in charge of things
+
+460
+00:44:03,360 --> 00:44:07,920
+ so that i think was a physical thing that just doesn't carry over and and didn't feel useful you
+
+461
+00:44:07,920 --> 00:44:11,680
+ could just have the ops rover hanging around in ops and if you got a message through saying
+
+462
+00:44:11,680 --> 00:44:16,160
+ you know help someone stuck it in a tree in the arboretum you could then send their little avatar
+
+463
+00:44:16,160 --> 00:44:19,600
+ over i don't think you could get stuck in a tree in the arboretum but wouldn't it be cool if you could
+
+464
+00:44:19,600 --> 00:44:24,880
+ it was clearly a design choice from the convention to replicate the physical convention
+
+465
+00:44:24,880 --> 00:44:30,160
+ as far as they possibly could and this worked well for me in some ways because it meant that when
+
+466
+00:44:30,160 --> 00:44:34,000
+ we asked them if we could have a newsletter room they were like oh yeah yeah you could have a newsletter
+
+467
+00:44:34,000 --> 00:44:39,200
+ room and that turned out to be quite useful for us because it was quite a nice place to to hang out
+
+468
+00:44:39,200 --> 00:44:44,480
+ and do newsletter and talk to people with newsletter items and so on but it also meant that they made
+
+469
+00:44:44,480 --> 00:44:51,920
+ some decisions that were frankly really terrible like paying for i assume a program called zello
+
+470
+00:44:52,480 --> 00:45:00,800
+ which implements walkie talkie functionality between staff now most staff i mean walkie talkies have
+
+471
+00:45:00,800 --> 00:45:07,680
+ been a bit of a an unpleasant essential at least comes for some time but if you have a discord where
+
+472
+00:45:07,680 --> 00:45:13,280
+ you can type things you you don't really need a walkie talkie system because you can just check
+
+473
+00:45:13,280 --> 00:45:18,800
+ the discord and then one other thing on discord which is there have been a lot of different virtual
+
+474
+00:45:18,800 --> 00:45:23,040
+ conventions over the last year and they've run in lots of different ways but one thing that's I think
+
+475
+00:45:23,040 --> 00:45:31,200
+ almost everyone would agree with is that having text threads that collect all the thoughts that have
+
+476
+00:45:31,200 --> 00:45:36,560
+ the people have during and after program items and that you can go in later and go
+
+477
+00:45:36,560 --> 00:45:42,320
+ oh that looks like a good program item i should catch it on replay um i mean those those are
+
+478
+00:45:42,320 --> 00:45:47,920
+ incredibly positive and i've i think easter con not having them when they could perfectly well have
+
+479
+00:45:47,920 --> 00:45:57,040
+ them was i think a kind of a monumental goal and and i think they thought that gather chat would be
+
+480
+00:45:57,040 --> 00:46:03,600
+ reasonably a good reasonably good alternative to discord chat but gather chat isn't persistent
+
+481
+00:46:03,600 --> 00:46:09,280
+ it only kind of happens when you're ready to then the only thing you see is your chatter that it
+
+482
+00:46:09,280 --> 00:46:14,960
+ only saves so many messages so so you can't actually go all the way back through your chat so it doesn't
+
+483
+00:46:14,960 --> 00:46:22,080
+ create a record of information on a topic um so i think that was a bit of a mistake and i think they
+
+484
+00:46:22,080 --> 00:46:28,000
+ didn't need to make it it's not very hard to moderate discords for easter con type people i think
+
+485
+00:46:28,000 --> 00:46:33,600
+ big discord servers with ordinary people on them not ordinary people thought again big discord
+
+486
+00:46:33,600 --> 00:46:38,240
+ servers with teenage gamers on speed on them can be quite hard to moderate because they can be an
+
+487
+00:46:38,240 --> 00:46:43,680
+ awful lot of kind of spammy threads and meme threads and people posting completely outrageous
+
+488
+00:46:43,680 --> 00:46:50,160
+ stuff and i think if you've come from discord from that direction you can be quite surprised by how
+
+489
+00:46:50,160 --> 00:47:02,320
+ sedate convention discords tend to be so um let's talk program and art show um so i liked the program
+
+490
+00:47:02,320 --> 00:47:09,360
+ uh the bits that i saw kind of after saturday morning i thought good and i enjoyed um some of
+
+491
+00:47:09,360 --> 00:47:14,800
+ the program items very much um and i thought the art show was fantastic they used a piece of
+
+492
+00:47:14,800 --> 00:47:21,120
+ software called const matrix um which was cool um and let you kind of imagine that you were in a
+
+493
+00:47:21,120 --> 00:47:28,320
+ real art gallery uh my one criticism of const matrix is that i think it introduced a disconnect
+
+494
+00:47:28,320 --> 00:47:34,640
+ between viewing the art and buying the art that i think um especially my my wife was a bit curious
+
+495
+00:47:34,640 --> 00:47:42,560
+ as to how well the popularity of the art show had converted into sales for artists i do not know
+
+496
+00:47:42,560 --> 00:47:46,960
+ how well it did that so if you are an artist who exhibited and sold things or didn't sell things at
+
+497
+00:47:46,960 --> 00:47:51,440
+ east con please do write in and let us know how you feel that went because we'd be very interested
+
+498
+00:47:51,440 --> 00:47:57,280
+ um the program i thought was very good the panel items i saw were very cool you could watch them by
+
+499
+00:47:57,280 --> 00:48:02,160
+ going to the room in gather and kind of watching them in the room there um but what actually happened was
+
+500
+00:48:02,960 --> 00:48:07,680
+ if you are on a Mac and you watch things as a video in safari you can pop it out and have it as a
+
+501
+00:48:07,680 --> 00:48:12,000
+ little window that like hovers over all your other windows in the corner of your screen and so i was
+
+502
+00:48:12,000 --> 00:48:16,800
+ kind of wandering around uh the gather or doing the newsletter or whatever with the program item just
+
+503
+00:48:16,800 --> 00:48:21,600
+ kind of constantly playing in my upper right hand corner and that was amazing i really liked that
+
+504
+00:48:21,600 --> 00:48:27,520
+ we'll just call you chris gossier chris didn't even lock us this time allison so frankly he's
+
+505
+00:48:27,520 --> 00:48:32,800
+ persona non grata until he gets back on the horse you know who did lock us clair bryley of croydon
+
+506
+00:48:32,800 --> 00:48:41,440
+ right anyway so um yeah but in general i really like them i have no real criticisms of either thing
+
+507
+00:48:41,440 --> 00:48:47,600
+ other than that very small question about um comparing into art sales so i would say that actually
+
+508
+00:48:47,600 --> 00:48:52,880
+ how i watched the program a lot of time is sometimes i had it open on the second screen on my desktop
+
+509
+00:48:52,880 --> 00:49:00,480
+ because i've got a laptop and desktop setup oh fancy um i actually discovered that if i
+
+510
+00:49:00,480 --> 00:49:07,440
+ logged into program on the browser on my amazon tv stick that worked perfectly well it wouldn't work
+
+511
+00:49:07,440 --> 00:49:11,680
+ on my playstation for some reason and it wouldn't work on my chrome cast for some reason but it was
+
+512
+00:49:11,680 --> 00:49:17,360
+ quite happy with the random amazon browser anyway so that that worked fine um so i did that quite a
+
+513
+00:49:17,360 --> 00:49:22,080
+ lot uh a few items i will call out for being particularly good is oh i really enjoyed the hay
+
+514
+00:49:22,080 --> 00:49:30,000
+ lecture which was about sort of um forensic archaeology and about burial practices and it was really
+
+515
+00:49:30,000 --> 00:49:35,840
+ interesting and there is a horrible analogy about popcorn i recommend you go and look up
+
+516
+00:49:35,840 --> 00:49:40,640
+ uh this is probably alison and john because i should say the program is only available till the 12th
+
+517
+00:49:40,640 --> 00:49:45,280
+ of april and we'll be down by the time you listen to this podcast but you know they also had a couple
+
+518
+00:49:45,280 --> 00:49:50,240
+ of panels which i'm not sure where the panelists were but they may have been difficult to pull
+
+519
+00:49:50,240 --> 00:49:56,240
+ together so many experts at an easter con i think they did make good use of the virtuality of the
+
+520
+00:49:56,240 --> 00:50:02,560
+ convention by getting some people to pop in for a panel or a couple of items who you would definitely
+
+521
+00:50:02,560 --> 00:50:08,640
+ not normally see at an easter con and who very much enhanced the easter con so i thought that was
+
+522
+00:50:08,640 --> 00:50:14,560
+ pretty good quite clever good choice good good choice of panelists on lots and lots of items
+
+523
+00:50:15,280 --> 00:50:20,800
+ the one i was specifically pulled out that i i watched later on actually and enjoyed was panel
+
+524
+00:50:20,800 --> 00:50:25,680
+ about jinnyong works in place in chinese literature which is about hong kong's most famous novelist
+
+525
+00:50:25,680 --> 00:50:30,480
+ who i was not aware of before the convention um but now might go and try and check out some
+
+526
+00:50:30,480 --> 00:50:35,680
+ translations and there are yeah there were just generally quite a few good program items there
+
+527
+00:50:35,680 --> 00:50:42,000
+ are also fun ones i watched the one which is like is it about 80s pop lyric or a warhammer 40k
+
+528
+00:50:42,000 --> 00:50:47,680
+ space marine uh line and uh yeah it was very cleverly done because obviously some of them were
+
+529
+00:50:47,680 --> 00:50:52,560
+ were one only that are both sometimes and also included ones that the people on the panel
+
+530
+00:50:52,560 --> 00:50:56,080
+ had written and occasionally forgotten so that was quite fun um
+
+531
+00:50:56,080 --> 00:51:02,880
+ excellent and they all work fine it also may realize it's so that you can do a sort of virtual
+
+532
+00:51:02,880 --> 00:51:07,120
+ fun quiz show because you don't need to have like buzzers you can just have everywhere on the
+
+533
+00:51:07,120 --> 00:51:12,880
+ panel has like i think they had little um like ray toy ray guns that made a noise and so you could
+
+534
+00:51:12,880 --> 00:51:16,240
+ use that to be like your buzzer and you could just have them at home and you just suddenly hold
+
+535
+00:51:16,240 --> 00:51:21,360
+ up your little buzzer and buzz in so that was neat um i did really enjoy the art show i mean i wasn't
+
+536
+00:51:21,360 --> 00:51:28,000
+ in the market for buying any art this year because art car i'd have to get the art ship thousands of
+
+537
+00:51:28,000 --> 00:51:33,600
+ hours from me which seemed impractical so i didn't really notice the lack of linkage between art show
+
+538
+00:51:33,600 --> 00:51:39,600
+ and being able to buy the art but i i really enjoyed the way you could just kind of go to an artist's
+
+539
+00:51:39,600 --> 00:51:44,320
+ site and just you know enjoy clicking through and have a sort of guided tour of all their art
+
+540
+00:51:44,320 --> 00:51:50,640
+ and i did enjoy that um yeah for Alex Stora who designed the gatherer and also had an exhibit in
+
+541
+00:51:50,640 --> 00:51:54,800
+ the art show he does a lot of music and so you can just play the music and there's absolutely no
+
+542
+00:51:54,800 --> 00:51:58,560
+ problem with that and imagine trying to do that in a regular easter con art show it you know you'd
+
+543
+00:51:58,560 --> 00:52:01,520
+ have to have like three people sharing pairs of headphones whatever it would just be terrible
+
+544
+00:52:01,520 --> 00:52:06,160
+ whereas in the virtual one it's like yeah you want to show videos you want to have music go for it
+
+545
+00:52:06,160 --> 00:52:08,960
+ so that was really nice
+
+546
+00:52:08,960 --> 00:52:16,240
+ i think it's the alice it's the alice and segment of the podcast i think now
+
+547
+00:52:16,240 --> 00:52:22,880
+ i want to talk a bit a little bit about how to cherry stecons but i did that actually i've i've
+
+548
+00:52:22,880 --> 00:52:29,200
+ it turns out from a few weeks before the convention we were talking here about it in octa thought but
+
+549
+00:52:29,200 --> 00:52:34,560
+ because i do a lot of different things in fandom and therefore i i get involved in lots of different
+
+550
+00:52:34,560 --> 00:52:40,240
+ areas of convention i kept asking different areas of conventions about things that included things
+
+551
+00:52:40,240 --> 00:52:45,280
+ where i was working on the convention and i needed support from the convention to do what i wanted
+
+552
+00:52:45,280 --> 00:52:52,320
+ to do and didn't want to be interfered with um and also areas where i was bringing things to the
+
+553
+00:52:52,320 --> 00:52:56,720
+ convention and so wanted some information about how the bits of the convention i was bringing things
+
+554
+00:52:56,720 --> 00:53:02,320
+ to would work and areas where i had information for them and i was like do you want to do some of
+
+555
+00:53:02,320 --> 00:53:08,240
+ this stuff on your social media and what what i was finding was that there's a lot of work in
+
+556
+00:53:08,240 --> 00:53:12,080
+ an easter come particularly in the last four or five weeks and what i was finding was that
+
+557
+00:53:12,080 --> 00:53:19,200
+ every single decision no matter how tiny had to be made at committee level and that doesn't mean
+
+558
+00:53:19,200 --> 00:53:23,440
+ that a committee member made the decision what you would get is you'd be in conversation with committee
+
+559
+00:53:23,440 --> 00:53:29,520
+ members and they'd be going i cannot make that decision it has to be made in full committee
+
+560
+00:53:29,520 --> 00:53:36,160
+ we didn't have a bid for 2023 but it wasn't really a terrible problem if we didn't because
+
+561
+00:53:36,160 --> 00:53:42,080
+ it's only 2021 now so we could bid next year but then about three days before three or four days
+
+562
+00:53:42,080 --> 00:53:46,960
+ before the easter con somebody asked if anyone knew anything about a 2023 bid and Vanessa said
+
+563
+00:53:47,600 --> 00:53:54,560
+ yes and i formed a think and my think was i don't think Vanessa should get another
+
+564
+00:53:54,560 --> 00:54:01,440
+ turn at this just because um just because she wants it because she hasn't had a chance to
+
+565
+00:54:01,440 --> 00:54:05,840
+ chair a physical convention yet i i'm not totally reversed for Vanessa running the easter con in
+
+566
+00:54:05,840 --> 00:54:10,400
+ 2023 but i thought she should take to where to have a little think about it and so i started
+
+567
+00:54:10,400 --> 00:54:16,720
+ sounding out other people um about their experiences of working on this convention about their
+
+568
+00:54:16,720 --> 00:54:24,640
+ experiences of working with Vanessa and um and i started thinking about the possibility that we
+
+569
+00:54:24,640 --> 00:54:30,320
+ might need to say at the bidding session oh you know what you should take some time to reflect and so
+
+570
+00:54:30,320 --> 00:54:36,320
+ i asked i think two days before the convention how you'd go about um expressing the fact that you
+
+571
+00:54:36,320 --> 00:54:40,880
+ wanted to speak at the bidding session and i didn't get an answer and other people started asking on
+
+572
+00:54:40,880 --> 00:54:44,720
+ by behalf whether this was going to get answered i didn't put them up to it they just kind of asked
+
+573
+00:54:45,280 --> 00:54:49,840
+ and that we didn't get an answer and then during the convention obviously they were too busy on
+
+574
+00:54:49,840 --> 00:54:53,520
+ Thursday and Friday but by Saturday they were i was kind of going how are we going to speak at the
+
+575
+00:54:53,520 --> 00:54:57,920
+ bidding session they were kind of like an eventually we found out that it was going to be a secure
+
+576
+00:54:57,920 --> 00:55:04,800
+ zoom where you could type in a 160 character um comments and i felt well actually that's not the
+
+577
+00:55:04,800 --> 00:55:10,880
+ way our community works and and that caused me to coalesce around the notion that i really need
+
+578
+00:55:10,880 --> 00:55:15,440
+ to speak up and say something on behalf of all the people who weren't getting to speak and when i
+
+579
+00:55:15,440 --> 00:55:19,520
+ asked the convention if i they could make provision for me to speak they said no you can only speak
+
+580
+00:55:19,520 --> 00:55:25,680
+ if you're a bid and this at that point i thought that was just plain wrong so i wrote a speech and
+
+581
+00:55:25,680 --> 00:55:32,160
+ i bid for 2023 and the speech is on answerable so you could go and read it because that seemed like
+
+582
+00:55:32,160 --> 00:55:37,520
+ um nailing it to the church door of fandom was the comment that somebody else used about their
+
+583
+00:55:37,520 --> 00:55:44,000
+ rant which is not like my rant but it was it's a speech about what you should do if you're
+
+584
+00:55:44,000 --> 00:55:50,000
+ chair and obviously i was coming at it from the point of view of it felt to me like i was not seeing
+
+585
+00:55:50,000 --> 00:55:55,280
+ evidence that vinescent was doing enough of these things but it's a general speech about what i think
+
+586
+00:55:55,280 --> 00:56:00,320
+ a convention church do and i think it's pretty good which is why i've left it lying around despite
+
+587
+00:56:00,320 --> 00:56:03,920
+ the fact that it has had its purpose which was to push the east to come bid off for another year
+
+588
+00:56:04,640 --> 00:56:09,920
+ um i feel like a lot of things that i felt didn't go well about this convention were down to not
+
+589
+00:56:09,920 --> 00:56:15,040
+ doing the things i talked about in that speech and a lot of this podcast has also been um it was very
+
+590
+00:56:15,040 --> 00:56:21,200
+ uncomfortable to do that because i felt like i was standing up and plunging all fandom into war
+
+591
+00:56:21,200 --> 00:56:28,960
+ she was um my friends have been very kind but i'm sure my enemies are not being very kind so if this
+
+592
+00:56:28,960 --> 00:56:34,560
+ is you i all i really wanted to achieve was to just put off that decision and i think
+
+593
+00:56:34,560 --> 00:56:39,440
+ so i just want to jump in here and tell you what your speech was in the true manner of a white
+
+594
+00:56:39,440 --> 00:56:48,720
+ vanish male go on i need a mansplain oh it was more in my opinion it was more than you just explaining
+
+595
+00:56:48,720 --> 00:56:53,600
+ why the bid needed to be pushed back it was a neat summarization of all the reasons that people
+
+596
+00:56:53,600 --> 00:57:00,720
+ had been disgruntled with this east con in the last year in a easy to understand package which
+
+597
+00:57:00,720 --> 00:57:05,920
+ made people think oh like from from my perspective anyway i had been feeling frustrated annoyed and
+
+598
+00:57:05,920 --> 00:57:11,200
+ disenfranchised by this east con but i i don't think i could have put quite my finger on why and i think
+
+599
+00:57:11,200 --> 00:57:16,160
+ if you listen to the last ooh 26 episodes of octa thought you can probably hear that although i talk
+
+600
+00:57:16,160 --> 00:57:19,920
+ about it a lot i'm not sure i'm particularly good at saying it's these five things that they're not
+
+601
+00:57:19,920 --> 00:57:26,160
+ doing and when i watched you give that speech it just all clicked and i'll say yes that's exactly why
+
+602
+00:57:26,160 --> 00:57:31,280
+ that's why i feel dissatisfied that's why i feel disenfranchised and that's what i want the east
+
+603
+00:57:31,280 --> 00:57:37,520
+ con to be and so i think it wasn't just a speech delivered to explain why the bid needed to be
+
+604
+00:57:37,520 --> 00:57:45,760
+ pushed back to 2022 but it was also a statement of i would say that it would be a very good foundational
+
+605
+00:57:45,760 --> 00:57:50,480
+ document for what it is we hope to achieve as a community and that's why i think the analogy of
+
+606
+00:57:50,480 --> 00:57:56,000
+ nailing it to the church door is so apt because i think it is the sort of document that deserves
+
+607
+00:57:56,000 --> 00:58:00,480
+ to be nailed to the church door of fandom and so i i do think in fact you are selling yourself
+
+608
+00:58:00,480 --> 00:58:06,640
+ slightly short because i think it was a very good encapsulation of a lot of things i feel about east
+
+609
+00:58:06,640 --> 00:58:14,400
+ con as i said my friends supporters would be very kind to me okay so i mean i i'm sure that there
+
+610
+00:58:14,400 --> 00:58:21,680
+ are people who don't feel that way i if you think at this point i am a quite grumpy person who was
+
+611
+00:58:21,680 --> 00:58:28,320
+ just being grumpy and and Vanessa absolutely deserves another shot right now without a period
+
+612
+00:58:28,320 --> 00:58:34,480
+ of reflection then why don't you in the after times by me a drink and i'll tell you why you're wrong
+
+613
+00:58:34,480 --> 00:58:43,600
+ the other thing is although i am sure and i think this comes down to um whenever you get people
+
+614
+00:58:43,600 --> 00:58:50,960
+ who are disagreeing with you i think it is very difficult for anyone not i'm not i'm so i'm going
+
+615
+00:58:50,960 --> 00:58:56,880
+ to say me personally if i say something and someone i know says no you are wrong and i am annoyed and
+
+616
+00:58:56,880 --> 00:59:01,120
+ here are the reasons i think you're wrong it is often very difficult for me to tell whether i am
+
+617
+00:59:01,120 --> 00:59:05,520
+ at the edge of the bell curve and i am very unusual in thinking what i think and they are very typical
+
+618
+00:59:05,520 --> 00:59:11,760
+ and thinking what they think or the reverse and i think that's true in any disagreement you don't know
+
+619
+00:59:11,760 --> 00:59:19,280
+ how widely felt um either viewpoint is and i think so when we were criticizing east con in the run up
+
+620
+00:59:19,280 --> 00:59:24,400
+ you could plausibly have said that the loudest voices in the chorus of people criticizing east con
+
+621
+00:59:24,400 --> 00:59:29,760
+ were people who are us or people who are friends with us and so i think if you are running east con
+
+622
+00:59:29,760 --> 00:59:34,000
+ you could quite plausibly have said well yes but this is just ten people with like a stick up their
+
+623
+00:59:34,000 --> 00:59:39,040
+ ass so we probably don't need to treat their opinions as representative i think what the bid
+
+624
+00:59:39,040 --> 00:59:46,640
+ session showed quite neatly because 16% of people voted for Vanessa in 2023 10% of people voted for
+
+625
+00:59:46,640 --> 00:59:53,280
+ you in 2023 and 69% of people voted to hold over and i think what that shows quite neatly is that
+
+626
+00:59:53,280 --> 00:59:57,600
+ it isn't a case that it's 10 or 15 people who are very loud in east con fandom who had these
+
+627
+00:59:57,600 --> 01:00:03,200
+ reservations but it is a large segment of fandom who felt this disenfranchisement and i think if
+
+628
+01:00:03,200 --> 01:00:09,920
+ that wasn't the case then 2023 would be settled now and and your um and people would not have voted
+
+629
+01:00:09,920 --> 01:00:15,360
+ to hold over the vote until next year so i think the fact that people did vote for that means that
+
+630
+01:00:15,360 --> 01:00:18,480
+ although i'm sure that like there is a component here of your friends are being very kind to you
+
+631
+01:00:18,480 --> 01:00:24,400
+ and your enemies are probably not i do think that indicates that on some level a large segment of
+
+632
+01:00:24,400 --> 01:00:31,040
+ of the people in that meeting did sympathize more with the way you framed that and i i do think it
+
+633
+01:00:31,040 --> 01:00:38,160
+ is important that we don't be too um self-effacing about that because i think it's an important point
+
+634
+01:00:38,160 --> 01:00:41,920
+ which is it's not that you made a speech and everyone just ignored you you made a speech that resonated
+
+635
+01:00:42,640 --> 01:00:50,000
+ i did pull some skills that i gained in my previous professional job to do that um that have been
+
+636
+01:00:50,000 --> 01:00:57,680
+ lying dormant waiting for a suitable outlet for quite a long time um so you know that was quite nice um
+
+637
+01:00:57,680 --> 01:01:04,800
+ i think i was i am serious i mean i joked about i'll tell you what i'm wrong but i am very up for if
+
+638
+01:01:04,800 --> 01:01:11,680
+ you're listening to this you're thinking allison is full of beans i am full of beans and also yeah
+
+639
+01:01:11,680 --> 01:01:18,800
+ i am very very happy to to have a chat i think what i will say is that was probably one of the
+
+640
+01:01:18,800 --> 01:01:24,240
+ strange easter-comped sessions i've been to um not that i've been to that many used to
+
+641
+01:01:24,240 --> 01:01:30,960
+ combin sessions but it was unexpected and that's it i think like it's not something i would encourage
+
+642
+01:01:30,960 --> 01:01:36,080
+ people to to do at bid sessions is to to stand up and bid in order that they can kind of pin their
+
+643
+01:01:36,080 --> 01:01:42,080
+ personal philosophy of easter-con to a church door but you were left with no other way to do that
+
+644
+01:01:42,080 --> 01:01:46,400
+ because of the way they'd done it and i think that you know if i think there were lots of ways
+
+645
+01:01:46,400 --> 01:01:50,320
+ they could have headed off you ending up at the point where you felt you had to actually bid for
+
+646
+01:01:50,320 --> 01:01:56,720
+ an easter-con and pledged to be run more than necessary in order to make your point and i think
+
+647
+01:01:56,720 --> 01:02:02,160
+ that maybe just comes across again the the fact that everything seemed to be quite tightly controlled
+
+648
+01:02:02,160 --> 01:02:07,680
+ and communications quite tightly controlled and part of that was obviously not really wanting the
+
+649
+01:02:07,680 --> 01:02:11,760
+ bid session to turn into lots of random chatter and try and keep everything neat and tidy and
+
+650
+01:02:11,760 --> 01:02:18,080
+ and questioned through one channel where there was like a character restriction um and so yeah you
+
+651
+01:02:18,080 --> 01:02:22,800
+ ended up basically standing up and pronouncing with philosophy of the easter-con and i was a bit
+
+652
+01:02:22,800 --> 01:02:28,080
+ tense because i was like i don't know because in a normal bid session i could gauge the audience
+
+653
+01:02:28,080 --> 01:02:31,920
+ and i can see who's there and and who do i know and who are these people and do they seem to be
+
+654
+01:02:31,920 --> 01:02:36,960
+ like yeah yeah going along with it or are they like what is this woman doing once you just get
+
+655
+01:02:36,960 --> 01:02:41,360
+ off the stage so we can vote and you don't have that feeling in a virtual one and so when it came
+
+656
+01:02:41,360 --> 01:02:46,080
+ down to like actually okay 70 70 percent of people have said yeah let's hold it over think about this
+
+657
+01:02:46,080 --> 01:02:51,920
+ and come back next year and and really bid in it i was like phew because that made me feel like the
+
+658
+01:02:51,920 --> 01:02:58,000
+ community is supporting Alice in statement which i also very much support and i think
+
+659
+01:02:58,560 --> 01:03:03,600
+ sorry Alice i'm just going to tell you more about how you did um i think but i think what Liz just
+
+660
+01:03:03,600 --> 01:03:09,920
+ said there what Liz just said there is is also i think something she said much better than me but
+
+661
+01:03:09,920 --> 01:03:14,000
+ which i also felt which is and i think it comes back to that thing of like these two uncommitted
+
+662
+01:03:14,000 --> 01:03:17,600
+ didn't know whether it was just ten people who were very loud or whether it was widely felt thing
+
+663
+01:03:17,600 --> 01:03:21,280
+ and i think this is something we've had for the last year which is we're not seeing each other in
+
+664
+01:03:21,280 --> 01:03:26,400
+ pubs so we can't gauge the mood in order for you to make your feelings known about this you have to
+
+665
+01:03:26,400 --> 01:03:31,360
+ deliberately write it down in a place where people can see it you can't just nod along to a pub
+
+666
+01:03:31,360 --> 01:03:37,600
+ meeting or or something like that and so i think i think this is actually a problem of lockdown
+
+667
+01:03:37,600 --> 01:03:43,360
+ generally and i think in some ways because i was very tense in that meeting as well i was by no
+
+668
+01:03:43,360 --> 01:03:47,200
+ mean sure that you were going to come out of that meeting with the desired effect and the fact that
+
+669
+01:03:47,200 --> 01:03:54,800
+ it was like 70 percent of people voted um hold over was a was a very big relief to me um and so i do
+
+670
+01:03:54,800 --> 01:03:59,440
+ want to echo what Liz said which is i was glad that we had that opportunity to take the temperature
+
+671
+01:03:59,440 --> 01:04:04,000
+ of the room in lockdown because i think it is very difficult to take temperatures of rooms virtually
+
+672
+01:04:04,000 --> 01:04:10,560
+ yeah and also it was the first contested bid in my time in fandom this is my 14th east common
+
+673
+01:04:10,560 --> 01:04:14,560
+ it was the first time there's been a contested bid in all that time so it was exciting so it was
+
+674
+01:04:14,560 --> 01:04:21,120
+ not my first contested bid and my first east con was a contested bid it is true that contested bid
+
+675
+01:04:21,120 --> 01:04:28,960
+ in the year 2000 BC when dinosaurs roamed the earth pretty much but in fact dinosaurs ran the
+
+676
+01:04:28,960 --> 01:04:34,560
+ east con which was why we had a contested bid which we won um anyway sorry that that line probably
+
+677
+01:04:34,560 --> 01:04:42,320
+ used to cut out because those dinosaurs are mostly my friends now keeping it in keeping it in i don't
+
+678
+01:04:42,320 --> 01:04:47,200
+ think it's fine but i mean you know it says the thing which is that the reason you have contested
+
+679
+01:04:47,200 --> 01:04:52,720
+ bids is not because two groups of people want to own the east con it's because there are fundamental
+
+680
+01:04:52,720 --> 01:05:00,800
+ differences of view about what the convention is and what it stands for i was not expecting
+
+681
+01:05:00,800 --> 01:05:06,160
+ not to prevail i was slightly worried that i would end up with the east con seated with me
+
+682
+01:05:06,160 --> 01:05:09,280
+ which i as you know didn't particularly want
+
+683
+01:05:09,280 --> 01:05:15,520
+ listeners if you have ever wondered what unbridled self-esteem looks like you can hear it here now
+
+684
+01:05:16,320 --> 01:05:19,840
+ but yeah no but i'm going to explain why which is that i had talked to a lot of people and i
+
+685
+01:05:19,840 --> 01:05:27,760
+ hadn't just talked to them i did a thing where i got talked people who i knew had the ear of people
+
+686
+01:05:27,760 --> 01:05:35,760
+ who are not particularly my friends in fandom but whose opinions i trust and i got those people to
+
+687
+01:05:35,760 --> 01:05:41,760
+ sound out the people who i'm on not such good terms with and in fact i in at least one case some of
+
+688
+01:05:41,760 --> 01:05:46,080
+ my mates came to me to tell me that they'd had a very worried conversation with one of the people
+
+689
+01:05:46,080 --> 01:05:52,800
+ who i don't it is not is not one of my intimates and um and so so this is just kind of how basic
+
+690
+01:05:52,800 --> 01:05:58,800
+ politics works and i am not actually a hugely political animal but um i did actually i had
+
+691
+01:05:58,800 --> 01:06:04,400
+ actually done my homework i would have been extremely surprised um if the east con if that
+
+692
+01:06:04,400 --> 01:06:10,400
+ meeting had gone the other way i wanted just tiny tiny moment on management and organizational
+
+693
+01:06:10,400 --> 01:06:14,080
+ design which is that i don't i think they need to do a lot of it because i think virtual
+
+694
+01:06:14,080 --> 01:06:18,560
+ eastercalls are very different which conventions are very difficult and i'm not sure they really did
+
+695
+01:06:18,560 --> 01:06:25,920
+ any of it so we ended up with teams that reflect the teams you have at
+
+696
+01:06:25,920 --> 01:06:32,640
+ physical eastercalls and i think they kind of got in each other's way quite a bit and that that is
+
+697
+01:06:32,640 --> 01:06:38,080
+ i think absolutely down to chairmanship as well and finally a lot of this a lot of what's
+
+698
+01:06:38,080 --> 01:06:46,000
+ is said was focused on Vanessa but that was because Vanessa had just bid for a convention for which
+
+699
+01:06:46,000 --> 01:06:51,520
+ she had no announced committee so she was literally standing up and saying let me have the easter
+
+700
+01:06:51,520 --> 01:06:57,920
+ con and i'll i'll run it my way and and i think that was that was quite easy to to counter
+
+701
+01:06:57,920 --> 01:07:03,600
+ in a way that if she'd had a good team around her i think i might i might very well have
+
+702
+01:07:04,160 --> 01:07:09,760
+ have not persuaded people to hold over i think a really useful skill in an easter con chair is
+
+703
+01:07:09,760 --> 01:07:14,960
+ being able to do this thing where you can go okay i'll go and ask this person because i know they
+
+704
+01:07:14,960 --> 01:07:18,480
+ can take the temperature of these other ten people who don't necessarily know me it wouldn't
+
+705
+01:07:18,480 --> 01:07:23,360
+ necessarily speak up directly to me and in that way you can get an overview of what people are
+
+706
+01:07:23,360 --> 01:07:28,080
+ thinking and that's actually really effective skill if you're going to run an easter con so
+
+707
+01:07:28,080 --> 01:07:34,080
+ as Liz mentions alison is very good at working with and talking with members of the community
+
+708
+01:07:34,080 --> 01:07:39,200
+ in order to build up a view of what needs doing who needs to do it and when and it is for this
+
+709
+01:07:39,200 --> 01:07:44,880
+ kind of tireless invisible behind the scenes service that she has won the doc weir reward so
+
+710
+01:07:44,880 --> 01:07:53,840
+ congratulations alison very well done um yeah no i was very pleased to win the doc weir um
+
+711
+01:07:53,840 --> 01:08:02,560
+ thanks to my octaphor co-host because i think i kind of got it not for nailing things to church
+
+712
+01:08:02,560 --> 01:08:08,480
+ doors but because i've done a load of stuff for the last year about keeping fandom connected in the
+
+713
+01:08:08,480 --> 01:08:12,640
+ keeping uk fandom connected in the pandemic and i think that octaphor has been a big part of that
+
+714
+01:08:12,640 --> 01:08:18,160
+ and i am also i think there might have been the ones that put the fix in don't know what you mean
+
+715
+01:08:18,160 --> 01:08:25,120
+ i am very pleased to have won an award for for massive humility and i am intending to
+
+716
+01:08:25,120 --> 01:08:30,560
+ play on this every time i feel like i want to say in my humble opinion i know that i am in fact
+
+717
+01:08:30,560 --> 01:08:34,960
+ expressing a humble opinion because i just want to make a humility award so there we go
+
+718
+01:08:34,960 --> 01:08:41,920
+ the reason i vote for you and all weir was mostly not because of your um nailing things to church
+
+719
+01:08:41,920 --> 01:08:47,200
+ doors but mostly because i think you have done more than anyone else in the last year to keep
+
+720
+01:08:47,200 --> 01:08:54,080
+ British fandom a community and i think that deserved recognition and that is exactly why i voted and
+
+721
+01:08:54,080 --> 01:09:00,080
+ i think i as a lot of people also voted before you nailed things for church door um which makes
+
+722
+01:09:00,080 --> 01:09:04,240
+ it somewhat awkward because i don't think you should win for laying things in church door that's a big
+
+723
+01:09:04,240 --> 01:09:07,840
+ obvious visible thing i think you should win for the fact that you have basically been keeping a lot
+
+724
+01:09:07,840 --> 01:09:14,560
+ of people going socially and you know keeping their mental health uh good free ear basically
+
+725
+01:09:14,560 --> 01:09:18,160
+ i've been trying very trying
+
+726
+01:09:18,160 --> 01:09:26,720
+ oh the old jigsaw the best yeah you've had your head your moment of humility now let's go on it
+
+727
+01:09:26,720 --> 01:09:30,800
+ i have right yeah thanks a lot guys
+
+728
+01:09:30,800 --> 01:09:41,600
+ we are going to collect together con reports of confusion and we are going to put links to them
+
+729
+01:09:41,600 --> 01:09:47,840
+ on our on the octothermic show notes page for this show so if you have written a con report
+
+730
+01:09:47,840 --> 01:09:53,360
+ we will if you get it to us we'll make sure it's there for people to read that could be a positive
+
+731
+01:09:53,360 --> 01:09:58,080
+ report a negative report a bit to report we've got a few so do tell us your con reports
+
+732
+01:09:58,080 --> 01:10:05,120
+ yes and we will link that we will link to the ones we know about at the moment in the show notes
+
+733
+01:10:05,120 --> 01:10:10,720
+ and we will add to the show notes to the ones we receive um and we will also mention them at
+
+734
+01:10:10,720 --> 01:10:16,160
+ octotherp live so i don't know if we remembered to mention octotherp live but it's happening on the
+
+735
+01:10:16,160 --> 01:10:23,920
+ 25th of April 2021 um and it will be on zoom we will put advertisements in anonymous claire
+
+736
+01:10:23,920 --> 01:10:31,680
+ and on our twitter and facebook so keep your eyes peeled for those but what about our members who
+
+737
+01:10:31,680 --> 01:10:36,480
+ aren't on facebook or twitter and or anonymous claire so if you would like to come to octotherp live
+
+738
+01:10:36,480 --> 01:10:41,040
+ and you are not on the anonymous claire discord or following us on twitter or facebook please do
+
+739
+01:10:41,040 --> 01:10:48,320
+ feel free to email octothecast@gmail.com and we will sort you out with the link but until next time
+
+740
+01:10:48,320 --> 01:10:56,960
+ it's goodbye from me it's goodbye from me and it's goodbye from me
+
+741
+01:10:57,120 --> 01:11:12,000
+ [Music]
+
+742
+01:11:12,000 --> 01:11:18,880
+ we were going to talk about other topics i don't think we are we've been recording at the time i say
+
+743
+01:11:18,880 --> 01:11:24,800
+ this i believe for around about an hour and 40 minutes the theme music for this episode was
+
+744
+01:11:24,800 --> 01:11:31,920
+ fanfare for space by kevin mccloud at ncompetech.com used under a creative commons attribution 3.0
+
+745
+01:11:31,920 --> 01:11:36,160
+ license this podcast will end at the beep beep
+

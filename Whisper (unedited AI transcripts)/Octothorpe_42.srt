@@ -1,0 +1,2392 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Not very interesting content to carry on.
+
+2
+00:00:02,000 --> 00:00:03,000
+ #Concent
+
+3
+00:00:03,000 --> 00:00:22,000
+ Hello everyone and welcome to the 42nd episode of OctaThorp, a podcast for science fiction and
+
+4
+00:00:22,000 --> 00:00:29,200
+ science fiction fandom. This episode is coming to you on the 14th of October 2021. I'm John Coxon.
+
+5
+00:00:29,200 --> 00:00:32,320
+ I'm Alison Scott. And I'm Liz Batty.
+
+6
+00:00:32,320 --> 00:00:39,680
+ And we have some letters of comment. In fact, we have quite a lot of letters of comment owing to
+
+7
+00:00:39,680 --> 00:00:46,160
+ having recorded the previous episode quite soon after the previous previous episode.
+
+8
+00:00:46,160 --> 00:00:51,440
+ You're making sausages. We have lots of letters of comment. I also wanted to say
+
+9
+00:00:51,440 --> 00:00:57,840
+ it's episode 42, which surprised me because I thought OctaThort was the answer to life,
+
+10
+00:00:57,840 --> 00:00:59,040
+ the universe and everything.
+
+11
+00:00:59,040 --> 00:01:00,560
+ [Laughs]
+
+12
+00:01:00,560 --> 00:01:02,160
+ Possibly. Possibly.
+
+13
+00:01:02,160 --> 00:01:08,000
+ I do hope there's no one who is actually taking, you know, life advice from OctaThorp. I think that would be
+
+14
+00:01:08,000 --> 00:01:08,880
+ bad.
+
+15
+00:01:08,880 --> 00:01:17,200
+ If you're taking life advice from OctaThorp, please email us. And also, OctaThorp should be taken
+
+16
+00:01:17,200 --> 00:01:24,160
+ only as directed. Ask your physician before taking life advice from OctaThorp. OctaThorp is not a
+
+17
+00:01:24,160 --> 00:01:25,840
+ substitute for medical advice.
+
+18
+00:01:25,840 --> 00:01:29,280
+ But two thirds of OctaThorp is doctors.
+
+19
+00:01:29,280 --> 00:01:34,480
+ Yeah, but if they came to me on a plane and said, "Oh, Dr. That Man's Having a Hardstack," I would be like,
+
+20
+00:01:34,480 --> 00:01:35,600
+ "Yep."
+
+21
+00:01:35,600 --> 00:01:38,000
+ Oh, there's a brilliant meme going around about that at the moment.
+
+22
+00:01:38,000 --> 00:01:40,400
+ No, there's a very tedious meme going around about that.
+
+23
+00:01:40,400 --> 00:01:42,080
+ [Laughs]
+
+24
+00:01:42,080 --> 00:01:43,920
+ How many times have you seen it?
+
+25
+00:01:43,920 --> 00:01:48,720
+ Literally, like, dozens and dozens about different niche areas.
+
+26
+00:01:48,720 --> 00:01:51,760
+ There will be a tedious meme about that in the show notes.
+
+27
+00:01:51,760 --> 00:01:54,080
+ [Laughs]
+
+28
+00:01:54,080 --> 00:01:58,400
+ I'm not sure I've seen this meme because I do not do as much social media as some people.
+
+29
+00:01:58,400 --> 00:02:04,640
+ Okay, well, actually, I know that Liz has got a million copies of the remails in a text, so maybe she should send you one.
+
+30
+00:02:04,640 --> 00:02:05,840
+ All right, deal.
+
+31
+00:02:05,840 --> 00:02:11,680
+ All right, it'd be my Twitter. I'll try it. It's like when XKCD did that good thing about, like,
+
+32
+00:02:11,680 --> 00:02:16,320
+ you know, the different types of scientific paper, which was immediately done to death.
+
+33
+00:02:16,320 --> 00:02:22,080
+ And I saw like 100 different versions. And it's like you have sucked all the joy out of XKCD.
+
+34
+00:02:22,080 --> 00:02:25,680
+ How? Anyway, maybe I should spend less time on Twitter.
+
+35
+00:02:25,680 --> 00:02:31,680
+ On the subject of sucking all of the joy about things, let's start this episode with Jonathan Badly's
+
+36
+00:02:31,680 --> 00:02:38,720
+ Lock about Dragon Meat's COVID restrictions. Straight into COVID listeners, you know it, we love it.
+
+37
+00:02:38,720 --> 00:02:45,600
+ So they're going to have mandatory masking unless people have a medical exemption,
+
+38
+00:02:45,600 --> 00:02:48,800
+ and they are going to require NHS COVID passes.
+
+39
+00:02:48,800 --> 00:02:54,160
+ Good, correct. We like this. Good job, Dragon Meat. 10 out of 10. Excellent.
+
+40
+00:02:54,160 --> 00:02:59,920
+ Thank you to Jonathan for letting us know. So Ali posted to Facebook to let us know that there
+
+41
+00:02:59,920 --> 00:03:05,760
+ have been no reports of COVID from Francicon attendees. And also, she wrote us an email to let us know
+
+42
+00:03:05,760 --> 00:03:12,480
+ her experiences from Francicon. Yeah, she basically said she did a lot of program.
+
+43
+00:03:12,480 --> 00:03:17,600
+ She recorded fantasy book swap live with Tiffany Aching. She doesn't mean Tiffany Aching, does she?
+
+44
+00:03:17,600 --> 00:03:24,240
+ She used Tiffany Angus. Yes, I think so. I don't know whether it's an intentional joke,
+
+45
+00:03:24,240 --> 00:03:27,360
+ but it did make me thoughtful. So thank you, Ali. Give me some joy.
+
+46
+00:03:27,360 --> 00:03:33,440
+ And said social distancing was easy because there weren't that many people there. She was a bit
+
+47
+00:03:33,440 --> 00:03:40,640
+ worried about the masking of other hotel guests. But in fact, as she says, nobody at fantasy con
+
+48
+00:03:40,640 --> 00:03:45,520
+ appears to have caught COVID. And the thing that I wanted to say here is that there is a there is a
+
+49
+00:03:45,520 --> 00:03:49,920
+ lock element because one of the things that probably happened is that nobody went to fantasy con with
+
+50
+00:03:49,920 --> 00:03:55,840
+ COVID. And if nobody's infected at your convention, it won't spread no matter how much eyeball licking
+
+51
+00:03:55,840 --> 00:04:04,000
+ you do. So what you're doing when you have COVID so really the yes, it's all about risk.
+
+52
+00:04:04,000 --> 00:04:10,720
+ This is going to be very mathematical now. Nobody getting COVID isn't good evidence of your policies
+
+53
+00:04:10,720 --> 00:04:15,920
+ working. Lots of people getting COVID is strong evidence that your policies didn't work. But
+
+54
+00:04:15,920 --> 00:04:23,200
+ the evidence for your policies working well is that one or two people get COVID. Yeah, because
+
+55
+00:04:23,200 --> 00:04:26,880
+ there's a little bit of it about, but it did not spread. We had a good policy.
+
+56
+00:04:26,880 --> 00:04:34,000
+ What I like about this is the very British redefinition of doing well as like a small number of COVID
+
+57
+00:04:34,000 --> 00:04:40,480
+ rather than no COVID. No, no, no, it's not that obviously not having anyone getting COVID is great,
+
+58
+00:04:40,480 --> 00:04:48,080
+ but it provides zero evidence for or against your policy. Okay, so Liz, the actual epidemiologist
+
+59
+00:04:48,080 --> 00:04:54,000
+ with statistical background is going to tell me that I'm talking out my head. I think it might not
+
+60
+00:04:54,000 --> 00:04:58,880
+ be a strong evidence as you think, because you could have a person. We know that we know the
+
+61
+00:04:58,880 --> 00:05:03,680
+ distribution of like how many people you infect is heavily skewed, right? And many people in fact
+
+62
+00:05:03,680 --> 00:05:06,480
+ know one and some people in fact, lots of people, but there's also people in the middle of the
+
+63
+00:05:06,480 --> 00:05:12,160
+ vet one or two. So I think you probably can't tell the difference between someone comes to your
+
+64
+00:05:12,160 --> 00:05:16,800
+ con who is not exhaling a lot of virus and infects one or two people, and someone comes to your
+
+65
+00:05:16,800 --> 00:05:21,600
+ con and exhales lots of virus because they're in a very high viral load and infect lots of people
+
+66
+00:05:21,600 --> 00:05:27,120
+ based on, you know, use that to whether you think your policies are working. You need kind of an
+
+67
+00:05:27,120 --> 00:05:32,400
+ actual, I think you need a better comparator, basically. And all of this tells us that the Swiss
+
+68
+00:05:32,400 --> 00:05:40,400
+ cheese model of health and safety work is important. You have to have your various levels of COVID
+
+69
+00:05:40,400 --> 00:05:49,440
+ prevention and then also be lucky or ideally not unlucky. So what we have discovered here is that
+
+70
+00:05:49,440 --> 00:05:55,760
+ the fact that no one got COVID may or may not be good. No, it's definitely good. It's whether it's
+
+71
+00:05:55,760 --> 00:06:02,160
+ good evidence. Yeah, I mean, I think the better thing to say is, you know, if we have two conventions
+
+72
+00:06:02,160 --> 00:06:07,600
+ and one is where everyone is masked up and there's a strict vaccination policy, no one gets COVID
+
+73
+00:06:07,600 --> 00:06:11,520
+ and one where they have a much more relaxed masking of vaccination policy, no one gets COVID. That
+
+74
+00:06:11,520 --> 00:06:16,160
+ doesn't necessarily mean that we should automatically go for the more relaxed one because it was fine
+
+75
+00:06:16,160 --> 00:06:21,920
+ and no one got COVID. I think that's not strong enough evidence. Bingo. Are you advocating that we
+
+76
+00:06:21,920 --> 00:06:30,080
+ run Control-Con? Because I'm up for running Control-Con. I'm fairly sure that if we wait long enough,
+
+77
+00:06:30,080 --> 00:06:35,680
+ someone is going to run Control-Con for us. Excellent. Ali also mentions that the book
+
+78
+00:06:35,680 --> 00:06:40,000
+ launches were in a big room with small separated tables, which is something we mentioned in the
+
+79
+00:06:40,000 --> 00:06:44,720
+ previous episode. One of the things we had mentioned previously was that FantasyCon didn't have a
+
+80
+00:06:44,720 --> 00:06:49,840
+ policy on mandatory masking. They were like, please wear a mask if you feel like it, but like they
+
+81
+00:06:49,840 --> 00:06:55,040
+ weren't saying you had to. But very much from Ali's lock, I get the impression that almost all of
+
+82
+00:06:55,040 --> 00:07:00,800
+ the convention attendees were still wearing a mask. So I suspect that conventions are going to find
+
+83
+00:07:00,800 --> 00:07:06,880
+ that even if they don't mandate mask wearing, everyone will wear a mask anyway, so you're not.
+
+84
+00:07:06,880 --> 00:07:10,960
+ There's no reason not in a way. There's no reason not to mandate mask wearing because everyone who's
+
+85
+00:07:10,960 --> 00:07:15,280
+ going is already going to be wearing a mask. So you're not really going to annoy anyone as long
+
+86
+00:07:15,280 --> 00:07:22,000
+ as you've got like stuff in place for like medical exemptions. I saw a lot of photos from FantasyCon
+
+87
+00:07:22,000 --> 00:07:27,600
+ and nobody was wearing any masks in any of them. And what's going on as somebody said to me
+
+88
+00:07:27,600 --> 00:07:34,880
+ in a meeting for a different convention is that everyone stops masking where they're socializing
+
+89
+00:07:34,880 --> 00:07:39,440
+ with their friends. And over the course of the whole weekend, everyone socializes with all their
+
+90
+00:07:39,440 --> 00:07:49,520
+ friends, which covers everybody at the convention. So this is the great fallacy of COVID prevention.
+
+91
+00:07:49,520 --> 00:07:54,080
+ So when you actually go and do a thing with specific people and not any other people,
+
+92
+00:07:54,080 --> 00:07:59,200
+ you are exposing yourself to far less risk and your friends to far less risk than if you go to a
+
+93
+00:07:59,200 --> 00:08:03,280
+ convention and spend the weekend socializing in small groups, none of whom are masked.
+
+94
+00:08:03,280 --> 00:08:10,640
+ But if you have masks on in the common spaces outside of like your table at the bar and being
+
+95
+00:08:10,640 --> 00:08:15,200
+ on panels, your risk is lower than it would be if you didn't mask in those times. So,
+
+96
+00:08:15,200 --> 00:08:20,640
+ and because we know COVID is exponential, small decreases in risk are important to control and
+
+97
+00:08:20,640 --> 00:08:24,960
+ spread. Yes, they are. I think the other thing to consider is that sometimes people take their
+
+98
+00:08:24,960 --> 00:08:28,720
+ masks off to take a nice photo and then put the mask back on it. Oh, that would be that that's
+
+99
+00:08:28,720 --> 00:08:32,720
+ great if it's true. If you're anymore posted a picture to Instagram, which she said, don't worry,
+
+100
+00:08:32,720 --> 00:08:38,960
+ I only took my mask off for this photo. So I did see some evidence of of that, as Liz said.
+
+101
+00:08:38,960 --> 00:08:43,920
+ But yeah, it's good. I think it's good that FantasyCon went off and it's good that it seemed to go
+
+102
+00:08:43,920 --> 00:08:49,600
+ well. I didn't go because I'm a bit concerned. I was a bit concerned about the masking, but
+
+103
+00:08:49,600 --> 00:08:54,960
+ but I'm glad it went well. And actually it kind of reassures me for conventions coming up in the
+
+104
+00:08:54,960 --> 00:09:03,840
+ rest of the year. So that is good. On the topic of Novicon, we got a suite of comments or a talk
+
+105
+00:09:03,840 --> 00:09:10,240
+ from Andr Rosen, where she says, "Pause his octa-thorp, goes to read Novicon policy she knew
+
+106
+00:09:10,240 --> 00:09:15,280
+ nothing about on page. She didn't know existed." So putting the news out, glad to be of service and
+
+107
+00:09:15,280 --> 00:09:20,800
+ and also and bought the witness, which I have not yet done, but I'm excited to
+
+108
+00:09:20,800 --> 00:09:25,840
+ when I finished SpiritFairer, 94% complete on SpiritFairer, so it's not far off.
+
+109
+00:09:25,840 --> 00:09:28,880
+ Sounds like you really liked it then and I should give it another go.
+
+110
+00:09:28,880 --> 00:09:34,400
+ I'm not really sure. It definitely gets better in the middle. Like there's a point in the middle
+
+111
+00:09:34,400 --> 00:09:39,360
+ where you have enough to do that the bit where you have to actually do the management of your
+
+112
+00:09:39,360 --> 00:09:44,000
+ boat becomes like compelling enough to keep you playing. And then at the end when it starts
+
+113
+00:09:44,000 --> 00:09:48,160
+ tailing off again, you're like, "Okay." And at the beginning there's not enough happening
+
+114
+00:09:48,160 --> 00:09:52,080
+ for it to keep you engaged, I think. So it's very definitely a game with the bell curve
+
+115
+00:09:52,080 --> 00:09:58,240
+ in terms of like excitement over time. On the subject of COVID policies at conventions,
+
+116
+00:09:58,240 --> 00:10:04,000
+ Bill Burns writes in to say that he was listening to episode 40 and Chris was a bit wrong about
+
+117
+00:10:04,000 --> 00:10:08,880
+ US privacy laws not allowing anyone to ask about medical information such as vaccine status,
+
+118
+00:10:08,880 --> 00:10:13,120
+ the applicable federal law is HIPAA, which requires that personal health information be
+
+119
+00:10:13,120 --> 00:10:19,360
+ kept confidential, but it applies only to information held by doctors, hospitals, pharmacies, etc.
+
+120
+00:10:19,360 --> 00:10:25,680
+ But it doesn't apply to interactions between an individual and organizations not defined in the
+
+121
+00:10:25,680 --> 00:10:31,840
+ act. So if an airline or a convention or a shop wants to say, "You've got to show vaccine status,"
+
+122
+00:10:31,840 --> 00:10:38,160
+ and if you don't, we won't let you in, they are more than able to do that. And because Bill
+
+123
+00:10:38,160 --> 00:10:45,200
+ writes business software for companies which supply medical equipment, Bill is covered under
+
+124
+00:10:45,200 --> 00:10:51,360
+ HIPAA, and so is intimately familiar with all of these various bits of US law. So thank you very
+
+125
+00:10:51,360 --> 00:10:56,720
+ much, Bill, expert knowledge. Thank you for letting us know. Very interesting stuff.
+
+126
+00:10:56,720 --> 00:11:02,400
+ And then Chris Garcia writes in saying that sanitizing mics is actually quite easy,
+
+127
+00:11:02,400 --> 00:11:06,880
+ because the other thing he knows you can do the 20-minute ultraviolet boxes,
+
+128
+00:11:06,880 --> 00:11:12,960
+ which were mentioned last time, but he says that you can also just remove the phone, toss it,
+
+129
+00:11:12,960 --> 00:11:17,840
+ wipe the electronic bits down with bleach, and then put new foam on, which is slightly less
+
+130
+00:11:17,840 --> 00:11:22,480
+ environmentally friendly, but I can see that it would be a lot quicker if you had lots of people
+
+131
+00:11:22,480 --> 00:11:28,800
+ kind of all doing things in quick succession. And that's something we hadn't mentioned. So thank
+
+132
+00:11:28,800 --> 00:11:41,600
+ you for writing in Chris. He also says I do the best in podcasting. You can store all these for
+
+133
+00:11:41,600 --> 00:11:47,600
+ later, John. And when we launch our Patreon, there will be a soundboard, which is Alison,
+
+134
+00:11:47,600 --> 00:11:51,680
+ just doing different mhmms and Liz doing different cheeses.
+
+135
+00:11:53,200 --> 00:12:01,760
+ Jesus. Doing different cheeses is title of your sex tape. On the subject of high school movies,
+
+136
+00:12:01,760 --> 00:12:08,320
+ which is apparently the gift that keeps on giving, Bridget Bradshaw tweets at us to say that
+
+137
+00:12:08,320 --> 00:12:13,600
+ election is also a very good film. I searched letterbox for election, and there are a number of movies
+
+138
+00:12:13,600 --> 00:12:18,880
+ by this name. So I'm assuming one of them is a high school movie, but I've asked Bridget,
+
+139
+00:12:18,880 --> 00:12:24,640
+ which one she actually means. So I can put a link in the show notes. Eddie Cochran wrote in to say
+
+140
+00:12:24,640 --> 00:12:28,960
+ that one of his favorite high school movies was The Faculty, which he found surprising as he's not
+
+141
+00:12:28,960 --> 00:12:34,000
+ usually a horror fan. Lily and Edwards mentioned Buffy the Vampire Slayer and how she was surprised
+
+142
+00:12:34,000 --> 00:12:39,280
+ that none of us mentioned it. And I wonder whether I cut us mentioning it out. So I'm sure we said
+
+143
+00:12:39,280 --> 00:12:47,040
+ something about that. I'm going to say I definitely 100% mention Buffy the Vampire Slayer. And if John
+
+144
+00:12:47,040 --> 00:12:53,920
+ cut it out of the episode, then that was clearly a cut too far. So I take full responsibility for
+
+145
+00:12:53,920 --> 00:12:59,120
+ this as editor. But then I should have noticed and said, Oh no, we need to put it back in. Otherwise
+
+146
+00:12:59,120 --> 00:13:06,000
+ Lillian will write. I mean, and we got a lock. So really, it's good. And then Farah also wrote in
+
+147
+00:13:06,000 --> 00:13:10,720
+ to say that I needed to watch Romy and Michelle's high school reunion. And I have indeed seen that
+
+148
+00:13:10,720 --> 00:13:17,200
+ movie and I very much enjoyed it. And I would say that Farah is probably right about that. So yes,
+
+149
+00:13:17,200 --> 00:13:24,080
+ high school movie update. I was going to say that I suspect Bridget is meaning the 1999 film
+
+150
+00:13:24,080 --> 00:13:30,240
+ election, which I have seen a long time ago. And yeah, it is pretty good. It is a kind of like
+
+151
+00:13:30,240 --> 00:13:35,120
+ dark comedy with Reese Witherspoon and Matthew Broderick. And I suspect that's the one she means
+
+152
+00:13:35,120 --> 00:13:38,640
+ gonna remember that getting quite a lot of attention at the time. And the director's gone on to make
+
+153
+00:13:38,640 --> 00:13:43,280
+ a load of other films like sideways and the descendants and so on. It's probably that.
+
+154
+00:13:43,280 --> 00:13:50,000
+ Live follow up Bridget tweets to say that she does indeed mean the 1999 Broderick Witherspoon movie.
+
+155
+00:13:50,000 --> 00:13:56,000
+ So, hoorah, well done Liz. I'll put a link to that in the show notes. And I'll put links to all
+
+156
+00:13:56,000 --> 00:14:00,720
+ of the other movies we've mentioned in the show notes as well. So yeah, thank you to everyone who
+
+157
+00:14:00,720 --> 00:14:07,520
+ wrote in. Farah also mentions that Asterix is a classic choice for language expansion. And that
+
+158
+00:14:07,520 --> 00:14:12,160
+ had not occurred to me. But now it has occurred to me I will be buying lots of Spanish language
+
+159
+00:14:12,160 --> 00:14:15,520
+ editions of Asterix books. So thank you very much Farah.
+
+160
+00:14:15,520 --> 00:14:20,720
+ We'll be talking about language acquisition because and it is actually on topic because I
+
+161
+00:14:20,720 --> 00:14:29,200
+ am going to smothcon, which is at the beginning of December, and it's in Lisboa. And I am therefore
+
+162
+00:14:29,200 --> 00:14:36,400
+ learning Portuguese, a language which I had no idea I needed to learn for fun just a bit.
+
+163
+00:14:37,280 --> 00:14:41,840
+ It's full of words that don't look like I should know them. But when they're pronounced,
+
+164
+00:14:41,840 --> 00:14:45,760
+ I go, oh yes, that's cheese. And so on.
+
+165
+00:14:45,760 --> 00:14:50,560
+ We are going in person. I am. No, I want to. I should say this here because I've been actually
+
+166
+00:14:50,560 --> 00:14:57,280
+ holding this up and not posting about it. Dublin 2019 offered I think 19 scholarships to people
+
+167
+00:14:57,280 --> 00:15:00,960
+ from around the world to attend smothcon. And I don't know how many of these have been taken up.
+
+168
+00:15:00,960 --> 00:15:07,200
+ But I am I am going to smothcon on a Dublin 19 scholarship. It doesn't cover the whole cost,
+
+169
+00:15:07,200 --> 00:15:10,880
+ but it covers quite a lot of costs. And I'm taking my husband with me for a three-day
+
+170
+00:15:10,880 --> 00:15:16,400
+ mini break because it turns out that Ryanair do cheap flights. There's a song about that and
+
+171
+00:15:16,400 --> 00:15:22,240
+ we'll put a link to it in the show notes. And the hotel only costs 10 euros extra if there's
+
+172
+00:15:22,240 --> 00:15:27,920
+ two of you rather than one. And the convention has a five-year-old membership rate for people
+
+173
+00:15:27,920 --> 00:15:31,280
+ who don't actually want to attend the programme. I'm kind of wondering whether I can ask for that
+
+174
+00:15:31,280 --> 00:15:41,360
+ one for free instead of the full one. And I hadn't counted on the cost of getting COVID tests,
+
+175
+00:15:41,360 --> 00:15:44,320
+ but I don't think it's going to be that great because I think it's just lateral flow test.
+
+176
+00:15:44,320 --> 00:15:50,800
+ Now I'm going to go to Lisbon. I'm very excited but also very scared because flying.
+
+177
+00:15:50,800 --> 00:15:55,680
+ Congratulations. It's huge news and it's very good.
+
+178
+00:15:55,680 --> 00:15:59,280
+ And then I'm going to hide in my house for a fortnight when I get home.
+
+179
+00:15:59,280 --> 00:16:03,600
+ That's no longer required. I've done it and it was fine.
+
+180
+00:16:03,600 --> 00:16:07,280
+ I can't promise to do this, but when Liz did it, I always sent her an AeroPress.
+
+181
+00:16:07,280 --> 00:16:10,320
+ Oh no, don't do that. I have obviously.
+
+182
+00:16:10,320 --> 00:16:16,080
+ Yeah, no, I'm not going to, but Liz needed a way to get good coffee in her hotel in
+
+183
+00:16:16,080 --> 00:16:21,920
+ Toyland. So I provided her with an AeroPress. I was getting rid of anyway, so yes.
+
+184
+00:16:21,920 --> 00:16:26,400
+ I'm very confident that I will be able to get good coffee in Portugal.
+
+185
+00:16:26,400 --> 00:16:33,440
+ And I am even more confident that there are many, many ways to make coffee in this house,
+
+186
+00:16:33,440 --> 00:16:38,400
+ including at least two AeroPresses. Oh, well, I now have two AeroPresses because I've got
+
+187
+00:16:38,400 --> 00:16:42,560
+ John's. The thing is I didn't consider. So ship one from Toyland to...
+
+188
+00:16:42,560 --> 00:16:48,480
+ Yeah, I didn't consider when leaving that I would need one on the way back.
+
+189
+00:16:48,480 --> 00:16:53,440
+ I could have got good coffee, but it would have been like £3.50 a cup and I am a cheapskate and
+
+190
+00:16:53,440 --> 00:16:59,280
+ I was staying in hotels. So I got John's AeroPress and took it back with me and some bags of coffee
+
+191
+00:16:59,280 --> 00:17:04,640
+ and probably confused the maid. Yeah, when we stay in hotels in the UK, we take cold brew with us,
+
+192
+00:17:04,640 --> 00:17:10,000
+ but that's not going to be an option for this trip. So we're not going to fly with cold brew
+
+193
+00:17:10,000 --> 00:17:14,560
+ in the suitcase. Could you not buy any baggage because you're going on Ryaner? Yeah.
+
+194
+00:17:14,560 --> 00:17:18,240
+ Yeah, it makes sense. Anyway, I will be excited to hear
+
+195
+00:17:18,240 --> 00:17:24,480
+ from your first in-person convention. It will be my third in-person convention.
+
+196
+00:17:24,480 --> 00:17:29,440
+ By then it will, yeah. Because we'll have been to Corflu in Novacron.
+
+197
+00:17:29,440 --> 00:17:33,520
+ Haven't got to know conventions for two years. I'm going to three and six weeks because I'm
+
+198
+00:17:33,520 --> 00:17:42,400
+ absolutely insane. I just want to say thanks ever so much to Dublin 2019 for the scholarship,
+
+199
+00:17:42,400 --> 00:17:46,880
+ because although it's not a huge amount of money, it really does genuinely make a massive
+
+200
+00:17:46,880 --> 00:17:50,640
+ difference to me. And I'm sure that's true for a lot of other people. And I haven't been able to
+
+201
+00:17:50,640 --> 00:17:56,400
+ attend a smofcon in person before. So I am very excited. I think also I need to do a personal
+
+202
+00:17:56,400 --> 00:18:02,080
+ shout out to James Bacon who posted everywhere saying, "Do not self-exclude from these scholarships.
+
+203
+00:18:02,080 --> 00:18:06,320
+ Do not think that they're not for you or the likes of you." Because had he not done that,
+
+204
+00:18:06,320 --> 00:18:11,840
+ I would definitely not have applied. So because I would have self-excluded, I'd have gone, oh no,
+
+205
+00:18:11,840 --> 00:18:17,200
+ they're really for younger fans or fans who are more interested in World Cons rather than
+
+206
+00:18:17,200 --> 00:18:21,280
+ Easter Cons or fans who don't run snitty podcasts about the World Cons.
+
+207
+00:18:21,280 --> 00:18:27,680
+ I was just going to say that I have been to a smofcon because I went to a smofcon in Amsterdam in
+
+208
+00:18:27,680 --> 00:18:34,880
+ 2012, maybe? The reason I went to a smofcon is because James was like, "Come to smofcon,
+
+209
+00:18:34,880 --> 00:18:38,240
+ it'll be a laugh and also you need to meet Ian because you're going to run a division with him
+
+210
+00:18:38,240 --> 00:18:43,600
+ and I need you to actually sit down and chat." I think maybe, and then maybe I think he couldn't
+
+211
+00:18:43,600 --> 00:18:50,560
+ go. Anyway, I went and it was extremely World Con heavy and the vanishing position, that's forever,
+
+212
+00:18:50,560 --> 00:18:56,560
+ but it was Amsterdam and I had a very nice time messing with Amsterdam basically.
+
+213
+00:18:56,560 --> 00:18:59,680
+ And James and I went to a bunch of comic shops when Andy has some drinking.
+
+214
+00:18:59,680 --> 00:19:06,320
+ I think that was also the one in which Aimely stood up and proposed a bid for World Con in
+
+215
+00:19:06,320 --> 00:19:10,160
+ Mairam, which eventually turned into an actual bid for World Con.
+
+216
+00:19:10,160 --> 00:19:16,560
+ I joked earlier about not wanting to go to the con. What I mean is, of course, that when I went
+
+217
+00:19:16,560 --> 00:19:23,920
+ to the long con staff weekends, I found they were best the more time I spent in the bar having the
+
+218
+00:19:23,920 --> 00:19:30,160
+ side conversations with people and maybe going to see the delights of not Amsterdam, but more
+
+219
+00:19:30,160 --> 00:19:39,120
+ Stephenage was particularly valuable and that actually the formal plenary and even breakout sessions for
+
+220
+00:19:39,120 --> 00:19:44,400
+ these conventions are not necessarily as useful as people think they are. I mean,
+
+221
+00:19:44,400 --> 00:19:49,280
+ the vanishing position is very important, but the thing that's important is the process of answering
+
+222
+00:19:49,280 --> 00:19:57,280
+ all the questions ready for it rather than the actual event which I agree is like watching paint
+
+223
+00:19:57,280 --> 00:20:03,360
+ dry. Smuffcon Europe has a commitment to con running more broadly than just
+
+224
+00:20:03,360 --> 00:20:08,160
+ Wilcon, I should say, and they are about the European regional conventions and encouraging
+
+225
+00:20:08,160 --> 00:20:12,720
+ people who are planning to do those. I think partly because that's where we get the next generation of
+
+226
+00:20:12,720 --> 00:20:17,120
+ European Wilcon runners from, they're not in my case. You know, I'm going to run a European
+
+227
+00:20:17,120 --> 00:20:25,440
+ Wilcon? No, obviously not. There are plenty of people who want to do this who are younger than me.
+
+228
+00:20:25,440 --> 00:20:31,040
+ I'd like to go to one eventually. I also missed out there were a couple of cons in the UK called
+
+229
+00:20:31,040 --> 00:20:37,600
+ con runner that I also did not manage to get to. I did go to con runner which is very focused on
+
+230
+00:20:37,600 --> 00:20:42,000
+ Easter cons actually as you might expect, so it's kind of an ideal convention for
+
+231
+00:20:42,000 --> 00:20:47,680
+ people who run Easter cons and their friends. Cool. All right con runner, that's my sole comment.
+
+232
+00:20:47,680 --> 00:20:54,480
+ Was it good? I think so. Must have been good then. I can't remember to be honest.
+
+233
+00:20:55,120 --> 00:21:01,120
+ Yeah, I mean it sounds good. That I usually find is not a bad sign. I remember it was in Steve,
+
+234
+00:21:01,120 --> 00:21:04,880
+ oh basically all I remember was I think I went to Stevenage, having ever been to Stevenage and
+
+235
+00:21:04,880 --> 00:21:12,160
+ probably I just spent a lot of time drinking anyway. Maybe we should move on to broadcastable
+
+236
+00:21:12,160 --> 00:21:17,760
+ things. We've got more locks to get through, so. Okay, God.
+
+237
+00:21:17,760 --> 00:21:23,360
+ Jesus. Karen Shaffer says they don't really have traybakes except as imported from the
+
+238
+00:21:23,360 --> 00:21:28,080
+ Great British Bake Off. So the Bake Off transferring traybakes to the rest of the world.
+
+239
+00:21:28,080 --> 00:21:35,120
+ Hoorah. Soft power. Is that all our letters in the comment? Yes. Now we move on to the other
+
+240
+00:21:35,120 --> 00:21:43,120
+ letters of comment that we solicited. So this is episode 42 listeners and so I thought it might
+
+241
+00:21:43,120 --> 00:21:48,400
+ be nice to talk a little bit about Douglas Adams. For those who don't know who Douglas Adams is,
+
+242
+00:21:49,440 --> 00:21:54,640
+ he was a British writer who wrote a book called The Hitchhiker's Guide to the Galaxy and in the
+
+243
+00:21:54,640 --> 00:21:59,120
+ Hitchhiker's Guide to the Galaxy the ultimate answer to life, the universe and everything,
+
+244
+00:21:59,120 --> 00:22:05,280
+ is revealed to be 42 and this leads to a much longer period of time in which people try and
+
+245
+00:22:05,280 --> 00:22:12,160
+ work out what the hell the question is. I feel like that's not actually true. I feel like what
+
+246
+00:22:12,160 --> 00:22:17,360
+ was actually revealed was the computer that was designed to establish what the answer to life,
+
+247
+00:22:17,360 --> 00:22:23,520
+ the universe and everything was came up with 42. I believe this is a piece of commentary on
+
+248
+00:22:23,520 --> 00:22:31,120
+ on computers and the things that they do. Anyway, never mind. Yes. So if you if you are listening
+
+249
+00:22:31,120 --> 00:22:36,800
+ to this podcast and you don't know who Douglas Adams is already, yeah, no, that would be great.
+
+250
+00:22:36,800 --> 00:22:42,960
+ Let us know. I mean, Hara for you because you've got a lot of good content ahead of you.
+
+251
+00:22:42,960 --> 00:22:45,600
+ I don't think it's very likely, but you know, that would be amazing.
+
+252
+00:22:45,600 --> 00:22:51,440
+ But yes, so we had multiple people writing with their Douglas Adams-Z kind of anecdotes and
+
+253
+00:22:51,440 --> 00:22:56,640
+ tidbits and I'll read Chris's first so that I can close his email after I've done so.
+
+254
+00:22:56,640 --> 00:23:01,360
+ Chris Garcia wrote in to say that he met Douglas Adams once and when he met Douglas Adams,
+
+255
+00:23:01,360 --> 00:23:05,760
+ he told him, "Arthur C. Clarke said hi and if you want to know more about that anecdote,
+
+256
+00:23:05,760 --> 00:23:13,040
+ talk to Chris in the bar." And then Alex Holden wrote in to say that he watched a repeat of the
+
+257
+00:23:13,040 --> 00:23:19,040
+ BBC TV series as a young lad and learned there was an accompanying novel and then he went on a
+
+258
+00:23:19,040 --> 00:23:24,560
+ shopping expedition to a second-hand bookshop and he was surprised and impressed when the shopkeeper
+
+259
+00:23:24,560 --> 00:23:29,600
+ had not only heard of the book. He supplied the full title and author when it was only partially
+
+260
+00:23:29,600 --> 00:23:34,960
+ out of my mouth. Alex still has it and it remains one of his favorite novels. I remember when I
+
+261
+00:23:34,960 --> 00:23:40,400
+ got into H.I.K. as realizing other people knew about it and they liked it was a bit of a revelation
+
+262
+00:23:40,400 --> 00:23:45,120
+ because at that point several of my hobbies were not things that other people liked and
+
+263
+00:23:45,120 --> 00:23:49,840
+ or at the very least I had not yet found the other people who liked them. I think it's probably
+
+264
+00:23:49,840 --> 00:23:54,080
+ a better way of putting it. I suspect this is something with many of our listeners sympathize
+
+265
+00:23:54,080 --> 00:23:59,600
+ with. I have some things I want to talk about my experience of H.I.K. as which is that it
+
+266
+00:23:59,600 --> 00:24:04,400
+ completely passed me by not because I hadn't been born yet like some people I could mention
+
+267
+00:24:05,280 --> 00:24:12,080
+ but because I was living in America at the time and it didn't really quite catch on there.
+
+268
+00:24:12,080 --> 00:24:17,040
+ What happened was that I came back to the UK and went to university in Britain and discovered
+
+269
+00:24:17,040 --> 00:24:21,040
+ that I met all these science fiction fans. They were all like, "Oh, hitchhikers, it's amazing."
+
+270
+00:24:21,040 --> 00:24:24,960
+ They were kind of like really into it. They're not as into it as the people who were actually
+
+271
+00:24:24,960 --> 00:24:32,800
+ into it who they called Towleys and who included our very own Claire Barley friend of the show.
+
+272
+00:24:32,800 --> 00:24:39,200
+ But when I went to my first work on, which was the, I guess the 87 work on, there was a vast
+
+273
+00:24:39,200 --> 00:24:44,400
+ amount of hitchhikers. Everything everywhere there because it really was incredibly popular
+
+274
+00:24:44,400 --> 00:24:49,520
+ amongst UK science fiction fans as you probably expect because it's very good and by then I caught
+
+275
+00:24:49,520 --> 00:24:58,000
+ up. I didn't buy the official hitchhikers Towel which was a proprietary Towel with the stuff on it
+
+276
+00:24:58,000 --> 00:25:02,320
+ weaved into the fabric and I kind of have regretted that ever since. It was extremely
+
+277
+00:25:02,320 --> 00:25:07,120
+ expensive which was wired and buy it but I hadn't have any money. They now trade hands for stupid
+
+278
+00:25:07,120 --> 00:25:12,320
+ amounts of money because that's the way the world works these days. I have one. I bought it
+
+279
+00:25:12,320 --> 00:25:21,600
+ on eBay for the princely sum of $100 and that was back at the time when the exchange rate between
+
+280
+00:25:21,600 --> 00:25:27,680
+ pounds and dollars was not as silly as it currently is. It was back in the day when it was roughly
+
+281
+00:25:27,680 --> 00:25:34,240
+ two to one so surfing for merchandise on eBay in the States was like a super viable way of
+
+282
+00:25:34,240 --> 00:25:40,720
+ getting good stuff in the UK. It wouldn't work these days. And it is much rarer now and people
+
+283
+00:25:40,720 --> 00:25:47,040
+ know how rare things are a bit more now I think. When Max wrote an article for my very first
+
+284
+00:25:47,040 --> 00:25:52,240
+ fanzine she described to me as the hitchhikers fan who was indexed linked to the eBay prices for
+
+285
+00:25:52,240 --> 00:25:57,600
+ hitchhikers merch which I took at the time as a great compliment. Lillian Edwards wrote to
+
+286
+00:25:57,600 --> 00:26:04,000
+ us to say she was on the committee of the first ever convention Adams came to which was Hichakon
+
+287
+00:26:04,000 --> 00:26:09,520
+ and Glasgow. She says "I ought to have lots of really great stories but all I can remember is
+
+288
+00:26:09,520 --> 00:26:16,640
+ that he was very very tall." So thanks Lillian. Lillian herself is not very very tall and has the
+
+289
+00:26:16,640 --> 00:26:21,680
+ same problem with very tall people that I do which is they're a very long way away from you in the
+
+290
+00:26:21,680 --> 00:26:27,520
+ bar. They sent photos of their people bears. They did send photos of their people bears.
+
+291
+00:26:27,520 --> 00:26:32,640
+ I think people might have heard of Douglas Adams and still not know what a people bear is but there's
+
+292
+00:26:32,640 --> 00:26:40,320
+ a cottage industry here in the UK where a woman makes teddy bears with two heads and three arms
+
+293
+00:26:40,320 --> 00:26:47,040
+ and they're very adorable. Every single one is different. She never repeats and we have a couple
+
+294
+00:26:47,040 --> 00:26:52,240
+ of people bears around here. Jonathan's people bear had to go to the People Bear Hospital on
+
+295
+00:26:52,240 --> 00:26:57,520
+ multiple occasions so they were kind of like "do not do that" Jonathan but there we go.
+
+296
+00:26:57,520 --> 00:27:03,360
+ Yeah I have a people bear. I have a people bear called Barry. He is blue and he has tartan paws
+
+297
+00:27:03,360 --> 00:27:11,680
+ and I love him extremely much. There are various... We should put a photo of a people bear in the
+
+298
+00:27:11,680 --> 00:27:19,840
+ show notes. Can we have a picture of Barry? So people did post photos of their people bears on
+
+299
+00:27:19,840 --> 00:27:23,760
+ Facebook and there is a link to that Facebook post in the show notes but I will also try and put
+
+300
+00:27:23,760 --> 00:27:28,720
+ the pictures as chapter art and there are a number of brilliant pictures of people bears.
+
+301
+00:27:28,720 --> 00:27:34,720
+ A bunch of people posted basically saying like "I was in his Tigers fandom through ZZ9 and ZZ9
+
+302
+00:27:34,720 --> 00:27:39,920
+ was a big formative thing for me" and so Johnny I just wanted to pick out one
+
+303
+00:27:39,920 --> 00:27:47,280
+ called one that Johnny had posted saying that he met a bunch of people from ZZ9 at his first
+
+304
+00:27:47,280 --> 00:27:53,360
+ con in 1999 and they started going to the ZZ9 pub meets and now Johnny like a lot of his friends
+
+305
+00:27:53,360 --> 00:27:57,520
+ were in London fandom and that was their route in and then you know of course there was that one
+
+306
+00:27:57,520 --> 00:28:02,240
+ AGM where a 14 year old member came along and we had to convince his dad we were responsible adults
+
+307
+00:28:02,240 --> 00:28:07,360
+ and that that was me. I was the 14 year old that they had to persuade my dad that they were
+
+308
+00:28:07,360 --> 00:28:11,360
+ responsible adults before my dad would drop me off. They had the AGM at Peterborough and I was a member
+
+309
+00:28:11,360 --> 00:28:15,440
+ of the society I got the magazine and I said to my dad "I want to go to the AGM" and that was when I
+
+310
+00:28:15,440 --> 00:28:21,520
+ met Doug Spencer, I met Flick, I met Simo, God who I was there, um Red.
+
+311
+00:28:21,520 --> 00:28:24,160
+ And did you meet any responsible adults?
+
+312
+00:28:24,160 --> 00:28:28,800
+ I don't remember me any responsible adults but I think I remember meeting people who were able to
+
+313
+00:28:28,800 --> 00:28:35,680
+ convince my dad that they were so yes. Johnny does note that that was also the same AGM that the
+
+314
+00:28:35,680 --> 00:28:41,680
+ BBC filmed the AGM for the BBC Big Read so I was on the telly with my braces and I got the
+
+315
+00:28:41,680 --> 00:28:47,440
+ Babel Fish t-shirt. So that was my first, there is, there is televisual evidence of my first
+
+316
+00:28:47,440 --> 00:28:54,400
+ Spanish meeting rather bewilderingly. It was good and it was just, it was weird and great and I loved
+
+317
+00:28:54,400 --> 00:29:02,000
+ it. And now I'm in fandom, yeah, more. Oh do I have a link for you? Oh God I love the internet.
+
+318
+00:29:02,000 --> 00:29:06,960
+ What's I have a link to? Is the BBC Big Read on the hitchhiker's Guide to the Galaxy?
+
+319
+00:29:07,680 --> 00:29:16,000
+ Hey, I've got... Is this gonna have John age 14? I've opened so yes. Yes I was gonna say is it on
+
+320
+00:29:16,000 --> 00:29:21,760
+ the internet, brilliant. Yeah yeah it will and if you've actually got, if you've got a good version
+
+321
+00:29:21,760 --> 00:29:27,040
+ because the version I've got was like ripped off of VHS so... Oh no it will be ripped off VHS,
+
+322
+00:29:27,040 --> 00:29:33,040
+ I mean there's various people saying it's very terrible. I've got one I could probably put on
+
+323
+00:29:33,040 --> 00:29:40,000
+ YouTube actually. When I was reading science fiction in my 20s, if you had asked of the things in
+
+324
+00:29:40,000 --> 00:29:47,120
+ science fiction, which one is going to be reality in 30 years, a device that you put into your ears
+
+325
+00:29:47,120 --> 00:29:50,960
+ that ought to translate to every language in the universe would not have been one of them.
+
+326
+00:29:50,960 --> 00:29:58,960
+ And yet here we are. It's just unbelievable. It's, it's, it's my biggest gosh wow oh boy oh boy
+
+327
+00:29:58,960 --> 00:30:04,560
+ moment of my entire life. That is completely fair. So well done Douglas Adams who also went to my
+
+328
+00:30:04,560 --> 00:30:08,560
+ college and has something to say on Big Sofas which is another things going on in my life.
+
+329
+00:30:08,560 --> 00:30:15,120
+ What do you have to say on Big Sofas? I take rotated the sofa through four-dimensional space
+
+330
+00:30:15,120 --> 00:30:21,360
+ to get stuck flat. Don't gently right? Yeah yeah yeah. A bunch of people posted on Facebook to let
+
+331
+00:30:21,360 --> 00:30:27,120
+ us know their experiences from kind of Douglas Adams and how they experienced him and there is a
+
+332
+00:30:27,120 --> 00:30:30,640
+ link in the show notes if you want to go and read all the reminiscing. It's really good.
+
+333
+00:30:30,640 --> 00:30:35,520
+ It's really positive. Just loads of people being like I love that and I love how it got me into
+
+334
+00:30:35,520 --> 00:30:41,200
+ the stories and hurrah. And so yes Liz you read Hitchhiker's Guide to the Galaxy.
+
+335
+00:30:41,200 --> 00:30:44,960
+ I did read Hitchhiker's Guide to the Galaxy. I read it at quite an early age I think because my dad
+
+336
+00:30:44,960 --> 00:30:49,440
+ had it and he had these great covers where if you had all four of them you could arrange them in
+
+337
+00:30:49,440 --> 00:30:56,000
+ four different ways to get four different, four different pictures. Oh god I feel so old now.
+
+338
+00:30:56,000 --> 00:31:03,040
+ Sorry Alison. When were you born Liz? Is this the first little question? 1982.
+
+339
+00:31:03,040 --> 00:31:09,600
+ Three. I was one year out. Before John is the crucial thing I think. Before John but critically
+
+340
+00:31:09,600 --> 00:31:14,960
+ so that you could have it read to you as bedtime stories. No no no I read it but I'm not that you.
+
+341
+00:31:14,960 --> 00:31:20,880
+ I read it myself because there was a copy in the house when I was growing up because my dad
+
+342
+00:31:20,880 --> 00:31:26,720
+ owned that four book box set is the thing. But he also had taped the tv show off the tv so he had
+
+343
+00:31:26,720 --> 00:31:31,680
+ it on a VHS and so I think I watched that before I even read the books. So interestingly I came through
+
+344
+00:31:31,680 --> 00:31:36,400
+ the tv show and not the books and never listened to the radio show until much later. But I also
+
+345
+00:31:36,400 --> 00:31:41,600
+ had a bunch of other stuff around. So I picked up a copy of the radio scripts in a second damn
+
+346
+00:31:41,600 --> 00:31:48,240
+ bookshop and I liked Adam's philosophy on taking lots of baths and eating lots of bovril sandwiches.
+
+347
+00:31:48,240 --> 00:31:56,960
+ I also read Don't Panic the kind of guide the Hitchhiker's Galaxy that Neil Gaiman wrote
+
+348
+00:31:56,960 --> 00:32:02,240
+ and I think that may have been the first like Neil Gaiman book. Nice. Sorry I all these quite
+
+349
+00:32:02,240 --> 00:32:07,360
+ but I never I never found I never went to ZZ9 or even thought about looking for ZZ9. I think
+
+350
+00:32:07,360 --> 00:32:11,760
+ it just never occurred to me so I didn't know the ZZ9 existed until I started coming to conventions
+
+351
+00:32:11,760 --> 00:32:16,240
+ and then with all the stores selling two headed three-armed bears. So the thing that happened to me
+
+352
+00:32:16,240 --> 00:32:21,520
+ was I was in the Lego Club and so I knew that if I liked something enough there might be someone who
+
+353
+00:32:21,520 --> 00:32:26,880
+ would send me a magazine about it and so every hobby I then developed after Lego I would look on
+
+354
+00:32:26,880 --> 00:32:31,200
+ the internet to see if there was a club I could join that sent me a newsletter about it and with
+
+355
+00:32:31,200 --> 00:32:36,320
+ leather bookmarks there was not but with Douglas Adams there was and that was how I going to find
+
+356
+00:32:36,320 --> 00:32:42,080
+ them. So it's actually the Lego Club that really I guess gave me the impetus. So John is young enough
+
+357
+00:32:42,080 --> 00:32:45,760
+ that he grew up with the internet which is really weird because I thought that was only two of
+
+358
+00:32:45,760 --> 00:32:52,480
+ children but clearly isn't now. Liz is going to say yeah I sort of grew up with the internet but
+
+359
+00:32:52,480 --> 00:32:59,680
+ not really right. Well I mean I knew when I was 13 but then it was internet where you know you had
+
+360
+00:32:59,680 --> 00:33:04,720
+ to go to the specific computer and connect it to the internet and then you know had a certain
+
+361
+00:33:04,720 --> 00:33:08,320
+ amount of time because you were paying a penny a minute for the phone call not like it is in my
+
+362
+00:33:08,320 --> 00:33:12,480
+ pocket and always on. So I think it has a fundamentally different relationship with the internet.
+
+363
+00:33:12,480 --> 00:33:20,080
+ I have uploaded a video which is my rip of the AGM clip and I am in it I am in three bits
+
+364
+00:33:20,080 --> 00:33:28,800
+ and I am young. Right excuse me briefly while I go and look at little tiny baby John.
+
+365
+00:33:28,800 --> 00:33:37,040
+ I am like I am sorry. So we could just rather link you to the entire thing we could just
+
+366
+00:33:37,040 --> 00:33:41,440
+ insert John because that is the only thing that is very interesting about this. Because it has also
+
+367
+00:33:41,440 --> 00:33:46,800
+ got like young Doug young Heidi flick. Yeah well I mean I have got I have linked to the 30 minute
+
+368
+00:33:46,800 --> 00:33:52,480
+ shows so I have thought that I have put a link in the show notes to it on YouTube so it might be
+
+369
+00:33:52,480 --> 00:34:00,800
+ the same thing. But no it is not. Oh no this is the ZZ9 AGM not the thing yeah okay. The ZZ9 AGM
+
+370
+00:34:00,800 --> 00:34:05,200
+ wasn't in the Hitchhiker's Guide episode it was in the weathering Heights episode for reasons I still
+
+371
+00:34:05,200 --> 00:34:11,600
+ don't quite understand. Wow. So the Hitchhiker's Guide episode did not have the ZZ9 plug in it.
+
+372
+00:34:11,600 --> 00:34:17,440
+ It was in a different episode. So yeah thank you to everyone who wrote in. I think it's probably
+
+373
+00:34:17,440 --> 00:34:21,440
+ people can tell from the way I describe it that it was a huge formative part of like my
+
+374
+00:34:21,440 --> 00:34:25,920
+ I guess my like teenage years really I came across them when I was 11 so
+
+375
+00:34:25,920 --> 00:34:32,560
+ and like kind of is my route into fandom and I think even if that's not true for you I think
+
+376
+00:34:32,560 --> 00:34:36,160
+ people do still have very fond memories of it because it's still such a great
+
+377
+00:34:36,160 --> 00:34:44,480
+ thing and it really stands up. It's also still very the radio shows are still very very very
+
+378
+00:34:44,480 --> 00:34:51,200
+ funny and very well produced and I think it was very influential on British fandom in lots of ways
+
+379
+00:34:51,200 --> 00:34:56,080
+ when you're thinking about ways in which British and American fandom differ the fact that we like
+
+380
+00:34:56,080 --> 00:35:02,000
+ things that are funny has to be one of the main ones. Don't all right. I'm sorry I watched this clip
+
+381
+00:35:02,000 --> 00:35:07,360
+ John is that you like right in the middle right at the very end? Yep that is me. Yeah you're almost
+
+382
+00:35:07,360 --> 00:35:14,080
+ unrecognizable. I do not I had to get a new passport earlier than I should have done because
+
+383
+00:35:14,080 --> 00:35:19,040
+ when I started going to conferences my passport photo was when I was like 17 and there was a point
+
+384
+00:35:19,040 --> 00:35:24,320
+ where US security they stop they nearly stopped me getting on a plane because they were like
+
+385
+00:35:24,320 --> 00:35:29,440
+ we do not believe this is your passport which is I was like I'm gonna get a new passport now
+
+386
+00:35:29,440 --> 00:35:35,120
+ because I was terrifying. I recognize like Duggan and Heidi and and Flick and Alex but I think if
+
+387
+00:35:35,120 --> 00:35:40,080
+ you hadn't told me that was you I would not have realized it was you. I do look quite different now.
+
+388
+00:35:40,080 --> 00:35:45,120
+ Yeah it's amazing. I bulked out I used to think when I was that age I thought I was fat I'm looking
+
+389
+00:35:45,120 --> 00:35:50,800
+ back oh like body image is a hell of a drug isn't it? You're a skinny wee thing. I was. It's
+
+390
+00:35:50,800 --> 00:35:56,880
+ why that your face is different. Okay but yes like I say thank you very much for everyone who wrote
+
+391
+00:35:56,880 --> 00:36:01,520
+ in. Brilliant. Oh god I remember something else I should have said about Douglas Adams.
+
+392
+00:36:01,520 --> 00:36:08,400
+ Douglas Adams also the first absolute died in the wool will accept no substitutes Mac
+
+393
+00:36:08,400 --> 00:36:16,960
+ Junkie who I ever really encountered not in person but but in his writings really very
+
+394
+00:36:16,960 --> 00:36:24,240
+ had the way of it. Yeah one of the very large formative influences he had on me was his I
+
+395
+00:36:24,240 --> 00:36:30,480
+ remember it was there's a piece of writing in the salmon of doubt where he talks about how to make
+
+396
+00:36:30,480 --> 00:36:34,240
+ tea and he's like a lot of people will tell you you don't really need to know how to make tea
+
+397
+00:36:34,240 --> 00:36:37,760
+ because you made tea and it's like no those people are wrong there is a way to make tea and it is
+
+398
+00:36:37,760 --> 00:36:45,760
+ this and I was like that that I think had a huge influence on my thinking as like teenager was like
+
+399
+00:36:45,760 --> 00:36:51,760
+ you know trying to do things in order to get good quality things rather than just saying
+
+400
+00:36:51,760 --> 00:36:56,720
+ ah before you. I think I think I think a lot of that in me comes from Douglas.
+
+401
+00:36:56,720 --> 00:37:02,960
+ He was uncompromising about doing things to make them good and hence deadlines.
+
+402
+00:37:02,960 --> 00:37:03,920
+ And yeah exactly.
+
+403
+00:37:03,920 --> 00:37:17,280
+ Since last time we recorded it has been announced that there will be a world
+
+404
+00:37:17,280 --> 00:37:25,920
+ con bid for Dublin in 2029 and Liz you are our roving reporter who brought this to our attention.
+
+405
+00:37:25,920 --> 00:37:26,720
+ Yeah so a tweet.
+
+406
+00:37:26,720 --> 00:37:35,360
+ Um so they announced it I believe at the end of octa con I'm going to say I signed up to octa
+
+407
+00:37:35,360 --> 00:37:39,600
+ con but then and this is a thing that doesn't really happen for like in person conventions but it
+
+408
+00:37:39,600 --> 00:37:43,760
+ does seem to occasionally have a virtual convention. I basically didn't really feel much like a
+
+409
+00:37:43,760 --> 00:37:48,560
+ convention last weekend so I dipped in and out of the discord but didn't really attend octa con
+
+410
+00:37:48,560 --> 00:37:52,560
+ but I did technically have a membership and but I believe they announced it at the end of the
+
+411
+00:37:52,560 --> 00:37:56,560
+ convention which would make sense. A place you're going to announce your Irish binses and Irish
+
+412
+00:37:56,560 --> 00:38:02,560
+ convention announcing it for 10 years after the last one seems pretty sensible and it also puts
+
+413
+00:38:02,560 --> 00:38:08,240
+ you on a cycle where you are five years away from the next British one so you're kind of
+
+414
+00:38:08,240 --> 00:38:14,320
+ not competing for people's time and energy at the same time in the cycle. Yeah seems good I really
+
+415
+00:38:14,320 --> 00:38:21,200
+ like 2019 I'd have to go back to Dublin. Seems like a good thing. Yep I agree. I'm not hugely keen on
+
+416
+00:38:21,200 --> 00:38:26,480
+ world con bids announcing further and further and further in advance just because it seems to
+
+417
+00:38:26,480 --> 00:38:31,200
+ then sort of take well why am I not keen? I'm not keen on world con bids announcing further and
+
+418
+00:38:31,200 --> 00:38:35,680
+ further in advance because I think it's sort of then like can end up with you doing a lot of active
+
+419
+00:38:35,680 --> 00:38:40,080
+ things a very long way in advance which can sometimes mean the whole cycle of world con bidding and
+
+420
+00:38:40,080 --> 00:38:47,120
+ world con running takes a very long time and takes a lot of people's effort but I guess it does make
+
+421
+00:38:47,120 --> 00:38:54,320
+ sense if you are trying to maximise your bid energy into bidding for a year when you have little
+
+422
+00:38:54,320 --> 00:38:58,880
+ competition there's a sense to which if we have a certain number of world con bids that is about
+
+423
+00:38:58,880 --> 00:39:02,960
+ the same as the number of world con gears then it makes sense to kind of plan in advance when
+
+424
+00:39:02,960 --> 00:39:07,760
+ you want to do it. Does that make sense? I mean I think things like three way and four way bidding
+
+425
+00:39:07,760 --> 00:39:11,600
+ can sometimes result in people putting a lot of effort into bidding and then having to decide
+
+426
+00:39:11,600 --> 00:39:14,880
+ if they lose whether they want to immediately turn around a bit again at which point you might
+
+427
+00:39:14,880 --> 00:39:19,600
+ have been bidding for five years before you start even running your convention but in this case I
+
+428
+00:39:19,600 --> 00:39:24,320
+ think it makes total sense because you know it says look Dublin did a great world con we would
+
+429
+00:39:24,320 --> 00:39:30,960
+ like to do it again. I think taking a space where we're saying actually we think Britain and Ireland
+
+430
+00:39:30,960 --> 00:39:35,040
+ between them are up for a world con every five years is quite interesting I think that probably
+
+431
+00:39:35,040 --> 00:39:41,280
+ does reflect the amount of um fanish energy in the countries compared to the United States and
+
+432
+00:39:41,280 --> 00:39:46,640
+ North America generally and um I think that's quite interesting I we might be a bit tired by
+
+433
+00:39:46,640 --> 00:39:57,040
+ 2019. I'll definitely be tired by 2019. 2029. 20 did I just say 20? You see this is how tired I am.
+
+434
+00:39:58,560 --> 00:40:04,160
+ Alison is so tired she was tired two years ago. One of the things that seems to happen to you
+
+435
+00:40:04,160 --> 00:40:10,560
+ when you're old and also me is that you lose decades out of your life quite a lot so you keep
+
+436
+00:40:10,560 --> 00:40:16,400
+ thinking that things are 10 years less ago than they actually are or that something happened in a
+
+437
+00:40:16,400 --> 00:40:22,640
+ decade 10 years out from when it did or that we're actually in the something we're actually in 2011
+
+438
+00:40:23,280 --> 00:40:32,080
+ 2021. We are in 2021 right? I'm losing track. Pretty sure. We are still in 2021. Also in world
+
+439
+00:40:32,080 --> 00:40:39,200
+ confutures um there's Sarah Felix has a Texas bid going on. Yes which is very exciting.
+
+440
+00:40:39,200 --> 00:40:45,120
+ Which I have pre-supported. I have pre-supported this is outrageous really. This is how merchandise
+
+441
+00:40:45,120 --> 00:40:51,360
+ works guys. I pre-supported um the Texas bid because Sarah has a bunch of ribbons saying I
+
+442
+00:40:51,360 --> 00:40:56,960
+ pre-supported Texas before it was cool that she's going to give out at smothcon and I want one.
+
+443
+00:40:56,960 --> 00:41:03,600
+ Um I mean that is fair. I have a question for you Alison. Which year is the Texas bid?
+
+444
+00:41:03,600 --> 00:41:10,480
+ I don't know. It's for the future. Is it on the internet? It's not for the past is it? No I
+
+445
+00:41:10,480 --> 00:41:14,880
+ don't think I mean literally I think this is Sarah and a bunch of $20 bills. Yeah I mean I don't
+
+446
+00:41:14,880 --> 00:41:20,320
+ think it's launched and the says I mean this is people thrusting $20 bills on Sarah. If I pay
+
+447
+00:41:20,320 --> 00:41:27,120
+ you $20 can you get me a iPre-supported Texas before it was cool ribbon please? No what you need
+
+448
+00:41:27,120 --> 00:41:35,200
+ to do is pay um I'll send you we'll put the link in the show notes. Basically you pay pal her she's
+
+449
+00:41:35,200 --> 00:41:42,400
+ got a link in her. I think she's actually got a one-click link now for pay palang and then if you
+
+450
+00:41:42,400 --> 00:41:47,680
+ tell her you'll get your ribbon from me at smothcon um after smothcon that's what we'll do.
+
+451
+00:41:48,080 --> 00:41:54,000
+ A nice good stuff. They're not not I don't know what I'm going to see but I'll push it in the
+
+452
+00:41:54,000 --> 00:42:02,080
+ blip. Okay brilliant and if that Facebook post is public there'll be a link in the show notes
+
+453
+00:42:02,080 --> 00:42:09,440
+ and then you can pre-support Texas too. I want to send us dollars PayPal none of your flim flam.
+
+454
+00:42:09,440 --> 00:42:14,080
+ Stop pay paling people money for cons while we're recording the podcast. Roger that.
+
+455
+00:42:14,080 --> 00:42:20,800
+ [Music]
+
+456
+00:42:20,800 --> 00:42:25,280
+ I want to plug the science fiction encyclopedia. This is a big thing that has happened in the last two
+
+457
+00:42:25,280 --> 00:42:31,680
+ weeks which is it's now in its fourth edition on its own website. We'll put a link in the show notes.
+
+458
+00:42:31,680 --> 00:42:36,640
+ It has parted ways with Galance who have been looking after it for the last little while
+
+459
+00:42:36,640 --> 00:42:43,040
+ and is now being run by its own holding company and answerable editions which
+
+460
+00:42:43,040 --> 00:42:48,480
+ is the publishing arm of Dave Langford. Dave Langford clearly has three arms like Beable Bear
+
+461
+00:42:48,480 --> 00:42:55,680
+ two regular ones and one publishing one and it is in fact edited by Fred of the Show Dave Langford
+
+462
+00:42:55,680 --> 00:43:02,240
+ and also John Clute and Graham Slight is the managing editor which I assume means he does
+
+463
+00:43:02,240 --> 00:43:07,520
+ all the grunt work and gets none of the major credit and they also remember Peter Nichols as
+
+464
+00:43:07,520 --> 00:43:16,720
+ the founding editor. So yeah it remains an extremely good resource for everything in Azure.
+
+465
+00:43:16,720 --> 00:43:22,480
+ That probably won't tell you how to pre-support the Texas bid. It's not very funny.
+
+466
+00:43:22,480 --> 00:43:26,640
+ It's not a sort of thing I expect to get from an encyclopedia to be fair.
+
+467
+00:43:26,640 --> 00:43:37,440
+ Fine. If you are going to NovaCon then we are doing OctaThorp Live. We will have an exclusive
+
+468
+00:43:37,440 --> 00:43:44,080
+ stunt Lizz. Lizz why aren't you coming to NovaCon? Because I live 6,000 miles away and the UK
+
+469
+00:43:44,080 --> 00:43:49,280
+ doesn't believe I am vaccinated. That's fair. I explained it to the head of programme at NovaCon
+
+470
+00:43:49,280 --> 00:43:55,360
+ by saying that the train links between Bangkok and Buxton were poor which I believe is true.
+
+471
+00:43:55,360 --> 00:43:59,360
+ I mean to be fair the trains to Buxton are rubbish it's probably still paces or something.
+
+472
+00:43:59,360 --> 00:44:03,600
+ You technically could get the train from Bangkok to Buxton because of the Eurostar but it just
+
+473
+00:44:03,600 --> 00:44:09,680
+ wouldn't be like quick. You can't. So this is a complete digression but I don't think you actually
+
+474
+00:44:09,680 --> 00:44:15,600
+ can get any trains internationally from Thailand that cross into another country at the moment.
+
+475
+00:44:15,600 --> 00:44:22,720
+ I think I actually have to get a non-train link somewhere. I did obviously look at this at some
+
+476
+00:44:22,720 --> 00:44:28,720
+ point and I think actually what I would have to do is start in Vietnam and from Vietnam you can do
+
+477
+00:44:28,720 --> 00:44:34,080
+ the whole loop through up to the Trans-Siberian Railway to Moscow and then through to Paris and
+
+478
+00:44:34,080 --> 00:44:38,480
+ then on the Eurostar. But I don't think I can do the first bit. Anyway obviously at this point I
+
+479
+00:44:38,480 --> 00:44:45,760
+ can't do any of that but in general. Sarah says it's 10 years out so I think it's a bid for 2020-30
+
+480
+00:44:45,760 --> 00:44:54,080
+ one. Jesus I'm gonna be dead. You heard it here first folks. Yes we'll be doing OctaThorp Live with
+
+481
+00:44:54,080 --> 00:44:59,120
+ a stunt Liz who at this moment is a secret. We have asked them and they have said yes but we're
+
+482
+00:44:59,120 --> 00:45:08,560
+ keeping a secret to raise the suspense. Can I get a new? And it'll be good. It's a one o'clock on
+
+483
+00:45:08,560 --> 00:45:13,040
+ Sunday in the afternoon not in the morning. So it'll be good and we're really looking forward to doing
+
+484
+00:45:13,040 --> 00:45:18,960
+ it and we will see you all there. Haven't thought about how to actually do the technical side yet but
+
+485
+00:45:18,960 --> 00:45:24,560
+ I'm sure it'll be fine. Yeah it'll be the first OctaThorp Live that is actually like live and in person
+
+486
+00:45:24,560 --> 00:45:30,480
+ isn't it? Yes and also the first OctaThorp without Liz. Yeah so I feel that really truly the first
+
+487
+00:45:30,480 --> 00:45:35,920
+ OctaThorp Live and in person will not be to lie in there obviously. Oh yeah obviously it will be a
+
+488
+00:45:35,920 --> 00:45:43,520
+ pretend OctaThorp. We will get you round we will get you on to OctaThorp Live at some point. You will
+
+489
+00:45:43,520 --> 00:45:49,360
+ come to the UK for a calm one day right? Yes I will come back at some points yeah. So let's go
+
+490
+00:45:49,360 --> 00:45:53,120
+ to 2024 put us on the program or we'll hunt you down.
+
+491
+00:45:53,120 --> 00:46:09,680
+ Okay so... Picks. Picks. My so I've got a choice of two picks this time around and I think I'm going
+
+492
+00:46:09,680 --> 00:46:17,120
+ to pick Lovecraft Country. Now I appreciate this is an old I say old. This is a TV series that
+
+493
+00:46:17,120 --> 00:46:22,000
+ everyone already watched and talked about and I am aware of that but at the time it was on now TV
+
+494
+00:46:22,000 --> 00:46:28,640
+ I did not have now TV and now I have now TV which is now called now but it is still on now so I
+
+495
+00:46:28,640 --> 00:46:34,880
+ have now watched it. It is very good. I liked it a great deal. I was a little bit worried it would
+
+496
+00:46:34,880 --> 00:46:39,520
+ end on a cliffhanger because I know that they only got the news they weren't doing a second season
+
+497
+00:46:39,520 --> 00:46:45,600
+ kind of quite recently like a couple of months ago I think but actually the first season ends on
+
+498
+00:46:45,600 --> 00:46:51,840
+ quite a good note if that is the end of the whole series and yeah I thoroughly enjoyed it. Really
+
+499
+00:46:51,840 --> 00:46:57,360
+ thought it was good and reminded me quite a lot of watchmen in some ways not in plot ways but more
+
+500
+00:46:57,360 --> 00:47:02,960
+ like it's cool that we've now got a couple of different SFNal shows that show the black experience
+
+501
+00:47:02,960 --> 00:47:07,440
+ and parts of that that I had not really been exposed to before so I thought that was really
+
+502
+00:47:07,440 --> 00:47:15,280
+ really neat. So yeah really enjoyed it would recommend it's on now. Now is £10 a month but
+
+503
+00:47:15,280 --> 00:47:21,040
+ there are often like discounts and deals you can find if you slough on the internet so yeah
+
+504
+00:47:21,040 --> 00:47:27,840
+ I enjoyed it. Have I either reviewed seeing Lovecraft Country? I have the book in my To Be
+
+505
+00:47:27,840 --> 00:47:35,200
+ Red pile. Oh yes it's based on a book I need to... I had it out of the library and the library said
+
+506
+00:47:35,200 --> 00:47:40,400
+ you need to bring this back so I took it back and said oh I'll buy the ebook instead and the
+
+507
+00:47:40,400 --> 00:47:46,240
+ ebook is 99p so yeah that's a good idea I would recommend it despite the fact that I haven't read
+
+508
+00:47:46,240 --> 00:47:52,080
+ it yet but yeah by Matt Ruff I think. Yes and I've read other things by Matt Ruff but not Lovecraft
+
+509
+00:47:52,080 --> 00:47:56,320
+ Country. I also haven't watched it because I would need to subscribe to another streaming service
+
+510
+00:47:56,320 --> 00:48:03,120
+ to watch it and I just haven't got round to you know rotating my streaming services round to HBO
+
+511
+00:48:03,120 --> 00:48:11,280
+ yeah see also television bankruptcy and the fact that apps have sprung up where
+
+512
+00:48:11,280 --> 00:48:15,760
+ that are designed to allow you to easily subscribe or unsubscribe from all these different things
+
+513
+00:48:15,760 --> 00:48:22,640
+ month and month by month which might be good but yeah no I'll put it on my list for next time I get
+
+514
+00:48:22,640 --> 00:48:29,760
+ now TV I will watch it along with whatever else I'm watching on now. Very quickly I watched Avengers
+
+515
+00:48:29,760 --> 00:48:36,160
+ Endgame which is a load of all Bobbins and I've picked up Bobbins from the Sudoku guy.
+
+516
+00:48:36,160 --> 00:48:42,960
+ I watched Avengers Endgame which is a load of all Bobbins and John said perhaps you don't like the
+
+517
+00:48:42,960 --> 00:48:48,720
+ MCU very much why do you keep watching it and I realized that we're going through a process in
+
+518
+00:48:48,720 --> 00:48:53,040
+ my house I live with somebody else which is something that you know in general I recommend
+
+519
+00:48:53,600 --> 00:49:00,880
+ but I go let's watch a movie tonight we could watch this well-remarked Korean drama or we could
+
+520
+00:49:00,880 --> 00:49:11,040
+ watch this short funny modern comedy or this Hugo nominated movie or Hugo finalist movie or we could
+
+521
+00:49:11,040 --> 00:49:17,600
+ watch the latest round of extruded MCU product and on every occasion when I do this my husband says
+
+522
+00:49:18,160 --> 00:49:24,080
+ oh I quite fancy the next round of extruded MCU product he doesn't say that he says oh let's watch
+
+523
+00:49:24,080 --> 00:49:29,760
+ Avengers Endgame that sounds great so I am actually going to tackle this domestically
+
+524
+00:49:29,760 --> 00:49:34,880
+ but I probably am going to carry on watching MCU for this reason because sometimes you just
+
+525
+00:49:34,880 --> 00:49:40,000
+ live with somebody else and they like the MCU more than you do. I also want to talk a bit about
+
+526
+00:49:40,000 --> 00:49:45,600
+ Foundation which is on Apple TV which Apple TV plus which as we know is the streaming service
+
+527
+00:49:45,600 --> 00:49:54,800
+ that nobody has #WatchTedLasso I've watched two episodes so far quite like it it takes massive
+
+528
+00:49:54,800 --> 00:49:59,920
+ liberties with the plot and obviously taking massive liberties with the plot is quite good
+
+529
+00:49:59,920 --> 00:50:04,240
+ thing in the case of Foundation because the original books have quite a lot one with them
+
+530
+00:50:04,240 --> 00:50:09,280
+ and I think the TV CEO will have different things wrong with it and they've done quite a lot of
+
+531
+00:50:09,280 --> 00:50:15,200
+ quite clever things to cope with the fact that the action in this story happens over a very long
+
+532
+00:50:15,200 --> 00:50:20,880
+ time which makes things harder if you're trying to cast a TV show with a recurring cast
+
+533
+00:50:20,880 --> 00:50:28,720
+ so and it's very pretty it's they've spent a lot of money on CGI visitors I don't much like CGI
+
+534
+00:50:28,720 --> 00:50:34,960
+ visitors but you know I know understand that a lot of people do so I'm glad you're enjoying it
+
+535
+00:50:34,960 --> 00:50:39,520
+ I mean I'm also watching Foundation and I have Ted Lasso having finished I'm now at the stage of
+
+536
+00:50:39,520 --> 00:50:46,720
+ do I keep subscribing to Apple TV basically just so I can watch Foundation and maybe I did enjoy
+
+537
+00:50:46,720 --> 00:50:53,760
+ the first two and well trying to spoil too much I mean I haven't read any books it does set up
+
+538
+00:50:53,760 --> 00:50:58,720
+ stuff like the end of episode two ends in a reasonably dramatic fashion which episode three
+
+539
+00:50:58,720 --> 00:51:03,920
+ basically ignores because they've definitely got a plan which is to do things quite slowly
+
+540
+00:51:03,920 --> 00:51:07,600
+ but after quite enjoying the first two the third one is like oh are you going to tell me anything
+
+541
+00:51:07,600 --> 00:51:14,240
+ about that thing that happened at the end of episode two? No not yet I saw a fan theory about the end
+
+542
+00:51:14,240 --> 00:51:19,600
+ of episode two and in fact even even if somebody has said to me there's a fan theory I'd have known
+
+543
+00:51:19,600 --> 00:51:23,680
+ what the fan theory was and having heard the fan theory I'm like oh of course that's what's
+
+544
+00:51:23,680 --> 00:51:32,240
+ what happened there so it's it it doesn't come out that way I'll be very surprised I mean I do
+
+545
+00:51:32,240 --> 00:51:38,800
+ like the kind of eternal emperor of different age clones but I understand that's not in the books
+
+546
+00:51:38,800 --> 00:51:43,920
+ that's a made up for the series thing yeah they've made a top so they can use the same actor all
+
+547
+00:51:43,920 --> 00:51:48,320
+ the way through which is really clever you know I'm going to give them props for that that's a
+
+548
+00:51:48,320 --> 00:51:55,600
+ really good choice in how you move things on to on to uh television transfer things from
+
+549
+00:51:55,600 --> 00:52:03,200
+ from book to television whilst keeping their essential nature but being able to cast an actor
+
+550
+00:52:03,200 --> 00:52:10,160
+ or three actors in this case it's very clever yeah if you recall last time I said I was reading a
+
+551
+00:52:10,160 --> 00:52:14,240
+ book that was pretty good but I hadn't finished it yet and so I could not recommend it for pick
+
+552
+00:52:14,240 --> 00:52:18,800
+ because I need to know if it had a good ending unfortunately I have finished a book and it's got
+
+553
+00:52:18,800 --> 00:52:23,840
+ a pretty good ending so I can recommend Children of Ruin by Adrian Tchaikovsky which is a sequel to
+
+554
+00:52:23,840 --> 00:52:29,680
+ his earlier book Children of Time but it's a fairly loose sequel so if you haven't read Children of
+
+555
+00:52:29,680 --> 00:52:33,520
+ Time for a few years like you'll be fine it's not one of these giant fantasy novels where you need
+
+556
+00:52:33,520 --> 00:52:38,160
+ to know exactly you know who is married to who and who fell out with who it's kind of a fairly like
+
+557
+00:52:38,160 --> 00:52:45,920
+ loose sequel using the same concept and the same some of the same characters it's essentially about
+
+558
+00:52:45,920 --> 00:52:53,520
+ you know far future humanity colonizing planets but also they set up in Children of Time a
+
+559
+00:52:53,520 --> 00:52:59,760
+ planet full of uplifted super intelligent spiders and Children of Ruin takes that but also adds
+
+560
+00:52:59,760 --> 00:53:05,840
+ kind of uplifted super intelligent octopuses and also they they they meet some alien life and
+
+561
+00:53:05,840 --> 00:53:11,600
+ it's basically a space opera novel all about communication so it has all you know your nice
+
+562
+00:53:11,600 --> 00:53:16,480
+ space opera sense of wonder stuff there's lots of you know interplanetary travel and spaceships
+
+563
+00:53:16,480 --> 00:53:22,400
+ and aliens and also octopuses and spiders but it's basically about kind of like
+
+564
+00:53:22,400 --> 00:53:27,280
+ how do you communicate when your fundamental ideas about the nature of communication
+
+565
+00:53:27,280 --> 00:53:34,160
+ may be completely different or your kind of you know how your species notion of like the
+
+566
+00:53:34,160 --> 00:53:38,720
+ transmission of information works is totally different and it really really digs into that
+
+567
+00:53:38,720 --> 00:53:44,640
+ in quite a lot of detail and I find it really fascinating I do think it's a little bit too long
+
+568
+00:53:44,640 --> 00:53:49,120
+ and so I was flagging towards the end and also I'd slightly lost track of who was in which spaceship
+
+569
+00:53:49,120 --> 00:53:54,480
+ on or on which space station and where the other spaceship had gone and so on and so I recommend
+
+570
+00:53:54,480 --> 00:53:58,720
+ reading it when you think you can kind of plow through it fairly quickly so you don't lose track
+
+571
+00:53:58,720 --> 00:54:03,280
+ of what's going on but I do I do recommend it and it is it's very good and it scratched that
+
+572
+00:54:03,280 --> 00:54:09,840
+ particular kind of I want to read a book with spaceships in each so it's good nice I haven't
+
+573
+00:54:09,840 --> 00:54:14,160
+ read Children of Ruin but I have read Children of Time and I really enjoyed it so Children of Ruin
+
+574
+00:54:14,160 --> 00:54:21,840
+ is on my on my list of things to read I believe Children of Time won the Arthur C. Clarke award
+
+575
+00:54:21,840 --> 00:54:28,560
+ and I really enjoyed it so I'm looking forward to reading the next one. In terms of books that deal
+
+576
+00:54:28,560 --> 00:54:32,480
+ with kind of language and what it is to communicate with people who don't understand you I really
+
+577
+00:54:32,480 --> 00:54:37,920
+ like that genre of book in general so Ian Watson wrote The Embedding which I loved
+
+578
+00:54:38,640 --> 00:54:43,360
+ Trying to Mayville wrote Embassy Town which I loved and the movie Arrival kind of deals with
+
+579
+00:54:43,360 --> 00:54:48,800
+ similar things I haven't read the short story that Arrival is based on but I have seen the
+
+580
+00:54:48,800 --> 00:54:55,120
+ movie and loved it so yeah it's something I'm excited to do at some point. John how have you
+
+581
+00:54:55,120 --> 00:55:02,560
+ have you not read that sorry sorry just like I mean it's fair it's now one like giving you
+
+582
+00:55:02,560 --> 00:55:06,480
+ stories of your life and others and locked you in a room until you've read it all. I've read
+
+583
+00:55:06,480 --> 00:55:13,040
+ Exhalation the compilation that was up for the Hugo award but I don't think it's in that.
+
+584
+00:55:13,040 --> 00:55:18,160
+ Oh no this is the previous one it's not this it's in the previous one which I have not yet read
+
+585
+00:55:18,160 --> 00:55:23,440
+ which I should which is maybe even better you should it's got some of like the best short stories
+
+586
+00:55:23,440 --> 00:55:30,320
+ ever in it. I mean on the subject of languages I read I think last year Native Tongue by
+
+587
+00:55:30,960 --> 00:55:38,320
+ Suzette Hayden Elgin which is about language in a slightly different way it's it's a dystopian
+
+588
+00:55:38,320 --> 00:55:44,560
+ future American and essentially women create their own new language as an act of resistance.
+
+589
+00:55:44,560 --> 00:55:49,760
+ Oh that's cool what's that one called? And it's really interesting it's called Native Tongue and
+
+590
+00:55:49,760 --> 00:55:55,120
+ it was it was published in the the mid 80s. Cool. And it I mean it is about translation with
+
+591
+00:55:55,120 --> 00:56:00,240
+ alien species but also about how the women then use these powers of translation to
+
+592
+00:56:00,240 --> 00:56:03,600
+ yeah kind of have their own list. So that's definitely worth reading.
+
+593
+00:56:03,600 --> 00:56:11,280
+ Good stuff. That was the 42nd episode of the OctoThore podcast and it's goodbye from me.
+
+594
+00:56:11,280 --> 00:56:16,160
+ It's goodbye from me. Oh it's goodbye from me.
+
+595
+00:56:16,160 --> 00:56:34,080
+ [Music]
+
+596
+00:56:34,080 --> 00:56:41,440
+ The theme music for this episode was Fanfare for Space by Kevin McLeod in Competech.com
+
+597
+00:56:41,440 --> 00:56:48,640
+ Used under a Creative Commons attribution 4.0 license. This podcast will end at the beep. Beep.
+
+598
+00:56:48,640 --> 00:56:57,740
+ [BLANK_AUDIO]
+

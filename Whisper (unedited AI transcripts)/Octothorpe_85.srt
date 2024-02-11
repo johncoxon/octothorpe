@@ -1,0 +1,2384 @@
+1
+00:00:00,000 --> 00:00:06,080
+ So John, you've just devalued the value of John Cox's nomination in my eyes.
+
+2
+00:00:06,080 --> 00:00:07,760
+ How can I take them seriously now?
+
+3
+00:00:07,760 --> 00:00:09,760
+ Also, are you eating a mini-quass hunt?
+
+4
+00:00:09,760 --> 00:00:10,760
+ Yes!
+
+5
+00:00:10,760 --> 00:00:15,560
+ You may need to cut that bit too to the chewing noises.
+
+6
+00:00:27,960 --> 00:00:34,840
+ Hello everyone and welcome to the very 85th episode of OctaThorp, a podcast for Science Fiction
+
+7
+00:00:34,840 --> 00:00:40,360
+ and Science Fiction fandom, which is coming to you on the 8th of June 2023.
+
+8
+00:00:40,360 --> 00:00:41,800
+ I'm John Coxon.
+
+9
+00:00:41,800 --> 00:00:43,320
+ I'm Alison Scott.
+
+10
+00:00:43,320 --> 00:00:44,440
+ And I'm Liz Batty.
+
+11
+00:00:44,440 --> 00:00:47,080
+ And we are in the summer of fun!
+
+12
+00:00:47,080 --> 00:00:48,840
+ Summer of fun!
+
+13
+00:00:48,840 --> 00:00:52,040
+ I guess it will be June by the time this is out, which counts as summer.
+
+14
+00:00:52,040 --> 00:00:54,040
+ The summer has already begun, Liz.
+
+15
+00:00:54,040 --> 00:00:58,600
+ Yeah, I mean, summer of fun is the period where everyone is having fun and scheduling
+
+16
+00:00:58,600 --> 00:01:00,360
+ becomes impossible, right?
+
+17
+00:01:00,360 --> 00:01:04,360
+ Yes, the summer of fun started on the 25th of May 2023.
+
+18
+00:01:04,360 --> 00:01:06,920
+ And you can tell where the surf music.
+
+19
+00:01:06,920 --> 00:01:15,400
+ Because I am in a covered garden outside of barn, in the bits of whales, where I've managed to find some wi-fi.
+
+20
+00:01:15,400 --> 00:01:21,800
+ I am in Glasgow, in the Crown Plaza, attending Satellite 8, a convention.
+
+21
+00:01:21,800 --> 00:01:27,240
+ And Liz is in Liz's house and is not such a coffee festival.
+
+22
+00:01:27,240 --> 00:01:28,600
+ So, sorry Liz.
+
+23
+00:01:28,600 --> 00:01:29,480
+ Correct.
+
+24
+00:01:29,480 --> 00:01:30,600
+ What do you do?
+
+25
+00:01:30,600 --> 00:01:32,840
+ What's a coffee festival like then?
+
+26
+00:01:32,840 --> 00:01:34,360
+ Well, I don't know, I'm not there.
+
+27
+00:01:34,360 --> 00:01:40,120
+ But I believe it would have lots of stalls from different coffee shops and coffee roasters
+
+28
+00:01:40,120 --> 00:01:43,160
+ and lots of coffee to buy and I could get super caffeinated.
+
+29
+00:01:43,160 --> 00:01:49,240
+ Because I understand what a beer festival is like, but I feel like I could not do what I do
+
+30
+00:01:49,240 --> 00:01:51,720
+ at a beer festival, at a coffee festival.
+
+31
+00:01:51,720 --> 00:01:54,680
+ Yeah, you can't do that unless you can drink infinite amounts of coffee,
+
+32
+00:01:54,680 --> 00:01:58,600
+ but you can try a few different coffees and there are more opportunities to say,
+
+33
+00:01:58,600 --> 00:02:02,600
+ buy nice beans and take them home to make your own coffee than at a beer festival,
+
+34
+00:02:02,600 --> 00:02:07,800
+ where you might be able to buy like a growlerful, but it's not going to be good forever.
+
+35
+00:02:07,800 --> 00:02:09,880
+ It's okay, there will be more coffee.
+
+36
+00:02:09,880 --> 00:02:11,400
+ Coffee will continue.
+
+37
+00:02:11,400 --> 00:02:16,200
+ So we have some letters of comments.
+
+38
+00:02:16,200 --> 00:02:22,840
+ So we haven't done letters of comments since EasterCon, or sorry, since we did our
+
+39
+00:02:22,840 --> 00:02:24,680
+ EasterCon Roundup episode.
+
+40
+00:02:24,680 --> 00:02:29,000
+ Tharra Mendelssohn writes in with a photograph of the International Centre
+
+41
+00:02:29,000 --> 00:02:34,760
+ of Telford, which reads, "Wales Comic Con Telford Takeover 13th to 14th May."
+
+42
+00:02:34,760 --> 00:02:36,680
+ So, yay, Wales.
+
+43
+00:02:36,680 --> 00:02:41,000
+ Sandra Bond writes in to say, "So much from my intention to write you a lock on your
+
+44
+00:02:41,000 --> 00:02:42,840
+ fan fun discussion in the previous one."
+
+45
+00:02:42,840 --> 00:02:47,720
+ Sandra, there's never, there's never not a time where we wouldn't love to get a lock from you.
+
+46
+00:02:47,720 --> 00:02:51,560
+ I did say that if you wrote us a lock in the next 48 hours after you made that comment,
+
+47
+00:02:51,560 --> 00:02:54,280
+ it would get into this episode. Another time, Sandra.
+
+48
+00:02:54,280 --> 00:02:58,200
+ You can write locks on episodes as old as you like.
+
+49
+00:02:58,200 --> 00:03:01,480
+ There's no statute of lock limitations.
+
+50
+00:03:01,480 --> 00:03:06,280
+ Yeah, they don't even have to be very closely related to the episode.
+
+51
+00:03:06,280 --> 00:03:07,800
+ It can be very tangential.
+
+52
+00:03:07,800 --> 00:03:08,920
+ Just write to us, guys.
+
+53
+00:03:08,920 --> 00:03:11,480
+ We're very lonely and we like to hear from you.
+
+54
+00:03:11,480 --> 00:03:15,000
+ We have some emails.
+
+55
+00:03:15,000 --> 00:03:19,960
+ We have a letter of comment from Chris Garcia.
+
+56
+00:03:19,960 --> 00:03:22,920
+ Another excellent episode, entirely focused like a laser with patents,
+
+57
+00:03:22,920 --> 00:03:25,080
+ with quite in particular expectations.
+
+58
+00:03:25,080 --> 00:03:27,000
+ Thank you very much, Chris.
+
+59
+00:03:27,000 --> 00:03:32,600
+ And contributes some recommendations for things to nominate for Hugo's.
+
+60
+00:03:32,600 --> 00:03:35,880
+ But the nomination deadline has been gone.
+
+61
+00:03:35,880 --> 00:03:37,560
+ So, we're not going to read the about Chris.
+
+62
+00:03:37,560 --> 00:03:40,200
+ Also, if you want to know what Chris thinks, you should not know if Hugo's.
+
+63
+00:03:40,200 --> 00:03:46,120
+ I suspect that there is an issue of the drink tank you could read that would have a lot of detail.
+
+64
+00:03:46,120 --> 00:03:48,280
+ So, I encourage you all to go and read the drink tank.
+
+65
+00:03:48,280 --> 00:03:49,240
+ All of it.
+
+66
+00:03:49,240 --> 00:03:52,760
+ If you start now, you might have finished by the next episode dropping.
+
+67
+00:03:52,760 --> 00:03:53,960
+ Although, maybe not.
+
+68
+00:03:53,960 --> 00:03:57,560
+ Alex Holdren wrote in and Dave Mansfield wrote in.
+
+69
+00:03:57,560 --> 00:04:02,440
+ Now, Dave wrote in in the form of a link to an Instagram reel,
+
+70
+00:04:02,440 --> 00:04:05,720
+ which I am reliably informed by Liz's what happened,
+
+71
+00:04:05,720 --> 00:04:09,240
+ because from my perspective, he wrote a DM with no attachment that made
+
+72
+00:04:09,240 --> 00:04:10,360
+ absolutely no sense.
+
+73
+00:04:10,360 --> 00:04:14,200
+ And that is because apparently I have to check my Instagram DMs every day
+
+74
+00:04:14,200 --> 00:04:16,840
+ in order for reels to still be there when I check them.
+
+75
+00:04:16,840 --> 00:04:22,360
+ So, listeners, if you send me a message in a medium that requires me to check it on the same day,
+
+76
+00:04:22,360 --> 00:04:24,600
+ you may find that that doesn't work.
+
+77
+00:04:24,600 --> 00:04:26,760
+ Because I am an enigma.
+
+78
+00:04:26,760 --> 00:04:27,880
+ I am in the night.
+
+79
+00:04:27,880 --> 00:04:30,360
+ Also, I'm very disorganized and sometimes quite busy.
+
+80
+00:04:30,360 --> 00:04:31,400
+ So, yes.
+
+81
+00:04:31,400 --> 00:04:32,040
+ Sorry, Dave.
+
+82
+00:04:32,040 --> 00:04:34,680
+ Did not see the thing you posted, which Liz says,
+
+83
+00:04:34,680 --> 00:04:35,880
+ "Was you doing the astral pole?"
+
+84
+00:04:35,880 --> 00:04:37,080
+ And that does sound great.
+
+85
+00:04:37,080 --> 00:04:38,280
+ And I wish I had seen it.
+
+86
+00:04:38,280 --> 00:04:42,200
+ Because I mean, I assume it was real, but now I'm wondering,
+
+87
+00:04:42,200 --> 00:04:45,400
+ did Dave really send me a reel or did I just hallucinate Dave
+
+88
+00:04:45,400 --> 00:04:46,760
+ doing the astral pole?
+
+89
+00:04:46,760 --> 00:04:49,240
+ It was very impressive astral pole by I hallucinated, though.
+
+90
+00:04:49,240 --> 00:04:50,840
+ I regularly do that.
+
+91
+00:04:50,840 --> 00:04:53,160
+ I got an Instagram DM from Dave,
+
+92
+00:04:53,160 --> 00:04:56,440
+ but when we tell this to Alison, Alison was like,
+
+93
+00:04:56,440 --> 00:04:58,120
+ "Hang on, do we have Instagram now?"
+
+94
+00:04:58,120 --> 00:05:02,920
+ Which tells you how reliably Instagram DMs get through to Alison.
+
+95
+00:05:02,920 --> 00:05:03,720
+ But yes.
+
+96
+00:05:03,720 --> 00:05:06,360
+ No, he's then a DM with astral pole challenge,
+
+97
+00:05:06,360 --> 00:05:09,640
+ laughing face, which I assume he had listened to our episode
+
+98
+00:05:09,640 --> 00:05:12,440
+ and just decided that Instagram was the medium
+
+99
+00:05:12,440 --> 00:05:13,800
+ with which he would comment on it.
+
+100
+00:05:13,800 --> 00:05:15,880
+ And I was a bit confused, but I was like, "Oh, that's nice."
+
+101
+00:05:15,880 --> 00:05:18,520
+ But no, apparently now that I know there was a video there,
+
+102
+00:05:18,520 --> 00:05:21,400
+ that I now just can't see, it makes way more sense.
+
+103
+00:05:21,400 --> 00:05:21,720
+ Yeah.
+
+104
+00:05:21,720 --> 00:05:26,840
+ No, I check Instagram once a week and I don't normally bother to check my messages
+
+105
+00:05:26,840 --> 00:05:30,600
+ because they're all gentlemen who tell me the time lovely
+
+106
+00:05:30,600 --> 00:05:32,200
+ and would like to get to know me better.
+
+107
+00:05:32,200 --> 00:05:34,280
+ And I'm not interested in any of them.
+
+108
+00:05:34,280 --> 00:05:35,960
+ So, sorry, sorry, Dave.
+
+109
+00:05:36,280 --> 00:05:40,040
+ Mine is mostly scantily clad ladies with a lot of numbers
+
+110
+00:05:40,040 --> 00:05:42,680
+ after their names being like, "You could get into crypto."
+
+111
+00:05:42,680 --> 00:05:43,800
+ And I'm like, "No, thanks."
+
+112
+00:05:43,800 --> 00:05:46,680
+ And that is segmenting marketing.
+
+113
+00:05:46,680 --> 00:05:47,320
+ I don't get any of these.
+
+114
+00:05:47,320 --> 00:05:50,200
+ What the fuck have you done to your Instagram saying, guys?
+
+115
+00:05:50,200 --> 00:05:52,600
+ Because I'm not getting all this kind of shit.
+
+116
+00:05:52,600 --> 00:05:55,000
+ I don't get many spam DMs.
+
+117
+00:05:55,000 --> 00:05:57,080
+ Like, I would say I probably get one a month,
+
+118
+00:05:57,080 --> 00:06:00,360
+ but they are all of the DMs I go on Instagram.
+
+119
+00:06:00,360 --> 00:06:03,480
+ So like, even though the quantity is not high,
+
+120
+00:06:03,480 --> 00:06:08,040
+ the ratio is very bad of content to nonsense.
+
+121
+00:06:08,040 --> 00:06:09,240
+ Fair enough.
+
+122
+00:06:09,240 --> 00:06:11,000
+ All right, on to Alex's.
+
+123
+00:06:11,000 --> 00:06:12,280
+ Alex sent us an email.
+
+124
+00:06:12,280 --> 00:06:15,400
+ A traditional form of DM.
+
+125
+00:06:15,400 --> 00:06:17,320
+ About a YouTube video.
+
+126
+00:06:17,320 --> 00:06:23,720
+ Yes, Alex said he put an email of him doing self doing the astral poll on YouTube 17 years ago,
+
+127
+00:06:23,720 --> 00:06:28,120
+ but has now unlisted it and very harshly didn't send us the link.
+
+128
+00:06:28,120 --> 00:06:32,440
+ So you'll have to imagine a very young Alex Holden doing the astral poll.
+
+129
+00:06:32,440 --> 00:06:37,800
+ I think that will be excellent content for your Instagram channel all about concertino's Alex.
+
+130
+00:06:37,800 --> 00:06:41,160
+ Can you use the concertino's to do the astral poll?
+
+131
+00:06:41,160 --> 00:06:45,080
+ Probably not very good idea with your precious concertino, is it?
+
+132
+00:06:45,080 --> 00:06:49,720
+ I mean, I do check Instagram once a week and it's nearly always,
+
+133
+00:06:49,720 --> 00:06:53,560
+ nearly entirely so that I can check out Alex's hot pictures of concertinos.
+
+134
+00:06:53,560 --> 00:06:57,640
+ That is an entirely different sort of spam DM, I listen.
+
+135
+00:06:57,640 --> 00:07:02,200
+ So if you're looking for hot pictures of concertinos, I recommend Alex's Instagram.
+
+136
+00:07:02,200 --> 00:07:04,680
+ But unfortunately not Alex doing the astral poll.
+
+137
+00:07:04,680 --> 00:07:13,800
+ We got letter from Chris Garcia, where he, I think, is on the John end of the COVID spectrum.
+
+138
+00:07:13,800 --> 00:07:19,960
+ He writes, "I find it odd that España is the calm, rational voice of reason.
+
+139
+00:07:19,960 --> 00:07:21,720
+ I don't know this world anymore.
+
+140
+00:07:21,720 --> 00:07:24,920
+ And Chris, she would say the same thing about you.
+
+141
+00:07:24,920 --> 00:07:29,000
+ But he does say he doesn't like going to green rooms because it might be his improv training.
+
+142
+00:07:29,000 --> 00:07:31,880
+ And I'm like, I feel like you can improv in a green room, Chris.
+
+143
+00:07:31,880 --> 00:07:34,680
+ We did get quite a lot of locks saying that I was totally wrong about COVID.
+
+144
+00:07:34,680 --> 00:07:36,920
+ So, you know, I might have been.
+
+145
+00:07:36,920 --> 00:07:41,400
+ We got a variety of locks, which we're not going to go too much into detail because
+
+146
+00:07:41,400 --> 00:07:46,200
+ I feel like having seen this unfold of various forums, it could go on infinitely.
+
+147
+00:07:46,200 --> 00:07:49,800
+ That idea fills me with dread.
+
+148
+00:07:49,800 --> 00:07:53,480
+ Yeah, I don't think, we've had a lot of people's thoughts,
+
+149
+00:07:53,480 --> 00:07:57,800
+ but I'm not sure we're adding a lot of content to the debate at this point.
+
+150
+00:07:58,520 --> 00:08:02,760
+ I do think I want to pull out one thing from one of our letters of comment,
+
+151
+00:08:02,760 --> 00:08:06,440
+ and not because I encourage Abigail to put this in an email.
+
+152
+00:08:06,440 --> 00:08:10,040
+ We got a letter from Abigail Nussbaum and specifically she was saying that
+
+153
+00:08:10,040 --> 00:08:14,280
+ Hugo Award-winning fan writer Abigail Nussbaum.
+
+154
+00:08:14,280 --> 00:08:21,000
+ Indeed, Hugo Award-winning fan writer Abigail Nussbaum who points out that the conversation
+
+155
+00:08:21,000 --> 00:08:26,440
+ used to come mask policy ended up kind of abandoning panelists on panels a bit,
+
+156
+00:08:27,000 --> 00:08:32,040
+ and that she really did not like the option of allowing panelists to ask people in the room
+
+157
+00:08:32,040 --> 00:08:35,800
+ to mask, which I think we covered, but I think it's worth noting, you do not want to
+
+158
+00:08:35,800 --> 00:08:41,640
+ have your panelists a con feeling like you have kind of abandoned them for COVID.
+
+159
+00:08:41,640 --> 00:08:43,800
+ So, I think that is something kind of future.
+
+160
+00:08:43,800 --> 00:08:47,960
+ Future policies need to take into account, which is like your panelists are showing up
+
+161
+00:08:47,960 --> 00:08:52,360
+ and basically doing a job for the con, and generally, if they can't do the job for the con
+
+162
+00:08:52,360 --> 00:08:56,760
+ without feeling like they might get COVID, then they're not going to want to do that job for the con.
+
+163
+00:08:56,760 --> 00:09:01,400
+ So, it is always a balancing act, but I kind of put a bit more weight on the feelings of the panelists
+
+164
+00:09:01,400 --> 00:09:05,640
+ than kind of the feelings of the audience watching them in this field.
+
+165
+00:09:05,640 --> 00:09:10,920
+ I'd agree with that. I mean, the panelists were well spaced from the audience in large,
+
+166
+00:09:10,920 --> 00:09:16,840
+ well-ventilated rooms, but we were expecting, I think, people to mask more than they did,
+
+167
+00:09:16,840 --> 00:09:21,400
+ as we said last time. Abigail also said that she really enjoyed conversation.
+
+168
+00:09:21,400 --> 00:09:25,320
+ I thought it was one of the best conventions she's attended in every other respect apart from this,
+
+169
+00:09:25,320 --> 00:09:30,840
+ so, you know, that was kind of nice, but still, sorry, Abigail.
+
+170
+00:09:30,840 --> 00:09:34,680
+ I'm going to raise one thing, which is we keep saying large, well-ventilated rooms, but
+
+171
+00:09:34,680 --> 00:09:40,520
+ I think, as we said before, we don't really have a standard for ventilation or any good way of
+
+172
+00:09:40,520 --> 00:09:43,880
+ doing this. So, I think at some point, fans are going to have to work out what we mean by
+
+173
+00:09:43,880 --> 00:09:49,160
+ large, well-ventilated rooms, and does that mean going into those rooms with the CO2 monitor at
+
+174
+00:09:49,160 --> 00:09:53,720
+ some point or asking for specs on the ventilation of the venue, which hopefully venues are going to
+
+175
+00:09:53,720 --> 00:09:58,200
+ get better at providing, because, you know, we could say large, well-ventilated rooms,
+
+176
+00:09:58,200 --> 00:10:01,640
+ but I don't think we actually know how much the air is recirculating in there, and so on.
+
+177
+00:10:01,640 --> 00:10:06,840
+ I like big rooms, and I cannot lie. You other brothers can't deny.
+
+178
+00:10:06,840 --> 00:10:15,080
+ We also heard from, I can't remember if he's written in before, Christopher Garcia,
+
+179
+00:10:15,080 --> 00:10:21,320
+ who wrote in saying that he liked the special episode, and a face like Glass is the kind he'd
+
+180
+00:10:21,320 --> 00:10:25,720
+ loved to read, but never seems to get around to, instead it bumps up against me on audible.
+
+181
+00:10:25,720 --> 00:10:29,800
+ I quite like what he says about, it sounds like a book that pumps ideas into the air,
+
+182
+00:10:29,800 --> 00:10:33,560
+ and then he spends a week thinking about them, and then kind of they infect his brain, and I know
+
+183
+00:10:33,560 --> 00:10:38,040
+ what he means. Some of the stuff in a face like Glass, when I was really listening to the conversation
+
+184
+00:10:38,040 --> 00:10:43,640
+ when I was editing it, I was struck by like how much it had made me start thinking about like
+
+185
+00:10:43,640 --> 00:10:49,880
+ the power of people to inform the conversation, and how biased the media is towards the powerful,
+
+186
+00:10:49,880 --> 00:10:53,160
+ and those are all thoughts that are still bouncing around in my head.
+
+187
+00:10:53,160 --> 00:10:57,640
+ And so I do think there is something there with the infectiousness of the ideas in that book,
+
+188
+00:10:57,640 --> 00:11:02,600
+ that I don't know whether we touched on last episode, because we record that quite quickly
+
+189
+00:11:02,600 --> 00:11:08,600
+ after finishing the book, I think. And like that was, oh god, when was that? Like a while ago,
+
+190
+00:11:08,600 --> 00:11:14,680
+ listeners, I don't want to take you too far beyond the curtain, but suffice to say, it was like
+
+191
+00:11:14,680 --> 00:11:19,480
+ months, and those ideas have been bouncing around in my little cranium for a while since, so
+
+192
+00:11:19,880 --> 00:11:25,480
+ yeah, no, I think he's got a point there. Oh, and the mastodons, we got two.
+
+193
+00:11:25,480 --> 00:11:30,760
+ Tammy Goxon wrote in to say that it was an excellent octop, thank you.
+
+194
+00:11:30,760 --> 00:11:36,280
+ Zambia programming software came out of Erisia, and they had a registration system that was called
+
+195
+00:11:36,280 --> 00:11:45,080
+ Congo, as in Congo, and then Zambia was the system they made to fit into it in a sort of,
+
+196
+00:11:45,080 --> 00:11:50,600
+ you can see how that ended up happening, but yeah. On the naming of things.
+
+197
+00:11:50,600 --> 00:11:56,280
+ And so yep, no, that is that is fan history we were unaware of. Thank you very much, Tammy.
+
+198
+00:11:56,280 --> 00:12:02,120
+ I still think Ariadne is good, and then you could rename the registration system like
+
+199
+00:12:02,120 --> 00:12:08,520
+ after a different spider, like Boris or Charlotte. We got a letter from Randy Smith, and I'm not sure
+
+200
+00:12:08,520 --> 00:12:16,920
+ Randy's written to us before saying that when he stood for TAF, around for TAF in 2015,
+
+201
+00:12:16,920 --> 00:12:23,160
+ he chose nominators based on who do I think I can get? That is a model.
+
+202
+00:12:23,160 --> 00:12:28,920
+ No, I think that is very reasonable. I read a new fan scene by a new person. Martin Petto.
+
+203
+00:12:28,920 --> 00:12:35,240
+ Martin Petto, just the other day. Yes, so Martin has done a fan scene called Moon
+
+204
+00:12:35,800 --> 00:12:44,040
+ Moot, and it has the return of fanboys and Alison has spoiled my pick, but oh, sorry, shit.
+
+205
+00:12:44,040 --> 00:12:50,920
+ No, that's all right. I've said to have a letter of comment. Andrew Hogg has
+
+206
+00:12:50,920 --> 00:12:58,120
+ redone some fanboys books, books, comics, which is very good. And no, it's very well designed.
+
+207
+00:12:58,120 --> 00:13:02,600
+ It is its landscape. Yes, it's designed for reading on iPads.
+
+208
+00:13:03,400 --> 00:13:08,760
+ Oh, it is. Yeah, I approve. He says a podcast is a fan scene made of talking,
+
+209
+00:13:08,760 --> 00:13:13,720
+ and Nick Fairey would have issues with that, Martin. But anyway, yes, so there are new fanzies,
+
+210
+00:13:13,720 --> 00:13:19,720
+ and one way, one of the best ways of getting your fan scene into in front of the eyeballs of
+
+211
+00:13:19,720 --> 00:13:24,120
+ people who read the old fanzies is to send it to Bill Burns to push it on efansy.com,
+
+212
+00:13:24,120 --> 00:13:29,400
+ which is what Martin Petto did. I don't think I know Martin. He made us some lovely slides for
+
+213
+00:13:29,400 --> 00:13:34,360
+ Eastercon. Yeah, no, I mean, part of the fan scene is about your lovely slides. The last thing I was
+
+214
+00:13:34,360 --> 00:13:38,280
+ going to say on nominators is so, guys, if you're thinking of running for a fanfunk, get in touch.
+
+215
+00:13:38,280 --> 00:13:43,080
+ We will, we may not nominate you, but we will put you in the direction of likely nominators.
+
+216
+00:13:43,080 --> 00:13:50,440
+ So we heard from Raj. Raj agrees with Alison. He's got his first con since the before times
+
+217
+00:13:50,440 --> 00:13:55,400
+ coming up soon, which is the con I am at now listeners. And he says he thinks he's coming down
+
+218
+00:13:55,400 --> 00:14:00,120
+ more on the Alison side of the argument than mine. Fair enough Raj. We are now nemesis.
+
+219
+00:14:00,120 --> 00:14:06,440
+ And he says, I raise a good point. I know with friends again about getting boosters from boots,
+
+220
+00:14:06,440 --> 00:14:10,520
+ which yes, if politicians keep comparing COVID to flu, they need to explain why we can't get the
+
+221
+00:14:10,520 --> 00:14:15,320
+ same projections as the former as we can against the latter. There's a very nice point Raj.
+
+222
+00:14:15,320 --> 00:14:23,640
+ I liked that sentence a lot. Yeah, 100%. Yeah. And also they love the private sector. Why can't
+
+223
+00:14:23,640 --> 00:14:29,160
+ the private sector sell us a load of COVID jobs? In the show notes for the last episode,
+
+224
+00:14:29,160 --> 00:14:33,480
+ or no, sorry, in the show notes for the episode before last, we said there are no picks this
+
+225
+00:14:33,480 --> 00:14:38,280
+ episode. What have you been reading? And Raj was the only person who wrote in. So Raj is going to get
+
+226
+00:14:38,280 --> 00:14:44,040
+ to have his pick on October. He has picked the very secret society of irregular witches by
+
+227
+00:14:44,040 --> 00:14:51,800
+ Sangumandana, which is a cozy fantasy that melted his heart. So, I might look that up. It sounds
+
+228
+00:14:51,800 --> 00:14:56,120
+ interesting. It's a great title. Yeah, I'm going to say I've not heard of that. It sounds good.
+
+229
+00:14:56,120 --> 00:15:02,840
+ Thank you, Raj. Soon we will be obsolete because soon the podcast will just be locks.
+
+230
+00:15:02,840 --> 00:15:09,560
+ I say soon. This episode listeners, this episode DC wrote in saying that they enjoyed the last
+
+231
+00:15:09,560 --> 00:15:14,360
+ podcast and they agreed that conversation did the hybrid convention thing. Excellently
+
+232
+00:15:14,360 --> 00:15:20,520
+ is also reminding themselves to read more Francis Harding. She's so good. And she also seems to be
+
+233
+00:15:20,520 --> 00:15:25,240
+ lovely person. Agreed on both fronts DC. Oh, that was a lot of locks. Yeah.
+
+234
+00:15:25,240 --> 00:15:37,400
+ This morning, while I was at breakfast at the convention, I got an email from Chicon 8
+
+235
+00:15:37,400 --> 00:15:44,280
+ announcing that they are doing partial membership reimbursements. So, if you volunteered or were
+
+236
+00:15:44,280 --> 00:15:53,000
+ on programme for Chicon 8, keep an eye on your email. They say that you will, they are offering
+
+237
+00:15:53,000 --> 00:15:57,960
+ a standard reimbursement amount to all qualifying staff, volunteers and programme participants as
+
+238
+00:15:57,960 --> 00:16:04,920
+ follows. And it's between 60 and 80 dollars, depending on how many people choose to take up this offer
+
+239
+00:16:04,920 --> 00:16:10,280
+ for adult attending. And if you have virtual attending, it's 40. So, hurrah.
+
+240
+00:16:11,160 --> 00:16:16,840
+ I think it's very nice of them to include the virtual attending members as well. I mean,
+
+241
+00:16:16,840 --> 00:16:21,240
+ obviously it's not really been a decision previous cons for to make, but it's nice to reimburse them,
+
+242
+00:16:21,240 --> 00:16:25,240
+ especially as you know, lots of volunteers and programme participants would be doing a lot of
+
+243
+00:16:25,240 --> 00:16:31,000
+ work virtually. Mm hmm. Oh, it's good. It's good stuff. Yes. Tell us about the convention.
+
+244
+00:16:31,000 --> 00:16:37,000
+ I am at satellite eight, which is the eighth convention in the satellite convention series,
+
+245
+00:16:37,000 --> 00:16:42,600
+ which are held at the Crown Plaza Hotel in Glasgow. Guests who honour Christopher Priest and fan
+
+246
+00:16:42,600 --> 00:16:48,040
+ guest of honour, Michelle Cuddles, Dreeton Harald. Chris Priest is being very Chris Priest on all
+
+247
+00:16:48,040 --> 00:16:52,680
+ of the programme I have seen him on, seen him on, which is very good. Meg McDonald managed to persuade
+
+248
+00:16:52,680 --> 00:16:57,080
+ him to give a reading at the start of his guest of honour interview, which he introduced by saying
+
+249
+00:16:57,080 --> 00:17:02,680
+ I hate doing readings. And then Meg was like, but I did ask very nicely. And then he stopped. And
+
+250
+00:17:02,680 --> 00:17:07,880
+ then he said, I'm going to stop there because I hate doing it. And I'm like, fair enough.
+
+251
+00:17:07,880 --> 00:17:15,800
+ It was good. But yeah, lovely little, lovely little relaxer con. How many, how many people
+
+252
+00:17:15,800 --> 00:17:24,120
+ are there, would you say? Mm hmm, 100 maybe. Also, it's tiny. Yeah, it's nice. Oh, and there's
+
+253
+00:17:24,120 --> 00:17:29,320
+ a scavenger hunt and more conventions should have scavenger hunts. If you're running a scavenger hunt,
+
+254
+00:17:29,320 --> 00:17:33,720
+ and you haven't got a convention, no, wrong. If you are running a convention, you haven't got a scavenger
+
+255
+00:17:33,720 --> 00:17:39,560
+ hunt, fix that now, now. So basically they've hidden, it's not really, I guess it's not really
+
+256
+00:17:39,560 --> 00:17:45,880
+ a scavenger hunt. So treasure hunt. They've hidden pictures of astronauts around the hotel and you've
+
+257
+00:17:45,880 --> 00:17:51,320
+ got to find 42 astronauts. And there's a prize. Don't know what the prize is. Don't care. The
+
+258
+00:17:51,320 --> 00:17:57,880
+ point is filling in the list. The prize is the satisfaction. But yes, found the last three
+
+259
+00:17:57,880 --> 00:18:04,040
+ yesterday in between karaoke. So it was good. And yeah, so the satellite conventions are all themed
+
+260
+00:18:04,040 --> 00:18:11,240
+ around like space exploration, or kind of, well, fastest space exploration. So they're kind of my
+
+261
+00:18:11,240 --> 00:18:19,640
+ bag anyway. And I volunteered for ops. Oh, do you get like a walkie-dockie and a shiny vest? No.
+
+262
+00:18:19,640 --> 00:18:26,200
+ For 100% conventions, that would be excessive, I think. You get it's a badge. I get a badge that
+
+263
+00:18:26,200 --> 00:18:31,480
+ says ops. Oh, I get to sit behind a desk and people come in and say, can I sign up for a thing? And
+
+264
+00:18:31,480 --> 00:18:36,440
+ I'm like, yes. Except for if they want to sign up for the cheesecake tasting, in which I'm like,
+
+265
+00:18:36,440 --> 00:18:41,000
+ no, because it was full. I went to the cheesesteing. It was bloody brilliant.
+
+266
+00:18:41,000 --> 00:18:48,840
+ How was the cheese? Good cheese. We were driving to the middle of Wales on Friday. And I noticed a
+
+267
+00:18:48,840 --> 00:18:55,080
+ size saying cheese making next right. And so we stopped doing what we were doing and drove to the
+
+268
+00:18:55,080 --> 00:18:59,000
+ place of cheese making. And they were not cheese making, but they did have a lot of their own
+
+269
+00:18:59,000 --> 00:19:03,240
+ cheese. And they said, would you like some lunch? And I said, what sort of lunch do you have? And
+
+270
+00:19:03,240 --> 00:19:07,560
+ they said, well, we have a cheese platter for two. And I said, that sounds very good. So there was
+
+271
+00:19:07,560 --> 00:19:12,600
+ so much cheese. I had to bring cheese away with me. So I have, I have cheese tucked into the fridge
+
+272
+00:19:12,600 --> 00:19:17,640
+ here, despite the fact that they're also feeding us a lot here as well. So cheese, cheese is good.
+
+273
+00:19:17,640 --> 00:19:21,960
+ Yep. But it was cheese as I've never, cheese as I've never had before that I made it this one
+
+274
+00:19:21,960 --> 00:19:27,560
+ dairy that just makes cheese, local cheese for local people. It's practically on their mission
+
+275
+00:19:27,560 --> 00:19:33,240
+ statement. It's like we will make, we will make cheese and distribute it within herrifucher.
+
+276
+00:19:33,240 --> 00:19:39,480
+ I was like, okay, that's, that's fine. That's a take. I like herrifucher. Speaking of cheese,
+
+277
+00:19:39,480 --> 00:19:43,800
+ I just want people to know the types of the last, the cover for the last episode entirely on my
+
+278
+00:19:43,800 --> 00:19:49,240
+ phone on the train, which I think is a first for me. I was so proud of myself. And it has cheese on
+
+279
+00:19:49,240 --> 00:19:55,960
+ it. Imaginary cheese. Does have cheese. Good. Cheese. It's, it's kind of a relatively small
+
+280
+00:19:55,960 --> 00:20:01,800
+ convention. There's two or three program tracks, depending on how you look at it. And there's nothing
+
+281
+00:20:01,800 --> 00:20:07,320
+ opposite the guest of honor items, which I kind of love. At 11, there is a program item
+
+282
+00:20:07,320 --> 00:20:16,280
+ about moving to Scotland. So, you know, it's a recruitment drive. Scotland does seem nice.
+
+283
+00:20:16,280 --> 00:20:23,560
+ A data point, Liz. I went to a bar in Glasgow that was selling beer for £7.20 a point.
+
+284
+00:20:23,560 --> 00:20:29,560
+ Yeah. This has been beer price roundup with Liz. We're going to need a chapter art,
+
+285
+00:20:29,560 --> 00:20:33,480
+ Alison. Beer price roundup, right? It's very high.
+
+286
+00:20:33,480 --> 00:20:39,160
+ Bredeemer the crown plaza. Is it a venue for Glasgow in 2024?
+
+287
+00:20:39,160 --> 00:20:43,720
+ It is. I mean, Bredeemer will be a hotel for Glasgow in 2024.
+
+288
+00:20:43,720 --> 00:20:49,400
+ It is both. I don't know how much of the space is being used for conventionally things.
+
+289
+00:20:49,400 --> 00:20:54,040
+ They are. They are, in fact, using all of the spaces in this hotel for Glasgow in 2024.
+
+290
+00:20:54,040 --> 00:20:58,760
+ I don't know exactly what they use in the fort. I don't think program have gone on the tour of the
+
+291
+00:20:58,760 --> 00:21:06,440
+ venue to work out what is being used for what yet. So like, I don't know. I don't think areas
+
+292
+00:21:06,440 --> 00:21:12,760
+ have been bagzied for specific uses yet. But I know I think they have the entire SECC. And I
+
+293
+00:21:12,760 --> 00:21:17,960
+ think they have all of the space in this hotel except for maybe one of the big halls which they
+
+294
+00:21:17,960 --> 00:21:22,440
+ have an option on but they haven't committed to yet. I believe is the case. But yes. So lots
+
+295
+00:21:22,440 --> 00:21:27,560
+ of program space in this hotel, which is very nice. I mean, there's an Easter cons worth of
+
+296
+00:21:27,560 --> 00:21:31,560
+ program space as long as your Easter cons quite small in the crown plaza.
+
+297
+00:21:31,560 --> 00:21:38,200
+ Yeah. I don't know if it's had any change or updates since I last went to it in 2006. But I
+
+298
+00:21:38,200 --> 00:21:43,640
+ mean, I know the area has because they've obviously built like the Hydro and I think some more hotels
+
+299
+00:21:43,640 --> 00:21:48,600
+ in the car park. But I would assume the crown plaza is largely the same. They might have painted it.
+
+300
+00:21:48,600 --> 00:21:55,480
+ Well, and also you get free stuff. I mean, free are users of term neglecting the price of the room.
+
+301
+00:21:55,480 --> 00:22:01,320
+ But it's nice that you get like loads of light bottles of like water and a couple of
+
+302
+00:22:01,320 --> 00:22:05,240
+ bottles of beer and a couple of cans of wine and stuff. So that's been quite cool.
+
+303
+00:22:05,240 --> 00:22:08,920
+ Which means you can dip up to the room and like have refreshment, which is lovely.
+
+304
+00:22:08,920 --> 00:22:12,680
+ And the breakfast is very good. It doesn't have mushrooms, but it does have haggis.
+
+305
+00:22:12,680 --> 00:22:15,720
+ Wait, wait, wait, wait. Is it cans of wine?
+
+306
+00:22:15,720 --> 00:22:20,520
+ Yes. Are you sure that's not a mini bar and you'll discover you'll be in charge for the
+
+307
+00:22:20,520 --> 00:22:28,200
+ ball at the end of your stay? Rang down a nest. But yeah, no. I can't remember. The cans of wine
+
+308
+00:22:28,200 --> 00:22:31,800
+ have a pun on them, but the cans are wearing no longer in the fridge on account of how we drank
+
+309
+00:22:31,800 --> 00:22:36,600
+ them. So I can't trade what the pun was, but there is a pun. I mean, like it's not fantastic.
+
+310
+00:22:36,600 --> 00:22:40,760
+ I mean, obviously the tea cakes, which are great. I don't know how much of this was here
+
+311
+00:22:40,760 --> 00:22:46,040
+ when I was here for satellite four, because when I was here for satellite four, I was a PhD student.
+
+312
+00:22:46,040 --> 00:22:52,680
+ And so my like ability to go out for dinner was less than it is now. But there's like a lot of
+
+313
+00:22:52,680 --> 00:22:57,400
+ restaurants on our Gile Street, which is like a 10 minute walk away. And there's just like so
+
+314
+00:22:57,400 --> 00:23:03,080
+ much good food and drink there. It's really nice. I mean, for the world con, I guess you're going to
+
+315
+00:23:03,080 --> 00:23:08,920
+ need to like try and book and make sure that you have a table planned. But that is really,
+
+316
+00:23:08,920 --> 00:23:12,920
+ really good. We went to a place called the Tap House. Was that what you had? You said
+
+317
+00:23:12,920 --> 00:23:18,840
+ £7.20 a pint of beer? Yep. It was very good though. Local brewery. I think it's bad to say that
+
+318
+00:23:18,840 --> 00:23:25,560
+ they also did pines for like £5.20. But that was if you wanted like a pint of Blue Moon or a pint
+
+319
+00:23:25,560 --> 00:23:32,200
+ of like something equally generic. If you wanted good beer, it was more. But that is kind of the
+
+320
+00:23:32,200 --> 00:23:39,160
+ that's kind of the way of nice beers unfortunately. Yes, it's like this lovely pub in Paddington that
+
+321
+00:23:39,160 --> 00:23:45,720
+ Claire has found. It's like a pub except perfect in every respect. And the one respect to which
+
+322
+00:23:45,720 --> 00:23:52,040
+ it might not be absolutely perfect is that everything is very expensive. Yes. Yeah, I, the only satellite
+
+323
+00:23:52,040 --> 00:23:56,360
+ I've been to is the Eastcon. Every single time I think, oh yes, that would be good. We should do that.
+
+324
+00:23:56,360 --> 00:24:01,800
+ We've never managed it. I don't even make it to the Eastcon because that was the year of Worldcon.
+
+325
+00:24:01,800 --> 00:24:07,960
+ And so I was spending all my free time and money on Worldcon. Yep. I mean, I really did enjoy the
+
+326
+00:24:07,960 --> 00:24:12,280
+ Eastcon that there was there though. It was fantastic. I'd be very also bought a house. So
+
+327
+00:24:12,280 --> 00:24:15,880
+ that took up a lot of my time and attention rather than a thing to come.
+
+328
+00:24:15,880 --> 00:24:31,000
+ Mm-mm. There has been some discussion about whether or not people think that the Hugo award
+
+329
+00:24:31,000 --> 00:24:38,520
+ nominees will be highly skewed towards Chinese language works or not in the last few weeks.
+
+330
+00:24:38,520 --> 00:24:42,680
+ We are recording this before the lists are up. We are mindful of the fact that the episode might
+
+331
+00:24:42,680 --> 00:24:50,280
+ come out after the list has dropped. So we're going to do some discussion of that without knowing
+
+332
+00:24:50,280 --> 00:24:57,480
+ what will happen listeners. Oh, oh, oh. Octa thought pontification corner. Basically,
+
+333
+00:24:57,480 --> 00:25:06,120
+ we're either going to look super smart or completely opposite. So let's do it. Alison,
+
+334
+00:25:06,120 --> 00:25:14,360
+ what is your view of this? My view of this is that there will not be any or maybe one or two,
+
+335
+00:25:14,360 --> 00:25:22,040
+ but almost certainly no Chinese language finalists on the Hugo ballot. And my reason for thinking this
+
+336
+00:25:22,040 --> 00:25:28,360
+ is that I don't think the vast majority of Chinese SF fans have any concept of what the
+
+337
+00:25:28,360 --> 00:25:34,280
+ hugas are or what they do. I don't think they're very interested in it. And I don't think they are.
+
+338
+00:25:34,840 --> 00:25:40,680
+ I'm not seeing any evidence that there's any sort of science fiction world magazine
+
+339
+00:25:40,680 --> 00:25:46,840
+ right could have could have run a campaign to get Chinese fans to nominate. And I think if
+
+340
+00:25:46,840 --> 00:25:51,480
+ you'd have done this, they would have done. And we would we would know it was happening.
+
+341
+00:25:51,480 --> 00:25:54,760
+ And we have not seen anything of that kind. And so I don't think it's going to happen.
+
+342
+00:25:54,760 --> 00:26:03,880
+ So I think I agree. And part of the reason I agree is that there have been two previous years,
+
+343
+00:26:04,360 --> 00:26:09,480
+ the Japanese Worldcon and the Finnish Worldcon have both occurred in my time in fandom.
+
+344
+00:26:09,480 --> 00:26:15,400
+ And obviously I suspect a lot of Japanese Finnish people do speak English. But what we didn't see in
+
+345
+00:26:15,400 --> 00:26:21,800
+ either of those years was a lot of Japanese or Finnish language science fiction on the ballot.
+
+346
+00:26:21,800 --> 00:26:26,760
+ And now I don't know whether that's because those countries just don't have as much science
+
+347
+00:26:26,760 --> 00:26:31,800
+ fiction as China does because I don't have a good view of international science fiction listeners.
+
+348
+00:26:31,800 --> 00:26:39,240
+ But I do it would it would be interesting if China is the one that proves the exception to the rule
+
+349
+00:26:39,240 --> 00:26:44,920
+ because so far the Hugo has been remarkably resilient to being held in countries that
+
+350
+00:26:44,920 --> 00:26:51,000
+ are not first language English. And like I don't know. Maybe that is a fool's extrapolation.
+
+351
+00:26:51,000 --> 00:26:58,440
+ But that is just kind of where I'm at. I wonder whether the same thing will happen this time.
+
+352
+00:26:58,440 --> 00:26:59,800
+ What do you think Liz?
+
+353
+00:26:59,800 --> 00:27:04,600
+ Well I mean it would be quite easy for me to at this point say I think there will be at least one
+
+354
+00:27:04,600 --> 00:27:10,040
+ Chinese language nominee on the ballot. And then since you guys have picked zero I will look smart
+
+355
+00:27:10,040 --> 00:27:15,400
+ if there's any. So I'm going to do that. Yep. But no I think I think it's might be the year. So I think
+
+356
+00:27:15,400 --> 00:27:20,680
+ in the year of Helsinki the thing is I think because all the Finnish fans firstly the Finnish
+
+357
+00:27:20,680 --> 00:27:25,640
+ fans were still a minority of the people nominating you know because there were huge numbers of
+
+358
+00:27:25,640 --> 00:27:29,320
+ British American fans who had signed up for the vote and not and they many of those voted for
+
+359
+00:27:29,320 --> 00:27:34,920
+ Helsinki. It wasn't purely Helsinki fans whereas in Chengdu it was a lot more. The Helsinki fandom
+
+360
+00:27:34,920 --> 00:27:39,160
+ as far as I know basically when I met at the convention was through in English and while they
+
+361
+00:27:39,160 --> 00:27:43,960
+ were reading Finnish language and Swedish language science fiction they're also reading a lot of
+
+362
+00:27:43,960 --> 00:27:48,920
+ English language science fiction. And also I will say for Chengdu I just don't really have any insight
+
+363
+00:27:48,920 --> 00:27:55,240
+ into what's going on because I just cannot read any of their social media. I can't read any websites
+
+364
+00:27:55,240 --> 00:28:01,800
+ so I see any discussion. So I think given the number of them who are fully signed up as members
+
+365
+00:28:01,800 --> 00:28:08,760
+ thanks voting in DC and given that some of the categories have incredibly low numbers of
+
+366
+00:28:08,760 --> 00:28:13,880
+ nominators either they just have a very low number altogether or they have a really really broad
+
+367
+00:28:13,880 --> 00:28:20,360
+ spread like in short story where you have a lot of nominators but a massive spread. I think there
+
+368
+00:28:20,360 --> 00:28:26,920
+ will be some categories with Chinese language nominees or Chinese people who blog or podcast
+
+369
+00:28:26,920 --> 00:28:31,640
+ or write in the Chinese language. Possibly in things like short story where I don't think it would take
+
+370
+00:28:31,640 --> 00:28:37,480
+ a lot of votes from China if they coalesce around a small number of stories. You know if there are
+
+371
+00:28:37,480 --> 00:28:46,120
+ 3,000 votes from Anglophone readers but we pick 300 stories and then there are 200 votes from
+
+372
+00:28:46,120 --> 00:28:51,960
+ Chinese members who pick a small number even with the purpose you go still in effect I think that
+
+373
+00:28:51,960 --> 00:28:56,440
+ would still get them a nominee. And then when you get down to categories like best fan artists,
+
+374
+00:28:56,440 --> 00:29:02,760
+ fan cast, fanzine, fan rights and extent where you don't need a huge number of nominations
+
+375
+00:29:02,760 --> 00:29:07,800
+ then I can easily see that they might might only need 100 people to get you on the ballot and that
+
+376
+00:29:07,800 --> 00:29:11,960
+ seems completely possible. So I think there's going to be more than what. What I can't explain
+
+377
+00:29:11,960 --> 00:29:19,560
+ really is why in 2007 there were not any Japanese language nominations but I don't know enough about
+
+378
+00:29:19,560 --> 00:29:24,600
+ the situation then and you know how many of them had joined up to vote in site selection and things
+
+379
+00:29:24,600 --> 00:29:27,720
+ like that to really know if it's going to be a big difference but I will stick my neck out and say
+
+380
+00:29:27,720 --> 00:29:33,000
+ there's going to be some Chinese language nominees on the ballot. Okay so I have a question for you
+
+381
+00:29:33,000 --> 00:29:38,440
+ Liz. Why were there none last year? Because there were lots of Chinese fans who had joined for site
+
+382
+00:29:38,440 --> 00:29:46,280
+ selection and who could have nominated Hugo's and there were no Chinese language works on the ballot
+
+383
+00:29:46,280 --> 00:29:51,880
+ then. So what do you think has changed in the intervening year? Is it just that the ratio of
+
+384
+00:29:51,880 --> 00:29:56,440
+ Chinese to American fans? Because I think we know that there were more Chinese fans who had signed
+
+385
+00:29:56,440 --> 00:30:00,440
+ up to that Worldcon than American ones for site selection but I don't have a feel for like what
+
+386
+00:30:00,440 --> 00:30:05,960
+ the absolute ratios were. Yeah okay you do have a good point there which may undermine my theory
+
+387
+00:30:05,960 --> 00:30:12,360
+ but my other theory would be that as far as I know when Chai Khan sent out you know email communications
+
+388
+00:30:12,360 --> 00:30:17,880
+ and opening nominations and so on. So what I don't know is whether the fact that Chengdu will
+
+389
+00:30:17,880 --> 00:30:24,120
+ have been emailing all its members in you know their native language will have made a difference
+
+390
+00:30:24,120 --> 00:30:29,480
+ of their kind of awareness about being able to vote in the Hugo's being able to nominate stuff
+
+391
+00:30:29,480 --> 00:30:34,920
+ and whether there is a set of fandom who just weren't aware that they had those you know nomination
+
+392
+00:30:34,920 --> 00:30:40,440
+ rights for Chai Khan. I sort of agree with that but in the last five minutes I have been checking
+
+393
+00:30:40,440 --> 00:30:47,160
+ the internet and have also checked the nomination lists for the two Worldcons that were non-anglophone
+
+394
+00:30:47,160 --> 00:30:57,240
+ countries before John's memory which were Python in 1970 and Confiction in 1990 and none neither of
+
+395
+00:30:57,240 --> 00:31:02,600
+ those ballots contained any non-English language works as far as I can tell. So that's true but I
+
+396
+00:31:02,600 --> 00:31:09,480
+ think it's also like I think the landscape has totally changed since Worldcons of the 1990s
+
+397
+00:31:09,480 --> 00:31:14,840
+ in terms of how many people nominate and I mean also the voting vote counting has changed.
+
+398
+00:31:14,840 --> 00:31:23,400
+ And also I would say I don't know I mean I know there is like a thriving kind of you know there is
+
+399
+00:31:23,400 --> 00:31:31,160
+ a German language SFC and there is a Dutch language SFC but how much of that is there and how much
+
+400
+00:31:31,160 --> 00:31:36,680
+ crossover is there between fans of that and also fans who are reading in English language as well.
+
+401
+00:31:36,680 --> 00:31:42,520
+ Like I can believe there is a big segment of fans who are signed up to Chengdu Woken who do not
+
+402
+00:31:42,520 --> 00:31:47,560
+ habitually read any science fiction in English and I suspect a lot more of the German and Dutch
+
+403
+00:31:47,560 --> 00:31:52,600
+ fans were reading things in English. I think all of them were maybe not absolutely all of them but
+
+404
+00:31:52,600 --> 00:31:59,320
+ the vast majority of Dutch fans at Confiction and almost certainly also the German fans at
+
+405
+00:31:59,320 --> 00:32:03,640
+ Hijkon of whom there weren't actually the old not many were reading English language SFCs
+
+406
+00:32:03,640 --> 00:32:11,000
+ even in 1990 remarkably little SFC was available in Dutch translation this was one of the things
+
+407
+00:32:11,000 --> 00:32:15,080
+ that the Dutch fans complained about a great deal. I mean there is a thing on
+
+408
+00:32:15,080 --> 00:32:24,120
+ on file 770 just to remind me is that there was no like Chinese language ballot for Shikon and
+
+409
+00:32:24,120 --> 00:32:28,520
+ apparently there had never been one previously so when they're in Germany in the Netherlands they
+
+410
+00:32:28,520 --> 00:32:34,520
+ also didn't translate the Hugo ballots and I'm pretty sure they didn't do it for Helsinki either.
+
+411
+00:32:34,520 --> 00:32:39,640
+ So I think this Worldcon maybe the first time they've actually had a bilingual ballot could be
+
+412
+00:32:39,640 --> 00:32:44,440
+ interesting. I thought that was a Finnish one. Finn's right in. Yeah I did think there was a Finnish
+
+413
+00:32:44,440 --> 00:32:50,680
+ language one but I don't know I mean so much that Helsinki was done in English it almost felt like
+
+414
+00:32:50,680 --> 00:32:55,560
+ there are like Worldcons which have had the program tracks in other languages but it's always been
+
+415
+00:32:55,560 --> 00:32:59,160
+ very much a kind of minority thing and I think most of the people you know on the
+
+416
+00:32:59,160 --> 00:33:04,280
+ banish or Polish or Irish language tracks have also been taking part in the English language one.
+
+417
+00:33:04,280 --> 00:33:16,200
+ Yeah Pics he wants to do their first pick. So you would think I would have a good pick at this
+
+418
+00:33:16,200 --> 00:33:21,720
+ point but apparently I've spent the last month and a half reading non-science fiction books
+
+419
+00:33:21,720 --> 00:33:28,360
+ watching non-science fiction television and films playing non-science fiction video games or
+
+420
+00:33:28,360 --> 00:33:32,360
+ doing all those things but not wanting to actually recommend them. So you're going to get a podcast
+
+421
+00:33:32,360 --> 00:33:38,120
+ recommendation which feels very cheeky so it feels like I'm piggybacking on everyone else's
+
+422
+00:33:38,120 --> 00:33:44,040
+ podcast recommendation but essentially lots of people last year recommended the Going Rogue
+
+423
+00:33:44,040 --> 00:33:50,120
+ podcast by Tanzi Garden who did a podcast all about the making of Rogue One which I have not listened
+
+424
+00:33:50,120 --> 00:33:56,680
+ to yet because I feel I need to rewatch Rogue One before I listen to it so it's on my list but she
+
+425
+00:33:56,680 --> 00:34:01,560
+ has a new podcast series currently running which is called Striking Out and it is all about the
+
+426
+00:34:01,560 --> 00:34:09,320
+ 2007-2008 writer strike through stories of the shows and films that were running at the time so
+
+427
+00:34:09,320 --> 00:34:13,720
+ it's obviously very timely given we're in the middle of another writer strike and the first few
+
+428
+00:34:13,720 --> 00:34:18,440
+ episodes are out and there's no about you know Quantum of Solace the the bomb film and how the
+
+429
+00:34:18,440 --> 00:34:23,240
+ writer strike affected that and then also about the office the US one which is very interesting
+
+430
+00:34:23,240 --> 00:34:29,720
+ because I hadn't realized it was such a big thing in the very early days of streaming and it was
+
+431
+00:34:29,720 --> 00:34:36,120
+ really interesting to hear about kind of you know how they felt getting the the right residuals for
+
+432
+00:34:36,120 --> 00:34:40,840
+ streaming episodes of the office was a big thing in 2008 and obviously has paved the way for what
+
+433
+00:34:40,840 --> 00:34:47,160
+ is now a massive massive thing is an entertaining podcast Tanzi Garden is obviously very well read
+
+434
+00:34:47,160 --> 00:34:52,920
+ well informed and fun to listen to and I recommend you give it a go I may be nominated for Hugo next
+
+435
+00:34:52,920 --> 00:35:00,280
+ year now I'm going where we use on my list of things to listen to but I'm a bit behind on podcasts
+
+436
+00:35:00,280 --> 00:35:08,520
+ ever since I discovered that you can watch all of Durham County cricket clubs matches on YouTube
+
+437
+00:35:08,520 --> 00:35:14,040
+ because then I do that instead of listening to podcasts and there's bad I listen to them on my
+
+438
+00:35:14,040 --> 00:35:17,640
+ commute and my commute is very short so that's the problem now actually the problem is that you
+
+439
+00:35:17,640 --> 00:35:22,360
+ know during cycling when tours I try and listen to like two and a half daily podcasts so that's
+
+440
+00:35:22,360 --> 00:35:27,080
+ the problem I mean that does sound like a very interesting podcast it is go and listen to it okay
+
+441
+00:35:27,080 --> 00:35:35,160
+ shall I do my pick so I am going to pick another Apple TV show I do I do watch other TV that's not
+
+442
+00:35:35,160 --> 00:35:41,320
+ Apple TV sometimes but anyway this was recommended to me by Abigail Nespam who said this is Sunk Below
+
+443
+00:35:41,320 --> 00:35:48,920
+ Trace it is Shining Girls a eight part series based on Lauren Buke's book and starring Elizabeth
+
+444
+00:35:48,920 --> 00:35:58,360
+ Moss as a woman who some years ago was attacked by a psychopath and survived and is now trying to
+
+445
+00:35:58,360 --> 00:36:06,360
+ piece together what appears to be a series of quite strange serial killings I think it's not you know
+
+446
+00:36:06,360 --> 00:36:11,160
+ I'm picking it so it is genre it sounds like it's not genre but it is it is science fiction as well
+
+447
+00:36:11,160 --> 00:36:18,520
+ as being a thriller obviously it is all very beautiful and very put together and all of the
+
+448
+00:36:18,520 --> 00:36:23,000
+ performances are marvelous and I have a slight hesitation about it because A) I haven't quite finished
+
+449
+00:36:23,000 --> 00:36:28,840
+ it yet so this is another pick where I am halfway through a series and picking it but B) it does have
+
+450
+00:36:28,840 --> 00:36:35,560
+ quite a lot of emery-drating content about dead women and stalking women which is not my favorite
+
+451
+00:36:35,560 --> 00:36:39,640
+ topic but everything about else about the show is so good to the time colour letting it
+
+452
+00:36:40,280 --> 00:36:45,880
+ off a bit but it's very good and almost nobody seems to have mentioned it it's sort of come up
+
+453
+00:36:45,880 --> 00:36:51,080
+ it came up in Abigail's Hugo List but that was the first I'd heard of it and I don't think I've
+
+454
+00:36:51,080 --> 00:36:56,600
+ seen anything else about it on any of my socials so so I feel like yeah this is this is something
+
+455
+00:36:56,600 --> 00:37:02,680
+ that you might be interested in especially if if you like that kind of thriller science fiction
+
+456
+00:37:02,680 --> 00:37:07,720
+ crossover genre thing which you might I was surprised you liked it because you are a
+
+457
+00:37:08,760 --> 00:37:16,840
+ confirmed wuss which is a word you have used to describe yourself and this yeah wait till we get
+
+458
+00:37:16,840 --> 00:37:23,480
+ to me talking about six weeks Boiler you never did six weeks oh wow okay you are more of a
+
+459
+00:37:23,480 --> 00:37:28,840
+ but hang on okay so you your finalist but China goes way worse than six weeks I mean I've only read
+
+460
+00:37:28,840 --> 00:37:34,840
+ the book I haven't watched the TV series yet but like um China goes it's like really creepy yes I
+
+461
+00:37:34,840 --> 00:37:40,120
+ think the TV series is quite careful right yeah no China girls is super creepy six weeks is not
+
+462
+00:37:40,120 --> 00:37:46,520
+ so creepy but no so China girls is is incredibly creepy we're having to watch an episode of Lower
+
+463
+00:37:46,520 --> 00:37:53,400
+ Decks immediately after it every time so that it is not sitting in my brain at bedtime so so it is
+
+464
+00:37:53,400 --> 00:37:59,000
+ like it's a kind of guarded pick right it's right at the edge but I think they've been careful I
+
+465
+00:37:59,000 --> 00:38:03,720
+ think they're kind of they're trying to make prestige TV and so they've been quite careful
+
+466
+00:38:03,720 --> 00:38:09,400
+ about the ways in which they're doing all the really scary stuff and I know that some people
+
+467
+00:38:09,400 --> 00:38:15,480
+ have bounced off the novel for this but for this reason as well that they found it too too horrible
+
+468
+00:38:15,480 --> 00:38:26,840
+ yeah I read Moxieland when it was it was the free book at the Eastercon in 2009 I can't remember
+
+469
+00:38:26,840 --> 00:38:31,720
+ going back a while and I read it and then when Zu T came out I read that and then when China
+
+470
+00:38:31,720 --> 00:38:35,960
+ goes came out I read that I am I am but I knew they were doing a TV show of it
+
+471
+00:38:35,960 --> 00:38:43,640
+ but Aaron is like not bubbled to the top of my two watch list yet yeah same for me I
+
+472
+00:38:43,640 --> 00:38:48,920
+ I read the book I'm aware of it I just haven't got around watching too much stuff not enough time
+
+473
+00:38:48,920 --> 00:38:52,680
+ yes so I don't know how it finishes yet so though I have a I have a guess I have a
+
+474
+00:38:52,680 --> 00:38:59,960
+ spoilery prediction for how it's gonna all unravel I am gonna pick so an anecdote I went to the house
+
+475
+00:39:00,520 --> 00:39:08,440
+ of noted critic Neil Harrison and noted critic Nick Clark and noted critic Mosker the Cat
+
+476
+00:39:08,440 --> 00:39:16,360
+ and breakfast and we watched movies we were stormy Monday with sting and a very young Sean Bean
+
+477
+00:39:16,360 --> 00:39:21,560
+ which is very good ah and we watched the menu and we watched a random episode of the West Wing
+
+478
+00:39:21,560 --> 00:39:29,400
+ and over breakfast the conversation turns to how we haven't picked all these worlds reviews and essays
+
+479
+00:39:29,400 --> 00:39:35,960
+ by Neil Harrison yet on this very podcast in fat listeners you may not be aware that Neil
+
+480
+00:39:35,960 --> 00:39:41,320
+ Harrison has written a series of reviews which is then collected into a book which is called
+
+481
+00:39:41,320 --> 00:39:46,520
+ all these worlds reviews and essays by Neil Harrison and I have finished the book it's quite good
+
+482
+00:39:46,520 --> 00:39:53,560
+ and this is the sort of incisive criticism which is why I do not have a collection of my criticism
+
+483
+00:39:54,440 --> 00:40:02,920
+ written into 161 000 words of genius but no it is extremely good don't you find you want to argue
+
+484
+00:40:02,920 --> 00:40:07,880
+ with him on every single page because that's what reviews of critics criticism do for me generally
+
+485
+00:40:07,880 --> 00:40:13,160
+ I go oh yes well there he's so wrong about all this stuff no I think good so I think this is the
+
+486
+00:40:13,160 --> 00:40:18,360
+ difference between good criticism and bad criticism which is I think bad criticism makes me want to
+
+487
+00:40:18,360 --> 00:40:23,320
+ argue and I think good criticism introduces me to a viewpoint I hadn't considered before
+
+488
+00:40:23,960 --> 00:40:28,840
+ if my first instinct is to argue I think it means you haven't properly explained your point
+
+489
+00:40:28,840 --> 00:40:34,120
+ because it means it's not in my brain enough because I think I would have to be and I think
+
+490
+00:40:34,120 --> 00:40:37,800
+ trying to think of a way to say this nicely I think I would have to be very sure of the
+
+491
+00:40:37,800 --> 00:40:42,920
+ primacy of my own opinions for someone very wise to say something and then for me to be like oh
+
+492
+00:40:42,920 --> 00:40:48,200
+ but you haven't considered it properly and argue with them okay so the very first thing I would
+
+493
+00:40:48,200 --> 00:40:53,720
+ recommend to you for reading non-fiction with a critical eye to start to develop your critical
+
+494
+00:40:53,720 --> 00:40:59,880
+ skills is to always be thinking who is this person and why are they lying to me you know what is
+
+495
+00:40:59,880 --> 00:41:06,040
+ what are the holes in the things that I am reading where can I find the holes in this argument have
+
+496
+00:41:06,040 --> 00:41:10,680
+ they been patched why have they not been patched this is like this is like what critical analysis
+
+497
+00:41:10,680 --> 00:41:17,960
+ is it's like the number one thing you do is go right what this is a point of view so I listen I
+
+498
+00:41:17,960 --> 00:41:22,760
+ don't know if you know this but I've been a scientist for 11 years now and I read scientific
+
+499
+00:41:22,760 --> 00:41:29,640
+ journals so I am aware of this thank you you don't need to explain it I think that a good critic
+
+500
+00:41:29,640 --> 00:41:37,160
+ doesn't make me think that they are deliberately including part of the discussion in order to try
+
+501
+00:41:37,160 --> 00:41:42,840
+ to light me I think a lot of critics do do that and it drives me up the fucking wall the thing I
+
+502
+00:41:42,840 --> 00:41:49,080
+ love about Harrison's criticism the thing I absolutely adore about it is that he actually admits the
+
+503
+00:41:49,080 --> 00:41:55,880
+ parts where he is taking a line and he thinks about all of these books as a holistic whole and
+
+504
+00:41:55,880 --> 00:42:00,760
+ instead of trying to sell you his opinion of them he talks about them in a way that's full enough
+
+505
+00:42:00,760 --> 00:42:07,000
+ that he can explain what his opinion is but he can also explain why his opinion may not be your
+
+506
+00:42:07,000 --> 00:42:12,280
+ opinion and take other people's opinions into account as he does it and he does that fantastically
+
+507
+00:42:12,760 --> 00:42:17,480
+ and so I don't need to do that when I read Harrison's criticism because Harrison is doing it for me
+
+508
+00:42:17,480 --> 00:42:23,000
+ and that is what makes him one of the preeminent voices of his generation I mean I have not read
+
+509
+00:42:23,000 --> 00:42:27,480
+ this book yet there are two copies of it on myself uh waiting for me to read it I'm very
+
+510
+00:42:27,480 --> 00:42:30,840
+ sorry getting around to reading books on paper nowadays maybe I should just buy the Kindle copy
+
+511
+00:42:30,840 --> 00:42:36,920
+ as well then I will read it why have you got two copies one of them is is me um shuffling one to
+
+512
+00:42:36,920 --> 00:42:40,360
+ the opposite side of the world on a planet trip later this year there is a reason for it one of
+
+513
+00:42:40,360 --> 00:42:47,720
+ them is not technically mine this is a book mule the fur zat yeah and bookmule fur zat I mean in
+
+514
+00:42:47,720 --> 00:42:51,560
+ some ways it'll make sense but I know I will see him in a few months time and so it made sense for
+
+515
+00:42:51,560 --> 00:42:56,200
+ me to take one at the time get it signed and hand it over to him I thought we were going to have a
+
+516
+00:42:56,200 --> 00:43:02,840
+ podcast where all three of us picked but I have the I have three copies of Neil's book so I outrank Liz
+
+517
+00:43:02,840 --> 00:43:09,080
+ I have the ebook and then I have the paper book that's signed and then I have the paper book that's
+
+518
+00:43:09,080 --> 00:43:15,800
+ unsigned you've got the rare on side copy yes well I bought it well no I didn't buy it I've
+
+519
+00:43:15,800 --> 00:43:22,600
+ bought one copy but I have three copies because I did the type saying so I got a contributors copy
+
+520
+00:43:22,600 --> 00:43:26,360
+ and Neil gave it to me in his house I forgot to come to sign it and then at east to come we bid on
+
+521
+00:43:26,360 --> 00:43:34,760
+ the one that came with the free review or more more he's reading ijedi by michael staepole oh yeah
+
+522
+00:43:34,760 --> 00:43:40,840
+ okay because we are bad bad men is that not a particularly good book
+
+523
+00:43:40,840 --> 00:43:51,080
+ that was very good laugh john loves it very much so there's a thing here which is that my
+
+524
+00:43:51,080 --> 00:43:57,560
+ star wars fandom is like partly the films like the original trilogy and it's partly the new
+
+525
+00:43:57,560 --> 00:44:03,400
+ the sequel films but then the other strand so like I got into the original trilogy when I was like
+
+526
+00:44:03,400 --> 00:44:10,200
+ a kid like like you know it must have been what a seven no nine I enjoyed the very much
+
+527
+00:44:10,200 --> 00:44:14,120
+ and then like you fall off the wagon a little bit and then when I was a teenager I read the
+
+528
+00:44:14,120 --> 00:44:19,720
+ rose quadrant novels by michael staepole and they kind of re-ignited my star wars fandom and ijedi
+
+529
+00:44:19,720 --> 00:44:27,560
+ is kind of the fifth book in that sequence but kind of not it's kind of part of a series of books I
+
+530
+00:44:27,560 --> 00:44:35,400
+ loved very very much but I can't pretend it was good I strongly suspect it's bad but Neil's gonna
+
+531
+00:44:35,400 --> 00:44:42,600
+ read it and it's only 200 000 words long 200 000 words yeah well because it's because it's the
+
+532
+00:44:42,600 --> 00:44:48,600
+ sequel to a four book sequence and it's also telling the same story as a trilogy of books which
+
+533
+00:44:48,600 --> 00:44:53,720
+ are happening at the same time but it's telling it from a different perspective so it's a good
+
+534
+00:44:53,720 --> 00:44:58,360
+ self-contained novel to get Neil to read we're basically just very bad friends
+
+535
+00:44:58,360 --> 00:45:04,840
+ or good friends but he hasn't started reading it it's on his um table
+
+536
+00:45:04,840 --> 00:45:12,120
+ well does he have like a succession of to be read does he have a complicated to be read system
+
+537
+00:45:12,120 --> 00:45:21,720
+ don't know actually he like I don't know but I think yes well so they've just recently decluttered
+
+538
+00:45:21,720 --> 00:45:26,520
+ a lot of books and like I know several of those books are books that were on the 2b read pile
+
+539
+00:45:26,520 --> 00:45:31,560
+ and are now on the this will never get read pile which is why they're being decluttered
+
+540
+00:45:31,560 --> 00:45:36,440
+ so I think their 2b read pile is like definitely non-trivial but I haven't asked
+
+541
+00:45:36,440 --> 00:45:40,200
+ Neil if you're listening write in with a detailed explanation of your 2b read system
+
+542
+00:45:40,200 --> 00:45:45,160
+ it's also a very fetching shade of green yeah no I'm sorry for setting you off John
+
+543
+00:45:45,160 --> 00:45:50,920
+ that's right I'm sorry for being set off yeah but you did you had just gone said yeah it's good
+
+544
+00:45:50,920 --> 00:45:55,160
+ I like it so you know well it is good Alison I do like it
+
+545
+00:45:55,160 --> 00:46:01,880
+ well I mean I would agree with you that Neil is one of the foremost critical critics of our age
+
+546
+00:46:01,880 --> 00:46:09,000
+ I was so you should say um on the pod because I think I mention it in the third row panel
+
+547
+00:46:09,000 --> 00:46:14,040
+ but I should say it somewhere like out loud which is the reason that this book exists
+
+548
+00:46:14,040 --> 00:46:19,640
+ and the reason I think a large part of the reason I don't know if it's the whole reason I don't want
+
+549
+00:46:19,640 --> 00:46:24,040
+ to speak for Neil but I know a large part of the reason that Neil has returned to write a column
+
+550
+00:46:24,040 --> 00:46:30,520
+ for Strange Horizons and has returned to criticism in recent months is the fact that
+
+551
+00:46:30,520 --> 00:46:36,120
+ conversation invited him to be a guest of honor because I think he felt it was a very great I
+
+552
+00:46:36,120 --> 00:46:40,840
+ think he felt it was like a validation of him as a critic and a validation of his place in the field
+
+553
+00:46:40,840 --> 00:46:46,040
+ and in an external way where he he said to me one of the reasons why he decided to do a book is
+
+554
+00:46:46,040 --> 00:46:50,760
+ that being invited to be a convention guest of honor felt a bit like a publisher expecting interest
+
+555
+00:46:50,760 --> 00:46:55,480
+ in a collection he was like this this shows the community interested in my criticism so like
+
+556
+00:46:55,480 --> 00:47:00,040
+ it shows that I can do this book and then I think but all this to say I don't think we would have
+
+557
+00:47:00,040 --> 00:47:03,800
+ the book and I don't think we would have Neil doing more and more criticism now if it wasn't for
+
+558
+00:47:03,800 --> 00:47:08,920
+ the fact he had been a guest of honor and so I will say I want to say thank you to conversation
+
+559
+00:47:08,920 --> 00:47:13,080
+ for doing that because I think it is for the good of the field that that has happened but also I
+
+560
+00:47:13,080 --> 00:47:18,280
+ want to say to conventions who are considering the guests of honor this is something you might
+
+561
+00:47:18,280 --> 00:47:25,720
+ want to consider when selecting guests of honor is selecting guests who might find the honor
+
+562
+00:47:25,720 --> 00:47:30,520
+ invigorating in a way that will mean that they return to what it is they're known for in a way
+
+563
+00:47:30,520 --> 00:47:35,160
+ that does benefit everyone and I think that is a very that is a very powerful thing to be able to
+
+564
+00:47:35,160 --> 00:47:41,400
+ do if you are a convention committee and it is a gift you have that not many do and so yes thank
+
+565
+00:47:41,400 --> 00:47:48,920
+ you to conversation and perhaps who's thought for others ties neatly into my kind of philosophy on
+
+566
+00:47:48,920 --> 00:47:54,440
+ what being an east con guest of honor should be which is that it it should be an honor that it
+
+567
+00:47:54,440 --> 00:48:01,800
+ that we should be picking people who who we honor by by having them as as our guests and and then
+
+568
+00:48:01,800 --> 00:48:08,120
+ the convention should work with the person so that they're what they do is is brought out in the way
+
+569
+00:48:08,120 --> 00:48:12,840
+ in which they are celebrated as part of the conventions program and I hope we did that with
+
+570
+00:48:12,840 --> 00:48:18,600
+ all of our guests but I think we did do it particularly well with Neil as it happens and if you are
+
+571
+00:48:18,600 --> 00:48:27,320
+ interested in hearing Neil's desert island books then you can go and listen to the sixth episode
+
+572
+00:48:27,320 --> 00:48:33,080
+ of the critical friends podcast which is the strange horizon's criticism podcast which has an
+
+573
+00:48:33,080 --> 00:48:43,240
+ edited version of the interview and if you're interested in the third row fandom panel it is
+
+574
+00:48:43,240 --> 00:48:50,760
+ now up online on youtube as part of fanak.org's fan history events because it fitted absolutely
+
+575
+00:48:50,760 --> 00:48:56,120
+ into their um rationale so they were very pleased to have it and thank you to everyone who's on
+
+576
+00:48:56,120 --> 00:49:02,120
+ the panel for letting it go up there so that's those are two examples of stuff from conversation
+
+577
+00:49:02,120 --> 00:49:07,480
+ that's being preserved um there there will be more but quite a lot of it's sitting in my intro
+
+578
+00:49:07,480 --> 00:49:12,680
+ which we sorted out at the moment so that was the art of the podcast and it's goodbye for me
+
+579
+00:49:12,680 --> 00:49:18,040
+ it's goodbye for me it's goodbye for me
+
+580
+00:49:18,040 --> 00:49:36,600
+ [Music]
+
+581
+00:49:36,600 --> 00:49:41,960
+ I don't mind we could we could touch on Hugo we could do like 10 minutes on Hugo's and then do picks
+
+582
+00:49:41,960 --> 00:49:49,720
+ do you want to do i got an idea do we all want to make a guess as to something about the Hugo's
+
+583
+00:49:49,720 --> 00:49:53,960
+ let's make some kind of guess that can be then easily falsified before this podcast comes out
+
+584
+00:49:53,960 --> 00:50:00,520
+ yes i'm down all right all right so let's do a little mini Hugo prediction thing i have a Hugo
+
+585
+00:50:00,520 --> 00:50:07,080
+ prediction which is that it's not going to have any or more than one or two Chinese language
+
+586
+00:50:07,080 --> 00:50:12,760
+ finalists in any category i'm very glad that we go john allison liz because that's also my
+
+587
+00:50:12,760 --> 00:50:16,360
+ prediction enemies i can go first and us is going to have to predict a different thing
+
+588
+00:50:16,360 --> 00:50:23,640
+ fucker i think we could all discuss that once that's fine i i kind of agree but i kind of
+
+589
+00:50:23,640 --> 00:50:28,840
+ disagree it's an interesting one are we doing are we doing this now because i disagree as well or
+
+590
+00:50:28,840 --> 00:50:32,040
+ do we want to like so are we doing it in the other kind of back editing it or do we want to
+
+591
+00:50:32,040 --> 00:50:36,120
+ properly do this segment and have this discussion which i think will fill five minutes 10 minutes
+
+592
+00:50:36,120 --> 00:50:40,440
+ and then we do pick and we're done so let's okay so let's discuss let's should we just discuss
+
+593
+00:50:40,440 --> 00:50:46,200
+ whether we think there will be lots of Chinese language um nominees on the ballot and let's not
+
+594
+00:50:46,200 --> 00:50:52,440
+ do predictions let's just discuss that question the theme music for this episode was surf shimmy
+
+595
+00:50:52,440 --> 00:50:59,240
+ by kevin mccloud and combatec.com used under a creative commons attribution 4.0 license this podcast
+
+596
+00:50:59,240 --> 00:51:01,480
+ will end at the beep beep
+

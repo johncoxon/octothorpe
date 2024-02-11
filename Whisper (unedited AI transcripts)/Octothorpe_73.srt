@@ -1,0 +1,1956 @@
+1
+00:00:00,000 --> 00:00:04,000
+ Anyway, this bit is all not for podcast. You should have pushed it not for podcast button.
+
+2
+00:00:04,000 --> 00:00:05,280
+ Oh yeah, I should have done. I forgot.
+
+3
+00:00:05,280 --> 00:00:25,440
+ Hello everyone and welcome to the very 73rd episode of Oxford or podcast for science fiction
+
+4
+00:00:25,440 --> 00:00:32,320
+ and science fiction fandom. This episode is coming to you on the 22nd of December 2022.
+
+5
+00:00:32,320 --> 00:00:36,320
+ I'm John Coxon. I'm Alice Scott and I'm Liz Batty.
+
+6
+00:00:36,320 --> 00:00:41,760
+ And I hadn't quite put it together until I said those words out loud, but this is the Christmas
+
+7
+00:00:41,760 --> 00:00:48,400
+ episode. Ho ho ho. Merry Christmas. Hey. Keep up some like dingle bells and shit.
+
+8
+00:00:48,400 --> 00:00:52,880
+ I hope said Doctor Thought brings you everything you desire for a podcast. One of those.
+
+9
+00:00:54,560 --> 00:01:01,840
+ Right then we had letters of comment. So let's start with Raj writing in about episode 71.
+
+10
+00:01:01,840 --> 00:01:06,480
+ Part of the problem we have been recording listeners, a peek behind the curtain.
+
+11
+00:01:06,480 --> 00:01:10,800
+ We have been recording about a week early for a few weeks now because of various scheduling
+
+12
+00:01:10,800 --> 00:01:15,680
+ trivialities, which two boys go into. But this does mean our locks. There's more overlap than
+
+13
+00:01:15,680 --> 00:01:22,080
+ normal. So Raj, thank you for reading it. Writing in about episode 71. Raj says that
+
+14
+00:01:22,080 --> 00:01:26,160
+ they were from his graphs. I have made the graphs. I put them in discord. I forgot to put them on
+
+15
+00:01:26,160 --> 00:01:32,560
+ the alt to the twitter, but they do exist. So that is progress in 72. I again mentioned graphs and
+
+16
+00:01:32,560 --> 00:01:36,480
+ again haven't done them, but this time they will be in the show notes because now they do exist.
+
+17
+00:01:36,480 --> 00:01:42,640
+ So that is concrete progress. He says he liked the idea of best publisher Hugo until Liz pointed
+
+18
+00:01:42,640 --> 00:01:48,160
+ out how limited the winners have been in the Lucas Awards. I still think it might be worth a go
+
+19
+00:01:48,160 --> 00:01:55,520
+ and says he loved Alison's episode art, which was great episode art. Thank you. Nobody else has
+
+20
+00:01:55,520 --> 00:02:01,280
+ mentioned it this time. Chris did love your episode art and he used it to prove that you were wrong.
+
+21
+00:02:01,280 --> 00:02:10,080
+ I say prove very lightly. We'll go into that later. Oh, I have like a whole rant about how it turns
+
+22
+00:02:10,080 --> 00:02:16,000
+ out that if you're going to set a piece of a word with some negative space in the o's,
+
+23
+00:02:16,000 --> 00:02:22,400
+ then octothorpe is a much better word for it than Andor because it makes the whole thing look
+
+24
+00:02:22,400 --> 00:02:26,240
+ more balanced because there are three o's and although it's still got the really weird
+
+25
+00:02:26,240 --> 00:02:30,720
+ kerning thing going on, it's kind of because there's a tracking issue with the Andor logo.
+
+26
+00:02:30,720 --> 00:02:36,320
+ It's at the end of the word rather than at the beginning of the word. So it doesn't look so naff.
+
+27
+00:02:36,320 --> 00:02:40,880
+ Is the tracking issue that the Andor logo has gone into hyperspace and therefore you have to
+
+28
+00:02:40,880 --> 00:02:45,040
+ employ active tracking? But I have finished Andor now, but I was told I couldn't talk about it
+
+29
+00:02:45,040 --> 00:02:47,520
+ all this week. So I'm just going to slip bits of it in everywhere.
+
+30
+00:02:47,520 --> 00:02:53,040
+ I just Oh, Andor so good everyone. Go and watch it. It's really good.
+
+31
+00:02:53,040 --> 00:02:57,600
+ Except that one of the things that's really good about it is got this fantastic 70s aesthetic
+
+32
+00:02:57,600 --> 00:03:03,440
+ except the logo, which has absolutely is clearly not a 70s piece of graphic design.
+
+33
+00:03:03,440 --> 00:03:10,320
+ It's I mean, it's very annoying. Anyway, where were we? Raj also said that he would vote for
+
+34
+00:03:10,320 --> 00:03:14,560
+ cleverly for best letter hack, but only if she starts writing poems again. We have had a lack
+
+35
+00:03:14,560 --> 00:03:19,440
+ of poems this year. We should we should get on that next year. Listeners, please write more poems.
+
+36
+00:03:19,440 --> 00:03:23,200
+ Seriously, if you get a Christmas poem to us, and that's a couple of days, we might record it
+
+37
+00:03:23,200 --> 00:03:29,280
+ and stick it out in the episode where otherwise going to miss. Yes. So we won't be recording a full
+
+38
+00:03:29,280 --> 00:03:35,120
+ episode over the Christmas period. So at the moment, our first episode in January stands
+
+39
+00:03:35,120 --> 00:03:44,400
+ empty of content. If you'd like to help rectify that, please send in your readings of a visit by
+
+40
+00:03:44,400 --> 00:03:50,560
+ St Octothorp and I will combine them together and you can you can hear your voice on the pod.
+
+41
+00:03:50,560 --> 00:03:57,200
+ Not reading of it. Your interpretation of it. Write us a verse for a visit from St Octothorp.
+
+42
+00:03:57,200 --> 00:04:01,520
+ Don't all make it the first verse or the last one or or it won't work. I don't know. It sounds
+
+43
+00:04:01,520 --> 00:04:07,120
+ like kind of intriguing Lovecraftian hellscape. Just repeated. Intriguing Lovecraftian hellscape,
+
+44
+00:04:07,120 --> 00:04:11,920
+ the podcast. I mean, your problem is that the listeners have stopped writing as poetry.
+
+45
+00:04:11,920 --> 00:04:16,400
+ And so I think no one's going to write us any poetry here. And so it will be a dud.
+
+46
+00:04:16,400 --> 00:04:24,080
+ Liz, I hereby on the podcast bet you the princely sum of one point of beer that people will write in.
+
+47
+00:04:24,080 --> 00:04:29,440
+ Perian Lurie wrote to us to say that the Washington Science Fiction Association,
+
+48
+00:04:29,440 --> 00:04:34,080
+ which she says do not confuse with Wussfuss, which is of course the World Science Fiction Society,
+
+49
+00:04:34,080 --> 00:04:41,840
+ or presumably Boa-wa, which is the Boston and Washington area. Baltimore. Boa-wa-wa.
+
+50
+00:04:42,640 --> 00:04:50,720
+ Baltimore and Washington area. Will, what do the world was, stand for?
+
+51
+00:04:50,720 --> 00:04:54,800
+ People's. Look, if you're going to make this joke, you should have done the research for your
+
+52
+00:04:54,800 --> 00:05:00,000
+ joke out of time. It is the Baltimore Washington Area World Con Association Incorporated.
+
+53
+00:05:00,000 --> 00:05:07,600
+ And as we all know, you pronounce it boa-wa-wa-wa. It's not that either. The Washington
+
+54
+00:05:07,600 --> 00:05:12,160
+ Science Fiction Association gives an award for Best Story published by a Small Press every year.
+
+55
+00:05:12,160 --> 00:05:19,520
+ So that's quite good. I approve. And crucially, she says that they give an award to the editor of
+
+56
+00:05:19,520 --> 00:05:24,160
+ the, sorry as well, which is why it was relevant to our discussion of editors and so on.
+
+57
+00:05:24,160 --> 00:05:29,600
+ Yes. And that is, that is a good idea. It's good to hear that that happens at other Science Fiction
+
+58
+00:05:29,600 --> 00:05:34,080
+ Awards. And I think there is no reason that that could not happen in the Hugo's. And actually,
+
+59
+00:05:34,640 --> 00:05:40,640
+ I'm going to go, I'm going to discuss my graphs because they've unexpectedly become relevant.
+
+60
+00:05:40,640 --> 00:05:47,600
+ So I drew some bar charts of the, of the distribution of the number of nominations in each category.
+
+61
+00:05:47,600 --> 00:05:54,720
+ And I would say they're broadly speaking three ways you can, you can kind of group these
+
+62
+00:05:54,720 --> 00:06:00,000
+ categories. So there's, there's one category which has best novel, best short story, better,
+
+63
+00:06:00,000 --> 00:06:04,480
+ best dramatic presentation in both forms. And those are ones where you get significantly more
+
+64
+00:06:04,480 --> 00:06:08,960
+ people nominating five than you do nominating one. And I think that basically says there's an
+
+65
+00:06:08,960 --> 00:06:13,360
+ awful lot of novels and short stories and best dramatic presentations of which people are aware.
+
+66
+00:06:13,360 --> 00:06:19,120
+ And so lots of people nominate lots of them. And that is good. And then there's ones where the number
+
+67
+00:06:19,120 --> 00:06:23,360
+ of people that nominate five is very close to the number of people nominating one. So that's like
+
+68
+00:06:23,360 --> 00:06:31,440
+ novella, novelette, professional artist, and semi-prozine. And those are ones where like clearly there's
+
+69
+00:06:31,440 --> 00:06:35,760
+ slightly fewer options. But if you're tuned in, then there are as many people who know one as no
+
+70
+00:06:35,760 --> 00:06:40,160
+ five. And I think that basically says that those are quite vibrant categories of quite a lot going on.
+
+71
+00:06:40,160 --> 00:06:45,760
+ I think in the case of semi-prozine, it probably means that the semi-prozine category is not adequately
+
+72
+00:06:45,760 --> 00:06:51,520
+ reflecting the breadth of the semi-prozines in the field, perhaps. And then you get categories where
+
+73
+00:06:51,520 --> 00:06:57,040
+ the number of people who know one is way higher than the number of people who know more than one.
+
+74
+00:06:57,040 --> 00:07:02,320
+ And these are all the fan categories and both of the editor categories. And also best graphics
+
+75
+00:07:02,320 --> 00:07:08,640
+ story, best series and best related work. And I'm not sure I would have grouped series graphic
+
+76
+00:07:08,640 --> 00:07:12,960
+ story and related work in this category, although having now seen the data, it makes a lot of sense.
+
+77
+00:07:12,960 --> 00:07:18,320
+ But yeah, basically, I think this is saying that people really don't know the field in terms of
+
+78
+00:07:18,320 --> 00:07:23,680
+ editor or in terms of the fan works. In the fan works, it's a bit to be expected because the
+
+79
+00:07:23,680 --> 00:07:28,240
+ fan works were obviously less high profile than the pro works and for longtime listeners. You will
+
+80
+00:07:28,240 --> 00:07:33,280
+ know that fanzine editors have not always enthusiastically embraced the Hugo's fan awards. But in terms of
+
+81
+00:07:33,280 --> 00:07:38,320
+ editor, I think this is really pointing out that these categories are not particularly healthy ones,
+
+82
+00:07:38,320 --> 00:07:44,720
+ even at the nomination stage. And I do think that is further evidence that an alternative
+
+83
+00:07:44,720 --> 00:07:49,600
+ tag would be good because editing is a hugely important part of the genre. And we should properly
+
+84
+00:07:49,600 --> 00:07:54,080
+ recognise it. And it doesn't look to me like the Hugo's do a good job of that. And this and this
+
+85
+00:07:54,080 --> 00:07:59,120
+ banks that up, I think, I think is also probably an argument against best series. But that makes me
+
+86
+00:07:59,120 --> 00:08:03,840
+ sad because I like best series. So I'm conflicted. It'll be interesting to see best game. Thank you
+
+87
+00:08:03,840 --> 00:08:09,600
+ for doing the graphs. That was cool. Yeah, no, they're good. It's it's amazing how visualising
+
+88
+00:08:09,600 --> 00:08:16,640
+ data can let you draw conclusions that just tables a day don't. He said with his I do graphs for a
+
+89
+00:08:16,640 --> 00:08:22,960
+ living how? Hooray for whoever invented the graph. Listeners, write in and tell us who invented the
+
+90
+00:08:22,960 --> 00:08:28,080
+ graph. I don't know but I do know who invented the pie chart because it's it's one of these cool
+
+91
+00:08:28,080 --> 00:08:32,960
+ things. It's Mr. Pie. I think everyone knows who invented the pie chart right or who popularised
+
+92
+00:08:32,960 --> 00:08:38,800
+ the pie chart. Mr. Pie. Florence Nightingale who used it to get money out of the government because
+
+93
+00:08:39,360 --> 00:08:45,120
+ the notion that Florence Nightingale was a nurse and not a bad ass statistical expert
+
+94
+00:08:45,120 --> 00:08:54,320
+ and and cast that administrator who's data a lot to affect medical improvements is is well,
+
+95
+00:08:54,320 --> 00:08:58,160
+ you know, that's one of the things nurses do. But it's not the thing that nurses are traditionally
+
+96
+00:08:58,160 --> 00:09:04,560
+ able to do. So she's a nurse of the bad ass administrator and she is a honorary fellow of the
+
+97
+00:09:04,560 --> 00:09:08,640
+ Royal Statistics Society or something like that for that purpose or past precedent or whatever
+
+98
+00:09:08,640 --> 00:09:14,160
+ it is they do. I should invent the pie chart. No, it's I'm sorry I misgendered her as Mr. Pie.
+
+99
+00:09:14,160 --> 00:09:20,560
+ My ex wrote in with some pedantry and I can't find his lock now but it was basically,
+
+100
+00:09:20,560 --> 00:09:25,680
+ oh no, you're going to have a canner's gonna have a high consulate because it's a Commonwealth
+
+101
+00:09:25,680 --> 00:09:32,320
+ country rather than a rather than a embassy and that is of course correct but dull so you know.
+
+102
+00:09:34,320 --> 00:09:39,600
+ And for those who don't know, Alison's ex is Mike Scott. Thank you very much for it again Mike.
+
+103
+00:09:39,600 --> 00:09:49,120
+ Christopher J Garcia wrote in basically saying locus is a hugely important part of SF and he says
+
+104
+00:09:49,120 --> 00:09:56,720
+ he hopes they meet their goal. And in the discussion we had last episode was that we all hope locus
+
+105
+00:09:56,720 --> 00:10:01,200
+ will be here in 10 years in a sustainable form. I think the discussion we had last episode was
+
+106
+00:10:01,200 --> 00:10:06,080
+ around whether or not we think they're going about that in a way we think we'll reach that goal.
+
+107
+00:10:06,080 --> 00:10:10,320
+ And I think we're all a little bit skeptical but if they pull it off great and we are all
+
+108
+00:10:10,320 --> 00:10:14,000
+ rooting for them to still be here in a decade please because they are an important part of the
+
+109
+00:10:14,000 --> 00:10:18,720
+ genre and it is nice to have some of these old institutions knocking about. But yes thank you
+
+110
+00:10:18,720 --> 00:10:24,960
+ very much for hanging Chris. Chris did also mention the Andor logo but we mentioned that earlier.
+
+111
+00:10:24,960 --> 00:10:28,080
+ But basically he says that it's very clever and so Alison is wrong.
+
+112
+00:10:30,320 --> 00:10:36,320
+ Chris also wrote at length about his low relationship with locus on locus's website which we will put
+
+113
+00:10:36,320 --> 00:10:41,760
+ in the show notes for you. Complete with a picture of Chris which I don't know how that picture of
+
+114
+00:10:41,760 --> 00:10:46,720
+ Chris's but you look very young Chris so let us know when that picture was taken. I have a picture
+
+115
+00:10:46,720 --> 00:10:52,240
+ taken of Chris roughly a decade ago where we met up for high jinks in San Francisco and he was
+
+116
+00:10:52,240 --> 00:10:58,160
+ wearing a t-shirt that said earth first will strip mine the other planets later and he looked very
+
+117
+00:10:58,160 --> 00:11:04,480
+ young in that photo. The last 10 years have distinguished him. I think maybe having children
+
+118
+00:11:04,480 --> 00:11:10,720
+ makes you age. Alison sort of grinned so I think I might be on something there but we'll see.
+
+119
+00:11:10,720 --> 00:11:17,360
+ Yeah no no I had children and I turned around and it was 20 years later and I was 51. How did that
+
+120
+00:11:17,360 --> 00:11:22,640
+ happen? He also asked a question which is query would John Paul be eligible for best John?
+
+121
+00:11:22,640 --> 00:11:27,760
+ And I've got a potentially controversial opinion here which is if John Paul had a space in it yes
+
+122
+00:11:28,240 --> 00:11:34,400
+ but it doesn't so no. Yeah because you asked last week about Jonathan's and I was like definitely
+
+123
+00:11:34,400 --> 00:11:39,600
+ not. I would I would be anti-Johnathan inclusion mostly because people insist on call it be Jonathan
+
+124
+00:11:39,600 --> 00:11:46,000
+ which is not my name. I did it once I did it once. Oh no I don't mind people doing it once it's when
+
+125
+00:11:46,000 --> 00:11:51,600
+ people do it repeatedly. I did it once and yes I'd kind of because I'd go through people like oh
+
+126
+00:11:51,600 --> 00:12:00,000
+ hello Liz John Marianne Steven Oh Caroline because as previously measured I've been in my 50s now
+
+127
+00:12:00,000 --> 00:12:05,120
+ it's what we do. I go upstairs and forget what I came up for. See I've been doing that since I
+
+128
+00:12:05,120 --> 00:12:09,600
+ was 18 so I'm a bit worried that when I get to my 50s I'm going to be a hot mess. Emphod is on the
+
+129
+00:12:09,600 --> 00:12:18,160
+ hot John. Hey we have a late entry from Phil. He says the space shuttle enterprise was a need
+
+130
+00:12:18,160 --> 00:12:22,800
+ named after Star Trek ship but it wasn't NASA's first choice it was going to be called constitution
+
+131
+00:12:22,800 --> 00:12:27,360
+ but a high profile campaign by Star Trek fans persuaded them to go with enterprise instead.
+
+132
+00:12:27,360 --> 00:12:32,000
+ Rodhamry named the Star Trek enterprise after the USS Enterprise which was the first nuclear
+
+133
+00:12:32,000 --> 00:12:36,560
+ powered aircraft carrier and Gene Rodhamry was apparently fascinated with it so thank you very
+
+134
+00:12:36,560 --> 00:12:44,160
+ much to Phil for writing in that was good context. And when you say Phil that's Phil Dyson. Phil Dyson
+
+135
+00:12:44,160 --> 00:12:48,000
+ who was named after the vacuum cleaner or the Dyson sphere one of those.
+
+136
+00:12:48,000 --> 00:12:48,480
+ Yep.
+
+137
+00:12:48,480 --> 00:13:00,160
+ So we're going to segue seamlessly into talking about fan funds and we're going to do that because
+
+138
+00:13:00,160 --> 00:13:08,640
+ Raj mentions at the end of his lovely lock that the European fan fund has launched and we have
+
+139
+00:13:08,640 --> 00:13:15,600
+ not yet talked about it on the pod and also there is a TAF race so we're going to talk about those
+
+140
+00:13:15,600 --> 00:13:22,800
+ things listeners. Great congratulations to machine crack for getting together the European fan fund
+
+141
+00:13:22,800 --> 00:13:28,880
+ which he's been talking about for a little while but it's happening now and you if you're a European
+
+142
+00:13:28,880 --> 00:13:37,520
+ fan you can apply to the fund for a trip to next year's Eurocon which is we con.
+
+143
+00:13:37,520 --> 00:13:44,640
+ Yep it's in Sweden unlike the smothcon and we'll get to that later it's called conflict.
+
+144
+00:13:44,640 --> 00:13:45,760
+ For shadowing.
+
+145
+00:13:45,760 --> 00:13:51,600
+ Called conflict being held in up south of Sweden 8th to the 11th of June 2023.
+
+146
+00:13:51,600 --> 00:13:55,520
+ I think this is a great idea I think it will raise the profile of Eurocons I think it will
+
+147
+00:13:55,520 --> 00:14:01,280
+ improve harmony across European fans we love our European friends and our European listeners
+
+148
+00:14:01,280 --> 00:14:03,280
+ do we have the European listeners anyway.
+
+149
+00:14:03,280 --> 00:14:04,800
+ No yeah no I think it is good.
+
+150
+00:14:05,440 --> 00:14:11,840
+ My only thought is with it being a European fan fund I wonder if there could be some kind of
+
+151
+00:14:11,840 --> 00:14:16,160
+ potential for trying to get the fan fund winners to travel by train rather than flying
+
+152
+00:14:16,160 --> 00:14:19,600
+ because one of my sort of worries about you know one of the things about fan funds is we do
+
+153
+00:14:19,600 --> 00:14:23,920
+ essentially pay for someone to fly quite a long distance and I wonder if we could say well if
+
+154
+00:14:23,920 --> 00:14:28,560
+ you're taking you know a longest European fanist trip maybe you could be encouraged to do it overland
+
+155
+00:14:28,560 --> 00:14:29,520
+ might be nice.
+
+156
+00:14:29,520 --> 00:14:37,680
+ Beginning this is being put together on a bit of a shoestring so it's not paying for an extended
+
+157
+00:14:37,680 --> 00:14:44,800
+ trip in the way that the other fan funds do and it may be that going by train is outside
+
+158
+00:14:44,800 --> 00:14:47,920
+ the funds budget but I think that's something definitely something they should think about
+
+159
+00:14:47,920 --> 00:14:52,560
+ working towards because if they were doing a more extended trip doing that more extended trip by
+
+160
+00:14:52,560 --> 00:14:54,160
+ train would be awesome.
+
+161
+00:14:54,160 --> 00:15:01,760
+ Yeah I mean definitely like once the fund is more well established I think this is something
+
+162
+00:15:01,760 --> 00:15:06,080
+ that could be really good because you could buy like an inter-rail pass or something and like
+
+163
+00:15:06,080 --> 00:15:08,160
+ there are options there which are quite cool.
+
+164
+00:15:08,160 --> 00:15:14,880
+ I will say that if you are a Brit and you run for this and you win I believe it will take you
+
+165
+00:15:14,880 --> 00:15:21,760
+ roughly one day to get from London to upsella by train so I won't judge you harshly if you choose
+
+166
+00:15:21,760 --> 00:15:23,280
+ to avoid that.
+
+167
+00:15:23,280 --> 00:15:27,280
+ I think it probably works a lot better when the eurocon is like in Brussels than it does when
+
+168
+00:15:27,280 --> 00:15:33,920
+ it's in upsella which is I mean you go to Copenhagen and then you go to Stockholm and then you keep
+
+169
+00:15:33,920 --> 00:15:35,520
+ going it's a long way.
+
+170
+00:15:35,520 --> 00:15:38,560
+ I know it's a long way because I have friends who work there because it's good to study the
+
+171
+00:15:38,560 --> 00:15:42,880
+ Aurora there and now I'm wondering whether I can go to the eurocon and stay with my friend Dave so
+
+172
+00:15:42,880 --> 00:15:45,200
+ intriguing.
+
+173
+00:15:45,200 --> 00:15:53,360
+ This is a great idea this is something that the Canadians and the Antipardians already have.
+
+174
+00:15:53,360 --> 00:15:58,960
+ There is for fans which is the Australian New Zealand Fund Fund which sends people
+
+175
+00:15:58,960 --> 00:16:02,480
+ from Australia and New Zealand to Australia and New Zealand and then there is the Canadian
+
+176
+00:16:02,480 --> 00:16:05,840
+ Unity Fund Fund which sends people to Canadian conventions.
+
+177
+00:16:05,840 --> 00:16:06,960
+ These are very good things.
+
+178
+00:16:06,960 --> 00:16:13,680
+ I don't think there's a US one please write in if I am wrong listeners and it is high time there
+
+179
+00:16:13,680 --> 00:16:15,200
+ was a European one.
+
+180
+00:16:15,200 --> 00:16:17,440
+ I'm very glad to see this has happened.
+
+181
+00:16:17,440 --> 00:16:23,680
+ An important thing is that there is a long held wisdom that you don't run for one of the big three
+
+182
+00:16:23,680 --> 00:16:28,720
+ if you've already won one of the big three so you don't run for Duff or Taff if you've already won
+
+183
+00:16:28,720 --> 00:16:35,120
+ them but the smaller ones don't follow that rule so there's no reason that like old Taff winners
+
+184
+00:16:35,120 --> 00:16:36,960
+ and Duff winners can get involved.
+
+185
+00:16:36,960 --> 00:16:44,160
+ So like Christina Lake for instance might be a really good EFF candidate or other people of that
+
+186
+00:16:44,160 --> 00:16:45,120
+ ilk.
+
+187
+00:16:45,120 --> 00:16:47,920
+ Probably not if you're the current guff.
+
+188
+00:16:47,920 --> 00:16:52,880
+ A trip by train can start with seven hours from Cornwall to London.
+
+189
+00:16:52,880 --> 00:16:56,400
+ Well I was thinking when John said it would take you a day to get a top sauna I'm like well how long
+
+190
+00:16:56,400 --> 00:17:00,480
+ about it is just getting to the edge of the UK probably like 80%.
+
+191
+00:17:00,480 --> 00:17:03,840
+ Oh no I was doing it from London from Newcastle it's a day in seven hours
+
+192
+00:17:05,200 --> 00:17:07,920
+ and it's the seven hours which is going down to London.
+
+193
+00:17:07,920 --> 00:17:10,880
+ Or you could just take an overnight ferry somewhere which is awesome.
+
+194
+00:17:10,880 --> 00:17:12,160
+ Yes no that is true.
+
+195
+00:17:12,160 --> 00:17:16,800
+ I mean yeah because I could take the ferry from Shields to Amsterdam and then presumably I could
+
+196
+00:17:16,800 --> 00:17:20,880
+ take the train from Amsterdam but you've still got to go you've still got to go kind of up
+
+197
+00:17:20,880 --> 00:17:24,560
+ Denmark and then across the Peninsula and then up Sweden.
+
+198
+00:17:24,560 --> 00:17:31,440
+ I think you can take an overnight ferry to Norway and then another ferry from Norway to Sweden.
+
+199
+00:17:31,440 --> 00:17:37,200
+ Oh maybe. I mean you may not be able to now because overnight ferries were better in the past.
+
+200
+00:17:37,200 --> 00:17:38,800
+ As with so many things.
+
+201
+00:17:38,800 --> 00:17:42,400
+ Pretty sure you can I mean you can go to Amsterdam but I'm not sure you can go anywhere other than
+
+202
+00:17:42,400 --> 00:17:45,040
+ Amsterdam from Newcastle.
+
+203
+00:17:45,040 --> 00:17:47,600
+ I had another thing to ask about the European Fan Fund.
+
+204
+00:17:47,600 --> 00:17:48,560
+ I had two things.
+
+205
+00:17:48,560 --> 00:17:52,880
+ One is that presumably this is not directional any European fan can apply to go to any
+
+206
+00:17:52,880 --> 00:17:54,000
+ you know Eurocon.
+
+207
+00:17:54,000 --> 00:17:58,000
+ Yeah I don't think there's any eligibility around you need to be a certain distance away
+
+208
+00:17:58,000 --> 00:18:01,760
+ from the Eurocon but I think you know if you're a Swedish fan applying to go to
+
+209
+00:18:01,760 --> 00:18:07,040
+ conflict then you probably feel that that might be a little bit rum.
+
+210
+00:18:07,040 --> 00:18:11,360
+ Yeah but we probably do have to it'll be interesting to see how it goes like in the first few years
+
+211
+00:18:11,360 --> 00:18:16,880
+ because depending on how well it gets promoted in different regions you could end up like is there
+
+212
+00:18:16,880 --> 00:18:21,520
+ a regionality voting thing like there is for Tath like you know how on Tath you have to win
+
+213
+00:18:21,520 --> 00:18:26,000
+ kind of you know both sides or you know get a certain number of votes on both sides just because
+
+214
+00:18:26,000 --> 00:18:30,240
+ there is a potential of this be dominated by countries with more fans right so you always end
+
+215
+00:18:30,240 --> 00:18:36,800
+ up with say UK fan traveling to a convention so it'll be interesting to see like how it works
+
+216
+00:18:36,800 --> 00:18:40,720
+ with that voting and whether we do get kind of fans more of a Europe going to other places all
+
+217
+00:18:40,720 --> 00:18:44,960
+ over Europe whether it sort of ends up being a I don't know that's kind of definitely how it will
+
+218
+00:18:44,960 --> 00:18:48,560
+ be but I will be interested to see how it gets promoted.
+
+219
+00:18:48,560 --> 00:18:54,400
+ So the rules are on Marching's website and they were posted in 2019 so we have had time there has
+
+220
+00:18:54,400 --> 00:18:59,600
+ been a consultation phase the plans have been on display in our local Marching's website for
+
+221
+00:18:59,600 --> 00:19:04,800
+ three years and it's far too late so I'm making a fuss about it now but I have the rules so you
+
+222
+00:19:04,800 --> 00:19:09,680
+ have to live in a European country you have to be going to Europe on which is in a country other
+
+223
+00:19:09,680 --> 00:19:13,760
+ than your country you have to be active in fandom for at least two years which I think is more
+
+224
+00:19:13,760 --> 00:19:17,680
+ stringent than Tath I don't think Tath has any rule about that. The previous two races have to
+
+225
+00:19:17,680 --> 00:19:22,800
+ have been won by candidates from different countries from the one that you are in if there will be
+
+226
+00:19:22,800 --> 00:19:28,480
+ no other candidates this rule may be omitted they will find three nominators and at least one
+
+227
+00:19:28,480 --> 00:19:33,440
+ has to be from their country and at least one has to be from a different country that answers
+
+228
+00:19:33,440 --> 00:19:38,720
+ some of our questions. Boccin you're great you're a brick well done. Yes turns out if I had just
+
+229
+00:19:38,720 --> 00:19:43,600
+ read the rules all this would have been explained but instead I just pontificate about it isn't that
+
+230
+00:19:43,600 --> 00:19:50,320
+ always the way. Quite a lot of time yeah. So the nominations are open until the end of January and
+
+231
+00:19:50,320 --> 00:19:56,640
+ voting stops just after Eastercon as is right and proper so yes if you are interested in running
+
+232
+00:19:56,640 --> 00:20:02,160
+ then go for it I think I will be brilliant. Liz you're gonna go move back to Europe and then go to
+
+233
+00:20:02,160 --> 00:20:08,720
+ a European? It would be quite a lot of effort to go in order to get a trip to a European I feel.
+
+234
+00:20:08,720 --> 00:20:13,440
+ Fair enough. Might not be able to live in a European country again. That is fair. Well it was actually
+
+235
+00:20:13,440 --> 00:20:19,120
+ I had one extra thing which is is this gonna like when we have fanfon options is now the European
+
+236
+00:20:19,120 --> 00:20:24,160
+ fanfon going to be one of the things which gets money from the fanfon options? I would hope so.
+
+237
+00:20:24,160 --> 00:20:31,760
+ 100% I think it is a fantastic idea and maybe this is pro-kill building the community of European
+
+238
+00:20:31,760 --> 00:20:39,120
+ fans is probably I think there is a much stronger community of English speaking fans across the
+
+239
+00:20:39,120 --> 00:20:45,520
+ Atlantic and across the Pacific than there is links between different European frontoms and so
+
+240
+00:20:45,520 --> 00:20:49,440
+ this is actually the one of the fanfons I think is going to be doing the best work for the next
+
+241
+00:20:49,440 --> 00:20:55,360
+ few years because I love Taff and I love Guff and I love Duff. I think in terms of cultural exchange
+
+242
+00:20:55,360 --> 00:21:01,280
+ the culture is relatively accessible in those races whereas in this one I think going to like a
+
+243
+00:21:01,280 --> 00:21:07,120
+ Swedish convention would feel much scarier to me. I mean I guess it's not surprising that you're
+
+244
+00:21:07,120 --> 00:21:12,240
+ less likely to go to conventions in countries that don't speak English if you speak English. I think
+
+245
+00:21:12,240 --> 00:21:17,280
+ that's probably entirely understandable impulse but I do think more things to encourage that kind
+
+246
+00:21:17,280 --> 00:21:22,960
+ of cross-linking might be good. Many European conventions have an English track. We should we
+
+247
+00:21:22,960 --> 00:21:29,440
+ should do more to publicize it conventions in Europe which we can do as a as a leading community
+
+248
+00:21:29,440 --> 00:21:37,120
+ podcast European Community podcast. Yes Europeans right in. Taff can we say such a bit Taff? Yes Taff
+
+249
+00:21:37,120 --> 00:21:42,880
+ Alison has been machinating behind the scenes again and her machinations have borne fruit!
+
+250
+00:21:42,880 --> 00:21:51,200
+ I haven't really at Novicon Sandra Bond said she was thinking of running and I said yes do it.
+
+251
+00:21:51,200 --> 00:21:56,000
+ That's it really and then and then Sandra Bond is running for Taff and I am one of the
+
+252
+00:21:56,000 --> 00:22:04,480
+ nominators and we have two candidates and the other is Miklai Koveleski who ran last time but
+
+253
+00:22:04,480 --> 00:22:09,440
+ was beaten by fear along with lots of other people and so it's a great race both these are good
+
+254
+00:22:09,440 --> 00:22:14,480
+ candidates and I am one of Sandra's nominators so I'm going to tell you that she's a fantastic
+
+255
+00:22:14,480 --> 00:22:22,000
+ Taff candidate and you should vote for her. She's incredibly interesting and funny and she has done
+
+256
+00:22:22,000 --> 00:22:28,560
+ a whole lot for Fandam and she's also a very good author and poet and if you're listening to this
+
+257
+00:22:28,560 --> 00:22:36,640
+ Sandra please feel free to write it with a Christmas poem for Octa Thorpe. No two good candidates
+
+258
+00:22:36,640 --> 00:22:43,440
+ one good race coming right up I'll put a link in the show notes. I have something to say about
+
+259
+00:22:43,440 --> 00:22:48,960
+ Guff very quickly oh good which is that I'm going to Australia next year if you're in Australia and
+
+260
+00:22:48,960 --> 00:22:56,080
+ have a spare bed please get in touch on New Zealand I am going to fly out almost immediately
+
+261
+00:22:56,080 --> 00:23:00,800
+ after the coronation which is I think the coronation is six of me I'm probably going to fly on the
+
+262
+00:23:00,800 --> 00:23:08,160
+ night and I'm going to return on about the 15th or 73th or 18th of June something like that depending
+
+263
+00:23:08,160 --> 00:23:13,200
+ on exact timings and what flights are and something like that so a bit over a month and I'm intended
+
+264
+00:23:13,200 --> 00:23:21,920
+ to go to at least Perth Adelaide Melbourne Sydney and Wellington and I may go to extra places well
+
+265
+00:23:21,920 --> 00:23:27,200
+ if you're in one of those extra places and you have a spare bed so get in touch really I just
+
+266
+00:23:27,200 --> 00:23:32,320
+ want to meet Australian New Zealand fans that's all I'm doing so yeah really looking forward to it
+
+267
+00:23:32,320 --> 00:23:37,680
+ and in order to support that I'm going to have a pre-trip report which will be available at Easter
+
+268
+00:23:37,680 --> 00:23:42,240
+ you heard it here first which conventions are you going to go to don't know if there's going to be
+
+269
+00:23:42,240 --> 00:23:46,400
+ a convention going to do the trip anyway because it's time we need to run a northbound race
+
+270
+00:23:47,040 --> 00:23:52,720
+ for 2024 so I need to travel next year so Australian fans get planning your conventions
+
+271
+00:23:52,720 --> 00:23:59,920
+ come on I have been poking but it's really I mean the the New Zealand that cons going to be virtual
+
+272
+00:23:59,920 --> 00:24:02,480
+ and I will be at it but it's going to be virtual
+
+273
+00:24:02,480 --> 00:24:16,720
+ okay so smoth gone there was a contested smoth con this time I tried looking this up on the internet
+
+274
+00:24:16,720 --> 00:24:20,320
+ but I couldn't find much detail but Liz knows about it so take it away Liz
+
+275
+00:24:20,320 --> 00:24:26,160
+ I'll only know about it because of what I read about it on the internet which is mostly on
+
+276
+00:24:26,160 --> 00:24:32,880
+ Facebook yeah I think I did check on Fars 717 I couldn't find any uh rating about this
+
+277
+00:24:32,880 --> 00:24:40,080
+ so uh what what I saw was a bid was proposed for smoth con in Sweden
+
+278
+00:24:42,560 --> 00:24:48,160
+ so there was a bid proposed for Stockholm but there was also a second bid that was set up
+
+279
+00:24:48,160 --> 00:24:53,040
+ that had been set up a bit earlier I think for Providence Road Island and it appears that
+
+280
+00:24:53,040 --> 00:24:59,040
+ the Providence bid won I think they were both set up at fairly short notice so hopefully Sweden
+
+281
+00:24:59,040 --> 00:25:05,600
+ will bid again because it would be nice to have uh smoth cons in Europe every often I'm I know
+
+282
+00:25:05,600 --> 00:25:11,680
+ there's one in there's one in 2020 Alice in went Alice in was there's an off con 2020 in Lisbon?
+
+283
+00:25:11,680 --> 00:25:18,960
+ uh no it's 2021 nothing was in 2020 oh okay yes very enough and so yeah it's nice to have
+
+284
+00:25:18,960 --> 00:25:22,880
+ another sort of thing I thought I think it would have been nice to have one kind of not long before
+
+285
+00:25:22,880 --> 00:25:28,000
+ a UK world con but maybe actually you're better having them slightly after UK world cons then
+
+286
+00:25:28,000 --> 00:25:34,240
+ anyone who's got excited by Glasgow can then continue to come to Swaffa so it's not come when
+
+287
+00:25:34,240 --> 00:25:39,600
+ it will be in Providence but apparently they have committed to a substantial like having a substantial
+
+288
+00:25:39,600 --> 00:25:46,160
+ hybrid con as well yeah now I'd have really liked to have been in Sweden because I had infinite fun
+
+289
+00:25:46,160 --> 00:25:52,080
+ at the Lisbon's soft con I'd like to go to another European soft con true but one maybe it will be
+
+290
+00:25:52,080 --> 00:26:01,200
+ there after the 2024 world con which be nice and two it may not be quite as nice weather
+
+291
+00:26:02,080 --> 00:26:07,120
+ in dot com in December as it was in Lisbon I do have a problem with the soft con weekend
+
+292
+00:26:07,120 --> 00:26:11,680
+ which I'm going to get to foreshadowing all right then that was all I had to say on
+
+293
+00:26:11,680 --> 00:26:16,720
+ the soft cons have fun Providence road island Providence does sound like quite a nice place to
+
+294
+00:26:16,720 --> 00:26:21,120
+ go to for a convention actually I probably could be pretty good I want to go there at some point
+
+295
+00:26:21,120 --> 00:26:26,240
+ at some point I want to go to all the places Lovecraft light wrote about uh and obviously
+
+296
+00:26:26,240 --> 00:26:32,720
+ Providence would be on that list.
+
+297
+00:26:32,720 --> 00:26:38,000
+ Wandering shop so uh Mastodon we've all been
+
+298
+00:26:38,000 --> 00:26:43,520
+ masturbating over on Mastodon except for Liz who hasn't I've got an account I just haven't
+
+299
+00:26:43,520 --> 00:26:51,280
+ actually done anything with it yet lizz is to be fair the podcast musk fan so you know it makes
+
+300
+00:26:51,280 --> 00:26:57,680
+ sense oh oh you take that back that is a joke too far
+
+301
+00:26:57,680 --> 00:27:03,520
+ are you lizz bat a at mast dot two yes she's got on the wandering shop Liz is where all the
+
+302
+00:27:03,520 --> 00:27:10,080
+ cool kids are by which I mean Alison and I because wandering shop was closed still is it took ages
+
+303
+00:27:10,080 --> 00:27:17,600
+ to go there wandering shop is still quite closed in that every week existing wandering shop members
+
+304
+00:27:17,600 --> 00:27:22,400
+ get a link that they can invite people and and I think it's like 50 a week or 100 a week so it's
+
+305
+00:27:22,400 --> 00:27:27,440
+ growing slowly but the last couple of times they've released code I have got a friend or two in on
+
+306
+00:27:27,440 --> 00:27:34,800
+ it so if if you know me and you want to get on wandering shop then get in touch and when I have
+
+307
+00:27:34,800 --> 00:27:41,200
+ a an invite I will get it to you but wandering shop is very nice because it is an instance I think
+
+308
+00:27:41,200 --> 00:27:48,480
+ Chris Rose is the primary person behind it and well done Chris this is good thing it's a server
+
+309
+00:27:48,480 --> 00:27:56,160
+ primarily for science fiction and fantasy community generally so including authors editors and fans
+
+310
+00:27:56,160 --> 00:28:03,360
+ and readers and obviously that makes it kind of it's got a great feeling it reminds me a bit of
+
+311
+00:28:03,360 --> 00:28:10,480
+ records as a fandom and records as they've written if you're very old so the local the local feed is
+
+312
+00:28:10,480 --> 00:28:15,680
+ full of people saying stuff that's interesting and I just really really like it there and
+
+313
+00:28:15,680 --> 00:28:22,160
+ masted on itself imagine twitter without all the corporate shilling and politics I mean it can't
+
+314
+00:28:22,160 --> 00:28:27,520
+ last obviously but it's very very nice at the moment no but it is it is basically quite good
+
+315
+00:28:27,520 --> 00:28:34,320
+ I was on another instance originally which I also quite liked but they defederated the big
+
+316
+00:28:34,320 --> 00:28:38,880
+ server and that meant that there were several people I wanted to follow and couldn't I was
+
+317
+00:28:38,880 --> 00:28:43,040
+ extremely annoying if you don't know what that means listeners it's not important and if you do
+
+318
+00:28:43,040 --> 00:28:48,000
+ you understand why it's annoying it means go and ask Allison she'll tell you in detail but yes
+
+319
+00:28:48,000 --> 00:28:53,840
+ no wandering shop is good and if you are in the science fiction fandom space is an instance which
+
+320
+00:28:53,840 --> 00:29:01,360
+ is designed for you to enjoy so yeah is good instance to go for if there are sign-ups and like I say
+
+321
+00:29:02,240 --> 00:29:09,120
+ Allison and I both have both have access to the codes so yeah if you want to be on there let's
+
+322
+00:29:09,120 --> 00:29:13,760
+ know and then when the codes come out you have a very short window to get on it but it's been
+
+323
+00:29:13,760 --> 00:29:19,760
+ lengthening recently it's not me so bad so I know Raj is on masted on on the masted on dot scott
+
+324
+00:29:19,760 --> 00:29:25,760
+ service there's like scottish one there's a bunch of different ones it's cool if you are on a masted
+
+325
+00:29:25,760 --> 00:29:31,520
+ on server one of the things about masted on being run from the ground up by people rather than run
+
+326
+00:29:31,520 --> 00:29:35,840
+ by big industry is that that means that people who are probably people you know if you're on a
+
+327
+00:29:35,840 --> 00:29:42,960
+ fairly small server need money to keep it going so do throw small amounts of money at the admins to
+
+328
+00:29:42,960 --> 00:29:46,720
+ keep your servers running because otherwise this entire business bottle is going to fail and we
+
+329
+00:29:46,720 --> 00:29:52,800
+ will go back to something where you don't pay anything except your soul to be on there you're
+
+330
+00:29:52,800 --> 00:30:01,360
+ very so yeah I mean you it is much better to just pay a small amount of money to get the thing that
+
+331
+00:30:01,360 --> 00:30:09,920
+ you want rather than not paying anything and in return getting a torrent of garbage advertising
+
+332
+00:30:09,920 --> 00:30:23,040
+ posts in your feed all of the time all right shall we do picks yeah Liz what's your pick do you
+
+333
+00:30:23,040 --> 00:30:28,000
+ want to start with it yeah so my pick is I mean I pick it not without reservations but basically
+
+334
+00:30:28,000 --> 00:30:33,280
+ the only book I've read over the past few weeks is Stephen King's It because it was on my Kindle
+
+335
+00:30:33,280 --> 00:30:37,120
+ and so I thought oh that might be good I'll start reading it and when it's on your Kindle you can't
+
+336
+00:30:37,120 --> 00:30:44,160
+ tell that it is actually 1500 pages it's a very long book so basically we're ahead an entire trilogy
+
+337
+00:30:44,160 --> 00:30:48,560
+ yeah it is an early Stephen King book I hadn't read if you've read lots of Stephen King books you
+
+338
+00:30:48,560 --> 00:30:55,360
+ kind of know what you are getting which is small town American horror but it's just a kind of really
+
+339
+00:30:55,360 --> 00:31:02,640
+ well-done example of the form I think so it's got two intertwining plot strands one in the late 1950s
+
+340
+00:31:02,640 --> 00:31:10,080
+ and one in the 1980s and it kind of into times and really well so you get this kind of impending
+
+341
+00:31:10,080 --> 00:31:17,040
+ sense of you know from the 1980s plot strand that in the 1950s they essentially went to kill the
+
+342
+00:31:17,040 --> 00:31:24,400
+ demon creature that lives beneath their town and basically ends up on a murder spree every 20
+
+343
+00:31:24,400 --> 00:31:28,640
+ something years and from the fact they're back in 1980 you know that they did not actually do the
+
+344
+00:31:28,640 --> 00:31:32,560
+ job first time round and basically it enshrines all the plots and they build to the fact they were
+
+345
+00:31:32,560 --> 00:31:37,280
+ getting the kind of first battle with this creature and the second battle kind of happening both at
+
+346
+00:31:37,280 --> 00:31:42,160
+ the end of the novel but in totally different time strands so you know where it's going to end up
+
+347
+00:31:42,160 --> 00:31:47,680
+ and you know it's quite digressive it spends a lot of time on the inhabitants of this small
+
+348
+00:31:47,680 --> 00:31:52,960
+ town and building up the small town feel but I think it does pay off in the end maybe not quite
+
+349
+00:31:52,960 --> 00:31:58,160
+ to the extent of needing 1500 pages but I felt quite satisfied with it at the end of it and it's
+
+350
+00:31:58,160 --> 00:32:03,840
+ just really good at this sort of individual scenes of there's a part where Mike one of the
+
+351
+00:32:03,840 --> 00:32:09,840
+ children they've been there kind of pre-preetines goes off to the site of an explosion and basically
+
+352
+00:32:09,840 --> 00:32:15,040
+ is menaced by an enormous bird and when I just say that it sounds like it might be quite funny but
+
+353
+00:32:15,040 --> 00:32:21,440
+ it's a really menacingly written section where he is in Otterra of this colossal bird which is
+
+354
+00:32:21,440 --> 00:32:25,840
+ chasing after him and trying to kill him and it's just full of kind of like little chapters like
+
+355
+00:32:25,840 --> 00:32:29,760
+ that which do really well at building up this creeping sense of horror if you read any Stephen
+
+356
+00:32:29,760 --> 00:32:33,440
+ King books you probably know that's why you're reading Stephen King books right so yeah still
+
+357
+00:32:33,440 --> 00:32:39,600
+ recommended but very long so I have a confession which is I've never read any Stephen King oh you
+
+358
+00:32:39,600 --> 00:32:45,440
+ probably should yeah I knew this was coming it's just like yeah yeah I've never read me and I should
+
+359
+00:32:45,440 --> 00:32:51,840
+ what I want to do so I know that there is a novella called The Mist yes which is very famous I think
+
+360
+00:32:51,840 --> 00:32:57,280
+ and I want to read that because I'm a parody of myself and it was the inspiration for one of the
+
+361
+00:32:57,280 --> 00:33:01,040
+ later Arkham Horror of the card game scenarios as far as I watch read that and then I'm like
+
+362
+00:33:01,040 --> 00:33:07,360
+ probably more of his stuff given I quite like horror so yes at some point I will get to it in my
+
+363
+00:33:07,360 --> 00:33:13,120
+ copious spare time I have read a very small amount of Stephen King and it's one of things that help
+
+364
+00:33:13,120 --> 00:33:19,120
+ form my view that I do not really like horror very much and in fact I tend to go off things if
+
+365
+00:33:19,120 --> 00:33:24,160
+ they have too much horror in them so I'm not going to be reading a 1500 page horror novel anytime soon
+
+366
+00:33:24,160 --> 00:33:30,240
+ but John should definitely read Stephen King oh I've read Carrie Carrie's amazing I loved Carrie
+
+367
+00:33:30,240 --> 00:33:36,240
+ I'd forgotten that so you have read some Stephen King there yeah yeah we read it in book club
+
+368
+00:33:36,240 --> 00:33:41,440
+ when I was on grad and it was amazing very very creepy I've very much enjoyed it yeah I mean the
+
+369
+00:33:41,440 --> 00:33:45,920
+ thing about that so I have read the myth the thing about the myth is that famously there is a film
+
+370
+00:33:45,920 --> 00:33:52,480
+ adaptation of The Mist which changes the ending in a way I will not spoil but is really very grim
+
+371
+00:33:52,480 --> 00:33:58,560
+ hey yeah I think that's as good a good as good a place as any to start yeah basically don't start
+
+372
+00:33:58,560 --> 00:34:05,040
+ with one of his you know 1500 page works although they are you know the stand is also pretty good
+
+373
+00:34:05,040 --> 00:34:10,720
+ but yeah Carrie I think would be would have been a place I would say you could start if I hadn't
+
+374
+00:34:10,720 --> 00:34:16,240
+ only read it or you know something like Misery is also good Salem's lot quite a lot the early ones
+
+375
+00:34:16,240 --> 00:34:22,800
+ are pretty good mm-mm Alison do you want to do yours so I had never been to Dragon Meat which is a
+
+376
+00:34:22,800 --> 00:34:29,280
+ one-day tabletop gaming convention in London um for a couple of reasons it's the smothcon weekend so
+
+377
+00:34:29,280 --> 00:34:37,360
+ yeah that's the thing but also um I'd always gone to a big house party on that day so it clashes
+
+378
+00:34:37,360 --> 00:34:41,920
+ with that and at the moment the big house party isn't happening so that sounds like a good reason
+
+379
+00:34:41,920 --> 00:34:47,200
+ to go across London and go to a games convention what what happened was that it's run by John Dodd
+
+380
+00:34:47,200 --> 00:34:54,800
+ who is doing a site for a lot of conventions at the moment including um Eastercon so and he said
+
+381
+00:34:54,800 --> 00:34:59,200
+ to the rest of us and also to try to pledge for committee why don't you all come to Dragon Meat
+
+382
+00:34:59,200 --> 00:35:04,480
+ and I'll put your names on the door and give you a table and you can promote the Eastcon so we did
+
+383
+00:35:04,480 --> 00:35:10,880
+ that and we had a lot of fun and we were in a lovely kind of science fictiony area of the Dragon Meat
+
+384
+00:35:10,880 --> 00:35:17,680
+ Trading Halls with third vault your yarns and um the BSFA and the BFS and Ian Waits like New
+
+385
+00:35:17,680 --> 00:35:22,960
+ Compress and and a few other things like that and it was awesome um and we talked to lots of people
+
+386
+00:35:22,960 --> 00:35:26,880
+ some of whom were already coming to the Eastcon some of whom said they would definitely join but
+
+387
+00:35:26,880 --> 00:35:31,280
+ hadn't got around to it yet some of whom had um heard about Eastercons but weren't sure they were
+
+388
+00:35:31,280 --> 00:35:35,760
+ for them and some of whom had never heard of Eastercons and some of those were like oh that sounds
+
+389
+00:35:35,760 --> 00:35:40,880
+ amazing that sounds wonderful so hopefully some of those will come and it was all pretty good um
+
+390
+00:35:40,880 --> 00:35:50,800
+ I had an accident at Dragon Meat oh no are you okay I am not okay I was decluttering and I decided
+
+391
+00:35:50,800 --> 00:35:55,920
+ I would take a bag of games I did not want anymore for the Dragon Meat bring and buy sale and sell
+
+392
+00:35:55,920 --> 00:36:01,360
+ them and I would definitely not buy any games and bring them home and how did that go Alison?
+
+393
+00:36:01,360 --> 00:36:09,520
+ I bought how many games net did you acquire? I came home with seven more games that I took
+
+394
+00:36:09,520 --> 00:36:13,840
+ some of them were small for content listeners this was my birthday weekend and I had an enormous
+
+395
+00:36:13,840 --> 00:36:17,600
+ amount of birthday money and I bought fewer games than that yeah but I think you bought more
+
+396
+00:36:17,600 --> 00:36:21,920
+ expensive ones because one of the things about these games is that they were incredibly cheap
+
+397
+00:36:21,920 --> 00:36:25,840
+ hopefully I will play them and they will even go back to next year's Dragon Meat or I will
+
+398
+00:36:25,840 --> 00:36:31,360
+ pass them on to other people who would like them and they will not stay in my house forever but they
+
+399
+00:36:31,360 --> 00:36:36,560
+ might do but I feel like I have a lot of games in the house and they're mostly games from the 70s
+
+400
+00:36:36,560 --> 00:36:41,920
+ that are not very good and mixing them up for some more modern games some of which might be very
+
+401
+00:36:41,920 --> 00:36:47,440
+ good uh it's probably a good bet but it was so good it has so much fun and um it's full of it's
+
+402
+00:36:47,440 --> 00:36:53,680
+ full of nerds full of full of our sorts of people sensitive faddish faces and and the trading halls
+
+403
+00:36:53,680 --> 00:36:59,760
+ are like a magic cave full of games it was very good there were an enormous number of people
+
+404
+00:36:59,760 --> 00:37:06,640
+ wanting to sell me very expensive dice that I was like how much is it reasonable to pay for
+
+405
+00:37:06,640 --> 00:37:12,080
+ dice the answer is not that much I mean you got octa-thunk dice what more do you need I like the dice
+
+406
+00:37:12,080 --> 00:37:17,840
+ that had liquid centers I thought liquid center dice were pretty good have you seen the dice that
+
+407
+00:37:17,840 --> 00:37:23,360
+ look like baked beans oh I see the baked bean dice yeah they're horrible they're great did I did
+
+408
+00:37:23,360 --> 00:37:29,440
+ dice I have not seen dice that looked like baked beans but somebody was selling uh I will put a link
+
+409
+00:37:29,440 --> 00:37:34,480
+ in the show notes listeners they have they're doing a kickstarter for solid foam dice about that
+
+410
+00:37:34,480 --> 00:37:40,240
+ sort of size that you you throw at people as a game and there's gonna be a kickstarter next year
+
+411
+00:37:40,240 --> 00:37:45,920
+ and I'm like oh oh this this great this looks awesome for the listeners Alison is holding her
+
+412
+00:37:45,920 --> 00:37:51,440
+ hand up about you know two or three inches long yeah maybe about six or six centimeters across
+
+413
+00:37:51,440 --> 00:37:55,680
+ maybe seven because for all the readers now you could have been holding your hands up like this
+
+414
+00:37:55,680 --> 00:38:00,240
+ like three feet apart which would also be fun but different the reason I think why the trading
+
+415
+00:38:00,240 --> 00:38:04,720
+ halls are so amazing is that the first Saturday in December is if you were going to
+
+416
+00:38:04,720 --> 00:38:11,600
+ run an event focused around selling games crap the first Saturday in December would be quite a good
+
+417
+00:38:11,600 --> 00:38:18,160
+ time to do that yep um and the bring a buy oh the bring a buy and all credit to the people who'd
+
+418
+00:38:18,160 --> 00:38:23,760
+ sorted out the website for the bring a buy because you actually you registered your games in advance
+
+419
+00:38:23,760 --> 00:38:28,800
+ with how much you wanted to sell them for and it was way easier than listing things on ebay i'll
+
+420
+00:38:28,800 --> 00:38:33,520
+ tell you and then when you got to the convention they basically bridged out bocos stick on your
+
+421
+00:38:33,520 --> 00:38:39,520
+ games in approximately one nanosecond and then you could sit at your sales table for the eastercon
+
+422
+00:38:39,520 --> 00:38:45,120
+ every so often you'd search through the list of available games by price from low to high and
+
+423
+00:38:45,120 --> 00:38:51,120
+ go god that looks like a bargain and nip round and buy it so yeah i was in my happy place which is
+
+424
+00:38:51,120 --> 00:38:57,280
+ buying crap to fill up my house there's already full of crap wait no i like games conventions i
+
+425
+00:38:57,280 --> 00:39:02,160
+ haven't been to uh dragon meat but i have been to other games conventions and they are a lot of fun
+
+426
+00:39:02,160 --> 00:39:06,240
+ and there was an Arkham horror event a dragon meat uh which apparently went very well i didn't
+
+427
+00:39:06,240 --> 00:39:11,040
+ actually play any games because it didn't really have any time because we were on our table all day
+
+428
+00:39:11,040 --> 00:39:17,360
+ and um had the truest expression of the games convention buying stuff while not playing anything
+
+429
+00:39:17,360 --> 00:39:21,120
+ also i don't i think if it was a two-day convention i'd probably get some games in
+
+430
+00:39:21,120 --> 00:39:26,160
+ and i used to love a games convention called stabcon which when i went to it didn't really have any
+
+431
+00:39:26,160 --> 00:39:30,000
+ traders at all it just had a load of people in the room i didn't have any organized games it didn't
+
+432
+00:39:30,000 --> 00:39:33,840
+ have any traders it just had a load of people in the room playing games and i really really like that
+
+433
+00:39:33,840 --> 00:39:39,280
+ stabcon is still stabcon is still quite like that so so i mean like and you just sit around
+
+434
+00:39:39,280 --> 00:39:42,640
+ waiting for somebody to pull out a game that looked interesting and then you go
+
+435
+00:39:42,640 --> 00:39:46,720
+ oooh do you need players and they go yes and you sit down and play and then a couple of hours later
+
+436
+00:39:46,720 --> 00:39:50,880
+ you do it again until the end of the day it's good and then i think we all stayed at a student
+
+437
+00:39:50,880 --> 00:39:55,200
+ accommodation that was some of the worst accommodation i've ever slept in but you know that sort of thing
+
+438
+00:39:55,200 --> 00:40:02,240
+ stabcon south is held at the hilton double tree in salampton i went once twice i think i went
+
+439
+00:40:02,240 --> 00:40:07,440
+ once and then the pandemic happened it was very sad but it was a good convention it had two traders
+
+440
+00:40:07,440 --> 00:40:12,400
+ and a lot of games and i played a lot of wealth and it was pretty great games conventions are
+
+441
+00:40:12,400 --> 00:40:16,640
+ weird for me because i got into science fiction conventions and games conventions at roughly the
+
+442
+00:40:16,640 --> 00:40:20,800
+ same time and i was like oh science fiction is a convention it's a good but like what i really
+
+443
+00:40:20,800 --> 00:40:26,960
+ like is games conventions and then i changed my mind because i kind of basically went oh i can
+
+444
+00:40:26,960 --> 00:40:32,560
+ play games anytime but i can only get the science fiction convention experience at science fiction
+
+445
+00:40:32,560 --> 00:40:36,480
+ convention the thing i like about games conventions is playing games that haven't come out yet so like
+
+446
+00:40:36,480 --> 00:40:40,480
+ i have ruled that i don't back things on kickstarter unless i've played them but games conventions are
+
+447
+00:40:40,480 --> 00:40:44,800
+ a good way of playing games that are shortly coming to kickstarter to see if you like them before
+
+448
+00:40:44,800 --> 00:40:49,760
+ the wrong kickstarter for instance okay so the great thing about having ignored the tabletop gaming
+
+449
+00:40:49,760 --> 00:40:55,360
+ hobby for the last 40 years is there's an awful lot of games i haven't played yet it's certainly good
+
+450
+00:40:55,360 --> 00:40:59,280
+ oh no that's fair that is fair when there are failure modes like i played a game at the convention
+
+451
+00:40:59,280 --> 00:41:04,640
+ in 2019 which was amazing and it still has not made it to kickstarter so i'm like champing at the bit
+
+452
+00:41:04,640 --> 00:41:11,840
+ yeah i met Francis Tresham at a games convention in about 1985 and he was like oh here's my follow-up
+
+453
+00:41:11,840 --> 00:41:17,200
+ game to Spanish main which was his game at the time and um and we played that and it was really
+
+454
+00:41:17,200 --> 00:41:26,560
+ weird and that level what should i do anyway i am gonna pick a thing a series of 15 comics and a
+
+455
+00:41:26,560 --> 00:41:32,400
+ series of 13 comics and a series of three novels and a series of three ya novels and two mangers
+
+456
+00:41:32,400 --> 00:41:36,720
+ and some other bits and bobs and an audiobook because i'm picking phase one of the star wars
+
+457
+00:41:36,720 --> 00:41:42,080
+ high republic project which i have finished reading the people who write star wars books got together
+
+458
+00:41:42,080 --> 00:41:46,240
+ and they were like it's really annoying that when we write star wars books about bits of star wars
+
+459
+00:41:46,240 --> 00:41:50,560
+ that are being done on telly and in the movies the telly and movies keep contradicting the things
+
+460
+00:41:50,560 --> 00:41:54,640
+ we want to do and wouldn't it be nice if we had a little bit of the universe we could play in
+
+461
+00:41:54,640 --> 00:41:57,920
+ where no one else is telling us what's going to happen and so they did that it's called the
+
+462
+00:41:57,920 --> 00:42:03,440
+ high republic it's about 200 years before um the rest of star wars and i finished it and it is
+
+463
+00:42:03,440 --> 00:42:10,640
+ really good i liked it a great deal basically focused around the jedi at the height of their
+
+464
+00:42:11,280 --> 00:42:16,800
+ success and the republic are kind of forging out into the wider galaxy from the core worlds and
+
+465
+00:42:16,800 --> 00:42:23,600
+ they hit upon a group of pirates called the nai hill and it's basically about what ends up happening
+
+466
+00:42:23,600 --> 00:42:28,720
+ then and then the last book is very sad and uh i spent ages reading it because it really stressed
+
+467
+00:42:28,720 --> 00:42:34,080
+ me out it was very good i'm just a coward and then they're starting phase two and phase two is weirdly
+
+468
+00:42:34,080 --> 00:42:37,920
+ a prequel which i guess makes sense because if you're going to do a three act star war you start
+
+469
+00:42:37,920 --> 00:42:42,640
+ in the middle and then do the before bit and then do the after bit and that is well established
+
+470
+00:42:42,640 --> 00:42:50,480
+ in star wars lore it's kind of what uh roguan and andor have done and also i will say the audio
+
+471
+00:42:50,480 --> 00:42:54,960
+ production was amazing it was forecast and it reminded me of like listening to like radio for
+
+472
+00:42:54,960 --> 00:42:59,680
+ um stuff and hearing that kind of thing done in audiobooks is really neat and i hope there's more
+
+473
+00:42:59,680 --> 00:43:05,520
+ of that in the future um although it will reignite the discussions about best dramatic presentation
+
+474
+00:43:05,520 --> 00:43:10,720
+ audio best audio presentation hugo for the win i mean to be fair i could submit it in the best
+
+475
+00:43:10,720 --> 00:43:15,520
+ long form category but i don't think it would win compared to severance and or everything ever
+
+476
+00:43:15,520 --> 00:43:20,640
+ at once so you know do we have two more nominations for that category i have to talk about this in
+
+477
+00:43:20,640 --> 00:43:29,040
+ our hugo nomination episode in january our listeners can write in writing listeners anyway that was
+
+478
+00:43:29,040 --> 00:43:44,960
+ the old thought podcast and it's goodbye from me it's goodbye from me and it's goodbye from me
+
+479
+00:43:56,320 --> 00:44:01,440
+ and for those who don't know alison's ex is mike scott thank you very much for it again mike
+
+480
+00:44:01,440 --> 00:44:07,440
+ and and thank you for remaining on form true to brand i divorced him for a reason guys
+
+481
+00:44:07,440 --> 00:44:16,080
+ and it wasn't that i have a question is that staying in the podcast i mean i think i divorced
+
+482
+00:44:16,080 --> 00:44:21,760
+ him for a reason guys but it wasn't that it's fine right i don't know that's what i am asking
+
+483
+00:44:21,760 --> 00:44:26,240
+ i'm happy if i had if i hadn't wanted to do the podcast i wouldn't have said it love you mike
+
+484
+00:44:26,240 --> 00:44:31,760
+ i feel it is unfair that you would never get a name we do have to give him you know no one else
+
+485
+00:44:31,760 --> 00:44:37,440
+ is on the podcast no one else's letters are oh referred to in in terms of their relationship to
+
+486
+00:44:37,440 --> 00:44:45,280
+ the podcasters else is spaniel would would just be wife my soulmate christopher j gossita
+
+487
+00:44:47,040 --> 00:44:53,200
+ wrote in the theme music for this episode was fanfare for space by kevin mccloud in
+
+488
+00:44:53,200 --> 00:45:01,760
+ compactec.com used under a creative commons attribution 4.0 license this podcast will end at the beep beep
+
+489
+00:45:01,760 --> 00:45:02,480
+ Thank you.
+

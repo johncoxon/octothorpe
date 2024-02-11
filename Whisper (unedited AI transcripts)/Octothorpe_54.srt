@@ -1,0 +1,2360 @@
+1
+00:00:00,000 --> 00:00:01,680
+ Sorry, I just tried to read and talk the same time.
+
+2
+00:00:01,680 --> 00:00:02,800
+ It went completely wrong.
+
+3
+00:00:02,800 --> 00:00:21,360
+ Hello, everyone, and welcome to the very 54th episode of the Oct.
+
+4
+00:00:21,360 --> 00:00:25,560
+ Podcast, which is coming to you on the 31st of March 2022.
+
+5
+00:00:25,560 --> 00:00:26,840
+ I'm John Coxson.
+
+6
+00:00:26,840 --> 00:00:28,360
+ I'm Alison Scott.
+
+7
+00:00:28,360 --> 00:00:29,680
+ And I'm Liz Batty.
+
+8
+00:00:30,080 --> 00:00:35,920
+ We have a bumper roster of letters of comment this week on account of how I had COVID last week.
+
+9
+00:00:35,920 --> 00:00:40,320
+ And so we only gave you a measly 14 minutes of entertainment.
+
+10
+00:00:40,320 --> 00:00:44,320
+ And thank you to everyone who asked if John was better.
+
+11
+00:00:44,320 --> 00:00:45,600
+ John, are you better?
+
+12
+00:00:45,600 --> 00:00:47,520
+ I appear to be.
+
+13
+00:00:47,520 --> 00:00:50,320
+ You don't sound like you've gargled a load of gravel.
+
+14
+00:00:50,320 --> 00:00:59,360
+ I have a headache and a sore throat, but I think the headache and sore throat are mostly because of the dust this time and not because of the COVID.
+
+15
+00:00:59,680 --> 00:01:03,920
+ Because I think getting reinfected this quickly would be spectacularly unlikely.
+
+16
+00:01:03,920 --> 00:01:08,640
+ Yeah, I had a headache and a dribbly nose and I did an LFT and it was negative.
+
+17
+00:01:08,640 --> 00:01:10,720
+ And I said a headache and dribbly nose and I didn't have to.
+
+18
+00:01:10,720 --> 00:01:11,280
+ It was negative.
+
+19
+00:01:11,280 --> 00:01:14,800
+ And then I went, oh, of course, and took my anti-estamines.
+
+20
+00:01:14,800 --> 00:01:17,280
+ So yeah, that's a sort of thing.
+
+21
+00:01:17,280 --> 00:01:19,840
+ There's a lot of dust in my house now listeners.
+
+22
+00:01:19,840 --> 00:01:26,960
+ This is the experience I have this week and I will probably take an LFT in the middle of recording this podcast, but they will be negative.
+
+23
+00:01:27,440 --> 00:01:28,880
+ So I'm pretty sure I don't have COVID.
+
+24
+00:01:28,880 --> 00:01:32,720
+ You're going to take one mid podcast, although it's positive you're going to stop.
+
+25
+00:01:32,720 --> 00:01:37,120
+ Are you doing an actual play of an LFT?
+
+26
+00:01:37,120 --> 00:01:43,600
+ Is this like a experiment to see whether LFTs are in fact eligible for the best interactive experience Hugo?
+
+27
+00:01:43,600 --> 00:01:50,480
+ That bomb you just heard was Alison putting her foot down listeners.
+
+28
+00:01:50,480 --> 00:01:53,440
+ It wasn't, but I'll remember this.
+
+29
+00:01:53,440 --> 00:01:58,480
+ I actually do lateral flow tests in the middle of octa-thord episodes quite often because
+
+30
+00:01:58,480 --> 00:02:04,560
+ it's finding a time when I can guarantee that I haven't eaten or haven't drunk any coffee in the last half hour.
+
+31
+00:02:04,560 --> 00:02:10,960
+ So because there is no coffee, so in half an hour's time, I would not have had any coffee for half an hour and and 10.
+
+32
+00:02:10,960 --> 00:02:12,160
+ Brilliant.
+
+33
+00:02:12,160 --> 00:02:13,920
+ That is a good plan, actually.
+
+34
+00:02:13,920 --> 00:02:18,160
+ And we also got a lot of comments on Sue Asen's fantastic artwork.
+
+35
+00:02:18,160 --> 00:02:20,320
+ Thank you very much to Sue.
+
+36
+00:02:20,320 --> 00:02:24,080
+ Yeah, we have more fantastic artwork from guest artists in the pipeline.
+
+37
+00:02:24,080 --> 00:02:25,920
+ We are very pleased about that.
+
+38
+00:02:25,920 --> 00:02:29,600
+ Duncan McGregor is very worried what I'm going to do with the picture of him.
+
+39
+00:02:29,600 --> 00:02:35,120
+ And hopefully you'll see that in this episode's artwork as long as I get my finger out.
+
+40
+00:02:35,120 --> 00:02:36,720
+ Excellent.
+
+41
+00:02:36,720 --> 00:02:45,040
+ So we had a letter of comment from one Christopher J Garcia.
+
+42
+00:02:45,600 --> 00:02:51,120
+ And he notes that he can if pressed, it quates everything to genre awards, especially food.
+
+43
+00:02:51,120 --> 00:02:57,360
+ And I'd like you to express Korean barbecue in the context of genre awards, please Chris.
+
+44
+00:02:57,360 --> 00:03:05,280
+ He is in favor of bids having a big website that contains everything you could possibly want to know about the bid, but especially costs.
+
+45
+00:03:05,280 --> 00:03:09,760
+ And my comment on that would be as somebody who's currently working on a bid.
+
+46
+00:03:10,320 --> 00:03:19,520
+ Sometimes the information that you would love to put on the website isn't entirely there yet when you're working on a bid and you probably don't want people to know that.
+
+47
+00:03:19,520 --> 00:03:27,440
+ So the website said to be a collection of the stuff that we know and can talk about and are not still arguing about.
+
+48
+00:03:27,440 --> 00:03:28,880
+ And I think that's fine too.
+
+49
+00:03:28,880 --> 00:03:31,840
+ So you're saying it's better for your website to be missing.
+
+50
+00:03:31,840 --> 00:03:38,960
+ Basically, it's better for your website to be extremely minimalist because otherwise what's not on your website might give away where your committee is still arguing.
+
+51
+00:03:38,960 --> 00:03:42,880
+ I don't think so because I don't think people spot it that well, but I think it is better to be
+
+52
+00:03:42,880 --> 00:03:47,280
+ have limited information on the website than have the website be wrong.
+
+53
+00:03:47,280 --> 00:03:49,280
+ Yes, I would agree with that.
+
+54
+00:03:49,280 --> 00:03:50,720
+ I think that's fair.
+
+55
+00:03:50,720 --> 00:03:58,240
+ But I think sometimes when websites don't have everything you might possibly want, that's why it's because behind the scenes everything you might possibly want is not yet settled.
+
+56
+00:03:58,240 --> 00:04:04,720
+ Yeah, I didn't say the bid sessions, you know, in a bid session, what I want to hear is information which is correct from the bids.
+
+57
+00:04:04,720 --> 00:04:07,120
+ I feel that one should go without saying.
+
+58
+00:04:07,120 --> 00:04:09,200
+ You'd be amazed though.
+
+59
+00:04:09,200 --> 00:04:18,080
+ I think people who have not run bids may not know how much is left, not till the last minute.
+
+60
+00:04:18,080 --> 00:04:30,960
+ But like, there's a lot that you don't know until you know and like you have to bear in mind that the cost curve for a convention, your actual budget and your projected budget can be massively divergent numbers.
+
+61
+00:04:30,960 --> 00:04:37,040
+ And you don't really understand sometimes you don't understand how much money you've got to play with until three weeks before the con.
+
+62
+00:04:37,040 --> 00:04:40,080
+ And so you do there are certain things you're like, we really want to be able to do this.
+
+63
+00:04:40,080 --> 00:04:42,320
+ And if we get enough members, we'll definitely be able to do it.
+
+64
+00:04:42,320 --> 00:04:45,360
+ But we haven't got enough members yet, so we can't announce it yet.
+
+65
+00:04:45,360 --> 00:04:50,960
+ And then what sometimes happens, which is a lovely problem to have, is that you get way more members than you're expecting.
+
+66
+00:04:50,960 --> 00:04:56,240
+ And then suddenly you've got to work out things to spend money on right at the last minute where you hadn't planned to at all.
+
+67
+00:04:56,240 --> 00:05:06,000
+ And so like I do, I appreciate, because this point, but I also appreciate Alison's point that like these things are highly variable, even like right up to the convention.
+
+68
+00:05:06,000 --> 00:05:08,800
+ It can be very difficult to know what's actually going to happen.
+
+69
+00:05:08,800 --> 00:05:17,120
+ And the cost curve for East Cons in particular is while the out of whack at the moment, nobody really knows what it is anymore.
+
+70
+00:05:17,120 --> 00:05:19,680
+ It used to be pretty reliable. And now it's not at all.
+
+71
+00:05:19,680 --> 00:05:24,800
+ Is that to do with Covid or was that happening before Covid, Alison?
+
+72
+00:05:24,800 --> 00:05:36,480
+ I think it is a combination of Covid and the fact that London East Cons are not like non-London East Cons is the two things that primarily drive that.
+
+73
+00:05:36,480 --> 00:05:46,080
+ So essentially in terms of the will you get a massive bunch of members in the last month, the answer seems to be whether you either will or you won't.
+
+74
+00:05:46,080 --> 00:05:47,840
+ Which is not great.
+
+75
+00:05:47,840 --> 00:05:57,200
+ But it is factually correct, so I'm for it.
+
+76
+00:05:57,200 --> 00:06:02,960
+ A website is a lasting thing that people can point to and pillory you if you fail to live up to the promises on it.
+
+77
+00:06:02,960 --> 00:06:07,440
+ So I think in that case we could describe a website as an immutable artifact.
+
+78
+00:06:07,440 --> 00:06:11,680
+ We could certainly describe it as the opposite of a political manifesto.
+
+79
+00:06:11,680 --> 00:06:13,680
+ Oh, satire.
+
+80
+00:06:13,680 --> 00:06:17,760
+ Was that getting a bit political? We can segue from that, but not yet.
+
+81
+00:06:17,760 --> 00:06:22,720
+ Chris also says that because I am a novel, he is going to guess who I am written by.
+
+82
+00:06:22,720 --> 00:06:28,640
+ And his guess is Stephen Baxter, which is awkward because Hispania hates novels written by Stephen Baxter.
+
+83
+00:06:28,640 --> 00:06:33,840
+ So I really hope I'm not because that would be interesting for our marriage.
+
+84
+00:06:33,840 --> 00:06:35,520
+ So try again, Chris, please.
+
+85
+00:06:35,520 --> 00:06:37,600
+ Other listeners may also guess.
+
+86
+00:06:37,600 --> 00:06:42,320
+ Someone called and let me make sure I'm pronouncing their name right.
+
+87
+00:06:42,320 --> 00:06:48,640
+ Liz Batty sent us a lock on our last episode with a picture of a cat.
+
+88
+00:06:48,640 --> 00:06:54,320
+ So if you'd like to see an adorable cat, please go and look at the comments on the Facebook post for that episode.
+
+89
+00:06:54,320 --> 00:06:55,840
+ It is ginger. Lovely.
+
+90
+00:06:55,840 --> 00:06:57,760
+ Did you have a nice holiday Liz?
+
+91
+00:06:57,760 --> 00:07:03,200
+ I did. It was also very noisy cat, but would not come any closer than it is depicted in the photograph.
+
+92
+00:07:03,200 --> 00:07:10,800
+ And in our last episode, Johnny Badly heard John talking about Netrunner in his pick
+
+93
+00:07:10,800 --> 00:07:15,120
+ and is going to send John all his old Netrunner stuff.
+
+94
+00:07:15,120 --> 00:07:19,920
+ So I'd just like to let people know that I collect vintage emeralds.
+
+95
+00:07:19,920 --> 00:07:24,560
+ And if anyone would like to send me some, they'd be very, I'd be very grateful for those.
+
+96
+00:07:24,560 --> 00:07:27,680
+ Big ones better. Thank you.
+
+97
+00:07:27,680 --> 00:07:34,160
+ So listeners, Alison has told that joke four times and it was only in that most recent telling that I actually got it.
+
+98
+00:07:34,160 --> 00:07:37,600
+ So, you know, sometimes repetition is the secret to comedy.
+
+99
+00:07:37,600 --> 00:07:38,400
+ Really?
+
+100
+00:07:38,400 --> 00:07:42,880
+ Yeah. I just, yeah, no. Yeah. I'm quite dense sometimes.
+
+101
+00:07:42,880 --> 00:07:45,440
+ It's why I like rereading the Hitchhiker's Guide.
+
+102
+00:07:45,440 --> 00:07:49,280
+ There are always jokes in there that I didn't get on the first 46 read throughs.
+
+103
+00:07:49,280 --> 00:07:51,840
+ Well, I mean, you do want to keep telling jokes until they land.
+
+104
+00:07:51,840 --> 00:07:57,840
+ I mean, I haven't checked if Liz got it yet, but some people got it on the Facebook group, so it can't be impossible.
+
+105
+00:07:57,840 --> 00:08:03,680
+ We also had a message from Johnny about discos in COVID times.
+
+106
+00:08:03,680 --> 00:08:08,320
+ And whether or not we thought there'd be discos at conventions during COVID.
+
+107
+00:08:08,320 --> 00:08:11,200
+ And whether or not it would be fun to dance in a face mask.
+
+108
+00:08:11,200 --> 00:08:14,080
+ Having caught trains in a face mask and gotten unpleasant these way,
+
+109
+00:08:14,080 --> 00:08:17,280
+ I can't imagine dancing in a face mask is going to be anything like fun.
+
+110
+00:08:17,280 --> 00:08:20,240
+ But I might be wrong.
+
+111
+00:08:20,240 --> 00:08:23,040
+ I don't know how sweaty dancers like to get.
+
+112
+00:08:23,040 --> 00:08:25,680
+ I'm not judging, but I don't know.
+
+113
+00:08:25,680 --> 00:08:28,880
+ I don't know what the plans for the disco are at East con.
+
+114
+00:08:28,880 --> 00:08:31,360
+ East con committee, if you're listening right in.
+
+115
+00:08:31,360 --> 00:08:33,040
+ I do some with a face mask. It's all right.
+
+116
+00:08:33,040 --> 00:08:34,640
+ Interesting.
+
+117
+00:08:34,640 --> 00:08:40,480
+ So maybe the secret is that it's just fine, Johnny, and we just don't need to embrace the sweat.
+
+118
+00:08:40,480 --> 00:08:44,640
+ I mean, I'm going to be, if I'm dancing for an hour, then like, I'm going to be sweaty anyway.
+
+119
+00:08:44,640 --> 00:08:47,200
+ And so the mask doesn't seem to significantly add to that.
+
+120
+00:08:47,200 --> 00:08:52,160
+ I would say more impressive is that like the instructor who is more high energy than I am
+
+121
+00:08:52,160 --> 00:08:55,360
+ and also shouting is wearing a mask throughout.
+
+122
+00:08:55,360 --> 00:08:56,320
+ I think it's pretty impressive.
+
+123
+00:08:56,320 --> 00:09:01,440
+ We may have digressed a bit far, but yeah, I mean, I saw a mask to do exercise and it's okay.
+
+124
+00:09:01,440 --> 00:09:05,760
+ But a disco at a convention isn't exactly doing exercise, is it?
+
+125
+00:09:05,760 --> 00:09:07,440
+ It depends how you dance.
+
+126
+00:09:07,440 --> 00:09:08,960
+ It depends how much you're going at it to mean.
+
+127
+00:09:08,960 --> 00:09:10,960
+ Yeah.
+
+128
+00:09:10,960 --> 00:09:11,920
+ Can't be.
+
+129
+00:09:11,920 --> 00:09:16,000
+ Yeah, I remember my sweatiest moment at Dublin 2019.
+
+130
+00:09:16,000 --> 00:09:16,880
+ It wasn't my sweat.
+
+131
+00:09:16,880 --> 00:09:22,880
+ I stood outside the Glasgow 2024 Kaylee briefly and waited as the
+
+132
+00:09:22,880 --> 00:09:26,800
+ meyasma floated over me from that room.
+
+133
+00:09:26,800 --> 00:09:30,560
+ So they were having a lot of fun and they were getting very sweaty.
+
+134
+00:09:30,560 --> 00:09:31,600
+ Pre-COVID.
+
+135
+00:09:31,600 --> 00:09:34,480
+ Okay, Lee is a very good way of getting very sweaty.
+
+136
+00:09:34,480 --> 00:09:35,920
+ Yeah.
+
+137
+00:09:35,920 --> 00:09:42,800
+ Listener Laurie from the podcast Hugo Girl mentioned that she has now read six
+
+138
+00:09:42,800 --> 00:09:47,200
+ weeks by Malefity and reliked it and is going to try to convince her co-host to
+
+139
+00:09:47,200 --> 00:09:49,280
+ add it to the schedule eventually.
+
+140
+00:09:49,280 --> 00:09:53,280
+ So I look forward to that happening because that sounds ace.
+
+141
+00:09:53,280 --> 00:09:58,800
+ And Laurie also told us that like me, she listens to her own podcast from time to time.
+
+142
+00:09:58,800 --> 00:10:02,560
+ So if you do a podcast and you like to listen back to it, let us know.
+
+143
+00:10:02,560 --> 00:10:08,320
+ Because I kind of think it's a good sign, but it might be that we're just very self-indulgent
+
+144
+00:10:08,320 --> 00:10:09,760
+ or I'm very self-indulgent.
+
+145
+00:10:09,760 --> 00:10:12,640
+ Um, why not both?
+
+146
+00:10:12,640 --> 00:10:18,240
+ We have a live follow-up from inside my house, which is that my wife says there was a dance
+
+147
+00:10:18,240 --> 00:10:22,000
+ at Clockwork Alchemy, which is a steampunk convention in the Bay Area,
+
+148
+00:10:22,000 --> 00:10:25,200
+ where the dance is all the war masks and I will link to...
+
+149
+00:10:26,960 --> 00:10:31,840
+ Well, if it's public, I will link to a Facebook post in the show notes listeners,
+
+150
+00:10:31,840 --> 00:10:34,400
+ although that was more couples dancing.
+
+151
+00:10:34,400 --> 00:10:39,280
+ My steampunk friends say that the steampunk community has embraced masks in a big way,
+
+152
+00:10:39,280 --> 00:10:42,240
+ which shouldn't surprise anyone really.
+
+153
+00:10:42,240 --> 00:10:46,800
+ I saw at Gallifrey 1 several of the cosplays worked masks into the costumes.
+
+154
+00:10:46,800 --> 00:10:51,600
+ So if you're doing like an alien cosplay, you had like a mask that was like the alien's face
+
+155
+00:10:51,600 --> 00:10:53,040
+ and some of those were really, really cool.
+
+156
+00:10:53,040 --> 00:10:59,760
+ [Music]
+
+157
+00:10:59,760 --> 00:11:05,840
+ So since we last recorded, there has been some more discussion of the Chengdu World Con.
+
+158
+00:11:05,840 --> 00:11:11,920
+ There has been a letter asking the World Con community to revoke the site selection of Chengdu
+
+159
+00:11:11,920 --> 00:11:13,600
+ in 2023.
+
+160
+00:11:13,600 --> 00:11:17,840
+ As a reaction to it threats to Taiwan about the Ukraine invasion and also the
+
+161
+00:11:17,840 --> 00:11:22,080
+ weaker genocide, as we discussed previously on this podcast.
+
+162
+00:11:22,080 --> 00:11:27,440
+ And I think it's a very well-meaning effort, but it is more, I think, drawing attention to the Chengdu
+
+163
+00:11:27,440 --> 00:11:31,840
+ World Conbid than actually having much hope that it will be revoked as a site,
+
+164
+00:11:31,840 --> 00:11:35,360
+ because there isn't really any mechanism for that to happen.
+
+165
+00:11:35,360 --> 00:11:40,640
+ But I think it is very nice to kind of raise awareness of it and also the letter does lay out
+
+166
+00:11:40,640 --> 00:11:44,960
+ in very clear and concrete terms the reasons why they feel human rights have been violated
+
+167
+00:11:44,960 --> 00:11:48,080
+ and the site selection should be revoked.
+
+168
+00:11:48,080 --> 00:11:50,000
+ So we're linked to that in the show notes.
+
+169
+00:11:50,000 --> 00:11:55,680
+ The second issue that's also come up is that the guest of honor Sergei Lukianenko
+
+170
+00:11:55,680 --> 00:12:02,880
+ has previously made extremely pro-Russian anti-Ukraine posts on his live journal.
+
+171
+00:12:02,880 --> 00:12:07,280
+ And after the recent Russian invasion of Ukraine, he has also now signed an open letter
+
+172
+00:12:07,280 --> 00:12:13,200
+ supporting the invasion of Ukraine and making other favorable comments about it.
+
+173
+00:12:13,200 --> 00:12:18,080
+ So there's been a lot of discussion and contact with Chengdu and pressure on them,
+
+174
+00:12:18,080 --> 00:12:22,240
+ I think, to try and disinvite him as a guest of honor due to these views.
+
+175
+00:12:22,240 --> 00:12:29,600
+ As yet, I don't think we've heard anything from Chengdu about Lukianenko or about the open letter.
+
+176
+00:12:29,600 --> 00:12:35,120
+ But what I will say is, you know, these views cannot have come as a surprise to them.
+
+177
+00:12:35,120 --> 00:12:39,440
+ You know, the immediate context of the invasion of Ukraine, yes, definitely has,
+
+178
+00:12:39,440 --> 00:12:42,160
+ but it's not like these views were owned and owned before they invited him.
+
+179
+00:12:42,160 --> 00:12:46,560
+ This is something that they're going to have to deal with and it shouldn't have come as a surprise
+
+180
+00:12:46,560 --> 00:12:49,920
+ to them. But so far, they've remained silent on it.
+
+181
+00:12:49,920 --> 00:12:56,640
+ Yeah, I think this is a very good example of how something that I think we discussed
+
+182
+00:12:56,640 --> 00:13:03,360
+ previous to the events of recent times in Europe with a kind of, you know, this is clearly
+
+183
+00:13:03,360 --> 00:13:08,080
+ unacceptable, then became a lot less theoretical very quickly.
+
+184
+00:13:08,080 --> 00:13:11,600
+ I think this is a lesson for conventions who are like, oh, but, you know,
+
+185
+00:13:11,600 --> 00:13:15,520
+ X has this objectionable thing, but it probably won't end up being a problem.
+
+186
+00:13:15,520 --> 00:13:23,120
+ And then you look at Discon with Tony Vyskov and you look at Chengdu with this chap and you think,
+
+187
+00:13:23,120 --> 00:13:26,560
+ oh, no, sometimes these things that you think, oh, we could probably get away with it,
+
+188
+00:13:26,560 --> 00:13:29,680
+ turns out they become giant pains in the arse very quickly.
+
+189
+00:13:29,680 --> 00:13:34,800
+ Yeah, I was also going to say it's one of the things we were discussing about on previous episodes
+
+190
+00:13:34,800 --> 00:13:40,000
+ about, you know, rehabilitation, whether someone's acts in the past should always,
+
+191
+00:13:40,000 --> 00:13:44,240
+ you know, be automatically, oh, you should take those into account.
+
+192
+00:13:44,240 --> 00:13:47,040
+ And in this case, they may have thought, well, he's made comments in the past,
+
+193
+00:13:47,040 --> 00:13:51,680
+ but they were quite a long time ago. Maybe he's not said anything since then, you know,
+
+194
+00:13:51,680 --> 00:13:55,040
+ maybe they could have discussed it with him, what would happen in the future,
+
+195
+00:13:55,040 --> 00:14:02,000
+ but I presume they did not. And now it has become a much more, you know, recent and pressing problem.
+
+196
+00:14:02,000 --> 00:14:06,560
+ And props to Marcin, who was the first person around me who said, oh, no, this guy is a badan,
+
+197
+00:14:06,560 --> 00:14:12,480
+ you know, Chengdu should not have invited him. It's a terrible idea. And he was right.
+
+198
+00:14:12,480 --> 00:14:19,360
+ Yeah, and it was the Polish Eastern European fans who were very much aware of this before I was.
+
+199
+00:14:19,360 --> 00:14:23,200
+ It was not something I was aware of before they raised it after the site section vote.
+
+200
+00:14:23,200 --> 00:14:27,920
+ There has been, so it's worth noting that the guest of honour having objection to all opinions
+
+201
+00:14:27,920 --> 00:14:33,840
+ is not the focus of the open letter. So the two are happening in close proximity to one another,
+
+202
+00:14:33,840 --> 00:14:39,920
+ but are not like necessarily related. Oh, there are letters on Luke and Yanko as well.
+
+203
+00:14:39,920 --> 00:14:47,760
+ So so people have been writing. This sort of thing is why I think that bringing WorldCon to
+
+204
+00:14:47,760 --> 00:14:52,800
+ countries that have not had WorldCon before is great. I think that I did a good thing. I think that
+
+205
+00:14:52,800 --> 00:14:58,160
+ I did not support China as a WorldCon because I had real concerns about various problems with
+
+206
+00:14:58,160 --> 00:15:02,800
+ their human rights record. And that was before they announced their guest of honour, who kind of
+
+207
+00:15:02,800 --> 00:15:08,800
+ didn't make me think that those concerns were things that were being talked about in the Chengdu
+
+208
+00:15:08,800 --> 00:15:14,240
+ organisation very freely. Because I think if a convention had had an idea that there was concerns
+
+209
+00:15:14,240 --> 00:15:17,840
+ about their human right record, they might have invited a different guest of honour who wouldn't
+
+210
+00:15:17,840 --> 00:15:25,680
+ add fuel to that fire. I think that what this shows is there probably does need to be some mechanism
+
+211
+00:15:25,680 --> 00:15:33,040
+ for a bid to need to fill certain human rights criteria before being allowed to be voted. Because
+
+212
+00:15:33,040 --> 00:15:40,000
+ if we can't deselect a bid, it means it's on us to make sure that bids that are selected are appropriate.
+
+213
+00:15:40,000 --> 00:15:46,960
+ And I think that if the end of not doing that is that WorldCon's name gets dragged through the
+
+214
+00:15:46,960 --> 00:15:54,000
+ mud by association, that will be a problem for WorldCon going forward. And so I think that this is all
+
+215
+00:15:54,000 --> 00:16:00,000
+ a lot of these very academic discussions that we were having around Saudi Arabia when they were
+
+216
+00:16:00,000 --> 00:16:04,720
+ bidding are suddenly becoming a lot less academic. And I do think we need to be thinking quite seriously
+
+217
+00:16:04,720 --> 00:16:10,480
+ about where we put these lines in the sand and whether or not there needs to be some sort of
+
+218
+00:16:10,480 --> 00:16:15,440
+ record mechanism or something like that. But I don't know how any of that would work. And it's a very
+
+219
+00:16:15,440 --> 00:16:21,920
+ difficult conversation. I think it's very tempting to go what we need is some, you know, as part of
+
+220
+00:16:21,920 --> 00:16:27,200
+ filing, they need to satisfy these human rights criteria. I think there is a risk that
+
+221
+00:16:27,200 --> 00:16:33,200
+ many bids would not be able to do that in many countries, including many countries that
+
+222
+00:16:33,200 --> 00:16:39,680
+ we are generally comfortable with and it's hard, it would be very hard to draw some lines there.
+
+223
+00:16:39,680 --> 00:16:46,640
+ I also think this might all be a very theoretical argument because I think the world might be
+
+224
+00:16:46,640 --> 00:16:51,120
+ becoming a very complex place in which travelling freely all the way around the world to meet fans
+
+225
+00:16:51,120 --> 00:16:55,040
+ from all over the world becomes very, very difficult over the next few years. That was a bit depressing.
+
+226
+00:16:55,040 --> 00:17:03,120
+ I would say I have seen two concrete suggestions for this. One was using an
+
+227
+00:17:03,120 --> 00:17:07,360
+ it's called the Democracy Index, which comes from the people who published The Economist,
+
+228
+00:17:08,080 --> 00:17:14,720
+ which basically gives every country a ranking as to whether there are full or flawed democracy,
+
+229
+00:17:14,720 --> 00:17:20,400
+ a hybrid regime or an authoritarian regime. And the suggestion was that you should only have
+
+230
+00:17:20,400 --> 00:17:27,120
+ World Cons in regions which are democracies. And there's also an index which basically ranks all
+
+231
+00:17:27,120 --> 00:17:34,320
+ countries as either free or not free, which is I think the Freedom House, Freedom in the World
+
+232
+00:17:35,120 --> 00:17:41,360
+ Index. So there seem to be two concrete suggestions I've seen just because the problem of
+
+233
+00:17:41,360 --> 00:17:46,080
+ how to measure this is very difficult. I would say that both of them sure are coming at this
+
+234
+00:17:46,080 --> 00:17:52,240
+ from a Western perspective. I think they're done by the people who do The Economist and by
+
+235
+00:17:52,240 --> 00:17:56,720
+ US NGO. So they are coming from a certain perspective. And also there's conflicts between them.
+
+236
+00:17:56,720 --> 00:18:03,280
+ There are countries which are ranked as democracies but not free for other reasons. And it also
+
+237
+00:18:03,280 --> 00:18:08,560
+ includes countries that might be controversial but are still democracies under the Democracy
+
+238
+00:18:08,560 --> 00:18:13,600
+ Index. But those are the concrete suggestions I have seen. And I suspect we're going to see
+
+239
+00:18:13,600 --> 00:18:20,320
+ more discussion of this. And I guess the other thing to say is that the Chengdu Wilcon has
+
+240
+00:18:20,320 --> 00:18:27,600
+ obviously a guest shiqin lu, which makes a ton of sense because he's probably the most prominent
+
+241
+00:18:28,240 --> 00:18:36,080
+ Chinese language author outside of China. But he also went asked about his political views on the
+
+242
+00:18:36,080 --> 00:18:42,480
+ one child policy and the re-education camps has been kind of loosely supportive of them. So I
+
+243
+00:18:42,480 --> 00:18:47,280
+ think that's another thing that Chengdu are going to need to be aware of. For instance,
+
+244
+00:18:47,280 --> 00:18:51,120
+ like Netflix are adapting some of his works and I think I've had to distance themselves
+
+245
+00:18:51,120 --> 00:18:57,680
+ from Lou's views. So when I had Sinopticon as one of my picks, one of the things in that is
+
+246
+00:18:57,680 --> 00:19:02,960
+ it's clear that loads of stuff is getting edited in translation because it would not
+
+247
+00:19:02,960 --> 00:19:08,400
+ the things that Chinese SF authors write often do not land well with Western audiences
+
+248
+00:19:08,400 --> 00:19:12,960
+ on all sorts of different fronts. And that certainly happened with Shikson and Lou.
+
+249
+00:19:12,960 --> 00:19:21,280
+ So that economist post ranks the US as only just above a, I might be getting the colour
+
+250
+00:19:21,280 --> 00:19:25,840
+ scale slightly wrong, but it doesn't rank it as a full democracy. So I do think that's like
+
+251
+00:19:26,400 --> 00:19:34,640
+ a reasonable take. I mean, but it does rank China as orange and orange listeners is
+
+252
+00:19:34,640 --> 00:19:41,520
+ not just not just good orange, like angry, actually no, not even orange, more in maroon colour.
+
+253
+00:19:41,520 --> 00:19:47,200
+ And that is bad. I mean, if you've got red, green colour blindness, the world is just shades of
+
+254
+00:19:47,200 --> 00:19:52,960
+ gray. Full democracy, but not the best. Second rank of full democracy. Yeah, better than Spain,
+
+255
+00:19:52,960 --> 00:19:59,840
+ which probably fair. Sweden, Finland, Norway, Germany, Iceland, all complete full democracies,
+
+256
+00:19:59,840 --> 00:20:05,440
+ and Canada. Israel is a flawed democracy by these standards, but I'm still not sure that an Israel
+
+257
+00:20:05,440 --> 00:20:11,440
+ worldcom would be, you know, if that's our ranking, are people going to be happy with that?
+
+258
+00:20:11,440 --> 00:20:17,280
+ I think it's probably better to have some fixed system that is outside of Wussfuss control,
+
+259
+00:20:17,280 --> 00:20:21,680
+ which occasionally yields edge cases I disagree with than it is to try and do it.
+
+260
+00:20:21,680 --> 00:20:25,920
+ Do you see what I mean? Like, at least then it's not, it's not us being wrong. And it's like, no,
+
+261
+00:20:25,920 --> 00:20:31,600
+ we've, we've yoked our star to this carriage, and we're just doing what they say. And sometimes
+
+262
+00:20:31,600 --> 00:20:36,240
+ that might be an edge case that's annoying. But like, certainly looking at this, it reinforces a
+
+263
+00:20:36,240 --> 00:20:40,000
+ lot of my preconceptions about where I would have said to the best democracies in the world are
+
+264
+00:20:40,000 --> 00:20:46,720
+ New Zealand, Scandinavia. I mean, you know, it's not whatever you pick isn't going to be perfect,
+
+265
+00:20:46,720 --> 00:20:51,360
+ but like, I do think that map, but both of these maps, I think you could make an argument
+
+266
+00:20:51,360 --> 00:20:58,000
+ are like relatively sensible, kind of first steps. And it's not the be all and end all here. It is,
+
+267
+00:20:58,000 --> 00:21:03,040
+ you know, a first pass. I mean, you can, we're still going to have votes and people are still
+
+268
+00:21:03,040 --> 00:21:06,560
+ going to choose, and this is still going to be part of how they choose where they would like to see
+
+269
+00:21:06,560 --> 00:21:12,240
+ a worldcom. But it basically would eliminate some sites from being eligible to bid right from the
+
+270
+00:21:12,240 --> 00:21:19,040
+ get-go. I don't see this ratifying in China, guys. Well, I mean, I think the, the ratification in
+
+271
+00:21:19,040 --> 00:21:24,720
+ China is going to be very interesting because of the way Chengdu have structured their memberships.
+
+272
+00:21:24,720 --> 00:21:31,440
+ Chengdu have given us the opportunity to send Liz back into the Wussfuss caves.
+
+273
+00:21:31,440 --> 00:21:36,880
+ To the back constitution, Liz, the Chengdu will come while remaining silent,
+
+274
+00:21:36,880 --> 00:21:42,560
+ other things have released their membership rates. In fact, they release their membership rates,
+
+275
+00:21:42,560 --> 00:21:46,240
+ and then they release their membership rates again with some more instructions because it's
+
+276
+00:21:46,240 --> 00:21:53,440
+ quite a confusing table. But essentially, the way they're structuring it is that you can purchase a
+
+277
+00:21:53,440 --> 00:21:59,920
+ Wussfuss membership, which is, I think what we would normally say is kind of a supporting membership.
+
+278
+00:21:59,920 --> 00:22:06,640
+ And this is automatic if you voted in the 2023 site selection, or you can pay $50 for the Wussfuss
+
+279
+00:22:06,640 --> 00:22:13,600
+ membership. So far, pretty standard. And then you can add an in-person admission, which is free
+
+280
+00:22:13,600 --> 00:22:22,720
+ if you voted in the 2023 site selection. And then there are rates between $30 and $70 for the in-person
+
+281
+00:22:22,720 --> 00:22:28,160
+ admission, or you can purchase online admission, which is between $2 and $10, depending if it's
+
+282
+00:22:28,160 --> 00:22:34,160
+ your first World Coronary student or various other things, which is actually a model that I think
+
+283
+00:22:34,160 --> 00:22:38,080
+ one of the recent constitutional amendments was moving towards where you have kind of a Wussfuss
+
+284
+00:22:38,080 --> 00:22:43,280
+ membership, and then you purchase the in-person admission to the Wilcom on top. But the, the
+
+285
+00:22:43,280 --> 00:22:47,520
+ difference that Chengdu are making is that you don't have to purchase that Wussfuss membership at all.
+
+286
+00:22:47,520 --> 00:22:52,240
+ You can just purchase the in-person admission and attend the convention, but you won't have the
+
+287
+00:22:52,240 --> 00:22:57,760
+ rights to vote in any site selection or Q-Go awards or presumably attend the business meeting on site.
+
+288
+00:22:57,760 --> 00:23:02,480
+ This is quite controversial. Well, in certain circles, it's quite controversial because of the
+
+289
+00:23:02,480 --> 00:23:07,840
+ way the Wussfuss Constitution is written. It says you can't do this. It says you cannot sell an
+
+290
+00:23:07,840 --> 00:23:13,200
+ attending membership without including Wussfuss rights. Except for, I think, day memberships and
+
+291
+00:23:13,200 --> 00:23:17,680
+ children are excluded. So, you can sell a Charles membership or a day membership without including
+
+292
+00:23:17,680 --> 00:23:24,800
+ voting rights, but otherwise Wussfuss membership is key. And I kind of understand why Chengdu don't
+
+293
+00:23:24,800 --> 00:23:29,920
+ want to, but I mean, I don't know why Chengdu don't want to, which is this, that there are other
+
+294
+00:23:29,920 --> 00:23:34,800
+ bits of the Constitution, which say, you know, the supporting membership rate is essentially set
+
+295
+00:23:34,800 --> 00:23:40,800
+ in advance by all the bids in agreement with the Committee of the Wilcom hosting the site selection,
+
+296
+00:23:41,520 --> 00:23:46,400
+ and they all have to kind of agree on the bidding fee, otherwise it defaults to basically the
+
+297
+00:23:46,400 --> 00:23:50,800
+ median of the past three. So, you're never going to manage to set a supporting membership rate,
+
+298
+00:23:50,800 --> 00:23:55,600
+ which is at the moment less than about $50. But the other bit of says that you may not
+
+299
+00:23:55,600 --> 00:23:59,520
+ sell a membership, which includes any Wussfuss voting rights for less than the cost of supporting
+
+300
+00:23:59,520 --> 00:24:04,080
+ membership mentioned in Article 4. So, they're not allowed to sell anything that includes Wussfuss
+
+301
+00:24:04,080 --> 00:24:08,480
+ voting rights for less than $50, which means they can't sell a full attending membership for less
+
+302
+00:24:08,480 --> 00:24:12,720
+ than $50. But obviously, they would like to do that because they would like to have some very cheap
+
+303
+00:24:12,720 --> 00:24:17,520
+ attending membership in order to attract people for whom the cost is prohibitive. And of course,
+
+304
+00:24:17,520 --> 00:24:24,240
+ we are talking about, I think, the first Wilcom being held in a lower middle-income country,
+
+305
+00:24:24,240 --> 00:24:30,320
+ where the idea of paying $120 for membership is prohibitive to many, many people. And so,
+
+306
+00:24:30,320 --> 00:24:35,680
+ they've opted to have this in-person admission, which ranges from $30 for a student to $70 for
+
+307
+00:24:35,680 --> 00:24:39,200
+ someone who's been to multiple Wilcoms, which doesn't include the Wussfuss voting rights,
+
+308
+00:24:39,200 --> 00:24:43,680
+ which gets around that bit, the Constitution. But it also falls foul of the bit about not
+
+309
+00:24:43,680 --> 00:24:48,720
+ having any selling any full attending memberships, which don't include Wussfuss voting rights.
+
+310
+00:24:48,720 --> 00:24:57,280
+ So, there's an interesting point here, which is that one of the decisions I saw about this on some
+
+311
+00:24:57,280 --> 00:25:04,160
+ group on Facebook here or there was someone pointing out that at the moment, if you buy a day
+
+312
+00:25:04,160 --> 00:25:10,000
+ pass to each day of the Wilcom, you don't get Wussfuss voting rights, which is in
+
+313
+00:25:10,000 --> 00:25:17,440
+ contravention of the Constitution. So, existing Wilcoms do already disobey these provisions because
+
+314
+00:25:17,440 --> 00:25:24,240
+ it is possible to just keep buying day passes and never become a Wussfuss voting member.
+
+315
+00:25:24,240 --> 00:25:29,280
+ And I think this is the thing, which is the Constitution is very specific because it says like,
+
+316
+00:25:29,280 --> 00:25:33,040
+ you can't sell a membership that allows attendance and full participation for the
+
+317
+00:25:33,040 --> 00:25:36,240
+ entire duration of the Convention and does not include Wussfuss voting rights.
+
+318
+00:25:36,240 --> 00:25:40,480
+ But if they say that these memberships don't entitle you to go to the Wussfuss business meeting,
+
+319
+00:25:40,480 --> 00:25:44,480
+ it doesn't include full attendance of the Convention and therefore it doesn't need to include Wussfuss
+
+320
+00:25:44,480 --> 00:25:48,560
+ voting rights, which is completely compliant with the Constitution and fine. So, all you need to do
+
+321
+00:25:48,560 --> 00:25:54,000
+ is ban these people from attending the business meeting and jobs are good. I do think that,
+
+322
+00:25:54,000 --> 00:25:58,880
+ in this case, the other problem is that the Constitution is written in a very US-centric way.
+
+323
+00:25:59,920 --> 00:26:02,800
+ Not just US-centric, but anglicpher-centric, I guess.
+
+324
+00:26:02,800 --> 00:26:07,440
+ Yeah, which is to assume that basically everyone attending the Wilcom can definitely afford $50
+
+325
+00:26:07,440 --> 00:26:13,600
+ right. And that is not going to be true if the Wilcom does start branching out to countries which
+
+326
+00:26:13,600 --> 00:26:20,000
+ do have lower levels of income. And like, I'm thinking also of places like India or Brazil or
+
+327
+00:26:20,000 --> 00:26:26,480
+ places like that, if they ever decide they want to vote and bid for a Wilcom, then this may be a
+
+328
+00:26:26,480 --> 00:26:31,520
+ problem. And we probably need to have a think about how to make sure that Wussfuss,
+
+329
+00:26:31,520 --> 00:26:36,240
+ that the intention that the Wilcom is made up of people who form Wussfuss,
+
+330
+00:26:36,240 --> 00:26:41,440
+ matches the reality of what if the Wilcom is held in a country where people don't have a lot of
+
+331
+00:26:41,440 --> 00:26:47,280
+ money and it would be useful to offer a membership to local people, which includes Wussfuss but is
+
+332
+00:26:47,280 --> 00:26:50,640
+ less than a supporting membership, because I think that would be good. And you could definitely
+
+333
+00:26:50,640 --> 00:26:54,800
+ modify the Constitution to allow that. So I think, I mean, I don't know, it might be that
+
+334
+00:26:54,800 --> 00:26:58,800
+ Chengdu haven't spotted this loophole and are just hoping no one notices, but I can see a loophole
+
+335
+00:26:58,800 --> 00:27:04,080
+ in these two that means you can do this and it's fine. But yeah, I think there is a wealth privilege
+
+336
+00:27:04,080 --> 00:27:08,160
+ thing here which probably needs to be addressed. I think you've probably made my point which is
+
+337
+00:27:08,160 --> 00:27:15,360
+ that I'm kind of with Chengdu. I don't know how to do things like the first Wilcom memberships,
+
+338
+00:27:15,360 --> 00:27:20,640
+ that's probably still more than the supporting membership, aren't they? That's the issue,
+
+339
+00:27:20,640 --> 00:27:25,200
+ is that they want to have a very cheap membership for locals and I don't blame them. And I think
+
+340
+00:27:25,200 --> 00:27:30,320
+ they should be encouraged and we should find a way to make that happen. And the probable way to do
+
+341
+00:27:30,320 --> 00:27:35,360
+ this is for Wussfuss just to turn a blind eye, which is the sort of thing that Wussfuss loves to do,
+
+342
+00:27:35,360 --> 00:27:41,120
+ as you know. What if they don't turn a blind eye? What are they going to do? Where are the enforcement
+
+343
+00:27:41,120 --> 00:27:45,440
+ clauses in the Wussfuss Constitution that means anything can be done? There aren't any. So Chengdu
+
+344
+00:27:45,440 --> 00:27:49,840
+ can do what they like. They have the right to host the Wilcom, there's no way of taking that away
+
+345
+00:27:49,840 --> 00:27:54,080
+ from them and there's no enforcement mechanism in the Constitution. So you can do whatever.
+
+346
+00:27:54,080 --> 00:27:58,160
+ Like we have known this, I mean at least since New Zealand, which I would argue flagrantly,
+
+347
+00:27:58,160 --> 00:28:01,280
+ violated the Wussfuss Constitution even though Kevin Sandley disagrees with me,
+
+348
+00:28:01,280 --> 00:28:06,640
+ but we know that you can do whatever you like already. It's fine. But I will also say this is
+
+349
+00:28:06,640 --> 00:28:10,320
+ really interesting because one of the things that has been mooted is that the Hugo Awards would look
+
+350
+00:28:10,320 --> 00:28:13,760
+ very different this year because they'll be loads of Chinese voters. And if all the Chinese voters
+
+351
+00:28:13,760 --> 00:28:17,360
+ have bought super cheap memberships that don't give them Hugo voting, right? It's going to look
+
+352
+00:28:17,360 --> 00:28:22,960
+ basically the same as normal everyone. So yeah, is that good for the Hugo's? What do we think?
+
+353
+00:28:22,960 --> 00:28:28,880
+ Yeah, so I would say a couple of things. Yeah, one is that like I feel that, yeah, essentially
+
+354
+00:28:28,880 --> 00:28:34,800
+ the supporting membership price sort of has locked them in in a way that probably wasn't intended by
+
+355
+00:28:34,800 --> 00:28:40,000
+ the Wussfuss Constitution because it may be that they can run a Wilcom for a lot cheaper than we
+
+356
+00:28:40,000 --> 00:28:45,840
+ can run a Wilcom in the US or the UK or Ireland. I think they're just the sponsorship and membership
+
+357
+00:28:45,840 --> 00:28:51,680
+ and income. It looks very different. I mean, the second argument you can make is that
+
+358
+00:28:51,680 --> 00:28:57,680
+ it's not just holding them in places where the income is lower. It's also, could we possibly
+
+359
+00:28:57,680 --> 00:29:03,040
+ want to hold one in the US or the UK where we ran it with a much lower membership fee and
+
+360
+00:29:03,040 --> 00:29:08,560
+ use a different model where we either made it much cheaper or tried to expand to many more people.
+
+361
+00:29:08,560 --> 00:29:14,160
+ Like it also blocks that kind of thing. Yeah, in terms of the Hugo's, I actually think I probably
+
+362
+00:29:14,160 --> 00:29:19,200
+ will have more to say on Chinese influence on the Hugo nominations once we have the Hugo
+
+363
+00:29:19,200 --> 00:29:23,840
+ nominations in a couple of weeks. That's true. Yeah, hopefully we'll have them by Easter.
+
+364
+00:29:23,840 --> 00:29:28,160
+ That's actually a good point. That's a good point because we know that everyone who
+
+365
+00:29:28,160 --> 00:29:32,560
+ voted for Chengdu did have a supporting membership to discount. So we'll be eligible to nominate.
+
+366
+00:29:32,560 --> 00:29:36,960
+ Sorry, that was the point I was going to make, which is that 2000 Chinese voters already have
+
+367
+00:29:36,960 --> 00:29:40,640
+ a full attending membership of Chengdu and convert to the Hugo's and that is plenty.
+
+368
+00:29:40,640 --> 00:29:47,440
+ Oh, yes. So if you voted at the discount three-type selection for either bid, you are an attending
+
+369
+00:29:47,440 --> 00:29:54,240
+ member of Chengdu, which is kind of magic. A full wuss for attending membership voting rights for
+
+370
+00:29:54,240 --> 00:29:59,360
+ literally your support, your site selection fee. So that was a, in my view, quite a good deal.
+
+371
+00:29:59,360 --> 00:30:04,640
+ Not that I think the chances of my being at Chengdu, at the Chengdu work on are infinitesimal for
+
+372
+00:30:04,640 --> 00:30:10,240
+ multiple reasons, but it's still pretty exciting. And the virtual membership for people who hadn't
+
+373
+00:30:10,240 --> 00:30:15,760
+ noticed is $2 and I really like that. I think that will increase participation, usually, not just in
+
+374
+00:30:15,760 --> 00:30:21,200
+ China. Yeah, I very much like that. What they've been able to do essentially is to reward all the
+
+375
+00:30:21,200 --> 00:30:27,440
+ people who, reward all the people who supported them by paying $50 to vote in a process that might
+
+376
+00:30:27,440 --> 00:30:31,760
+ have seen them get a supporting membership in Winnie-Pager Convention they can never realistically go to.
+
+377
+00:30:31,760 --> 00:30:35,040
+ And so they reward them by saying, well, thank you for that. You can now come to the World
+
+378
+00:30:35,040 --> 00:30:40,800
+Com and we don't need any extra from you. And then there will also be the, you know, there's probably
+
+379
+00:30:40,800 --> 00:30:45,440
+ many people in like the US and the UK who voted for Winnie-Pag and now have full attending membership
+
+380
+00:30:45,440 --> 00:30:50,160
+ in a Worldcon in China. They probably won't be able to go to or will choose not to go to.
+
+381
+00:30:50,160 --> 00:30:57,200
+ So it does work both ways. Yeah, it means that the, I think the potential for that being, you know,
+
+382
+00:30:57,200 --> 00:31:03,200
+ not just the however many Chinese members who have full attending wisface memberships, but however
+
+383
+00:31:03,200 --> 00:31:09,120
+ many others they might gain, I would imagine that it will now be a lot lower because why pay,
+
+384
+00:31:09,120 --> 00:31:14,400
+ you know, $100 when you could pay $50 if what you really want to do is go to the convention.
+
+385
+00:31:14,400 --> 00:31:22,480
+ And so it is still going to be a very interesting set of nominees and voting for Chengdu and also
+
+386
+00:31:22,480 --> 00:31:27,600
+ the business meeting there is going to be interesting. And that's another thing because we were talking
+
+387
+00:31:27,600 --> 00:31:33,680
+ about the other thing is that a lot of things that will come up for ratification in Chengdu may be
+
+388
+00:31:33,680 --> 00:31:40,480
+ again predominantly people who voted in site selection and the US/other Anglo-fans because,
+
+389
+00:31:40,480 --> 00:31:45,360
+ you know, if a lot of the Chinese members have not bought wisface right. Presumably there won't be
+
+390
+00:31:45,360 --> 00:31:50,560
+ in the business meeting and therefore, yeah, the ratification would be interesting.
+
+391
+00:31:50,560 --> 00:31:56,800
+ Chances of the business meeting having sorted out remote participation by next Worldcon?
+
+392
+00:31:56,800 --> 00:31:57,760
+ Very low, I would say.
+
+393
+00:31:57,760 --> 00:32:02,960
+ Zero. Yeah. Because they're going to require that it's a thing, they're going to require an
+
+394
+00:32:02,960 --> 00:32:06,880
+ amendment to the Constitution despite the fact that obviously attending the member, you could
+
+395
+00:32:06,880 --> 00:32:10,480
+ have told them a commensurate virtually and therefore you should be able to vote virtually, but there we go.
+
+396
+00:32:10,480 --> 00:32:14,000
+ I would, I may have argued this before, but I think the wisface constitution is not,
+
+397
+00:32:14,000 --> 00:32:19,520
+ it's worded in a way that means that if you have the Worldcon in a place that you're attending it,
+
+398
+00:32:19,520 --> 00:32:22,240
+ you should be able to go to the business meeting and if you're attending the Worldcon virtually,
+
+399
+00:32:22,240 --> 00:32:25,120
+ that should mean you get to go to the business meeting virtually and the fact that you can't,
+
+400
+00:32:25,120 --> 00:32:30,240
+ I think, is a flagrant breach of the Constitution, but see also lack of any coherent enforcement
+
+401
+00:32:30,240 --> 00:32:31,440
+ mechanism. I agree.
+
+402
+00:32:31,440 --> 00:32:42,240
+ Right, so shall we talk about the FAN Awards?
+
+403
+00:32:42,240 --> 00:32:49,360
+ Why not? Yes, we should talk about the FAN Awards. Congratulations to everyone who won and congratulate
+
+404
+00:32:49,360 --> 00:32:54,400
+ and thank you very much to the two people who voted for us, one is a Gen Zine and one is a
+
+405
+00:32:54,400 --> 00:33:01,040
+ perzine, both of whose votes were thrown out because the administrator as predicted concluded that we
+
+406
+00:33:01,040 --> 00:33:08,240
+ are not a FAN Zine for the purpose of the FAN Awards. Because we're not published listeners.
+
+407
+00:33:08,240 --> 00:33:11,360
+ For no reason I can tell because we do keep looking at their definition going.
+
+408
+00:33:11,360 --> 00:33:16,320
+ Yeah, yeah. So I think our problem is that we satisfy the definition but we do not quite like a
+
+409
+00:33:16,320 --> 00:33:22,880
+ duck. Yes, when we, when I push the publish podcast button in our podcast software, that is not
+
+410
+00:33:22,880 --> 00:33:28,320
+ publishing. It is different for some reason that I haven't worked out. And it's definitely not just
+
+411
+00:33:28,320 --> 00:33:32,800
+ because they forgot to put the word written in their definition of a FAN Zine. It could just be
+
+412
+00:33:32,800 --> 00:33:37,840
+ written but then I thought but if I did a FAN Zine that was all art and contained no words,
+
+413
+00:33:37,840 --> 00:33:45,840
+ would that count? Oh, and I submit that it would. I mean, I submit that's a graphic novel now,
+
+414
+00:33:45,840 --> 00:33:52,640
+ Alison. No, but it was good. Good people won in various categories. Good things got voted for,
+
+415
+00:33:52,640 --> 00:33:58,560
+ which is nice. There were 66 voters this year and Alison has an observation.
+
+416
+00:33:58,560 --> 00:34:05,280
+ Yeah, so quite a lot of these voters think that the hugos are a bad thing and terrible and don't
+
+417
+00:34:05,280 --> 00:34:09,920
+ reward the right sorts of things. And I am going to say that if you 66 people get on and vote in
+
+418
+00:34:09,920 --> 00:34:13,600
+ the hugos, those of you who have Wilcon memberships, you probably would get some of the things you
+
+419
+00:34:13,600 --> 00:34:18,160
+ like onto the ballot. Because a lot of things that you like just kind of dribble under the
+
+420
+00:34:18,160 --> 00:34:25,200
+ ballot in the FAN categories and yeah, vote. I mean, it's a bit, you know, nominate, it's a bit late
+
+421
+00:34:25,200 --> 00:34:31,600
+ for nomination now but it's not too late to vote. So I find myself, it's interesting because I feel
+
+422
+00:34:31,600 --> 00:34:37,760
+ very much at the time part of the FAN awards community and yet they're kind of persistent
+
+423
+00:34:37,760 --> 00:34:42,800
+ hatred of the hugos. I don't like, I kind of think the hugos are quite a good thing and
+
+424
+00:34:44,160 --> 00:34:49,280
+ not at all bad and it would be good if people who would like them to go to better things voted
+
+425
+00:34:49,280 --> 00:34:53,280
+ for those better things and nominated those better things and talked about those better things.
+
+426
+00:34:53,280 --> 00:34:58,000
+ John is a great fan of talking about the things you like loudly and often in the hopes that people
+
+427
+00:34:58,000 --> 00:35:05,360
+ notice. So I'm going to model that behaviour over the next year. I like Alison. She's good. Liz is
+
+428
+00:35:05,360 --> 00:35:12,960
+ alright too. I was going to say, Liz has just flipped me the bird listeners. Welcome to the
+
+429
+00:35:12,960 --> 00:35:17,040
+ Oxford Mutual Appreciation Society. I am Alison and I like Liz and John.
+
+430
+00:35:17,040 --> 00:35:23,120
+ So, yeah, no, I think and actually you've just said something that massively distills a lot of my
+
+431
+00:35:23,120 --> 00:35:29,040
+ thoughts about Corflu and the FAN awards which are that more and more I find that my perception
+
+432
+00:35:29,040 --> 00:35:36,320
+ of that small slice of fandom is that it defines itself in terms of negativity towards other slices
+
+433
+00:35:36,320 --> 00:35:42,400
+ of fandom that I am also in and although I like going to Corflu's and I like the FAN award,
+
+434
+00:35:42,400 --> 00:35:46,320
+ it is very difficult for me because whenever I interact with them, I am constantly reminded
+
+435
+00:35:46,320 --> 00:35:52,000
+ that there are lots of things I like that I am wrong to like and I find that very difficult
+
+436
+00:35:52,000 --> 00:36:00,880
+ and I think that is why I find it slightly frustrating sometimes. But I would say I was not,
+
+437
+00:36:00,880 --> 00:36:09,200
+ I think the FAN awards went to good winners and I did vote in the FAN awards. I don't know if the
+
+438
+00:36:09,200 --> 00:36:15,680
+ things I voted for won awards. Yeah, well, most of the things I voted for did win
+
+439
+00:36:15,680 --> 00:36:25,600
+ more so than in other. All right, taste maker. No, it's not that it's quite a small constituency
+
+440
+00:36:25,600 --> 00:36:29,600
+ and it's a very, very good, kind of obvious, like portable storage. I think one best
+
+441
+00:36:29,600 --> 00:36:34,480
+ fan of FAN for Stenzine and I have just got portable storage in the post and goodness,
+
+442
+00:36:34,480 --> 00:36:37,760
+ it's amazing. It'll be my pick next time unless something very strange happens.
+
+443
+00:36:38,400 --> 00:36:44,800
+ We can link to the summary of the winners and the full voting breakdown.
+
+444
+00:36:44,800 --> 00:36:54,080
+ We can non-exclusively reveal what won. So, the winners were in order of presentation
+
+445
+00:36:54,080 --> 00:37:00,400
+ the cover for Littlebrook 11 which was drawn by Ulrika O'Brien. Jerry Kalfman was awarded the
+
+446
+00:37:00,400 --> 00:37:06,320
+ Best Letter Hack award. Ulrika O'Brien also took home best fan artist Mark Plummer, friend of the
+
+447
+00:37:06,320 --> 00:37:13,760
+ podcast, took home best fan writer. Best One Shot was Dandrous Visions edited by Sandro Bond,
+
+448
+00:37:13,760 --> 00:37:19,920
+ Rob Jackson and Pat Verzi. Best Verzi was this here, Best Genzine was possible storage and number
+
+449
+00:37:19,920 --> 00:37:26,320
+ one fan face was Nick Fairey. And for those of us who were at the awards ceremony, there was a very
+
+450
+00:37:26,320 --> 00:37:34,400
+ funny bit where the first three awards announced were either Jerry Kalfman or somebody he published
+
+451
+00:37:34,400 --> 00:37:40,960
+ in Littlebrook. So, that was quite amusing. And in general, because Jerry was the MC for the awards.
+
+452
+00:37:40,960 --> 00:37:46,640
+ Good stuff. But yeah, congratulations to all the winners. Jerry Kalfman won Best Letter Hack,
+
+453
+00:37:46,640 --> 00:37:50,320
+ which is great and Mark was second, which is also great. And there are a lot of other letter hacks
+
+454
+00:37:50,320 --> 00:37:57,840
+ in there. But the letter hacks are overwhelmingly male and I don't think that absolutely reflects
+
+455
+00:37:57,840 --> 00:38:02,880
+ the people who are writing to fanzines and I think some women write very good letters to fanzines too
+
+456
+00:38:02,880 --> 00:38:08,240
+ and I would like to see this kind of tacit assumption that all the people who are writing letters to
+
+457
+00:38:08,240 --> 00:38:14,480
+ fanzines are boys be addressed in future voting chaps. This is a...
+
+458
+00:38:14,480 --> 00:38:19,760
+ I would like to say that you could nominate Alison for Best Letter Hack, but my experience is she
+
+459
+00:38:19,760 --> 00:38:25,520
+ only locks fanzines. She's got articles in. If my Lullzine is anything to go by, she's written as
+
+460
+00:38:25,520 --> 00:38:30,960
+ One Lock and it was for her own article, which I thought was very great. Have you sent me a Lullzine
+
+461
+00:38:30,960 --> 00:38:34,400
+ since then? You sent me a Lullzine, but it just reprinted something that you'd already...
+
+462
+00:38:34,400 --> 00:38:41,280
+ Oh, quite possibly. I just thought it was bloody great. I just... I really enjoyed it.
+
+463
+00:38:41,280 --> 00:38:46,320
+ I did get a... I did get one vote for Best Letter Hack, but that was not in fact the letter hacker.
+
+464
+00:38:46,320 --> 00:38:50,800
+ Either of the letter hacks I was thinking of or many of... there are many other great female
+
+465
+00:38:50,800 --> 00:38:56,960
+ letter hacks who are writing letters to fanzines and um and you should look out for it's Claire and Sandra.
+
+466
+00:38:56,960 --> 00:39:03,760
+ [Music]
+
+467
+00:39:03,760 --> 00:39:11,200
+ Okay, so my pick is very science fictional and you'll understand why it kind of...
+
+468
+00:39:11,200 --> 00:39:17,360
+ it breaks a lot of assumptions we have about I think economics like as a science mostly,
+
+469
+00:39:17,360 --> 00:39:22,800
+ but also like some other sciences, which is that I, a millennial, have purchased a house
+
+470
+00:39:23,360 --> 00:39:28,960
+ and my house is great and it is incredibly esf-nal. So, hurrah! It has lots of science fiction in it
+
+471
+00:39:28,960 --> 00:39:34,320
+ listeners and I've just finished setting up my board game shelf and... right, no, sorry, I lie.
+
+472
+00:39:34,320 --> 00:39:41,600
+ I've just set up my games that are books and folders of cards shelf, which is worryingly full
+
+473
+00:39:41,600 --> 00:39:47,680
+ and I hadn't quite appreciated how much stuff I have until I put it all in one place. It's got
+
+474
+00:39:47,680 --> 00:39:53,200
+ my netrunner cards on it, Johnny. So that's good. I have a pick, which is which I am currently
+
+475
+00:39:53,200 --> 00:40:00,080
+ listening to My Real Children by Joe Walton. This is quite an old book and I'm listening to it as
+
+476
+00:40:00,080 --> 00:40:05,600
+ an audiobook for reasons that are really complicated but I'm super enjoying it. It is a book in a
+
+477
+00:40:05,600 --> 00:40:12,400
+ category called Sliding Doors after the movie with Gwyneth Paltrow, which had two totally different
+
+478
+00:40:12,400 --> 00:40:17,200
+ versions of London, none of which neither of which bore any resemblance to reality. I don't know.
+
+479
+00:40:17,200 --> 00:40:22,160
+ The idea that you have a character who makes a choice and worlds spin in different directions
+
+480
+00:40:22,160 --> 00:40:28,560
+ as a result of that choice. My Real Children starts off feeling as if it is going to have almost no
+
+481
+00:40:28,560 --> 00:40:37,360
+ science fiction elements whatsoever but as the world views digress it... the worlds are quite
+
+482
+00:40:37,360 --> 00:40:43,360
+ different and they are quite different in some quite subtle ways and not necessarily in the ways
+
+483
+00:40:43,360 --> 00:40:49,280
+ that you might expect and the obviously our woman has two very different lives in the two
+
+484
+00:40:49,280 --> 00:40:53,120
+ different halves of the novel and I am enjoying it very much. I'm not quite finished yet though
+
+485
+00:40:53,120 --> 00:40:56,880
+ but I'm expecting to carry on enjoying it until the end of about 90% of the way through at the moment.
+
+486
+00:40:56,880 --> 00:41:03,520
+ So that is my pick for this week. My Real Children by Joe Walton, who is a fantastic author.
+
+487
+00:41:03,520 --> 00:41:10,240
+ Just fantastic. I have only read among others but I did thoroughly enjoy it. I read it when it was on
+
+488
+00:41:10,240 --> 00:41:18,320
+ the Hugo Ballot and I did really like it but I have not read any of Joe's other work. So I should
+
+489
+00:41:18,320 --> 00:41:24,880
+ rectify that at some point. I also really really like Farthering and it sequels the small changes
+
+490
+00:41:24,880 --> 00:41:31,120
+ which is kind of a trilogy about a science fictional version of the mithards. I love it.
+
+491
+00:41:31,120 --> 00:41:36,000
+ I've had this audiobook for a very long time but for various reasons I had not read it and I got
+
+492
+00:41:36,000 --> 00:41:42,080
+ to the end of my Hugo nomination reading and went I cannot read any fiction unless I do it by audiobook
+
+493
+00:41:42,080 --> 00:41:47,760
+ because I'm so busy at the moment so I'm doing it as an audiobook. So normally I am
+
+494
+00:41:48,240 --> 00:41:56,400
+ split my reading so the science fiction gets read on e-book or paper and the kind of self-help
+
+495
+00:41:56,400 --> 00:42:01,040
+ books are what I normally do as audiobook because they just kind of wash over me and I don't ever
+
+496
+00:42:01,040 --> 00:42:08,560
+ get any better. I find non-fiction. I find non-fiction content is a lot easier to listen to than fiction.
+
+497
+00:42:08,560 --> 00:42:16,000
+ It just goes in my head better. That's why I like podcasts. I am going to pick. Oh I want to read this.
+
+498
+00:42:16,000 --> 00:42:23,520
+ The Last Graduate by Naomi Novick which is a sequel to a deadly education which Alison has
+
+499
+00:42:23,520 --> 00:42:29,040
+ previously picked as one of her picks. Yes so I read the sequel. I mean I enjoyed a deadly
+
+500
+00:42:29,040 --> 00:42:35,200
+ education but I didn't love it. I just I didn't really get on with the protagonist very much
+
+501
+00:42:35,200 --> 00:42:39,520
+ basically. So a dedication and a last graduate are both set in you know a magical school called
+
+502
+00:42:39,520 --> 00:42:44,480
+ the scholar mants where there are lots of deadly monsters ready every turn to try and kill all the
+
+503
+00:42:44,480 --> 00:42:52,160
+ young young magicians in the school and in the first one. Why most schools? Yeah and in the first one
+
+504
+00:42:52,160 --> 00:42:59,600
+ we see the protagonist go from kind of you know the the outcast who is you know friends with no one
+
+505
+00:42:59,600 --> 00:43:04,880
+ very much just her own thing to kind of you know getting a sort of you know group of friends around
+
+506
+00:43:04,880 --> 00:43:11,200
+ her and making some connections and working out kind of her place in things but because of that in
+
+507
+00:43:11,200 --> 00:43:15,600
+ the first one you see a go from someone who's sort of very prickly and standoffish and you know
+
+508
+00:43:15,600 --> 00:43:21,120
+ connected with no one and I didn't find that particularly fun to read whereas in the second one
+
+509
+00:43:21,120 --> 00:43:25,760
+ it's kind of it picks up immediately. She's basically now got a group of people that she knows and
+
+510
+00:43:25,760 --> 00:43:33,040
+ can trust and it focuses more on basically how this magical school and its structure is basically
+
+511
+00:43:33,040 --> 00:43:36,880
+ and I'm gonna it's not this is not really a spoiler but you know that the magical school is
+
+512
+00:43:36,880 --> 00:43:43,280
+ essentially terrible and people with the most power and privilege and wealth in a magical sense
+
+513
+00:43:43,280 --> 00:43:48,720
+ are gonna do okay and those who don't are probably gonna get eaten by the end of their first year
+
+514
+00:43:48,720 --> 00:43:54,640
+ and the second book definitely is starting to kind of dismantle this and say actually maybe
+
+515
+00:43:54,640 --> 00:44:00,000
+ this system is not that great and actually maybe the whole system of how the magical enclaves
+
+516
+00:44:00,000 --> 00:44:06,000
+ work in the world is not that great and you can see like the protagonist finding her way to a way
+
+517
+00:44:06,000 --> 00:44:12,640
+ where she can do something to change this with the help of the kind of friends and supporters
+
+518
+00:44:12,640 --> 00:44:18,000
+ she now has around her. Now the key thing about this is that the reason she can do this is that she
+
+519
+00:44:18,000 --> 00:44:25,440
+ is an immensely immensely powerful wizard so that also feels a bit like a you know a bit of a sort of
+
+520
+00:44:25,440 --> 00:44:31,440
+ sort of like death ex machina kind of thing that she it only works because she's incredibly
+
+521
+00:44:31,440 --> 00:44:37,280
+ powerful and has an incredibly powerful ally so if you can get with that then it's pretty good.
+
+522
+00:44:37,280 --> 00:44:42,000
+ Is the daughter of an incredibly powerful wizard as well so it's a bit of that going on too?
+
+523
+00:44:42,000 --> 00:44:46,480
+ Yes I mean there's still some things I just like I think the pacing is still a bit off and it kind
+
+524
+00:44:46,480 --> 00:44:54,240
+ of drags a bit in the second half. The first book had some problems with its depictions of like
+
+525
+00:44:54,240 --> 00:44:59,520
+ non-white characters and I think that has improved because it's focusing more on
+
+526
+00:45:00,400 --> 00:45:05,920
+ you know it's focusing more on different aspects of privilege I think so so I felt this one was
+
+527
+00:45:05,920 --> 00:45:10,480
+ was somewhat better but the kind of protagonist is still of mixed heritage which
+
+528
+00:45:10,480 --> 00:45:15,680
+ is basically very rarely mentioned I almost completely forgotten about that and then it kind of
+
+529
+00:45:15,680 --> 00:45:20,640
+ get mentioned about halfway through and I'm like oh yes that was a backstory and also the ending is
+
+530
+00:45:20,640 --> 00:45:25,120
+ like oh yes of course that happened I knew that was going to happen because that's the way you have
+
+531
+00:45:25,120 --> 00:45:29,680
+ to keep the tension going for the third book but other than that I did enjoy it and I will read
+
+532
+00:45:29,680 --> 00:45:36,160
+ the third or which I think has the potential to be a very different sort of story in the way that
+
+533
+00:45:36,160 --> 00:45:40,880
+ the second book leaves it and yeah I enjoyed it. It's also one of those books that you absolutely
+
+534
+00:45:40,880 --> 00:45:44,320
+ like devour like I think I read it over two days or something you just sit down it's very
+
+535
+00:45:44,320 --> 00:45:48,720
+ more rich and you keep turning the pages which is definitely one of Noremeneurvic skills.
+
+536
+00:45:48,720 --> 00:45:54,880
+ I assume that the point about her being a powerful wizard and having a powerful mother
+
+537
+00:45:55,680 --> 00:46:01,840
+ is not in order to effect change to class-based systems in the real world you also need to have
+
+538
+00:46:01,840 --> 00:46:08,960
+ a little bit of privilege to help you along right so like that doesn't seem like a bad point to me.
+
+539
+00:46:08,960 --> 00:46:15,600
+ Yeah yeah but the point is that the reason she is a very powerful wizard who has a very powerful
+
+540
+00:46:15,600 --> 00:46:22,000
+ mother but does not herself have privilege is because her mother explicitly rejected it before
+
+541
+00:46:22,000 --> 00:46:28,480
+ the series of book starts so so she's been kind of she's kind of been set up as an outsider star
+
+542
+00:46:28,480 --> 00:46:31,760
+ you know. Yeah I mean I haven't read the second book yet.
+
+543
+00:46:31,760 --> 00:46:37,120
+ Yes but I mean there's kind of magical power and there's kind of you know there's sort of two
+
+544
+00:46:37,120 --> 00:46:41,440
+ aspects so there's raw magical power and yeah the structural power of how the kind of wizarding
+
+545
+00:46:41,440 --> 00:46:48,080
+ society is structured and she has the former but absolutely does not have the latter and it's how
+
+546
+00:46:48,080 --> 00:46:52,480
+ she kind of teams with people who have the latter essentially. I mean it does feel in in some ways
+
+547
+00:46:52,480 --> 00:47:00,160
+ like a bit of a reposter to Harry Potter where you know magical society is completely broken
+
+548
+00:47:00,160 --> 00:47:04,960
+ and no one seems to be bothered by this. It's very clearly a reaction to Harry Potter.
+
+549
+00:47:04,960 --> 00:47:09,200
+ I quite like the way in the first book and it sounds like in the second book that it is
+
+550
+00:47:09,200 --> 00:47:13,600
+ kind of challenging some of the underlying class assumptions that are in the Harry Potter books
+
+551
+00:47:14,480 --> 00:47:19,040
+ that's good. And which don't get challenged despite the fact that you think that the Harry
+
+552
+00:47:19,040 --> 00:47:25,360
+ Potter novels are setting them up for challenge it turned out that it was much easier and better
+
+553
+00:47:25,360 --> 00:47:33,040
+ for rolling in terms of her success to just kind of perpetrate them perpetuate them.
+
+554
+00:47:33,040 --> 00:47:40,000
+ Yeah so so this is good in that way. That was the Octa thought podcast and it's goodbye from me.
+
+555
+00:47:40,000 --> 00:47:44,320
+ It's goodbye from me and it's goodbye from me.
+
+556
+00:47:45,200 --> 00:48:02,640
+ [Music]
+
+557
+00:48:02,640 --> 00:48:11,120
+ I will find a photograph of me to put in the show notes which demonstrates how sweaty I get when I
+
+558
+00:48:11,120 --> 00:48:18,560
+ dance and the answer is very so like I was at a wedding disco and like I'm just so sweaty.
+
+559
+00:48:18,560 --> 00:48:22,320
+ I don't know if you can tell how sweaty I am from the photo but it's a great photo so
+
+560
+00:48:22,320 --> 00:48:23,760
+ it's going in the show notes anyway.
+
+561
+00:48:23,760 --> 00:48:26,160
+ As long as it's a great photo it can go in the show notes I think.
+
+562
+00:48:26,160 --> 00:48:32,000
+ Okay that photo can oh god that photo could go in the show notes that's quite funny photo.
+
+563
+00:48:32,000 --> 00:48:36,000
+ Anyway I think a lot of this should probably go because we're talking nonsense and we're still
+
+564
+00:48:36,000 --> 00:48:42,080
+ on the letters of comment. Did you miss us listeners are you happy we're back we're talking nonsense
+
+565
+00:48:42,080 --> 00:48:45,520
+ and we're still in the letters of comment. I've really missed you guys.
+
+566
+00:48:45,520 --> 00:48:50,720
+ That's not even your wedding is it John? No that is my friend Chris's wedding.
+
+567
+00:48:50,720 --> 00:48:56,800
+ There is a photo of me at a different wedding in which I am sweaty yeah which is this wedding.
+
+568
+00:48:56,800 --> 00:49:00,480
+ You just always tie your tie around your head if you get a bit sweaty.
+
+569
+00:49:00,480 --> 00:49:07,440
+ Obviously why else is it therefore? Spilling ketchup on oh god that's quite intense that is
+
+570
+00:49:07,440 --> 00:49:12,160
+ that is very intense. I look like I've just been working out in the gym in that last one.
+
+571
+00:49:12,160 --> 00:49:18,400
+ That's a proper proper sway mess. You look like you're about to hack a hole in a door with an axe
+
+572
+00:49:18,400 --> 00:49:23,840
+ and stick your head through it John. I was gonna say you look like you should be carrying a big
+
+573
+00:49:23,840 --> 00:49:29,360
+ sword with murderous intent to that one. Huddley you guys might be able to see can you see these
+
+574
+00:49:29,360 --> 00:49:34,560
+ pictures like directly on my Facebook if I just post this link in can you just go through because
+
+575
+00:49:34,560 --> 00:49:41,120
+ there's like a bunch of them from the just got like a you just have like an album of John being
+
+576
+00:49:41,120 --> 00:49:47,440
+ sweaty. So it's a very niche Facebook album. Are you like sending you know paid access links to it?
+
+577
+00:49:47,440 --> 00:49:55,920
+ Oh these are all gold. I know right but I go hard at weddings Liz I when I'm dancing I'm
+
+578
+00:49:55,920 --> 00:50:03,040
+ moving. I'm moving about and I am sweaty. Good thought. There is like not a single photo of you.
+
+579
+00:50:03,040 --> 00:50:09,120
+ I have a dynamic man with dynamic. Even the one where it's just literally your head over
+
+580
+00:50:09,120 --> 00:50:12,800
+ someone else's shoulder. Oh and now you're on a convention panel and you look you look
+
+581
+00:50:12,800 --> 00:50:21,200
+ more sober. I've hit you far. Boo boo. Oh there's one of you as a there's one of you as the pub
+
+582
+00:50:21,200 --> 00:50:26,640
+ boar. Oh yeah no that is fair. I look like I look like the old boy that you'd find in the
+
+583
+00:50:26,640 --> 00:50:35,360
+ members area a cricket ground in that photo. Anyway um we were doing a podcast I think. There's quite a
+
+584
+00:50:35,360 --> 00:50:42,720
+ long digression about sweaty John. I mean that could mostly go. It's not all gold John. You know
+
+585
+00:50:42,720 --> 00:50:46,560
+ you notice I don't know if you've noticed but in the show notes I've updated the name of the
+
+586
+00:50:46,560 --> 00:50:53,200
+ episode to embrace the sweat. So you may be you may be slightly missing everything when my editorial
+
+587
+00:50:53,200 --> 00:50:59,120
+ vision is going on this one which is full sweaty. The theme music for this episode was
+
+588
+00:50:59,120 --> 00:51:06,240
+ Fanfare for Space by Kevin McLeod and Competec.com used under a creative commons attribution 4.0 license.
+
+589
+00:51:06,240 --> 00:51:09,920
+ This podcast will end at the beep. Beep.
+
+590
+00:51:09,920 --> 00:51:19,880
+ [BLANK_AUDIO]
+

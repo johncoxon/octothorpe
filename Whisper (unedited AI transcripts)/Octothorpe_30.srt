@@ -1,0 +1,3688 @@
+1
+00:00:00,000 --> 00:00:03,560
+ I was doing that thing where it uses all my CPU and then crashes.
+
+2
+00:00:03,560 --> 00:00:05,800
+ So if that happens, I'll see you in a minute.
+
+3
+00:00:05,800 --> 00:00:06,800
+ Uh oh.
+
+4
+00:00:06,800 --> 00:00:08,880
+ Okay, well we'll see you in a minute.
+
+5
+00:00:08,880 --> 00:00:12,960
+ He just managed to say that before it used all his CPU and then crashed, didn't he?
+
+6
+00:00:12,960 --> 00:00:14,800
+ Yeah, he's frozen.
+
+7
+00:00:14,800 --> 00:00:28,120
+ This does not normally happen, viewers.
+
+8
+00:00:28,120 --> 00:00:34,360
+ Hello everyone and welcome to the very 30th episode of OctaThaw, being an installment
+
+9
+00:00:34,360 --> 00:00:36,880
+ of OctaThaw Live.
+
+10
+00:00:36,880 --> 00:00:38,520
+ Pause for ooze.
+
+11
+00:00:38,520 --> 00:00:41,880
+ Pause for ooze.
+
+12
+00:00:41,880 --> 00:00:42,880
+ Ooooh.
+
+13
+00:00:42,880 --> 00:00:43,880
+ There it is.
+
+14
+00:00:43,880 --> 00:00:46,600
+ Oh, you met from us.
+
+15
+00:00:46,600 --> 00:00:48,000
+ Well no one else can talk.
+
+16
+00:00:48,000 --> 00:00:51,520
+ Uh, this episode will be going out on the 29th of April.
+
+17
+00:00:51,520 --> 00:00:53,080
+ I'm John Coxon.
+
+18
+00:00:53,080 --> 00:00:54,080
+ I'm Alison Scott.
+
+19
+00:00:54,080 --> 00:00:56,440
+ And I'm Liz Batty.
+
+20
+00:00:56,440 --> 00:01:00,640
+ So we have a myriad of letters of comment today.
+
+21
+00:01:00,640 --> 00:01:06,440
+ We have tweets of comment, discords of comment, Facebook messages of comment, emails of comment,
+
+22
+00:01:06,440 --> 00:01:08,440
+ many other forms of comment are available.
+
+23
+00:01:08,440 --> 00:01:11,440
+ Please check your local comment vendor for details.
+
+24
+00:01:11,440 --> 00:01:17,880
+ Chris Garcia writes in to apologise for not locking us last issue.
+
+25
+00:01:17,880 --> 00:01:23,120
+ Yeah, Chris Garcia notes that he's sorry for not locking the last episode, but he was busy
+
+26
+00:01:23,120 --> 00:01:24,520
+ being fired.
+
+27
+00:01:24,520 --> 00:01:27,320
+ Um, which is very sad.
+
+28
+00:01:27,320 --> 00:01:28,760
+ Sorry Chris.
+
+29
+00:01:28,760 --> 00:01:31,200
+ We hope you find employment soon.
+
+30
+00:01:31,200 --> 00:01:35,600
+ Chris also says, congratulations to Hugo nominated, fanzine editor, John the Rock of
+
+31
+00:01:35,600 --> 00:01:37,000
+ England Coxon.
+
+32
+00:01:37,000 --> 00:01:38,440
+ Much deserved and I hope you win.
+
+33
+00:01:38,440 --> 00:01:43,200
+ So I, I suspect that Chris is hoping that I will win is linked to the fact that if I
+
+34
+00:01:43,200 --> 00:01:44,960
+ win Chris will also win.
+
+35
+00:01:44,960 --> 00:01:50,360
+ So I think it might not be an entirely altruistic expression of hoping of winness.
+
+36
+00:01:50,360 --> 00:01:54,800
+ Okay, I know I was told that there was a subject I was not allowed to snuck about on
+
+37
+00:01:54,800 --> 00:01:59,600
+ this podcast, but you were really trying my patience at this point, John.
+
+38
+00:01:59,600 --> 00:02:03,480
+ And then he says, congratulations, Alison on the doc we are, which is much deserved
+
+39
+00:02:03,480 --> 00:02:06,520
+ and that certificate you shared on the social media was phenomenal.
+
+40
+00:02:06,520 --> 00:02:07,520
+ You're awesome.
+
+41
+00:02:07,520 --> 00:02:08,680
+ That's very nice.
+
+42
+00:02:08,680 --> 00:02:11,520
+ Thank you.
+
+43
+00:02:11,520 --> 00:02:13,600
+ And then he says other things.
+
+44
+00:02:13,600 --> 00:02:14,800
+ Hurrah.
+
+45
+00:02:14,800 --> 00:02:15,960
+ And then he signs it yours.
+
+46
+00:02:15,960 --> 00:02:16,960
+ John Coxon.
+
+47
+00:02:16,960 --> 00:02:19,000
+ Wait, no, I meant Chris Garcia.
+
+48
+00:02:19,000 --> 00:02:20,640
+ He's working very hard at it.
+
+49
+00:02:20,640 --> 00:02:26,160
+ I want to read out Mark Plummer of Croydon's Lock in Full because I thought it was very
+
+50
+00:02:26,160 --> 00:02:33,040
+ funny and I will try to read it out without laughing while I do it.
+
+51
+00:02:33,040 --> 00:02:36,640
+ Claire and I were playing Arkham Horror earlier.
+
+52
+00:02:36,640 --> 00:02:39,920
+ Things started getting interesting around the fifth turn.
+
+53
+00:02:39,920 --> 00:02:45,160
+ I rolled a six and advanced my Charles Dexteward figure, the appropriate number of spaces.
+
+54
+00:02:45,160 --> 00:02:46,600
+ Excellent, I thought.
+
+55
+00:02:46,600 --> 00:02:50,400
+ As I rummaged in the papers in front of me, handed over $100 and positioned by little
+
+56
+00:02:50,400 --> 00:02:53,080
+ green plastic house on the square.
+
+57
+00:02:53,080 --> 00:02:56,680
+ Next time around I'd be able to build a hotel on Dunwich.
+
+58
+00:02:56,680 --> 00:02:58,160
+ Fiendish indeed.
+
+59
+00:02:58,160 --> 00:03:00,640
+ Claire picked up the die and rolled a two.
+
+60
+00:03:00,640 --> 00:03:02,160
+ Hmm, not so good.
+
+61
+00:03:02,160 --> 00:03:06,800
+ She moved her Nathaniel Wingate Peasley forward and decided to try a theory.
+
+62
+00:03:06,800 --> 00:03:12,320
+ Was it Naira Lothotep in the Miskatonic University with the blast from a cycle?
+
+63
+00:03:12,320 --> 00:03:14,320
+ That's pretty horrifying, I said.
+
+64
+00:03:14,320 --> 00:03:18,320
+ And this is Arkham Horror and the objective is to be horrifying except no, that's not
+
+65
+00:03:18,320 --> 00:03:20,400
+ the answer, my turn.
+
+66
+00:03:20,400 --> 00:03:22,320
+ I picked a card and read it out.
+
+67
+00:03:22,320 --> 00:03:23,320
+ Damn.
+
+68
+00:03:23,320 --> 00:03:25,040
+ Go to the mountains of madness.
+
+69
+00:03:25,040 --> 00:03:26,920
+ Go directly to the mountains of madness.
+
+70
+00:03:26,920 --> 00:03:28,440
+ Do not pass in's mouth.
+
+71
+00:03:28,440 --> 00:03:31,520
+ Do not collect the sport of the forgotten.
+
+72
+00:03:31,520 --> 00:03:34,240
+ Claire sensed that the tables had turned and went on the offensive.
+
+73
+00:03:34,240 --> 00:03:36,920
+ E3, she said triumphantly.
+
+74
+00:03:36,920 --> 00:03:39,320
+ I threw down my card's infrastration.
+
+75
+00:03:39,320 --> 00:03:43,000
+ Blast, you've sunk my shop digger-ath.
+
+76
+00:03:43,000 --> 00:03:44,240
+ Thank you Mark.
+
+77
+00:03:44,240 --> 00:03:45,760
+ We thought that was very good.
+
+78
+00:03:45,760 --> 00:03:49,280
+ It made me kickle quite a lot when I read it.
+
+79
+00:03:49,280 --> 00:03:52,720
+ What's really interesting is that I know that you have not in fact played the Arkham
+
+80
+00:03:52,720 --> 00:03:58,000
+ Horror card game but that is pretty much what it was like so, you know.
+
+81
+00:03:58,000 --> 00:04:01,240
+ Hmm, right, okay.
+
+82
+00:04:01,240 --> 00:04:02,240
+ Yeah.
+
+83
+00:04:02,240 --> 00:04:08,760
+ I, hmm, it makes me wonder whether you were paying as much attention as I was when we played
+
+84
+00:04:08,760 --> 00:04:11,240
+ it together but maybe that's unfair.
+
+85
+00:04:11,240 --> 00:04:15,280
+ Don, I'm never paying as much attention because I know you were paying attention.
+
+86
+00:04:15,280 --> 00:04:20,080
+ That is why I like, I asked you ten times yesterday whether I'd used to pull my actions
+
+87
+00:04:20,080 --> 00:04:23,760
+ and you had to be like, I'm not actually tracking every single thing you were doing in this
+
+88
+00:04:23,760 --> 00:04:24,760
+ game, Liz.
+
+89
+00:04:24,760 --> 00:04:27,160
+ Alright, so...
+
+90
+00:04:27,160 --> 00:04:28,160
+ More letters.
+
+91
+00:04:28,160 --> 00:04:32,320
+ Mark did also raise another lock in which he doesn't talk about Arkham Horror almost
+
+92
+00:04:32,320 --> 00:04:33,320
+ at all.
+
+93
+00:04:33,320 --> 00:04:35,360
+ He mentions it a little bit.
+
+94
+00:04:35,360 --> 00:04:40,240
+ This is a lovely glimpse of, you know, life into a certain, Croydon-Fanish household.
+
+95
+00:04:40,240 --> 00:04:45,760
+ Um, but I think, I think he, I think he raises a good point which is that when he goes to
+
+96
+00:04:45,760 --> 00:04:49,240
+ it in person he's gone, he's essentially going on holiday with his mates, most of whom he
+
+97
+00:04:49,240 --> 00:04:50,240
+ doesn't see otherwise.
+
+98
+00:04:50,240 --> 00:04:54,000
+ I think, and he says, as such, he thinks the quality of the convention is only a contributing
+
+99
+00:04:54,000 --> 00:04:55,320
+ factor to the experience.
+
+100
+00:04:55,320 --> 00:04:59,680
+ I think that is, um, basically true in that, and it's something I've been talking about
+
+101
+00:04:59,680 --> 00:05:03,840
+ a little bit since confusion wrapped up which is, I had fun at confusion and I think it is
+
+102
+00:05:03,840 --> 00:05:10,160
+ worth bearing in mind that it would have been very impressive had I not given how many
+
+103
+00:05:10,160 --> 00:05:13,360
+ of my friends were all in the same place that weekend.
+
+104
+00:05:13,360 --> 00:05:18,480
+ I think it would be very difficult, uh, not to enjoy yourself in some ways.
+
+105
+00:05:18,480 --> 00:05:22,600
+ Um, so I do, I do think that is something worth bearing in mind that we are always kind
+
+106
+00:05:22,600 --> 00:05:25,280
+ of grading on a curve, I guess.
+
+107
+00:05:25,280 --> 00:05:30,800
+ Yeah, but also I think, I even a really terrible Easter con is fun because you're essentially
+
+108
+00:05:30,800 --> 00:05:35,360
+ on holiday with your mates and confusion could not fall back on the fun of being on holiday
+
+109
+00:05:35,360 --> 00:05:38,400
+ with your mates because we were not on holiday with our mates.
+
+110
+00:05:38,400 --> 00:05:43,600
+ Yeah, he talks about the experience of being in gather and finding himself talking to a
+
+111
+00:05:43,600 --> 00:05:48,040
+ couple of unexpectedly interesting people and then, and then other unexpectedly interesting
+
+112
+00:05:48,040 --> 00:05:50,800
+ people turned up, which I think is right.
+
+113
+00:05:50,800 --> 00:05:54,840
+ But also having the experience of, um, trying to talk to someone in gather and they ran past
+
+114
+00:05:54,840 --> 00:05:57,840
+ a hundred miles an hour, which does happen at conventions too.
+
+115
+00:05:57,840 --> 00:05:58,840
+ So, you know.
+
+116
+00:05:58,840 --> 00:06:03,560
+ Well, that's a story where I remember it because it was me who ran past.
+
+117
+00:06:03,560 --> 00:06:06,440
+ So I noticed Mark was in the cantina.
+
+118
+00:06:06,440 --> 00:06:08,960
+ So I went up to him and I said, "Hi Mark."
+
+119
+00:06:08,960 --> 00:06:13,320
+ And by the time he had managed to unmute and video himself, I had already gone back to
+
+120
+00:06:13,320 --> 00:06:14,320
+ newsletter.
+
+121
+00:06:14,320 --> 00:06:19,120
+ Uh, but you know, I was, I was, I was, I was in a rush to get back to these letter, uh,
+
+122
+00:06:19,120 --> 00:06:25,560
+ because I owed things to the newsletter, like my soul, my blood, my sweat and my tears.
+
+123
+00:06:25,560 --> 00:06:31,480
+ On the subject of confusion, DC also writes in and they say that they think it is important
+
+124
+00:06:31,480 --> 00:06:35,760
+ to note explicitly with regard to confusion that there were not just potential accessibility
+
+125
+00:06:35,760 --> 00:06:42,200
+ issues with the platforms used, but there were issues, um, which impacted negatively
+
+126
+00:06:42,200 --> 00:06:47,120
+ all members and which led to people in the community not joining, uh, confusion.
+
+127
+00:06:47,120 --> 00:06:50,600
+ And they kind of know that some of these are things that affect people with visual hearing
+
+128
+00:06:50,600 --> 00:06:51,920
+ or neuromotor problems.
+
+129
+00:06:51,920 --> 00:06:57,320
+ And I think, I think, um, and they say that they know we weren't trying to minimize those
+
+130
+00:06:57,320 --> 00:07:01,200
+ things in any way, but it would be a wrong to overlook the extent to which various groups
+
+131
+00:07:01,200 --> 00:07:03,440
+ of people felt actively excluded.
+
+132
+00:07:03,440 --> 00:07:04,440
+ Um, yes.
+
+133
+00:07:04,440 --> 00:07:06,920
+ We are, we didn't intend to minimize that.
+
+134
+00:07:06,920 --> 00:07:09,440
+ And we are very sorry, uh, if it came across that way.
+
+135
+00:07:09,440 --> 00:07:13,200
+ Um, we did, I think spent quite a lot of time in the run up to confusion, discussing how
+
+136
+00:07:13,200 --> 00:07:19,320
+ their pre-con decisions were, um, uh, making those groups of people feel disenfranchised.
+
+137
+00:07:19,320 --> 00:07:24,360
+ And I think, um, uh, that's one of the reasons we didn't touch on it as much last, uh, episode.
+
+138
+00:07:24,360 --> 00:07:26,400
+ Uh, but yes, it's a very good point.
+
+139
+00:07:26,400 --> 00:07:28,760
+ And, uh, we thank DC for bringing it up.
+
+140
+00:07:28,760 --> 00:07:29,760
+ Yeah.
+
+141
+00:07:29,760 --> 00:07:34,040
+ I think it's a, also a good point that, uh, you know, sometimes if I, uh, complain about
+
+142
+00:07:34,040 --> 00:07:38,120
+ conventions, communication decisions, it's merely things that are like slightly inconveniencing
+
+143
+00:07:38,120 --> 00:07:41,640
+ me or annoying me a little bit, but for other people, they can actually be deal breakers
+
+144
+00:07:41,640 --> 00:07:44,280
+ about whether they can attend the convention or not.
+
+145
+00:07:44,280 --> 00:07:46,360
+ So it's good to be reminded of that.
+
+146
+00:07:46,360 --> 00:07:52,520
+ Pat McMurray wrote in, now this is very good because Pat is kind of taking us on a tour
+
+147
+00:07:52,520 --> 00:07:57,640
+ of our back catalog in the medium of locks, which we are enjoying hugely.
+
+148
+00:07:57,640 --> 00:08:04,840
+ So Pat wrote us a lock, which, uh, he titled Octa Thorpe 2, and it is a lock which deals
+
+149
+00:08:04,840 --> 00:08:11,640
+ with Octa Thorpe's issue 21, 26, 1, 2, 27 and 29.
+
+150
+00:08:11,640 --> 00:08:18,400
+ Uh, and so this is, um, we, we, we thoroughly enjoyed, uh, this kind of, um, thoroughly enjoyed
+
+151
+00:08:18,400 --> 00:08:19,400
+ this kind of thing.
+
+152
+00:08:19,400 --> 00:08:21,320
+ Uh, and thank you very much for writing your pat.
+
+153
+00:08:21,320 --> 00:08:25,640
+ We, I'm, and I have seen a few other people, um, on Facebook been talking about something
+
+154
+00:08:25,640 --> 00:08:27,040
+ about earlier episodes.
+
+155
+00:08:27,040 --> 00:08:32,720
+ Um, and having gone back to listen to them, um, we apologise, uh, so Alison's first recording
+
+156
+00:08:32,720 --> 00:08:38,280
+ studio was a well, uh, and mine was a sort of muffly scratchy haystack that I was embedded
+
+157
+00:08:38,280 --> 00:08:41,880
+ in and Liz was obviously on the beach the whole time.
+
+158
+00:08:41,880 --> 00:08:47,440
+ Uh, so we have, uh, substantially reworked our recording environment since then.
+
+159
+00:08:47,440 --> 00:08:50,920
+ We apologise for the, for the less good audio quality of those first episodes.
+
+160
+00:08:50,920 --> 00:08:53,760
+ Um, but we glad the people are going back to them and enjoying them.
+
+161
+00:08:53,760 --> 00:08:55,960
+ Um, and thank you for the lock.
+
+162
+00:08:55,960 --> 00:08:58,360
+ That is nice to, to read.
+
+163
+00:08:58,360 --> 00:09:03,680
+ I enjoyed Pat's lock because it's a bit like turning Octa Thorpe into some kind of like
+
+164
+00:09:03,680 --> 00:09:05,680
+ time loop podcast.
+
+165
+00:09:05,680 --> 00:09:08,680
+ It occurs in a non-linear fashion, which I think is fun.
+
+166
+00:09:08,680 --> 00:09:11,840
+ Maybe you should do a non-linear podcast one day, but that will annoy everyone.
+
+167
+00:09:11,840 --> 00:09:15,440
+ I'm pretty sure that mentioning the fact that it's a time loop is a spoiler.
+
+168
+00:09:15,440 --> 00:09:21,080
+ I'd also say to those of you who are watching on Octa Thorpe Live, you can see how John
+
+169
+00:09:21,080 --> 00:09:25,560
+ and Alison have, you know, gone for upgraded and more impressive kit, whereas I'm still
+
+170
+00:09:25,560 --> 00:09:29,480
+ using the same 15 quid headset that I got for free, that I was using on Octa Thorpe
+
+171
+00:09:29,480 --> 00:09:34,000
+ one one day I will buy a better microphone, but much like an iPhone, I have not yet been
+
+172
+00:09:34,000 --> 00:09:35,000
+ pressured into it.
+
+173
+00:09:35,000 --> 00:09:39,040
+ Yeah, my microphone comes courtesy of Chris O'Shea.
+
+174
+00:09:39,040 --> 00:09:40,040
+ Thank you very much, Chris.
+
+175
+00:09:40,040 --> 00:09:45,200
+ Um, I, I, at some point I too will buy a better microphone, but it doesn't happen yet.
+
+176
+00:09:45,200 --> 00:09:48,680
+ My microphone came from a place called Argos.
+
+177
+00:09:48,680 --> 00:09:53,360
+ Tara Mendelson wrote to us on Facebook Messenger to say that Robin Hobb is a huge Jigsaw fan
+
+178
+00:09:53,360 --> 00:09:58,960
+ and at LungCon 3 they made three of her book covers into Jigsaw's for the social space
+
+179
+00:09:58,960 --> 00:10:01,840
+ in exhibits and then gave them to her after the convention.
+
+180
+00:10:01,840 --> 00:10:07,240
+ So this is, I think, a letter of comment based on an early episode of Octa Thorpe, as I was
+
+181
+00:10:07,240 --> 00:10:08,240
+ just referencing.
+
+182
+00:10:08,240 --> 00:10:14,840
+ Yes, unlike, unlike Pat, Pharah is listening to Octa Thorpe in numerical order.
+
+183
+00:10:14,840 --> 00:10:17,640
+ I don't think it makes any more sense that way.
+
+184
+00:10:17,640 --> 00:10:20,800
+ It may even make less sense to listen to it in the order we did it.
+
+185
+00:10:20,800 --> 00:10:27,000
+ It might be that Pat is discovering hidden themes that are not visible to the normal
+
+186
+00:10:27,000 --> 00:10:28,000
+ listener.
+
+187
+00:10:28,000 --> 00:10:32,600
+ Bridget says, "Opportunity for a whole new trench of rhyming poems."
+
+188
+00:10:32,600 --> 00:10:39,420
+ So Mike, my thought was really what there were three giant Robin Hobb book cover jigs
+
+189
+00:10:39,420 --> 00:10:40,960
+ alls in the social space in exhibits.
+
+190
+00:10:40,960 --> 00:10:44,920
+ I never saw those and then I remembered that so I didn't see anything at LungCon apart
+
+191
+00:10:44,920 --> 00:10:46,960
+ from the inside of ProgramOps.
+
+192
+00:10:46,960 --> 00:10:47,960
+ Yay!
+
+193
+00:10:47,960 --> 00:10:51,720
+ I saw some other stuff but I did not find the jigs source.
+
+194
+00:10:51,720 --> 00:10:52,720
+ That's fair.
+
+195
+00:10:52,720 --> 00:10:58,320
+ I explored the exhibits hall vigorously and thought it was fantastic and well done to
+
+196
+00:10:58,320 --> 00:11:00,560
+ everyone involved in putting it together.
+
+197
+00:11:00,560 --> 00:11:04,760
+ But that's because you were 17 at LungCon and that's how it works.
+
+198
+00:11:04,760 --> 00:11:07,640
+ That's an outrageous lie.
+
+199
+00:11:07,640 --> 00:11:09,000
+ An outrageous lie.
+
+200
+00:11:09,000 --> 00:11:10,800
+ I was 25.
+
+201
+00:11:10,800 --> 00:11:16,600
+ Yes, 25 because I was still a young person for the purposes of paying for membership.
+
+202
+00:11:16,600 --> 00:11:17,600
+ Just.
+
+203
+00:11:17,600 --> 00:11:18,600
+ Oh god.
+
+204
+00:11:18,600 --> 00:11:19,600
+ Oh god.
+
+205
+00:11:19,600 --> 00:11:22,640
+ And we've also had a couple of tweets of comment.
+
+206
+00:11:22,640 --> 00:11:27,720
+ There's one from Androsan who says there is one thing she's fairly confident she could
+
+207
+00:11:27,720 --> 00:11:32,640
+ do with its cross-platform accessible instructional video and she says send anything you need doing
+
+208
+00:11:32,640 --> 00:11:33,640
+ her way.
+
+209
+00:11:33,640 --> 00:11:40,360
+ So anyone who wants accessible videos, her Twitter username is A-N-G_G-R-R-R.
+
+210
+00:11:40,360 --> 00:11:42,360
+ I think she meant us.
+
+211
+00:11:42,360 --> 00:11:45,360
+ Oh did she.
+
+212
+00:11:45,360 --> 00:11:49,400
+ I don't think she read everyone in the world.
+
+213
+00:11:49,400 --> 00:11:50,400
+ Oh no.
+
+214
+00:11:50,400 --> 00:11:52,880
+ Not everyone in the world is listening to this podcast.
+
+215
+00:11:52,880 --> 00:11:54,280
+ It'll be fine.
+
+216
+00:11:54,280 --> 00:11:57,960
+ Yeah, but you have to count all the people in the future who go back and listen to it
+
+217
+00:11:57,960 --> 00:12:01,880
+ either in numerical order or in random date order.
+
+218
+00:12:01,880 --> 00:12:07,000
+ And Peter Sullivan tweeted to say a killer feature of Gather that we didn't mention was
+
+219
+00:12:07,000 --> 00:12:11,320
+ the ability to find anyone else in Gather using the magic red line on the floor.
+
+220
+00:12:11,320 --> 00:12:16,200
+ I would gladly consider giving tech ops whatever tech budget they need to be able to replicate
+
+221
+00:12:16,200 --> 00:12:17,600
+ this in real life.
+
+222
+00:12:17,600 --> 00:12:24,040
+ I am also very fond of the Stalkure mates option in Gather.
+
+223
+00:12:24,040 --> 00:12:31,040
+ And actually in fact if you'd like to talk to Alison about giving everyone at the Convention
+
+224
+00:12:31,040 --> 00:12:36,960
+ and Oculus Quest 2 and setting this up, I'm sure Alison would be very interested in working
+
+225
+00:12:36,960 --> 00:12:37,960
+ with you on it.
+
+226
+00:12:37,960 --> 00:12:43,480
+ The third way to use a name is B-O-H-E-M.
+
+227
+00:12:43,480 --> 00:12:50,720
+ But also, I mean when you said that I was like, oh I wonder if you took the EasterCon
+
+228
+00:12:50,720 --> 00:12:54,680
+ tech budget, how many Oculus Quest sort of that have bought?
+
+229
+00:12:54,680 --> 00:12:58,760
+ Is this a bit like if you look at the Test and Trace budget in the UK, you could have just
+
+230
+00:12:58,760 --> 00:13:02,360
+ sent everyone in the country an iPhone and had them switch tracking on?
+
+231
+00:13:02,360 --> 00:13:03,360
+ That's actually true.
+
+232
+00:13:03,360 --> 00:13:04,960
+ That's how much they spent.
+
+233
+00:13:04,960 --> 00:13:07,200
+ Very very large amount of money.
+
+234
+00:13:07,200 --> 00:13:11,160
+ That's not, that's because the actual job of Test anyway, sorry that's definitely off
+
+235
+00:13:11,160 --> 00:13:15,560
+ topic and we are definitely not talking about it.
+
+236
+00:13:15,560 --> 00:13:18,720
+ Don your iPhone cannot yet do a PCR test.
+
+237
+00:13:18,720 --> 00:13:20,720
+ Lies, maybe.
+
+238
+00:13:20,720 --> 00:13:22,480
+ I'm sure Apple will, you know.
+
+239
+00:13:22,480 --> 00:13:26,120
+ If I shove it far enough down my throat, Liz will see.
+
+240
+00:13:26,120 --> 00:13:31,320
+ Okay, where anyone would like to suggest where we might shove John's iPhone far enough,
+
+241
+00:13:31,320 --> 00:13:33,600
+ I should mention it in chat.
+
+242
+00:13:33,600 --> 00:13:37,280
+ Things now said that when we were discussing the problems of an ops room trying to hard
+
+243
+00:13:37,280 --> 00:13:41,080
+ to replicate a physical convention, it struck him that there's an extremely useful point
+
+244
+00:13:41,080 --> 00:13:42,080
+ of reflection here.
+
+245
+00:13:42,080 --> 00:13:45,960
+ Not only did they fail in trying to replicate a physical convention in the use of a walkie
+
+246
+00:13:45,960 --> 00:13:49,280
+ talkie apps in an ops room, but in fact they seriously dropped the ball in normalizing the
+
+247
+00:13:49,280 --> 00:13:52,280
+ use of additional channels and providing support.
+
+248
+00:13:52,280 --> 00:13:58,160
+ And he basically says he thinks that future conventions should promote use of tools like
+
+249
+00:13:58,160 --> 00:14:03,480
+ Discord so you can easily report problems from around the convention to ops without needing
+
+250
+00:14:03,480 --> 00:14:05,560
+ to travel to the ops room.
+
+251
+00:14:05,560 --> 00:14:10,760
+ And I think this is something that future conventions are thinking about and is a good
+
+252
+00:14:10,760 --> 00:14:16,800
+ idea and I'm looking forward to seeing that kind of thing being taken up by future East
+
+253
+00:14:16,800 --> 00:14:17,800
+ Cons.
+
+254
+00:14:17,800 --> 00:14:20,480
+ And it's actually very good to do it in Discord because I've seen this kind of thing happen
+
+255
+00:14:20,480 --> 00:14:24,760
+ on Twitter, but then if 10 people all send you a message on Twitter saying this thing
+
+256
+00:14:24,760 --> 00:14:27,880
+ is going wrong, then you have to reply to all 10 of them say, "Yep, we're aware we're
+
+257
+00:14:27,880 --> 00:14:28,880
+ going to fix it."
+
+258
+00:14:28,880 --> 00:14:31,400
+ In Discord you can do that once and then everyone's like, "Yep, all right, they're
+
+259
+00:14:31,400 --> 00:14:34,960
+ on top of it, sit back, relax, except they're not because I found this will probably send
+
+260
+00:14:34,960 --> 00:14:35,960
+ other 10 messages."
+
+261
+00:14:35,960 --> 00:14:38,840
+ But in theory that would work.
+
+262
+00:14:38,840 --> 00:14:39,840
+ The chat's going wild.
+
+263
+00:14:39,840 --> 00:14:43,240
+ If they want to set up a poll, but I wasn't paying enough attention to know what the poll
+
+264
+00:14:43,240 --> 00:14:44,560
+ they want us to set up is.
+
+265
+00:14:44,560 --> 00:14:45,560
+ So, you know.
+
+266
+00:14:45,560 --> 00:14:49,280
+ We're definitely not setting up a poll guys, we're recording a podcast.
+
+267
+00:14:49,280 --> 00:14:50,920
+ Wait for chat afterwards.
+
+268
+00:14:50,920 --> 00:14:55,520
+ Can we set up a non-legally binding consultative referend?
+
+269
+00:14:55,520 --> 00:14:57,200
+ We are going to do that more later.
+
+270
+00:14:57,200 --> 00:14:58,200
+ We are.
+
+271
+00:14:58,200 --> 00:15:05,440
+ For shadowing, and then lastly and bestly and PhD-resistant-slee, it is Claire Breyerley
+
+272
+00:15:05,440 --> 00:15:09,760
+ from Croydon, who says, "Thank you very much for the compliments, but why don't you write
+
+273
+00:15:09,760 --> 00:15:10,760
+ to us?
+
+274
+00:15:10,760 --> 00:15:14,640
+ You really are living the closest a podcast can get to the fanzine life, aren't you?"
+
+275
+00:15:14,640 --> 00:15:17,600
+ That is a fair comment.
+
+276
+00:15:17,600 --> 00:15:22,840
+ Lots of you wrote to us this time and you will know because next, if we carry on getting
+
+277
+00:15:22,840 --> 00:15:28,120
+ this many letters, we are going to have to institute a, we also heard from section on
+
+278
+00:15:28,120 --> 00:15:29,120
+ our podcast.
+
+279
+00:15:29,120 --> 00:15:31,920
+ They wanted to do a poll of where you stick the iPhone.
+
+280
+00:15:31,920 --> 00:15:32,920
+ Yes.
+
+281
+00:15:32,920 --> 00:15:33,920
+ For God.
+
+282
+00:15:33,920 --> 00:15:34,920
+ Okay.
+
+283
+00:15:34,920 --> 00:15:35,920
+ That, yes.
+
+284
+00:15:35,920 --> 00:15:36,920
+ Family show guys.
+
+285
+00:15:36,920 --> 00:15:37,920
+ Family show.
+
+286
+00:15:37,920 --> 00:15:38,920
+ Thank you.
+
+287
+00:15:38,920 --> 00:15:40,600
+ Thank you for other details and comments.
+
+288
+00:15:40,600 --> 00:15:44,200
+ Thank you, thank you to Andrew January for the bugle reference.
+
+289
+00:15:44,200 --> 00:15:49,480
+ And also said that she thinks I'm Will Bailey in the West Wing.
+
+290
+00:15:49,480 --> 00:15:53,720
+ I haven't seen the West Wing, so like most of these references are for the enjoyment
+
+291
+00:15:53,720 --> 00:15:59,280
+ of other people, but I'm happy to let myself be used as a tool for other people's enjoyment.
+
+292
+00:15:59,280 --> 00:16:01,200
+ I'd go to, is it a good reference?
+
+293
+00:16:01,200 --> 00:16:04,280
+ Bear that in mind for future reference.
+
+294
+00:16:04,280 --> 00:16:09,640
+ Claire also notes that she enjoyed that Liz's Badger poem, and most significantly though,
+
+295
+00:16:09,640 --> 00:16:13,040
+ you've previously talked around various ways in which people multitask while listening
+
+296
+00:16:13,040 --> 00:16:16,080
+ to the podcast, but she thinks Badger has won that topic.
+
+297
+00:16:16,080 --> 00:16:19,460
+ If anyone wants to claim they were also licking their own bum while listening, well, it's
+
+298
+00:16:19,460 --> 00:16:21,400
+ really up to you whether you want proof.
+
+299
+00:16:21,400 --> 00:16:22,640
+ We do not want proof.
+
+300
+00:16:22,640 --> 00:16:25,400
+ Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+
+301
+00:16:25,400 --> 00:16:27,400
+ we don't even want to be informed really.
+
+302
+00:16:27,400 --> 00:16:29,120
+ Oh, no, we want to be informed.
+
+303
+00:16:29,120 --> 00:16:30,120
+ We just don't want you to prove.
+
+304
+00:16:30,120 --> 00:16:33,520
+ No, no, just, just informed John Coxon is, is, is.
+
+305
+00:16:33,520 --> 00:16:39,640
+ And my Twitter handle is J O H L. Right.
+
+306
+00:16:39,640 --> 00:16:41,240
+ Yes, but thank you all.
+
+307
+00:16:41,240 --> 00:16:45,640
+ As we say, thank you all very much for the lovely letters of comment.
+
+308
+00:16:45,640 --> 00:16:47,720
+ They were very nice.
+
+309
+00:16:47,720 --> 00:16:53,940
+ We have a new feature this week, which is called Ask OctaThorp, our segment.
+
+310
+00:16:53,940 --> 00:16:58,900
+ And for this first time, if there are questions you'd like the OctaThorp trio to answer, you
+
+311
+00:16:58,900 --> 00:17:01,060
+ could do it in, in chat.
+
+312
+00:17:01,060 --> 00:17:02,660
+ You can ask them in chat.
+
+313
+00:17:02,660 --> 00:17:07,140
+ And at some point we will collate them and then answer a couple of funny ones later in
+
+314
+00:17:07,140 --> 00:17:11,980
+ the show using a patented back chat method to decide which one we're going to do.
+
+315
+00:17:11,980 --> 00:17:19,700
+ Oh, you want me to make the announcement?
+
+316
+00:17:19,700 --> 00:17:22,100
+ Well, I want you to do the, I want you to do the joke.
+
+317
+00:17:22,100 --> 00:17:23,580
+ You said you do.
+
+318
+00:17:23,580 --> 00:17:30,900
+ We have decided that we are going to run punctuation to dot dot dot.
+
+319
+00:17:30,900 --> 00:17:32,300
+ That was a joke.
+
+320
+00:17:32,300 --> 00:17:33,300
+ That was a joke.
+
+321
+00:17:33,300 --> 00:17:40,420
+ That was a joke punctuation to be on the 80th to 20th of June and in traditional style, you
+
+322
+00:17:40,420 --> 00:17:41,820
+ can't quite join it yet.
+
+323
+00:17:41,820 --> 00:17:44,660
+ You'll be able to join it quite soon?
+
+324
+00:17:44,660 --> 00:17:45,660
+ Yeah.
+
+325
+00:17:45,660 --> 00:17:52,940
+ In late spring, as some of the surfants would say.
+
+326
+00:17:52,940 --> 00:17:56,660
+ So yes, it's going to cost a fiver again, but this time it's going to cost a fiver if
+
+327
+00:17:56,660 --> 00:18:00,260
+ you'd like to pay a fiver, or a tenor if you like what we're doing and would like us
+
+328
+00:18:00,260 --> 00:18:05,180
+ to support us a bit more, or nothing if you like what we're doing, but you don't want
+
+329
+00:18:05,180 --> 00:18:07,060
+ to pay a fiver.
+
+330
+00:18:07,060 --> 00:18:09,820
+ Or if you think you don't know, aren't sure if you like it or not, and want to just pop
+
+331
+00:18:09,820 --> 00:18:10,820
+ in for an hour.
+
+332
+00:18:10,820 --> 00:18:11,820
+ Yeah.
+
+333
+00:18:11,820 --> 00:18:19,620
+ So yeah, we will let you know how to do it soon, and we will also let you know how you
+
+334
+00:18:19,620 --> 00:18:20,620
+ can help.
+
+335
+00:18:20,620 --> 00:18:24,380
+ In fact, when you join, you're going to get a note saying, here's the link to tell us
+
+336
+00:18:24,380 --> 00:18:26,060
+ how you'd like to help.
+
+337
+00:18:26,060 --> 00:18:32,780
+ So we currently have on our website a big blue button, which says sign up for an email
+
+338
+00:18:32,780 --> 00:18:34,380
+ when we open registrations.
+
+339
+00:18:34,380 --> 00:18:37,620
+ And if you type in your email and click that button, we will send you an email when we
+
+340
+00:18:37,620 --> 00:18:39,260
+ open registration.
+
+341
+00:18:39,260 --> 00:18:45,260
+ If you were a member of punctuation one, we will also send you an email when we open
+
+342
+00:18:45,260 --> 00:18:46,260
+ registrations.
+
+343
+00:18:46,260 --> 00:18:50,660
+ And if you are in the discord for punctuation one, we will put in the discord when we open
+
+344
+00:18:50,660 --> 00:18:52,220
+ registrations.
+
+345
+00:18:52,220 --> 00:18:55,860
+ But that will be the only thing we post to the punctuation one mailing list, and it will
+
+346
+00:18:55,860 --> 00:18:58,980
+ be the only thing we post in the punctuation one discord.
+
+347
+00:18:58,980 --> 00:19:04,700
+ So don't worry about getting inundated with messages you're not interested in.
+
+348
+00:19:04,700 --> 00:19:09,220
+ We just want to let people know that the second one is open if they'd like to join.
+
+349
+00:19:09,220 --> 00:19:11,540
+ And yes, it's going to be good.
+
+350
+00:19:11,540 --> 00:19:18,940
+ We're going to bring back some old favourites like breakfast and the beer tasting and the
+
+351
+00:19:18,940 --> 00:19:20,420
+ not a park run.
+
+352
+00:19:20,420 --> 00:19:23,140
+ You too can listen to me run five kilometres.
+
+353
+00:19:23,140 --> 00:19:27,380
+ Hopefully the weather will be nicer this time because it's June and not November.
+
+354
+00:19:27,380 --> 00:19:32,660
+ If you've ever wanted half an hour of John doing heavy breathing, this is your chance.
+
+355
+00:19:32,660 --> 00:19:34,300
+ Liz has not ever wanted that.
+
+356
+00:19:34,300 --> 00:19:37,380
+ So Liz will not be taking me up on it.
+
+357
+00:19:37,380 --> 00:19:40,300
+ I regret to inform you that the parks here are currently closed.
+
+358
+00:19:40,300 --> 00:19:45,380
+ And so if they open reopen by June, I will go out and show you some live video of Komodo
+
+359
+00:19:45,380 --> 00:19:47,020
+ ever monitor Liz.
+
+360
+00:19:47,020 --> 00:19:49,420
+ If requested.
+
+361
+00:19:49,420 --> 00:19:54,660
+ One of the reasons for choosing the dates 18th to 20th of June was that on the 21st of
+
+362
+00:19:54,660 --> 00:20:00,660
+ June, all restrictions on behaviour in England will cease forever.
+
+363
+00:20:00,660 --> 00:20:02,060
+ No, no, no.
+
+364
+00:20:02,060 --> 00:20:04,340
+ All restrictions on behaviour in England will cease forever.
+
+365
+00:20:04,340 --> 00:20:07,780
+ Some very specific restrictions will cease forever.
+
+366
+00:20:07,780 --> 00:20:09,780
+ I really hope.
+
+367
+00:20:09,780 --> 00:20:16,020
+ All restrictions on Covid safe behaviour in England will cease forever.
+
+368
+00:20:16,020 --> 00:20:21,300
+ And so it would be quite, I don't know what the word is, ironic.
+
+369
+00:20:21,300 --> 00:20:25,980
+ So this, if at punctuation two, we were just about to celebrate the very end of lockdown
+
+370
+00:20:25,980 --> 00:20:27,180
+ forever.
+
+371
+00:20:27,180 --> 00:20:31,700
+ And Liz was stuck in her flat unable to go out for coffee.
+
+372
+00:20:31,700 --> 00:20:33,780
+ I mean, let's not.
+
+373
+00:20:33,780 --> 00:20:38,460
+ I mean, we all hope that Liz will not be stuck in our house for ages.
+
+374
+00:20:38,460 --> 00:20:39,900
+ Ah, but yes.
+
+375
+00:20:39,900 --> 00:20:43,540
+ So punctuation two is basically the dead dog party of lockdown.
+
+376
+00:20:43,540 --> 00:20:48,820
+ So come and have one big last hurrah before Covid goes forever because Boris Johnson told
+
+377
+00:20:48,820 --> 00:20:49,820
+ it to.
+
+378
+00:20:49,820 --> 00:20:53,540
+ I think it might be quite sarcastic at this point.
+
+379
+00:20:53,540 --> 00:20:56,460
+ I don't think we think this is the end of restrictions forever, but it might be the end
+
+380
+00:20:56,460 --> 00:20:58,540
+ of restrictions for a while.
+
+381
+00:20:58,540 --> 00:21:01,860
+ It might be the start of a nice, mostly unrestricted summer.
+
+382
+00:21:01,860 --> 00:21:06,180
+ And so let's do that by, you know, also indoors on our computer for weekend.
+
+383
+00:21:06,180 --> 00:21:10,220
+ But yes, we want to hear, you know, we want, we like to hear from people, what did you
+
+384
+00:21:10,220 --> 00:21:13,100
+ think worked really nicely punctuation one and we should do again?
+
+385
+00:21:13,100 --> 00:21:15,060
+ What was we should never do it again?
+
+386
+00:21:15,060 --> 00:21:16,060
+ Yeah.
+
+387
+00:21:16,060 --> 00:21:19,220
+ And, you know, we'll be asking for ideas of fun things and especially since it will be
+
+388
+00:21:19,220 --> 00:21:24,020
+ June and not November, there may be exciting things you can do outside your house.
+
+389
+00:21:24,020 --> 00:21:28,860
+ And we are working on a couple of things which will be strict upgrades from the first
+
+390
+00:21:28,860 --> 00:21:33,940
+ punctuation, but we're not going to tell you what they are yet in case they don't work.
+
+391
+00:21:33,940 --> 00:21:39,860
+ And we will be doing a non-legally binding consultative referendum on some different
+
+392
+00:21:39,860 --> 00:21:45,220
+ options we're throwing around with regards to exactly how we run our tech stack and what
+
+393
+00:21:45,220 --> 00:21:48,700
+ people would find the most accessible slash the most usable.
+
+394
+00:21:48,700 --> 00:21:53,380
+ So and again, that will be going out in the same email as the announcement that we've
+
+395
+00:21:53,380 --> 00:21:55,940
+ opened our registrations to punctuation one members.
+
+396
+00:21:55,940 --> 00:21:59,780
+ And we will also be posting to that in the anonymous Claire Discord.
+
+397
+00:21:59,780 --> 00:22:04,140
+ So if you would like to join the consultation, you will see it when it is ready.
+
+398
+00:22:04,140 --> 00:22:06,500
+ I think that's everything on punctuation too.
+
+399
+00:22:06,500 --> 00:22:07,500
+ Ah, yeah.
+
+400
+00:22:07,500 --> 00:22:08,500
+ Come along.
+
+401
+00:22:08,500 --> 00:22:09,500
+ It'll be fun.
+
+402
+00:22:09,500 --> 00:22:10,500
+ Yeah.
+
+403
+00:22:10,500 --> 00:22:11,500
+ We're going to have fun.
+
+404
+00:22:11,500 --> 00:22:13,700
+ We're looking forward to it.
+
+405
+00:22:13,700 --> 00:22:15,780
+ Start planning your breakfasts now.
+
+406
+00:22:15,780 --> 00:22:17,420
+ Yeah, start planning your meet.
+
+407
+00:22:17,420 --> 00:22:23,980
+ So one of my big takeaways from virtual conventions was the big takeaways are good at virtual
+
+408
+00:22:23,980 --> 00:22:24,980
+ conventions.
+
+409
+00:22:24,980 --> 00:22:27,500
+ So you should definitely start planning your big takeaways.
+
+410
+00:22:27,500 --> 00:22:29,420
+ I recommend kibab.
+
+411
+00:22:29,420 --> 00:22:32,220
+ Yeah, I also recommend kibab.
+
+412
+00:22:32,220 --> 00:22:37,100
+ And this recommends some Thai thing that we can't get here, which is very tasty apparently.
+
+413
+00:22:37,100 --> 00:22:38,100
+ Yeah, probably.
+
+414
+00:22:38,100 --> 00:22:39,820
+ I mean, probably multiple options to that.
+
+415
+00:22:39,820 --> 00:22:44,740
+ But I was a bit jealous because fried breakfasts are not a huge thing.
+
+416
+00:22:44,740 --> 00:22:46,860
+ And it's much harder to get like nice bacon and sausages.
+
+417
+00:22:46,860 --> 00:22:49,660
+ So I would come to the breakfast thing, which to me would be a mid-afternoon and everyone
+
+418
+00:22:49,660 --> 00:22:55,340
+ would be like tucking into the delicious full English and I'd be drinking a cup of coffee.
+
+419
+00:22:55,340 --> 00:22:57,180
+ No player, no.
+
+420
+00:22:57,180 --> 00:23:01,860
+ Banana humus is what caused that spontaneous outburst from Liz.
+
+421
+00:23:01,860 --> 00:23:02,860
+ We still don't have a chair.
+
+422
+00:23:02,860 --> 00:23:06,380
+ Oh, we should say we have extra people on the committee this time.
+
+423
+00:23:06,380 --> 00:23:08,540
+ We definitely should have said that.
+
+424
+00:23:08,540 --> 00:23:14,460
+ This time we have a committee of six people, all mad gaming fans.
+
+425
+00:23:14,460 --> 00:23:20,460
+ The centre of gravity of the punctuation committee was not sufficiently based in South London.
+
+426
+00:23:20,460 --> 00:23:24,980
+ And to rectify this, we have added two people to address the balance.
+
+427
+00:23:24,980 --> 00:23:28,460
+ And that is Claire Briley and Mark Plummer of Croydon.
+
+428
+00:23:28,460 --> 00:23:31,420
+ You may recognise them from their locks.
+
+429
+00:23:31,420 --> 00:23:33,540
+ We're happy to have them on the team.
+
+430
+00:23:33,540 --> 00:23:37,260
+ They have good ideas and they will make punctuation too better than it would be without them.
+
+431
+00:23:37,260 --> 00:23:40,020
+ So thank you very much to both of them for volunteering.
+
+432
+00:23:40,020 --> 00:23:42,900
+ They will certainly make it better punctuated.
+
+433
+00:23:42,900 --> 00:23:43,900
+ They will.
+
+434
+00:23:43,900 --> 00:23:48,940
+ Doesn't that mean that the central gravity of the convention is now somewhere about western
+
+435
+00:23:48,940 --> 00:23:49,940
+ Greece?
+
+436
+00:23:49,940 --> 00:23:53,300
+ Yeah, but that is more South London than it was before.
+
+437
+00:23:53,300 --> 00:23:54,620
+ I'll calculate it.
+
+438
+00:23:54,620 --> 00:23:56,460
+ Yeah, this will calculate it.
+
+439
+00:23:56,460 --> 00:23:57,460
+ Oh god.
+
+440
+00:23:57,460 --> 00:24:00,340
+ There are Python scripts to do this sort of thing probably.
+
+441
+00:24:00,340 --> 00:24:06,860
+ So on the subject of virtual conventions, Swankon has had to cancel their convention the
+
+442
+00:24:06,860 --> 00:24:10,500
+ day before it was due to start due to a three day lockdown.
+
+443
+00:24:10,500 --> 00:24:12,020
+ For those who don't know.
+
+444
+00:24:12,020 --> 00:24:17,380
+ Swankon is the convention of Perth in Australia.
+
+445
+00:24:17,380 --> 00:24:24,660
+ And we would like to note that Swankon announced the day before that they were not going to
+
+446
+00:24:24,660 --> 00:24:29,660
+ be running a convention and they had time to do some online programme items.
+
+447
+00:24:29,660 --> 00:24:35,060
+ Not every convention has found that they have had time to do online programme items with
+
+448
+00:24:35,060 --> 00:24:37,140
+ a similar lead time.
+
+449
+00:24:37,140 --> 00:24:43,180
+ I am hugely impressed by that because I feel desperately sorry for them, especially if
+
+450
+00:24:43,180 --> 00:24:49,780
+ you were doing all that planning and then literally the day before you have to just...
+
+451
+00:24:49,780 --> 00:24:52,500
+ Yeah, I think they're postponing.
+
+452
+00:24:52,500 --> 00:24:57,220
+ They'll be able to run it quite soon I think, but it must be an important shot for them.
+
+453
+00:24:57,220 --> 00:24:58,580
+ We're very sorry.
+
+454
+00:24:58,580 --> 00:25:04,700
+ We hope that the rescheduled Swankon is amazing and we are very sorry to anyone who is going
+
+455
+00:25:04,700 --> 00:25:06,460
+ because that sucks.
+
+456
+00:25:06,460 --> 00:25:11,580
+ And on the subject of postponing conventions, look at these seamless segues guys, "Disc
+
+457
+00:25:11,580 --> 00:25:16,380
+ on three are changing their dates to December for my birthday."
+
+458
+00:25:16,380 --> 00:25:20,740
+ Yeah, we'd have talked about this two weeks ago, but we were too busy talking about these
+
+459
+00:25:20,740 --> 00:25:21,740
+ two gone two weeks ago.
+
+460
+00:25:21,740 --> 00:25:25,980
+ So yes, "disc on" is now a live action convention in December.
+
+461
+00:25:25,980 --> 00:25:28,580
+ I think this says there may still be some hybrid elements as well.
+
+462
+00:25:28,580 --> 00:25:30,060
+ There will be some hybrid elements.
+
+463
+00:25:30,060 --> 00:25:35,620
+ And it's the weekend before Christmas, which I have to say guys, removes any lingering
+
+464
+00:25:35,620 --> 00:25:38,140
+ chance I was going to be able to get to it.
+
+465
+00:25:38,140 --> 00:25:43,540
+ Yeah, I'm also not planning to attend, I don't think.
+
+466
+00:25:43,540 --> 00:25:47,940
+ Although if I hear a sad noise from a spandere in the other room, maybe I will change my mind
+
+467
+00:25:47,940 --> 00:25:48,940
+ to life on air.
+
+468
+00:25:48,940 --> 00:25:49,940
+ We'll see.
+
+469
+00:25:49,940 --> 00:25:55,700
+ I mean, right now it's moot because none of us are allowed into the US right now, I think.
+
+470
+00:25:55,700 --> 00:25:59,260
+ Anyway, so really given we don't know when that will shift, I'm not sure whether August
+
+471
+00:25:59,260 --> 00:26:01,740
+ to December makes a big change to that.
+
+472
+00:26:01,740 --> 00:26:06,620
+ I think people who don't like hot weather will be much happier with the December date.
+
+473
+00:26:06,620 --> 00:26:08,780
+ Yes, I think you might be right.
+
+474
+00:26:08,780 --> 00:26:10,060
+ It would be that cold.
+
+475
+00:26:10,060 --> 00:26:12,900
+ It would probably just be quite cold.
+
+476
+00:26:12,900 --> 00:26:15,780
+ But I calibrate everything on a different scale now.
+
+477
+00:26:15,780 --> 00:26:16,780
+ That's not really the most important.
+
+478
+00:26:16,780 --> 00:26:21,100
+ I think, oh, they've even got, actually there is a frequently asked questions about what
+
+479
+00:26:21,100 --> 00:26:23,060
+ is the weather like in mid-December.
+
+480
+00:26:23,060 --> 00:26:26,340
+ So I'm cleaning up the only person worrying about that.
+
+481
+00:26:26,340 --> 00:26:27,900
+ And the answer is bloody awful, right?
+
+482
+00:26:27,900 --> 00:26:33,140
+ Now the answer is high of seven and low of one on average.
+
+483
+00:26:33,140 --> 00:26:34,140
+ That's fine.
+
+484
+00:26:34,140 --> 00:26:37,660
+ Which is, you know, chilly, quite cold.
+
+485
+00:26:37,660 --> 00:26:38,900
+ Couple of jumpers.
+
+486
+00:26:38,900 --> 00:26:41,660
+ It's bringing my proper coat weather.
+
+487
+00:26:41,660 --> 00:26:45,620
+ Yeah, there's no such thing as bad weather, there's just bad clothing.
+
+488
+00:26:45,620 --> 00:26:50,060
+ So you'll be inside all we can, so, yeah.
+
+489
+00:26:50,060 --> 00:26:56,980
+ And this has raised questions about the deadline for site selection, says Kevin Stanley on
+
+490
+00:26:56,980 --> 00:26:57,980
+ Dreamwidth.
+
+491
+00:26:57,980 --> 00:27:03,580
+ We've put a link in the show notes if you would like to read about that.
+
+492
+00:27:03,580 --> 00:27:09,220
+ I, um, yes, I had thoughts, but I forgot them.
+
+493
+00:27:09,220 --> 00:27:12,700
+ Or more accurately, I decided they were too tedious to say out loud.
+
+494
+00:27:12,700 --> 00:27:19,060
+ Yeah, I think Kevin's basically said they should reopen site selection and everyone else
+
+495
+00:27:19,060 --> 00:27:20,980
+ has said they're there, Kevin.
+
+496
+00:27:20,980 --> 00:27:22,380
+ I think that's, is that right?
+
+497
+00:27:22,380 --> 00:27:24,060
+ I think that's right.
+
+498
+00:27:24,060 --> 00:27:29,060
+ So I think I can see where he's coming from on a principal stand basis.
+
+499
+00:27:29,060 --> 00:27:32,480
+ The other thing that's happened while we were talking about Eastercon was that Baines
+
+500
+00:27:32,480 --> 00:27:39,500
+ Bar returned with all of its odd posts intact.
+
+501
+00:27:39,500 --> 00:27:46,740
+ And with a note from Tony Vyskoff saying that she'd reviewed them and didn't think
+
+502
+00:27:46,740 --> 00:27:47,780
+ there was a problem with them.
+
+503
+00:27:47,780 --> 00:27:50,060
+ So that's a thing.
+
+504
+00:27:50,060 --> 00:27:57,140
+ I feel like this is now sitting around being a issue for fandom that is unlikely to go away,
+
+505
+00:27:57,140 --> 00:28:00,060
+ that it's going to continue to cause us trouble.
+
+506
+00:28:00,060 --> 00:28:01,420
+ But we'll see.
+
+507
+00:28:01,420 --> 00:28:07,300
+ And Mike Gloyer wrote about this and we've got a link in the show notes, but I do think
+
+508
+00:28:07,300 --> 00:28:13,580
+ that, um, I don't know if Liz and Nalison agree with me here, but I do think that now
+
+509
+00:28:13,580 --> 00:28:16,180
+ that she's been like, Oh, no, all of this was fine.
+
+510
+00:28:16,180 --> 00:28:21,940
+ She's like, yeah, you should not have been the discount three guest of order.
+
+511
+00:28:21,940 --> 00:28:23,860
+ And that was probably the right decision.
+
+512
+00:28:23,860 --> 00:28:25,700
+ I know it's said to horrible precedent.
+
+513
+00:28:25,700 --> 00:28:30,420
+ And I know it's like very much not something we've done traditionally, but dang.
+
+514
+00:28:30,420 --> 00:28:35,660
+ Yeah, I suspect the Discon committee who had to make that difficult decision are probably
+
+515
+00:28:35,660 --> 00:28:37,900
+ feeling better.
+
+516
+00:28:37,900 --> 00:28:38,900
+ Yeah.
+
+517
+00:28:38,900 --> 00:28:40,140
+ I think that's about it.
+
+518
+00:28:40,140 --> 00:28:41,580
+ I think that's fine.
+
+519
+00:28:41,580 --> 00:28:47,700
+ The other thing about the about Discon moving its dates to December, look at our amazing
+
+520
+00:28:47,700 --> 00:28:55,740
+ segues, is that it means that we've got much longer for our Hugo reading and watching and
+
+521
+00:28:55,740 --> 00:28:58,420
+ for the very first time playing.
+
+522
+00:28:58,420 --> 00:29:01,660
+ So reactions to the Hugo finalists.
+
+523
+00:29:01,660 --> 00:29:06,780
+ Congratulations to John for his Hugo finalists spot for Journey Planet.
+
+524
+00:29:06,780 --> 00:29:08,380
+ We're very proud of him.
+
+525
+00:29:08,380 --> 00:29:09,380
+ Thank you.
+
+526
+00:29:09,380 --> 00:29:10,380
+ Hey.
+
+527
+00:29:10,380 --> 00:29:17,020
+ And congratulations to everyone else who was a finalist or is a finalist or was a finalist
+
+528
+00:29:17,020 --> 00:29:19,460
+ or will be your finalist in the future.
+
+529
+00:29:19,460 --> 00:29:20,460
+ Oh, no.
+
+530
+00:29:20,460 --> 00:29:21,460
+ Okay.
+
+531
+00:29:21,460 --> 00:29:23,900
+ In that case, I was in the past, but who knows?
+
+532
+00:29:23,900 --> 00:29:26,540
+ No, so we have a couple of broad thoughts.
+
+533
+00:29:26,540 --> 00:29:31,260
+ We're not going to go massively into the weeds or the Hugo Awards, because, you know, because
+
+534
+00:29:31,260 --> 00:29:35,500
+ we're going to do that next episode or maybe the one after there will be an episode when
+
+535
+00:29:35,500 --> 00:29:37,740
+ we go massively into the weeds.
+
+536
+00:29:37,740 --> 00:29:38,740
+ Yeah.
+
+537
+00:29:38,740 --> 00:29:42,740
+ At some point, quite a lot of episodes, really.
+
+538
+00:29:42,740 --> 00:29:44,660
+ We've got we've got time.
+
+539
+00:29:44,660 --> 00:29:45,660
+ It's not so December.
+
+540
+00:29:45,660 --> 00:29:46,660
+ We've got ages.
+
+541
+00:29:46,660 --> 00:29:51,900
+ Yeah, we could just fill the entire podcast with Hugo, Nerdary from now until December.
+
+542
+00:29:51,900 --> 00:29:54,020
+ An episode per category.
+
+543
+00:29:54,020 --> 00:29:59,660
+ I could can I have an episode just for Hades, please, because I can fill an entire episode
+
+544
+00:29:59,660 --> 00:30:02,820
+ with Hades, Nerdary.
+
+545
+00:30:02,820 --> 00:30:04,820
+ Um, yes, possibly.
+
+546
+00:30:04,820 --> 00:30:11,820
+ Octa-thop, it would be less och-thop gaming corner and more just och-thop at that point.
+
+547
+00:30:11,820 --> 00:30:17,260
+ Um, so, um, so some top level thoughts about the Hugo's.
+
+548
+00:30:17,260 --> 00:30:20,380
+ Firstly, I did a lot of reading this year in preparation with the Hugo's with the net effect
+
+549
+00:30:20,380 --> 00:30:24,620
+ that I'm quite a lot further along with my fiction reading than I am usually, which is
+
+550
+00:30:24,620 --> 00:30:25,620
+ nice.
+
+551
+00:30:25,620 --> 00:30:28,100
+ Uh, and in general, I've been enjoying that.
+
+552
+00:30:28,100 --> 00:30:34,300
+ But my two overarching thoughts are, um...
+
+553
+00:30:34,300 --> 00:30:35,980
+ Sorry, can I have a poll, please?
+
+554
+00:30:35,980 --> 00:30:37,980
+ Because I always say overarching.
+
+555
+00:30:37,980 --> 00:30:39,500
+ Oh, overarching?
+
+556
+00:30:39,500 --> 00:30:41,000
+ Over-arching.
+
+557
+00:30:41,000 --> 00:30:46,540
+ And because of arches, but I understand that it's one of these difficult prefixes because
+
+558
+00:30:46,540 --> 00:30:53,620
+ obviously it's arkin, archangel, and arkin archaeology, but arch in archbishop.
+
+559
+00:30:53,620 --> 00:30:55,180
+ And in archive.
+
+560
+00:30:55,180 --> 00:30:56,180
+ Archbishop, or...
+
+561
+00:30:56,180 --> 00:31:00,260
+ But they're just called that because they're very sarcastic.
+
+562
+00:31:00,260 --> 00:31:03,340
+ And so I don't know what the...
+
+563
+00:31:03,340 --> 00:31:04,340
+ Archum.
+
+564
+00:31:04,340 --> 00:31:05,340
+ You should see, yes.
+
+565
+00:31:05,340 --> 00:31:08,260
+ That's what happens when we are reading the chat while doing it.
+
+566
+00:31:08,260 --> 00:31:10,260
+ I would say overarching with Alison.
+
+567
+00:31:10,260 --> 00:31:12,260
+ So, Hugo, John, out of it.
+
+568
+00:31:12,260 --> 00:31:13,260
+ Okay.
+
+569
+00:31:13,260 --> 00:31:15,980
+ I'm gonna have to just say overarching a lot and then Eddy Stitihin, where you two have
+
+570
+00:31:15,980 --> 00:31:18,260
+ said that to make it sound back for Alessa.
+
+571
+00:31:18,260 --> 00:31:19,620
+ That's annoying.
+
+572
+00:31:19,620 --> 00:31:24,100
+ I think the best game category is really good.
+
+573
+00:31:24,100 --> 00:31:29,220
+ And the reason I think this is because it is six games, none of which are all indie darlings
+
+574
+00:31:29,220 --> 00:31:33,620
+ and are all AAA games or are all big old PlayStation games.
+
+575
+00:31:33,620 --> 00:31:39,540
+ You know, there's a huge breadth in just the six titles that has really shown, I think,
+
+576
+00:31:39,540 --> 00:31:46,460
+ how much there is in the genre from the massive remakes of beloved games for your kind of
+
+577
+00:31:46,460 --> 00:31:49,340
+ hardcore PlayStation gamers.
+
+578
+00:31:49,340 --> 00:31:55,300
+ And then also a nice little browser game where you bet on baseball with black holes and there's
+
+579
+00:31:55,300 --> 00:32:00,020
+ like a whole narrative around that, which is a bit strange.
+
+580
+00:32:00,020 --> 00:32:03,020
+ And I really, I'm playing Spirit of Fair as the moment, I'm really enjoying it.
+
+581
+00:32:03,020 --> 00:32:07,460
+ And yeah, I'm super impressed with how broad the best game category is.
+
+582
+00:32:07,460 --> 00:32:10,620
+ And it's already more vibrant than several of the categories that have been around for
+
+583
+00:32:10,620 --> 00:32:13,500
+ a lot longer than it.
+
+584
+00:32:13,500 --> 00:32:19,780
+ And I have a beef to pick with the Hugo's because I had been avoiding buying Hades ever
+
+585
+00:32:19,780 --> 00:32:24,620
+ since my son said to me, "Oh, Mum, you would really like this game.
+
+586
+00:32:24,620 --> 00:32:29,860
+ It's a persistent roguelike of the sort that you drop into and then neither eat nor sleep
+
+587
+00:32:29,860 --> 00:32:30,860
+ for weeks on end."
+
+588
+00:32:30,860 --> 00:32:33,020
+ And I was like, "Yeah, yeah, you're quite right.
+
+589
+00:32:33,020 --> 00:32:35,300
+ I'm just not touching it with the barge pole."
+
+590
+00:32:35,300 --> 00:32:40,140
+ And then it got turned up on the Hugo ballot and I was like, "Oh, this is an excuse."
+
+591
+00:32:40,140 --> 00:32:45,900
+ And so if I owe you anything, if I haven't done something I said I'd do, if I've been,
+
+592
+00:32:45,900 --> 00:32:52,260
+ if I missed a major organizational meeting for your convention, if I did any of these
+
+593
+00:32:52,260 --> 00:32:56,660
+ things any time in the last two weeks I'm very sorry.
+
+594
+00:32:56,660 --> 00:32:59,580
+ Whatever she said, whatever she did, she didn't mean it.
+
+595
+00:32:59,580 --> 00:33:00,580
+ I did.
+
+596
+00:33:00,580 --> 00:33:03,780
+ It's, I'm really, really enjoying this game there.
+
+597
+00:33:03,780 --> 00:33:05,500
+ Ha ha ha ha.
+
+598
+00:33:05,500 --> 00:33:08,620
+ Allison's doing the Hugo voter pack this year so I'm looking forward to her giving me
+
+599
+00:33:08,620 --> 00:33:12,100
+ a free copy of this game later in the year.
+
+600
+00:33:12,100 --> 00:33:14,260
+ That's not part of my responsibilities.
+
+601
+00:33:14,260 --> 00:33:15,260
+ Boo!
+
+602
+00:33:15,260 --> 00:33:18,740
+ Um, is it possible to pay for, pay for Blaiseball?
+
+603
+00:33:18,740 --> 00:33:19,740
+ Have I?
+
+604
+00:33:19,740 --> 00:33:21,940
+ No, I don't think it is possible to pay for Blaiseball.
+
+605
+00:33:21,940 --> 00:33:28,340
+ Yeah, so, so, so we actually have everything from a, you know, a, a triple-a game on a
+
+606
+00:33:28,340 --> 00:33:31,860
+ playstation through to a game you play in your browser for nothing and I, I think that's
+
+607
+00:33:31,860 --> 00:33:32,860
+ quite good.
+
+608
+00:33:32,860 --> 00:33:35,940
+ I am similarly pleased to see a wide variety of stuff on there.
+
+609
+00:33:35,940 --> 00:33:42,580
+ I was slightly surprised not to see Cyberpunk 2077 which despite all the bugs seem to have
+
+610
+00:33:42,580 --> 00:33:46,620
+ been a quite well received game but maybe it came out quite late in the year and people
+
+611
+00:33:46,620 --> 00:33:47,620
+ didn't own it.
+
+612
+00:33:47,620 --> 00:33:51,180
+ I'm a little bit, I'm a little bit sad because I would like to play all these games but I
+
+613
+00:33:51,180 --> 00:33:57,980
+ actually only have the hardware to play four out of six and I've never played a Final
+
+614
+00:33:57,980 --> 00:34:01,700
+ Fantasy game and I'd be quite interested in playing it but it is still extremely expensive.
+
+615
+00:34:01,700 --> 00:34:03,580
+ Jon is waving a hand at me.
+
+616
+00:34:03,580 --> 00:34:06,020
+ I think you can play five out of six.
+
+617
+00:34:06,020 --> 00:34:07,020
+ Can I?
+
+618
+00:34:07,020 --> 00:34:10,100
+ Yeah, because I think Spirit of Eris and Hades are both on playstation.
+
+619
+00:34:10,100 --> 00:34:11,740
+ Hades is not on playstation.
+
+620
+00:34:11,740 --> 00:34:12,740
+ What?
+
+621
+00:34:12,740 --> 00:34:14,860
+ Oh, but it's on Steam.
+
+622
+00:34:14,860 --> 00:34:20,020
+ The more general point is, very few of the Hugo voters are actually going to have the
+
+623
+00:34:20,020 --> 00:34:24,140
+ kit to play all six of these games because it does require you to have both a Switch
+
+624
+00:34:24,140 --> 00:34:26,420
+ and a playstation 4.
+
+625
+00:34:26,420 --> 00:34:28,460
+ True.
+
+626
+00:34:28,460 --> 00:34:34,180
+ And that's quite a big ask and I think that's something that separates it from most of
+
+627
+00:34:34,180 --> 00:34:42,580
+ the Hugo categories where we can expect most voters to be able to access all of the games
+
+628
+00:34:42,580 --> 00:34:46,860
+ and I think there was some suggestion when we suggested this before that let's plays
+
+629
+00:34:46,860 --> 00:34:51,420
+ might be the solution to that but I don't think they are because they're not the same.
+
+630
+00:34:51,420 --> 00:34:58,940
+ I think they might be for a couple of them not naming the last of us two explicitly.
+
+631
+00:34:58,940 --> 00:34:59,940
+ I just wanted to come back.
+
+632
+00:34:59,940 --> 00:35:02,020
+ So you mentioned Cyberpunk 2077.
+
+633
+00:35:02,020 --> 00:35:08,700
+ I'm not sure that in the Hugo voters wheelhouse you know, I'm not sure that the Hugo voters
+
+634
+00:35:08,700 --> 00:35:17,900
+ are historically known except for certain bad actors for supporting works which are quite
+
+635
+00:35:17,900 --> 00:35:23,820
+ as undiverse as that game turned out to be shall we say.
+
+636
+00:35:23,820 --> 00:35:28,740
+ And so I am entirely unsurprised that Hugo Electric chose not to reward it.
+
+637
+00:35:28,740 --> 00:35:31,660
+ And to be fair, I think that was the right decision.
+
+638
+00:35:31,660 --> 00:35:36,500
+ But as always it will be very interesting seeing the other things that were nominated
+
+639
+00:35:36,500 --> 00:35:42,020
+ when the full when the long list comes out in December we have to wait till December.
+
+640
+00:35:42,020 --> 00:35:43,620
+ Oh I am told about that.
+
+641
+00:35:43,620 --> 00:35:47,500
+ We do it's so annoying if Kevin Sandley wants to have opinions he should have opinions on
+
+642
+00:35:47,500 --> 00:35:53,100
+ releasing the full list in August anyway like I happen to need his stats.
+
+643
+00:35:53,100 --> 00:35:56,940
+ I'm sure that's enough games chaps otherwise we'll start losing our audience won't we.
+
+644
+00:35:56,940 --> 00:36:01,740
+ Hey Mark's already written us a lock during the recording so.
+
+645
+00:36:01,740 --> 00:36:05,940
+ He did that before we started talking about games though and it's about games so you know.
+
+646
+00:36:05,940 --> 00:36:07,460
+ It is about games.
+
+647
+00:36:07,460 --> 00:36:12,860
+ I've got a tiny tiny tiny bit more on games sorry because not only would I have to have
+
+648
+00:36:12,860 --> 00:36:17,300
+ like all I basically would need a playstation and a switch to play this but also the last
+
+649
+00:36:17,300 --> 00:36:21,340
+ of us part two is still I think better part 45 quid.
+
+650
+00:36:21,340 --> 00:36:26,580
+ The final fantasy remake is still 40 quid so like it's not an hour we need these but the
+
+651
+00:36:26,580 --> 00:36:30,540
+ investment to actually play the games in this category is about 100 quid it's it's a big
+
+652
+00:36:30,540 --> 00:36:31,540
+ thing.
+
+653
+00:36:31,540 --> 00:36:36,340
+ I am going to tell you how the young gamers play these games which is that they buy them
+
+654
+00:36:36,340 --> 00:36:40,300
+ from their local second hand game shop and then they sell them back to their local second
+
+655
+00:36:40,300 --> 00:36:45,260
+ hand game shop so you know for a total cost of about a fiver so I don't think that's
+
+656
+00:36:45,260 --> 00:36:47,060
+ a I don't think that's insane.
+
+657
+00:36:47,060 --> 00:36:52,100
+ Yeah I hadn't thought of that but I might have to get myself down to CEX once once lockdown
+
+658
+00:36:52,100 --> 00:36:55,580
+ eases a bit more and see if I can pick up cheap copies.
+
+659
+00:36:55,580 --> 00:37:00,380
+ I understand it's pronounced sex.
+
+660
+00:37:00,380 --> 00:37:06,100
+ On this podcast it's not this is a family show a family show family show Alison.
+
+661
+00:37:06,100 --> 00:37:10,700
+ It used to be that if you phone them up you'd get the person answering the phone would say
+
+662
+00:37:10,700 --> 00:37:14,900
+ you've reached the sex helpline how can we help you something which has irritated me
+
+663
+00:37:14,900 --> 00:37:16,940
+ ever since I discovered it.
+
+664
+00:37:16,940 --> 00:37:20,980
+ So it pleased me to see a place ball on the list actually because that's one of the games
+
+665
+00:37:20,980 --> 00:37:25,100
+ that I've heard described as basically the game is one thing but really everyone's playing
+
+666
+00:37:25,100 --> 00:37:28,540
+ for the emerging emergent narrative around it.
+
+667
+00:37:28,540 --> 00:37:33,180
+ I think that is very interesting because we had discussions about emerging narratives
+
+668
+00:37:33,180 --> 00:37:35,860
+ and things in games on previous episodes.
+
+669
+00:37:35,860 --> 00:37:41,540
+ No and the current season of of plays ball is sponsored by a convention that focuses
+
+670
+00:37:41,540 --> 00:37:47,820
+ on Ludo narrative and I think yes it is clear that an awful lot of the enjoyment of the
+
+671
+00:37:47,820 --> 00:37:52,980
+ game is not actually the mechanics of the game which is really interesting and it kind
+
+672
+00:37:52,980 --> 00:37:57,900
+ of reminds me of the Marble Olympics but like I think a lot of that to do with emergent
+
+673
+00:37:57,900 --> 00:38:01,820
+ narrative as well rather than it yeah there's a lot to talk about there I think and also
+
+674
+00:38:01,820 --> 00:38:04,060
+ like some novels and stuff got nominated.
+
+675
+00:38:04,060 --> 00:38:10,140
+ Oh yeah who tells stories by writing them down on paint like what like come on guys it's
+
+676
+00:38:10,140 --> 00:38:15,380
+ 2021 strap on a graphics card let's get this baby going.
+
+677
+00:38:15,380 --> 00:38:19,500
+ A quite novel just in case anyone is about to write in.
+
+678
+00:38:19,500 --> 00:38:25,300
+ Yeah I'm also trying to watch the all the best dramatic presentation nominees because
+
+679
+00:38:25,300 --> 00:38:29,340
+ I should manage to do that despite not paying a lot of attention to television generally
+
+680
+00:38:29,340 --> 00:38:33,940
+ some of them are the short fixed the short form ones are kind of episodes of things so
+
+681
+00:38:33,940 --> 00:38:38,980
+ that probably requires me to watch quite a lot of things to get to the relevant episode.
+
+682
+00:38:38,980 --> 00:38:45,580
+ I've already seen all of the best long form contenders except for Tenet and if that is
+
+683
+00:38:45,580 --> 00:38:51,420
+ still the case when votes close I won't regard it as a huge problem.
+
+684
+00:38:51,420 --> 00:38:55,580
+ Everything I've heard about Tenet makes me reluctant to spend the amount of money to
+
+685
+00:38:55,580 --> 00:38:59,620
+ actually like purchase it so if it doesn't come on a free streaming service between now
+
+686
+00:38:59,620 --> 00:39:03,860
+ and then it is unlikely that I will watch it in time for the Hugo's unless it's in the
+
+687
+00:39:03,860 --> 00:39:06,780
+ Hugo Voto packet and Alison gives me a free copy.
+
+688
+00:39:06,780 --> 00:39:09,380
+ I think it's most unlikely to be in the Hugo Voto packet.
+
+689
+00:39:09,380 --> 00:39:10,380
+ True.
+
+690
+00:39:10,380 --> 00:39:12,020
+ Doctor who might be was last year.
+
+691
+00:39:12,020 --> 00:39:14,780
+ I think there is a chance that some of the short forms will be better don't think any
+
+692
+00:39:14,780 --> 00:39:18,220
+ of the long forms will be historically they have not been.
+
+693
+00:39:18,220 --> 00:39:22,180
+ Richard says that her old job they had fire assembly points hopefully labelled on the maps
+
+694
+00:39:22,180 --> 00:39:24,820
+ as FAP in reassuringly large letters.
+
+695
+00:39:24,820 --> 00:39:26,900
+ Okay, what's next on the show notes?
+
+696
+00:39:26,900 --> 00:39:28,620
+ Are you done with games?
+
+697
+00:39:28,620 --> 00:39:30,460
+ Are we ever done with games?
+
+698
+00:39:30,460 --> 00:39:32,660
+ I think Mark Plone would argue no.
+
+699
+00:39:32,660 --> 00:39:34,460
+ But yes I think so.
+
+700
+00:39:34,460 --> 00:39:38,340
+ I was going to say Tenet is the only one of the long forms I've actually seen and I
+
+701
+00:39:38,340 --> 00:39:41,620
+ mean I did enjoy it but I did go and see it in the cinema having not been to see a film
+
+702
+00:39:41,620 --> 00:39:45,460
+ in the cinema for many months because they were closed so I did enjoy it that way.
+
+703
+00:39:45,460 --> 00:39:50,500
+ You do have to turn your brain off a bit and I missed about a quarter of the dialogue
+
+704
+00:39:50,500 --> 00:39:54,780
+ I think because it's very hard to hear and I'm not sure if that helped or hindered my
+
+705
+00:39:54,780 --> 00:39:56,100
+ enjoyment of the film.
+
+706
+00:39:56,100 --> 00:40:01,500
+ So I might watch again just with the subtitles on to see if it's any more enjoyable.
+
+707
+00:40:01,500 --> 00:40:02,500
+ That's fair.
+
+708
+00:40:02,500 --> 00:40:09,460
+ If you are interested in watching the best long-form Mac presentation finalists then you can come
+
+709
+00:40:09,460 --> 00:40:14,740
+ along to the snark-long channel on the anonymous Claire Discord where there are discussions
+
+710
+00:40:14,740 --> 00:40:20,020
+ of such things and you can discuss them with us.
+
+711
+00:40:20,020 --> 00:40:22,100
+ We've been with Watcht Palm Springs so far.
+
+712
+00:40:22,100 --> 00:40:24,660
+ I don't think we've watched any of this have we?
+
+713
+00:40:24,660 --> 00:40:25,660
+ Not a snark-along no.
+
+714
+00:40:25,660 --> 00:40:30,700
+ I mean snark-along has watched other things but in true snark-long form where we have
+
+715
+00:40:30,700 --> 00:40:38,780
+ chatted over the film whereas for me at least I'm going to watch the BDP finalists without
+
+716
+00:40:38,780 --> 00:40:42,740
+ having people talking over them at the time.
+
+717
+00:40:42,740 --> 00:40:44,340
+ Except for you and Stephen.
+
+718
+00:40:44,340 --> 00:40:50,620
+ I mean I think it's kind of okay still to have one person on the sofa going "What's that
+
+719
+00:40:50,620 --> 00:40:51,620
+ about?"
+
+720
+00:40:51,620 --> 00:40:59,020
+ Is that the same character as that one earlier and you go "They're both clean-cut white American
+
+721
+00:40:59,020 --> 00:41:02,340
+ men in their early 20s and are therefore indistinguishable?"
+
+722
+00:41:02,340 --> 00:41:07,900
+ The Warhammer 40,000 movie Ultramarine is an animated movie where everyone is exactly
+
+723
+00:41:07,900 --> 00:41:12,140
+ the same white guy and that was enormously difficult to follow.
+
+724
+00:41:12,140 --> 00:41:16,020
+ It did not find its way onto the Hugo Ballot for some reason.
+
+725
+00:41:16,020 --> 00:41:17,020
+ Shockingly.
+
+726
+00:41:17,020 --> 00:41:20,500
+ Has there ever been a good game based movie to discuss?
+
+727
+00:41:20,500 --> 00:41:22,940
+ Or we should talk about that sometime in...
+
+728
+00:41:22,940 --> 00:41:25,140
+ There has.
+
+729
+00:41:25,140 --> 00:41:27,300
+ Golden Eye, the James Bond film.
+
+730
+00:41:27,300 --> 00:41:28,300
+ Mm-hmm.
+
+731
+00:41:28,300 --> 00:41:30,060
+ Wasn't the game afterwards?
+
+732
+00:41:30,060 --> 00:41:31,300
+ Some people have argued that.
+
+733
+00:41:31,300 --> 00:41:32,300
+ Yeah.
+
+734
+00:41:32,300 --> 00:41:33,300
+ But what even is time?
+
+735
+00:41:33,300 --> 00:41:34,300
+ Okay.
+
+736
+00:41:34,300 --> 00:41:37,020
+ So apart from Minesweeper the trailer which I would argue with.
+
+737
+00:41:37,020 --> 00:41:38,660
+ Ah yes now.
+
+738
+00:41:38,660 --> 00:41:40,020
+ We really are off topic.
+
+739
+00:41:40,020 --> 00:41:42,100
+ I'm so sorry guys.
+
+740
+00:41:42,100 --> 00:41:44,460
+ The detective Pikachu is quite good.
+
+741
+00:41:44,460 --> 00:41:45,460
+ In actual fact.
+
+742
+00:41:45,460 --> 00:41:49,180
+ I know it sounds like I'm trolling but I genuinely enjoyed that movie.
+
+743
+00:41:49,180 --> 00:41:56,820
+ Yeah no, people say that's very good.
+
+744
+00:41:56,820 --> 00:41:58,320
+ Firecom.
+
+745
+00:41:58,320 --> 00:41:59,480
+ Doing things.
+
+746
+00:41:59,480 --> 00:42:01,180
+ Alison's bought a ticket.
+
+747
+00:42:01,180 --> 00:42:02,180
+ Lizzamy bought a ticket.
+
+748
+00:42:02,180 --> 00:42:05,460
+ Yeah I could go last year so I have because they sold out by the time I tried to join.
+
+749
+00:42:05,460 --> 00:42:06,580
+ So this year I have joined.
+
+750
+00:42:06,580 --> 00:42:08,220
+ I will probably go to it.
+
+751
+00:42:08,220 --> 00:42:09,220
+ Um.
+
+752
+00:42:09,220 --> 00:42:10,220
+ Yeah.
+
+753
+00:42:10,220 --> 00:42:13,700
+ I think it's worth saying that last year they had limited tickets.
+
+754
+00:42:13,700 --> 00:42:17,740
+ Um and so I didn't buy one last year because I would not have been able to attend which
+
+755
+00:42:17,740 --> 00:42:18,740
+ is a convention.
+
+756
+00:42:18,740 --> 00:42:22,300
+ I did buy a ticket for the fringe which is explicitly in my time zone which was very
+
+757
+00:42:22,300 --> 00:42:23,700
+ good and was free.
+
+758
+00:42:23,700 --> 00:42:28,180
+ I might buy a ticket this year because since they're unlimited this year I don't feel
+
+759
+00:42:28,180 --> 00:42:31,700
+ I'm taking away a ticket from someone who could make better use of it.
+
+760
+00:42:31,700 --> 00:42:32,700
+ Um.
+
+761
+00:42:32,700 --> 00:42:33,700
+ That makes sense.
+
+762
+00:42:33,700 --> 00:42:34,700
+ Yeah.
+
+763
+00:42:34,700 --> 00:42:37,980
+ Do they do programming in your time zone which is not adorated?
+
+764
+00:42:37,980 --> 00:42:38,980
+ Sorry.
+
+765
+00:42:38,980 --> 00:42:39,980
+ Programming am I?
+
+766
+00:42:39,980 --> 00:42:41,420
+ I said it was explicitly in your time zone.
+
+767
+00:42:41,420 --> 00:42:45,020
+ I was just wondering if there's any non explicit content in your time zone.
+
+768
+00:42:45,020 --> 00:42:50,140
+ What I love about this is the audience finally gets to see your reactions to my jokes like
+
+769
+00:42:50,140 --> 00:42:54,060
+ on your faces and they get to understand why I have such a good time.
+
+770
+00:42:54,060 --> 00:42:55,060
+ Yeah.
+
+771
+00:42:55,060 --> 00:43:00,500
+ Um we have many people in the chat saying that they love Detective Pikachu so I will try
+
+772
+00:43:00,500 --> 00:43:01,980
+ and watch that at some point.
+
+773
+00:43:01,980 --> 00:43:05,740
+ And DC says in reaction to my joke tumble read which is fair.
+
+774
+00:43:05,740 --> 00:43:07,700
+ Is the reaction to a many of George jokes?
+
+775
+00:43:07,700 --> 00:43:08,700
+ It's true.
+
+776
+00:43:08,700 --> 00:43:09,700
+ I love being me.
+
+777
+00:43:09,700 --> 00:43:16,020
+ As has been noted the last time FireCon did a convention they had a much smaller pool of
+
+778
+00:43:16,020 --> 00:43:17,020
+ tickets.
+
+779
+00:43:17,020 --> 00:43:20,460
+ I mean, definitely because this time it's infinite but also small enough that it's all
+
+780
+00:43:20,460 --> 00:43:22,300
+ out very quickly.
+
+781
+00:43:22,300 --> 00:43:27,060
+ This time you can donate memberships but we believe they have hit their donation target
+
+782
+00:43:27,060 --> 00:43:30,500
+ for that but you can still donate to the general fund.
+
+783
+00:43:30,500 --> 00:43:37,860
+ And this is something that Reclamation in 2022 are also doing and we very quickly mentioned
+
+784
+00:43:37,860 --> 00:43:40,420
+ Reclamation last episode at the very beginning.
+
+785
+00:43:40,420 --> 00:43:43,700
+ We haven't talked about it a great deal.
+
+786
+00:43:43,700 --> 00:43:46,700
+ So yes.
+
+787
+00:43:46,700 --> 00:43:52,140
+ So Reclamation when you sign up the membership is 70 pounds for our attending and different
+
+788
+00:43:52,140 --> 00:43:55,820
+ prices for other categories which are not the ones I fall into so I didn't look at them
+
+789
+00:43:55,820 --> 00:43:57,380
+ in great detail.
+
+790
+00:43:57,380 --> 00:44:01,300
+ But it asks you when you check out whether you would like to add a donation.
+
+791
+00:44:01,300 --> 00:44:06,180
+ The recommended donation is 10 pounds towards letting less able fans, letting fans attend
+
+792
+00:44:06,180 --> 00:44:08,780
+ who would be less financially able to do so.
+
+793
+00:44:08,780 --> 00:44:14,220
+ Obviously if you can't afford 10 pounds there's no pressure on you to do so like it's entirely
+
+794
+00:44:14,220 --> 00:44:15,220
+ up to you.
+
+795
+00:44:15,220 --> 00:44:19,340
+ But I think this is a really good idea and a way of kind of letting the more privileged
+
+796
+00:44:19,340 --> 00:44:25,020
+ of us in the community support the less privileged when it comes to wealth.
+
+797
+00:44:25,020 --> 00:44:26,020
+ So yeah, well done Reclamation.
+
+798
+00:44:26,020 --> 00:44:29,380
+ I think this is something that all East Con should be looking at doing.
+
+799
+00:44:29,380 --> 00:44:34,820
+ I would say that I believe it was a Turbium that had this as well.
+
+800
+00:44:34,820 --> 00:44:39,220
+ I'm being a bit vague because I can't exactly remember but I think it was a Turbium who also
+
+801
+00:44:39,220 --> 00:44:43,540
+ had a Bursary Fund that you could donate to.
+
+802
+00:44:43,540 --> 00:44:47,660
+ They had some issues around the bursaries though and I think Reclamation is doing a
+
+803
+00:44:47,660 --> 00:44:53,300
+ simpler let's just donate memberships rather than granting bursaries with strings attached.
+
+804
+00:44:53,300 --> 00:44:56,780
+ Yes, I think that just is a much simpler way to implement it.
+
+805
+00:44:56,780 --> 00:45:02,900
+ I was noticing I think Dublin had the fantastic Dublin Fund which had some similar aspects
+
+806
+00:45:02,900 --> 00:45:05,780
+ and Discon and Chicon both have funds for this as well.
+
+807
+00:45:05,780 --> 00:45:08,820
+ So I think it's clearly going to be thing World Cons do in the future.
+
+808
+00:45:08,820 --> 00:45:12,140
+ I quite like the way Discons Warner has basically two aims.
+
+809
+00:45:12,140 --> 00:45:17,100
+ One is getting underrepresented fans into World Cons but the other one is specifically
+
+810
+00:45:17,100 --> 00:45:23,300
+ for local fans who might enjoy it but basically can't come in on a World Cons membership.
+
+811
+00:45:23,300 --> 00:45:26,260
+ And so it will let them come in and have like a taster of the convention or people who live
+
+812
+00:45:26,260 --> 00:45:32,420
+ locally so they don't need extra funding but just a membership is too much for barrier.
+
+813
+00:45:32,420 --> 00:45:36,580
+ I think that's quite a nice sort of dual aim especially for a convention that moves around
+
+814
+00:45:36,580 --> 00:45:37,580
+ every year.
+
+815
+00:45:37,580 --> 00:45:47,060
+ Yes, no and I think I wasn't aware that Itobium had to try to do something similar but I think
+
+816
+00:45:47,060 --> 00:45:52,100
+ like you say having it right there on the Redch Form is really nice so I think that's
+
+817
+00:45:52,100 --> 00:45:53,980
+ really positive.
+
+818
+00:45:53,980 --> 00:45:57,620
+ And in general very excited about Reclamation in 2022.
+
+819
+00:45:57,620 --> 00:45:59,780
+ Great guest of on the list.
+
+820
+00:45:59,780 --> 00:46:02,980
+ In 2022 has a great guest of honor list.
+
+821
+00:46:02,980 --> 00:46:08,540
+ They have Zencho who I love and they have Mary Robinette Coel who I also love and they
+
+822
+00:46:08,540 --> 00:46:12,940
+ have Philip Reeve who I love and they have Nicholas White who I love.
+
+823
+00:46:12,940 --> 00:46:16,780
+ So this is a solid roster in my opinion.
+
+824
+00:46:16,780 --> 00:46:17,780
+ Yes.
+
+825
+00:46:17,780 --> 00:46:18,780
+ Yes.
+
+826
+00:46:18,780 --> 00:46:19,780
+ It's very good.
+
+827
+00:46:19,780 --> 00:46:20,780
+ Well done lads.
+
+828
+00:46:20,780 --> 00:46:22,780
+ Yeah, it's very very very solidist.
+
+829
+00:46:22,780 --> 00:46:30,500
+ And I mean by lads I'm using lads and it's British, gender inclusive form.
+
+830
+00:46:30,500 --> 00:46:31,500
+ Very sorry.
+
+831
+00:46:31,500 --> 00:46:32,500
+ Yes.
+
+832
+00:46:32,500 --> 00:46:36,660
+ And also FireCon did publish details about their costs and platforms.
+
+833
+00:46:36,660 --> 00:46:40,660
+ If you want to know how much it costs to run a virtual convention there will be a link
+
+834
+00:46:40,660 --> 00:46:42,500
+ in the show notes.
+
+835
+00:46:42,500 --> 00:46:49,020
+ I think FireCon published details of its platforms and it costs shortly after the previous
+
+836
+00:46:49,020 --> 00:46:54,900
+ Varkon and it was one of the things that I took into account when I was enthusiastic
+
+837
+00:46:54,900 --> 00:46:57,220
+ about the idea that punctuation would do the same.
+
+838
+00:46:57,220 --> 00:47:00,540
+ We have not done it any in quite as much details they did but it's good.
+
+839
+00:47:00,540 --> 00:47:05,300
+ I think it's very useful for conventions to do this to give people who are planning other
+
+840
+00:47:05,300 --> 00:47:10,700
+ conventions a sense of what the really exciting things that they saw actually cost because
+
+841
+00:47:10,700 --> 00:47:15,460
+ sometimes those things are very expensive and sometimes they're not, they're just clever.
+
+842
+00:47:15,460 --> 00:47:21,660
+ So FireCon also announced the nominees of their Ignite Awards which I believe are a set
+
+843
+00:47:21,660 --> 00:47:26,780
+ of jury nominations from a committee from FireCon which I think this year included some of
+
+844
+00:47:26,780 --> 00:47:31,620
+ the awardees from the previous year and then they put all the nominees up for a public
+
+845
+00:47:31,620 --> 00:47:32,620
+ vote.
+
+846
+00:47:32,620 --> 00:47:34,740
+ So we put a link in the show notes.
+
+847
+00:47:34,740 --> 00:47:37,300
+ There's some really interesting nominees on there.
+
+848
+00:47:37,300 --> 00:47:43,180
+ There's some crossover with the Hugo's but there's also some really interesting things on
+
+849
+00:47:43,180 --> 00:47:44,180
+ there.
+
+850
+00:47:44,180 --> 00:47:48,940
+ They have more categories as well because they have categories for poetry, a specific year,
+
+851
+00:47:48,940 --> 00:47:52,300
+ critics award and some community awards.
+
+852
+00:47:52,300 --> 00:47:56,140
+ So it's worth going over there and checking out all the nominees and then you can vote
+
+853
+00:47:56,140 --> 00:47:58,300
+ until the 21st of May.
+
+854
+00:47:58,300 --> 00:48:07,660
+ Right, so I have just read all the way through the chat looking for Ask Octathorb questions
+
+855
+00:48:07,660 --> 00:48:11,500
+ that have not found any so that maybe didn't work.
+
+856
+00:48:11,500 --> 00:48:15,540
+ Look, right, have we tried checking out Twitter?
+
+857
+00:48:15,540 --> 00:48:20,980
+ There were at least two questions which I spotted and I really should have copied the
+
+858
+00:48:20,980 --> 00:48:21,980
+ post.
+
+859
+00:48:21,980 --> 00:48:26,220
+ So we had one for Jerry which is what is the average airspeed velocity of a laden swallow?
+
+860
+00:48:26,220 --> 00:48:28,220
+ Would that be an African or a European swallow?
+
+861
+00:48:28,220 --> 00:48:33,740
+ I am able to make the correct religious forms here.
+
+862
+00:48:33,740 --> 00:48:37,260
+ Unlike John who had no idea what that reference was referring to.
+
+863
+00:48:37,260 --> 00:48:39,580
+ I do have an idea, it's Monty Python.
+
+864
+00:48:39,580 --> 00:48:42,660
+ I always preferred the series to the movies.
+
+865
+00:48:42,660 --> 00:48:44,500
+ God I sound like a...
+
+866
+00:48:44,500 --> 00:48:45,500
+ Really?
+
+867
+00:48:45,500 --> 00:48:46,780
+ Because the series has loads of really crap stuff.
+
+868
+00:48:46,780 --> 00:48:51,620
+ If you actually go and watch it, you go, "Oh, this was a sketch show on the BBC so one
+
+869
+00:48:51,620 --> 00:48:53,660
+ joke in five is very funny."
+
+870
+00:48:53,660 --> 00:48:59,900
+ What I should say is I'm a fan of the three disc best of the sketch show set which solves
+
+871
+00:48:59,900 --> 00:49:01,740
+ an awful lot of that problem.
+
+872
+00:49:01,740 --> 00:49:07,860
+ And Claire Brierley from Croydon also asks us, "Where should we stick the iPhone if we want
+
+873
+00:49:07,860 --> 00:49:10,220
+ to send you the proof you don't want?"
+
+874
+00:49:10,220 --> 00:49:16,620
+ To be fair, that was the one that I decided we wouldn't actually do some last copy of
+
+875
+00:49:16,620 --> 00:49:17,620
+ the book.
+
+876
+00:49:17,620 --> 00:49:22,340
+ And I did post in the chat because people were clamoring for a poll of where I should
+
+877
+00:49:22,340 --> 00:49:27,980
+ stick my iPhone but I discovered I cannot do a poll of my own orifices so apologies to
+
+878
+00:49:27,980 --> 00:49:28,980
+ all of them.
+
+879
+00:49:28,980 --> 00:49:31,220
+ Okay, so let me set up a poll of John's orifices.
+
+880
+00:49:31,220 --> 00:49:34,660
+ No, not right.
+
+881
+00:49:34,660 --> 00:49:37,820
+ Family show guys.
+
+882
+00:49:37,820 --> 00:49:40,820
+ It doesn't work if I'm the one making it less family, does it?
+
+883
+00:49:40,820 --> 00:49:46,700
+ That was the 30th episode of the Oxford Hall podcast and it's goodbye from me.
+
+884
+00:49:46,700 --> 00:49:47,700
+ It's goodbye from me.
+
+885
+00:49:47,700 --> 00:49:48,940
+ And it's goodbye from me.
+
+886
+00:49:48,940 --> 00:50:11,260
+ I'm using lads wrongly.
+
+887
+00:50:11,260 --> 00:50:12,260
+ Yeah, okay.
+
+888
+00:50:12,260 --> 00:50:17,060
+ I suppose well done chaps isn't going to do me any better is it?
+
+889
+00:50:17,060 --> 00:50:18,420
+ Well done everyone.
+
+890
+00:50:18,420 --> 00:50:23,780
+ No, we need to launch a campaign that makes it clear that chaps is gender neutral because...
+
+891
+00:50:23,780 --> 00:50:25,660
+ Well done guys.
+
+892
+00:50:25,660 --> 00:50:27,900
+ Guys is less...
+
+893
+00:50:27,900 --> 00:50:33,020
+ I think chaps is definitely more gender neutral than guys or lads.
+
+894
+00:50:33,020 --> 00:50:37,380
+ The two I've been using are folks and peeps, both of which are absolutely gender neutral
+
+895
+00:50:37,380 --> 00:50:42,660
+ but I want chaps to be come gender neutral because I like calling people chaps.
+
+896
+00:50:42,660 --> 00:50:47,260
+ I always use chaps in a gender neutral way until people started saying, "Oh no, do you
+
+897
+00:50:47,260 --> 00:50:49,260
+ realize it's not gender neutral?"
+
+898
+00:50:49,260 --> 00:50:52,940
+ I was like, "It really is for me."
+
+899
+00:50:52,940 --> 00:50:57,660
+ But obviously it's not always interpreted that way so I will try to do better.
+
+900
+00:50:57,660 --> 00:51:03,900
+ Folks and peeps both are but peeps is a trademark so I have to be a bit careful about that.
+
+901
+00:51:03,900 --> 00:51:08,940
+ Roman suggests team as in the reclamation team which is a good one but I also think
+
+902
+00:51:08,940 --> 00:51:17,100
+ I try to always use chaps in a gender neutral way is maybe the title of the podcast.
+
+903
+00:51:17,100 --> 00:51:19,260
+ Yeah right, that works.
+
+904
+00:51:19,260 --> 00:51:21,100
+ I like that.
+
+905
+00:51:21,100 --> 00:51:22,940
+ Okay.
+
+906
+00:51:22,940 --> 00:51:26,420
+ I shouldn't say stuff like that now because now John can't cut that bit of complete nonsense
+
+907
+00:51:26,420 --> 00:51:27,700
+ from the podcast.
+
+908
+00:51:27,700 --> 00:51:29,340
+ Yes!
+
+909
+00:51:29,340 --> 00:51:31,420
+ This is what I feed on.
+
+910
+00:51:31,420 --> 00:51:36,580
+ Bridget suggests leather chaps which does solve the problem of people interpreting it
+
+911
+00:51:36,580 --> 00:51:38,020
+ to me.
+
+912
+00:51:38,020 --> 00:51:40,060
+ Men but...
+
+913
+00:51:40,060 --> 00:51:41,660
+ Mini Figs.
+
+914
+00:51:41,660 --> 00:51:43,220
+ Mini Figs.
+
+915
+00:51:43,220 --> 00:51:44,100
+ Nice.
+
+916
+00:51:44,100 --> 00:51:45,740
+ Okay, Mini Figs.
+
+917
+00:51:45,740 --> 00:51:51,940
+ The theme music for this episode was Fanfare for Space by Kevin McLeod at Ncompetech.com,
+
+918
+00:51:51,940 --> 00:51:55,260
+ used under a Creative Commons attribution 3.0 license.
+
+919
+00:51:55,260 --> 00:51:56,240
+ Ha ha ha ha ha!
+
+920
+00:51:56,240 --> 00:52:00,400
+ I don't have the same beep in chat now.
+
+921
+00:52:00,400 --> 00:52:03,020
+ We don't actually recall the beep but every time.
+
+922
+00:52:03,020 --> 00:52:04,020
+ Beep.
+

@@ -1,0 +1,2736 @@
+1
+00:00:00,000 --> 00:00:04,560
+ Okay John, I am very very sorry, can you work out why I am very very sorry?
+
+2
+00:00:04,560 --> 00:00:07,040
+ Have you recorded the first half of the podcast on the wrong microphone?
+
+3
+00:00:07,040 --> 00:00:11,680
+ Nope, I've recorded it on the right microphone but it was about two foot from my face.
+
+4
+00:00:11,680 --> 00:00:12,680
+ So...
+
+5
+00:00:12,680 --> 00:00:17,440
+ And so, I'm gonna put this at the start of the podcast and this is gonna function as the apology.
+
+6
+00:00:17,440 --> 00:00:23,120
+ So when you're wondering why Alison is down well this week, it wasn't my fault listeners, please don't @ me.
+
+7
+00:00:23,120 --> 00:00:24,800
+ Okay, it was my fault.
+
+8
+00:00:24,800 --> 00:00:26,560
+ I will do my best at the edit.
+
+9
+00:00:26,560 --> 00:00:38,560
+ [Music]
+
+10
+00:00:38,560 --> 00:00:47,120
+ Hello everyone and welcome to the very 75th episode of Octa Thorpe, the podcast for Science Fiction and Science Fiction fandom,
+
+11
+00:00:47,120 --> 00:00:50,640
+ which is coming to you on the 19th of January 2023.
+
+12
+00:00:50,640 --> 00:00:52,000
+ I'm John Coxon.
+
+13
+00:00:52,000 --> 00:00:54,400
+ I'm Alison Scott and I'm Liz Batty.
+
+14
+00:00:54,400 --> 00:00:59,280
+ And it has been a while since we all sat down and recorded a proper episode.
+
+15
+00:00:59,280 --> 00:01:01,920
+ We have some letters of comment.
+
+16
+00:01:01,920 --> 00:01:03,440
+ Happy New Year everyone.
+
+17
+00:01:03,440 --> 00:01:04,960
+ Happy New Year.
+
+18
+00:01:04,960 --> 00:01:06,960
+ Happy 2023.
+
+19
+00:01:06,960 --> 00:01:09,520
+ Happy 2565.
+
+20
+00:01:09,520 --> 00:01:11,600
+ It's 2565 here. I'm in the future.
+
+21
+00:01:11,600 --> 00:01:14,960
+ I always forget that but yeah, no, Liz is in the future.
+
+22
+00:01:14,960 --> 00:01:15,920
+ [Music]
+
+23
+00:01:15,920 --> 00:01:17,520
+ Is it good in the future?
+
+24
+00:01:17,520 --> 00:01:22,240
+ Both in terms of the fact that she's ahead of us in time zone and ahead of us in year number.
+
+25
+00:01:22,240 --> 00:01:24,720
+ Have they have the cure covered in the future, Liz?
+
+26
+00:01:24,720 --> 00:01:29,840
+ No, but I feel I am less likely to get it in 2565 than I did in 2022.
+
+27
+00:01:29,840 --> 00:01:35,440
+ So we had a letter of comment and it came from Sandra Bond who said,
+
+28
+00:01:35,440 --> 00:01:40,560
+ "You've heard of Elf on a Shelf, but are you ready for Mises in fleeces?"
+
+29
+00:01:40,560 --> 00:01:41,840
+ Thank you very much, Sandra.
+
+30
+00:01:41,840 --> 00:01:44,400
+ 10 out of 10 luck made me good for.
+
+31
+00:01:44,400 --> 00:01:50,880
+ We also heard from someone who is described in the show notes as Chris quote,
+
+32
+00:01:50,880 --> 00:01:53,200
+ "The legend" unquote Garcia.
+
+33
+00:01:53,200 --> 00:02:01,040
+ And Chris, the legend Garcia wrote in to tell us things.
+
+34
+00:02:01,040 --> 00:02:02,880
+ He sent it from the journey planet email.
+
+35
+00:02:02,880 --> 00:02:05,040
+ And in fact, it's not signed Chris Garcia.
+
+36
+00:02:05,040 --> 00:02:06,960
+ It signed John Cox and soulmate.
+
+37
+00:02:06,960 --> 00:02:11,200
+ So John, can you confirm on our big your sleeve that that is a letter from Christopher
+
+38
+00:02:11,200 --> 00:02:11,760
+ J Garcia?
+
+39
+00:02:11,760 --> 00:02:19,520
+ Having read it, yes, I can say that it is a lock from Christopher J Garcia.
+
+40
+00:02:19,520 --> 00:02:26,560
+ But yes, he is my soulmate and he does say that he loves graphs or dare he hope charts.
+
+41
+00:02:26,560 --> 00:02:28,800
+ What's the difference between a graph and a chart, Liz?
+
+42
+00:02:28,800 --> 00:02:29,520
+ I don't know John.
+
+43
+00:02:29,520 --> 00:02:31,200
+ Why is the difference between a graph and a chart?
+
+44
+00:02:31,200 --> 00:02:36,240
+ Well, a graph is a thing that you use to show the visualization of data
+
+45
+00:02:36,240 --> 00:02:38,480
+ and a chart is a thing a pirate uses.
+
+46
+00:02:38,480 --> 00:02:48,000
+ Arrr. Yeah, obviously, he says that he was kind of bummed that Providence didn't get smoughcon.
+
+47
+00:02:48,000 --> 00:02:51,600
+ He really enjoys Providence, especially when they host WrestleMania.
+
+48
+00:02:51,600 --> 00:02:53,840
+ Raj on Twitter.
+
+49
+00:02:53,840 --> 00:02:56,160
+ He says, lock for number 73, graphs.
+
+50
+00:02:56,160 --> 00:02:56,800
+ Hurrah.
+
+51
+00:02:56,800 --> 00:02:59,360
+ Unfortunately, I can't remember why I wanted graphs now.
+
+52
+00:02:59,360 --> 00:03:00,960
+ And then those graphs are pretty interesting.
+
+53
+00:03:00,960 --> 00:03:04,240
+ I hope the fan categories get more love and then bean dice.
+
+54
+00:03:04,240 --> 00:03:05,040
+ Ew.
+
+55
+00:03:05,040 --> 00:03:06,400
+ No, the bean dice are great.
+
+56
+00:03:06,400 --> 00:03:10,080
+ And then he's not read any Stephen King except maybe the odd short story,
+
+57
+00:03:10,080 --> 00:03:11,360
+ but he doesn't like horror.
+
+58
+00:03:11,360 --> 00:03:13,440
+ And so yeah, Stephen King has two modes.
+
+59
+00:03:13,440 --> 00:03:18,320
+ And when I've been listening to people talking about King's most recent book,
+
+60
+00:03:18,320 --> 00:03:22,880
+ a lot of them have been kind of distinguishing between King the horror writer and King the fantasy
+
+61
+00:03:22,880 --> 00:03:23,520
+ writer.
+
+62
+00:03:23,520 --> 00:03:26,400
+ My understanding is that he's very talented in both modes.
+
+63
+00:03:26,400 --> 00:03:28,640
+ I have not read any of his fantasy mode.
+
+64
+00:03:28,640 --> 00:03:31,920
+ I basically imagine him a bit like Optimus Prime, but for books.
+
+65
+00:03:31,920 --> 00:03:35,920
+ I mean, it's fantasy is mostly, it's mostly dark tower, I guess.
+
+66
+00:03:36,400 --> 00:03:38,080
+ Which I haven't read, I think is most recent one.
+
+67
+00:03:38,080 --> 00:03:40,640
+ Yeah, it's as similar as I guess you might say with fantasy,
+
+68
+00:03:40,640 --> 00:03:43,840
+ but I primarily read the horror wands.
+
+69
+00:03:43,840 --> 00:03:48,880
+ Oh, well, I've read the stand, which is, you know, kind of post-apocalyptic science fiction in a way.
+
+70
+00:03:48,880 --> 00:03:50,000
+ Post-apocalyptic fantasy?
+
+71
+00:03:50,000 --> 00:03:50,400
+ I don't know.
+
+72
+00:03:50,400 --> 00:03:51,520
+ I mean, there's a play.
+
+73
+00:03:51,520 --> 00:03:52,240
+ Yes.
+
+74
+00:03:52,240 --> 00:03:55,280
+ 11/22/63 is science fiction.
+
+75
+00:03:55,280 --> 00:04:01,760
+ But no fairytale is the one I'm thinking of, which came out in 2022 and is very much in his fantasy
+
+76
+00:04:01,760 --> 00:04:04,320
+ oeuvre rather than his horror oeuvre.
+
+77
+00:04:04,320 --> 00:04:06,160
+ Let's continue. This is a boring digression.
+
+78
+00:04:06,160 --> 00:04:12,240
+ Raj and Hugo Girl also sent us a flurry of mentions on Twitter,
+
+79
+00:04:12,240 --> 00:04:14,000
+ which Liz will now summarize.
+
+80
+00:04:14,000 --> 00:04:20,800
+ Yes. So they were discussing a previous episode of Hugo Girl, which was their one about
+
+81
+00:04:20,800 --> 00:04:21,760
+ Callocaine.
+
+82
+00:04:21,760 --> 00:04:26,800
+ And basically to summarize it, Raj told the Hugo Girl team that if they're coming over to Glasgow
+
+83
+00:04:26,800 --> 00:04:30,000
+ for Worldcon, they need to try it iron brew, which is correct.
+
+84
+00:04:30,000 --> 00:04:30,880
+ Yep, true.
+
+85
+00:04:30,880 --> 00:04:39,600
+ And this has spiralled into possibly a sort of American versus British food tasting item at Glasgow.
+
+86
+00:04:39,600 --> 00:04:43,920
+ So if you want to suggest anything that should be included in this episode,
+
+87
+00:04:43,920 --> 00:04:47,120
+ you probably have about a year and a half realistically to suggest them.
+
+88
+00:04:47,120 --> 00:04:51,920
+ But I do think that if they come to Glasgow, we will be making them have iron brew and maybe
+
+89
+00:04:51,920 --> 00:04:52,960
+ deep-fried Mars bar?
+
+90
+00:04:52,960 --> 00:04:54,080
+ Deep-fried Mars bar? Yep.
+
+91
+00:04:54,080 --> 00:04:54,960
+ Haggis.
+
+92
+00:04:54,960 --> 00:04:56,640
+ Oh, deep-fried Mars bar.
+
+93
+00:04:56,640 --> 00:04:57,120
+ Yeah.
+
+94
+00:04:57,120 --> 00:04:58,720
+ I really like deep-fried Mars bar.
+
+95
+00:04:58,720 --> 00:05:00,320
+ I also like deep-fried Mars bar.
+
+96
+00:05:00,320 --> 00:05:01,920
+ Deep-fried Mars bars are great, is why.
+
+97
+00:05:01,920 --> 00:05:05,360
+ Quite hard to get Haggis in the United States because of food safety law.
+
+98
+00:05:05,360 --> 00:05:10,960
+ Laurie and Kevin are vegetarian and vegetarian Haggis is easier to get because vegetables are
+
+99
+00:05:10,960 --> 00:05:13,200
+ less dangerous. You heard it here first.
+
+100
+00:05:13,200 --> 00:05:15,200
+ But vegetarian Haggis is also very nice.
+
+101
+00:05:15,200 --> 00:05:19,280
+ I mean, basically it's the spice mix that makes Haggis nice and you can put that in pretty much
+
+102
+00:05:19,280 --> 00:05:21,280
+ any edible food.
+
+103
+00:05:21,280 --> 00:05:22,160
+ So, um...
+
+104
+00:05:22,160 --> 00:05:27,280
+ I would concur that vegetarian Haggis is not a pale limitation of meat-based Haggis.
+
+105
+00:05:27,280 --> 00:05:30,880
+ It is almost identical and doesn't have weird bits of sheep in it.
+
+106
+00:05:30,880 --> 00:05:32,800
+ So, you know, that's quite good, isn't it?
+
+107
+00:05:32,800 --> 00:05:37,040
+ So Kevin Stanley wrote to us to say you had difficulty finding information about
+
+108
+00:05:37,040 --> 00:05:43,600
+ smofcon and I had put all of the smofcon big presentations in a video on the...
+
+109
+00:05:43,600 --> 00:05:47,600
+ on YouTube, on the smofcon 38 YouTube channel.
+
+110
+00:05:47,600 --> 00:05:52,160
+ And it is fair to say that we didn't go hunting out videos,
+
+111
+00:05:52,160 --> 00:05:58,160
+ though we might have done a few people to link to them. But, um, we don't really like long videos
+
+112
+00:05:58,160 --> 00:06:02,640
+ of the base in presentations as a mechanism for acquiring information because it is very slow.
+
+113
+00:06:02,640 --> 00:06:06,800
+ And we would prefer to get nice, tight news reports.
+
+114
+00:06:06,800 --> 00:06:08,960
+ So, you know, South friction journalists do your bit.
+
+115
+00:06:08,960 --> 00:06:15,360
+ What we don't like is when in order to get the information you have to listen to one or more
+
+116
+00:06:15,360 --> 00:06:21,200
+ people blather on instead of just being able to read it nice and concisely off a webpage.
+
+117
+00:06:21,200 --> 00:06:22,400
+ Oh no, wait.
+
+118
+00:06:22,400 --> 00:06:27,040
+ We do put links in our show notes to be fair.
+
+119
+00:06:27,040 --> 00:06:30,160
+ Yeah, we do. No, and I would also say,
+
+120
+00:06:30,160 --> 00:06:33,200
+ I think smofcon, as a convention full of people who run conventions,
+
+121
+00:06:33,200 --> 00:06:37,120
+ should in many ways be modelling best convention running behaviour.
+
+122
+00:06:37,120 --> 00:06:41,840
+ And I will leave the rest of that sentence as an exercise for the reader.
+
+123
+00:06:41,840 --> 00:06:44,960
+ Have you ever heard the proverb about cobblers children?
+
+124
+00:06:44,960 --> 00:06:46,240
+ No, I'd haven't.
+
+125
+00:06:46,240 --> 00:06:48,480
+ Um, it's about cobblers children and not having shoes.
+
+126
+00:06:48,480 --> 00:06:52,880
+ Yeah, and I'd say the floor here is that, I mean, one thing about YouTube videos is
+
+127
+00:06:52,880 --> 00:06:56,240
+ they're not very indexable in searches.
+
+128
+00:06:56,240 --> 00:07:00,720
+ So when I went searching for stuff about smofcon 40 bid sessions,
+
+129
+00:07:00,720 --> 00:07:02,560
+ I didn't find the videos basically.
+
+130
+00:07:02,560 --> 00:07:03,520
+ No, and it is interesting.
+
+131
+00:07:03,520 --> 00:07:07,200
+ Like, even if Kevin or, well, not Kevin, it's not going to stop necessarily.
+
+132
+00:07:07,200 --> 00:07:11,360
+ But even if someone had sent that to far 770 and far some 70 had literally just linked it,
+
+133
+00:07:11,360 --> 00:07:13,840
+ saying here is the video, I would have found it then.
+
+134
+00:07:14,720 --> 00:07:18,640
+ It's basically a problem with linking as much as it is a problem with anything else.
+
+135
+00:07:18,640 --> 00:07:21,600
+ Like, if you have information, put it in lots of places,
+
+136
+00:07:21,600 --> 00:07:25,520
+ because then you maximise the chance of people finding it.
+
+137
+00:07:25,520 --> 00:07:29,680
+ Kevin does note something interesting, which was that the vote was not obviously split,
+
+138
+00:07:29,680 --> 00:07:32,160
+ kind of US versus rest of world.
+
+139
+00:07:32,160 --> 00:07:37,280
+ There are clearly US and Canadian attendees who voted for Sweden and vice versa.
+
+140
+00:07:37,280 --> 00:07:42,560
+ He basically says that getting to providence from large parts of the US is a little bit of a pain,
+
+141
+00:07:42,560 --> 00:07:44,640
+ because it's really far in the corner.
+
+142
+00:07:44,640 --> 00:07:48,400
+ And I guess it's not a big airport.
+
+143
+00:07:48,400 --> 00:07:51,920
+ So he notes that from where he lives in northern Nevada,
+
+144
+00:07:51,920 --> 00:07:55,440
+ it's almost as complicated for him to travel to providence as to Stockholm.
+
+145
+00:07:55,440 --> 00:07:57,840
+ And that is also a fair comment.
+
+146
+00:07:57,840 --> 00:07:59,040
+ Do you still want to go to both?
+
+147
+00:07:59,040 --> 00:08:00,160
+ I've been to Stockholm.
+
+148
+00:08:00,160 --> 00:08:01,040
+ Want to go to providence?
+
+149
+00:08:01,040 --> 00:08:05,120
+ I mean, Northern Nevada is one of the remotest places on the planet.
+
+150
+00:08:05,120 --> 00:08:10,320
+ You might as well send from the depths of the Amazonian jungle.
+
+151
+00:08:10,320 --> 00:08:14,560
+ It is the earliest part of getting stuck over to get to providence.
+
+152
+00:08:14,560 --> 00:08:18,320
+ I've been to Nevada and I've not been to the Amazonian jungle.
+
+153
+00:08:18,320 --> 00:08:23,200
+ So one day I hope to get to the Amazonian jungle, I suppose is the point.
+
+154
+00:08:23,200 --> 00:08:27,680
+ And then we had another lock, which is from Dave Mansfield.
+
+155
+00:08:27,680 --> 00:08:32,320
+ Dave did some great AI beer recipes, one for each of us,
+
+156
+00:08:32,320 --> 00:08:36,400
+ and then one that combined elements of each of the three together.
+
+157
+00:08:36,400 --> 00:08:42,320
+ I won't read them out, but I will put a link in the show notes to Dave's tweet.
+
+158
+00:08:42,320 --> 00:08:43,680
+ What was the tweet you wanted?
+
+159
+00:08:43,680 --> 00:08:45,040
+ No, it's a letter.
+
+160
+00:08:45,040 --> 00:08:46,800
+ Oh, no, shit, it was an email.
+
+161
+00:08:46,800 --> 00:08:49,840
+ Basically listeners, just imagine a great email.
+
+162
+00:08:49,840 --> 00:08:52,320
+ What I like is that they look as a non-brewer.
+
+163
+00:08:52,320 --> 00:08:54,960
+ They look like they are plausible beer recipes,
+
+164
+00:08:54,960 --> 00:08:57,360
+ but the one for me suggests that you make the beer,
+
+165
+00:08:57,360 --> 00:09:00,400
+ and then you mix it basically equal parts beer,
+
+166
+00:09:00,400 --> 00:09:03,680
+ sweetened condensed milk, and I had a bag of Thai iced tea ricks.
+
+167
+00:09:03,680 --> 00:09:07,280
+ And listeners, I don't think this is a drink I can recommend.
+
+168
+00:09:07,280 --> 00:09:10,880
+ But if anyone wants to try it, I'll bring you a bag of Thai iced tea mix.
+
+169
+00:09:10,880 --> 00:09:11,600
+ How about that?
+
+170
+00:09:11,600 --> 00:09:16,960
+ Yeah, I assume that, you know, Dave will brew all three of these in time for Glasgow
+
+171
+00:09:16,960 --> 00:09:19,600
+ in 2024, and we'll have them on the pot.
+
+172
+00:09:19,600 --> 00:09:23,840
+ Kurt Phillips wrote to us, so Kurt was the only person who mentioned the poem,
+
+173
+00:09:23,840 --> 00:09:25,840
+ and he didn't mention the poem, but he mentioned the picture,
+
+174
+00:09:25,840 --> 00:09:31,120
+ and said, "Why is, why is Greg Thulu behind bars when John Cox said he's on the loose?"
+
+175
+00:09:31,120 --> 00:09:35,680
+ And I think that's a fair question for you, really.
+
+176
+00:09:35,680 --> 00:09:37,680
+ But it's all a matter of perspective.
+
+177
+00:09:37,680 --> 00:09:42,320
+ I did enjoy reading Sandra's poem on the podcast.
+
+178
+00:09:42,320 --> 00:09:46,720
+ I also enjoyed finding out from Alison's reading of the poem
+
+179
+00:09:46,720 --> 00:09:48,720
+ the pronunciation of the word jibber.
+
+180
+00:09:48,720 --> 00:09:50,800
+ That is how you say jibber, is it not?
+
+181
+00:09:50,800 --> 00:09:51,760
+ I think so.
+
+182
+00:09:51,760 --> 00:09:54,480
+ I was trying to channel Stanley Holloway,
+
+183
+00:09:54,480 --> 00:09:57,760
+ and I am not very good at it for anyone who was confused by a poem.
+
+184
+00:09:57,760 --> 00:10:01,440
+ It is a pastiche of the Larnard Albert.
+
+185
+00:10:01,440 --> 00:10:05,360
+ The Larnard Albert is the most famous monologue written by Merit Edgar,
+
+186
+00:10:05,360 --> 00:10:08,480
+ and was made famous by Stanley Holloway.
+
+187
+00:10:08,480 --> 00:10:13,360
+ And we'll put a link to a YouTube video in the show next,
+
+188
+00:10:13,360 --> 00:10:15,200
+ so you can see how it's meant to be said.
+
+189
+00:10:15,200 --> 00:10:20,000
+ Duncan McGregor also got in touch to say that he has not yet finished his Christmas pastiche
+
+190
+00:10:20,000 --> 00:10:22,320
+ due to work, so it might need to wait till next Christmas.
+
+191
+00:10:22,320 --> 00:10:26,640
+ And it's always good to have a bank of forthcoming Christmas pastiche's.
+
+192
+00:10:26,640 --> 00:10:28,720
+ Do write in next year, Duncan.
+
+193
+00:10:28,720 --> 00:10:31,040
+ Obviously, feel free to write in before that as well.
+
+194
+00:10:31,040 --> 00:10:37,920
+ Either Lillian Edwards or a chatbot doing an extremely good impersonation of Lillian Edwards
+
+195
+00:10:37,920 --> 00:10:41,280
+ wrote to say, "Oh damn, I meant to do something about that poem business,"
+
+196
+00:10:41,280 --> 00:10:46,080
+ which is about as perfect a summation of a Lillian Edwards lock as you could hope to get.
+
+197
+00:10:52,560 --> 00:10:57,760
+ We've got a couple of sort of follow-outs or follow-ins or whatever you want to call them,
+
+198
+00:10:57,760 --> 00:11:02,480
+ about our discussion on semi-prozines from a few weeks ago.
+
+199
+00:11:02,480 --> 00:11:08,720
+ So firstly to note that the Locust fundraiser is doing well.
+
+200
+00:11:08,720 --> 00:11:11,920
+ I mean, I think we discussed the Locust fundraiser,
+
+201
+00:11:11,920 --> 00:11:16,960
+ but I think our discussion was less about whether we thought Locust would make its target
+
+202
+00:11:16,960 --> 00:11:21,120
+ and more about whether we thought like the Locust model was sustainable.
+
+203
+00:11:21,120 --> 00:11:23,200
+ But they made their target.
+
+204
+00:11:23,200 --> 00:11:28,720
+ It's very difficult for me to tell because Indiegogo likes to convert everything into your local
+
+205
+00:11:28,720 --> 00:11:31,360
+ currency and I cannot do the back conversion in my head.
+
+206
+00:11:31,360 --> 00:11:39,360
+ They have made $92,485 out of a requested $91,978.
+
+207
+00:11:39,360 --> 00:11:40,720
+ Hang on, that seemed weird.
+
+208
+00:11:40,720 --> 00:11:44,000
+ Oh, I see, but it also says there's a $75,000 goal.
+
+209
+00:11:44,000 --> 00:11:47,920
+ So I think they've added a stretch goal if they get there.
+
+210
+00:11:47,920 --> 00:11:52,400
+ Yeah, I mean, this is good because it means that there will be Locusts for at least another year.
+
+211
+00:11:52,400 --> 00:11:55,680
+ But they do, they have stretch goals, which are basically, if you give us more money,
+
+212
+00:11:55,680 --> 00:12:00,800
+ you'll get kind of some special issues and things, which is interesting because it basically
+
+213
+00:12:00,800 --> 00:12:03,520
+ means if they hit their stretch goals, they have to put out even more issues,
+
+214
+00:12:03,520 --> 00:12:07,440
+ which presumably they also have to print and so on and pay more contributors for.
+
+215
+00:12:07,440 --> 00:12:09,360
+ Ends up giving them basically even more work.
+
+216
+00:12:09,360 --> 00:12:12,480
+ It's interesting to see how that's going to work.
+
+217
+00:12:12,480 --> 00:12:16,480
+ One of the things that is clear, or one of the things that I know from having followed a lot of
+
+218
+00:12:16,480 --> 00:12:20,080
+ board game kickstarters and kickstarters in general, most of the tabletop kickstarters,
+
+219
+00:12:20,080 --> 00:12:25,920
+ is that doing those stretch goals that require you to do lots of extra work is kind of a trap
+
+220
+00:12:25,920 --> 00:12:31,280
+ because quite often what ends up happening is you in no way accurately reflect the cost of doing
+
+221
+00:12:31,280 --> 00:12:34,320
+ the extra work in the extra amount you got from the stretch goal.
+
+222
+00:12:34,320 --> 00:12:37,280
+ So I'm a little bit surprised that they did stretch goals.
+
+223
+00:12:37,280 --> 00:12:41,840
+ It seems like quite a fundraising 101 thing that you might be like,
+
+224
+00:12:41,840 --> 00:12:43,760
+ actually, let's just get the money we need.
+
+225
+00:12:43,760 --> 00:12:45,920
+ And then let's worry about stretch goals next time.
+
+226
+00:12:45,920 --> 00:12:50,720
+ I guess it is a very common thing in, for instance, the semi-prozine kickstarters, all right?
+
+227
+00:12:50,720 --> 00:12:54,080
+ Whenever you have one for, you know, uncanny or strange rather than something,
+
+228
+00:12:54,080 --> 00:12:57,520
+ it's quite common for there to be a stretch goal, which is we will do this special issue.
+
+229
+00:12:57,520 --> 00:13:01,840
+ So maybe it's just kind of conforming to what backers expect.
+
+230
+00:13:01,840 --> 00:13:05,200
+ Maybe, yeah, could well be, that is a good point.
+
+231
+00:13:05,200 --> 00:13:06,640
+ Shall I do a segue?
+
+232
+00:13:06,640 --> 00:13:07,920
+ You could segue.
+
+233
+00:13:07,920 --> 00:13:14,880
+ Because segue's nicely into the next topic, which is over the kind of holiday period,
+
+234
+00:13:14,880 --> 00:13:19,280
+ Amazon announced they were stopping doing magazine subscriptions through Kindle,
+
+235
+00:13:19,280 --> 00:13:24,960
+ which is potentially a big hit to quite a lot of magazines who have a lot of subscribers through
+
+236
+00:13:24,960 --> 00:13:29,120
+ Kindle. And it was interesting that the editor of Uncanny, one of the witnesses of Uncanny,
+
+237
+00:13:29,120 --> 00:13:34,240
+ Michael Thomas, pulled out the numbers of people who were supporting kickstarters for different
+
+238
+00:13:34,240 --> 00:13:39,520
+ semi-prozines, which all come in at basically about 400 to 1000 backers, I think,
+
+239
+00:13:39,520 --> 00:13:45,760
+ locus and out about 1,165 backers. But he's saying that is a relatively small number of people
+
+240
+00:13:45,760 --> 00:13:51,920
+ compared to, say, Amazon's an analog, which apparently have about 10,000 subscribers through
+
+241
+00:13:51,920 --> 00:13:59,120
+ Kindle periodical. So it could be, there is this kind of core of maybe 2,000, 3,000 people who
+
+242
+00:13:59,120 --> 00:14:02,640
+ were supporting a lot of these kickstarters, and they're exactly the people that locus kind of
+
+243
+00:14:02,640 --> 00:14:07,520
+ were appealing to, and have gone for the thing you kind of expect to see on a magazine kickstarter.
+
+244
+00:14:07,520 --> 00:14:12,480
+ But then it's kind of how can you expand that to a wider audience? And obviously the Kindle
+
+245
+00:14:12,480 --> 00:14:16,800
+ periodical was a way of getting maybe a completely different set of people to subscribe to you on
+
+246
+00:14:16,800 --> 00:14:21,600
+ a different platform, and that is now, now gone. It's going to be interesting to see if that has
+
+247
+00:14:21,600 --> 00:14:25,360
+ any effect on sort of the finances and the income of these magazines.
+
+248
+00:14:25,360 --> 00:14:33,280
+ It sort of reminds me a lot of the discussions that were had around sustainability, not from a
+
+249
+00:14:33,280 --> 00:14:37,760
+ profit perspective, but from a reader perspective when Google Reader went away, because a lot of
+
+250
+00:14:37,760 --> 00:14:41,920
+ people were like, "Oh, we should not have relied so heavily on Google to do this because now a lot
+
+251
+00:14:41,920 --> 00:14:44,560
+ of our readers have gone away." And I think a lot of the magazines are going to be like, "Oh,
+
+252
+00:14:44,560 --> 00:14:47,680
+ we should not have relied so heavily on Amazon to do this because now a lot of our readers are
+
+253
+00:14:47,680 --> 00:14:55,280
+ going to go away." So my professional advice here would be if you are reliant on a single platform
+
+254
+00:14:55,280 --> 00:15:01,360
+ for more than about a third of your income, you probably need to have diversification on your
+
+255
+00:15:01,360 --> 00:15:06,720
+ forward plan fairly quickly, because this happens all the time. You know,
+
+256
+00:15:06,720 --> 00:15:12,240
+ bits of platforms that you rely on stop doing the thing you were making money with all of the time.
+
+257
+00:15:12,240 --> 00:15:20,320
+ And it goes double for Amazon, because Amazon, some platforms quite care about their creators,
+
+258
+00:15:20,320 --> 00:15:24,080
+ but Amazon really doesn't give us stuff about you.
+
+259
+00:15:24,080 --> 00:15:29,200
+ This ties into a lot of the reasons why I make sure there are always non-Amazon links in the show
+
+260
+00:15:29,200 --> 00:15:37,440
+ notes every episode, because I don't think we are currently as readers very reliant on Amazon,
+
+261
+00:15:37,440 --> 00:15:41,840
+ and that seems in the long term to be a fool's errand to me.
+
+262
+00:15:41,840 --> 00:15:46,160
+ Yeah, and I'm not going to criticize everything magazines for being too reliant on one or the
+
+263
+00:15:46,160 --> 00:15:51,120
+ other, just that obviously, or on kind of leg of the stool got kicked out over Christmas,
+
+264
+00:15:51,120 --> 00:15:54,240
+ and it's going to be interesting to see if there's a way of replacing that. You know,
+
+265
+00:15:54,240 --> 00:16:00,240
+ does something else pop up where you can subscribe to magazines through it. You can do it through,
+
+266
+00:16:00,240 --> 00:16:07,920
+ say, weightless books website, but obviously there's like a much kind of bigger gap of getting
+
+267
+00:16:07,920 --> 00:16:13,360
+ people to go into weightless books and register for that, and buy the subscriptions and set them
+
+268
+00:16:13,360 --> 00:16:17,200
+ to email to you, and so on. There is to just like clicking a button on the Amazon website,
+
+269
+00:16:17,200 --> 00:16:24,080
+ and it pops up on your Kindle.
+
+270
+00:16:25,040 --> 00:16:33,040
+ Chengdu! Liz, do you want to go into Chengdu? Chengdu! Chengdu! We have talked about the Chengdu
+
+271
+00:16:33,040 --> 00:16:37,520
+ WorldCon before. We're going to talk about Chengdu WorldCon again, because it is getting increasingly
+
+272
+00:16:37,520 --> 00:16:43,760
+ close to the time of the Chengdu WorldCon, and like nothing is happening and no one knows what's
+
+273
+00:16:43,760 --> 00:16:54,160
+ going on. So a brief digression into Wispers Constitution mode. Thank you, John. There
+
+274
+00:16:54,160 --> 00:17:00,080
+ aren't many deadlines in the Wispers Constitution, but there are a couple, and one of them is that
+
+275
+00:17:00,080 --> 00:17:06,720
+ you have to be a member of the WorldCon by the end of January in order to nominate. So it'll be
+
+276
+00:17:06,720 --> 00:17:11,200
+ being a member of Chengdu, or being a member of Chengdu, because they get nomination rights from
+
+277
+00:17:11,200 --> 00:17:15,280
+ the beginning of the year. So basically, it is pretty important that you are able to actually
+
+278
+00:17:15,280 --> 00:17:21,600
+ join the convention by January 31st, if you'd like to be able to nominate. And it seems that you can
+
+279
+00:17:21,600 --> 00:17:27,040
+ now join Chengdu, although I haven't tested it because I have a full membership by voting at
+
+280
+00:17:27,040 --> 00:17:30,400
+ Discord, and I think John and Alison do as well. So I'm not sure any of us have actually tested
+
+281
+00:17:30,400 --> 00:17:35,840
+ this, but it does appear that Chengdu have had an awful time trying to set up credit card payments,
+
+282
+00:17:35,840 --> 00:17:40,240
+ essentially because like the credit card systems and the systems used in China are not well
+
+283
+00:17:40,240 --> 00:17:44,080
+ integrated with the systems used in the rest of the world. And I would assume setting up a bank
+
+284
+00:17:44,080 --> 00:17:49,520
+ account in China to take credit card payments from overseas is not a trivial job. But the outcome
+
+285
+00:17:49,520 --> 00:17:54,080
+ of this is if you would like to nominate in the Hugo's and you do not currently have a supporting
+
+286
+00:17:54,080 --> 00:18:00,000
+ membership, you'll have to try and join. And then I think do a direct bank transfer to someone and
+
+287
+00:18:00,000 --> 00:18:05,680
+ send the receipt to them, and they will check over and then give you a membership, which probably works,
+
+288
+00:18:05,680 --> 00:18:09,520
+ but I don't know like where the bank is that you have to transfer money to. I don't know
+
+289
+00:18:09,520 --> 00:18:14,160
+ whether it's your costs involved with this. Basically listeners, if any of you have tried it,
+
+290
+00:18:14,160 --> 00:18:17,920
+ let us know because I'd be interested to know how it works. But this is one of the things where
+
+291
+00:18:17,920 --> 00:18:23,040
+ it is currently like, I guess it's fulfilling kind of the requirements of the Constitution,
+
+292
+00:18:23,040 --> 00:18:27,680
+ which is you can allow people to join. It doesn't say you actually have to allow people to join
+
+293
+00:18:27,680 --> 00:18:34,640
+ easily or without a large international wire transfer markup or anything like that. And so
+
+294
+00:18:34,640 --> 00:18:38,640
+ it's going to be interesting to see if anyone, you know, does try and change the Constitution
+
+295
+00:18:38,640 --> 00:18:42,560
+ to make it so that, you know, you not only have to allow people to join, but allow people to join
+
+296
+00:18:42,560 --> 00:18:47,440
+ relatively easily. Now the counterpoint to that might be, I have no idea how easy it's been for
+
+297
+00:18:47,440 --> 00:18:52,240
+ anyone in China to become a supporting member of Worldcons for like the past 15 years, possibly
+
+298
+00:18:52,240 --> 00:18:56,560
+ also extremely difficult. But it doesn't seem ideal that this is your solution when you're getting
+
+299
+00:18:56,560 --> 00:19:00,400
+ very close to a deadline. And there's just like, there's a sort of the hand done, like, I don't
+
+300
+00:19:00,400 --> 00:19:05,840
+ think I've actually had any emails from the Chengdu, Worldcon, even though I am a member. We haven't
+
+301
+00:19:05,840 --> 00:19:09,840
+ got any progress reports. There is another petition against their guest of honor,
+
+302
+00:19:09,840 --> 00:19:13,760
+ Sergei Lukianenko, who we'll link to in the show notes.
+
+303
+00:19:13,760 --> 00:19:19,120
+ Confirmed Rotta Sergei Lukianenko. I feel like we should always introduce him with confirmed
+
+304
+00:19:19,120 --> 00:19:23,280
+ Rotta in Starwood name, because he's confirmed Rotta letters.
+
+305
+00:19:23,280 --> 00:19:28,960
+ But yeah, so they are tweeting. And I mean, I can log into their website and see some things and
+
+306
+00:19:28,960 --> 00:19:35,040
+ click on them. And they are tweeting quite a bit, but not thing particularly relevant to
+
+307
+00:19:35,040 --> 00:19:38,960
+ say joining the Worldcon. It'd just be nice to see a little bit more activity. Now,
+
+308
+00:19:38,960 --> 00:19:45,360
+ it has been, I'm sure, extremely hard to deal with the COVID situation. And I'm aware that now
+
+309
+00:19:45,360 --> 00:19:50,000
+ is also basically a holiday. So I don't know if we're going to hear from anything from them soon,
+
+310
+00:19:50,000 --> 00:19:54,640
+ but it would be nice to hear a little bit more from them kind of outside the times when they
+
+311
+00:19:54,640 --> 00:19:58,400
+ absolutely have to say something like at the, you know, smothcon, vanishing position and so on.
+
+312
+00:19:58,400 --> 00:20:04,640
+ And this is something that slightly worries me because I am, although I was not a huge fan of
+
+313
+00:20:04,640 --> 00:20:09,760
+ China's bid specifically, I am in general a huge fan of countries bidding to host Worldcon's
+
+314
+00:20:09,760 --> 00:20:16,640
+ that are not the usual suspects. But I do worry that part of the problem with having a convention
+
+315
+00:20:16,640 --> 00:20:22,800
+ do a bad job of that when they do it, as Chengdu currently are, is that it sours the
+
+316
+00:20:22,800 --> 00:20:29,040
+ pot for sort of future people trying to do the same thing. Like every international
+
+317
+00:20:29,040 --> 00:20:34,480
+ Worldcon that is a complete shower hurts the chance that we'll get more international
+
+318
+00:20:34,480 --> 00:20:39,440
+ Worldcons in the future. And I don't like it when that happens. And it's not fair that it happens,
+
+319
+00:20:39,440 --> 00:20:44,160
+ but it is true, I think. But I will say, like, given that it is a Chinese holiday at the moment,
+
+320
+00:20:44,160 --> 00:20:49,200
+ or coming up very soon with Chinese New Year, they did need to make sure they had all their ducks
+
+321
+00:20:49,200 --> 00:20:53,200
+ in a row before that happened. And they very clearly did not make sure they had their ducks in a row,
+
+322
+00:20:53,200 --> 00:20:58,960
+ which is pain in the butt. Yeah, because nothing is going to happen during Chinese New Year at all,
+
+323
+00:20:59,360 --> 00:21:04,080
+ so which if case anyone doesn't know, it's quite a long holiday, a couple of weeks. And it's normally
+
+324
+00:21:04,080 --> 00:21:08,960
+ a couple of weeks, but a bit of travel. So it takes people a bit of a while to get back into the
+
+325
+00:21:08,960 --> 00:21:14,160
+ swing of things afterwards as well, typically. So when, as I haven't checked, I'm just talking
+
+326
+00:21:14,160 --> 00:21:19,760
+ out of my hat here, but I do wonder if when they say, oh, people have to make a direct payment to
+
+327
+00:21:19,760 --> 00:21:26,640
+ a bank account, that means a direct payment to a US bank account, thereby disenfranchising everyone
+
+328
+00:21:26,640 --> 00:21:32,240
+ who is not in the US or China. But I don't know, somebody, people who do know, write in.
+
+329
+00:21:32,240 --> 00:21:37,680
+ Yeah, I mean, it's not insurmountable to make a direct bank transfer to a US account from the UK.
+
+330
+00:21:37,680 --> 00:21:42,320
+ It's just bloody expensive. Yeah, I mean, there are websites that will allow you to do it for minimal
+
+331
+00:21:42,320 --> 00:21:47,520
+ costs and so on, but it's like an, it's just an extra hoop to jump through. I mean, I will say that
+
+332
+00:21:47,520 --> 00:21:51,840
+ I pay for a lot of things in Thailand by direct bank transfer, like a lot more than ever used to
+
+333
+00:21:51,840 --> 00:21:56,880
+ the UK, because really easy to do. So they may have been thinking, well, we do direct bank transfers
+
+334
+00:21:56,880 --> 00:22:00,800
+ to each other a lot. Let's just set one up so people can do a direct bank transfer to the other
+
+335
+00:22:00,800 --> 00:22:05,280
+ person. I can't test it out because I can't kind of get in and do it without buying a membership,
+
+336
+00:22:05,280 --> 00:22:09,680
+ basically, which I do not want to do because I've already got one listeners, we are guinea pigs.
+
+337
+00:22:09,680 --> 00:22:15,120
+ Yeah, it's also tricky, because all of the things we just said assume that they are,
+
+338
+00:22:15,120 --> 00:22:18,720
+ I think we're Chinese people who are like, well, maybe it works fine for us if we do it like that.
+
+339
+00:22:18,720 --> 00:22:22,720
+ So maybe it will work fine for everyone else. But like, I have a question, which is,
+
+340
+00:22:22,720 --> 00:22:27,440
+ Ben Yalu is the co-chair, and there are other non-Chinese fans involved with this world gone.
+
+341
+00:22:27,440 --> 00:22:32,640
+ And my question to those fans is, what are you doing? They're trying to touch Chinese people.
+
+342
+00:22:32,640 --> 00:22:36,400
+ I mean, it's difficult from the outside. It might be that they're all doing exactly what
+
+343
+00:22:36,400 --> 00:22:40,400
+ they're supposed to be doing. And it's all on the Chinese fans who are involved being horrible
+
+344
+00:22:40,400 --> 00:22:44,960
+ at communicating that means that they're not. And I mean, I don't even care if it is a formal
+
+345
+00:22:44,960 --> 00:22:51,040
+ PR1, to be honest. You could just put a blog post up, title PR1. But it needs to include things like,
+
+346
+00:22:51,040 --> 00:22:58,560
+ when we expect to do stuff, like let you be able to buy a membership or open hotel bookings, or even,
+
+347
+00:22:58,560 --> 00:23:04,160
+ you know, put an informational page up about what you might need to do to get a visa if that's
+
+348
+00:23:04,160 --> 00:23:07,520
+ even going to be possible, that kind of thing. Because this is a time frame when if people were
+
+349
+00:23:07,520 --> 00:23:11,760
+ going to go, they would be thinking about planning their trips. And possibly they are not so bothered
+
+350
+00:23:11,760 --> 00:23:16,400
+ about getting anyone from overseas. But if you don't get anyone from overseas, then I don't really
+
+351
+00:23:16,400 --> 00:23:20,320
+ see the point in having the world come up with just a Chinese science fiction convention, which
+
+352
+00:23:20,320 --> 00:23:23,520
+ would probably be a lot easier to administer for them. And you wouldn't have to muck about with all
+
+353
+00:23:23,520 --> 00:23:28,640
+ this constitutional stuff. It's a mess. Yarrr. But there's still time to fix things. So it's not
+
+354
+00:23:28,640 --> 00:23:32,720
+ like an irreneumable mess. Yeah, it's just a mess where we're saying, yeah, it's probably time that
+
+355
+00:23:32,720 --> 00:23:37,360
+ you started doing a few of these things. And hopefully they will buy that in mind. You know,
+
+356
+00:23:37,360 --> 00:23:39,680
+ when they're listening to us, fountains of all, fanish knowledge.
+
+357
+00:23:40,560 --> 00:23:42,400
+ [laughs]
+
+358
+00:23:42,400 --> 00:23:42,880
+ Yup.
+
+359
+00:23:42,880 --> 00:23:49,920
+ But yeah, it just, it frustrates me greatly, because I would quite like, I would like things to be
+
+360
+00:23:49,920 --> 00:23:54,640
+ different. I'd like it to be a really good Wilcon. And then like, there might be more in
+
+361
+00:23:54,640 --> 00:23:58,560
+ non-traditional Wilcon places. But it's probably not going to be. So...
+
+362
+00:23:58,560 --> 00:24:05,120
+ Nope. So bear in mind that China at the moment can get the Wilcon anytime it wants. So, you know,
+
+363
+00:24:05,120 --> 00:24:10,880
+ it just might not want it. But I think you are wrong in so far as if this is a huge and
+
+364
+00:24:10,880 --> 00:24:16,160
+ shambolic mess, the Wussfish Constitution will be modified to make sure that it is harder
+
+365
+00:24:16,160 --> 00:24:21,120
+ for China to win in the way it did last time. And do you have any suggestions for that modification,
+
+366
+00:24:21,120 --> 00:24:26,160
+ John? Siggly, sickly. Well, though, I mean, firstly, I think there will be modifications,
+
+367
+00:24:26,160 --> 00:24:29,920
+ stuff like you have to have your own email address in your own address. But the other thing I did
+
+368
+00:24:29,920 --> 00:24:35,040
+ wonder was whether it was worth or whether anyone would propose an amendment to the Wussfish
+
+369
+00:24:35,040 --> 00:24:41,760
+ Constitution. So there is 4.6.1. And I'm taking advantage of the Liz Bat's work here, because I
+
+370
+00:24:41,760 --> 00:24:46,480
+ believe Liz posted this in a chat I was having elsewhere and I copied and pasted it into the
+
+371
+00:24:46,480 --> 00:24:52,880
+ show notes. So this is Liz's research. So for what this one one basically says that any convention
+
+372
+00:24:52,880 --> 00:24:57,280
+ that wants to be eligible for site selection has to do three things. They have to file documents
+
+373
+00:24:57,280 --> 00:25:02,560
+ that say that they are intending to bid, they have to have evidence of an agreement with the
+
+374
+00:25:02,560 --> 00:25:07,200
+ facilities such as a conditional contract, and they have to have rules under which their committee
+
+375
+00:25:07,200 --> 00:25:12,640
+ will operate, including stuff like replacing officers and so forth. And I wondered whether
+
+376
+00:25:12,640 --> 00:25:18,160
+ it would be possible to introduce a fourth thing where you have to be able to take card payments
+
+377
+00:25:18,160 --> 00:25:25,200
+ to let people join. You have to show that you can do that, because I don't think it's good, as Liz
+
+378
+00:25:25,200 --> 00:25:30,480
+ said earlier. I don't think it's good for the world con if world cons who are not in
+
+379
+00:25:30,480 --> 00:25:34,800
+ traditionally world con hosting countries end up not being able to have anyone from the
+
+380
+00:25:34,800 --> 00:25:38,400
+ wider world con community attend, because that just seems like it's siloing in a different way,
+
+381
+00:25:38,400 --> 00:25:43,040
+ which I don't think is all that healthy. But yeah, there are arguments for and against probably.
+
+382
+00:25:43,040 --> 00:25:50,320
+ There are lots of places where credit card use is very is quite uncommon, including quite a lot
+
+383
+00:25:50,320 --> 00:25:56,320
+ places that you might have thought that credit card use was relatively common and some places in
+
+384
+00:25:56,320 --> 00:26:06,400
+ which you might think a welcome might happen. I'd be concerned that we don't go for a solution
+
+385
+00:26:06,400 --> 00:26:11,040
+ that has the effect of disenfranchising some countries where credit card uses uncommon.
+
+386
+00:26:11,040 --> 00:26:16,000
+ I think some of the Eastern European country, I mean, I'm probably talking politics again.
+
+387
+00:26:16,560 --> 00:26:21,040
+ But I think we've got to have a balance here, which is I want to make it so that people can
+
+388
+00:26:21,040 --> 00:26:26,000
+ join easily. But I also don't want to put the barriers up for potential bids so high that they
+
+389
+00:26:26,000 --> 00:26:32,160
+ can't meet them if there might be an alternative. I'm thinking of say the proposed Ugandan bid,
+
+390
+00:26:32,160 --> 00:26:36,720
+ who might find it difficult to get, you know, be able to take credit card payments from people
+
+391
+00:26:36,720 --> 00:26:40,400
+ from the US, but they may be able to have an alternative like possibly take them through
+
+392
+00:26:40,960 --> 00:26:47,440
+ PayPal or take bank transfers and have a local agent or something similar. And the reason is also
+
+393
+00:26:47,440 --> 00:26:52,080
+ that, you know, it's possible that some of these places like China will have to bid several times
+
+394
+00:26:52,080 --> 00:26:55,680
+ and I don't want them kind of out of the running of being able to kind of dip their toes in the
+
+395
+00:26:55,680 --> 00:27:00,320
+ water and bid if they have to also be able to demonstrate that their kind of credit card infrastructure
+
+396
+00:27:00,320 --> 00:27:07,920
+ is up and running before they start. So maybe if you said a mechanism to take payments worldwide.
+
+397
+00:27:07,920 --> 00:27:12,880
+ Well, from that perspective, China's got one. You can wire transfer to the states. So that's fine.
+
+398
+00:27:12,880 --> 00:27:17,920
+ And they've already met that. But not at the point where they bid. And this is suggesting we have a
+
+399
+00:27:17,920 --> 00:27:23,920
+ little extra hoop at the bidding stage at the paper filing stage, which has traditionally been
+
+400
+00:27:23,920 --> 00:27:30,320
+ kept very minimal where possible. But if the reason we want to make that change is because
+
+401
+00:27:30,320 --> 00:27:35,600
+ it's very difficult to join China, making it a change that would not make it any easier to join
+
+402
+00:27:35,600 --> 00:27:40,960
+ China seems daft to me. Might as well just not change it. Because you argued earlier in this very
+
+403
+00:27:40,960 --> 00:27:46,800
+ episode that wire transfers to a US bank account were also exclusionary for large numbers of the
+
+404
+00:27:46,800 --> 00:27:53,280
+ world's population. I think I may just be saying that the convention has to absorb the transfer costs.
+
+405
+00:27:53,280 --> 00:28:00,160
+ So they need to bundle in transfer costs for global for global payments into their convention,
+
+406
+00:28:00,160 --> 00:28:04,960
+ design and budgeting. No, because like, I don't know much about the finances of like
+
+407
+00:28:04,960 --> 00:28:11,680
+ conventions in less well off countries. But I imagine that they need lower budgets and asking them to
+
+408
+00:28:11,680 --> 00:28:17,120
+ spend large amounts of their budget that US world cons don't have to spend on that seems very unfair
+
+409
+00:28:17,120 --> 00:28:22,000
+ from an exclusion perspective. The thing is, I can't think of a way of doing this that isn't
+
+410
+00:28:22,000 --> 00:28:26,640
+ massively disenfranchising. And so I think you have to ask a question, is this a big enough problem
+
+411
+00:28:26,640 --> 00:28:30,960
+ that it's worth the risk that it is disenfranchising, which it may or may not be, I don't know.
+
+412
+00:28:30,960 --> 00:28:34,640
+ And then you have to ask the question, like, how do we do this in the easiest possible way
+
+413
+00:28:34,640 --> 00:28:39,680
+ that disenfranchises the fewest people? And I think the more you tie yourself into not trying to
+
+414
+00:28:39,680 --> 00:28:44,800
+ avoid disenfranchising people, my worry is the more you risk doing it. I'd be quite happy if
+
+415
+00:28:44,800 --> 00:28:49,680
+ Chengdu had just said to try con, can you keep your credit card payments open for a little bit
+
+416
+00:28:49,680 --> 00:28:54,640
+ and take some memberships for us, please? Or even to Glasgow? I don't know. I don't see a reason why
+
+417
+00:28:54,640 --> 00:29:01,040
+ Chengdu couldn't say to Glasgow, do you mind taking memberships for us and give us the money?
+
+418
+00:29:01,040 --> 00:29:07,200
+ Is there a reason why not? I think getting the money into China might be the issue, but I don't know.
+
+419
+00:29:07,200 --> 00:29:12,080
+ But I don't see how that's not a problem with wire transferring to an agent in the US.
+
+420
+00:29:12,080 --> 00:29:16,320
+ We don't know if it's a wire transfer trade in the US, I'll just say we were speculating. It might
+
+421
+00:29:16,320 --> 00:29:20,720
+ be that actually when you do the wire transfer on this site, you wire transfer to a Chinese bank account.
+
+422
+00:29:20,720 --> 00:29:25,520
+ So we all speculate a bit there. Oh, I see what you mean. I did read, I'm sure I read somewhere
+
+423
+00:29:25,520 --> 00:29:30,240
+ that it was an agent in the US, but I can't find a source for it. So do write in if you know
+
+424
+00:29:30,240 --> 00:29:37,200
+ listeners. But also, but also, I think the thing is, I don't know if I think that doing memberships
+
+425
+00:29:37,200 --> 00:29:43,600
+ the way Chengdu are doing it is not exclusionary. Yeah, they're planning to open a corporation in
+
+426
+00:29:43,600 --> 00:29:49,680
+ Wyoming. So I think that answers quite a lot of those questions. And they should have done that
+
+427
+00:29:49,680 --> 00:29:55,360
+ in 2021. And it is tricky because I don't know how you square the circle, as Liz says, of making
+
+428
+00:29:55,360 --> 00:30:01,360
+ it difficult for bids to bid. But I was going on a notion of most bids wanting to be able to take
+
+429
+00:30:01,360 --> 00:30:05,120
+ pre support. I appreciate that wasn't true for China because they don't need the money. I'd be
+
+430
+00:30:05,120 --> 00:30:09,280
+ interested to know what listeners think right in, let me know if I'm being hugely unreasonable.
+
+431
+00:30:09,280 --> 00:30:13,600
+ Let me know if I'm not. Let me know if let me know what you reckon. I'm sure we're going to talk
+
+432
+00:30:13,600 --> 00:30:22,960
+ about Chengdu a few more times before the summer. But one thing that has emerged is that I think
+
+433
+00:30:22,960 --> 00:30:28,240
+ they were expecting almost of the entire cost of the convention to be picked up by sponsorship deals.
+
+434
+00:30:28,240 --> 00:30:33,120
+ And I don't think they've actually got those sponsorship deals yet. So I am. I am watching
+
+435
+00:30:33,120 --> 00:30:39,280
+ fascinatedly to see what happens there. So I think that's all we have to say about Chengdu. Is
+
+436
+00:30:39,280 --> 00:30:45,360
+ that all we have to say about Chengdu? For this week. Well, we said we said quite a lot. So
+
+437
+00:30:45,360 --> 00:30:52,000
+ we know I mean that is true. We said quite a lot. And basically you did not come to any strong
+
+438
+00:30:52,000 --> 00:30:56,400
+ conclusions because I think we are balancing the two things of, you know, it should be easy for
+
+439
+00:30:56,400 --> 00:31:00,800
+ people to join your convention foreign country. And we shouldn't make you jump through a lot of
+
+440
+00:31:00,800 --> 00:31:06,080
+ very expensive hoops. Yeah, it is a genuinely difficult. I want there to be a solution. I have
+
+441
+00:31:06,080 --> 00:31:08,800
+ no idea what that solution is. So this is right in. Yes.
+
+442
+00:31:08,800 --> 00:31:22,800
+ Liz is going to do the Run Along Wombl TBR challenge and we'll mention it here for accountability. Liz.
+
+443
+00:31:22,800 --> 00:31:27,520
+ Thank you, John, for reading out what I put in the show notes.
+
+444
+00:31:27,520 --> 00:31:35,520
+ Basically, the Run Along Wombl blog has a challenge to tackle your, you know, to be read pile in 2023,
+
+445
+00:31:35,520 --> 00:31:41,520
+ which is basically a different suggestion for every month in 2023 of how you might read some
+
+446
+00:31:41,520 --> 00:31:45,680
+ of those books that you always buy and then never get around to reading. And I have quite a few of
+
+447
+00:31:45,680 --> 00:31:51,440
+ those. So I thought I might give it a go. So my January, my January project is to read the most
+
+448
+00:31:51,440 --> 00:31:56,880
+ recent book on my TBR pile, which I will get around to eventually, but it's a paper book. So it's
+
+449
+00:31:56,880 --> 00:32:00,480
+ taking me a bit longer than usual. And then for every month, there's like a stretch goal. And the
+
+450
+00:32:00,480 --> 00:32:05,280
+ stretch goal is to read the oldest book. And the other thing I quite like is February. It suggests
+
+451
+00:32:05,280 --> 00:32:10,400
+ that you read 28 short stories, which would work quite well for preparing for Hugo nominations,
+
+452
+00:32:10,400 --> 00:32:16,160
+ assuming the Hugo nominations actually happen and so on. And so I thought I might try following it.
+
+453
+00:32:16,160 --> 00:32:20,720
+ And I thought if I mention it here, then someone might remind me at, you know, intervals throughout
+
+454
+00:32:20,720 --> 00:32:24,720
+ the year that I plan to do this and see if I've actually done any of it. So you heard it here
+
+455
+00:32:24,720 --> 00:32:28,960
+ first, listeners. No, it's a good, it's a good idea. I did on the subject of the stretch goal,
+
+456
+00:32:28,960 --> 00:32:36,720
+ I did see someone in a chat, I'm in, say it's bold of them to assume that I know what the oldest book
+
+457
+00:32:36,720 --> 00:32:41,840
+ on my TBR pile is. And obviously the solution there is to clear your current TBR pile before
+
+458
+00:32:41,840 --> 00:32:45,520
+ starting the challenge. So you do have good data. It doesn't really matter, does it? I mean,
+
+459
+00:32:45,520 --> 00:32:50,320
+ it's in the spirit of things like if I read, Oh, the third oldest book on my TBR pile, who cares?
+
+460
+00:32:50,320 --> 00:32:54,560
+ Some people would, I do not, but actually what I'm doing is I'm reading the book I can find
+
+461
+00:32:55,360 --> 00:33:01,200
+ my, the earliest book in my Kindle purchasing history that I haven't read, which I think is from 2017.
+
+462
+00:33:01,200 --> 00:33:07,200
+ So yeah, might read that. I'm going to, I'm still decluttering. And one of the things I am decluttering
+
+463
+00:33:07,200 --> 00:33:13,280
+ is almost all the books we own on paper that are, that just have text in them, that we are keeping
+
+464
+00:33:13,280 --> 00:33:18,720
+ a few, but very, very few. But I am going to offer an alternative stretch goal, which is to look at
+
+465
+00:33:18,720 --> 00:33:24,480
+ your oldest TBR book, conclusion never going to read it and delete it and then continue with this
+
+466
+00:33:24,480 --> 00:33:29,680
+ process until you get to one that you actually fancy reading and then read that one. Because I
+
+467
+00:33:29,680 --> 00:33:35,120
+ think there's a whole thing about the way in which having a very large number of books you haven't
+
+468
+00:33:35,120 --> 00:33:40,320
+ read, particularly paper ones, weighs your mind down. There are plenty of new books to read guys,
+
+469
+00:33:40,320 --> 00:33:45,040
+ only keep the old books if you really still want to read them. Don't fall foul of the sunk
+
+470
+00:33:45,040 --> 00:33:50,320
+ cost fallacy. Why, why we don't need a book that I've already bought? I have this with steam.
+
+471
+00:33:50,320 --> 00:33:53,840
+ I have so many steam games that I've got in bundles that I'm never ever going to play. I wish
+
+472
+00:33:53,840 --> 00:33:57,920
+ there was a good way of just being like, I don't want this anymore, get rid of it. But every time I
+
+473
+00:33:57,920 --> 00:34:02,480
+ am like, because I can't sell it for like, if I could sell it for a penny, mentally, but like
+
+474
+00:34:02,480 --> 00:34:08,160
+ brilliant, that's good. But just deleting it feels wrong. Like, no, I own this, deleting it will be
+
+475
+00:34:08,160 --> 00:34:12,640
+ wasteful. And so there is a real like tension there, but it stresses me out that I've got all
+
+476
+00:34:12,640 --> 00:34:19,200
+ these games in steam. I mean, also listeners, I did my 2022 steam end of year stats and steam
+
+477
+00:34:19,200 --> 00:34:23,920
+ says I played one game and that game was tabletop simulator. So I think it's time to conclude that
+
+478
+00:34:23,920 --> 00:34:28,720
+ maybe I just don't play games on PC anymore. That phase of my life has passed. Yeah, so I kind of get
+
+479
+00:34:28,720 --> 00:34:33,840
+ both points. I would like to say two further things. One is that obviously I don't actually own my
+
+480
+00:34:33,840 --> 00:34:37,840
+ books because they're on my Kindle. So technically Amazon owns them and could delete them at any time.
+
+481
+00:34:37,840 --> 00:34:43,840
+ And the other thing says, when I said 2017, I didn't mean 2017 at all. I meant 2011.
+
+482
+00:34:47,760 --> 00:34:54,640
+ Oh, oh, that is that is a delightful little coder. I love it. For those who are following along at home,
+
+483
+00:34:54,640 --> 00:35:01,840
+ I was just finishing my undergraduate degree in 2011. I expect Liz, you were finishing your PhD?
+
+484
+00:35:01,840 --> 00:35:06,080
+ Yeah, just finished it. So of course, it didn't read anything during my undergraduate degree or
+
+485
+00:35:06,080 --> 00:35:13,040
+ my PhD that I started reading in. I think I found that my undergraduate and PhD did do a number for
+
+486
+00:35:13,040 --> 00:35:18,480
+ my leisure reading as well. My youngest child had just started secondary school and all you think
+
+487
+00:35:18,480 --> 00:35:24,000
+ people who think that a PhD does a number on your reading habits, you should try having children.
+
+488
+00:35:24,000 --> 00:35:30,000
+ Oh my god. So no, it sounds like a good ploy, Liz. I'm kind of trying to do something similar
+
+489
+00:35:30,000 --> 00:35:36,320
+ with board games, not as a result of this challenge, but the board game app I use to log my board
+
+490
+00:35:36,320 --> 00:35:42,560
+ game plays has so it has like a challenges expansion you can buy in app and you set yourself challenges
+
+491
+00:35:42,560 --> 00:35:46,400
+ and they've recently announced a new type of challenge, which is you can set a challenge to bring
+
+492
+00:35:46,400 --> 00:35:53,120
+ your cost per play of each of your board games down to five pounds. And so I have set that up
+
+493
+00:35:53,120 --> 00:35:57,840
+ basically. So if you spent 60 quid on a board game, you would need to play it 12 times in order
+
+494
+00:35:57,840 --> 00:36:02,160
+ for each player to of course five pounds. And I set myself the target of doing this by first
+
+495
+00:36:02,160 --> 00:36:07,760
+ January 2035. And also, I'm not going to worry if I don't like it's basically just for data. I'm not
+
+496
+00:36:07,760 --> 00:36:14,400
+ actually pushing to try and do it, but it reliably for me, I need to play 287 more games in 717 days.
+
+497
+00:36:14,400 --> 00:36:22,000
+ So that's good. It's got a little graph. Hoorah. John, if you have a game and you know, it costs you
+
+498
+00:36:22,000 --> 00:36:26,160
+ say 50 pounds and you've played it twice and then you sell it on eBay for 50 pounds, do you get 10
+
+499
+00:36:26,160 --> 00:36:31,600
+ pounds in credit? No, but I will say if I buy a game, play it once and hate it and then sell it,
+
+500
+00:36:31,600 --> 00:36:36,560
+ I delete it from the stats completely. So like, you know, I'm making out like a bandit, they're
+
+501
+00:36:36,560 --> 00:36:41,200
+ worthless. Obviously, there's a solution here, which is to never spend more than a five or on a
+
+502
+00:36:41,200 --> 00:36:46,800
+ tabletop board game. But I did notice that board games stats has spaces for how much you pay for a
+
+503
+00:36:46,800 --> 00:36:51,120
+ board game, which I'm trying to fill in. And it doesn't really have a note of how much you
+
+504
+00:36:51,120 --> 00:36:56,720
+ realize when you get shot of it. So I am trying to buy most games, either cheaply or second-hand.
+
+505
+00:36:56,720 --> 00:37:01,360
+ And and so that should reduce the cost per play. My New Year's resolution is to get rid of half
+
+506
+00:37:01,360 --> 00:37:07,280
+ of my possessions pretty much in 2023. But we started early, we started in November. Yeah,
+
+507
+00:37:07,280 --> 00:37:13,600
+ that's a lot. Physical possessions. So I will end up with a very large number of books on
+
+508
+00:37:13,600 --> 00:37:18,480
+ Kobo. And I think that just means that Rakuten owns them all. I don't think it's any better,
+
+509
+00:37:18,480 --> 00:37:23,600
+ though I have a kind of bit of a caliber thing going on. So I do have copies of them all that
+
+510
+00:37:23,600 --> 00:37:25,040
+ Rakuten does not own.
+
+511
+00:37:25,040 --> 00:37:31,440
+ [Music]
+
+512
+00:37:31,440 --> 00:37:37,200
+ Should we do picks? Yeah, suppose so. I can go down the pub. Who wants to start?
+
+513
+00:37:37,200 --> 00:37:42,080
+ I want to start. So like last year, I put a note on my Facebook page. This is a public post,
+
+514
+00:37:42,080 --> 00:37:48,800
+ so we'll link to the show notes saying, "Tell us one good novel written in 2022." And lots of
+
+515
+00:37:48,800 --> 00:37:54,000
+ people did, and about most of them were written in 2022. I'm going to do another post, which will
+
+516
+00:37:54,000 --> 00:37:59,200
+ be out by the time you get this saying, "Recomend me one thing that's not a novel that was new in 2022
+
+517
+00:37:59,200 --> 00:38:03,760
+ that you enjoyed." And so hopefully that will get me a lot of recommendations and things that are
+
+518
+00:38:03,760 --> 00:38:10,720
+ not novels. In the novels, several people said, "Ah, you should read Cold Water by Dave Hutchinson."
+
+519
+00:38:10,720 --> 00:38:14,080
+ And I said, "I cannot do that because I haven't read the first four books in the series." And they
+
+520
+00:38:14,080 --> 00:38:19,680
+ said, "Oh no, you are so wrong about that." So I picked up the first book in his Fractured Europe
+
+521
+00:38:19,680 --> 00:38:26,560
+ series, which is "European Autumn." And I read it, and I liked it very much indeed. And I'll talk
+
+522
+00:38:26,560 --> 00:38:34,240
+ a little bit about why I liked it, which is that it is a near future spy thriller. And I had just
+
+523
+00:38:34,240 --> 00:38:38,560
+ read one of these that I didn't like very much at all. So it was quite nice reading one that I
+
+524
+00:38:38,560 --> 00:38:44,160
+ liked ever such a lot. And the reason is that the balconyization of Europe, it is set in a
+
+525
+00:38:44,160 --> 00:38:52,480
+ Europe which has fallen into lots of little bits as a result of Brexit and not Brexit, but a pandemic
+
+526
+00:38:52,480 --> 00:38:58,640
+ and the independence of Scotland and all of that sort of stuff. And Hutchinson seems to be
+
+527
+00:38:58,640 --> 00:39:04,000
+ seems to be quite prescient because he wrote all of this before all of the shenanigans that have
+
+528
+00:39:04,000 --> 00:39:09,600
+ happened over the last few years. But the book derives a lot of its power and interest from
+
+529
+00:39:10,160 --> 00:39:15,600
+ the way in which these different little bits of Europe are different, and the way in which
+
+530
+00:39:15,600 --> 00:39:22,160
+ increasing borders everywhere makes life difficult for everybody. And it's all very good and very
+
+531
+00:39:22,160 --> 00:39:28,320
+ entertaining, but you kind of go, well, as a spy thriller, this is strange because everything here is
+
+532
+00:39:28,320 --> 00:39:35,600
+ a bit more weird and off-kilter than you would expect if it was a spy thriller, and about 80%
+
+533
+00:39:35,600 --> 00:39:39,600
+ through of the way through the novel. You discover that something entirely different is also going on.
+
+534
+00:39:39,600 --> 00:39:45,360
+ So it kind of takes a very dramatic turn to the left. I absolutely loved it. But it was amazing.
+
+535
+00:39:45,360 --> 00:39:51,680
+ And Dave the first time on Wednesday and said, "Ha, your book is amazing. Oh gosh, it's amazing.
+
+536
+00:39:51,680 --> 00:39:55,840
+ I've met a lot of authors, so I know that if you meet authors and tell them their books are amazing,
+
+537
+00:39:55,840 --> 00:40:00,480
+ they never mind, and it's true he didn't." So that was very nice. If you're listening, Dave,
+
+538
+00:40:00,480 --> 00:40:05,840
+ love your book. I also have Europe in autumn on my To Be Red pile. It's one of my older books on
+
+539
+00:40:05,840 --> 00:40:12,960
+ my To Be Red pile. So maybe I should take Liz's Wha ha. One-bling challenge and use it to read that
+
+540
+00:40:12,960 --> 00:40:16,480
+ other probably not before Easter, because I have reading to before Easter.
+
+541
+00:40:16,480 --> 00:40:21,440
+ I really liked it. Very much looking forward to the rest, although it's a series. So traditionally,
+
+542
+00:40:21,440 --> 00:40:26,160
+ I read the second and I'd like them. Yeah, that's okay, but not as nice as the first, and then I read
+
+543
+00:40:26,160 --> 00:40:30,000
+ the third and go, "Oh no, I'm done with this series now." So I don't know because I've only read the
+
+544
+00:40:30,000 --> 00:40:34,400
+ first, but the first one's amazing. If you haven't read it, you definitely should. It's very timely
+
+545
+00:40:34,400 --> 00:40:39,200
+ because it was published in 2015. There's a thing in the TBR challenge about finishing your series
+
+546
+00:40:39,200 --> 00:40:43,200
+ that you previously started. Did you know, Alison? Oh, I should bet your accountability,
+
+547
+00:40:43,200 --> 00:40:48,720
+ because I said that on this podcast a year ago, I was going to watch all of the Expanse
+
+548
+00:40:48,720 --> 00:40:55,920
+ Television show in 2022, and we are nearly all the way through season two. So that went well,
+
+549
+00:40:55,920 --> 00:41:01,600
+ better than the average New Year's resolution. Very well done, very well done. So only four and
+
+550
+00:41:01,600 --> 00:41:08,720
+ half seasons left to go. I will put a link to, well, assuming Alison is comfortable with me doing this,
+
+551
+00:41:08,720 --> 00:41:16,400
+ I'll put a link to Alison's year in review, exaltation in the show notes, and I will also
+
+552
+00:41:16,400 --> 00:41:23,120
+ put a link to the Strange Horizons round up of the year, which I read and got some good
+
+553
+00:41:23,120 --> 00:41:27,600
+ recommendations out of as well. Liz, do you want to go next? Or do you want me to go next?
+
+554
+00:41:27,600 --> 00:41:34,000
+ I can go next, if you like. Hey, do it. I've picked a book which, I don't know, it's maybe not my
+
+555
+00:41:34,000 --> 00:41:38,240
+ favourite book I read over the holidays, but I thought it was quite interesting and might be
+
+556
+00:41:38,240 --> 00:41:42,960
+ interested in this. It's a book called A Game of Birds and Wolves by Simon Parkin, who I think
+
+557
+00:41:42,960 --> 00:41:47,360
+ has previously written quite a lot of stuff about video games, but this is actually about,
+
+558
+00:41:47,360 --> 00:41:54,400
+ it's about the battle for the Atlantic during World War II, which was a battle basically between
+
+559
+00:41:54,400 --> 00:42:00,240
+ the German U-boats and the merchant shipping that was trying to desperately feed Britain during the
+
+560
+00:42:00,240 --> 00:42:05,280
+ Second World War. And the bit I was completely unaware of is that there was essentially a unit
+
+561
+00:42:05,280 --> 00:42:12,320
+ who came up with, it's actually a big board game, that they used to plot out strategies to,
+
+562
+00:42:12,320 --> 00:42:16,320
+ you know, beat the U-boats quadrants. And so that was interesting and it's got a bit about like the
+
+563
+00:42:16,320 --> 00:42:19,840
+ history of, you know, war gaming and it's not the first time that war games have been used to
+
+564
+00:42:19,840 --> 00:42:24,640
+ train people in more time, but this appeared to, you know, be pretty successful. Came up with several
+
+565
+00:42:24,640 --> 00:42:30,240
+ strategies that were used to even the odds between these merchant convoys and the U-boats. And the
+
+566
+00:42:30,240 --> 00:42:36,960
+ other interesting thing is that a lot of the participants in this were the Ren's, so the women's
+
+567
+00:42:36,960 --> 00:42:42,240
+ role-neighful personnel and because a lot of them were involved, essentially in setting up the game
+
+568
+00:42:42,240 --> 00:42:48,400
+ and in managing it and also ending up becoming very, very skilled at it to the point where you had
+
+569
+00:42:48,400 --> 00:42:55,840
+ these Ren's playing as submariners against like the captains of Royal Naval ships and beating them,
+
+570
+00:42:55,840 --> 00:42:59,360
+ essentially because they become so good at kind of the rules of this game. And that is very
+
+571
+00:42:59,360 --> 00:43:03,200
+ interesting. Unfortunately, it's a little bit underplayed because it's quite clear that,
+
+572
+00:43:03,200 --> 00:43:07,520
+ basically, not a lot of them wrote memoirs or things like that. And certainly not the same degree
+
+573
+00:43:07,520 --> 00:43:12,800
+ that kind of high up male Royal Naval personnel were. And so there's some sort of tantalizing things
+
+574
+00:43:12,800 --> 00:43:17,520
+ where we maybe don't actually know quite enough about what their thoughts were at this time.
+
+575
+00:43:17,520 --> 00:43:21,920
+ But it sort of blends kind of a high level of view of the battle for the Atlantic,
+
+576
+00:43:21,920 --> 00:43:26,080
+ the Ren organization, and a few of the specific ones who took part in this, and some of the
+
+577
+00:43:26,080 --> 00:43:29,440
+ also officers who were doing it because they're the leading officer with someone who couldn't be
+
+578
+00:43:29,440 --> 00:43:35,280
+ on active service due to illness and disability, but was able to kind of take this part of training
+
+579
+00:43:35,280 --> 00:43:41,920
+ thousands of ship captains to try and defeat the U-boat tactics. So it's goes great and frustrating
+
+580
+00:43:41,920 --> 00:43:45,440
+ in that obviously there's a lack of some of the primary sources you really want to be in there,
+
+581
+00:43:45,440 --> 00:43:50,320
+ and maybe it could go into a bit more detail in places. I kind of wanted more detail on what the
+
+582
+00:43:50,320 --> 00:43:56,640
+ Ren's were always doing in the military, and you'd get quite a bit more about what was documented
+
+583
+00:43:56,640 --> 00:44:01,040
+ about, say, when they fell in love with Royal Naval Naval Naval so married them because I think
+
+584
+00:44:01,040 --> 00:44:05,360
+ we've got a bit more documentation on that. But it was a pretty satisfying read, and certainly I had
+
+585
+00:44:05,360 --> 00:44:09,600
+ no idea there was this board game that was being used to game out tactics against submarines that
+
+586
+00:44:09,600 --> 00:44:14,880
+ seemed to work pretty well. So I recommend it. On the topic of board games, yes, so there's been
+
+587
+00:44:14,880 --> 00:44:20,080
+ like board gaming in war, and board gaming in defense is really interesting. There's like
+
+588
+00:44:20,080 --> 00:44:26,000
+ been a bunch of stuff on it. There's like a few FBI board games as well that are used to train,
+
+589
+00:44:26,000 --> 00:44:32,880
+ I'd say FBI or CIA, but one of the one of the federal US agencies still uses them to this day,
+
+590
+00:44:32,880 --> 00:44:38,080
+ but it's fascinating. Well, that is mentioned in the book actually briefly. He goes to, he's allowed
+
+591
+00:44:38,080 --> 00:44:42,880
+ to sit in on one of the kind of war gaming exercises that they do at a miniature base and not give any
+
+592
+00:44:42,880 --> 00:44:49,920
+ details but kind of give like a kind of general overview of it. My experience of playing games
+
+593
+00:44:49,920 --> 00:44:57,600
+ that I used for scenario planning for all sorts, it's not just war actually, games turn out in all
+
+594
+00:44:57,600 --> 00:45:03,440
+ sorts of planning exercises. I don't think that's in any way secret is that they're not fun like
+
+595
+00:45:03,440 --> 00:45:10,080
+ real games are. It's a bit like fitness games or things like that. As soon as you apply actual
+
+596
+00:45:10,080 --> 00:45:14,640
+ purpose to the games, they're way less fun than the games we like to play for fun.
+
+597
+00:45:14,640 --> 00:45:22,160
+ I had to think about picks because we haven't recorded for a little while, and I have consumed
+
+598
+00:45:22,160 --> 00:45:28,240
+ media like I've consumed more than one media since last time we got together. And so I had to
+
+599
+00:45:28,240 --> 00:45:35,200
+ consider which one to pick. Obviously I did consider picking the cricket book. I can't remember if
+
+600
+00:45:35,200 --> 00:45:41,280
+ I've mentioned the cricket book on the podcast. I'm not picking this obviously but if I were to pick
+
+601
+00:45:41,280 --> 00:45:47,200
+ it, I'd be picking a hit against the spin which is basically quite good because it uses data and
+
+602
+00:45:47,200 --> 00:45:51,840
+ it has parameter spaces in it. And if you have any interest in data or sport at all, I would
+
+603
+00:45:51,840 --> 00:45:57,120
+ recommend it. Even if you're not specifically interested in cricket, I think it has enough to
+
+604
+00:45:57,120 --> 00:46:04,160
+ say about data in sport is good. Claire's gonna lend it to me. But in fact I'm gonna pick something
+
+605
+00:46:04,160 --> 00:46:13,040
+ asefnel. I'm gonna pick the Moon Day Letters by Emmy Iteranta, which was given to me by Nick
+
+606
+00:46:13,040 --> 00:46:18,080
+ Clark and Neil Harrison from The Birthdate. Thank you very much. Peeps and is really good.
+
+607
+00:46:18,080 --> 00:46:26,720
+ It's an odd ten book. You're good. It has more? Yeah. It's about a woman whose spouse is on a
+
+608
+00:46:26,720 --> 00:46:35,520
+ work trip and it's about how that goes. And it's told in the form of her journal over the course of
+
+609
+00:46:35,520 --> 00:46:42,560
+ some time. I'm not quite sure exactly how much time but kind of certainly several months. And
+
+610
+00:46:42,560 --> 00:46:48,480
+ the setting is effectively the way I put it. So Neil and Neil didn't think I was being
+
+611
+00:46:48,480 --> 00:46:56,320
+ horrendously daft. Was it a bit like a magical realism version of the Expanse? So like it's
+
+612
+00:46:56,320 --> 00:47:02,000
+ kind of a solar system where Earth isn't doing so well and Mars and other colonies are kind of
+
+613
+00:47:02,000 --> 00:47:10,240
+ overtaking it. And the character we follow is from Earth originally and we follow her kind of
+
+614
+00:47:10,240 --> 00:47:14,800
+ throughout the solar system as it were. And it's really interesting. It's really good. I liked it a
+
+615
+00:47:14,800 --> 00:47:20,560
+ lot. Neil and Abigail both raved about it and I've seen other people raving about it too.
+
+616
+00:47:20,560 --> 00:47:26,240
+ And that was the old thought podcast and it's goodbye from me. It's goodbye from me.
+
+617
+00:47:26,240 --> 00:47:27,760
+ And it's goodbye from me.
+
+618
+00:47:48,080 --> 00:47:51,520
+ It's basically what we need to do is we need to develop a convention board game.
+
+619
+00:47:51,520 --> 00:47:57,120
+ Well it's if I ran the zuc on which which we've recommended to you multiple times in the past
+
+620
+00:47:57,120 --> 00:48:01,760
+ but it's quite dated now. Which I have previously thought actually well there's a new edition which
+
+621
+00:48:01,760 --> 00:48:06,880
+ I've never played. It's still quite dated. Yeah but I wondered if it was worth getting the updated
+
+622
+00:48:06,880 --> 00:48:13,440
+ edition and making you and John be convention committees for a podcast one day. How do I play
+
+623
+00:48:13,440 --> 00:48:18,000
+ if I run the zuc on? Because when you have previously talked about it I have thought it was like
+
+624
+00:48:18,000 --> 00:48:21,840
+ oh there is this thing. I didn't think it was a recommendation of you should go and find it and
+
+625
+00:48:21,840 --> 00:48:26,160
+ play it. It's a board game. It's not a recommendation of that and it's not really a board game. It's
+
+626
+00:48:26,160 --> 00:48:32,240
+ like a like a scenario. I am on the board game geek listing. I've been on the board game geek
+
+627
+00:48:32,240 --> 00:48:38,160
+ listing and in files it says no files found and in overview it says propose official link.
+
+628
+00:48:38,160 --> 00:48:44,480
+ So it is now on my it's on my want to play and I want to play it make it happen.
+
+629
+00:48:44,480 --> 00:48:48,400
+ Well you can get it from the nest for press website but I'm not sure if you can I think you can get
+
+630
+00:48:48,400 --> 00:48:53,920
+ the PDF. Let me check. You probably wanted to have a PDF. I love for a PDF. There was also a
+
+631
+00:48:53,920 --> 00:48:59,440
+ British version of this. Have you ever played Mystic Wood? No. Okay so Mystic Wood's a classic
+
+632
+00:48:59,440 --> 00:49:04,880
+ board game and there is a convention version of that called Mystic Con which is kind of like if
+
+633
+00:49:04,880 --> 00:49:11,200
+ I ran the Zucom but for Britain and also very old. I work Old Avalon Hill game. Yeah I mean the
+
+634
+00:49:11,200 --> 00:49:17,280
+ the first edition of If I ran the Zucom is 1986 which I'm sure not much has changed
+
+635
+00:49:17,280 --> 00:49:23,920
+ it aboard con running since 1986. I only played it once at a one of the pre-world con con runner
+
+636
+00:49:23,920 --> 00:49:30,240
+ things and it was hilarious because we spent a lot more of our money and people points on booze
+
+637
+00:49:30,240 --> 00:49:37,520
+ and were like does this stuff we need a sweet really? Nah. And then you like it basically doesn't
+
+638
+00:49:37,520 --> 00:49:44,080
+ really work I think for it did it was it was both quite dated and quite American so. So fun fact
+
+639
+00:49:44,080 --> 00:49:49,440
+ I'm now on the nest for press website because like having now realized I can play this I do
+
+640
+00:49:49,440 --> 00:49:54,480
+ and ironically want to but there's no search function which I feel like if you're running a
+
+641
+00:49:54,480 --> 00:50:00,160
+ website that sells things you should let people search for them but I can purchase if I ran
+
+642
+00:50:00,160 --> 00:50:10,560
+ the Zucom for $15 in the fourth edition and it is 146 pages. Well I assume what? They used to be a
+
+643
+00:50:10,560 --> 00:50:17,120
+ t-shirt produced by Offworld Designs. Oh well the t-shirt. If anyone's got that t-shirt my address is no
+
+644
+00:50:17,120 --> 00:50:24,080
+ um oh cartoons by Steve Styles. I think we should see if anyone has like if anyone honestly does
+
+645
+00:50:24,080 --> 00:50:27,840
+ have a copy of the fourth edition I mean I'd love it if there was a PDF version but I don't think
+
+646
+00:50:27,840 --> 00:50:32,720
+ there is like if someone did have it I presume it's still the same as the first edition it's sort of
+
+647
+00:50:32,720 --> 00:50:37,120
+ like a team game and then you have like a games master reading out a scenario of a thing that's
+
+648
+00:50:37,120 --> 00:50:40,240
+ happened at the convention and you have to decide how you're going to deal with it and you have
+
+649
+00:50:40,240 --> 00:50:46,320
+ finite amounts of people points and money points and something else points and if we could find
+
+650
+00:50:46,320 --> 00:50:50,640
+ one I would play it with you guys as a podcast I think it could be quite funny but also we might
+
+651
+00:50:50,640 --> 00:50:57,600
+ just be mean about it because it's very dated at this point. If anyone has a copy of um Mystic
+
+652
+00:50:57,600 --> 00:51:03,440
+ Con the British one and would like to lend it to us that would also be quite funny I think.
+
+653
+00:51:03,440 --> 00:51:07,600
+ Bring it to a fan fun dog shit and I will spend an unwise amount of money on it.
+
+654
+00:51:07,600 --> 00:51:11,120
+ Yeah if somebody could bring a copy of um Zucon to a fan fun dog should that
+
+655
+00:51:11,120 --> 00:51:17,200
+ would probably be on that too I should think. Now that I know that it's available from
+
+656
+00:51:17,200 --> 00:51:24,960
+ Nest4Press for $15 like that does put somewhat of a um upper limit on why I might be willing to pay.
+
+657
+00:51:24,960 --> 00:51:28,720
+ It does say it's got some kind of additional scenarios added in the uh
+
+658
+00:51:28,720 --> 00:51:34,240
+ oh in the 2015 update um sorry I just found a website which is claiming it will sell me the
+
+659
+00:51:34,240 --> 00:51:39,440
+ PDF for $5 now I have to see if they're actually. Linky, Linky or look at the page.
+
+660
+00:51:39,440 --> 00:51:45,120
+ Oh all right so I guess this is Nest4 have put it on a print on demand tight.
+
+661
+00:51:45,120 --> 00:51:49,600
+ Oh no that looks legit. Yeah yeah we probably do want this as a new book right?
+
+662
+00:51:49,600 --> 00:51:57,520
+ I mean we're all about to buy it I assume all three of us are currently creating an account on
+
+663
+00:51:57,520 --> 00:52:02,560
+ the book patch.com and you know they say that just listening to people doing things in
+
+664
+00:52:02,560 --> 00:52:09,360
+ silence is not podcasting gold but I think in this case it might be. I've tried to buy it on PayPal
+
+665
+00:52:09,360 --> 00:52:15,360
+ and PayPal has said that it's gonna review my thing for security reasons. Why is that?
+
+666
+00:52:15,360 --> 00:52:20,400
+ I know why that is it's because they got three purchases for the same item
+
+667
+00:52:20,400 --> 00:52:27,280
+ two different countries all at the same time. No I've bought it so uh oh okay fine.
+
+668
+00:52:27,280 --> 00:52:30,800
+ Liz let the side down. Well I'm gonna do it later.
+
+669
+00:52:30,800 --> 00:52:34,320
+ Top Encouraging to meet a multitask while on the podcast don't. Yeah.
+
+670
+00:52:34,320 --> 00:52:39,680
+ Sometimes I ask you a question you sort of have zoned out and I'm like John is reading
+
+671
+00:52:39,680 --> 00:52:45,040
+ something right now so stop encouraging me to do that. eBay who clearly knows what I like
+
+672
+00:52:45,040 --> 00:52:51,680
+ has just sent me a link to a palette of 200 random board games. Oh board game.
+
+673
+00:52:51,680 --> 00:52:55,760
+ I know we were talking earlier about cost per play and never spending more than a certain amount
+
+674
+00:52:55,760 --> 00:53:00,960
+ per board game but I do think there is some merit in selecting the board games you want to play.
+
+675
+00:53:00,960 --> 00:53:06,400
+ I think this is probably if you would like if you like opening that board game pub that I'm not
+
+676
+00:53:06,400 --> 00:53:12,240
+ gonna open in 2023 I would actually go for something like that as a way to have a lot of games.
+
+677
+00:53:12,240 --> 00:53:15,920
+ When you say it's a palette of 200 random board games are you sure they're 200 different board
+
+678
+00:53:15,920 --> 00:53:20,080
+ games. They might be 200 copies of cocoson. In which case you've got a very boring pub.
+
+679
+00:53:20,080 --> 00:53:26,160
+ Palot job loved over 200 assorted board games. Games will differ to those in the photo but will
+
+680
+00:53:26,160 --> 00:53:33,280
+ be similar games are all unchecked. I sorted he's doing a lot of work there for 200 pounds and
+
+681
+00:53:33,280 --> 00:53:40,720
+ and they look mostly like 200 pounds for 200 board games here. That's a pallet board game it's deep.
+
+682
+00:53:41,360 --> 00:53:49,120
+ The theme music for this episode was fanfare for space by kevin mccloud in compactec.com
+
+683
+00:53:49,120 --> 00:53:56,400
+ used under a creative commons attribution 4.0 license. This podcast will end at the beep. Beep.
+
+684
+00:53:56,400 --> 00:53:59,480
+ [ please sub and ring the bell for no supports. ]
+

@@ -1,0 +1,3176 @@
+1
+00:00:00,000 --> 00:00:02,680
+ I'm really sorry this is all my fault. I'm so sorry.
+
+2
+00:00:02,680 --> 00:00:18,920
+ Hello everyone and welcome to the unlucky 13th episode of the
+
+3
+00:00:18,920 --> 00:00:22,200
+ author podcast, a podcast for science fiction and science
+
+4
+00:00:22,200 --> 00:00:23,680
+ fiction fandom. I'm John Coxon.
+
+5
+00:00:23,680 --> 00:00:25,000
+ I'm Alison Scott.
+
+6
+00:00:25,000 --> 00:00:26,080
+ And I'm Liz Betty.
+
+7
+00:00:26,360 --> 00:00:30,240
+ This is the episode for the third of September 2020.
+
+8
+00:00:30,240 --> 00:00:32,800
+ Maybe this will be our final episode.
+
+9
+00:00:32,800 --> 00:00:34,520
+ Why will it be our final episode?
+
+10
+00:00:34,520 --> 00:00:36,200
+ It's unlucky 13th. You just said.
+
+11
+00:00:36,200 --> 00:00:38,920
+ Well, yeah, but I still want to keep going.
+
+12
+00:00:38,920 --> 00:00:40,480
+ Yeah, quite enjoying it.
+
+13
+00:00:40,480 --> 00:00:43,320
+ I'm worried now.
+
+14
+00:00:43,320 --> 00:00:46,320
+ I'm not saying that I'm just saying you just said it was a lucky
+
+15
+00:00:46,320 --> 00:00:47,520
+ maybe you'll be unlucky.
+
+16
+00:00:47,520 --> 00:00:49,640
+ I'm being a political podcast.
+
+17
+00:00:49,640 --> 00:00:51,720
+ Why you follow up from Liz?
+
+18
+00:00:51,720 --> 00:00:54,400
+ She's breaking up with us on the podcast.
+
+19
+00:00:54,400 --> 00:00:55,360
+ You heard it here first.
+
+20
+00:00:55,360 --> 00:01:00,360
+ Oh, we have letters of comment from two usual
+
+21
+00:01:00,360 --> 00:01:02,680
+ commenters and one unusual commenter.
+
+22
+00:01:02,680 --> 00:01:07,280
+ And I knew the first one is Mark Plummer, who notes that Alison
+
+23
+00:01:07,280 --> 00:01:10,400
+ described Robert Silverberg as the only person left who has attended every
+
+24
+00:01:10,400 --> 00:01:12,480
+ Worldcon. Yeah, I don't know what I was thinking.
+
+25
+00:01:12,480 --> 00:01:16,560
+ He knows that she probably means every Hugo presentation unless he went to the
+
+26
+00:01:16,560 --> 00:01:20,280
+ first Worldcon when he was in like when he was four.
+
+27
+00:01:20,280 --> 00:01:22,480
+ But Mark expresses doubt.
+
+28
+00:01:22,480 --> 00:01:24,520
+ Yeah, no, I'm just talking bollocks there.
+
+29
+00:01:24,520 --> 00:01:26,200
+ Sorry, we knew what you meant.
+
+30
+00:01:26,200 --> 00:01:27,640
+ So we didn't even question it.
+
+31
+00:01:27,640 --> 00:01:28,400
+ That is true.
+
+32
+00:01:28,400 --> 00:01:31,920
+ We should have stepped in a bit like Alison, but then Mark wouldn't have
+
+33
+00:01:31,920 --> 00:01:33,280
+ written to us and that would have been a dream.
+
+34
+00:01:33,280 --> 00:01:34,360
+ So, you know,
+
+35
+00:01:34,360 --> 00:01:36,480
+ or we could fact check the podcast.
+
+36
+00:01:36,480 --> 00:01:37,840
+ That's not ever going to happen.
+
+37
+00:01:37,840 --> 00:01:39,400
+ We rely on our listeners for that.
+
+38
+00:01:39,400 --> 00:01:41,160
+ Yes, we have fact checkers.
+
+39
+00:01:41,160 --> 00:01:42,320
+ This is the fact check in.
+
+40
+00:01:42,320 --> 00:01:50,960
+ Claire Breiley of Croydon writes in to comment on our podcast.
+
+41
+00:01:50,960 --> 00:01:52,680
+ She writes lots of lovely things.
+
+42
+00:01:52,680 --> 00:01:57,120
+ She notes the same comment about Robert Silverberg, but she also says that
+
+43
+00:01:57,120 --> 00:01:58,840
+ Mark's mentioned that to us already.
+
+44
+00:01:58,840 --> 00:02:02,480
+ Or no, she says, I bet Mark's mentioned that to you already and she was right.
+
+45
+00:02:02,480 --> 00:02:03,800
+ So you win the bet, Claire.
+
+46
+00:02:03,800 --> 00:02:05,880
+ We owe you a pint.
+
+47
+00:02:05,880 --> 00:02:07,440
+ It was a very, very good luck.
+
+48
+00:02:07,440 --> 00:02:09,120
+ And we very much enjoyed it.
+
+49
+00:02:09,120 --> 00:02:10,960
+ So thank you very much for that.
+
+50
+00:02:10,960 --> 00:02:16,200
+ And then Ian Sorenson writes Hello, PODIFILES.
+
+51
+00:02:16,200 --> 00:02:21,120
+ He notes that his concern with the Saudi Arabian bid for Worldcon was that if
+
+52
+00:02:21,120 --> 00:02:24,480
+ they had been nefarious, they could have bought a few thousand Worldcon
+
+53
+00:02:24,480 --> 00:02:26,720
+ memberships and just won.
+
+54
+00:02:26,720 --> 00:02:31,120
+ And that is a good point that I hadn't thought of and is an interesting thing
+
+55
+00:02:31,120 --> 00:02:33,080
+ to kind of contemplate.
+
+56
+00:02:33,080 --> 00:02:36,360
+ I don't think there's a really good way of avoiding that ever happening.
+
+57
+00:02:36,360 --> 00:02:41,320
+ Because yeah, I'm going to say that that's a kind of, oh, but any bit could
+
+58
+00:02:41,320 --> 00:02:43,480
+ see, or any bit could actually do it.
+
+59
+00:02:43,480 --> 00:02:48,360
+ The it's it's when people say, well, any bid from a new country.
+
+60
+00:02:49,800 --> 00:02:54,040
+ Obviously, that could be its government planning to move in and do that.
+
+61
+00:02:54,040 --> 00:02:58,840
+ And you say that about Saudi Arabia and you say it about China, but you do not
+
+62
+00:02:58,840 --> 00:03:00,960
+ say it about New Zealand or Finland.
+
+63
+00:03:00,960 --> 00:03:07,640
+ I think you have to take a little step back and go, what what is going on when
+
+64
+00:03:07,640 --> 00:03:08,480
+ I say this?
+
+65
+00:03:08,480 --> 00:03:15,480
+ Because it's it's not entirely a justifiable point with China.
+
+66
+00:03:15,480 --> 00:03:20,360
+ There's a real risk of that because we know that the Chinese government is
+
+67
+00:03:20,360 --> 00:03:22,880
+ funneling money into the Chinese bidding process.
+
+68
+00:03:22,880 --> 00:03:28,480
+ Or we see we assume that it is because there's kind of because the Chinese bid
+
+69
+00:03:28,480 --> 00:03:33,080
+ gets, I'm doing square quotes here, sponsorship in a way that you would not
+
+70
+00:03:33,080 --> 00:03:35,600
+ normally expect a bid to get.
+
+71
+00:03:35,600 --> 00:03:39,240
+ But I don't think you can say that about Saudi Arabia and I don't think it
+
+72
+00:03:39,240 --> 00:03:40,560
+ has ever been any suggestion.
+
+73
+00:03:40,560 --> 00:03:45,440
+ I suspect that if the Saudi Arabian government were familiar with the work
+
+74
+00:03:45,440 --> 00:03:50,960
+ of the people who are putting on the Saudi Arabian bid, they would not only not
+
+75
+00:03:50,960 --> 00:03:54,240
+ want to win the Worldcon for Saudi Arabia.
+
+76
+00:03:54,240 --> 00:03:55,920
+ They would prefer it didn't happen at all.
+
+77
+00:03:55,920 --> 00:03:59,760
+ We say that the Chinese government are sponsoring or funding money into Chinese
+
+78
+00:03:59,760 --> 00:04:04,520
+ bid, but so far they've mostly funneled the money in by helping them have more
+
+79
+00:04:04,520 --> 00:04:06,280
+ people at a big convention they ran.
+
+80
+00:04:06,280 --> 00:04:11,760
+ Whereas I think using lots of money to essentially pay people to be supporting
+
+81
+00:04:11,760 --> 00:04:14,080
+ members of the Worldcon and pay the voting fees.
+
+82
+00:04:14,720 --> 00:04:17,240
+ I think it's a different use of your money really.
+
+83
+00:04:17,240 --> 00:04:20,720
+ Yes, I should say we've seen no sign of that from China.
+
+84
+00:04:20,720 --> 00:04:25,600
+ No, and I think if you're the government, you say, well, why don't we just, you
+
+85
+00:04:25,600 --> 00:04:29,520
+ know, help you hold this convention rather than, you know, essentially send a
+
+86
+00:04:29,520 --> 00:04:31,760
+ bunch of money in to fix you getting it.
+
+87
+00:04:31,760 --> 00:04:36,040
+ But for China, I can see that one way it might happen in a way that the Chinese
+
+88
+00:04:36,040 --> 00:04:40,040
+ government and the Chinese think is perfectly reasonable is for the Chinese
+
+89
+00:04:40,040 --> 00:04:43,480
+ government to say, oh, all of you people who are going to start switching
+
+90
+00:04:43,480 --> 00:04:48,680
+ conventions in China anyway, we will help you get involved in this
+
+91
+00:04:48,680 --> 00:04:53,400
+ international thing by paying for your membership in, is supporting membership
+
+92
+00:04:53,400 --> 00:04:54,320
+ in the bidding convention.
+
+93
+00:04:54,320 --> 00:04:59,760
+ And also he says that he has sent Lillian and Christina instructions on how
+
+94
+00:04:59,760 --> 00:05:06,680
+ to start editing a podcast, which is excellent because he says that the
+
+95
+00:05:06,680 --> 00:05:10,680
+ online tutorials he's done with them will either go on the podcast or in a
+
+96
+00:05:10,680 --> 00:05:14,680
+ video compilation on YouTube. And can I just say in that when that happens,
+
+97
+00:05:14,680 --> 00:05:18,160
+ I will be enthusiastically watching because that sounds amazing.
+
+98
+00:05:18,160 --> 00:05:22,800
+ I have not tried to get Alice in all this to edit the podcast because I
+
+99
+00:05:22,800 --> 00:05:24,560
+ quite quite like edited the podcast.
+
+100
+00:05:24,560 --> 00:05:25,080
+ So it's all right.
+
+101
+00:05:25,080 --> 00:05:27,160
+ I do think this was hilarious.
+
+102
+00:05:27,160 --> 00:05:31,800
+ I thought that this podcast was made up of two people who very much wanted to be
+
+103
+00:05:31,800 --> 00:05:35,040
+ on a podcast that somebody else said it's on one person who very much wants to
+
+104
+00:05:35,040 --> 00:05:36,000
+ edit a podcast.
+
+105
+00:05:36,000 --> 00:05:39,600
+ And I'm assuming that most podcasts are like that.
+
+106
+00:05:39,600 --> 00:05:40,520
+ Yes.
+
+107
+00:05:40,520 --> 00:05:44,960
+ And I was quite surprised to hear that Ian was actually trying to pass the
+
+108
+00:05:44,960 --> 00:05:46,480
+ editing duties off to one of the others.
+
+109
+00:05:46,480 --> 00:05:51,480
+ Listen to this never happens, which has now had four, four episodes, and which
+
+110
+00:05:51,480 --> 00:05:55,760
+ talks about all sorts of things that are not science fiction or fandom.
+
+111
+00:05:55,760 --> 00:05:57,240
+ It talks about everything.
+
+112
+00:05:57,240 --> 00:06:07,480
+ In the last week, the news came out that Chadrick Boseman had died of cancer.
+
+113
+00:06:08,120 --> 00:06:13,600
+ This is incredibly sad. People listening to this podcast might know him best for
+
+114
+00:06:13,600 --> 00:06:17,720
+ his work as a T'Challa or Black Panther in the Marvel Cinematic Universe.
+
+115
+00:06:17,720 --> 00:06:22,960
+ And obviously this is a huge shock because I think we've all gotten used to
+
+116
+00:06:22,960 --> 00:06:26,520
+ the horrible headlines around COVID-19 and coronavirus and kind of a lot of
+
+117
+00:06:26,520 --> 00:06:27,440
+ illness and death.
+
+118
+00:06:27,440 --> 00:06:31,000
+ But Boseman died of cancer and he's very young.
+
+119
+00:06:31,000 --> 00:06:33,400
+ So this is a great shame.
+
+120
+00:06:33,600 --> 00:06:39,200
+ 43, I was very sad to hear of Chadrick Boseman's death.
+
+121
+00:06:39,200 --> 00:06:41,440
+ I thought I was a great shame, etc.
+
+122
+00:06:41,440 --> 00:06:43,200
+ He's very, he was a very good actor.
+
+123
+00:06:43,200 --> 00:06:46,520
+ Did you see there was a link going round of him?
+
+124
+00:06:46,520 --> 00:06:49,720
+ They got people who thought they were talking to a Black Panther poster and he
+
+125
+00:06:49,720 --> 00:06:53,480
+ was hiding behind a curtain and would pop out and surprise them.
+
+126
+00:06:53,480 --> 00:06:55,000
+ And it's brilliant.
+
+127
+00:06:55,000 --> 00:06:57,320
+ That is, that is quite excellent, isn't it?
+
+128
+00:06:57,320 --> 00:07:01,360
+ Because there's lots of people and they're, I think they thought they were
+
+129
+00:07:01,360 --> 00:07:03,000
+ going to be on, they thought they were going to be on something.
+
+130
+00:07:03,000 --> 00:07:05,200
+ So it's like, basically, you talk to these big Black Panther posts and, you know,
+
+131
+00:07:05,200 --> 00:07:06,120
+ tell us what you really feel.
+
+132
+00:07:06,120 --> 00:07:12,120
+ And they're all so, it's all Black people and they're all so sort of excited and
+
+133
+00:07:12,120 --> 00:07:14,560
+ they're so grateful to him and things like that.
+
+134
+00:07:14,560 --> 00:07:17,320
+ And there's, but there's one guy who says things like, you know, I've seen it twice.
+
+135
+00:07:17,320 --> 00:07:17,840
+ It's cinema.
+
+136
+00:07:17,840 --> 00:07:20,760
+ And then once I bootleg and then like Chadrick Boseman pops out, I was like,
+
+137
+00:07:20,760 --> 00:07:24,080
+ you bootleg my film and the guy's like, no.
+
+138
+00:07:24,080 --> 00:07:28,440
+ That is excellent.
+
+139
+00:07:28,440 --> 00:07:32,440
+ But he comes out and says the guy's name, you know, and the guy's name was
+
+140
+00:07:32,440 --> 00:07:34,040
+ obviously like quite a long complicated one.
+
+141
+00:07:34,040 --> 00:07:36,520
+ And the guy's just like, he's like, and you said my name right.
+
+142
+00:07:36,520 --> 00:07:38,760
+ So I thought it was quite, yeah.
+
+143
+00:07:38,760 --> 00:07:42,480
+ Just watch the video because it was so, and it's so lovely.
+
+144
+00:07:42,480 --> 00:07:45,720
+ And it's someone who went to same college as him saying, you know, how
+
+145
+00:07:45,720 --> 00:07:48,080
+ lovely it is to see that representation on the big screen.
+
+146
+00:07:48,080 --> 00:07:53,160
+ And then of course, like he pops out and it's like super charming and super cool.
+
+147
+00:07:53,160 --> 00:07:54,960
+ And they're all like, God's mad.
+
+148
+00:07:54,960 --> 00:07:55,640
+ It's amazing.
+
+149
+00:07:55,640 --> 00:07:59,160
+ So I watched Black Panther last night.
+
+150
+00:07:59,400 --> 00:08:03,440
+ It's trending on Apple TV because everyone is doing that.
+
+151
+00:08:03,440 --> 00:08:07,680
+ I said to Mariano, I guess a lot of white folks who haven't quite got
+
+152
+00:08:07,680 --> 00:08:10,080
+ round to Black Panther are going to watch it this weekend.
+
+153
+00:08:10,080 --> 00:08:12,960
+ Yeah, that's a good point as well.
+
+154
+00:08:12,960 --> 00:08:14,440
+ I hadn't thought of that, but yes.
+
+155
+00:08:14,440 --> 00:08:15,520
+ And that was me.
+
+156
+00:08:15,520 --> 00:08:16,760
+ I was that person.
+
+157
+00:08:16,760 --> 00:08:17,680
+ It's quite a good film.
+
+158
+00:08:17,680 --> 00:08:18,200
+ Yeah.
+
+159
+00:08:18,200 --> 00:08:21,280
+ I mean, I should say that I was not watching.
+
+160
+00:08:21,280 --> 00:08:25,600
+ I was not watching Black Panther from the point of view.
+
+161
+00:08:25,600 --> 00:08:29,320
+ I was watching it and looking at it as am I enjoying this?
+
+162
+00:08:29,320 --> 00:08:31,000
+ Movie do I think it is a good movie?
+
+163
+00:08:31,000 --> 00:08:34,520
+ Is it the sort of movie I like to see all of that?
+
+164
+00:08:34,520 --> 00:08:41,480
+ Taken as look how much money they spent on a film where almost every
+
+165
+00:08:41,480 --> 00:08:42,800
+ major character is black.
+
+166
+00:08:42,800 --> 00:08:44,680
+ It's an absolute masterpiece.
+
+167
+00:08:44,680 --> 00:08:48,920
+ I've been kind of going, Oh, I wish they were making more use of Black Panther
+
+168
+00:08:48,920 --> 00:08:50,360
+ because he's a really good character.
+
+169
+00:08:50,360 --> 00:08:54,680
+ And I'm not sure why he's not getting more time in Marvel movies.
+
+170
+00:08:54,680 --> 00:08:56,640
+ I think I now know the answer to that question.
+
+171
+00:08:56,880 --> 00:08:59,920
+ And Marianne was like, who is the next Black Panther going to be?
+
+172
+00:08:59,920 --> 00:09:05,800
+ Because it could be it could be his his sister or his son that we don't know
+
+173
+00:09:05,800 --> 00:09:12,920
+ about yet or his girlfriend or or a random Black boy from America.
+
+174
+00:09:12,920 --> 00:09:15,720
+ I think it will be it would be cool if they did.
+
+175
+00:09:15,720 --> 00:09:16,680
+ Sure.
+
+176
+00:09:16,680 --> 00:09:22,000
+ But obviously because she has like her own, I'm not sure if she's ever been the
+
+177
+00:09:22,000 --> 00:09:22,560
+ Black Panther.
+
+178
+00:09:22,560 --> 00:09:23,560
+ She might well have been.
+
+179
+00:09:23,760 --> 00:09:28,440
+ But like I think of her more as like she is so much better suited in that kind
+
+180
+00:09:28,440 --> 00:09:33,560
+ of being the amazing scientist role that making her into the Black Panther
+
+181
+00:09:33,560 --> 00:09:35,480
+ seems like it would almost be a demotion.
+
+182
+00:09:35,480 --> 00:09:38,680
+ Cue the code name for that role is cue.
+
+183
+00:09:38,680 --> 00:09:43,080
+ I understand that Shuri in the comics has been Black Panther, but it's kind of
+
+184
+00:09:43,080 --> 00:09:45,840
+ instead of that she'd always wanted to be Black Panther.
+
+185
+00:09:45,840 --> 00:09:49,880
+ Please comics more avid comics, please, please write it and correct me if any of
+
+186
+00:09:49,880 --> 00:09:50,800
+ that is wrong.
+
+187
+00:09:50,800 --> 00:09:53,280
+ And so I could see her taking up the back panther mantle.
+
+188
+00:09:53,280 --> 00:09:57,800
+ And I think it's it would be interesting to see someone who is more sort of
+
+189
+00:09:57,800 --> 00:10:00,200
+ technology focused really take that on.
+
+190
+00:10:00,200 --> 00:10:03,240
+ I guess maybe they're shying away from that a little bit because it's a bit
+
+191
+00:10:03,240 --> 00:10:07,200
+ similar to say Iron Man and you know, using a lot of technology.
+
+192
+00:10:07,200 --> 00:10:09,760
+ But I think it could be really good.
+
+193
+00:10:09,760 --> 00:10:12,520
+ I agree that I don't think they're going to want, you know, they're not going to
+
+194
+00:10:12,520 --> 00:10:14,560
+ want to recast Black Panther.
+
+195
+00:10:14,560 --> 00:10:16,400
+ They're never going to recast a chalice.
+
+196
+00:10:16,400 --> 00:10:21,880
+ So I am confident that if Ryan Coogler continues to make Black Panther
+
+197
+00:10:21,880 --> 00:10:24,880
+ two that he will come up with a really good way of handling it.
+
+198
+00:10:24,880 --> 00:10:30,960
+ I hope that they'll get to do it is Winston Duke, the guy who played Dominic
+
+199
+00:10:30,960 --> 00:10:32,040
+ in person of interest.
+
+200
+00:10:32,040 --> 00:10:35,600
+ He was the co lead in us.
+
+201
+00:10:35,600 --> 00:10:38,800
+ Oh, you think that they'll recast the same character?
+
+202
+00:10:38,800 --> 00:10:40,120
+ No, no, I don't.
+
+203
+00:10:40,120 --> 00:10:42,280
+ Oh, Winston Duke was already in, right?
+
+204
+00:10:42,280 --> 00:10:48,320
+ Yeah, he played Baku, the chief that doesn't take part in Woodcander and
+
+205
+00:10:48,320 --> 00:10:52,880
+ to Charla brings him into the fold. I think he would make a great Black Panther
+
+206
+00:10:52,880 --> 00:10:54,840
+ because I think he's a great actor.
+
+207
+00:10:54,840 --> 00:10:56,640
+ He's his profile has been rising.
+
+208
+00:10:56,640 --> 00:10:57,400
+ He was in us.
+
+209
+00:10:57,400 --> 00:10:58,480
+ He's been a person of interest.
+
+210
+00:10:58,480 --> 00:11:00,080
+ He's been in a few other things as well.
+
+211
+00:11:00,080 --> 00:11:02,640
+ He did have the funniest line in that film also.
+
+212
+00:11:02,640 --> 00:11:05,000
+ And yeah, and I just think he would be a really great choice.
+
+213
+00:11:05,000 --> 00:11:09,040
+ So if they're not going to make it shurry, then I think he would be a good pick.
+
+214
+00:11:09,040 --> 00:11:11,440
+ He's not done much movie work, but he's great.
+
+215
+00:11:11,440 --> 00:11:12,720
+ Is he in the bloodline?
+
+216
+00:11:12,720 --> 00:11:13,680
+ You don't have to be.
+
+217
+00:11:13,680 --> 00:11:15,160
+ That's not how a condom politics works.
+
+218
+00:11:15,160 --> 00:11:15,960
+ OK.
+
+219
+00:11:16,160 --> 00:11:18,680
+ But you probably do have to challenge, but you probably could challenge.
+
+220
+00:11:18,680 --> 00:11:22,280
+ So that's and that will kind of fit in quite well, depending on how good they are
+
+221
+00:11:22,280 --> 00:11:24,640
+ with like, they're going to have to.
+
+222
+00:11:24,640 --> 00:11:28,600
+ I don't know what happens in work, under if I see this is in the comic somewhere,
+
+223
+00:11:28,600 --> 00:11:32,040
+ but I don't know what happens if the King dies before someone can challenge for the throne.
+
+224
+00:11:32,040 --> 00:11:33,920
+ The Jabara. Is it Jabara?
+
+225
+00:11:33,920 --> 00:11:34,480
+ I'm sorry.
+
+226
+00:11:34,480 --> 00:11:36,680
+ I'm not really up on the Marvel Cinematic Universe.
+
+227
+00:11:36,680 --> 00:11:38,640
+ It should probably get the name right.
+
+228
+00:11:38,640 --> 00:11:41,440
+ I think they are the Jabari Jabari.
+
+229
+00:11:42,520 --> 00:11:48,840
+ One wrinkle with that is that he and Baku in the comics is the villain,
+
+230
+00:11:48,840 --> 00:11:55,680
+ Manape, who is like, obviously a baddie, whether or not the Marvel Cinematic Universe
+
+231
+00:11:55,680 --> 00:12:01,360
+ will go with a black supervillain called Manape, given that that seems like an obviously
+
+232
+00:12:01,360 --> 00:12:03,480
+ terrible name for a supervillain who is black.
+
+233
+00:12:03,480 --> 00:12:07,600
+ I suspect means that he's not going to do that with that character either way.
+
+234
+00:12:07,600 --> 00:12:10,080
+ So I think he would be a good choice, but we will see.
+
+235
+00:12:10,360 --> 00:12:13,880
+ He certainly to me, he's to me, he seems like the best choice.
+
+236
+00:12:13,880 --> 00:12:16,160
+ I hope they could with him because I'm a huge fan of his work.
+
+237
+00:12:16,160 --> 00:12:22,520
+ I think the fact that they actually played, they played with the fact in the film,
+
+238
+00:12:22,520 --> 00:12:27,520
+ that comic book viewers or readers will have known that that was the character.
+
+239
+00:12:27,520 --> 00:12:32,640
+ So they played quite hard with the, is this a villain or not in the film?
+
+240
+00:12:32,640 --> 00:12:34,600
+ So they've already, they've already gone there.
+
+241
+00:12:34,600 --> 00:12:35,960
+ They've made it clear he's not a villain.
+
+242
+00:12:35,960 --> 00:12:36,760
+ I think so.
+
+243
+00:12:37,160 --> 00:12:40,560
+ This is a spoiler for Black Panther, so here's a spoiler warning.
+
+244
+00:12:40,560 --> 00:12:47,240
+ There is a point in the movie where these guys turn up, having previously said
+
+245
+00:12:47,240 --> 00:12:48,080
+ they're not going to it.
+
+246
+00:12:48,080 --> 00:12:51,160
+ It's like bloody Gandalf riding down on Shadow Fact.
+
+247
+00:12:51,160 --> 00:12:53,560
+ Hey, that's a spoiler for Lord of the Rings, Alison.
+
+248
+00:12:53,560 --> 00:12:56,160
+ It is also a spoiler for Lord of the Rings, but tough.
+
+249
+00:12:56,160 --> 00:12:58,680
+ Well, she didn't say what Shadow Facts was.
+
+250
+00:12:58,680 --> 00:13:00,480
+ Shadow Facts could be like a tank.
+
+251
+00:13:00,480 --> 00:13:03,320
+ Yeah, or a giant armor plated rhino.
+
+252
+00:13:03,320 --> 00:13:05,320
+ I did like the giant armor plated rhinos.
+
+253
+00:13:05,600 --> 00:13:07,160
+ I did like the giant armor plated rhinos.
+
+254
+00:13:07,160 --> 00:13:11,600
+ Yeah, in the, it's in the positive qualities of Black Panther.
+
+255
+00:13:11,600 --> 00:13:16,200
+ The fact that I enjoyed it, that it used a lot of African cultural stuff in a way
+
+256
+00:13:16,200 --> 00:13:18,800
+ that was actually not crappy.
+
+257
+00:13:18,800 --> 00:13:22,640
+ And in the list of things I did not really like about it were the fact that
+
+258
+00:13:22,640 --> 00:13:27,440
+ enormous amounts of it appeared to be cliches bolted on from other bits of other
+
+259
+00:13:27,440 --> 00:13:32,960
+ movies. And I suppose that is normal and, and the general level of comprehension
+
+260
+00:13:32,960 --> 00:13:37,240
+ required to understand the movie was consistent with a movie where you had
+
+261
+00:13:37,240 --> 00:13:42,080
+ Lillian sitting next to you talking all the way through it, which I, I kind of, I
+
+262
+00:13:42,080 --> 00:13:43,120
+ kind of missed Lillian.
+
+263
+00:13:43,120 --> 00:13:46,520
+ I would really have liked to have Lillian sitting on myself for drinking red wine
+
+264
+00:13:46,520 --> 00:13:50,520
+ for, for yesterday evening, for that movie and talking all the way through the film,
+
+265
+00:13:50,520 --> 00:13:51,440
+ which is what she does.
+
+266
+00:13:51,440 --> 00:13:56,000
+ You froze for like 30 seconds and then I just got a Lillian drinking red wine on
+
+267
+00:13:56,000 --> 00:13:57,000
+ myself.
+
+268
+00:13:57,000 --> 00:13:58,520
+ So I do what you said.
+
+269
+00:13:58,520 --> 00:14:02,880
+ Oh, and also I, I watched a fascinating video on, I don't know how much was this
+
+270
+00:14:02,880 --> 00:14:08,120
+ we're going to use on movie music, which is, okay, there's a very good video on
+
+271
+00:14:08,120 --> 00:14:12,440
+ the internet about why a lot of the music in the Marvel Cinematic Universe
+
+272
+00:14:12,440 --> 00:14:14,200
+ and other modern movies is bad.
+
+273
+00:14:14,200 --> 00:14:21,680
+ And it's because they basically send the composer a kind of George Lucas
+
+274
+00:14:21,680 --> 00:14:26,920
+ like made up list of things that they think are the sort of thing they would
+
+275
+00:14:26,920 --> 00:14:28,240
+ like the music to sound like.
+
+276
+00:14:28,240 --> 00:14:31,680
+ And then the composer goes and writes music that sounds a bit like that.
+
+277
+00:14:32,200 --> 00:14:36,040
+ Right. Well, one of the, one of the things that they have used for the score of
+
+278
+00:14:36,040 --> 00:14:39,440
+ Black Panther is the opening music for the Lion King.
+
+279
+00:14:39,440 --> 00:14:42,120
+ And that was a really, really, really bad choice.
+
+280
+00:14:42,120 --> 00:14:47,480
+ So there's this side, oh, and, and Marianne's like singing along with Disney
+
+281
+00:14:47,480 --> 00:14:48,680
+ movies at that point.
+
+282
+00:14:48,680 --> 00:14:51,080
+ Or you would be Taylor with a Disney movie, you're watching one.
+
+283
+00:14:51,080 --> 00:14:52,760
+ I understand that.
+
+284
+00:14:52,760 --> 00:14:56,240
+ And I just say to her then, well, MCU has been bought by Disney, but I'm not sure.
+
+285
+00:14:56,240 --> 00:14:59,240
+ Was it Disney owner at that point?
+
+286
+00:14:59,240 --> 00:15:01,320
+ Yeah, Disney owned it well before.
+
+287
+00:15:01,480 --> 00:15:03,240
+ Yeah, Disney's owned it for years.
+
+288
+00:15:03,240 --> 00:15:10,680
+ OK, so in general, I guess my, my, my problem with the whole of the MCU and is
+
+289
+00:15:10,680 --> 00:15:15,280
+ that, and maybe the whole of Disney plus apart from Hamilton is that the entire
+
+290
+00:15:15,280 --> 00:15:20,080
+ thing appears to be pitched at a reasonably literate 11 year old child.
+
+291
+00:15:20,080 --> 00:15:21,280
+ And I am not that person.
+
+292
+00:15:21,280 --> 00:15:23,560
+ No, you're an illiterate 11 year old child.
+
+293
+00:15:23,560 --> 00:15:24,480
+ Oh, thanks for that.
+
+294
+00:15:24,480 --> 00:15:25,680
+ That's all right.
+
+295
+00:15:25,680 --> 00:15:29,320
+ Someone actually made a really good point, which is Disney is the last entertainment
+
+296
+00:15:29,320 --> 00:15:34,480
+ company, because all the others are now just the video divisions of mobile phone
+
+297
+00:15:34,480 --> 00:15:38,000
+ companies or dot com startups.
+
+298
+00:15:38,000 --> 00:15:43,200
+ And Disney is the last movie studio standing, which is a really, really
+
+299
+00:15:43,200 --> 00:15:46,960
+ discombobulating statement that doesn't make any sense to start thinking about it.
+
+300
+00:15:46,960 --> 00:15:51,880
+ You're like, Oh, yeah, because it's Disney, AT&T, Comcast, Netflix, Amazon, and Apple.
+
+301
+00:15:51,880 --> 00:15:53,920
+ So any time Warner isn't it?
+
+302
+00:15:53,920 --> 00:15:54,720
+ I don't know.
+
+303
+00:15:54,720 --> 00:15:57,240
+ Maybe I don't time Warner's owned by AT&T.
+
+304
+00:15:57,240 --> 00:15:57,720
+ Yeah.
+
+305
+00:15:57,720 --> 00:15:58,040
+ OK.
+
+306
+00:15:58,440 --> 00:16:04,440
+ No, they're they're all they're all they're all either dot com startups, the video
+
+307
+00:16:04,440 --> 00:16:07,600
+ divisions of mobile phone companies or Disney.
+
+308
+00:16:07,600 --> 00:16:08,760
+ Those are the options.
+
+309
+00:16:08,760 --> 00:16:09,360
+ It's weird.
+
+310
+00:16:09,360 --> 00:16:13,160
+ I'm feeling better about my Disney plus subscription, because I the only reason we
+
+311
+00:16:13,160 --> 00:16:18,280
+ were watching Black Panther in the first place support independent artists by
+
+312
+00:16:18,280 --> 00:16:22,800
+ Disney by Disney by Disney.
+
+313
+00:16:22,800 --> 00:16:28,400
+ Also, Disney acquired Marvel 11 years ago, 11 years ago tomorrow, in fact.
+
+314
+00:16:29,000 --> 00:16:33,040
+ I feel like it may have become more like a Disney company more recently.
+
+315
+00:16:33,040 --> 00:16:36,800
+ Disney acquired Marvel like before they even released the Fenders
+
+316
+00:16:36,800 --> 00:16:37,360
+ assemble.
+
+317
+00:16:37,360 --> 00:16:41,440
+ So I guess the sort of second and third phases of the Marvel universe have been
+
+318
+00:16:41,440 --> 00:16:45,680
+ completely well, they've been a Disney owned subsidiary.
+
+319
+00:16:45,680 --> 00:16:46,680
+ I guess.
+
+320
+00:16:46,680 --> 00:16:50,080
+ Yeah, it should be pivot to being a Marvel podcast because we probably get a lot
+
+321
+00:16:50,080 --> 00:16:51,080
+ more viewers that way.
+
+322
+00:16:51,080 --> 00:16:54,000
+ We're getting any viewers for a podcast listeners.
+
+323
+00:16:54,000 --> 00:16:56,560
+ Should we pivot to being a Marvel podcast?
+
+324
+00:16:56,560 --> 00:16:58,760
+ Because we probably get a lot more listeners that way.
+
+325
+00:16:58,760 --> 00:17:03,000
+ No, because every time you say that every every time you give your opinions on
+
+326
+00:17:03,000 --> 00:17:04,680
+ Marvel movies, we will lose listeners.
+
+327
+00:17:04,680 --> 00:17:07,280
+ So this is a net drop in listeners almost certainly.
+
+328
+00:17:07,280 --> 00:17:14,240
+ So you think that people who like Marvel podcasts think that Marvel movies are
+
+329
+00:17:14,240 --> 00:17:16,920
+ clever and more?
+
+330
+00:17:16,920 --> 00:17:19,160
+ Yeah, they probably do think they're clever than they are.
+
+331
+00:17:19,160 --> 00:17:20,040
+ Yeah.
+
+332
+00:17:20,040 --> 00:17:23,600
+ I think I think you said they were aimed at mostly literate 11 year old.
+
+333
+00:17:23,600 --> 00:17:26,800
+ And I suspect the people who are listening to Marvel podcasts would object to that
+
+334
+00:17:26,800 --> 00:17:28,640
+ characterization of themselves.
+
+335
+00:17:28,640 --> 00:17:29,400
+ Possibly.
+
+336
+00:17:29,400 --> 00:17:31,200
+ It's like there's a chance.
+
+337
+00:17:31,200 --> 00:17:35,560
+ They are kind of towards the lower end of the middle brow.
+
+338
+00:17:35,560 --> 00:17:41,080
+ That I think you think that's you being tactful, which I very much enjoy.
+
+339
+00:17:41,080 --> 00:17:48,560
+ But they really they just they're very, very easy to consume, aren't they?
+
+340
+00:17:48,560 --> 00:17:51,280
+ Well, I mean, I think that's probably true.
+
+341
+00:17:52,400 --> 00:17:53,680
+ But I'm not sure.
+
+342
+00:17:53,680 --> 00:17:56,080
+ It doesn't make them bad.
+
+343
+00:17:56,080 --> 00:18:05,720
+ Last weekend, as we record was NASFIC, the North American Science Fiction Convention.
+
+344
+00:18:05,720 --> 00:18:08,880
+ NASFIC has held in years where the world can't be held in America.
+
+345
+00:18:08,880 --> 00:18:11,960
+ And obviously this year, the WorldCon was held on the internet.
+
+346
+00:18:11,960 --> 00:18:13,760
+ So therefore, a NASFIC had to be held.
+
+347
+00:18:13,760 --> 00:18:17,720
+ It was held in Columbus, Ohio, except it wasn't.
+
+348
+00:18:17,720 --> 00:18:21,120
+ It was also held on the internet because of just as our window.
+
+349
+00:18:21,440 --> 00:18:24,160
+ Liz and Alison spent some time at NASFIC.
+
+350
+00:18:24,160 --> 00:18:27,320
+ What would your experiences like Liz and Alison?
+
+351
+00:18:27,320 --> 00:18:31,640
+ I have to start with a kind of contractual statement, which I will say every time
+
+352
+00:18:31,640 --> 00:18:35,720
+ the NASFIC is mentioned, that the provision for NASFIC is contained in the World
+
+353
+00:18:35,720 --> 00:18:37,960
+ Science Fiction Society's constitution.
+
+354
+00:18:37,960 --> 00:18:39,800
+ And it definitely shouldn't be.
+
+355
+00:18:39,800 --> 00:18:47,560
+ And this wines, Europe fans who are not from North America up quite immeasurably,
+
+356
+00:18:47,560 --> 00:18:50,040
+ but nevertheless, it never goes away.
+
+357
+00:18:50,360 --> 00:18:54,760
+ So there is always a NASFIC, but only in years, there is a dewilcon.
+
+358
+00:18:54,760 --> 00:18:58,840
+ And it's slightly strange convention for that reason, normally, because it
+
+359
+00:18:58,840 --> 00:19:05,080
+ normally comprises those fans who are rich enough to go to both the WorldCon
+
+360
+00:19:05,080 --> 00:19:12,640
+ and NASFIC, and those fans who cannot possibly attend a European or Australian
+
+361
+00:19:12,640 --> 00:19:15,760
+ worldcon, but would quite like to go to a national convention anyway.
+
+362
+00:19:15,760 --> 00:19:19,000
+ And so therefore, I've never been to a NASFIC before, but I
+
+363
+00:19:19,520 --> 00:19:23,840
+ got invited to sign up for programming for this one.
+
+364
+00:19:23,840 --> 00:19:25,720
+ So I did do and they put me on some program.
+
+365
+00:19:25,720 --> 00:19:31,400
+ All of my program was on Friday and I did that and then I hung out with people
+
+366
+00:19:31,400 --> 00:19:34,320
+ and I made some arrangements to work on the Glasgow desk.
+
+367
+00:19:34,320 --> 00:19:40,360
+ And then I actually had actual life things on the Saturday and the Sunday when I
+
+368
+00:19:40,360 --> 00:19:44,720
+ went out and met real people in the real world, you know, like we used to do.
+
+369
+00:19:44,720 --> 00:19:49,280
+ So I ended up not spending anything like as much time at the NASFIC as I might
+
+370
+00:19:49,280 --> 00:19:53,160
+ otherwise have done. But I did sit on the Glasgow desk, which was a lot of fun,
+
+371
+00:19:53,160 --> 00:19:57,600
+ support Glasgow in 2024. If you haven't supported it yet, it's very easy to do so
+
+372
+00:19:57,600 --> 00:20:00,240
+ at their website, a link to which will be in the show notes.
+
+373
+00:20:00,240 --> 00:20:06,600
+ And the program items I was on, which were about doing fanac in the age of
+
+374
+00:20:06,600 --> 00:20:14,800
+ COVID and trying to sell things at online events were quite interesting and I
+
+375
+00:20:14,800 --> 00:20:17,400
+ enjoyed them a lot, but I didn't get a lot of the program otherwise.
+
+376
+00:20:17,840 --> 00:20:21,120
+ And I feel that this is one of the things that's now happening with online
+
+377
+00:20:21,120 --> 00:20:26,160
+ conventions, which is that the real world is more exciting a lot of the time.
+
+378
+00:20:26,160 --> 00:20:28,160
+ So yeah, this was the first virtual convention.
+
+379
+00:20:28,160 --> 00:20:32,640
+ I've actually been too largely because it was free so I could just pop it out.
+
+380
+00:20:32,640 --> 00:20:36,960
+ So I did join the discord and had fun poking around a bit on the discord.
+
+381
+00:20:36,960 --> 00:20:44,040
+ I went to two panels because the problem is that Columbus, Ohio is 11 hours behind.
+
+382
+00:20:44,040 --> 00:20:47,320
+ I would say that it took me quite a lot of digging to figure that out because
+
+383
+00:20:47,320 --> 00:20:50,800
+ the front page of the NASFIC website does not at any point tell you it's time
+
+384
+00:20:50,800 --> 00:20:53,200
+ zone or even tell you that it's the Columbus in Ohio.
+
+385
+00:20:53,200 --> 00:20:58,960
+ So I will reiterate my plea for every convention to either put the like times
+
+386
+00:20:58,960 --> 00:21:01,440
+ in UTC or at least tell me the time zone.
+
+387
+00:21:01,440 --> 00:21:03,480
+ But I managed to figure this out.
+
+388
+00:21:03,480 --> 00:21:06,760
+ And so I could basically go to maybe two program items because they were the ones
+
+389
+00:21:06,760 --> 00:21:07,800
+ that were held while I was awake.
+
+390
+00:21:07,800 --> 00:21:14,200
+ So I went to the item that was Farmendelson and Alec Navalle talking about
+
+391
+00:21:14,200 --> 00:21:18,120
+ researching Golden Age science fiction in the present day.
+
+392
+00:21:18,120 --> 00:21:19,920
+ I really wanted to go to that.
+
+393
+00:21:19,920 --> 00:21:22,560
+ Moderated by Nicholas White and it was great.
+
+394
+00:21:22,560 --> 00:21:26,720
+ It was one where it was exactly the right, it was exactly the right set of people
+
+395
+00:21:26,720 --> 00:21:30,520
+ with a very good moderator and the two of them probably could have talked for
+
+396
+00:21:30,520 --> 00:21:32,920
+ at least two hours and I would not have been bored.
+
+397
+00:21:32,920 --> 00:21:36,760
+ And I found it really interesting and you can go back and watch that.
+
+398
+00:21:36,760 --> 00:21:41,880
+ I also went to a panel on Afrofuturism, which was straight after that with a
+
+399
+00:21:41,880 --> 00:21:46,080
+ large number of people on and that was good, but it worked a little less well,
+
+400
+00:21:46,080 --> 00:21:50,800
+ partly because one of the participants was having internet issues and sort of
+
+401
+00:21:50,800 --> 00:21:51,720
+ dropped in and out.
+
+402
+00:21:51,720 --> 00:21:57,120
+ And secondly, because it was a larger panel and I think it is much harder to
+
+403
+00:21:57,120 --> 00:22:02,640
+ moderate a panel of four or five people on Zoom because a lot of the things you
+
+404
+00:22:02,640 --> 00:22:05,360
+ might do just don't really come across.
+
+405
+00:22:05,360 --> 00:22:09,600
+ Like I think if you're sitting in the same room as people, you can kind of try
+
+406
+00:22:09,600 --> 00:22:13,360
+ and encourage them to maybe wrap up and we'll move on to the next person if someone
+
+407
+00:22:13,360 --> 00:22:17,720
+ is, you know, basically every time they respond to a question, they have a lot to
+
+408
+00:22:17,720 --> 00:22:23,000
+ say, you can sort of try and push that along, I think more gently or maybe break
+
+409
+00:22:23,000 --> 00:22:25,040
+ in at a point where there's a break.
+
+410
+00:22:25,040 --> 00:22:29,080
+ But I feel on Zoom people, because of there's a time delay and because you're
+
+411
+00:22:29,080 --> 00:22:32,680
+ not in the same room, you have to basically let everything play out.
+
+412
+00:22:32,680 --> 00:22:38,400
+ And so that was a little detrimental because it felt like some people didn't
+
+413
+00:22:38,400 --> 00:22:40,800
+ quite get to say quite as much as other people on the panel.
+
+414
+00:22:40,800 --> 00:22:43,480
+ But actually everyone on the panel, what they were saying was really interesting.
+
+415
+00:22:43,480 --> 00:22:46,960
+ So maybe the solution is that it should have been a 90 minute panel with more
+
+416
+00:22:46,960 --> 00:22:50,480
+ room for these things, two more room for discussion to happen.
+
+417
+00:22:50,480 --> 00:22:54,400
+ And I also did find the fact that there were sort of 50 minute panels with then
+
+418
+00:22:54,400 --> 00:22:56,200
+ 10 minutes to sort of change over.
+
+419
+00:22:56,200 --> 00:22:58,360
+ I think you could have pushed that a little bit because there's no reason it
+
+420
+00:22:58,360 --> 00:22:59,760
+ couldn't be 55 minutes.
+
+421
+00:22:59,760 --> 00:23:02,880
+ I don't think you need the massive 10 minute gap.
+
+422
+00:23:02,880 --> 00:23:05,320
+ You could get away with just a five minute quick break.
+
+423
+00:23:05,640 --> 00:23:09,440
+ I'm going to I'm going to slightly disagree with that in that.
+
+424
+00:23:09,440 --> 00:23:13,720
+ I think that the 10 minute break is very nice because and this is going to be very
+
+425
+00:23:13,720 --> 00:23:17,600
+ base, but if one needs a poo, one needs 10 minutes.
+
+426
+00:23:17,600 --> 00:23:20,600
+ And the number of professional meetings I've had where it's a five minute break
+
+427
+00:23:20,600 --> 00:23:24,640
+ and it just be the entire day I don't have room to do certain biological things
+
+428
+00:23:24,640 --> 00:23:25,800
+ I would quite like to be able to do.
+
+429
+00:23:25,800 --> 00:23:28,760
+ I'm going to progressively pissed off for people who are like five minutes
+
+430
+00:23:28,760 --> 00:23:30,280
+ will be fine. No, no, 10 minutes is good.
+
+431
+00:23:30,280 --> 00:23:32,400
+ I don't need I don't need 10 minutes every time.
+
+432
+00:23:32,400 --> 00:23:35,440
+ But the time I do need the 10 minutes, I really need the 10 minutes.
+
+433
+00:23:36,320 --> 00:23:39,560
+ So yes, sorry to our listeners who may not want to know these things.
+
+434
+00:23:39,560 --> 00:23:43,040
+ I'm going to disagree with this from the other point of view, which is that I was
+
+435
+00:23:43,040 --> 00:23:49,440
+ Zoom host for a few things at Conzeland and the amount of the amount of hardness
+
+436
+00:23:49,440 --> 00:23:52,480
+ it is to change a room over in five minutes is very great.
+
+437
+00:23:52,480 --> 00:23:59,240
+ Now, in fact, this got that's like actually had two was running two rooms in parallel.
+
+438
+00:23:59,240 --> 00:24:01,240
+ So I don't think anyone actually had to do that.
+
+439
+00:24:01,240 --> 00:24:04,760
+ But if you are having to change over a Zoom room in five minutes, it's it's
+
+440
+00:24:04,760 --> 00:24:10,480
+ impossible and people might have been programmed sequentially, which and 10 minutes
+
+441
+00:24:10,480 --> 00:24:16,000
+ is not really enough time for panelists to to get sorted for another item.
+
+442
+00:24:16,000 --> 00:24:18,000
+ So so I think 10 minutes is fine.
+
+443
+00:24:18,000 --> 00:24:23,000
+ So I will I will push back that if you're paneling, you probably should not be putting
+
+444
+00:24:23,000 --> 00:24:26,320
+ people on back to back panels anyway, because whether you give them a 10 minute break
+
+445
+00:24:26,320 --> 00:24:27,800
+ or not, it is hard work.
+
+446
+00:24:27,800 --> 00:24:30,960
+ They did have two different rooms they could be using.
+
+447
+00:24:30,960 --> 00:24:35,560
+ And it just felt like we were cutting off at, you know, 10 50 when they hadn't
+
+448
+00:24:35,560 --> 00:24:38,440
+ really had much time in those 50 minutes to expound on it.
+
+449
+00:24:38,440 --> 00:24:44,760
+ Once we actually get the hang of how to get people to buy from dealers at an online
+
+450
+00:24:44,760 --> 00:24:49,920
+ event, which, you know, they would like to do dealers have things that the members
+
+451
+00:24:49,920 --> 00:24:52,840
+ would have not seen before and would really like to own.
+
+452
+00:24:52,840 --> 00:24:58,000
+ And the members are inclined to buy things from dealers.
+
+453
+00:24:58,280 --> 00:25:02,680
+ But the process of putting them together is completely failing at the moment in a way
+
+454
+00:25:02,680 --> 00:25:04,600
+ that's making everybody very sad.
+
+455
+00:25:04,600 --> 00:25:07,720
+ And if we had a 10 minute break, I think one of the things we could be doing with the
+
+456
+00:25:07,720 --> 00:25:10,760
+ 10 minute break is here's here's the sponsored deal.
+
+457
+00:25:10,760 --> 00:25:13,040
+ Here's the feature dealer for this 10 minute break.
+
+458
+00:25:13,040 --> 00:25:14,080
+ Go and see that stuff.
+
+459
+00:25:14,080 --> 00:25:18,440
+ I mean, the other thing about dealers rooms is even if you showed me a bunch of stuff
+
+460
+00:25:18,440 --> 00:25:21,240
+ in that 10 minute gap, I likely wouldn't buy it.
+
+461
+00:25:21,240 --> 00:25:25,080
+ And the reason I likely I'm not buying anything from dealers is unless it is like
+
+462
+00:25:25,120 --> 00:25:29,040
+ ebooks or something, I'm not buying anything because I don't know when it will arrive
+
+463
+00:25:29,040 --> 00:25:29,720
+ at my house.
+
+464
+00:25:29,720 --> 00:25:34,040
+ So, you know, electronic dealers rooms fundamentally for me are a thing that doesn't
+
+465
+00:25:34,040 --> 00:25:37,880
+ work because I have no idea how long the post is currently taking to get to me.
+
+466
+00:25:37,880 --> 00:25:40,480
+ But it could be, I think it's probably months.
+
+467
+00:25:40,480 --> 00:25:44,640
+ So overall online sales remains strong.
+
+468
+00:25:44,640 --> 00:25:48,720
+ One of the things that was really interesting about this at the UK Games Expo is a lot
+
+469
+00:25:48,720 --> 00:25:50,320
+ of dealers had a lot of trouble.
+
+470
+00:25:50,320 --> 00:25:54,840
+ Like the number of people that they expected to get through was was vastly
+
+471
+00:25:54,840 --> 00:25:57,040
+ lower and the problem with dealers of the internet.
+
+472
+00:25:57,040 --> 00:26:02,280
+ And I think I think Alison is slightly wrong here is that I impulse by stuff in
+
+473
+00:26:02,280 --> 00:26:06,280
+ person that I would not impulse by at home.
+
+474
+00:26:06,280 --> 00:26:09,720
+ And I think the context of a convention where you get to go on holiday, I buy things
+
+475
+00:26:09,720 --> 00:26:13,240
+ on holiday that I would never ever buy when I was not on holiday.
+
+476
+00:26:13,240 --> 00:26:17,120
+ Conventions are very much an example of that mindset.
+
+477
+00:26:17,120 --> 00:26:19,800
+ And this UK Games Expo, I didn't spend anything.
+
+478
+00:26:19,800 --> 00:26:23,160
+ My usual budget for UK Games Expo is around 200 pounds.
+
+479
+00:26:23,360 --> 00:26:28,560
+ So like the disparity there between like my usual behaviour and my own
+
+480
+00:26:28,560 --> 00:26:29,920
+ line behaviour is vast.
+
+481
+00:26:29,920 --> 00:26:32,240
+ And I can imagine for a lot of other people is too.
+
+482
+00:26:32,240 --> 00:26:34,000
+ So I think dealers are a really difficult thing.
+
+483
+00:26:34,000 --> 00:26:36,680
+ But I think a lot of that is psychological and I'm not sure to what extent
+
+484
+00:26:36,680 --> 00:26:40,600
+ it's because we don't have the platforms versus other considerations.
+
+485
+00:26:40,600 --> 00:26:42,400
+ Sorry, Alison, tell me why I'm wrong.
+
+486
+00:26:42,400 --> 00:26:46,840
+ I feel that this is it's like parties.
+
+487
+00:26:46,840 --> 00:26:50,120
+ It's one of the things where you could either ring your hands or you could look
+
+488
+00:26:50,120 --> 00:26:52,120
+ at what will help worked out with that.
+
+489
+00:26:52,120 --> 00:26:53,280
+ Yes, fair enough.
+
+490
+00:26:53,440 --> 00:26:56,640
+ And I feel because it's kind of a third way of selling.
+
+491
+00:26:56,640 --> 00:26:59,720
+ So you've got people who they've been saying, oh, it's been really difficult
+
+492
+00:26:59,720 --> 00:27:02,320
+ for people who are used to selling face to face to move online.
+
+493
+00:27:02,320 --> 00:27:06,200
+ And all the dealers are like, no, we do have established online shops because
+
+494
+00:27:06,200 --> 00:27:08,720
+ we're not actually dealing from the past year.
+
+495
+00:27:08,720 --> 00:27:15,040
+ It's not about physical sales or online sales and online sales remains strong.
+
+496
+00:27:15,040 --> 00:27:18,800
+ There's no in general people are still buying things online.
+
+497
+00:27:18,800 --> 00:27:23,120
+ It's actually trying to find whether it is possible to create a market
+
+498
+00:27:23,120 --> 00:27:29,240
+ for selling at these online events and in particular for finding a way to highlight
+
+499
+00:27:29,240 --> 00:27:35,400
+ the fact that you can get unique things from dealers in our field that you cannot
+
+500
+00:27:35,400 --> 00:27:39,480
+ that you will probably not find just by browsing the internet because because
+
+501
+00:27:39,480 --> 00:27:42,200
+ they are marketing that they can market directly to you.
+
+502
+00:27:42,200 --> 00:27:46,080
+ Now it won't work for dealers who are selling things that are easily available
+
+503
+00:27:46,080 --> 00:27:50,120
+ from from other large companies, but lots of dealers are selling unique things.
+
+504
+00:27:50,440 --> 00:27:52,760
+ And I feel like those dealers ought to be able to do.
+
+505
+00:27:52,760 --> 00:27:54,760
+ We ought to be able to find a way to make that work.
+
+506
+00:27:54,760 --> 00:27:57,240
+ Anyway, and if we can't, I will just walk away.
+
+507
+00:27:57,240 --> 00:28:01,560
+ I've I've said I'm not ever I'm not paying any more money for a dealer's table.
+
+508
+00:28:01,560 --> 00:28:04,560
+ It's an online event until until this is cracked.
+
+509
+00:28:04,560 --> 00:28:08,480
+ You know, I feel that that although I did not lose money at
+
+510
+00:28:08,480 --> 00:28:11,720
+ Consilent, the money I spent for a dealer's table, there was largely waste.
+
+511
+00:28:11,720 --> 00:28:15,160
+ Dealers, it sounds a little bit similar to something that Bristol Con
+
+512
+00:28:15,160 --> 00:28:20,000
+ does or at least used to when I went to a couple, which is between
+
+513
+00:28:20,000 --> 00:28:23,400
+ panels, they would have like a very short five to 10 minute reading slot,
+
+514
+00:28:23,400 --> 00:28:27,120
+ usually for an up and coming author to come and read their work out.
+
+515
+00:28:27,120 --> 00:28:32,320
+ And it didn't really work for me because I'm distracted by moving rooms
+
+516
+00:28:32,320 --> 00:28:35,600
+ and working out where I put my phone and getting myself set for the next panel.
+
+517
+00:28:35,600 --> 00:28:38,400
+ So I'm not listening to this poor person reading at the front of the room.
+
+518
+00:28:38,400 --> 00:28:42,440
+ So I worry if you use that 10 minutes to kind of advertise dealer stuff,
+
+519
+00:28:42,440 --> 00:28:46,160
+ you would see like the number of people in the zoom, just like ticking slowly
+
+520
+00:28:46,160 --> 00:28:48,360
+ downwards that could be quite demoralizing.
+
+521
+00:28:48,680 --> 00:28:51,920
+ But I don't I don't have a good solution to the online dealers room thing.
+
+522
+00:28:51,920 --> 00:28:55,640
+ The point I was trying to make is that I think that is a really difficult
+
+523
+00:28:55,640 --> 00:28:59,960
+ problem and I don't I also don't have any good ideas about how to solve it.
+
+524
+00:28:59,960 --> 00:29:01,680
+ I think is I think you're right.
+
+525
+00:29:01,680 --> 00:29:06,920
+ I think people are not in really the right places to be spending the sort of money
+
+526
+00:29:06,920 --> 00:29:09,400
+ that they might spend in a dealers room if they're at an in person
+
+527
+00:29:09,400 --> 00:29:11,480
+ convention right now as well.
+
+528
+00:29:11,480 --> 00:29:18,120
+ When I think I will actually say I tell a lie slightly because I did buy some swag.
+
+529
+00:29:18,960 --> 00:29:25,920
+ Um, from both the UK Games Expo and from FarcomCon, which was a, so the UK, sorry,
+
+530
+00:29:25,920 --> 00:29:26,680
+ I should have said this.
+
+531
+00:29:26,680 --> 00:29:30,840
+ The UK Games Expo was a convention held at the same time as NASFIC, which I spent my time at.
+
+532
+00:29:30,840 --> 00:29:36,120
+ The one thing I bought at the UK Games Expo was a Games Expo 2020 dice bag.
+
+533
+00:29:36,120 --> 00:29:41,240
+ And the one thing I bought at FarcomCon was a set of alt-art cards for
+
+534
+00:29:41,240 --> 00:29:46,360
+ Akmara and the thing they both had in common was that there was a time limited
+
+535
+00:29:46,360 --> 00:29:47,880
+ aspect to the purchase.
+
+536
+00:29:47,880 --> 00:29:53,240
+ Um, the alt-art cards had a discount for the duration of the convention and the
+
+537
+00:29:53,240 --> 00:29:55,800
+ dice pouch was only available to buy that weekend.
+
+538
+00:29:55,800 --> 00:29:58,720
+ And so I didn't think, oh, I can just put this off for a month and it will be fine.
+
+539
+00:29:58,720 --> 00:30:00,520
+ I'll book out the page and then never buy it.
+
+540
+00:30:00,520 --> 00:30:01,720
+ Why did I bought it then?
+
+541
+00:30:01,720 --> 00:30:03,320
+ Because there was a reason to buy it then.
+
+542
+00:30:03,320 --> 00:30:09,520
+ And I think the way that you capture the impulse purchase thing is you have like,
+
+543
+00:30:09,520 --> 00:30:14,960
+ all my stuff is 20% off if you use this convention specific code that is valid until
+
+544
+00:30:14,960 --> 00:30:17,480
+ Monday. And I think that might help.
+
+545
+00:30:17,480 --> 00:30:22,240
+ But obviously, my great revelation here is that making things cheaper makes things
+
+546
+00:30:22,240 --> 00:30:23,600
+ people more likely to buy them.
+
+547
+00:30:23,600 --> 00:30:26,240
+ And I'm sure that most traders have already thought of that.
+
+548
+00:30:26,240 --> 00:30:32,120
+ Um, it does, but you can put your prices up by 20% and they give people a 20% discount code.
+
+549
+00:30:32,120 --> 00:30:33,240
+ It works just as well.
+
+550
+00:30:33,240 --> 00:30:35,560
+ But Alison, that would be dishonest.
+
+551
+00:30:35,560 --> 00:30:37,040
+ You'd think, wouldn't you?
+
+552
+00:30:37,040 --> 00:30:40,960
+ Um, so in Britain, there's some trading laws that don't that limit the extent to
+
+553
+00:30:40,960 --> 00:30:46,880
+ which you could do this, but when you're trading globally, those really don't apply.
+
+554
+00:30:46,880 --> 00:30:51,720
+ And I think the trading standards would have very great difficulty in enforcing them on
+
+555
+00:30:51,720 --> 00:30:57,720
+ you, but often when you see things being sold at a discount, you should just assume,
+
+556
+00:30:57,720 --> 00:31:01,120
+ just assume that the price of being charged is the actual price for that item.
+
+557
+00:31:01,120 --> 00:31:03,600
+ And it is not in fact a discount.
+
+558
+00:31:03,600 --> 00:31:06,640
+ You do have to put it back up to the regular cost afterwards.
+
+559
+00:31:06,640 --> 00:31:08,840
+ Otherwise, people will notice and get abandoned with you.
+
+560
+00:31:08,840 --> 00:31:10,600
+ You could have time limited ones.
+
+561
+00:31:10,880 --> 00:31:13,840
+ But limited edition things just for an event are good.
+
+562
+00:31:13,840 --> 00:31:16,200
+ And I might use them in the future.
+
+563
+00:31:16,200 --> 00:31:21,720
+ Time limited stuff seems like a good, a good idea, something you can only buy that weekend.
+
+564
+00:31:21,720 --> 00:31:28,120
+ And hopefully in price ranges where people do think, Oh, and impulse, I can impulse buy it this weekend.
+
+565
+00:31:28,120 --> 00:31:34,080
+ Um, the other thing I wanted to say about this was because they're five hours behind parties
+
+566
+00:31:34,080 --> 00:31:37,200
+ were at an inconvenient time and they had two lots of parties.
+
+567
+00:31:37,200 --> 00:31:43,640
+ They had one using a scheme called Gather Town, which is a large space in which people can move,
+
+568
+00:31:43,640 --> 00:31:46,280
+ little avatars of people can move around.
+
+569
+00:31:46,280 --> 00:31:51,560
+ And then when you get into groups close to people, it's set, it spits up a zoom-like window
+
+570
+00:31:51,560 --> 00:31:52,800
+ with their video faces.
+
+571
+00:31:52,800 --> 00:31:56,520
+ And this actually worked OK.
+
+572
+00:31:56,520 --> 00:32:01,360
+ It felt very bitter, but it felt like an I've used similar systems in the past as test.
+
+573
+00:32:01,360 --> 00:32:06,200
+ It worked look like something that could be made to work with a bit of, with a bit of work.
+
+574
+00:32:06,480 --> 00:32:13,280
+ Um, it had it suffered one attendee was letting their child run all around the space.
+
+575
+00:32:13,280 --> 00:32:19,080
+ And so that child kept kind of their video would appear for about three seconds
+
+576
+00:32:19,080 --> 00:32:23,360
+ through your through your party as they were laughing and joking.
+
+577
+00:32:23,360 --> 00:32:30,040
+ And that really accurately recreated the experience of having an eight year old running
+
+578
+00:32:30,040 --> 00:32:31,480
+ around a bar to me.
+
+579
+00:32:31,480 --> 00:32:36,080
+ And while I didn't enjoy it, I thought, Oh, well, maybe we're getting somewhere with this
+
+580
+00:32:36,440 --> 00:32:38,800
+ replicating the feeling of being in a bar.
+
+581
+00:32:38,800 --> 00:32:40,480
+ So I quite liked it.
+
+582
+00:32:40,480 --> 00:32:43,120
+ The actual video as ever is not as good as zoom.
+
+583
+00:32:43,120 --> 00:32:47,800
+ If zoom put a layer like that on top of the zoom function we've already got.
+
+584
+00:32:47,800 --> 00:32:53,640
+ So in the corner, you would see the local area of your bar and a list of all the people
+
+585
+00:32:53,640 --> 00:32:55,720
+ and you can see a list of all the people in the bar generally.
+
+586
+00:32:55,720 --> 00:32:58,280
+ I think that would be pretty killer.
+
+587
+00:32:58,280 --> 00:33:04,840
+ The other night's parties were on zoom, but because I'd actually been at a real party
+
+588
+00:33:04,840 --> 00:33:11,240
+ in the real world with real people that day, I was not capable of attending a party at
+
+589
+00:33:11,240 --> 00:33:14,640
+ what started at midnight, my time, by which time I was fast asleep.
+
+590
+00:33:14,640 --> 00:33:18,840
+ So that was a normal zoom party of the sort that we've been doing.
+
+591
+00:33:18,840 --> 00:33:20,520
+ And I think that was also pretty successful.
+
+592
+00:33:20,520 --> 00:33:23,560
+ Again, I would like more parties at different times of the day, please.
+
+593
+00:33:23,560 --> 00:33:26,640
+ I will say I didn't go to I didn't go to NASVIC.
+
+594
+00:33:26,640 --> 00:33:33,040
+ And I in general, like with reconvene, which was the weekend before NASVIC, I think.
+
+595
+00:33:34,040 --> 00:33:35,040
+ I think that's right.
+
+596
+00:33:35,040 --> 00:33:43,440
+ I paid my $10 and I actually didn't really feel like I got $10 worth of enjoyment out of the convention.
+
+597
+00:33:43,440 --> 00:33:47,440
+ I think the thing I am learning in lockdown is that conventions for me are very much
+
+598
+00:33:47,440 --> 00:33:51,440
+ social spaces and not spaces to receive information.
+
+599
+00:33:51,440 --> 00:33:55,920
+ I go to the panels because I enjoy them, but if it was just panels with no social space,
+
+600
+00:33:55,920 --> 00:33:57,440
+ I would not go to conventions.
+
+601
+00:33:57,440 --> 00:34:02,120
+ And I think what I'm learning is the online conventions, which are basically just panels
+
+602
+00:34:02,120 --> 00:34:08,800
+ with no social space are very much not a value proposition for me, which is not a criticism of them.
+
+603
+00:34:08,800 --> 00:34:10,560
+ Because I appreciate there is an audience for that.
+
+604
+00:34:10,560 --> 00:34:13,400
+ But certainly it is not, it is not my cup of tea.
+
+605
+00:34:13,400 --> 00:34:19,840
+ I will say as ever that I want more conventions to do more thinking about the virtual
+
+606
+00:34:19,840 --> 00:34:23,560
+ social space and make it better.
+
+607
+00:34:23,560 --> 00:34:27,320
+ The panels are quite useful so that you have something to talk about in the social spaces.
+
+608
+00:34:27,320 --> 00:34:31,280
+ Something else we should probably say about NASVIC is that they tried a new method
+
+609
+00:34:31,280 --> 00:34:37,280
+ of showing panels to people, which is that they only put the panel participants into the zoom
+
+610
+00:34:37,280 --> 00:34:45,600
+ and they put every and then they used Vimeo, I think, to display to everyone the panel
+
+611
+00:34:45,600 --> 00:34:50,080
+ and the Discord chat in a kind of single window.
+
+612
+00:34:50,080 --> 00:34:55,400
+ And this had the effect of making the panel very, very small for a lot of people.
+
+613
+00:34:55,400 --> 00:35:00,240
+ I don't know whether the person who came up with that idea was doing it on a 27 inch monitor.
+
+614
+00:35:00,760 --> 00:35:03,840
+ But they were wrong and this was a mistake.
+
+615
+00:35:03,840 --> 00:35:08,680
+ I mean, they've embedded in their website a thing that let you have the Vimeo and the Discord side by side.
+
+616
+00:35:08,680 --> 00:35:10,600
+ But you could just have the Vimeo as a stream.
+
+617
+00:35:10,600 --> 00:35:13,960
+ And in fact, I did it by eventually working out how to cast it to my TV.
+
+618
+00:35:13,960 --> 00:35:16,840
+ So there's nothing saying you had to only view it on their site.
+
+619
+00:35:16,840 --> 00:35:18,600
+ It worked perfectly fine. Oh, yeah.
+
+620
+00:35:18,600 --> 00:35:22,040
+ I mean, it took a bit of budging because I couldn't get out of my Chromecast very well.
+
+621
+00:35:22,040 --> 00:35:23,760
+ But once I've got it sorted, I did.
+
+622
+00:35:23,760 --> 00:35:28,960
+ So I basically do this as, oh, well, I'm going to watch panels instead of TV for a couple of hours this evening.
+
+623
+00:35:29,200 --> 00:35:31,560
+ And I didn't really engage with the Discord at the same time.
+
+624
+00:35:31,560 --> 00:35:33,840
+ But there were people asking questions to the Discord.
+
+625
+00:35:33,840 --> 00:35:39,280
+ Yes, that now we had two, I did two panels and in one of them.
+
+626
+00:35:39,280 --> 00:35:46,880
+ So they said to us both tips for being a good online panelist and tips for being a good online panel moderator.
+
+627
+00:35:46,880 --> 00:35:49,720
+ And I didn't moderate a panel at this one.
+
+628
+00:35:49,720 --> 00:35:53,960
+ But one of the panel moderators was a very good panel moderator.
+
+629
+00:35:53,960 --> 00:35:58,960
+ They were using the Zoom chat, which is because only the panelists are in Zoom.
+
+630
+00:35:58,960 --> 00:36:00,440
+ It's only for the panelists.
+
+631
+00:36:00,440 --> 00:36:10,000
+ They were using that to queue up the next topic of conversation and tell people to wrap up and invite people, say,
+
+632
+00:36:10,000 --> 00:36:13,360
+ I'm going to ask you to talk about X.
+
+633
+00:36:13,360 --> 00:36:15,760
+ So you can have a little bit of time to think about it.
+
+634
+00:36:15,760 --> 00:36:20,000
+ And she was also very good at like bringing people in to the conversation
+
+635
+00:36:20,000 --> 00:36:21,680
+ and just the way a good moderator should.
+
+636
+00:36:21,680 --> 00:36:24,480
+ And the other moderator was appalling.
+
+637
+00:36:24,480 --> 00:36:28,120
+ And I'm kind of like, why are people like this?
+
+638
+00:36:28,120 --> 00:36:32,920
+ And they weren't a bad person or or or or or in your
+
+639
+00:36:32,920 --> 00:36:40,600
+ anything. They just didn't do any of the things that you want a moderator to do at all.
+
+640
+00:36:40,600 --> 00:36:48,600
+ So they weren't really directing the flow of conversation or bringing people in or asking them about particular topics.
+
+641
+00:36:48,600 --> 00:36:55,360
+ And I've I've kind of lost my, you know, they start, you know, you're in trouble because you get to the panel early.
+
+642
+00:36:55,360 --> 00:36:57,760
+ And I say, well, what are your plans for the panel?
+
+643
+00:36:58,080 --> 00:37:01,920
+ A moderator, they're kind of like, Oh, I just thought I see where the conversation went.
+
+644
+00:37:01,920 --> 00:37:02,720
+ Boo.
+
+645
+00:37:02,720 --> 00:37:04,840
+ And I'm kind of done with this at this point.
+
+646
+00:37:04,840 --> 00:37:15,120
+ I was on a panel at Dublin and the moderator the day before the convention started had not sent a message saying is the flow of conversation.
+
+647
+00:37:15,120 --> 00:37:16,120
+ So I did.
+
+648
+00:37:16,120 --> 00:37:19,400
+ I sent the message saying, I think the flow of conversation should be this.
+
+649
+00:37:19,400 --> 00:37:23,000
+ I don't know whether the moderator will agree, but here is my initial pitch.
+
+650
+00:37:23,000 --> 00:37:27,320
+ And then the moderator had to come up with a flow of conversation because otherwise it would be by default.
+
+651
+00:37:27,320 --> 00:37:30,960
+ But when I had decided on, and I felt very passive, aggressive for doing it that way.
+
+652
+00:37:30,960 --> 00:37:40,760
+ But I was like, I, I am as I get older, progressively less willing to put up with moderators who don't put any effort into their panels,
+
+653
+00:37:40,760 --> 00:37:44,800
+ especially when I put effort into moderating my panels.
+
+654
+00:37:44,800 --> 00:37:50,680
+ And so I'm quite happy to be like, well, as a panelist, here is the list of things I will ask my fellow panelists about.
+
+655
+00:37:50,680 --> 00:37:53,680
+ And if you don't want that to be the conversation, you need to go up with a better one.
+
+656
+00:37:53,680 --> 00:37:56,760
+ Because this is now my de facto plan.
+
+657
+00:37:56,960 --> 00:38:00,640
+ I am perfectly happy for the moderator to do all that work,
+
+658
+00:38:00,640 --> 00:38:04,240
+ that the work that the moderator has to do for the to prepare for a panel.
+
+659
+00:38:04,240 --> 00:38:08,600
+ I am perfectly happy for them to do all that work in the 10 minutes before the panel in the green room.
+
+660
+00:38:08,600 --> 00:38:14,040
+ This isn't going to cover the surprise to either of you guys, though I do actually manage to email round people.
+
+661
+00:38:14,040 --> 00:38:19,800
+ I'm not that bad. But, um, but the kind of, oh, I'm just happy to let things drift,
+
+662
+00:38:20,000 --> 00:38:28,760
+ especially in an online con where we know now that letting things drift really does not work in a really big way.
+
+663
+00:38:28,760 --> 00:38:31,000
+ You know, it is just not good enough.
+
+664
+00:38:31,000 --> 00:38:37,000
+ Yep. I mean, speaking as someone who edits a podcast, I can confirm that that is true.
+
+665
+00:38:37,000 --> 00:38:42,600
+ So I will, I will, I will very quickly run through my experiences of UK Games Expo.
+
+666
+00:38:42,600 --> 00:38:45,120
+ Firstly, Liz was there, which was delightful.
+
+667
+00:38:45,120 --> 00:38:48,600
+ And I believe Alison was on the UK Games Expo Discord as well.
+
+668
+00:38:48,800 --> 00:38:51,480
+ I couldn't get there. Couldn't get there too much on last weekend.
+
+669
+00:38:51,480 --> 00:38:53,040
+ I got a lot of badges.
+
+670
+00:38:53,040 --> 00:39:00,720
+ Part of the other shameful admission is the part of the reason I bought merch is because you had achievement badges on your profile through the weekend.
+
+671
+00:39:00,720 --> 00:39:03,720
+ And there was a achievement badge for buying someone a virtual beer,
+
+672
+00:39:03,720 --> 00:39:08,720
+ an achievement badge for buying someone a virtual hot dog, an achievement badge for donating to the UK Games Expo,
+
+673
+00:39:08,720 --> 00:39:10,240
+ and an achievement badge for buying merch.
+
+674
+00:39:10,240 --> 00:39:13,280
+ And I have all four of those achievement badges, which is about 20 credit.
+
+675
+00:39:13,280 --> 00:39:14,960
+ I wouldn't have spent if they didn't have achievements.
+
+676
+00:39:14,960 --> 00:39:16,440
+ So like, that's another way.
+
+677
+00:39:16,640 --> 00:39:19,440
+ Game of fire and they game of fighting good.
+
+678
+00:39:19,440 --> 00:39:24,880
+ I saw that the list of because I got despite the fact that I didn't do a lot in UK Games Expo,
+
+679
+00:39:24,880 --> 00:39:27,440
+ I got some badges and I was like, oh, achievements.
+
+680
+00:39:27,440 --> 00:39:30,960
+ I like achievements. I am, I am a monkey.
+
+681
+00:39:30,960 --> 00:39:33,200
+ You can make me happy with gold stars.
+
+682
+00:39:33,200 --> 00:39:38,480
+ And I went to the list of achievements and I saw that by something from a dealer
+
+683
+00:39:38,480 --> 00:39:42,240
+ achievement, I was like, yeah, I didn't write it down anywhere.
+
+684
+00:39:42,240 --> 00:39:46,480
+ But if you're organizing online, like on ribbons, virtual ribbons,
+
+685
+00:39:46,480 --> 00:39:47,800
+ don't do it as virtual achievements.
+
+686
+00:39:47,800 --> 00:39:50,840
+ Do it as virtual ribbons because that's more famish.
+
+687
+00:39:50,840 --> 00:39:52,840
+ Virtual ribbons and have.
+
+688
+00:39:52,840 --> 00:39:59,560
+ I bought something from the dealer's room and I bought something from the art show as virtual ribbons.
+
+689
+00:39:59,560 --> 00:40:00,360
+ Yeah.
+
+690
+00:40:00,360 --> 00:40:02,080
+ How did they implement them?
+
+691
+00:40:02,080 --> 00:40:07,080
+ Because Nastvik had virtual ribbons, but you just clicked on a little emoji on a chat window.
+
+692
+00:40:07,080 --> 00:40:11,560
+ So no, so in the UK Games Expo to get an achievement,
+
+693
+00:40:11,760 --> 00:40:17,040
+ there was achievement for going to each of the key sponsors stands,
+
+694
+00:40:17,040 --> 00:40:20,840
+ which were pages in the dealers hall, which was only accessible if you'd registered.
+
+695
+00:40:20,840 --> 00:40:24,640
+ And if you went to them, you unlocked the badge for going to that stand.
+
+696
+00:40:24,640 --> 00:40:31,080
+ And then each exhibitor exhibitors were given links that once you'd done a demo
+
+697
+00:40:31,080 --> 00:40:35,640
+ with them or interacted with them, meaningfully, they could send you a unique link
+
+698
+00:40:35,640 --> 00:40:38,200
+ and you clicked the link and it awarded you that badge.
+
+699
+00:40:38,400 --> 00:40:44,080
+ So like if you took demos for games, you couldn't just farm a bunch of links cheekily.
+
+700
+00:40:44,080 --> 00:40:47,120
+ You had to actually do demos and it worked.
+
+701
+00:40:47,120 --> 00:40:47,760
+ It was very good.
+
+702
+00:40:47,760 --> 00:40:52,600
+ I have no idea what level of technical
+
+703
+00:40:52,600 --> 00:40:57,080
+ investment was required to settle this up, but it was great.
+
+704
+00:40:57,080 --> 00:41:03,000
+ I think lower than the amount of technical investment than Conzil and put into its 3D dealers hall.
+
+705
+00:41:03,000 --> 00:41:03,720
+ You know, I think.
+
+706
+00:41:03,720 --> 00:41:05,840
+ Oh, yeah, 100%.
+
+707
+00:41:06,120 --> 00:41:09,320
+ It's not that much. What they did was every member of the convention.
+
+708
+00:41:09,320 --> 00:41:12,280
+ And I think this is something that every online pay con should do.
+
+709
+00:41:12,280 --> 00:41:14,600
+ This is a really good idea.
+
+710
+00:41:14,600 --> 00:41:18,480
+ Had essentially a profile page that people could visit.
+
+711
+00:41:18,480 --> 00:41:20,640
+ And we could do that for any con.
+
+712
+00:41:20,640 --> 00:41:24,800
+ And then when you met somebody, you could go and see their profile page and people could
+
+713
+00:41:24,800 --> 00:41:28,800
+ I don't think they could at UK Games Expo, but you could have people personalise
+
+714
+00:41:28,800 --> 00:41:32,360
+ that with their picture of their bio, just as if they were program participants,
+
+715
+00:41:32,360 --> 00:41:33,160
+ but for everyone.
+
+716
+00:41:33,360 --> 00:41:36,400
+ And then the achievements were all that could all be there.
+
+717
+00:41:36,400 --> 00:41:42,240
+ You know, this feels like very basic web design to me that I could do.
+
+718
+00:41:42,240 --> 00:41:47,040
+ I would have to spend a long time on it and I would cry and curse a lot,
+
+719
+00:41:47,040 --> 00:41:48,840
+ but I could implement this thing.
+
+720
+00:41:48,840 --> 00:41:53,360
+ And I should say I could not implement a 3D dealer hall no way.
+
+721
+00:41:53,360 --> 00:41:59,160
+ So I think I think in general, the personalisation, the limit of the personalisation
+
+722
+00:41:59,360 --> 00:42:05,200
+ of the UK Games Expo was basically like you can you can set people a list of the badges
+
+723
+00:42:05,200 --> 00:42:10,080
+ you've got, but like there is no reason you couldn't have had it be like a customisation,
+
+724
+00:42:10,080 --> 00:42:12,400
+ a customisable page I suspect.
+
+725
+00:42:12,400 --> 00:42:14,000
+ And that could have worked really well.
+
+726
+00:42:14,000 --> 00:42:15,240
+ I think that would be lovely.
+
+727
+00:42:15,240 --> 00:42:18,880
+ And I think it would be really nice to because you do meet people in passing
+
+728
+00:42:18,880 --> 00:42:23,680
+ at these online cons and I mean, you do in real life as well, but you it's hard
+
+729
+00:42:23,680 --> 00:42:25,080
+ to get a sense of what they're like.
+
+730
+00:42:25,080 --> 00:42:27,200
+ I'd have liked to do it for my fellow panelists as well.
+
+731
+00:42:27,400 --> 00:42:30,720
+ I'd like more information about the people I was on panels with,
+
+732
+00:42:30,720 --> 00:42:33,000
+ both before and after I was on the panels with them.
+
+733
+00:42:33,000 --> 00:42:38,120
+ That was indeed the 13th episode of the Octa Thought Podcast.
+
+734
+00:42:38,120 --> 00:42:40,480
+ So for now, it is goodbye from me.
+
+735
+00:42:40,480 --> 00:42:42,120
+ It is goodbye from me.
+
+736
+00:42:42,120 --> 00:42:43,520
+ And it's goodbye from me.
+
+737
+00:42:43,520 --> 00:42:47,960
+ The theme music for this episode was fanfare for space by Kevin MacLeod
+
+738
+00:42:47,960 --> 00:42:53,400
+ and Compatec.com used under a Creative Commons attribution 3.0 licence.
+
+739
+00:42:53,400 --> 00:43:02,400
+ [Music]
+
+740
+00:43:02,400 --> 00:43:09,040
+ Hello, sorry I was in a totally different zoom link.
+
+741
+00:43:09,040 --> 00:43:10,560
+ Yeah.
+
+742
+00:43:10,560 --> 00:43:13,560
+ You were right. John was John as one because
+
+743
+00:43:13,560 --> 00:43:15,280
+ he had patriarchy.
+
+744
+00:43:15,280 --> 00:43:17,160
+ What? It's an outrage.
+
+745
+00:43:17,160 --> 00:43:18,520
+ I clicked the link.
+
+746
+00:43:18,520 --> 00:43:22,840
+ I have a link favourite, which says "Allison Zoom" and I clicked that link.
+
+747
+00:43:23,040 --> 00:43:24,400
+ And now I am with Allison and Liz.
+
+748
+00:43:24,400 --> 00:43:26,840
+ I failed to see how I've done anything wrong.
+
+749
+00:43:26,840 --> 00:43:31,560
+ OK, because that's the morning coffee zoom and a lot of people have that link.
+
+750
+00:43:31,560 --> 00:43:34,240
+ So theoretically, we could get zoom bombed on it.
+
+751
+00:43:34,240 --> 00:43:40,000
+ So I'd run these zooms off my personal zoom meeting link, but obviously there is no
+
+752
+00:43:40,000 --> 00:43:42,320
+ actual risk here, really.
+
+753
+00:43:42,320 --> 00:43:46,640
+ Someone who knows you from Coffee Morning joins in the podcast and then we have to
+
+754
+00:43:46,640 --> 00:43:48,760
+ kick them out. It doesn't seem like a lot of risk.
+
+755
+00:43:48,760 --> 00:43:50,720
+ That would actually probably be quite fun.
+
+756
+00:43:50,920 --> 00:43:52,960
+ An improvement on the podcast.
+
+757
+00:43:52,960 --> 00:43:56,320
+ Never tell Lillian that this is how she becomes a guest.
+
+758
+00:43:56,320 --> 00:43:58,400
+ Yeah, never tell Lillian we're doing it.
+
+759
+00:43:58,400 --> 00:44:04,680
+ [beep]
+
+760
+00:44:04,680 --> 00:44:06,280
+ Do we have to bleep swears?
+
+761
+00:44:06,280 --> 00:44:07,120
+ Yeah, we do.
+
+762
+00:44:07,120 --> 00:44:11,480
+ If you are an explicit tagged podcast and someone has parental controls turned on,
+
+763
+00:44:11,480 --> 00:44:15,400
+ their children cannot listen to any podcast that is listed as explicit.
+
+764
+00:44:15,400 --> 00:44:16,640
+ Just so you can say, "Beep."
+
+765
+00:44:16,640 --> 00:44:18,600
+ I mean, can they voluntarily block us?
+
+766
+00:44:18,800 --> 00:44:22,640
+ Can parents decide, "No, I don't want my children listening to those reprobates
+
+767
+00:44:22,640 --> 00:44:26,160
+ on the Octa though podcast," and like, "Preemptively block it?"
+
+768
+00:44:26,160 --> 00:44:28,720
+ Obviously, this is a huge issue.
+
+769
+00:44:28,720 --> 00:44:33,200
+ I think I should mention here that this is all that's based on a US
+
+770
+00:44:33,200 --> 00:44:36,240
+ understanding of what is meant by a swear word.
+
+771
+00:44:36,240 --> 00:44:41,360
+ Yeah, because we all know that if I call Alison a f*ck, that's just that's just that's
+
+772
+00:44:41,360 --> 00:44:43,680
+ just pub talk, you know, that's not explicit.
+
+773
+00:44:43,680 --> 00:44:46,240
+ It's just nice. That's gonna get go out.
+
+774
+00:44:46,440 --> 00:44:50,000
+ Yeah, you can, but just bleep the swear words entirely so I have no idea what you
+
+775
+00:44:50,000 --> 00:44:51,240
+ called Alison.
+
+776
+00:44:51,240 --> 00:44:52,120
+ That's rare.
+
+777
+00:44:52,120 --> 00:44:55,320
+ That's great, actually.
+
+778
+00:44:55,320 --> 00:45:03,400
+ What if I say that John is an absolute, oh, let me think of a good.
+
+779
+00:45:03,400 --> 00:45:04,680
+ Oh, no.
+
+780
+00:45:04,680 --> 00:45:10,200
+ Yeah, if I say that John is an absolute muppet who talks nothing but bollocks,
+
+781
+00:45:10,200 --> 00:45:15,080
+ none of that is going to be, is going to trouble the Americans in any sort of way,
+
+782
+00:45:15,280 --> 00:45:18,480
+ because it's not part of the set of words that they consider rude.
+
+783
+00:45:18,480 --> 00:45:22,240
+ Anyway, I'm not sure whether the Americans consider a f*ck rude.
+
+784
+00:45:22,240 --> 00:45:23,680
+ They don't consider f*ck rude.
+
+785
+00:45:23,680 --> 00:45:25,800
+ They don't consider bollocks rude in particular.
+
+786
+00:45:25,800 --> 00:45:27,720
+ They don't consider bollocks rude at all.
+
+787
+00:45:27,720 --> 00:45:32,000
+ They don't really understand that the British think the bollocks is quite a rude word.
+
+788
+00:45:32,000 --> 00:45:33,720
+ Yeah, well, it's bollocks in it.
+
+789
+00:45:33,720 --> 00:45:36,000
+ Well, it's Americans and it's bollocks.
+
+790
+00:45:36,000 --> 00:45:37,360
+ Um, don't write it.
+
+791
+00:45:37,360 --> 00:45:44,360
+ We were presumably going to a podcast and not just say British swear words.
+
+792
+00:45:44,560 --> 00:45:49,720
+ I'd rather talk about swear words for 45 minutes than the the the retro hugos.
+
+793
+00:45:49,720 --> 00:45:52,320
+ But I suppose this is.
+
+794
+00:45:52,320 --> 00:45:55,400
+ Yeah, so let me get the show notes.
+

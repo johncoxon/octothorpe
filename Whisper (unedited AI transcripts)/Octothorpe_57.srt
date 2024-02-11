@@ -1,0 +1,2248 @@
+1
+00:00:00,000 --> 00:00:04,640
+ Hello listeners, it's John here. I just want to let you know that Liz's microphone sounds very
+
+2
+00:00:04,640 --> 00:00:09,440
+ slightly different in this episode. We need to get on because Liz is starting to make
+
+3
+00:00:09,440 --> 00:00:15,920
+ I need to get to bed soon because I've got another club meeting noises.
+
+4
+00:00:24,480 --> 00:00:32,640
+ Hello everyone and welcome to the very 57th episode of Octa Thorpe, which is coming to you on the 12th
+
+5
+00:00:32,640 --> 00:00:38,560
+ of May 2022. I'm John Coxon, I'm Alison Scott and I'm Liz Bassie.
+
+6
+00:00:38,560 --> 00:00:46,080
+ And we are recording our first episode after Eastercon, but before we get to Eastercon,
+
+7
+00:00:46,080 --> 00:00:52,960
+ we have some letters of comment. So we had a letter from Malcolm Hutchison that said that in the
+
+8
+00:00:52,960 --> 00:00:58,400
+ episode before last, the sound I made at the start of the episode made him visualise me as a
+
+9
+00:00:58,400 --> 00:01:07,200
+ muppet in a good way, which is nice. Well, there's the chapter art. Oh yes, I'm well up for that.
+
+10
+00:01:07,200 --> 00:01:10,800
+ Well, it may need to be all three of us as muppets, so that might be a bit hard.
+
+11
+00:01:10,800 --> 00:01:16,320
+ Can my muppet have a glittery octa-thorpe on its forehead? Yeah, I should think so.
+
+12
+00:01:16,320 --> 00:01:21,600
+ Thank you very much to Meg MacDonald, who did a letter of comment in the form of a
+
+13
+00:01:21,600 --> 00:01:27,600
+ glyph on my skin, which is the first time we've had a letter of comment on that medium. So thank you
+
+14
+00:01:27,600 --> 00:01:35,280
+ very much Meg. She also decorated me. Chris Garcia sent us a letter saying, "I don't like live
+
+15
+00:01:35,280 --> 00:01:40,160
+ episode usually, but this one is really good because it's y'all." And I don't know if I could say y'all.
+
+16
+00:01:40,160 --> 00:01:44,240
+ Is it y'all? And y'all didn't try making it into a live show, any different from the regular show.
+
+17
+00:01:44,240 --> 00:01:49,280
+ Maybe that's not normal. So I think that's a compliment, but basically when we're live,
+
+18
+00:01:49,280 --> 00:01:54,400
+ apparently we sound exactly like when we're not live, which is... Well, no, I think when we're
+
+19
+00:01:54,400 --> 00:02:00,880
+ not live, we sometimes do have show notes and preparation. So thank you Chris for that.
+
+20
+00:02:00,880 --> 00:02:08,240
+ He also says that streaky bacon is the only true bacon, which is another example of when Chris is
+
+21
+00:02:08,240 --> 00:02:13,360
+ wrong about things. Yeah, it's sad, isn't it? It's just, I'm much prefer what he's right about
+
+22
+00:02:13,360 --> 00:02:21,040
+ things. He still hasn't told me which author wrote me. Oh yeah. I'm still waiting Chris. Sorry Chris is
+
+23
+00:02:21,040 --> 00:02:28,080
+ right about streaky bacon. No. Certainly not right about British streaky bacon. American streaky
+
+24
+00:02:28,080 --> 00:02:32,720
+ bacon is very nice. No, it's not American streak. Americans don't understand how to do streaky
+
+25
+00:02:32,720 --> 00:02:38,560
+ bacon. In fact Americans don't understand how to do bacon, but British streaky bacon. No, American
+
+26
+00:02:38,560 --> 00:02:45,520
+ bacon is better than British streaky bacon. 100%. Because? Because it's crispy and nice,
+
+27
+00:02:45,520 --> 00:02:50,800
+ as opposed to sort of limp and sad. No, it's crispy if you cook it properly in Britain. This is a
+
+28
+00:02:50,800 --> 00:02:58,080
+ matter of how you fry it, right? Get good bacon from a good butcher, fry it. Sticky bacon turns into
+
+29
+00:02:58,080 --> 00:03:04,080
+ the most marvelous thing, and then you eat it on bomb cakes with brown sauce. It's bad you won't
+
+30
+00:03:04,080 --> 00:03:09,680
+ eat bacon in the UK because she fundamentally thinks that our streaky bent bacon is complete crap,
+
+31
+00:03:09,680 --> 00:03:15,920
+ and she just waits to go back. You need to get a decent bacon. Get better bacon. We've had it from
+
+32
+00:03:15,920 --> 00:03:19,680
+ a decent butcher. It's not a problem with butchers. It's not a problem with provenance. It's a problem
+
+33
+00:03:19,680 --> 00:03:26,160
+ with our country, Alison, our country. So problem with the pigs? I don't know, maybe streaky bacon in
+
+34
+00:03:26,160 --> 00:03:30,000
+ the UK is not quite the same as American bacon. I think it's the problem. No, no, it's a different
+
+35
+00:03:30,000 --> 00:03:34,560
+ cut of bacon. But streaky bacon is the best bacon because fundamentally, fundamentally,
+
+36
+00:03:34,560 --> 00:03:41,280
+ I just like lard. Sticky bacon has its own lard in it, right? So it literally cooks itself in lard.
+
+37
+00:03:41,280 --> 00:03:48,800
+ Backbacon's better. You're overruled. Yeah, I'm a john. No, so wrong. Official opinion of the
+
+38
+00:03:48,800 --> 00:03:53,840
+ Oct thought podcast by majority vote that backbacon is best, and that's going to be the episode title,
+
+39
+00:03:53,840 --> 00:04:01,040
+ and you can't stop me. Boom. I love nobody likes middle. Maybe in hindsight, listening to all the
+
+40
+00:04:01,040 --> 00:04:19,040
+ bacon chat is a good thing. We did not actually sit down and have breakfast together at East
+
+41
+00:04:19,040 --> 00:04:29,200
+ Oh, Chris also wrote to us with a lock on the previous episode. He says the fan awards and
+
+42
+00:04:29,200 --> 00:04:33,360
+ coffee was late shows how much are outside of fanzine fandom he is at the moment. He still does
+
+43
+00:04:33,360 --> 00:04:36,640
+ scenes, but he's not quite a part of the core flu community, which he finds kind of sad because
+
+44
+00:04:36,640 --> 00:04:43,600
+ he loves scenes and a bunch of the stuff the core flu regulars do. And that kind of ties into
+
+45
+00:04:43,600 --> 00:04:47,840
+ stuff we were saying in that episode. And that is interesting because I think Chris is one of the
+
+46
+00:04:47,840 --> 00:04:54,400
+ fairly prolific old school fanzine editors. Roman wrote to us on Easter Sunday when we
+
+47
+00:04:54,400 --> 00:05:00,000
+ were scoffing chocolate catching COVID and preparing for our live show to send us greetings from the
+
+48
+00:05:00,000 --> 00:05:04,560
+ Easter bill be, for which we're very grateful because we do not have Easter bill be's in Britain
+
+49
+00:05:04,560 --> 00:05:10,720
+ or Thailand. I have a question about what is an Easter bill we well, it's a bill be at Easter.
+
+50
+00:05:10,720 --> 00:05:17,600
+ So a fundamental question here is an adorable Australian animal which I've already drawn.
+
+51
+00:05:17,600 --> 00:05:20,160
+ So I'm going to try and draw the bill be muppet now.
+
+52
+00:05:20,160 --> 00:05:27,760
+ Excellent stuff. Thank you Roman. Oh they're cute. Sorry I look but you don't know,
+
+53
+00:05:27,760 --> 00:05:31,920
+ bill be's are very cute. I looked at bill be's they've got adorable giant ears.
+
+54
+00:05:31,920 --> 00:05:35,440
+ They have adorable giant ears and also glasses at a silly beard.
+
+55
+00:05:35,440 --> 00:05:43,840
+ Oh yeah that is a daft looking animal. It really is yeah. So it looks like I don't know what it
+
+56
+00:05:43,840 --> 00:05:53,200
+ looks like. John the bill be muppet. Oh that's my art task for the week isn't it? Yes.
+
+57
+00:05:53,200 --> 00:05:59,120
+ We have one more lock which was from Jersey Griffin who says that the Hello Internet podcast
+
+58
+00:05:59,120 --> 00:06:04,960
+ did a vinyl episode before jumping the shark and doing a four to five minute wax cylinder episode
+
+59
+00:06:04,960 --> 00:06:09,120
+ and that is interesting. I'll try and find a link and pop it in the show notes.
+
+60
+00:06:10,000 --> 00:06:15,760
+ Oh a four to five minute wax cylinder episode. Sorry I thought you said a 45 minute wax
+
+61
+00:06:15,760 --> 00:06:20,400
+ cylinder episode. Now it's like it's a lot of wax. What was the wax cylinder episode?
+
+62
+00:06:20,400 --> 00:06:24,560
+ Someone else did a wax cylinder episode that we have been alerted to by one of our listeners
+
+63
+00:06:24,560 --> 00:06:25,760
+ as well as false light.
+
+64
+00:06:25,760 --> 00:06:37,440
+ Well we all have fun at EasterCon. Obviously we talked about our impressions of EasterCon last
+
+65
+00:06:37,440 --> 00:06:43,360
+ week but this time we're going to talk about what happened after EasterCon which is that quite
+
+66
+00:06:43,360 --> 00:06:49,360
+ a lot of people went home and discovered that they are caught COVID at the convention including
+
+67
+00:06:49,360 --> 00:06:54,080
+ me. I'm all better now thank you very much. That's the bit you could edit the coffin to John.
+
+68
+00:06:54,080 --> 00:07:00,000
+ Let's help you another one along in a minute. What buses? It's interesting because the west
+
+69
+00:07:00,000 --> 00:07:05,520
+ con happened the same weekend with the identical COVID policy to EasterCon and did not have very
+
+70
+00:07:05,520 --> 00:07:10,160
+ many cases possibly because there was much COVID in the area but also possibly because
+
+71
+00:07:10,160 --> 00:07:15,040
+ people at North Westcon behaved slightly differently than people at EasterCon.
+
+72
+00:07:15,040 --> 00:07:21,440
+ I went around the convention. I mean I mostly did follow the conventions COVID policy and I
+
+73
+00:07:21,440 --> 00:07:26,720
+ masked up except when I was eating and drinking in bars. How much time did I spend eating and
+
+74
+00:07:26,720 --> 00:07:35,200
+ drinking in bars? I mean a lot. Until 7 a.m. on the only 6.30 and I didn't spend all of that time
+
+75
+00:07:35,200 --> 00:07:40,880
+ in a bar. I spent so that time in a corridor and I didn't spend all of that time. I just
+
+76
+00:07:40,880 --> 00:07:47,280
+ spend all of that time on masks. One of the things that España said on the way home was that if we do
+
+77
+00:07:47,280 --> 00:07:53,920
+ because España stayed up late on the Sunday night and we both agreed that in future conventions
+
+78
+00:07:53,920 --> 00:08:02,800
+ we might go to bed sort of 1 a.m.ish on purpose because the masking dropped noticeably after
+
+79
+00:08:02,800 --> 00:08:07,840
+ about midnight every night that I stayed up that late and that's like a mixture of things like
+
+80
+00:08:07,840 --> 00:08:13,040
+ people up that late are generally drinking but also like as you get drunker your ability to
+
+81
+00:08:13,040 --> 00:08:19,280
+ remember to put your mask on between so it's a bit of a decrease and so I think the convention
+
+82
+00:08:19,280 --> 00:08:25,840
+ got riskier after midnight than it was before would be my guess. Conventions are normally
+
+83
+00:08:25,840 --> 00:08:31,040
+ riskier after the midnight. I'm not sure I would pick that at midnight. What I would say is during
+
+84
+00:08:31,040 --> 00:08:37,760
+ the daytime when people were in panels or in the dealers room or even in the games room they seem
+
+85
+00:08:37,760 --> 00:08:44,000
+ to be mostly masked. Of course there were exceptions for people with medical exemptions. People on
+
+86
+00:08:44,000 --> 00:08:50,160
+ panels often were not wearing masks because of the need to read and there were a few notable
+
+87
+00:08:50,160 --> 00:08:56,160
+ exceptions of people I saw like in panels who seemed to be slowly sipping a drink for the whole
+
+88
+00:08:56,160 --> 00:09:02,800
+ hour and I get made and recently cranky by this and I saw you and I know who you are but let's
+
+89
+00:09:02,800 --> 00:09:09,920
+ move on. But then basically what happens is you know the program the program dies down people start
+
+90
+00:09:09,920 --> 00:09:14,000
+ going out to dinner or go out to dinner and then come back and sit in the bar and then you're
+
+91
+00:09:14,000 --> 00:09:20,000
+ drinking and you're fairly continuously drinking from your pint of beer or your glass of wine or
+
+92
+00:09:20,000 --> 00:09:25,200
+ eating your pizza and you tend not to put your masks back on and then basically you end up with
+
+93
+00:09:25,200 --> 00:09:29,680
+ a large room either in this case the the real L bar or the hotel bar which is full of people who
+
+94
+00:09:29,680 --> 00:09:35,520
+ are not really masked and then you know I was I put mine back on for things like you know making a
+
+95
+00:09:35,520 --> 00:09:40,960
+ quick trip to loo or going to the bar to buy another drink but fundamentally I'm spending a lot
+
+96
+00:09:40,960 --> 00:09:45,360
+ of that time without a mask on and I think that's my guess is that's where quite a lot of the transmission
+
+97
+00:09:45,360 --> 00:09:49,840
+ occurred and the later it got the less people had masks on but also the later it got I think
+
+98
+00:09:49,840 --> 00:09:54,720
+ you know once you get past one or two a.m. there's a lot fewer people still around so that probably
+
+99
+00:09:54,720 --> 00:09:59,840
+ does help a bit yeah I mean I'm not sure that the actual number of people in the bar after 1 a.m.
+
+100
+00:09:59,840 --> 00:10:05,760
+ was the problem here though it's certainly true that the people who were up late were more likely
+
+101
+00:10:05,760 --> 00:10:10,720
+ to be people who catch COVID but they're probably more sociable people generally I wanted to single
+
+102
+00:10:10,720 --> 00:10:16,720
+ out two events that were not just hanging out in the bar the first was a disco which was a program
+
+103
+00:10:16,720 --> 00:10:20,560
+ item and the COVID policy was completely clear that if you're in the disco and dancing you should
+
+104
+00:10:20,560 --> 00:10:25,280
+ have been wearing masks and as far as I could tell from the many many photos of people singing along
+
+105
+00:10:25,280 --> 00:10:31,280
+ in the disco and having a great time nobody in the disco wore a mask and that's probably an extremely
+
+106
+00:10:31,280 --> 00:10:36,720
+ spready sort of an event and the other event I want to single out was the voxel party which obviously
+
+107
+00:10:36,720 --> 00:10:42,880
+ was not a good official program item but was in the same room that we had Octa thought live in which
+
+108
+00:10:42,880 --> 00:10:48,080
+ was one of the less well ventilated rooms in the convention and it was quite crowded and obviously
+
+109
+00:10:48,080 --> 00:10:52,880
+ a lot of drinking was people were actively drinking and obviously if you were actively drinking you
+
+110
+00:10:52,880 --> 00:10:58,560
+ do not have to wear a mask because you know active drinking is what we do and I think that was probably
+
+111
+00:10:58,560 --> 00:11:02,800
+ quite a spready event but you can't tell. I shown a categorizable what I said about my
+
+112
+00:11:02,800 --> 00:11:07,680
+ Eastcon experience as one woman super spreader event Alice and Scott has absolutely no regrets
+
+113
+00:11:07,680 --> 00:11:12,720
+ and I don't on my account and I'm catching it and I've not been very sick but I you know I have a
+
+114
+00:11:12,720 --> 00:11:19,600
+ friend who spent an art in hospital and I have another friend who went home to with COVID to be
+
+115
+00:11:19,600 --> 00:11:25,600
+ the sole carer for her her aged parents so I think there's cases like that where you do have to go
+
+116
+00:11:25,600 --> 00:11:30,800
+ well maybe we should be a little bit more careful and see if we can't reduce the transmission further.
+
+117
+00:11:30,800 --> 00:11:34,320
+ Yeah it was it was definitely not great I think we ended up you know the number of reports
+
+118
+00:11:34,320 --> 00:11:39,760
+ suggest about 10% of the convention reports at a positive test in the kind of 10 days at the
+
+119
+00:11:39,760 --> 00:11:45,600
+ convention or in the sort of 10 days following it which is I would say pretty high and you know
+
+120
+00:11:45,600 --> 00:11:51,280
+ still higher than I think than things like Novocarne which we thought had quite a few cases last year
+
+121
+00:11:51,280 --> 00:11:57,040
+ and definitely much higher than NorwestCon. So there are things you could do but I struggled
+
+122
+00:11:57,040 --> 00:12:02,240
+ to find ways that you could do things that aren't fundamentally you shouldn't all sit in the real
+
+123
+00:12:02,240 --> 00:12:09,040
+ little bar or in a path you're in a disco with your masks off for five hours and it feels like
+
+124
+00:12:09,040 --> 00:12:13,120
+ everyone was sort of willing to if you're looking in those spaces I presume you're willing to kind
+
+125
+00:12:13,120 --> 00:12:17,840
+ of take the risk of being in those on mass spaces because they enjoyed chatting and drinking with
+
+126
+00:12:17,840 --> 00:12:23,360
+ people. I did actually circulate in bars less than I normally would and I don't know whether that was
+
+127
+00:12:23,360 --> 00:12:31,040
+ a deliberate thing or accidental but I spent the number of people I actually spent a lot of time
+
+128
+00:12:31,040 --> 00:12:34,720
+ chatting to is it was much smaller than it might have been at the average EastCon.
+
+129
+00:12:34,720 --> 00:12:39,600
+ I had kind of a couple of long conversations each night rather than Melly.
+
+130
+00:12:39,600 --> 00:12:44,800
+ Yeah I think I probably kind of flitted about from group to group less although I think I do that
+
+131
+00:12:44,800 --> 00:12:50,160
+ less than Allison anyway and definitely there's one night where we sort of sat in a corridor
+
+132
+00:12:50,160 --> 00:12:54,720
+ and around a corridor away from the real elbow rather than sitting in the real elbow all that
+
+133
+00:12:54,720 --> 00:13:00,400
+ was wanted to do with the availability of chairs. Oh that's my favourite space in the park in
+
+134
+00:13:00,400 --> 00:13:04,400
+ for sitting and chatting. Is that little bit round the corner from the real elbow?
+
+135
+00:13:04,400 --> 00:13:07,200
+ I mean obviously if I tell everyone then everyone will want it.
+
+136
+00:13:07,200 --> 00:13:15,680
+ Yes, sorry but I definitely think not getting covid was a case of I was very recently vaccinated.
+
+137
+00:13:15,680 --> 00:13:21,840
+ I was quite diligent about mask wearing and I wore quite a good mask and I just was lucky not to
+
+138
+00:13:21,840 --> 00:13:25,760
+ catch it when the people I had prolonged on mass conversations with. I definitely had prolonged
+
+139
+00:13:25,760 --> 00:13:32,560
+ mass conversations with people who were positive at the time but I guess we won't know for sure.
+
+140
+00:13:32,560 --> 00:13:37,280
+ I put in the show notes. Turns out beer sharing is not as dodgy as all that and this is quick to
+
+141
+00:13:37,280 --> 00:13:43,440
+ be up on that. Well I mean yeah there are photos of obviously me, John and Allison sharing one beer
+
+142
+00:13:43,440 --> 00:13:50,000
+ on the Upstalk Live at EastCon at a time when unknown to us all Allison had probably got covid
+
+143
+00:13:51,120 --> 00:13:56,480
+ and we seemed to have escaped and that she didn't pass it on to me or John. But I mean I think there
+
+144
+00:13:56,480 --> 00:14:00,640
+ were at least three or four people in that room who probably had covid at the time. So...
+
+145
+00:14:00,640 --> 00:14:06,080
+ It seems likely right like given that 10% of people tested positive after the event if you
+
+146
+00:14:06,080 --> 00:14:10,320
+ assume that was proportionate in all of the panel items and there were about 40 people in the room
+
+147
+00:14:10,320 --> 00:14:16,160
+ I would have expected of three or four. Obviously like I'm not an expert but Liz is an expert and
+
+148
+00:14:16,160 --> 00:14:20,880
+ she just said it and I'm agreeing with her so I'm definitely right. I really wanted to
+
+149
+00:14:20,880 --> 00:14:25,040
+ Liz to read out the thing she said of the show notes which I thought was very funny.
+
+150
+00:14:25,040 --> 00:14:30,240
+ I mean I buy that I mean that specifically I noticed three or four people in the room who then
+
+151
+00:14:30,240 --> 00:14:35,120
+ reported positive tests so I'm not basing it on any mathematical thing I'm saying oh those three
+
+152
+00:14:35,120 --> 00:14:40,240
+ people who are my mates who I saw were then like oh I'm positive. No no it was it was the thing
+
+153
+00:14:40,240 --> 00:14:45,040
+ where you were like I was like beer sharing is that dodgy and you were like not compared to
+
+154
+00:14:45,040 --> 00:14:52,080
+ turning your head to spray aerosols on your canvas. Yes so we also discovered at OptiThult Live
+
+155
+00:14:52,080 --> 00:14:56,880
+ that one thing that Alison cannot refrain from doing on panels is turning her head to look at a
+
+156
+00:14:56,880 --> 00:15:01,120
+ fellow panelist even when that means taking her mouth well away from the microphone which I thought
+
+157
+00:15:01,120 --> 00:15:06,880
+ was a major problem at the time but it turns out that may you know pale and it's significant
+
+158
+00:15:06,880 --> 00:15:12,080
+ compared to fact that Alison was therefore stewing aerosols directly and being John for an hour.
+
+159
+00:15:13,360 --> 00:15:20,400
+ But we had both taken the sensible precaution of topping up our antibodies pre-esticon.
+
+160
+00:15:20,400 --> 00:15:29,280
+ Liz with a jab from Thailand and me from getting Covid from movers and so you know one of those is
+
+161
+00:15:29,280 --> 00:15:33,920
+ a more sensible approach than the other I think but it did stand a thing good stead for the
+
+162
+00:15:33,920 --> 00:15:38,560
+ convention. I mean Mark and I so when Mark Plummer came down with Covid he sent me a text saying
+
+163
+00:15:38,560 --> 00:15:44,160
+ you know at least this is well timed for e-sticon and I did it was one of the things that I thought
+
+164
+00:15:44,160 --> 00:15:48,640
+ when I got out I was like oh thank goodness it means I'm very unlikely to come down with it on my
+
+165
+00:15:48,640 --> 00:15:54,400
+ holiday to Spain and my trip to Eastcon and that so it so it turned out to be.
+
+166
+00:15:54,400 --> 00:15:58,720
+ Yeah I think we both took the more readily available way of getting antibodies in our
+
+167
+00:15:58,720 --> 00:16:02,960
+ countries at the respective times yeah. Yeah so probably I should have gone for a few part
+
+168
+00:16:02,960 --> 00:16:06,880
+ to a few parties a month before Easticon or hung out with Mark Plummer more.
+
+169
+00:16:08,160 --> 00:16:13,760
+ Just move house Alison. So the other thing I wanted to pick up is that I've heard some people
+
+170
+00:16:13,760 --> 00:16:18,640
+ saying well you know actually a lot of a lot of people took a calculated risk here they knew what
+
+171
+00:16:18,640 --> 00:16:24,800
+ they were doing they knew what they were getting into and a lot of people have reminded us of the
+
+172
+00:16:24,800 --> 00:16:29,520
+ Chester Easticon which is about the same size as this one where about the third of the convention
+
+173
+00:16:29,520 --> 00:16:35,840
+ came down with Noravirus afterwards and I have to say my experience of Covid has not been as bad
+
+174
+00:16:36,480 --> 00:16:42,960
+ as many people's I didn't catch Noravirus or that occasion but many periods people's experience
+
+175
+00:16:42,960 --> 00:16:48,880
+ of post Eastcon Noravirus so if I if there hadn't been a pandemic going on I wouldn't have
+
+176
+00:16:48,880 --> 00:16:55,440
+ noticed this this illness as being anything untoward. I mean I've never had Noravirus so it's a difficult
+
+177
+00:16:55,440 --> 00:17:00,720
+ craving. Do not recommend it. I think Chester was slightly smaller by I take your point.
+
+178
+00:17:01,280 --> 00:17:09,600
+ Do we want to talk about Noravirus-Con's case three and case five? Yes so I was first
+
+179
+00:17:09,600 --> 00:17:15,440
+ alerted to this by a tweet from Shonna Maguire but Noravirus-Con published you know their own case reports
+
+180
+00:17:15,440 --> 00:17:21,840
+ of people who reported Covid positive tests after Noravirus-Con on their website and it turned out by
+
+181
+00:17:21,840 --> 00:17:26,560
+ positive tests after the con they also mean positive tests at the con or before the con and in
+
+182
+00:17:26,560 --> 00:17:31,440
+ at least two cases positive tests after before the con and symptoms and continuing to go to the
+
+183
+00:17:31,440 --> 00:17:40,160
+ convention. So yeah I'm just sort of I just look at it and I'm staggered like even if you did that
+
+184
+00:17:40,160 --> 00:17:45,440
+ why would you then go report it? I guess your conscience doesn't prick you that maybe oh I have
+
+185
+00:17:45,440 --> 00:17:49,680
+ Covid I shouldn't go into it in the games room but it does prick you that you should then tell people
+
+186
+00:17:49,680 --> 00:17:54,880
+ later on that you're in the games room with Covid? Yeah it's just I can't get my head around the mindset.
+
+187
+00:17:54,880 --> 00:18:02,400
+ So I am fairly certain that there were people in this position at Eastrecon. I don't have names
+
+188
+00:18:02,400 --> 00:18:08,400
+ or other things this isn't like I so is so but I think that we almost certainly in a convention of
+
+189
+00:18:08,400 --> 00:18:15,120
+ 600 odd people had people who knew perfectly well they got Covid and were keeping their mouth shut
+
+190
+00:18:15,120 --> 00:18:22,640
+ about it and go to the convention anyway. And those people are absolute rotters and I think they
+
+191
+00:18:22,640 --> 00:18:28,240
+ should sod off. I'm abandoning all balance or pretense of diplomacy if you are one of these
+
+192
+00:18:28,240 --> 00:18:33,440
+ people stop listening delete the podcast I don't like you. No no no carry on listening if you're
+
+193
+00:18:33,440 --> 00:18:40,080
+ all these listeners right in so we could roundly mock you. I think it's reasonable to assume that
+
+194
+00:18:40,080 --> 00:18:46,400
+ there were there was a lot of infection around but you know we didn't need a lot of infection there
+
+195
+00:18:46,400 --> 00:18:50,160
+ were plenty of people who tested positive during the convention and there's plenty of time at
+
+196
+00:18:50,160 --> 00:18:56,160
+ least to come to spread the infection and we are one community everyone socialises with everyone
+
+197
+00:18:56,160 --> 00:19:01,040
+ else. I also don't know because obviously the other thing with Eastrecon is that we were not
+
+198
+00:19:01,040 --> 00:19:08,000
+ the hotel we used Eastrecon is also a hotel used by a lot of people who fly with airlines and so
+
+199
+00:19:08,000 --> 00:19:14,960
+ it might also be the case that like even if everyone even if Alison is wrong and no one at the
+
+200
+00:19:14,960 --> 00:19:21,920
+ Eastrecon was attending suspecting they had covid you know there were vectors probably.
+
+201
+00:19:21,920 --> 00:19:28,160
+ There were a lot of sick people in the in the breakfast room on Friday morning I think not going
+
+202
+00:19:28,160 --> 00:19:33,360
+ if you're thinking about things you simple things you could do to reduce your risk at Eastrecon
+
+203
+00:19:33,360 --> 00:19:38,160
+ travelling on the Friday is probably one of them because because there were a lot of non-fans in
+
+204
+00:19:38,160 --> 00:19:41,840
+ the hotel on the Thursday night and obviously those people weren't following the convention's
+
+205
+00:19:41,840 --> 00:19:47,600
+ mass policy at breakfast. Although I will say the masking at Eastrecon was better than the masking
+
+206
+00:19:47,600 --> 00:19:54,480
+ at the hotel Liz and I stayed at when we visited Reading with Alison last summer because my god
+
+207
+00:19:54,480 --> 00:20:01,280
+ that was more crowded and less masks and that was I mean that was in summer so I guess the cases
+
+208
+00:20:01,280 --> 00:20:07,200
+ were lower then but I will say Eastrecon did a pretty good job of the Eastrecon was better than
+
+209
+00:20:07,200 --> 00:20:12,320
+ other hotel breakfast so I have been to lately so that is good well done Eastrecon committee
+
+210
+00:20:12,320 --> 00:20:18,480
+ and I think in general the Eastrecon committee should be applauded I think they did about as
+
+211
+00:20:18,480 --> 00:20:22,720
+ good a job as they possibly could have done maybe with the exception of better enforcement in the
+
+212
+00:20:22,720 --> 00:20:27,200
+ disco what do you what do you two think is that reasonable statement do we reckon?
+
+213
+00:20:27,200 --> 00:20:32,880
+ Yeah I mean I think you could have been stricter you could you could say something like okay
+
+214
+00:20:34,160 --> 00:20:39,440
+ the real Elba or some social spaces are designated like eating and drinking spaces and in other
+
+215
+00:20:39,440 --> 00:20:43,520
+ places you must remain masked except for you know to take a sip of your water or something so
+
+216
+00:20:43,520 --> 00:20:48,080
+ basically try and encourage people not to take points into panels and sit there slowly sipping
+
+217
+00:20:48,080 --> 00:20:53,120
+ them and things like that and then in a way it would let attendees choose if they go into the
+
+218
+00:20:53,120 --> 00:21:00,400
+ social spaces or not but it is difficult because if they said okay you know real Elba we want you
+
+219
+00:21:00,400 --> 00:21:04,080
+ to try and mask up between sips and make sure you mask when you are moving around and mask when
+
+220
+00:21:04,080 --> 00:21:08,080
+ you are going to the bar there is still the hotel bar which is not a convention space and so they
+
+221
+00:21:08,080 --> 00:21:12,880
+ cannot really enforce people masking there particularly as there were non-convention guests in the hotel
+
+222
+00:21:12,880 --> 00:21:18,160
+ bar you know acting in you know in complete accordance with the you know the current state of
+
+223
+00:21:18,160 --> 00:21:24,960
+ things in the UK which is that people don't habitually wear masks at all so yeah I think there are
+
+224
+00:21:24,960 --> 00:21:29,120
+ you know there are possibly a few things you could have done but it would have been quite
+
+225
+00:21:29,120 --> 00:21:35,120
+ difficult to actually practically implement those the convention was also under volunteered
+
+226
+00:21:35,120 --> 00:21:40,720
+ and one of the consequences of that was especially during setup when volunteers were working very
+
+227
+00:21:40,720 --> 00:21:46,720
+ very hard there was a lot of not being masked whilst getting the work done going on and I think
+
+228
+00:21:46,720 --> 00:21:51,120
+ if you had a convention where you had enough volunteers including enough volunteers to
+
+229
+00:21:51,120 --> 00:21:56,080
+ account for people who came down with covid um you could say but we are going to require you to
+
+230
+00:21:56,080 --> 00:22:01,280
+ mask while working um in setup we're not going to actually allow you to have pockets where you go
+
+231
+00:22:01,280 --> 00:22:05,680
+ well we're working on the convention in this space and you're not masking and I think we could have
+
+232
+00:22:05,680 --> 00:22:12,080
+ done that and I think we could have done better because for program items the rule was you can
+
+233
+00:22:12,080 --> 00:22:17,360
+ bring a drink in but you have to just raise your mask have a sim remask not everybody was doing
+
+234
+00:22:17,360 --> 00:22:22,000
+ that and I think we could have policed that sort of thing I don't know and I will say sorry tip
+
+235
+00:22:22,000 --> 00:22:25,840
+ button before lizards had a turn but I will say one of the other things is banyan I said on the
+
+236
+00:22:25,840 --> 00:22:30,560
+ train home was a few drink of edges I do wonder whether there needs to be a rule around you
+
+237
+00:22:30,560 --> 00:22:35,280
+ not allowed to be drinking panels because as much as that would be slightly annoying I do wonder
+
+238
+00:22:35,280 --> 00:22:40,880
+ whether the bonus would be worth it I mean I very rarely take drinks into panels because I always
+
+239
+00:22:40,880 --> 00:22:46,720
+ spill them um so this would not really affect me negatively very much so maybe I'm wrong I don't
+
+240
+00:22:46,720 --> 00:22:53,120
+ want to restrict people being able to take water in oh well yeah no I mean I think that's fair when
+
+241
+00:22:53,120 --> 00:22:57,840
+ I say no food and drink I'm sort of doing the because lecture theatres often say no food and
+
+242
+00:22:57,840 --> 00:23:04,160
+ drink but there is an acceptance that water is pretty much okay um so yes good point Liz do you
+
+243
+00:23:04,160 --> 00:23:08,960
+ want to get a word in uh I think I've had quite a lot of words on this one but I will take the
+
+244
+00:23:08,960 --> 00:23:13,200
+ opportunity for another I think you're right but I mean when I'm drinking water from a bottle of
+
+245
+00:23:13,200 --> 00:23:18,160
+ water I'm not drinking it like I am from a pint I'm like I will really just have a drink and then
+
+246
+00:23:18,160 --> 00:23:21,760
+ put my mask out and that's what I was doing in all the panels I didn't take any beers into panels
+
+247
+00:23:21,760 --> 00:23:26,880
+ this time um I thought it was able to leave my mask on because I was surrounded by people that I
+
+248
+00:23:26,880 --> 00:23:31,680
+ probably basically I was sitting next to different people in every panel and there might be people I
+
+249
+00:23:31,680 --> 00:23:36,560
+ didn't know was at least in the bar I was sitting next to usually the same people consistently so
+
+250
+00:23:36,560 --> 00:23:40,400
+ you may have been unmasked but maybe that kind of limited my exposure to that smaller group of people
+
+251
+00:23:40,400 --> 00:23:46,400
+ I would also say that uh isakon actually didn't say you had to be masked they said you had to wear
+
+252
+00:23:46,400 --> 00:23:52,560
+ a face covering and I think you could be stricter about was as an acceptable face covering I mean
+
+253
+00:23:52,560 --> 00:23:57,520
+ it's it's still kind of surprising to me because I come to the UK and like to me there's still a
+
+254
+00:23:57,520 --> 00:24:02,240
+ shock to it because my expectation is if I get on a train everyone on the train will be wearing a
+
+255
+00:24:02,240 --> 00:24:09,120
+ mask and they're almost all well-fitting surgical masks or you know kf94 and 95 masks at this point
+
+256
+00:24:09,120 --> 00:24:13,680
+ with very few cloth masks you know and this is just kind of what what I expect so it was quite
+
+257
+00:24:13,680 --> 00:24:19,520
+ spicy people with sort of like very loose masks or bandanas or face shields or things that probably
+
+258
+00:24:19,520 --> 00:24:24,560
+ not really having much of an effect I don't know if I you'd just get that little bit of extra safety
+
+259
+00:24:24,560 --> 00:24:31,360
+ by saying people have to wear an actual face mask which is well fitted I will say like and obviously
+
+260
+00:24:31,360 --> 00:24:41,040
+ I'm not an expert but I would I have moved to using FFP2 and FFP3 masks not everyone will find
+
+261
+00:24:41,040 --> 00:24:46,320
+ that they fit their faces very well but there's also the N95, the N99 and various other countries
+
+262
+00:24:46,320 --> 00:24:52,400
+ standards and I would encourage listeners to explore the options because I find I find the FFP3s
+
+263
+00:24:52,400 --> 00:24:56,640
+ especially are actually much nicer to wear than a cloth mask cloth mask because they don't fog my
+
+264
+00:24:56,640 --> 00:25:03,040
+ glasses up so I have found that to be an enormous quality of life upgrade generally but certainly
+
+265
+00:25:03,040 --> 00:25:08,560
+ at this point I think it's probably time to make the switch because they fit you John people were
+
+266
+00:25:08,560 --> 00:25:14,000
+ seeing the praises of KF94 at Smuffcord and it was a it was completely revelation,
+
+267
+00:25:14,000 --> 00:25:19,200
+ being so much happier. Yeah that's so much more comfortable but I mean I guess two more things
+
+268
+00:25:19,200 --> 00:25:23,760
+ I want to say one is you know we can suggest things around the edges they could have done but I don't
+
+269
+00:25:23,760 --> 00:25:30,000
+ think there is anything that would have fundamentally made the difference from 10% got infected to you
+
+270
+00:25:30,000 --> 00:25:35,200
+ know one person got infected or zero people got infected apart from you have to mask up everywhere
+
+271
+00:25:35,200 --> 00:25:38,880
+ and even then people still going to eat hotel breakfast so maybe this is all like fiddling
+
+272
+00:25:38,880 --> 00:25:44,480
+ around the edges of the problem. Can we can we get into the bit that you had in the show notes about
+
+273
+00:25:44,480 --> 00:25:50,240
+ the um are you on my Norwegian Christmas party and it goes? The other thing the question here is of
+
+274
+00:25:50,240 --> 00:25:54,240
+ course we don't have a control easter-colm we don't know how much spread there would have been
+
+275
+00:25:54,240 --> 00:26:01,760
+ if we'd had no cover policy at all apart from you know don't actively spit on people. Yeah so I
+
+276
+00:26:01,760 --> 00:26:07,280
+ I found this an interesting paper which is from the very early stage of the Omicron variant really I
+
+277
+00:26:07,280 --> 00:26:12,480
+ think before we knew a lot about it and this has probably become written up as a paper and become
+
+278
+00:26:12,480 --> 00:26:17,280
+ noteworthy because it was a large outbreak but it's basically a Christmas party where all the attendees
+
+279
+00:26:17,280 --> 00:26:23,280
+ were vaccinated and asked to test beforehand and they still managed to spread to I think 74%
+
+280
+00:26:23,280 --> 00:26:29,280
+ of attendees so if you think of that as being like the upper bound of what is possible in a super
+
+281
+00:26:29,280 --> 00:26:34,720
+ spread event then EasterCon is doing poorly but clearly not as poorly as we could have done if
+
+282
+00:26:34,720 --> 00:26:40,480
+ we had had no masking rules whatsoever maybe. Yeah so I have to say there's a caveat here because
+
+283
+00:26:40,480 --> 00:26:45,520
+ a lot of people in Britain have had COVID in the last six weeks so which is probably not the true
+
+284
+00:26:45,520 --> 00:26:50,000
+ of the Christmas party yeah well at the Christmas party cooked very early on in the Omicron spread
+
+285
+00:26:50,000 --> 00:26:55,840
+ no one had had Omicron crucially so that was the that was the issue. I would also say there was
+
+286
+00:26:55,840 --> 00:27:03,120
+ some discontent on Discord in the run up to the convention people mostly I think people who were
+
+287
+00:27:03,120 --> 00:27:07,760
+ not attending the EaseCon grumbling about the fact that people were reporting the people in the hotel
+
+288
+00:27:07,760 --> 00:27:15,040
+ weren't wearing masks and weren't complying with the convention mask policy I do want to say that
+
+289
+00:27:15,040 --> 00:27:20,320
+ I think those complaints are a bit I actually know I think those complaints were a lot unfair
+
+290
+00:27:20,320 --> 00:27:24,720
+ I think the convention controlled as much of the masking policy maybe with the exception of the
+
+291
+00:27:24,720 --> 00:27:30,720
+ disco as they possibly could have done and like we can't blame the convention and it's not fair to
+
+292
+00:27:30,720 --> 00:27:36,720
+ get snooty at the convention if other guests in the hotel or hotel staff the day before the convention
+
+293
+00:27:36,720 --> 00:27:43,680
+ staff starts are choosing not to wear masks I am annoyed at the government and at Britain as a
+
+294
+00:27:43,680 --> 00:27:50,800
+ culture but I'm not annoyed at Phil Dyson and his team. The convention couldn't do more than
+
+295
+00:27:51,520 --> 00:27:56,640
+ they were legally able to do and they probably overstepped what they were legally able to do
+
+296
+00:27:56,640 --> 00:28:02,480
+ by requiring vaccination from every member so but nobody has a problem with that sort of sign.
+
+297
+00:28:02,480 --> 00:28:07,280
+ Yeah I would say what we can clearly see is that even with what seemed to be
+
+298
+00:28:07,280 --> 00:28:12,720
+ pretty reasonable COVID precautions it's absolutely not possible to have a convention which is totally
+
+299
+00:28:12,720 --> 00:28:19,280
+ COVID safe and like I said all the things but we're doing a kind of like trying to like you know make
+
+300
+00:28:19,280 --> 00:28:23,200
+ a policy slightly stricter but they won't reduce it to zero and that just says basically that
+
+301
+00:28:23,200 --> 00:28:27,680
+ there's no way we can make in-person conventions at this point safe for everyone and so we just
+
+302
+00:28:27,680 --> 00:28:32,080
+ have to make them as safe as possible but accept that unfortunately at this point we can't have
+
+303
+00:28:32,080 --> 00:28:39,040
+ in-person conventions for everyone. Although a lot of the people at EasterCon who got COVID were
+
+304
+00:28:39,040 --> 00:28:43,840
+ people like you know party animals and dealers who were talking to a great many different people
+
+305
+00:28:43,840 --> 00:28:49,120
+ it is also true to the ton of the people who got COVID were people who were not spending any time
+
+306
+00:28:49,120 --> 00:28:54,640
+ in unmasked eating and drinking spaces who will blast the full time who being extremely careful
+
+307
+00:28:54,640 --> 00:29:01,440
+ and so I think that really underlines the fact that we we just don't have a safe option here for
+
+308
+00:29:01,440 --> 00:29:06,160
+ people at the moment. So which is why we have to have excellence in hybrid conventions all
+
+309
+00:29:06,160 --> 00:29:12,320
+ join conversation please. Hand levitation. Yeah but conversation is definitely going to
+
+310
+00:29:12,320 --> 00:29:16,800
+ have a convention for people even people who don't feel that they can come and people that's in person.
+
+311
+00:29:16,800 --> 00:29:21,040
+ And so is levitation. Is this going to be dueling EasterCon for like the next year?
+
+312
+00:29:21,040 --> 00:29:28,240
+ Yeah no no absolutely. Oh no it's not dueling I'm just making the point that we are all so aiming
+
+313
+00:29:28,240 --> 00:29:33,760
+ for this excellent. Yeah the next two Eastercons are both very committed to hybridity it's going to
+
+314
+00:29:33,760 --> 00:29:40,800
+ happen. Yep 100%. This is one of the things that annoyed me about NovaCon because I had a few
+
+315
+00:29:40,800 --> 00:29:47,600
+ people at NovaCon say that it was privileged to have had online conventions because not everyone
+
+316
+00:29:47,600 --> 00:29:53,600
+ has the technical access. I think one of the things that NovaCon and EasterCon have shown in spades
+
+317
+00:29:53,600 --> 00:29:59,680
+ is that it is also privileged to have inversion conventions. It is a different privilege but you
+
+318
+00:29:59,680 --> 00:30:05,840
+ can't attend an inversion convention if you are at high risk and that is a privilege that those of
+
+319
+00:30:05,840 --> 00:30:10,960
+ us who are not at high risk have. And obviously you can't attend a virtual convention if you don't
+
+320
+00:30:10,960 --> 00:30:14,720
+ have the technical skill and so that's a privilege that those of us with the technical skill have
+
+321
+00:30:14,720 --> 00:30:19,840
+ and that's why doing hybrid conventions is good because it means that you open that net to as many
+
+322
+00:30:19,840 --> 00:30:25,920
+ people as you plausibly can. I can't see I can't see many ways we can significantly reduce the
+
+323
+00:30:25,920 --> 00:30:31,920
+ privilege through hybrid conventions more than we are doing. I am going to repeat my offer here
+
+324
+00:30:31,920 --> 00:30:39,200
+ which is that if you have somebody who cannot get on to online conventions I can send them a Mac
+
+325
+00:30:39,200 --> 00:30:44,800
+ and show them what they need to do. I can do a hybrid convention and a box kit. I'll probably
+
+326
+00:30:44,800 --> 00:30:50,400
+ did crowdfund if a lot of people probably would say yes this is the thing I need but you know I
+
+327
+00:30:50,400 --> 00:30:57,520
+ was trying to sell a Mac that will do an online convention for you for £60 at EasterCon and I
+
+328
+00:30:57,520 --> 00:31:03,840
+ did not get any takers so you know and that wasn't by any means the lowest technical kit that
+
+329
+00:31:03,840 --> 00:31:09,440
+ that'll do the job. I will also say that next episode if we announce our Patreon that's a signal
+
+330
+00:31:09,440 --> 00:31:14,080
+ that lots of people took Alison up on her offer so do keep your eyes peeled for that.
+
+331
+00:31:14,080 --> 00:31:19,280
+ There are all these Macs are going to have sponsored by provided by Octa thought
+
+332
+00:31:19,280 --> 00:31:27,760
+ of the spray painted in purple on the side. Spray painted in purple yeah I had one more thing to
+
+333
+00:31:27,760 --> 00:31:35,040
+ say about Norwescon which is that Norwescon commented favorably on the example of a panelist
+
+334
+00:31:35,040 --> 00:31:40,400
+ who left the convention because they had been pinged as a close contact and if EasterCon had
+
+335
+00:31:40,400 --> 00:31:45,120
+ done that the entire convention would have left by Monday lunchtime. Did I don't think I got
+
+336
+00:31:45,120 --> 00:31:52,480
+ anything more than EasterCon? I got pinged afterwards. I got pinged so often Monday and she'd say
+
+337
+00:31:52,480 --> 00:31:57,040
+ that my phone was like a fruit machine. No I didn't I don't think I got pinged on Monday I got
+
+338
+00:31:57,040 --> 00:32:05,120
+ pinged on Tuesday. No I got pinged on Monday lunchtime just pinged just before Octa thought actually.
+
+339
+00:32:05,120 --> 00:32:12,720
+ Then we drank the beer. Oh no it was just after Octa thought. Oh good. Because it was between
+
+340
+00:32:12,720 --> 00:32:18,080
+ when we drank the beer and they were like I hugged Liz to say goodbye I was like Liz I've been pinged
+
+341
+00:32:18,080 --> 00:32:24,400
+ and she was like half a fuck sake. So anyway if anyone was thinking I walked
+
+342
+00:32:24,400 --> 00:32:28,240
+ through up a good on Covid I should listen to their advice. I like that we've rounded off this
+
+343
+00:32:28,240 --> 00:32:33,520
+ discussion with a great anecdote illustrating the dangers of believing what you hear on the internet.
+
+344
+00:32:33,520 --> 00:32:39,520
+ Do as we say not as we did at EasterCon. Yeah I was going to say there's a very famous
+
+345
+00:32:39,520 --> 00:32:46,720
+ fan scene called daysnade so yeah do as we say not as we do. I do not regret hugging either of you
+
+346
+00:32:46,720 --> 00:32:52,720
+ at at EasterCon that was good it was nice to see you babe. Well neither of us got Covid so
+
+347
+00:32:52,720 --> 00:32:57,600
+ it didn't get Covid so therefore I don't regret it if I got Covid so I might have been
+
+348
+00:32:57,600 --> 00:33:03,920
+ written it I was quite worried about my PC artist. I don't know and maybe I don't know if you agree
+
+349
+00:33:03,920 --> 00:33:08,080
+ with me Liz but like it's very difficult to tell whether I would have behaved differently if I
+
+350
+00:33:08,080 --> 00:33:14,640
+ hadn't recently had Covid. I don't think I would have done I think I behaved much the same but like
+
+351
+00:33:14,640 --> 00:33:21,520
+ it did reassure me like I was like I was I was fairly convinced that unless there was a new
+
+352
+00:33:21,520 --> 00:33:27,760
+ variant like a BA3 or a BA4 or a BA5 that was very prevalent at EasterCon I would probably not
+
+353
+00:33:27,760 --> 00:33:34,800
+ get it because I had already I think had BA2. I don't know whether you think that your recent
+
+354
+00:33:34,800 --> 00:33:40,960
+ booster affected your behaviour much. I don't think it affected my behaviour it just made me feel
+
+355
+00:33:40,960 --> 00:33:45,280
+ that little bit safer and specifically in my case because there was a mandatory PCR to
+
+356
+00:33:45,280 --> 00:33:52,480
+ get back home at the time and so you know failing that would have been quite annoying and potentially
+
+357
+00:33:52,480 --> 00:34:00,320
+ quite expensive. I was very pleased when I heard you got that. Yes I was also very pleased.
+
+358
+00:34:00,320 --> 00:34:05,600
+ That was the bit that was most worrying me is oh god. Yes I think in hindsight it would have been fine
+
+359
+00:34:05,600 --> 00:34:09,840
+ and that has now been abolished so it's not a big issue. I mean I was said don't want to get
+
+360
+00:34:09,840 --> 00:34:14,800
+ Covid but I also didn't want to have to deal with um you know trying to arrange isolation and so on.
+
+361
+00:34:14,800 --> 00:34:19,840
+ But my booster was five months ago and I have been sitting in a house for two years so I was
+
+362
+00:34:19,840 --> 00:34:24,400
+ pretty certain I was going to catch Covid over the weekend. I would have been quite surprised if I
+
+363
+00:34:24,400 --> 00:34:29,520
+ hadn't especially if there would have been 75 reported cases and I hadn't been one of them.
+
+364
+00:34:29,520 --> 00:34:36,080
+ Not them we do. Yeah I would have been phoning up the are you immune to Covid we want to know about
+
+365
+00:34:36,080 --> 00:34:41,920
+ it people. So I was I was expected to get it I got it it was less bad than I was expecting so it's been
+
+366
+00:34:41,920 --> 00:34:46,960
+ okay. I think we may have done I'm going to suggest that we have done far too much fighting on
+
+367
+00:34:46,960 --> 00:35:01,280
+ about Covid and let's get on with some other. Congratulations to fear for winning TAF.
+
+368
+00:35:01,280 --> 00:35:09,920
+ You sure that's fear and not fire? Yeah 100% sorry that's a well conché. Oh I thought I thought
+
+369
+00:35:09,920 --> 00:35:17,920
+ you yeah no I'm um you know it it was. Sorry I thought it was funny I'm sorry I had a push to
+
+370
+00:35:17,920 --> 00:35:24,160
+ the show that's my fault of it. It's not it's not bad. Great race run very well more
+
+371
+00:35:24,160 --> 00:35:30,640
+ more voters than at any time since 2006. That's good for TAF good for the fanfans generally
+
+372
+00:35:30,640 --> 00:35:36,800
+ helps people know about fanfans. We're looking forward to seeing um fear in Chicago because we're
+
+373
+00:35:36,800 --> 00:35:42,880
+ all going to be there. Yep um we would like to encourage yeah we would like to encourage
+
+374
+00:35:42,880 --> 00:35:50,480
+ everyone who didn't win TAF to run for TAF again so that they can win next time all of them three
+
+375
+00:35:50,480 --> 00:35:56,400
+ way tie. Yeah I mean great candidates would still I mean I was very honored to have nominated and
+
+376
+00:35:56,400 --> 00:36:03,680
+ as I would love to see him run again and win next time that would be very good um and yeah I had
+
+377
+00:36:03,680 --> 00:36:10,480
+ some very hard choices in voting I would be happy to see that the moving candidates run again things.
+
+378
+00:36:10,480 --> 00:36:16,720
+ It's very disheartening to lose a race but you mustn't think oh no that means people
+
+379
+00:36:16,720 --> 00:36:20,480
+ don't think I'd be a good candidate I think everyone would have been a great delegate this time and
+
+380
+00:36:20,480 --> 00:36:25,600
+ and um it's just only one of them could win and that was fear so.
+
+381
+00:36:32,320 --> 00:36:36,960
+ Yeah we're all going to strike on. I've booked my flights at my hotel and my travel insurance and
+
+382
+00:36:36,960 --> 00:36:43,760
+ um and I've got my not a visa whatever it's called. Esther and here and so yeah we're definitely
+
+383
+00:36:43,760 --> 00:36:49,280
+ going. What about you John? Uh I've got my flights and I've booked my hotel which was eye
+
+384
+00:36:49,280 --> 00:36:54,720
+ wateringly expensive and I haven't yet got around to doing the travel insurance I should probably do
+
+385
+00:36:54,720 --> 00:37:00,800
+ that and I've got membership have you got membership? Oh yeah no we've got membership yeah so yes the
+
+386
+00:37:00,800 --> 00:37:07,440
+ entire thing was eye watering expensive the entire thing was like oh my god it's a good thing we have
+
+387
+00:37:07,440 --> 00:37:11,840
+ an offset mortgage. It's like what do you spend your mortgage what do you use your offset mortgage
+
+388
+00:37:11,840 --> 00:37:16,160
+ for an extension? No we're paid to go to Chai Con and worrying about paying off the mortgage some
+
+389
+00:37:16,160 --> 00:37:25,200
+ other year. I have booked nothing um but what membership? That was why I went around this line of
+
+390
+00:37:25,200 --> 00:37:30,480
+ things I was fairly sure this is where we get to. Yeah I just haven't got myself organized.
+
+391
+00:37:30,480 --> 00:37:37,680
+ Yeah I bought membership. A very kind person uh sold me their uh unwanted attending membership
+
+392
+00:37:37,680 --> 00:37:42,320
+ and I swapped it for my sporting membership so it works out for both of us so that was very nice.
+
+393
+00:37:42,320 --> 00:37:47,520
+ Yeah I'll get around to doing it I just have not actually kind of figured out any of the logistics
+
+394
+00:37:47,520 --> 00:37:55,760
+ of the horrendous 24 hour journey that I will have to take to get to Chicago so yeah might be
+
+395
+00:37:55,760 --> 00:38:02,480
+ putting that off you so to think about it. Um we Chicago is supposed to be lovely.
+
+396
+00:38:02,480 --> 00:38:06,480
+ Isn't it lovely? Um yeah I've never been to Chicago I'm very excited.
+
+397
+00:38:06,480 --> 00:38:12,960
+ Are you not? And I keep getting more excited because people keep saying oh Chicago is kind of like
+
+398
+00:38:12,960 --> 00:38:17,680
+ New York as if it had effective city planning and a socialist government and that's like oh that
+
+399
+00:38:17,680 --> 00:38:23,920
+ sounds good. I don't remember you know the giant Trump tower on the Chicago waterfront giving me
+
+400
+00:38:23,920 --> 00:38:31,520
+ a very socialist value. The specific thing they said was unlike New York and I think also London
+
+401
+00:38:31,520 --> 00:38:36,720
+ though London is getting better about this um Chicago has treated its waterfront as being a
+
+402
+00:38:36,720 --> 00:38:42,720
+ public good for over a hundred years and um and so therefore it has lots of lovely parklands
+
+403
+00:38:42,720 --> 00:38:47,440
+ and it has lots of good stuff and it's all very near the hotel and everything's very walkable
+
+404
+00:38:47,440 --> 00:38:50,800
+ and that also sounded good to me apart from it's going to be as hard as the furs of hell but
+
+405
+00:38:50,800 --> 00:38:54,240
+ probably not for Liz. No it'd probably be quite a nice temperature for me.
+
+406
+00:38:54,240 --> 00:39:01,040
+ Yes I mean one reason the hotel is I want to be expensive is because uh it genuinely is in the
+
+407
+00:39:01,040 --> 00:39:06,240
+ middle of Chicago unlike you know long come where we're like come to London maybe zone three and
+
+408
+00:39:06,240 --> 00:39:10,880
+ this is generally right in the centre. And I think when you say I want to really expensive I think
+
+409
+00:39:10,880 --> 00:39:16,800
+ it's about the same price as satellites hotel which is also I want to really expensive. Yeah I
+
+410
+00:39:17,440 --> 00:39:21,920
+ accept that if you wanted to put four of you into a room at Chai Con you could do in which case it
+
+411
+00:39:21,920 --> 00:39:27,840
+ wouldn't be expensive at all. I mean there's obviously an opt to thought sitcom hijinks sensual
+
+412
+00:39:27,840 --> 00:39:35,360
+ there. All five of us are in one room and Liz has the path yes. They are big hotel rooms though I
+
+413
+00:39:35,360 --> 00:39:39,680
+ mean I've been to went to the world come there in 2012 and we did put four of us in a hotel room
+
+414
+00:39:39,680 --> 00:39:44,560
+ and it was fine fine but I was younger then. Yeah I mean I did yeah it would be it would be much
+
+415
+00:39:44,560 --> 00:39:50,240
+ cheaper than Niestcon hotel. At the previous Chai Con I had four people to my room and we also had
+
+416
+00:39:50,240 --> 00:39:56,320
+ a deep dish pizza in there which basically counts as an entire person on its own so uh yep quite big.
+
+417
+00:39:56,320 --> 00:40:01,200
+ I ate cold because pizza for lunch one day and I felt so ill don't do that.
+
+418
+00:40:01,200 --> 00:40:07,440
+ No we had a breakfast it was that absolute best like 100% recommended would do again.
+
+419
+00:40:08,080 --> 00:40:14,720
+ Last time I was in New York my New York friends said we have to show you what pizza true pizza is
+
+420
+00:40:14,720 --> 00:40:19,040
+ like and it turns out the true pizza in New York is very like true pizza in Walthamstow and was not
+
+421
+00:40:19,040 --> 00:40:24,480
+ at all the sort of pizza I missed terribly since leaving the United States in 1982 which is Chicago
+
+422
+00:40:24,480 --> 00:40:30,240
+ pizza and I am really very much looking forward to eating some Chicago pizza. This actually segues
+
+423
+00:40:30,240 --> 00:40:39,920
+ very neatly to picks. So in today's picks my pick is Detroit style pizza. I live in a city now
+
+424
+00:40:39,920 --> 00:40:45,040
+ listeners that has Detroit style pizza and I can order it whenever I want and it is bloody
+
+425
+00:40:45,040 --> 00:40:52,960
+ glorious. It is basically a large square which is deeper than most pizza but less deep than a Chicago
+
+426
+00:40:52,960 --> 00:41:00,160
+ pizza and you get like this delicious kind of almost but not quite burnt cheese crust around
+
+427
+00:41:00,160 --> 00:41:07,200
+ the edges and it is incredibly nice and the place near us does it with sort of ricotta cheese and
+
+428
+00:41:07,200 --> 00:41:13,680
+ fennel sausage and lots of other lovely toppings and I've been enormously enjoying that.
+
+429
+00:41:13,680 --> 00:41:18,720
+ But I'm looking forward to Chicago deep dish as well very much. I mean it's a pie basically isn't
+
+430
+00:41:18,720 --> 00:41:26,320
+ it's like a quiche in a pizza I had a baby. A very cheesy baby. Yeah and the baby favoured the
+
+431
+00:41:26,320 --> 00:41:32,880
+ quiche more than the pizza except with less eggs. Tune in to our new podcast British people explain
+
+432
+00:41:32,880 --> 00:41:39,120
+ American food every other Thursday on this feed. Our transcripts have a whole thing where we try
+
+433
+00:41:39,120 --> 00:41:44,640
+ and explain cookies. I don't see why we couldn't have a whole British people explain American food
+
+434
+00:41:44,640 --> 00:41:49,200
+ segment most weeks actually. When we're in Chicago we're going to have a pancake breakfast did we
+
+435
+00:41:49,200 --> 00:41:53,840
+ say that already? We're not on the podcast but we did say it to ourselves yes. No we're going to
+
+436
+00:41:53,840 --> 00:41:58,160
+ have it I think we could have say this on the podcast we're going to have a pancake breakfast.
+
+437
+00:41:58,160 --> 00:42:04,960
+ At least one pancake breakfast maybe six or seven. At least one pancake breakfast together.
+
+438
+00:42:04,960 --> 00:42:10,080
+ Oh yeah I've also got like six or seven pancake breakfast with that probably. Yeah I mean I'm
+
+439
+00:42:10,080 --> 00:42:14,800
+ going to pose here and now that instead of doing a live octa talk at Chicago we just go around
+
+440
+00:42:14,800 --> 00:42:19,520
+ eating various American foodstuffs and making mini podcasts about them and by the end of the
+
+441
+00:42:19,520 --> 00:42:24,720
+ convention we might be hunted down by every American. I mean by all means do write to the
+
+442
+00:42:24,720 --> 00:42:29,840
+ Chicago program team and demand not to thought live that would be quite funny. No God don't do
+
+443
+00:42:29,840 --> 00:42:34,400
+ that because I'm on the Chicago program team and it'd be slightly embarrassing. Yeah please all
+
+444
+00:42:34,400 --> 00:42:38,800
+ tweet at Liz demanding octa talk live listeners. I don't have that sort of power John.
+
+445
+00:42:38,800 --> 00:42:47,200
+ So my pick while I had Covid I got to read some books that are purely entertaining and not informative
+
+446
+00:42:47,200 --> 00:42:54,000
+ or improving in any way and several of my friends have suggested that you could do this all the time
+
+447
+00:42:54,000 --> 00:42:59,760
+ but it's more fun than reading the sort of highfalutin stuff but anyway I've really enjoyed
+
+448
+00:42:59,760 --> 00:43:05,040
+ Mortal Engines by Philip Reeve a bit late for Eastercom. If I had read it a few weeks earlier I could
+
+449
+00:43:05,040 --> 00:43:08,880
+ have go up to where the Eastercom said I really really loved your book which I did. Thought it was
+
+450
+00:43:08,880 --> 00:43:14,080
+ great looking forward to the rest. I liked the fact that you didn't pull its punches because
+
+451
+00:43:14,080 --> 00:43:18,960
+ it's a kids book but it kind of goes into places that kids books don't necessarily always go and
+
+452
+00:43:18,960 --> 00:43:25,040
+ it did quite well and I liked how inventive it was and I liked how cinematic it was though apparently
+
+453
+00:43:25,040 --> 00:43:32,720
+ the movie is terrible so that's a bit sad but I did like the fact that it evoked cinematic
+
+454
+00:43:32,720 --> 00:43:37,360
+ images in my brain which I like and it was good fun and I've got the second one out of the library
+
+455
+00:43:37,360 --> 00:43:41,680
+ good library. It's great to get rid of reading old books is that libraries have them in stock
+
+456
+00:43:41,680 --> 00:43:48,080
+ and you can read them. So my my pick the week I will have to be slightly circumspected about it
+
+457
+00:43:48,080 --> 00:43:54,480
+ because my pick is a video game Horizon Forbidden West it's equal to the video game Horizon Zero Dawn
+
+458
+00:43:54,480 --> 00:43:59,840
+ Alison has left because Alison has not finished playing Horizon Zero Dawn which is going to hear
+
+459
+00:43:59,840 --> 00:44:04,800
+ what I say when he listens back to the podcast anyway but I know John is also playing Horizon
+
+460
+00:44:04,800 --> 00:44:10,240
+ Forbidden West and I think he's not finished. I have gotten to the point where I'm at the bottom
+
+461
+00:44:10,240 --> 00:44:16,400
+ of a hill and I told Neil this and he went oh your age is behind so that probably tells you that
+
+462
+00:44:16,400 --> 00:44:22,800
+ I'm quite a long way behind everyone I know who's playing it. Bottom of a hill? Oh oh oh right.
+
+463
+00:44:23,680 --> 00:44:31,040
+ Yeah so I've gone down a big rope like lift thing and an awkward man has been awkward at me
+
+464
+00:44:31,040 --> 00:44:39,280
+ and I have told him to get get you know and gone off to do my alloy thing like an absolute legend.
+
+465
+00:44:39,280 --> 00:44:48,480
+ Right so John has played approximately five to ten percent of games so far. Oh I would say less
+
+466
+00:44:48,480 --> 00:44:54,560
+ than that. There's a lot I finished up I mean I was quite completed about it haven't finished
+
+467
+00:44:54,560 --> 00:44:59,920
+ everything but I've done basic here if you quite still could find and I end up on about 110 hours
+
+468
+00:44:59,920 --> 00:45:04,640
+ played so that'll give you an idea of how long it is but yeah if you played I'm trying to think
+
+469
+00:45:04,640 --> 00:45:09,360
+ of a good way of explaining it that doesn't spy either Horizon Zero Dawn or Horizon Forbidden West
+
+470
+00:45:09,360 --> 00:45:17,120
+ too much for those who haven't played them basically you players A-9, a heroine who was an outcast from
+
+471
+00:45:17,120 --> 00:45:26,480
+ her tribe and lives in a sort of this kind of future where humans are living in kind of separated
+
+472
+00:45:26,480 --> 00:45:32,640
+ tribes in a kind of very fairly primitive existence but they're all these giant robot machines
+
+473
+00:45:32,640 --> 00:45:35,760
+ driving about and what's going on with that and what's going on with that is what you're
+
+474
+00:45:35,760 --> 00:45:40,320
+ going to find out over playing the course of both of these games. The first one is spectacularly good
+
+475
+00:45:40,320 --> 00:45:44,640
+ the second one is still pretty good but maybe not quite as spectacularly good because
+
+476
+00:45:45,280 --> 00:45:50,400
+ the novelty isn't quite there finding out kind of the second act of the story is not quite as
+
+477
+00:45:50,400 --> 00:45:56,160
+ exciting as all the stuff that gets unraveled in the first act but it is still great you're still
+
+478
+00:45:56,160 --> 00:46:03,280
+ essentially roaming around this giant open world you know shooting giant mechanical animals and
+
+479
+00:46:03,280 --> 00:46:09,280
+ sneaking up behind them and you know throwing sticky bombs at them and shooting them with different
+
+480
+00:46:09,280 --> 00:46:15,520
+ ammo and you know going around meeting all these different tribes which they do a great job of
+
+481
+00:46:15,520 --> 00:46:20,480
+ kind of having all these distinct groups of people with their own kind of traditions and building
+
+482
+00:46:20,480 --> 00:46:27,600
+ styles and outfits that look really distinctive and I would say that my main piece of the second
+
+483
+00:46:27,600 --> 00:46:32,560
+ one is they put too much stuff in it so we're in the first one I had like six different weapons
+
+484
+00:46:32,560 --> 00:46:38,320
+ and this one I have like 12 different weapons that do 27 different things and I spent way too
+
+485
+00:46:38,320 --> 00:46:43,440
+ long trying to work out okay what is the optimal weapon for shooting this giant crocodile machine
+
+486
+00:46:43,440 --> 00:46:48,960
+ in the face a lot and it also has the very annoying thing where if you kind of pause for too long
+
+487
+00:46:48,960 --> 00:46:53,920
+ Aloy will say something helpful like maybe I should scan for a point of interest and things
+
+488
+00:46:53,920 --> 00:46:58,640
+ like this and it's like no I'm on my way to do what you're just about to tell me to do it's just I
+
+489
+00:46:58,640 --> 00:47:04,240
+ fell off this cliff and have to climb back up again and that gets surprisingly jarring after 100 hours
+
+490
+00:47:04,240 --> 00:47:10,960
+ of it but I did really enjoy it even on PlayStation 4 it looks spectacular the voice acting is pretty
+
+491
+00:47:10,960 --> 00:47:15,440
+ great throughout and it's just 100 hours of fun so if you haven't played the first one and you
+
+492
+00:47:15,440 --> 00:47:21,200
+ have a PlayStation you should go and get it right now and if you haven't played it and you haven't
+
+493
+00:47:21,200 --> 00:47:26,240
+ or bought a PlayStation then you should go out and buy a PlayStation which you say goes very well
+
+494
+00:47:26,240 --> 00:47:33,040
+ into a while or something was about to say I bought a PlayStation to play this game I didn't
+
+495
+00:47:33,040 --> 00:47:37,440
+ realize it at the time I thought I was buying it to play a different game but it turns out that
+
+496
+00:47:37,440 --> 00:47:42,480
+ this is the game I bought the PlayStation to buy and the other thing about the first one is that
+
+497
+00:47:42,480 --> 00:47:49,360
+ it's a game that's so good that it tipped the conversation on best games Hugo from oh well I can
+
+498
+00:47:49,360 --> 00:47:54,240
+ see that there's an argument for why we might have best games Hugo to obviously we need to have a
+
+499
+00:47:54,240 --> 00:47:59,040
+ best games Hugo so that we can give the Hugo to things that are like this and it reminded me very
+
+500
+00:47:59,040 --> 00:48:05,920
+ much of what happened with Watchman back in the mid 80s which was that they had to invent a special
+
+501
+00:48:05,920 --> 00:48:11,440
+ Hugo for Watchman because they didn't have best graphic novel at the time I think that is fair
+
+502
+00:48:11,440 --> 00:48:15,120
+ I think Horizon and Zero Dawn is like the first time I played a game where I was like oh this is
+
+503
+00:48:15,120 --> 00:48:22,880
+ like great science fiction in a game and I don't think I'd had that prior to that point like it's
+
+504
+00:48:22,880 --> 00:48:28,880
+ not like there hadn't been science fiction in games like Mass Effect is an obvious example
+
+505
+00:48:28,880 --> 00:48:40,160
+ but I think Horizon I'm now played Mass Effect and it was okay but Horizon really tickled me now I
+
+506
+00:48:40,160 --> 00:48:44,880
+ will also say that I'm not sure that Sony quite realizes how popular the franchise is and I say
+
+507
+00:48:44,880 --> 00:48:51,360
+ this because they released a Horizon Zero Dawn Lego set and it sold out within five hours of coming
+
+508
+00:48:51,360 --> 00:48:57,440
+ out I went to get it from the Lego shop and they did not have any more there had been a big queue
+
+509
+00:48:57,440 --> 00:49:07,600
+ the time the store opened no so you don't have one and I did not get my tall neck no John I know
+
+510
+00:49:07,600 --> 00:49:13,440
+ but I am kind of happy about this because I think it shows that there is appetite for the
+
+511
+00:49:13,440 --> 00:49:19,120
+ franchise I think that is good yeah what's their first first Horizon thing wasn't it
+
+512
+00:49:19,680 --> 00:49:23,760
+ Sony probably has a very good idea of how successful the franchise is on account of how
+
+513
+00:49:23,760 --> 00:49:30,640
+ they have sales figures they won't know how many people are buying second-hand play stations to
+
+514
+00:49:30,640 --> 00:49:34,000
+ play it but they know how many people are playing it because obviously they're tracking every
+
+515
+00:49:34,000 --> 00:49:39,360
+ minute I spend playing it and things like that they know the thing they didn't know is what the
+
+516
+00:49:39,360 --> 00:49:48,560
+ overlap between Horizon fans and Lego fans is and I think it's probably higher than they expected
+
+517
+00:49:48,560 --> 00:49:54,480
+ but I don't but I don't think it's fair to say that the sales figures of a video game reflect the
+
+518
+00:49:54,480 --> 00:50:00,240
+ cultural penetration of that video game in isolation I suspect there are games that have sold as well
+
+519
+00:50:00,240 --> 00:50:05,280
+ as Horizon that have not got the same level of cultural penetration and therefore I suspect you
+
+520
+00:50:05,280 --> 00:50:11,120
+ need more data than just that one number to work that out yeah it's a very good game though it is
+
+521
+00:50:11,120 --> 00:50:14,800
+ it's so good yeah so good and I haven't played the second one yet but I'm looking forward to it
+
+522
+00:50:14,800 --> 00:50:19,920
+ they'll probably take it I am now something like 52% of the way through the first one so I'm
+
+523
+00:50:19,920 --> 00:50:25,520
+ I'd further on with it than than I had thought have you found out that all of the animals are
+
+524
+00:50:25,520 --> 00:50:32,720
+ robots yet spoilers listeners all of the animals are not robots because otherwise I've been eating
+
+525
+00:50:32,720 --> 00:50:37,840
+ a lot of robot that's not great some of the animals are bloody little rabbits and you have to kill
+
+526
+00:50:37,840 --> 00:50:44,640
+ the rabbit to make your pouch for holding arrows bigger which is the worst mechanic oh yes I
+
+527
+00:50:44,640 --> 00:50:49,680
+ am going to have some a little whine about Horizon and I don't know if this is improved in the sequel
+
+528
+00:50:49,680 --> 00:50:55,360
+ but if I had to complain about things it would be like I am like umptium games in hours into this
+
+529
+00:50:55,360 --> 00:51:00,320
+ game where umptium is a lot I'm still having to wander around picking up bloody herbs everywhere
+
+530
+00:51:00,320 --> 00:51:06,800
+ and that is pissing me off and I also have to keep shooting animals and that is also pissing me off
+
+531
+00:51:06,800 --> 00:51:11,120
+ and I could be doing without that those quite relaxing it's kind of very meditative to sort of
+
+532
+00:51:11,120 --> 00:51:15,600
+ wander around the countryside filling up one's medicine pouch and which I need to do because
+
+533
+00:51:15,600 --> 00:51:22,320
+ obviously all of the giant robot things kick my butt repeatedly because that bit where I suppose
+
+534
+00:51:22,320 --> 00:51:27,520
+ to work out what weapon I should use I'm just going if I stand on a legend hit far arrows into
+
+535
+00:51:27,520 --> 00:51:32,000
+ this it will die eventually and that doesn't seem to be true in most cases so my other complaint
+
+536
+00:51:32,000 --> 00:51:37,680
+ about the game is that actually there's a lot of there's a lot of quests in this game and a lot
+
+537
+00:51:37,680 --> 00:51:42,000
+ of them work exactly the same way and I'm getting a little bit tired of it but I mean I have time
+
+538
+00:51:42,000 --> 00:51:47,840
+ for fun so what I'm gonna do I will look up before the next episode exactly how many crabs
+
+539
+00:51:47,840 --> 00:51:53,920
+ I have massacred in order to make a lot of these rope pouches and so on because the second game
+
+540
+00:51:53,920 --> 00:52:00,240
+ is not any better about that I killed so many crabs I've killed so many owls I killed some
+
+541
+00:52:00,240 --> 00:52:08,720
+ seagulls and felt slightly bad about it yes for any owl feathers okay she's dead to me and I need
+
+542
+00:52:08,720 --> 00:52:12,560
+ like three owl feathers to make a pouch and apparently I'm such a bad hunter that this takes at least
+
+543
+00:52:12,560 --> 00:52:18,320
+ 12 owls to get enough feathers to make my pouch and then it's like well done you have a level
+
+544
+00:52:18,320 --> 00:52:22,960
+ three pouch now make a level four pouch with some more owl feathers yeah so one of the things
+
+545
+00:52:22,960 --> 00:52:27,600
+ that's very annoying about the hunting the thing that's very annoying about the hunting mini-game
+
+546
+00:52:27,600 --> 00:52:33,200
+ is that you don't all no matter how effectively you kill these beasts you don't always get the
+
+547
+00:52:33,200 --> 00:52:38,640
+ thing you're looking for that is very annoying like life I'm like I got over this in video games
+
+548
+00:52:38,640 --> 00:52:43,520
+ ooh bring me an iridescent crab shell why'd need a particular iridescent crab shell
+
+549
+00:52:43,520 --> 00:52:48,560
+ well because it's pretty hellous I will also say this doesn't count as a re-pick because when we
+
+550
+00:52:48,560 --> 00:52:54,480
+ discussed it in episode 39 we haven't invented picks yet so it gets off on a technicality
+
+551
+00:52:55,360 --> 00:52:59,600
+ also it's we have got a long tradition of going round it also she
+
+552
+00:52:59,600 --> 00:53:02,560
+ this is talking about the second game that I talked about the first game
+
+553
+00:53:02,560 --> 00:53:06,560
+ I'm talking about the second one and also we have a long tradition of getting distracted and
+
+554
+00:53:06,560 --> 00:53:10,560
+ talking about video games a lot because that's the sort of content that Mark Lumbelowt
+
+555
+00:53:10,560 --> 00:53:17,520
+ and it's midnight in Bangkok so that was the Octa thought podcast and it's goodbye from me
+
+556
+00:53:17,520 --> 00:53:21,040
+ it's goodbye from me and it's goodbye from me
+
+557
+00:53:21,920 --> 00:53:41,200
+ [Music]
+
+558
+00:53:41,200 --> 00:53:46,000
+ yeah well done and we didn't have 15 minutes of talking about Arkham Horror
+
+559
+00:53:46,000 --> 00:53:51,600
+ no the theme music for this episode was Fanfare for Space by Kevin McLeod in
+
+560
+00:53:51,600 --> 00:53:56,400
+ Competec.com used under a Creative Commons attribution 4.0 license
+
+561
+00:53:56,400 --> 00:54:00,160
+ this podcast will end at the beep beep
+
+562
+00:54:00,160 --> 00:54:10,160
+ [BLANK_AUDIO]
+
