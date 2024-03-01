@@ -1,0 +1,2216 @@
+1
+00:00:00,000 --> 00:00:06,000
+ Hello listeners, John here, just before we start, Liz was using the wrong microphone,
+
+2
+00:00:06,000 --> 00:00:11,680
+ and so I am aware she is in a cave. I apologise for her being in a cave,
+
+3
+00:00:11,680 --> 00:00:17,920
+ she will not be in a cave next week. That was the "Og to Thought" podcast, and it's goodbye from me.
+
+4
+00:00:17,920 --> 00:00:25,680
+ Studying with one for those, very quick. You were not expecting the end of the podcast after you
+
+5
+00:00:25,680 --> 00:00:31,920
+ finished your last pick. Nobody expects the end of the podcast. That's why we give them the beep.
+
+6
+00:00:31,920 --> 00:00:50,880
+ Hello everyone, and welcome to the very 103rd episode of "Og to Thought". A podcast for
+
+7
+00:00:50,880 --> 00:00:56,320
+ science fiction and science fiction fandom, which is winging its way to you on the 15th of February
+
+8
+00:00:56,320 --> 00:01:04,560
+ 2024, just in time for that post-Valentine's Day lull. I'm John Coxon, I'm Alison Scott,
+
+9
+00:01:04,560 --> 00:01:09,920
+ and I'm Liz Batty. And speaking of Valentine's Day, we have some letters of comment, and one of
+
+10
+00:01:09,920 --> 00:01:15,600
+ them is from Christopher J. Garcia, who I think we can all agree is the Cupid of Science Fiction
+
+11
+00:01:15,600 --> 00:01:23,760
+ fandom. He says that this is the best of all episode art, and he was not wrong, it was pretty
+
+12
+00:01:23,760 --> 00:01:30,800
+ dang good, and Raj wrote in on Master Don to say, "Behemian coast, do you happen to have a gallery
+
+13
+00:01:30,800 --> 00:01:35,360
+ or something somewhere with your cover art for Octa-Thorp and other fan art? I'd like to find
+
+14
+00:01:35,360 --> 00:01:40,880
+ examples I can provide for Hugo nomination purposes, so Alison, do you have a website?"
+
+15
+00:01:40,880 --> 00:01:46,160
+ It is great that you should say that, because I do in fact have a website, which is called something
+
+16
+00:01:46,160 --> 00:01:53,360
+ like alasenscotfanna.adobefulfolio.com. I don't know if that's exactly right, but we will definitely
+
+17
+00:01:53,360 --> 00:01:58,880
+ put the real link in the show notes, and I just got ambushed with that query, so thanks for that.
+
+18
+00:01:58,880 --> 00:02:05,440
+ Yay! Thanks for everyone who said lovely things about the cover, because yeah, no, I spent two full
+
+19
+00:02:05,440 --> 00:02:11,520
+ weeks giggling about it before I actually delivered it, so yes. But thanks for your lovely letter,
+
+20
+00:02:11,520 --> 00:02:17,760
+ Chris. He did say, "The thing I find so disheartening is that a member of the Hugo sub-committee flat-out
+
+21
+00:02:17,760 --> 00:02:22,800
+ said she knew that votes were thrown out due to a slate and no one seems to care."
+
+22
+00:02:22,800 --> 00:02:27,920
+ I've heard this as a rumour, but I've not seen anything written down that says it or anything on
+
+23
+00:02:27,920 --> 00:02:33,920
+ the record, so if you are out there and you have this report, if you'd like to report it to us in
+
+24
+00:02:33,920 --> 00:02:37,200
+ a bit more cogent way so that we could talk about it, we'd love that. Thank you.
+
+25
+00:02:37,200 --> 00:02:45,040
+ If it's true, it's very damning. Is it? So Chris does say there's no more perfect description of
+
+26
+00:02:45,040 --> 00:02:49,760
+ Dave than arrogant, hautein, insulin, and I'm going to have to start using that, and I am slightly
+
+27
+00:02:49,760 --> 00:02:55,120
+ regretting that I've already put my ribbon order in for Gallifrey 1, but at Glasgow, will there be
+
+28
+00:02:55,120 --> 00:03:02,080
+ ribbons that say arrogant, hautein, insulin? I could definitely make one. Also, there is no more
+
+29
+00:03:02,080 --> 00:03:08,320
+ perfect description of Dave than arrogant, hautein, insulin, but what about Hugo Pope?
+
+30
+00:03:08,320 --> 00:03:11,440
+ I mean, I'm definitely considering cosplaying as the Hugo Pope.
+
+31
+00:03:11,440 --> 00:03:16,880
+ Oh my god, and Hugo Boss, apparently, David Carty, for those who have not heard this, was
+
+32
+00:03:16,880 --> 00:03:20,960
+ signing autographs at Chengdu with the words Hugo Boss.
+
+33
+00:03:20,960 --> 00:03:26,160
+ Which, fun fact, is not something that a member of the mock protection committee should ever do,
+
+34
+00:03:26,160 --> 00:03:30,480
+ because there have been letters exchanged with Hugo Boss about the Hugo tray box.
+
+35
+00:03:30,480 --> 00:03:35,600
+ So firstly, there's only one Hugo Boss, and it's a clothing company, and secondly, there's only one
+
+36
+00:03:35,600 --> 00:03:40,960
+ Hugo Boss, and it's a comedian called Joe Lysit, and thirdly, Dave McCarty is the boss of precisely
+
+37
+00:03:40,960 --> 00:03:45,840
+ nothing except for bad decisions. And fourthly, we don't have a Hugo Boss, because we did have a
+
+38
+00:03:45,840 --> 00:03:52,080
+ Hugo Boss, it's likely that none of this would ever have happened. If Dave McCarty is the Hugo Pope,
+
+39
+00:03:52,080 --> 00:03:57,760
+ then Nicholas White should be the Hugo God. Hugo Cardinal. Chris also says Liz does need to offer
+
+40
+00:03:57,760 --> 00:04:03,280
+ her services as vote trigger for all sorts of awards. Liz, are you available on commission?
+
+41
+00:04:03,280 --> 00:04:04,720
+ What are your rates?
+
+42
+00:04:04,720 --> 00:04:11,600
+ I actually want to say Nicholas, Nicholas, please, please write in with your preferred
+
+43
+00:04:11,600 --> 00:04:19,280
+ Hugo title, and then we'll use it in future. Hugo Messiah, perhaps.
+
+44
+00:04:19,280 --> 00:04:23,600
+ Hugo Zarr, perhaps? Yeah. Really, whatever it, whatever you would like.
+
+45
+00:04:25,440 --> 00:04:31,440
+ Mark Plummer of Croydon wrote to us and said, "This is not a comb I told Dr. Thorpe 102,
+
+46
+00:04:31,440 --> 00:04:39,280
+ as I haven't listened to it yet." Did you know that Liz's entry in ISFDB contains a note saying,
+
+47
+00:04:39,280 --> 00:04:43,840
+ "Perhaps a thinly disguised pseudonym for a person called Elizabeth?"
+
+48
+00:04:43,840 --> 00:04:47,200
+ Liz, did you know this?
+
+49
+00:04:47,200 --> 00:04:53,760
+ I can reveal exclusively on this podcast that yes, it is a very thinly disguised pseudonym. In
+
+50
+00:04:53,760 --> 00:04:56,960
+ fact, someone not even call it a pseudonym, but maybe just a nickname?
+
+51
+00:04:56,960 --> 00:05:01,840
+ I figured this out. I actually saw quite a bit out to me a few months ago, and one,
+
+52
+00:05:01,840 --> 00:05:07,280
+ I was surprised I had an ISFDB entry, but apparently I do for doing some layout for Vecta years ago.
+
+53
+00:05:07,280 --> 00:05:15,680
+ But also, I realised ISFDB are very obsessed with properly naming, listing all possible pseudonyms,
+
+54
+00:05:15,680 --> 00:05:22,080
+ alternative names, etc. To the point where they do do some really weird and quite unwarranted stuff,
+
+55
+00:05:22,080 --> 00:05:27,840
+ I think. For example, Lee Mandello, who has changed name, is listed under their previous name,
+
+56
+00:05:27,840 --> 00:05:31,600
+ and I think they've only just managed to get it changed to list their correct name. If you look
+
+57
+00:05:31,600 --> 00:05:37,760
+ up the author, S.L. Huang, it says, "Legal name removed at author's request." And if you look up
+
+58
+00:05:37,760 --> 00:05:42,320
+ some of the authors who have changed name, then it lists everything that they wrote under their
+
+59
+00:05:42,320 --> 00:05:45,680
+ previous names, even in cases where they've maybe been republished under their new name.
+
+60
+00:05:45,680 --> 00:05:50,240
+ It's just weird. It's just trying to be super-completist about publication, but not really thinking that
+
+61
+00:05:50,240 --> 00:05:54,320
+ there's a natural person here who maybe does not want to be reminded every time someone looks up
+
+62
+00:05:54,320 --> 00:05:58,560
+ their ISFDB page that they had a previous name. I mean, in my case, this is a nickname and I do
+
+63
+00:05:58,560 --> 00:06:03,280
+ not care, but it is a bit kind of... It seems to have improved a bit, but this is something I think
+
+64
+00:06:03,280 --> 00:06:08,560
+ people are not aware of. I think the obsession with pseudonyms dates from a time when a lot of
+
+65
+00:06:08,560 --> 00:06:14,560
+ science fiction authors wrote under a vast number of different names in order to sell multiple stories
+
+66
+00:06:14,560 --> 00:06:19,840
+ in the same month to magazines. So obviously, at that point, a lot of people did a ton of
+
+67
+00:06:19,840 --> 00:06:24,960
+ very painstaking work to work out who all of these pseudonyms are, and they've kind of forgotten that
+
+68
+00:06:24,960 --> 00:06:29,840
+ actually there are lots of other reasons why you might not use your complete legal name to
+
+69
+00:06:29,840 --> 00:06:34,720
+ write fiction or do whatever it tells you do in the science fiction space. And you certainly
+
+70
+00:06:34,720 --> 00:06:39,040
+ might not want your previous names to be included. So, you know...
+
+71
+00:06:39,040 --> 00:06:45,840
+ I will say, Liz, that this combined with the vote fixing, it's really starting to look bad for you.
+
+72
+00:06:46,560 --> 00:06:50,080
+ [Laughter]
+
+73
+00:06:50,080 --> 00:06:52,880
+ It is. I'm never going to be a Hugo administrator now.
+
+74
+00:06:52,880 --> 00:06:56,480
+ Have you now? Where did you stop rigging votes, Liz?
+
+75
+00:06:56,480 --> 00:07:06,880
+ We also heard from DC, who had caught up with Octo-thop. We've not heard from DC for a while.
+
+76
+00:07:06,880 --> 00:07:12,400
+ Thank you very much for writing in DC, and they say that the phrase "useful idiots" was
+
+77
+00:07:12,400 --> 00:07:19,360
+ pinging around in their head as well. So, yeah, it's a very useful, very useful term for what is
+
+78
+00:07:19,360 --> 00:07:25,920
+ going on, I think. And DC also thanks Liz for the work in looking at the stats, and congratulations
+
+79
+00:07:25,920 --> 00:07:31,600
+ us on our hundredth episode. We do have to protect Lenin's honour. It turns out the phrase "useful idiot"
+
+80
+00:07:31,600 --> 00:07:36,800
+ comes from American newspapers in the 40s and 50s, probably, because I did some... I fell down an
+
+81
+00:07:36,800 --> 00:07:42,080
+ internet rabbit hole after editing that podcast, but it is a very useful phrase, regardless.
+
+82
+00:07:42,080 --> 00:07:44,960
+ So yes, thank you for writing in DC.
+
+83
+00:07:44,960 --> 00:07:46,560
+ Lenin's probably okay at this point.
+
+84
+00:07:46,560 --> 00:07:48,960
+ That's going to be the episode title.
+
+85
+00:07:48,960 --> 00:07:50,000
+ He's probably not listening.
+
+86
+00:07:50,000 --> 00:07:52,480
+ [Laughter]
+
+87
+00:07:52,480 --> 00:07:56,000
+ Uh, Liz, do you want to do some blue skis?
+
+88
+00:07:56,000 --> 00:08:00,640
+ We will do some blue skis. I should say that I have...
+
+89
+00:08:00,640 --> 00:08:05,040
+ Is it pronounced... So, I listened to a stream and somewhat called it blue ski.
+
+90
+00:08:05,040 --> 00:08:07,040
+ It cannot be pronounced blue ski, can it?
+
+91
+00:08:07,040 --> 00:08:10,880
+ I don't pronounce it blue ski. I'm going to pronounce it blue sky, but if you want to
+
+92
+00:08:10,880 --> 00:08:12,880
+ pronounce it blue ski, you know...
+
+93
+00:08:12,880 --> 00:08:13,840
+ Okay, good.
+
+94
+00:08:13,840 --> 00:08:18,160
+ I'm casual about it. I'm going to call it blue sky though. I should say that I have the keys to
+
+95
+00:08:18,160 --> 00:08:22,720
+ the blue sky account, and somehow I managed to post the wrong link to the podcast last time.
+
+96
+00:08:22,720 --> 00:08:27,760
+ So apologies, thank you to everyone who pointed that out. This is not like, you know, learning
+
+97
+00:08:27,760 --> 00:08:33,840
+ competence that someone else does the blue sky, I'm going to get it right. Thank you to Kevin from
+
+98
+00:08:33,840 --> 00:08:39,360
+ Hugo Girl, who commented, say it was nice to hear people say that, you know, the Hugo is still
+
+99
+00:08:39,360 --> 00:08:43,280
+ something to be proud of, as they are 2023 winners. So thank you very much, Kevin.
+
+100
+00:08:43,280 --> 00:08:50,720
+ And Robert Archie, who is also Martin, does comment to say that a welcome bid being initiated
+
+101
+00:08:50,720 --> 00:08:54,800
+ by enthusiastic but inexperienced fans and then taken over by those with more business and
+
+102
+00:08:54,800 --> 00:08:58,880
+ organisation experiences far from unknown in the West. I think that may be true. I don't know,
+
+103
+00:08:58,880 --> 00:09:03,600
+ I don't go far enough back into welcome bid history to have been personally involved with
+
+104
+00:09:03,600 --> 00:09:08,000
+ one left, but it does seem plausible that some people enthusiastically start one and then have to be
+
+105
+00:09:08,000 --> 00:09:12,240
+ rescued by people who actually know how to organise things. But in this case, it seems like it really
+
+106
+00:09:12,240 --> 00:09:16,720
+ was business experience in that, you know, they were doing business, not that they were taking
+
+107
+00:09:16,720 --> 00:09:20,000
+ their business experience and using it to run Worldcon's, but they were running the Worldcon a bit
+
+108
+00:09:20,000 --> 00:09:24,080
+ more like a business. I don't know, yeah, I don't know whether this has ever happened in a Western
+
+109
+00:09:24,080 --> 00:09:29,600
+ convention that was not a Worldcon, but certainly I do not think this has ever happened in quite this
+
+110
+00:09:29,600 --> 00:09:34,720
+ way in a Western Worldcon. I think there is a difference here.
+
+111
+00:09:34,720 --> 00:09:39,680
+ Yes, I mean, not like this, not like this. And also it had already been taken over by big business
+
+112
+00:09:39,680 --> 00:09:44,000
+ at the time of the vote. Let's be clear here. The people who run it were the people who
+
+113
+00:09:44,000 --> 00:09:52,400
+ engineered all the streams and making sure that lots and lots and lots of Chinese SF fans
+
+114
+00:09:52,400 --> 00:09:55,680
+ were involved. That was all done by Souths Fiction World.
+
+115
+00:09:55,680 --> 00:10:02,000
+ I will also note that if this happened with a US con, we'd also be angry about it,
+
+116
+00:10:02,000 --> 00:10:06,720
+ or a Western con, I should say, like look at how much criticism there was of Raytheon
+
+117
+00:10:06,720 --> 00:10:12,800
+ sponsoring the Hugo's. Like we are not shy about letting Worldcon's know in the West when we feel
+
+118
+00:10:12,800 --> 00:10:17,840
+ their corporate influences have been unsuitable and there have been a lot of times where fandom
+
+119
+00:10:17,840 --> 00:10:22,880
+ has reacted very strongly to that. So I don't, I will also say, I think if the same thing happened
+
+120
+00:10:22,880 --> 00:10:25,840
+ in a Western con, we would be having very similar conversations.
+
+121
+00:10:25,840 --> 00:10:29,360
+ Oh, yes. I just want to say this isn't really a letter of comment, but I just wanted to give
+
+122
+00:10:29,360 --> 00:10:34,160
+ a shout out and a thank you to Mike Glier from Par 770 when we were putting together the links
+
+123
+00:10:34,160 --> 00:10:38,640
+ for the show notes in the last episode. I emailed Mike to ask whether he would mind
+
+124
+00:10:38,640 --> 00:10:43,920
+ tweaking of Par 770 post to make it a better roundup of what was going on for our show notes.
+
+125
+00:10:43,920 --> 00:10:49,200
+ And he extremely kindly obliged. And he did not have to do that. So thank you very much to Mike.
+
+126
+00:10:49,200 --> 00:10:54,160
+ And obviously we linked to Par 770 a lot in the show notes. And we mentioned it a lot on the pod,
+
+127
+00:10:54,160 --> 00:10:58,560
+ but I don't think we ever necessarily sing its praises. It's real good guys.
+
+128
+00:10:58,560 --> 00:11:03,920
+ I think the fact that the amount we're relying on file 770 that is a good indication of
+
+129
+00:11:03,920 --> 00:11:10,880
+ file 770's criticality to the genre at times like this and how what a lot of good work Mike and
+
+130
+00:11:10,880 --> 00:11:16,400
+ his team have been doing. Yeah. And especially when stuff is split across streams and, you know,
+
+131
+00:11:16,400 --> 00:11:21,120
+ the last remnants of Twitter and then bits of blue sky and bits of mastodon and bits of blogs,
+
+132
+00:11:21,120 --> 00:11:26,240
+ you know, it is good to have somewhere that kind of if you just read file 770, you'll basically know
+
+133
+00:11:26,240 --> 00:11:33,520
+ what's going on. Par 770 pretty great website. Ali Baker Brooks wrote to us to say, I am now
+
+134
+00:11:33,520 --> 00:11:38,880
+ octathorp complete with your latest episode. So well done, Ali. And I'm just going to remind
+
+135
+00:11:38,880 --> 00:11:43,200
+ people that you do not have to listen to all of them out there under two of them. That's quite a lot.
+
+136
+00:11:43,200 --> 00:11:48,800
+ You don't have to, but it does give me the warm fuzzies, whatever someone says they have.
+
+137
+00:11:48,800 --> 00:11:53,520
+ But there's no obligation, but it is nice though. Thank you, Ali.
+
+138
+00:11:53,520 --> 00:11:56,720
+ Yeah, I mean, if you want to give John the warm fuzzies, this is a way to do it.
+
+139
+00:11:56,720 --> 00:12:02,240
+ For a rights to say, I agree with Liz on the gifts. One week we could shine with my university
+
+140
+00:12:02,240 --> 00:12:07,760
+ as I had to either buy a new suitcase or just abandon things. Farah left the paperweight and
+
+141
+00:12:07,760 --> 00:12:12,160
+ the framed artwork behind. Yeah, it was a frame print of Dave McCarty.
+
+142
+00:12:12,160 --> 00:12:22,240
+ I guess that's getting covered. I still think it's funny. Liz has given us a look. Also on Facebook,
+
+143
+00:12:22,240 --> 00:12:29,760
+ Ming says, "Podering a crowd funder for 30 pieces of silver." I didn't get that. I am bereft.
+
+144
+00:12:29,760 --> 00:12:36,400
+ It's like Dave McCarty is the devil, right? Or I owe Judas. I see.
+
+145
+00:12:37,280 --> 00:12:42,960
+ Okay, that's quite good. Farah also asks whether a collected comic could be included in the best
+
+146
+00:12:42,960 --> 00:12:48,160
+ series. And the answer is yes, if it's very, very, very long, I think Liz said. Well, there's a word
+
+147
+00:12:48,160 --> 00:12:53,920
+ limit. 240,000 words. The minimum number of words for being a best series, so it had to be extremely
+
+148
+00:12:53,920 --> 00:12:58,560
+ wordy comment. And I don't even get word counts for comics. And I don't think a picture counts as
+
+149
+00:12:58,560 --> 00:13:03,360
+ the thousand words for the purposes of best series. I think that that's one of these things that's
+
+150
+00:13:03,360 --> 00:13:08,240
+ been discussed in the past on QGIS. There is a journal called the Journal of Geophysical Research.
+
+151
+00:13:08,240 --> 00:13:16,320
+ And when they were making the change from doing their fees in terms of how many pages it would be
+
+152
+00:13:16,320 --> 00:13:21,520
+ in the physical journal, they obviously changed that when it became clear that journals were going
+
+153
+00:13:21,520 --> 00:13:27,840
+ to be primarily PDFs. And so that didn't really make sense as a model. And they decided that they
+
+154
+00:13:27,840 --> 00:13:33,440
+ would do publication units. And a publication unit was 500 words or one figure. And the editors did
+
+155
+00:13:33,440 --> 00:13:39,760
+ note this does of course mean we are devaluing the picture. I thought that was a very good,
+
+156
+00:13:39,760 --> 00:13:47,520
+ very good comment from him. James Shields points out in terms of series that all of the collected
+
+157
+00:13:47,520 --> 00:13:54,160
+ judge dread strips from 2000 AD are easily going to go over 240,000 words because there's about
+
+158
+00:13:54,160 --> 00:13:58,320
+ 2,400 issues. So you don't need hundreds of words and issues and obviously there's a lot more than
+
+159
+00:13:58,320 --> 00:14:03,280
+ that. So we're going to be talking about hugel nominations in a subsequent episode. But you can
+
+160
+00:14:03,280 --> 00:14:09,440
+ expect to see the collected judge dread from 2000 AD on my best series list. All right, so
+
+161
+00:14:09,440 --> 00:14:14,880
+ I need you guys to do bat john because it's not often that I'm the one that goes to the
+
+162
+00:14:14,880 --> 00:14:24,080
+ wispers constitution. I think comics are not eligible in best series. And I think
+
+163
+00:14:24,080 --> 00:14:30,800
+ the reason is 3.2.7, which provides that the categories of best novel novel, novel,
+
+164
+00:14:30,800 --> 00:14:36,080
+ short story and series shall be open to non interactive works in which text is the primary
+
+165
+00:14:36,080 --> 00:14:42,080
+ form of communication. And I think it would be argued that in a comic, the text is as important
+
+166
+00:14:42,080 --> 00:14:47,440
+ as the graphics and is therefore not primary. I think the graphics are also primary, I suppose.
+
+167
+00:14:47,440 --> 00:14:53,440
+ But I think the intent is that graphic novels are not eligible in any of the novel,
+
+168
+00:14:53,440 --> 00:14:58,720
+ novella, novella, short story and series categories. The thing is that if you roll comics
+
+169
+00:14:58,720 --> 00:15:02,320
+ religable for series, I think it also makes them eligible for short story, novella, novella,
+
+170
+00:15:02,320 --> 00:15:09,760
+ a novel opens a can of worms. So is my is my belief it must be in graphic story.
+
+171
+00:15:09,760 --> 00:15:17,280
+ Can I graphic worms? Oh, I'm going to write a massive series entirely comprised of asky art now.
+
+172
+00:15:18,800 --> 00:15:24,240
+ Well, and also like it is the sort of thing where I can see a Hugo administrator. If there was an
+
+173
+00:15:24,240 --> 00:15:30,240
+ overwhelming will of the voters, I don't know what you'd do, but it would be interesting.
+
+174
+00:15:30,240 --> 00:15:37,360
+ I feel like Hugo Messiah, Nicholas White, would let the overwhelming will of the voters have its way.
+
+175
+00:15:37,360 --> 00:15:44,000
+ Yeah, if the Hugo, Holy Ghost, Nicholas White could write in and let us know what his, oh, he can't
+
+176
+00:15:44,000 --> 00:15:52,080
+ this year because he's actually the Hugo administrator, right? I think big Hugo Banana is his official
+
+177
+00:15:52,080 --> 00:16:02,080
+ job title. So we won't be offended if the Hugo's A4B bb rocks does not write in and tell us what
+
+178
+00:16:02,080 --> 00:16:06,960
+ the skinny is here because it might be a conflict or interest. Let's say for bb rocks isn't a title
+
+179
+00:16:06,960 --> 00:16:12,160
+ is it? His title was like president of the universe or something. So if you go president of the universe,
+
+180
+00:16:12,160 --> 00:16:14,640
+ Nicholas is just this guy, you know?
+
+181
+00:16:14,640 --> 00:16:21,040
+ Oh, that means it all has to stay in. God damn it, Liz.
+
+182
+00:16:21,040 --> 00:16:36,000
+ The Beersafe Longlist Wall is out. In fact, it was out two weeks ago, but we were a little bit
+
+183
+00:16:36,000 --> 00:16:41,520
+ busy with another award having some problems. So we didn't get to it. But basically the Beersafe
+
+184
+00:16:41,520 --> 00:16:46,240
+ Longlist, I understand that there is now like a multi-stage nomination process. There's a long
+
+185
+00:16:46,240 --> 00:16:50,400
+ list in which all Beersafe members can nominate things to be on the long list. And then there's
+
+186
+00:16:50,400 --> 00:16:55,520
+ a long list and then you can vote for those things on the long list to be on the short list. And then
+
+187
+00:16:55,520 --> 00:16:59,280
+ you can vote for the short lists and all the East Commanders can also vote on the short list. So the
+
+188
+00:16:59,280 --> 00:17:04,800
+ Beersafe put out the long list, which, you know, I'm fine with this as a thing. I think there have
+
+189
+00:17:04,800 --> 00:17:08,800
+ been cases in the past where the Beersafe have not had a lot of nominations in certain categories.
+
+190
+00:17:08,800 --> 00:17:12,480
+ And so putting out kind of a long list of things people can go and check out and then
+
+191
+00:17:12,480 --> 00:17:16,800
+ nominate their favourites and then vote on the favourites seems good. But I'm pretty sure what
+
+192
+00:17:16,800 --> 00:17:21,200
+ they did is they took a big like Google Doc or something that people have been dumping their
+
+193
+00:17:21,200 --> 00:17:26,240
+ long list nominations in and then they just put it onto the internet. And I think they could have
+
+194
+00:17:26,240 --> 00:17:29,600
+ maybe done a bit of editing first because for instance there's quite a lot of errors.
+
+195
+00:17:29,600 --> 00:17:33,120
+ They probably do need to do a certain amount of eligibility checking before posting.
+
+196
+00:17:33,120 --> 00:17:37,120
+ There's quite a lot of errors in it. The things like there's quite a lot of misspelled names,
+
+197
+00:17:37,120 --> 00:17:41,200
+ which is just like it's not good for if you turn up on the long list and your name is spelled wrong.
+
+198
+00:17:41,200 --> 00:17:46,560
+ There's some things that possibly are eligible but in the wrong category. And so they could really
+
+199
+00:17:46,560 --> 00:17:50,640
+ do with being moved with all lots of people, nominate them and then you have to move them later,
+
+200
+00:17:50,640 --> 00:17:54,720
+ things like that. And something we should remember for next year, which is that the Beersafe
+
+201
+00:17:54,720 --> 00:17:59,200
+ long list in order to get things on the long list, you have to remember to read your Beersafe email
+
+202
+00:17:59,200 --> 00:18:05,840
+ at exactly the right time and then vote before the end of the year, which is really unusual for
+
+203
+00:18:05,840 --> 00:18:11,920
+ awards. Normally awards nominations happen at the beginning of the new year rather than
+
+204
+00:18:11,920 --> 00:18:17,600
+ on 31st of December because 31st of December is too early, right? Because stuff could still be
+
+205
+00:18:17,600 --> 00:18:21,280
+ being published. I've known in practice not very much as published between in the last two weeks
+
+206
+00:18:21,280 --> 00:18:25,040
+ of December but it could be and it should get its fair shout at eligibility.
+
+207
+00:18:25,040 --> 00:18:30,080
+ That is true. I think it's just kind of compressed time-wise because they've got to do all this
+
+208
+00:18:30,080 --> 00:18:35,840
+ process before the EasterCon which this year is March. Yes but they could still ask for the
+
+209
+00:18:35,840 --> 00:18:40,320
+ long list by the middle of January instead of the end of December. All right the long list is out.
+
+210
+00:18:40,320 --> 00:18:45,840
+ If you are a Beersafe member you can now go and vote and move things onto the short list. There are
+
+211
+00:18:45,840 --> 00:18:49,920
+ new categories this year. I think they generally did want to sort of split their short fiction
+
+212
+00:18:49,920 --> 00:18:54,480
+ category but I don't quite, it was not clear to me what is best short fiction and what is best
+
+213
+00:18:54,480 --> 00:19:00,720
+ short of fiction. It's not going to be. There's also a best short non-fiction category. There is still
+
+214
+00:19:00,720 --> 00:19:06,320
+ a best fiction for younger readers category which only has eight items in which means that could be
+
+215
+00:19:06,320 --> 00:19:11,600
+ literally eight people and then it goes through to a short list of five. Probably could be one person.
+
+216
+00:19:11,600 --> 00:19:15,040
+ Can I put so many things on the long list? I can't remember how many. It doesn't say there is a
+
+217
+00:19:15,040 --> 00:19:19,440
+ ton of interest in this which is unusual because there is a lot of YA out there and you know the
+
+218
+00:19:19,440 --> 00:19:24,000
+ low star is showing there is a bunch of stuff but obviously it's not quite caught on among the Beersafe
+
+219
+00:19:24,000 --> 00:19:29,600
+ members. But anyway if you are a Beersafe member go have a look, read things, nominate them.
+
+220
+00:19:29,600 --> 00:19:35,760
+ I'm wondering whether a learned person who listens to this podcast and who knows about children's
+
+221
+00:19:35,760 --> 00:19:41,680
+ literature could provide recommendations to the Beersafe voting membership about what they might
+
+222
+00:19:41,680 --> 00:19:46,480
+ want to read from a given year because I don't really have a very good view of any of this at all
+
+223
+00:19:46,480 --> 00:19:52,480
+ and so I think having that would be helpful and I'm not mentioning any names Ali.
+
+224
+00:19:52,480 --> 00:19:55,520
+ Oh so you mean someone who consistently listens to this podcast?
+
+225
+00:19:55,520 --> 00:20:04,080
+ That was the Beersafe awards. Obviously the thing you all need to vote for is all these world
+
+226
+00:20:04,080 --> 00:20:05,680
+ reviews and essays by Neil Harrison.
+
+227
+00:20:05,680 --> 00:20:20,080
+ Okay so next up on our list this week is fan funds and we have three fan funds and they are at
+
+228
+00:20:20,080 --> 00:20:27,680
+ slightly different stages of happiness. So TAF is running a race from North America to Europe
+
+229
+00:20:27,680 --> 00:20:35,840
+ to attend the Glasgow World Cup and it is happening now and you can vote online or probably buy
+
+230
+00:20:35,840 --> 00:20:42,240
+ other routes as well and there are two candidates who are Vanessa Applegate and Sarah Gilder and
+
+231
+00:20:42,240 --> 00:20:47,200
+ they are both lovely lovely people and they've put their explanations in and you should go and
+
+232
+00:20:47,200 --> 00:20:54,080
+ vote for one of them. I kind of like seeing who people's nominators are so Vanessa has been nominated
+
+233
+00:20:54,080 --> 00:21:02,240
+ by Dave O'Neill Chuck's Surface Francesca and Maimon Alyssa Wales and somebody called John
+
+234
+00:21:02,240 --> 00:21:10,400
+ Coxson. Hello there. Sarah has been nominated by Chris Garcia, Sean and McGryer, Kevin Roach,
+
+235
+00:21:10,400 --> 00:21:15,600
+ James Bacon and Johan Anglemark so I would say that is a good set of nominators on both accounts
+
+236
+00:21:15,600 --> 00:21:20,720
+ but I think we can probably say that this podcast is supporting Vanessa can we? We don't have any
+
+237
+00:21:20,720 --> 00:21:28,400
+ strong reasons not to say that. This podcast supports TAF. Yeah and you should vote for whoever
+
+238
+00:21:28,400 --> 00:21:35,280
+ you think is best listener. My nomination probably gives a clue as to which way I am leaning but go
+
+239
+00:21:35,280 --> 00:21:39,440
+ read them. They're both great people. I've worked with them both on fanish endeavors. They would both
+
+240
+00:21:39,440 --> 00:21:46,240
+ be extremely good TAF delegates. I will be voting for Vanessa in one and Sarah in two. Hopefully one
+
+241
+00:21:46,240 --> 00:21:53,200
+ of those people will be at the Worldcon. They've started an EFF race. This is the European Fan Fund
+
+242
+00:21:53,200 --> 00:22:01,120
+ which will bring a lucky European fan to the Eurocon which is in Rotterdam in mid-August this year.
+
+243
+00:22:01,120 --> 00:22:11,680
+ The candidates here are Jane Mondrop and Europenshev, Jane I think lives in Denmark and Euro comes
+
+244
+00:22:11,680 --> 00:22:17,760
+ from Bulgaria. They're both great candidates I think though in this case I do not know either
+
+245
+00:22:17,760 --> 00:22:25,280
+ of them so it's the other way around from the TAF race. I agree with Alison. And on Guff,
+
+246
+00:22:25,280 --> 00:22:32,480
+ Guff have issued a call for candidates. Guff is going to bring somebody from Australia or New
+
+247
+00:22:32,480 --> 00:22:40,560
+ Zealand or the Pacific Islands I guess that sort of area to the Glasgow Worldcon and we'll have a
+
+248
+00:22:40,560 --> 00:22:45,440
+ link to that call for nomination. So if you are in that part of the world and you would like a free
+
+249
+00:22:45,440 --> 00:22:53,040
+ trip to the UK then do not under any circumstances self-exclude. This is a great opportunity. I love
+
+250
+00:22:53,040 --> 00:23:00,080
+ doing Guff and people should get their nominations in. We like Fan Fund's a good
+
+251
+00:23:00,080 --> 00:23:12,400
+ So a committee has been formed to bring the 85th Worldcon to Montreal, Canada in 2027.
+
+252
+00:23:12,400 --> 00:23:19,840
+ Yeah it's basically looks to be many of the same people as did 2009 I think although we don't
+
+253
+00:23:19,840 --> 00:23:23,520
+ really know who they all are yet they don't have a website or they don't have a website
+
+254
+00:23:23,520 --> 00:23:27,120
+ ignore me. They do have a website it just doesn't have the names on it.
+
+255
+00:23:27,120 --> 00:23:33,040
+ All right they do have a website it's led by Terry Fong who has been involved in lots of
+
+256
+00:23:33,040 --> 00:23:38,880
+ Canadian conventions. They plan to use the same venue as 2009 which I think everyone liked.
+
+257
+00:23:38,880 --> 00:23:48,000
+ Yeah and the other bid for 2027 was Tel Aviv so yeah I mean I don't know if they just completely
+
+258
+00:23:48,000 --> 00:23:53,680
+ give up but I'm pretty sure that Montreal is going to be more popular than Tel Aviv. Tel Aviv is
+
+259
+00:23:53,680 --> 00:24:00,960
+ a more challenging venue now than it was when they first formed that bid. There is an update on the
+
+260
+00:24:00,960 --> 00:24:06,640
+ Tel Aviv bid website but do me a fairly recent one saying that all members of the committee are safe
+
+261
+00:24:06,640 --> 00:24:12,640
+ and they're devastated by the recent tax and they basically betting that things will stabilize
+
+262
+00:24:12,640 --> 00:24:17,680
+ and they will be able to continue but I don't know for how long that is going to seem plausible as
+
+263
+00:24:17,680 --> 00:24:25,120
+ you get closer to the actual 2025 boat. That's true yes. I will also say that all the Montreal
+
+264
+00:24:25,120 --> 00:24:33,600
+ in 2027 pre-sports and so ons have funny names which appeals to me so if you give them $20 you
+
+265
+00:24:33,600 --> 00:24:39,360
+ can have a nifty ribbon with lemmings you know I like that. Donation only no membership tier really
+
+266
+00:24:39,360 --> 00:24:45,200
+ you had to do this no lemon ribbon for you you get a black ribbon so there. Okay so I have just
+
+267
+00:24:45,200 --> 00:24:50,960
+ looked up on one of the tiers is named after an owl. So funny animal tiers we approve
+
+268
+00:24:50,960 --> 00:24:57,840
+ so well good good luck to them. I really enjoyed Montreal in 2009. I think we need to say
+
+269
+00:24:57,840 --> 00:25:03,760
+ Pemecon was not an unalloyed success and I think we'll probably walk to ask this bid
+
+270
+00:25:03,760 --> 00:25:09,680
+ what it's going to be doing to make sure that some of the mistakes Pemecon made are not repeated
+
+271
+00:25:09,680 --> 00:25:16,560
+ in 2027 but nevertheless I think most people would much rather see a Montreal will come
+
+272
+00:25:16,560 --> 00:25:24,720
+ than a Tel Aviv one at the moment. Yes so Montreal and Tel Aviv will be being voted on in Seattle in 2025
+
+273
+00:25:24,720 --> 00:25:30,800
+ the bid that will be being voted on in Glasgow will be the LA bid for 2026. That bid's currently
+
+274
+00:25:30,800 --> 00:25:43,120
+ unopposed we believe. We were very sorry to hear of the death of Chris Priest since we last recorded
+
+275
+00:25:43,120 --> 00:25:50,640
+ he was obviously a huge tiring force in British science fiction and really responsible for a lot
+
+276
+00:25:50,640 --> 00:25:58,880
+ of the more literary SF that was produced as in actually over his fantastic career obviously he
+
+277
+00:25:58,880 --> 00:26:04,000
+ has some success towards the end of his career with his book The Prestige was picked up by
+
+278
+00:26:04,000 --> 00:26:10,000
+ Christopher Nolan and turned into an excellent movie but but he'd been writing wonderful,
+
+279
+00:26:10,000 --> 00:26:14,720
+ challenging, thoughtful books for a very very long time. He was also one of the first science
+
+280
+00:26:14,720 --> 00:26:20,000
+ fiction authors possibly the first science fiction author of any note that I met because he came to
+
+281
+00:26:20,000 --> 00:26:28,320
+ talk to Gus Uswell I was one of the officers and in fact my flatmate my roommate and I fed him
+
+282
+00:26:28,320 --> 00:26:34,400
+ breakfast because we put him up in the college but we were the cussus was too cheap to actually
+
+283
+00:26:34,400 --> 00:26:40,000
+ stand in breakfast at the buttery so we cooked him eggs and bacon in our room which I think seems
+
+284
+00:26:40,000 --> 00:26:45,520
+ appalling to me now but was kind of just the sort of thing we did back in the 80s sorry Chris.
+
+285
+00:26:45,520 --> 00:26:50,160
+ For those who are unaware Cussus is the Cambridge Science Fiction Society.
+
+286
+00:26:50,160 --> 00:26:55,600
+ Cussus Cambridge University Science Fiction Society. I mean whenever John was talking about
+
+287
+00:26:55,600 --> 00:27:00,960
+ Imperial and how they were perhaps not the most organized I cast my mind back to some terrible
+
+288
+00:27:00,960 --> 00:27:06,720
+ things that we did when we were students. Oh I mean my my opinion of that came from the same
+
+289
+00:27:06,720 --> 00:27:12,400
+ when I was a student involved in my student societies like I am not expecting I guess that's
+
+290
+00:27:12,400 --> 00:27:16,480
+ that's where all that comes from is like I know what I was like and I am not expecting
+
+291
+00:27:16,480 --> 00:27:20,000
+ the students of today to be any better than I was.
+
+292
+00:27:21,760 --> 00:27:28,880
+ No I never met Chris Priest but I did see him on panels at Novacom 50 and at the most recent
+
+293
+00:27:28,880 --> 00:27:34,160
+ satellite convention where he was against the Waller and he was witty and erudite and incredibly
+
+294
+00:27:34,160 --> 00:27:39,840
+ grumpy and he was very good to listen to on panels for that reason. Yes I mean he wrote you know a
+
+295
+00:27:39,840 --> 00:27:46,160
+ whole range of really really good novels I think the time I came into fandom was about the time
+
+296
+00:27:46,160 --> 00:27:50,400
+ that like everyone was talking about the separation well we'd run the Beers of Fey award and then
+
+297
+00:27:50,400 --> 00:27:53,840
+ won the clock award it's about the time I was like to pay attention to the clock award I think and
+
+298
+00:27:53,840 --> 00:27:57,920
+ then I read a lot of his subsequent books filled in a lot of the backstory. The Prestige is a great
+
+299
+00:27:57,920 --> 00:28:03,600
+ novel as well as being turned into a great film the glamour the information in the inverted world
+
+300
+00:28:03,600 --> 00:28:07,040
+ this feels completely different to all the rest of them but it's great. He wrote some really really
+
+301
+00:28:07,040 --> 00:28:12,400
+ good stuff and he was also very intensive and I think he had a reputation for being grumpy maybe
+
+302
+00:28:12,400 --> 00:28:19,280
+ because he was on panels and he was famously very grumpy about the clock award one year. The Glasgow
+
+303
+00:28:19,280 --> 00:28:25,680
+ Worldcon also linked to. Was that the year he wasn't nominated? I think that is a bit harsh but yeah he
+
+304
+00:28:25,680 --> 00:28:31,360
+ was very commercially about it and he also was on panels and so when I had occasion to email him
+
+305
+00:28:31,360 --> 00:28:35,680
+ for convention stuff I was always a bit worried that he was going to be really really grumpy and
+
+306
+00:28:35,680 --> 00:28:42,000
+ he was very nice I think it was very much a this is this is the way he exists and he was
+
+307
+00:28:42,000 --> 00:28:46,720
+ homogeny about the clock award but I think because he genuinely did want to see really great stuff
+
+308
+00:28:46,720 --> 00:28:51,520
+ nominated for the club award and he felt that that year it was not. I am going to quote from
+
+309
+00:28:51,520 --> 00:28:58,240
+ the Guardian's article on on Christopher Priest's rant. "The judges should be fired or forced to
+
+310
+00:28:58,240 --> 00:29:04,720
+ resign," says Priest and the 2012 awards suspended. If his quote, Moss's suggestion is taken up he says
+
+311
+00:29:04,720 --> 00:29:09,760
+ and enough people believe the proposal was made in his own interest he would then withdraw his own
+
+312
+00:29:09,760 --> 00:29:16,400
+ novel The Islanders from the running. "That was 11 years ago, good god, 12 years ago."
+
+313
+00:29:16,400 --> 00:29:24,320
+ Absolute Titan of the genre will be sorely sorely missed. The Glasgow Worldcon linked to his 2005
+
+314
+00:29:24,320 --> 00:29:29,120
+ guest of honor speech a Worldcon which I don't think I don't think I went to that or I missed or
+
+315
+00:29:29,120 --> 00:29:34,720
+ I haven't remembered but it is it is quite funny because you know what you're going to say about how
+
+316
+00:29:34,720 --> 00:29:37,920
+ you know the guest of honor and riches Easter Convention gave his speech of mind-knowing
+
+317
+00:29:37,920 --> 00:29:42,880
+ tediousness and to polite to name him and then like you know to progress later ex-only names
+
+318
+00:29:42,880 --> 00:29:49,040
+ was Larry Niven and it goes on like that. We're really sad he was one of the possibly the greatest
+
+319
+00:29:49,040 --> 00:29:53,040
+ British science fiction author and we miss him and it's a shame.
+
+320
+00:29:53,040 --> 00:30:05,360
+ Yeah so for listeners who are unaware the Hugos are a popularly voted award that's given out by a
+
+321
+00:30:05,360 --> 00:30:11,680
+ convention called the Worldcon. So we're going to start with the trademark kerfuffle. There was
+
+322
+00:30:11,680 --> 00:30:17,360
+ a Twitch stream in which Mike Dunford and Will Frank both of whom are lawyers who specialise in
+
+323
+00:30:17,360 --> 00:30:22,560
+ sort of intellectual property and trademarks talk about Hugo Awards due to a thing that happened
+
+324
+00:30:22,560 --> 00:30:28,080
+ on the internet. It's related to but slightly separate from the stuff we discussed last
+
+325
+00:30:28,080 --> 00:30:34,960
+ episode about Chengdu but it is related to the pickup I put in last episode about Kevin Stanley
+
+326
+00:30:34,960 --> 00:30:41,600
+ being reprimanded. Effectively Kevin Stanley said at great length on a variety of social media platforms
+
+327
+00:30:41,600 --> 00:30:50,240
+ that there's no way for the mark protection committee to enforce any rules on the Worldcon
+
+328
+00:30:50,240 --> 00:30:57,360
+ who is administering the Hugo Awards. There is a problem when you say that in US trademark law
+
+329
+00:30:57,360 --> 00:31:03,920
+ and the analogy given in the stream basically goes something like this. We will link to the full
+
+330
+00:31:03,920 --> 00:31:08,000
+ stream if you want more details because I am not a trademark lawyer. This is my understanding
+
+331
+00:31:08,000 --> 00:31:13,360
+ of what a trademark lawyer said. So basically if you go to McDonald's you are expecting a certain
+
+332
+00:31:13,360 --> 00:31:19,360
+ level of service and your personal opinions listener about McDonald's not withstanding.
+
+333
+00:31:19,360 --> 00:31:24,880
+ So if you go into McDonald's and you order a big Mac you can expect a certain thing to be given to
+
+334
+00:31:24,880 --> 00:31:29,840
+ you and the thing the trademark basically warrants is that the thing you get is the thing you expect
+
+335
+00:31:29,840 --> 00:31:35,440
+ to get and so the trademark effectively is to do with your perception of the business and the
+
+336
+00:31:35,440 --> 00:31:42,560
+ standard of the service the business will provide to you. The problem is that that mechanism requires
+
+337
+00:31:42,560 --> 00:31:48,640
+ the company that controls the trademark to be able to take the trademark away if the quality of the
+
+338
+00:31:48,640 --> 00:31:55,120
+ service rendered is subpar and if the owner of the trademark publicly says repeatedly that they
+
+339
+00:31:55,120 --> 00:32:01,360
+ have no mechanism with which to do that they invalidate their trademarks under US trademark law because
+
+340
+00:32:01,360 --> 00:32:08,480
+ that is a key part of US trademark law and so by saying all of this Kevin might have inadvertently
+
+341
+00:32:08,480 --> 00:32:16,160
+ opened the Hugo's up to legal challenges. The reason that's the case is because if you do something
+
+342
+00:32:16,160 --> 00:32:23,440
+ that you suspect might get you sued in the US you can sue first. So you can basically sue to say
+
+343
+00:32:23,440 --> 00:32:28,960
+ we think we might get sued and we want to sue to establish that the thing we are doing we can't be
+
+344
+00:32:28,960 --> 00:32:35,120
+ sued for and so if someone starts awarding a Hugo award they could sue Worldcon Intellectual
+
+345
+00:32:35,120 --> 00:32:40,640
+ Property Inc preemptively basically saying we think you might sue us but you don't have standing to
+
+346
+00:32:40,640 --> 00:32:45,120
+ sue us so we can sue you first. Basically if someone does start awarding Hugo awards they could
+
+347
+00:32:45,120 --> 00:32:50,720
+ preemptively sue and then win a case that says we can award our own Hugo awards because the trademark
+
+348
+00:32:50,720 --> 00:32:56,240
+ is null. That is my understanding of the Twitch Street. Liz do you have any things that you think
+
+349
+00:32:56,240 --> 00:33:01,760
+ I have misrepresented or got wrong in my capacity as definitely not a lawyer? No because I would say
+
+350
+00:33:01,760 --> 00:33:07,440
+ I am also definitely not a lawyer. I didn't finish the entire stream but that does appear to be the
+
+351
+00:33:07,440 --> 00:33:12,160
+ gist is that like there are multiple things involved in having service marks or trademarks and there's
+
+352
+00:33:12,160 --> 00:33:17,360
+ lots of bits I wasn't aware of that you kind of should be doing. I would also say that like I've
+
+353
+00:33:17,360 --> 00:33:22,960
+ followed Mike Dunford on Twitter, Blue Sky, whatever for a while and so you know I think a good goal
+
+354
+00:33:22,960 --> 00:33:28,480
+ even life is to not do something which is legally so deaf that Mike Dunford does a whole streetly
+
+355
+00:33:28,480 --> 00:33:34,880
+ bank. Is that a good rule of thumb? Alright Alison do you have any penetrating and
+
+356
+00:33:34,880 --> 00:33:40,080
+ incisive questions? I have a couple of not necessarily penetrating and incisive comments
+
+357
+00:33:40,080 --> 00:33:46,800
+ the first is I am not a lawyer but my actual day job involves working very closely with
+
+358
+00:33:46,800 --> 00:33:52,160
+ detail of American trade bar copyright law all of the time they are not the same thing but this
+
+359
+00:33:52,160 --> 00:33:58,160
+ one in this case we're talking about trademarks not copyright but yes I think my understanding is
+
+360
+00:33:58,160 --> 00:34:05,200
+ that you are completely that is a completely correct summation of my understanding of the US
+
+361
+00:34:05,200 --> 00:34:11,680
+ position as it as it is operated so if you have it seems likely that you have therefore represented
+
+362
+00:34:11,680 --> 00:34:17,360
+ the stream correctly rather than that they said it wrong and then you inadvertently said it right
+
+363
+00:34:17,360 --> 00:34:23,680
+ afterwards you know but my second point is that I just wanted to say when you were talking about
+
+364
+00:34:23,680 --> 00:34:29,280
+ the big back because you know when you go to a harvester you know what you're going to get you're
+
+365
+00:34:29,280 --> 00:34:34,480
+ never disappointed at a harvester and you're both looking at me completely blankly so I don't
+
+366
+00:34:34,480 --> 00:34:38,960
+ think I've ever been to a harvester I don't know if Liz has ever been to a harvester no this is a
+
+367
+00:34:38,960 --> 00:34:44,800
+ joke about Greg Wallace have you heard Greg Wallace has been in the news no it's a popular
+
+368
+00:34:44,800 --> 00:34:51,440
+ culture reference melod I'm sorry it's also worth noting I don't know if I know it's noted this in
+
+369
+00:34:51,440 --> 00:34:59,760
+ my big old diatribe about trademarks Will Frank who was on the stream was the vice Hugo administrator
+
+370
+00:34:59,760 --> 00:35:05,440
+ under Dave McCarty as Hugo administrator on a previous Worldcon and he does have some
+
+371
+00:35:06,160 --> 00:35:12,320
+ choice words to say about Dave so like I don't necessarily want to get into that again but like
+
+372
+00:35:12,320 --> 00:35:16,320
+ if you if you want to listen to someone saying things about Dave McCarty then you can go and do
+
+373
+00:35:16,320 --> 00:35:22,080
+ that that is why Kevin was reprimanded the statement from Worldcon intellectual property which we
+
+374
+00:35:22,080 --> 00:35:27,360
+ linked last episode said in the description why he had been reprimanded because he had
+
+375
+00:35:27,360 --> 00:35:31,600
+ inaccurately made statements causing people to believe we are not properly servicing our marks
+
+376
+00:35:31,600 --> 00:35:36,480
+ or something to that effect that's not a direct quote whereas the others were all censured because
+
+377
+00:35:36,480 --> 00:35:43,840
+ of the cover for we discussed on the last episode there was a great description on file 770 of the
+
+378
+00:35:43,840 --> 00:35:51,680
+ difference between being censured and reprimanded where they kind of had a series of so they had a
+
+379
+00:35:51,680 --> 00:35:58,560
+ set of rebukes all the way from a slightly strange look to to immediate execution
+
+380
+00:35:59,920 --> 00:36:05,200
+ we will put the link in the show notes listeners so if you're still watching the hugos after all
+
+381
+00:36:05,200 --> 00:36:10,080
+ of this and interested in what Dave McCarty's thought processes were while going through all
+
+382
+00:36:10,080 --> 00:36:17,120
+ of this Chris Barkley sat down with him at Capricorn and did an coddling interview about 40 minutes
+
+383
+00:36:17,120 --> 00:36:24,320
+ and has put the entire thing unedited on the internet and it is one of those cases I believe
+
+384
+00:36:24,320 --> 00:36:29,760
+ where people believe that by giving being given a chance to tell an unvarnished their side of the
+
+385
+00:36:29,760 --> 00:36:34,240
+ story things will improve for them and I'm not sure this is the case what is your impression
+
+386
+00:36:34,240 --> 00:36:40,880
+ John and Liz why would you ever do this interview why it does seem very strange it doesn't I've not
+
+387
+00:36:40,880 --> 00:36:47,200
+ I for this closure I did not listen to it I am I am I'm bad I did not do my homework um but I just
+
+388
+00:36:47,200 --> 00:36:52,160
+ don't I have not seen anyone say anything about this interview that basically think it was a wise
+
+389
+00:36:52,160 --> 00:36:59,440
+ thing to give this interview and it is it's fanny is fanny's take on it was basically like she always
+
+390
+00:36:59,440 --> 00:37:04,320
+ thought that Dave had a lot of contempt for fans but a lot of respect for the institutions of fandom
+
+391
+00:37:04,320 --> 00:37:08,800
+ and it just made her think that actually he has contempt for everything except Dave McCarty
+
+392
+00:37:08,800 --> 00:37:13,520
+ arrogant, haute and insolent we will put a link in the show notes listeners if you want your blood
+
+393
+00:37:13,520 --> 00:37:18,400
+ pressure to rise yeah so I just want to put a couple of things which is you know Dave says there
+
+394
+00:37:18,400 --> 00:37:22,720
+ are two mistakes of substance in the stats that are currently published and it's like why didn't
+
+395
+00:37:22,720 --> 00:37:27,440
+ you check for this stuff and you know he goes on and talks about how like the SQL queuing from the
+
+396
+00:37:27,440 --> 00:37:31,520
+ data in the ballot counts has a flaw and it's wrong and there's some bits that are wrong and I'm like
+
+397
+00:37:31,520 --> 00:37:36,400
+ what did you spend 90 days doing and also I think I mean a lot of his stuff about how he talks about
+
+398
+00:37:36,400 --> 00:37:42,480
+ how he feels he was delivering what they wanted to have in China is very like sort of paternalistic
+
+399
+00:37:42,480 --> 00:37:47,280
+ like I felt I was living what they would want in China it doesn't sound like it sounds a bit more
+
+400
+00:37:47,280 --> 00:37:52,560
+ like kind of Dave saying this is what I my impression of what China would want is and I delivered it
+
+401
+00:37:52,560 --> 00:37:58,160
+ rather than what the Chinese fans actually wanted yeah but I think that's Dave covering up for his
+
+402
+00:37:58,160 --> 00:38:02,720
+ Chinese people that he doesn't want to implicate isn't it it's difficult because we don't know
+
+403
+00:38:02,720 --> 00:38:06,720
+ it could be but there's a lot of very sweeping reactions about how you know their culture is
+
+404
+00:38:06,720 --> 00:38:11,600
+ different this this is like not what the Chinese spirit is and I mean I know we generalize it
+
+405
+00:38:11,600 --> 00:38:17,200
+ sometimes but it is kind of a very a lot of generalizations about like what China is and
+
+406
+00:38:17,200 --> 00:38:22,000
+ and allows from yeah an external perspective it's a bit weird but then we don't have any
+
+407
+00:38:22,000 --> 00:38:26,080
+ interviews with the other bits of the administration team because all the other bits of the Hugo
+
+408
+00:38:26,080 --> 00:38:30,000
+ administration and World Concomity are very very quiet so I guess we just have to take what Dave
+
+409
+00:38:30,000 --> 00:38:39,680
+ gives us on the subject of Chinese interference there is a post from Chinese social media which
+
+410
+00:38:39,680 --> 00:38:48,880
+ has been translated which some people are interpreting as a smoking gun for state interference in the
+
+411
+00:38:48,880 --> 00:38:59,040
+ Hugo's we'll put a link in the show notes my view of this is that I can see why people are saying
+
+412
+00:38:59,040 --> 00:39:05,600
+ this is a smoking gun but it does not contain the word Hugo nor the word award it talks about Cheng
+
+413
+00:39:05,600 --> 00:39:11,920
+ do in a way that you could read it to mean that there was involvement in the Cheng do program
+
+414
+00:39:11,920 --> 00:39:16,320
+ or you could read it to mean there was involvement in the Cheng do awards but it doesn't it's not
+
+415
+00:39:16,320 --> 00:39:20,560
+ specific enough we will put links in the show notes you can form your own opinions listeners
+
+416
+00:39:20,560 --> 00:39:32,400
+ uh Tammy Coxin wrote some thoughts a few weeks ago on Facebook about the Hugo kerfuffle and one
+
+417
+00:39:32,400 --> 00:39:36,320
+ of the things she said was none of this matters because the World Concom will almost certainly be
+
+418
+00:39:36,320 --> 00:39:40,880
+ defunct within 10 years there are almost no viable bids for future years and a serious lack of
+
+419
+00:39:40,880 --> 00:39:48,480
+ World Concom running energy I'm going to say two things here which is firstly I am tired of American
+
+420
+00:39:48,480 --> 00:39:52,560
+ fans saying the World Concom is dying when we have just had a decade with the most international
+
+421
+00:39:52,560 --> 00:39:57,040
+ World Concomies we've ever had and there seems to be more interest in the thing worldwide than there
+
+422
+00:39:57,040 --> 00:40:03,760
+ has ever been at any point in its history secondly there is a large amount of the way World
+
+423
+00:40:03,760 --> 00:40:08,160
+ Concomies are run to do with the worst business meeting at Roberts rules of order and all of that
+
+424
+00:40:08,160 --> 00:40:13,680
+ that mean people who try to go along and do things with the World Conc end up being severely
+
+425
+00:40:13,680 --> 00:40:20,960
+ rebutted by people who are very big fans of those structures and that puts people off and if you
+
+426
+00:40:20,960 --> 00:40:27,760
+ are a part of that structure then you are part of the reason why people do not want to engage with
+
+427
+00:40:27,760 --> 00:40:33,040
+ the Worldcon and volunteering for it because there are massive fan run conventions all over the world
+
+428
+00:40:33,040 --> 00:40:38,240
+ so it's not true that they're dying more generally and if there is a specific problem to Worldcon
+
+429
+00:40:38,240 --> 00:40:41,920
+ we should be thinking about why and we should be addressing that as I just want to it's a very
+
+430
+00:40:41,920 --> 00:40:48,320
+ quick but I feel very strongly about both of those and I think I want to give a shout out to Glasgow
+
+431
+00:40:48,320 --> 00:40:52,880
+ they obviously have six months to go six months to go oh my god that's not long but they have six
+
+432
+00:40:52,880 --> 00:40:58,960
+ months to go but they have a huge team of engaged and enthusiastic volunteers many of whom have never
+
+433
+00:40:58,960 --> 00:41:04,880
+ worked on a Worldcon before and I'm sure that at least some of those people will still be enthusiastic
+
+434
+00:41:04,880 --> 00:41:09,040
+ after the convention you know there's no reason why they shouldn't be and and this is the key to
+
+435
+00:41:09,040 --> 00:41:15,520
+ having more enthusiastic Worldcon runners going forward is get people in get them working get them
+
+436
+00:41:15,520 --> 00:41:20,720
+ engaged and get them happy with what they get to do and also don't mess them around
+
+437
+00:41:20,720 --> 00:41:26,720
+ another way we could involve more people in the Worldcon and make them feel more involved in it
+
+438
+00:41:26,720 --> 00:41:31,840
+ is by not doing things like sneakily introducing amendments that prevent online voting
+
+439
+00:41:31,840 --> 00:41:37,600
+ while other people are out of the room Dave oh who did that can you remind me who was the person who
+
+440
+00:41:37,600 --> 00:41:43,520
+ introduced that amendment I do feel a little bit sad that we haven't heard anything from kind of
+
+441
+00:41:43,520 --> 00:41:48,320
+ Finnish fandom about any repeat Finland bits just because I really liked Finland and would like to
+
+442
+00:41:48,320 --> 00:41:52,480
+ go back and I do feel maybe we have burnt out all the Finnish fans with one Worldcon which would be
+
+443
+00:41:52,480 --> 00:41:57,360
+ a shame but you know they don't have to do one every very often maybe in 15 years they'll come back
+
+444
+00:41:57,360 --> 00:42:03,360
+ and do normal I think doing one more than every decade would be foolish and so 2027 would have been
+
+445
+00:42:03,360 --> 00:42:08,400
+ the earliest I would have expected a resurgent like Finnish bit so we will see it might be that
+
+446
+00:42:08,400 --> 00:42:14,080
+ there's a 28 or 29 bit but we'll see we've currently got a pattern where the UK is doing one every
+
+447
+00:42:14,080 --> 00:42:19,760
+ 10 years and Ireland is doing one every 10 years and I feel like that's probably the absolute
+
+448
+00:42:19,760 --> 00:42:24,400
+ tippy top of what those two countries can manage but yes we're going to talk about all of this in
+
+449
+00:42:24,400 --> 00:42:29,760
+ more detail later but we didn't cover it last episode and I feel strongly that there are issues
+
+450
+00:42:29,760 --> 00:42:34,320
+ here which are going undiscussed which I think are important
+
+451
+00:42:35,200 --> 00:42:39,200
+ [Music]
+
+452
+00:42:39,200 --> 00:42:47,680
+ Liz do you pick what pick you I've forgot about picks to be honest um
+
+453
+00:42:47,680 --> 00:42:52,400
+ you've read three million books so you can definitely pick one of them
+
+454
+00:42:52,400 --> 00:42:54,960
+ I know but I've got to go remember what I read
+
+455
+00:42:54,960 --> 00:43:00,640
+ plus some of them were a lot of them were for like Hugo nomination purposes right
+
+456
+00:43:00,640 --> 00:43:05,680
+ I am going to pick a book which was eligible for Hugo last year and I'm so sorry for the author
+
+457
+00:43:05,680 --> 00:43:13,920
+ that I took too long to read it okay so I am going to pick a pair of books well I'm going to
+
+458
+00:43:13,920 --> 00:43:19,520
+ pick a book but it has homework which is slightly irritating I'm going to pick How to Find Zodiac
+
+459
+00:43:19,520 --> 00:43:24,960
+ by Jarek Kobach which is a sequel to his book Motor Spirit the long hunt for the Zodiac
+
+460
+00:43:25,920 --> 00:43:33,760
+ these are books about the Zodiac serial killer who killed at least five people in the 60s and 70s
+
+461
+00:43:33,760 --> 00:43:39,040
+ in San Francisco and the boy debate area. Motor Spirit basically sums up what we know about the
+
+462
+00:43:39,040 --> 00:43:44,400
+ Zodiac and does quite a lot of very good work if you've seen David Finch's for excellent film
+
+463
+00:43:44,400 --> 00:43:49,520
+ Zodiac starring Mark Ruffalo and Robert Downey Jr in Amazing Roles Before They Were in Marvel
+
+464
+00:43:49,520 --> 00:43:55,440
+ which is a great film which I love the book does an awful lot to unpick why the conclusions the
+
+465
+00:43:55,440 --> 00:44:02,640
+ film draws you to are probably not actually worth the celluloid they're printed on so it's a good
+
+466
+00:44:02,640 --> 00:44:08,160
+ film that doesn't tell you much about the murders. How to Find Zodiac is a work of fan history about
+
+467
+00:44:08,160 --> 00:44:14,960
+ a fanzine fan called Paul Duh who lived in Vallejo California at the time of the murders and it is
+
+468
+00:44:14,960 --> 00:44:20,880
+ absolutely fascinating because the book basically starts with Jarek Kobach Zodiac made a lot of
+
+469
+00:44:20,880 --> 00:44:27,520
+ very obscure pop culture references to comics and books of the day. Kobach said that he thought
+
+470
+00:44:27,520 --> 00:44:32,240
+ one of Zodiac's kind of ticks in his letters was probably a pop culture reference that no one had
+
+471
+00:44:32,240 --> 00:44:37,040
+ been able to find yet and he expressed this suspicion to a friend and the friend said it seems like
+
+472
+00:44:37,040 --> 00:44:42,880
+ the sort of shit you'd read in fanzines and that sent Kobach down a rabbit hole and there was a
+
+473
+00:44:42,880 --> 00:44:49,680
+ rabbit at the bottom of its spoiler yes so basically long story short Kobach starts out he finds a
+
+474
+00:44:49,680 --> 00:44:54,880
+ fanzine fan who lived in Vallejo at the time and he starts trying to exclude that person and
+
+475
+00:44:54,880 --> 00:44:59,040
+ basically on the basis that he's probably not a zodiac every other suspect is not being zodiac it
+
+476
+00:44:59,040 --> 00:45:03,280
+ will be possible to exclude this person and the more he finds the more he's like oh no this doesn't
+
+477
+00:45:03,280 --> 00:45:10,320
+ exclude him and at the end of the the search he's like ah there's nothing that excludes this person
+
+478
+00:45:10,320 --> 00:45:16,560
+ and in fact there's quite a lot that points to him. Now this is a decades old case and like it is
+
+479
+00:45:16,560 --> 00:45:21,360
+ not necessarily likely that this person is is the zodiac but it's very interesting walk through
+
+480
+00:45:21,360 --> 00:45:27,600
+ fan history and investigative journalism but it also has one key thing which is zodiac left his
+
+481
+00:45:27,600 --> 00:45:32,160
+ fingerprints at the one of his crime scenes and this person served in the US military and their
+
+482
+00:45:32,160 --> 00:45:36,960
+ fingerprints are on file so at the point that anyone decides they want to know for sure whether
+
+483
+00:45:36,960 --> 00:45:41,520
+ this theory is true it will be possible to check because the relevant law enforcement agencies if
+
+484
+00:45:41,520 --> 00:45:48,160
+ they want to will be able to tell so it is at least a theory that can be firmly true-false which I
+
+485
+00:45:48,160 --> 00:45:53,040
+ like but it's very interesting even if it's wrong. The detail I most liked and this might be a little
+
+486
+00:45:53,040 --> 00:46:00,720
+ bit of a spoiler for the book is that at some point Kovacs turns up on Dua's x-yves door step
+
+487
+00:46:00,720 --> 00:46:04,480
+ and says so I've been looking at this thing and she was like oh I've been wondering when do you
+
+488
+00:46:04,480 --> 00:46:10,000
+ guys turn up. I will say the writing style is idiosyncratic and although I find the content of
+
+489
+00:46:10,000 --> 00:46:14,880
+ the books very interesting I wish they were differently written is probably the kind of
+
+490
+00:46:14,880 --> 00:46:19,440
+ just way to say it but it's clear a lot of workers gone into them who wants to pick next.
+
+491
+00:46:19,440 --> 00:46:26,400
+ After a pick I am going to pick a book which is not really genre it's got some you know tiny
+
+492
+00:46:26,400 --> 00:46:32,160
+ bits of sort of genre Jason stuff in there but it is mostly a kind of mainstream historical fiction
+
+493
+00:46:32,160 --> 00:46:38,480
+ it is called Northwoods by Daniel Mason which is basically a story about a house in the woods
+
+494
+00:46:39,280 --> 00:46:44,080
+ over time and all the people who live in that house in the woods over time or come to find that
+
+495
+00:46:44,080 --> 00:46:50,080
+ house in the woods and each bit is kind of written in a slightly different style about a
+
+496
+00:46:50,080 --> 00:46:56,320
+ slightly different set of people you know some very mundane some very exciting and it's also kind
+
+497
+00:46:56,320 --> 00:47:01,680
+ of about the nature of that you know it follows the nature as it evolves around the house the trees
+
+498
+00:47:01,680 --> 00:47:07,600
+ the animals what is there in the woods and how it changes over time and it's just kind of very
+
+499
+00:47:07,600 --> 00:47:13,040
+ engrossing story about it I got nominated for lots of awards and things so yeah that was it
+
+500
+00:47:13,040 --> 00:47:18,880
+ that's my whole thing the Guardian said it is an epic of American lives yeah he's fair enough
+
+501
+00:47:18,880 --> 00:47:24,080
+ which travels to the limits of what the novel can do no it doesn't really it's quite good
+
+502
+00:47:24,080 --> 00:47:29,920
+ it does sound interesting though I mean unless you think it's you know having lots of kind of
+
+503
+00:47:29,920 --> 00:47:33,520
+ interlinked short stories that form a novel is pushing the boundaries of the novel which I do
+
+504
+00:47:33,520 --> 00:47:40,400
+ not think is correct but you know not in science fiction well probably fantasy I've read um
+
+505
+00:47:40,400 --> 00:47:46,960
+ what's name that one book Wirgan Wirgan the alien love war was that it that was a good book
+
+506
+00:47:46,960 --> 00:47:54,720
+ oh Liz that was one of the better clerks that year I thought but yes um interlinked stories is a
+
+507
+00:47:54,720 --> 00:48:01,280
+ very classic form of the genre it's very much a way that novels can be my pick this week is because
+
+508
+00:48:01,280 --> 00:48:06,080
+ last week I did a print and play game as my pick and it went down really well I decided to do a
+
+509
+00:48:06,080 --> 00:48:12,320
+ different one this week I promise my next three picks will not be print and play games lies I did
+
+510
+00:48:12,320 --> 00:48:16,240
+ this one I thought well this is a very interesting game and it's also the sort of game that might be
+
+511
+00:48:16,240 --> 00:48:21,600
+ very interesting to our listenership and here's why this is a game called fantasy map maker that
+
+512
+00:48:21,600 --> 00:48:26,800
+ was designed by Harry Metcalfe and was an entry in one of the board game geeks contest last year
+
+513
+00:48:26,800 --> 00:48:32,000
+ it's got a little bit of a build so it uses cards but you can get around the need for cards because
+
+514
+00:48:32,000 --> 00:48:37,360
+ they're only used to roll quests at the beginning of the game and so you can um you can either roll
+
+515
+00:48:37,360 --> 00:48:43,440
+ them on a chart or you can use pre-printed sheets that have your quest pre-rolled the point about
+
+516
+00:48:43,440 --> 00:48:48,720
+ it is this is a roll and write game which is a game where you roll dice and then draw things on
+
+517
+00:48:48,720 --> 00:48:54,880
+ on your or your game sheet but in this case your game sheet is a blank fantasy map and you draw bits
+
+518
+00:48:54,880 --> 00:49:00,560
+ of your fantasy map onto the game and then you have quests which you get points for fulfilling so
+
+519
+00:49:00,560 --> 00:49:04,640
+ it's actually got quite a satisfying game in there because you have to score a certain number of
+
+520
+00:49:04,640 --> 00:49:09,680
+ points to win and this this appeals to my the gamer in me and it also makes you think oh if I put an
+
+521
+00:49:09,680 --> 00:49:13,840
+ island there I might be able to put a lighthouse on it afterwards for the big points on things like
+
+522
+00:49:13,840 --> 00:49:20,640
+ that and you end up with an actual map that you can frame or paste into your journal or use for
+
+523
+00:49:20,640 --> 00:49:27,360
+ your role-playing game or your or your novel situation and in fact I ended up with two castles
+
+524
+00:49:27,360 --> 00:49:30,880
+ in a very small space and I was like well why would that be and I created an entire backstory
+
+525
+00:49:30,880 --> 00:49:35,840
+ about two warring um civilizations who both built castles in the space and I was like oh you could
+
+526
+00:49:35,840 --> 00:49:40,240
+ you could actually spin an entire novel out of this so it clearly works not what I'm going to
+
+527
+00:49:40,240 --> 00:49:45,120
+ but I thought it was great and I thought it might be of interest to people in our listeners who do
+
+528
+00:49:45,120 --> 00:49:50,400
+ that's who who do things that require maps it's just a fantasy mapmaker at the moment so I guess
+
+529
+00:49:50,400 --> 00:49:54,800
+ there's a he could easily expand this to be a science fiction mapmaker or a steampunk mapmaker
+
+530
+00:49:54,800 --> 00:50:00,640
+ or a horror mapmaker or any sort of mapmaker you might like but it was very good really enjoyed it
+
+531
+00:50:00,640 --> 00:50:04,880
+ and there will be a link in the show notes and of course it's free because yeah I mean it's free
+
+532
+00:50:04,880 --> 00:50:09,200
+ until somebody decides that it's worth publishing which I think we probably probably somebody will
+
+533
+00:50:09,200 --> 00:50:13,600
+ decide this is worth publishing because it's pretty good this is a sort of thing where it might well
+
+534
+00:50:13,600 --> 00:50:20,960
+ be very useful for role playing games I will say like like how easy would it be to do other genres
+
+535
+00:50:20,960 --> 00:50:26,560
+ in this game um yeah harry says he's about to make an announcement on this game so there's a chance
+
+536
+00:50:26,560 --> 00:50:32,640
+ that that all will become clear but I think he is thinking about expansions but if he decides not
+
+537
+00:50:32,640 --> 00:50:38,800
+ to think about expansions what the role and writers do or what the printed play gaming fans do is a
+
+538
+00:50:38,800 --> 00:50:43,760
+ thing called re-themes where they take a game that is good but is not necessarily in the genre
+
+539
+00:50:43,760 --> 00:50:47,600
+ they like and they remake it in the genre the genre they like that would be pretty simple to do I
+
+540
+00:50:47,600 --> 00:50:54,160
+ think oh and also this this pick is a absolutely transparent excuse for me to stick my art in the
+
+541
+00:50:54,160 --> 00:51:00,400
+ chapter art i.e my finished map from my playthrough of this that would be good okay that was the
+
+542
+00:51:00,400 --> 00:51:19,360
+ octa thought podcast and it's goodbye from me and it's goodbye from me is goodbye from me
+
+543
+00:51:27,440 --> 00:51:33,920
+ i mean obviously the greatest idiocy of it was the um the testament of Jesse Lambie embassy town
+
+544
+00:51:33,920 --> 00:51:38,720
+ have you guys both read embassy town yes i have not read embassy town and the testament of Jesse
+
+545
+00:51:38,720 --> 00:51:43,760
+ Lamb i'd have to go back and reread them but i think you're right that like from the vantage
+
+546
+00:51:43,760 --> 00:51:47,200
+ point of 12 years i've probably picked embassy town over the testament of Jesse Lamb i'm going to
+
+547
+00:51:47,200 --> 00:51:52,960
+ pick either them over all the other three so oh yeah yeah that's fair i've read hole 0 3 like i would
+
+548
+00:51:52,960 --> 00:52:00,000
+ describe it as fine i have a bias towards works of science fiction which talk about how alien aliens
+
+549
+00:52:00,000 --> 00:52:04,880
+ are and how difficult language is and embassy town does boast those and it does it better than
+
+550
+00:52:04,880 --> 00:52:10,320
+ possibly any other work science fiction except for perhaps a rival and like i can't think of any
+
+551
+00:52:10,320 --> 00:52:16,880
+ others that do it better so like i adore that book but i am biased the theme music for this
+
+552
+00:52:16,880 --> 00:52:23,200
+ episode was fanfare for space by kevin mccloud in compactec.com used under a creative commons
+
+553
+00:52:23,200 --> 00:52:28,720
+ attribution 4.0 license this podcast will end at the beep beep
+
+554
+00:52:28,720 --> 00:52:38,720
+ [BLANK_AUDIO]
+
