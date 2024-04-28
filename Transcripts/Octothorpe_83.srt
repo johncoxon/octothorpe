@@ -1,10 +1,10 @@
 1
 00:00:00,000 --> 00:00:03,160
- I keep clicking the stop video button when I click back to zoom.
+ John: I keep clicking the "Stop Video" button when I click back to Zoom.
 
 2
 00:00:03,160 --> 00:00:04,160
- What?
+ Liz: What?
 
 3
 00:00:04,160 --> 00:00:06,120
@@ -16,23 +16,23 @@
 
 5
 00:00:08,400 --> 00:00:11,040
- I can't believe you said that Liz.
+ John: I can't believe you said that Liz.
 
 6
 00:00:11,040 --> 00:00:14,520
- Okay, that was a bit of a visual joke.
+ Alison: Okay, that was a bit of a visual joke.
 
 7
 00:00:14,520 --> 00:00:29,320
- Hello, everyone.
+ John: Hello, everyone.
 
 8
 00:00:29,320 --> 00:00:34,420
- And welcome to the very 83rd episode of Octa Thorpe, a broadcast for Science Fiction and
+ And welcome to the very 83rd episode of Octothorpe, a podcast for science fiction and
 
 9
 00:00:34,420 --> 00:00:40,280
- Science Fiction fandom, which is coming to you on the 11th of May 2023.
+ science fiction fandom, which is coming to you on the 11th of May 2023.
 
 10
 00:00:40,280 --> 00:00:43,040
@@ -44,23 +44,23 @@
 
 12
 00:00:44,680 --> 00:00:46,200
- I'm Alison Scott.
+ Alison: I'm Alison Scott.
 
 13
 00:00:46,200 --> 00:00:47,480
- And I'm Ms. Batty.
+ Liz: And I'm Liz Batty.
 
 14
 00:00:47,480 --> 00:00:49,200
- Did you guys enjoy the coronation?
+ John: Did you guys enjoy the coronation?
 
 15
 00:00:49,200 --> 00:00:50,200
- Probably.
+ Liz: Probably.
 
 16
 00:00:50,200 --> 00:00:51,440
- We're recording this one.
+ Alison: We're recording this one.
 
 17
 00:00:51,440 --> 00:00:57,800
@@ -76,11 +76,11 @@
 
 20
 00:01:04,520 --> 00:01:06,040
- in time for you to illuminate.
+ in time for you to nominate.
 
 21
 00:01:06,040 --> 00:01:09,840
- So I spent the correlation playing board games.
+ So John: I spent the coronation playing board games.
 
 22
 00:01:09,840 --> 00:01:12,600
@@ -92,7 +92,7 @@
 
 24
 00:01:16,760 --> 00:01:19,800
- have a letters of comment on the two episodes from before that.
+ have letters of comment on the two episodes from before that.
 
 25
 00:01:19,800 --> 00:01:20,800
@@ -112,7 +112,7 @@
 
 29
 00:01:31,440 --> 00:01:36,400
- He has a hard copy, which is the omnibus that So For Wolf press did years back and it is
+ He has a hard copy, which is the omnibus that Sofa Wolf Press did years back and it is
 
 30
 00:01:36,400 --> 00:01:37,400
@@ -124,7 +124,7 @@
 
 32
 00:01:42,200 --> 00:01:43,200
- Can you?
+ Liz: Can you?
 
 33
 00:01:43,200 --> 00:01:44,200
@@ -132,15 +132,15 @@
 
 34
 00:01:44,200 --> 00:01:45,200
- This.
+ John: Liz.
 
 35
 00:01:45,200 --> 00:01:54,400
- Um, maybe to say, uh, thank you to everyone who watched us live at Eastercon and left
+ Liz: Um, maybe to say, uh, thank you to everyone who watched us live at Eastercon and left
 
 36
 00:01:54,400 --> 00:01:59,840
- comment and to those who watched us live and then listened to the actual podcast, which
+ a comment, and to those who watched us live and then listened to the actual podcast, which
 
 37
 00:01:59,840 --> 00:02:03,440
@@ -156,11 +156,11 @@
 
 40
 00:02:09,640 --> 00:02:17,240
- She left us a letter of comment in the discord thread for our item on the Eastercon discord.
+ She left us a letter of comment in the Discord thread for our item on the Eastercon Discord.
 
 41
 00:02:17,240 --> 00:02:20,480
- And she's basically off to give her Captain Dreamies via the medium of interpretive dance,
+ And she's basically off to give her cat some Dreamies via the medium of interpretive dance,
 
 42
 00:02:20,480 --> 00:02:23,120
@@ -168,19 +168,19 @@
 
 43
 00:02:23,120 --> 00:02:28,280
- I would also like to say thank you to everyone who made our item at conversation, the one
+ I would also like to say thank you to everyone who made our item at Conversation the one
 
 44
 00:02:28,280 --> 00:02:30,720
- with the most discord comments.
+ with the most Discord comments.
 
 45
 00:02:30,720 --> 00:02:38,800
- I don't think this is a reflection of the engagement with the item so much as a our listeners
+ I don't think this is a reflection of the engagement with the item so much as a "our listeners
 
 46
 00:02:38,800 --> 00:02:44,480
- like to back channel a bunch of shit battles in the discord and also that we did start
+ like to back channel a bunch of shit" at us in the Discord and also that we did start
 
 47
 00:02:44,480 --> 00:02:45,480
@@ -192,31 +192,31 @@
 
 49
 00:02:47,440 --> 00:02:51,360
- Johnny Badley also watched live and then listened to the podcast afterwards.
+ John: Johnny Badeley also watched live and then listened to the podcast afterwards.
 
 50
 00:02:51,360 --> 00:02:55,240
- So yeah, that is a is dedication.
+ So yeah, that is dedication.
 
 51
 00:02:55,240 --> 00:02:57,440
- I mean, I didn't do that.
+ Liz: I mean, I didn't do that.
 
 52
 00:02:57,440 --> 00:03:02,200
- There was some serious discussion about looking at the amount of engagement on the discord
+ Alison: There was some serious discussion about looking at the amount of engagement on the Discord
 
 53
 00:03:02,200 --> 00:03:07,320
- as a measure of how good program items were and guys don't do that.
+ as a measure of how good programme items were and guys don't do that.
 
 54
 00:03:07,320 --> 00:03:10,800
- Our program item was the best program item.
+ Joohn: Our programme item was the best programme item.
 
 55
 00:03:10,800 --> 00:03:15,600
- We have the most comments on the discord of any item at conversation by a factor of
+ Alison: We have the most comments on the Discord of any item at Conversation by a factor of
 
 56
 00:03:15,600 --> 00:03:16,600
@@ -228,15 +228,15 @@
 
 58
 00:03:20,520 --> 00:03:24,840
- then they turned off my zoom and I was like, oh, that means I don't get to say goodbye
+ then they turned off my Zoom and I was like, oh, that means I don't get to say goodbye
 
 59
 00:03:24,840 --> 00:03:29,200
- to John and Liz and Liz is going back to Thailand because immediately now I am going
+ to John and Liz! And Liz is going back to Thailand, because immediately now I am going
 
 60
 00:03:29,200 --> 00:03:34,120
- to get in a car, get in a playground car and drive back to London.
+ to get in a car, get in a plague-ridden car and drive back to London.
 
 61
 00:03:34,120 --> 00:03:36,320
@@ -256,19 +256,19 @@
 
 65
 00:03:40,160 --> 00:03:41,640
- Bye Alison.
+ John: Bye Alison.
 
 66
 00:03:41,640 --> 00:03:48,400
- We also heard from Ispania Sherif who let us know that there is a D&D TV series in the
+ We also heard from España Sheriff who let us know that there is a D&D TV series in the
 
 67
 00:03:48,400 --> 00:03:54,640
- works in which Joe Mangenello is adapting the Dragonlance series to TV, which we now
+ works in which Joe Mangianello is adapting the Dragonlance series to TV, which we now
 
 68
 00:03:54,640 --> 00:04:00,640
- know was a formative book series for both Neil Harrison and Adrian Tricovsky.
+ know was a formative book series for both Niall Harrison and Adrian Tchaikovsy.
 
 69
 00:04:00,640 --> 00:04:04,040
@@ -292,7 +292,7 @@
 
 74
 00:04:10,880 --> 00:04:17,640
- Farah Mendelssohn wrote to say that we can't hold the Eastcon in Wales because we can't
+ Alison: Farah Mendlesohn wrote to say that we can't hold the Eastercon in Wales because we can't
 
 75
 00:04:17,640 --> 00:04:22,600
@@ -308,7 +308,7 @@
 
 78
 00:04:29,920 --> 00:04:31,280
- I remember the Chester Eastcon.
+ John: I remember the Chester Eastercon.
 
 79
 00:04:31,280 --> 00:04:32,720
@@ -320,27 +320,27 @@
 
 81
 00:04:35,320 --> 00:04:38,960
- Chester is also not a primary convention venue for Wales.
+ Alison: Chester is also not a primary convention venue for Wales.
 
 82
 00:04:38,960 --> 00:04:40,680
- I'd better than Telford.
+ John: It's better than Telford.
 
 83
 00:04:40,680 --> 00:04:44,200
- But in terms of being in Wales.
+ Liz: But in terms of being in Wales.
 
 84
 00:04:44,200 --> 00:04:48,840
- If there is a spectrum of Welshness, Chester is more Welsh than Telford.
+ John: If there is a spectrum of Welshness, Chester is more Welsh than Telford.
 
 85
 00:04:48,840 --> 00:04:49,840
- Yeah.
+ Liz: Yeah.
 
 86
 00:04:49,840 --> 00:04:53,800
- I suspect that's just angered Welsh people and Chester people.
+ John: I suspect that's just angered Welsh people and Chester people.
 
 87
 00:04:53,800 --> 00:04:54,800
@@ -348,7 +348,7 @@
 
 88
 00:04:54,800 --> 00:04:58,000
- So we have a letter of coin from James Shields about Plan Z.
+ So we have a letter of comment from James Shields about Plan Z.
 
 89
 00:04:58,000 --> 00:04:59,760
@@ -360,11 +360,11 @@
 
 91
 00:05:03,160 --> 00:05:06,880
- And he does note, for a while, I've felt that naming your project after an African country
+ And he does note, "For a while, I've felt that naming your project after an African country
 
 92
 00:05:06,880 --> 00:05:08,160
- might be culturally insensitive.
+ might be culturally insensitive".
 
 93
 00:05:08,160 --> 00:05:14,280
@@ -372,7 +372,7 @@
 
 94
 00:05:14,280 --> 00:05:18,600
- There is a GitHub for Plan Z and listener to the show.
+ There is a GitHub for Plan Z and listener to the show
 
 95
 00:05:18,600 --> 00:05:25,200
@@ -404,7 +404,7 @@
 
 102
 00:05:42,960 --> 00:05:48,360
- Yes, Z Graves has suggested the name Ariadne because it weaves a lot of threads together.
+ Alison: Yes, Z Graves has suggested the name Ariadne because it weaves a lot of threads together.
 
 103
 00:05:48,360 --> 00:05:50,040
@@ -420,19 +420,19 @@
 
 106
 00:05:54,480 --> 00:05:59,960
- On the subject of spiders in science fiction, Esther McCum Stewart wrote in to tell us that
+ John: On the subject of spiders in science fiction, Esther McCallum Stewart wrote in to tell us that
 
 107
 00:05:59,960 --> 00:06:02,920
- there will be a spider's track at Glasgow in 2024.
+ there will be a Spiders track at Glasgow in 2024.
 
 108
 00:06:02,920 --> 00:06:07,080
- There will also be one about Armadillos and Wondervoted to Badger and collectively the
+ There will also be one about armadillos and one devoted to Badger and collectively the
 
 109
 00:06:07,080 --> 00:06:11,960
- Badger Armadillo and spiders tracks will be called all about that BAS which is an incredibly
+ Badger Armadillo and Spiders tracks will be called "All about that BAS" which is an incredibly
 
 110
 00:06:11,960 --> 00:06:13,600
@@ -444,11 +444,11 @@
 
 112
 00:06:15,160 --> 00:06:16,160
- Very good.
+ Liz: Very good.
 
 113
 00:06:16,160 --> 00:06:21,480
- Chris Garcia wrote to us on the 31st of March.
+ John: Chris Garcia wrote to us on the 31st of March.
 
 114
 00:06:21,480 --> 00:06:23,760
@@ -460,7 +460,7 @@
 
 116
 00:06:28,520 --> 00:06:32,320
- You'd find corals of Thornwood, Redwood and Oak brought in tiny bays that would keep
+ You'd find corals of thornwood, redwood and oak put in tiny bays that would keep
 
 117
 00:06:32,320 --> 00:06:33,320
@@ -492,7 +492,7 @@
 
 124
 00:06:47,680 --> 00:06:54,560
- Yeah, there's a difference between kind of trappings of wild octopus behind plants they
+ Alison: Yeah, there's a difference between kind of trapping some wild octopus behind plants they
 
 125
 00:06:54,560 --> 00:06:59,240
@@ -500,7 +500,7 @@
 
 126
 00:06:59,240 --> 00:07:03,400
- The Chinese octopus farm of course being in Spain.
+ John: The Chinese octopus farm of course being in Spain.
 
 127
 00:07:03,400 --> 00:07:07,080
@@ -508,19 +508,19 @@
 
 128
 00:07:07,080 --> 00:07:10,440
- He also notes if the third row panel isn't held with all the participants sitting in
+ He also notes if the Third Row panel isn't held with all the participants sitting in
 
 129
 00:07:10,440 --> 00:07:14,600
- the third row, then we all are leaving money on the table.
+ the Rhird Row, then we all are leaving money on the table.
 
 130
 00:07:14,600 --> 00:07:19,840
- As Andrew Hogg has said, many a time, the third row isn't a place.
+ As Andrew Hogg has said, many a time, the Third rRw isn't a place.
 
 131
 00:07:19,840 --> 00:07:23,480
- If a third row are sits in a row, that row is the third row.
+ If a third rower sits in a row, that row is the third row.
 
 132
 00:07:23,480 --> 00:07:24,920
@@ -528,11 +528,11 @@
 
 133
 00:07:24,920 --> 00:07:30,640
- One of the best lines in the third row panel was Mark Plummer pointing out that in that
+ Alison One of the best lines in the third row panel was Mark Plummer pointing out that in that
 
 134
 00:07:30,640 --> 00:07:36,960
- same third row where third row fandom was formed, Peter Mayby was sitting who was 78
+ same third row where third row fandom was formed, Peter Mabey was sitting who was 78
 
 135
 00:07:36,960 --> 00:07:37,960
@@ -540,7 +540,7 @@
 
 136
 00:07:37,960 --> 00:07:41,640
- So we have known Peter Mayby was in third row fandom.
+ John: we have known Peter Mabey was in third row fandom.
 
 137
 00:07:41,640 --> 00:07:44,360
@@ -548,7 +548,7 @@
 
 138
 00:07:44,360 --> 00:07:53,120
- Peter, if you're listening, there's a discord.
+ Peter, if you're listening, there's a Discord.
 
 139
 00:07:53,120 --> 00:07:56,200
@@ -560,7 +560,7 @@
 
 141
 00:07:58,920 --> 00:08:05,440
- I would say I did have a chat to Fran Tuscalo Verso at Eastercom who I think is helping
+ Liz: I would say I did have a chat to Francesco Verso at Eastercon who I think is helping
 
 142
 00:08:05,440 --> 00:08:17,240
@@ -568,15 +568,15 @@
 
 143
 00:08:17,240 --> 00:08:23,440
- I was delighted that Sandra Bond, who was one of the candidates that I nominated, is
+ Alison: I was delighted that Sandra Bond, who was one of the candidates that I nominated, is
 
 144
 00:08:23,440 --> 00:08:29,880
- going to be the TAF delegate to Pemokon in Winnipeg in August.
+ going to be the TAFF delegate to Pemmicon in Winnipeg in August.
 
 145
 00:08:29,880 --> 00:08:36,360
- So Pemokon is the NASFIC and I think the Sondras will be an extra-lit delegate and I
+ So Pemmicon is the NASFIC and I think that Sandra will be an excellent delegate and I
 
 146
 00:08:36,360 --> 00:08:38,040
@@ -584,23 +584,23 @@
 
 147
 00:08:38,040 --> 00:08:45,320
- And I hope that Nikolai will run again because he had a lot of support in Europe and I think
+ And I hope that Mikołaj will run again because he had a lot of support in Europe and I think
 
 148
 00:08:45,320 --> 00:08:52,120
- also could do with making more collections in the US to pick up North American votes there.
+ also could do with making more connections in the US to pick up North American votes there.
 
 149
 00:08:52,120 --> 00:08:55,720
- Yeah, is it Nikolai's third loss?
+ Liz: Yeah, is it Mikołaj's third loss?
 
 150
 00:08:55,720 --> 00:08:57,720
- I think it's second.
+ John: I think it's second.
 
 151
 00:08:57,720 --> 00:08:59,520
- Second, sorry second.
+ Liz: Second, sorry second.
 
 152
 00:08:59,520 --> 00:09:00,520
@@ -612,7 +612,7 @@
 
 154
 00:09:07,400 --> 00:09:13,880
- I think there might be, oh I'm trying to think of a way of saying this, that he is,
+ John: I think there might be, oh I'm trying to think of a way of saying this, that is, well
 
 155
 00:09:13,880 --> 00:09:17,160
@@ -628,11 +628,11 @@
 
 158
 00:09:24,920 --> 00:09:33,280
- I am sure the people that Michelage picked were great but I would maybe, I mean, Chris
+ I am sure the people that Mikołaj picked were great but I would maybe, I mean, Chris
 
 159
 00:09:33,280 --> 00:09:39,160
- Garcia, he's very good at getting people to vote for people, like considering him an email.
+ Garcia, he's very good at getting people to vote for people, like consider writing him an email.
 
 160
 00:09:39,160 --> 00:09:43,480
@@ -648,27 +648,27 @@
 
 163
 00:09:47,480 --> 00:09:54,520
- For a race where the final date was the day after Esterkon, Sondra chose three European
+ Alison: For a race where the final date was the day after Eastercon, Sandra chose three European
 
 164
 00:09:54,520 --> 00:09:57,800
- nominators who were all on the Esterkon committee.
+ nominators who were all on the Eastercon committee.
 
 165
 00:09:57,800 --> 00:10:04,840
- Yeah, we'll also say Sandra's selection of nominators was, sorry Sandra, terrible because
+ John: Yeah I willl also say Sandra's selection of nominators was, sorry Sandra, terrible because
 
 166
 00:10:04,840 --> 00:10:07,800
- you're basically choosing three people who all appeal to the same.
+ you're basically choosing three people who all appeal to the same- 
 
 167
 00:10:07,800 --> 00:10:09,240
- Oh thanks a lot.
+ Alison: Oh thanks a lot.
 
 168
 00:10:09,240 --> 00:10:13,200
- Oh no, I mean but you want to choose three people who will appeal to different demographics,
+ John: I mean but you want to choose three people who will appeal to different demographics,
 
 169
 00:10:13,200 --> 00:10:17,200
@@ -676,7 +676,7 @@
 
 170
 00:10:17,200 --> 00:10:22,720
- So yes, I think that's one area where Michelage did better because he had a much wider range
+ So yes, I think that's one area where Mikołaj did better because he had a much wider range
 
 171
 00:10:22,720 --> 00:10:25,920
@@ -688,23 +688,23 @@
 
 173
 00:10:29,560 --> 00:10:33,840
- Sandra did pick at least one nominator who went round every single person at Corfloo going,
+ Alison: Sandra did pick at least one nominator who went round every single person at Corflu going,
 
 174
 00:10:33,840 --> 00:10:35,360
- have you voted in tap yet?
+ have you voted in TAFF yet?
 
 175
 00:10:35,360 --> 00:10:39,880
- They're not leaving until they either said yes or went and did it so that will have helped.
+ And not leaving until they either said yes or went and did it so that will have helped.
 
 176
 00:10:39,880 --> 00:10:46,040
- But I mean when you say you should pick your North American nominators very carefully,
+ Liz: But I mean when you say you should pick your North American nominators very carefully,
 
 177
 00:10:46,040 --> 00:10:52,840
- I think it's possible that Sandra's nominators, John DeBary and Ted White, also kind of appeal
+ I think it's possible that Sandra's nominators, John D. Berry and Ted White, also kind of appeal
 
 178
 00:10:52,840 --> 00:10:55,520
@@ -716,15 +716,15 @@
 
 180
 00:10:57,080 --> 00:11:00,280
- Oh yeah, but Sandra is incredibly well known in North America fandom.
+ John: Oh yeah, but Sandra is incredibly well known in North America fandom.
 
 181
 00:11:00,280 --> 00:11:01,280
- Okay.
+ Liz: Okay.
 
 182
 00:11:01,280 --> 00:11:05,600
- The point is you need to make sure, so like I did a blog post, this is getting slightly
+ John: he point is you need to make sure, so like I did a blog post, this is getting slightly
 
 183
 00:11:05,600 --> 00:11:10,160
@@ -732,7 +732,7 @@
 
 184
 00:11:10,160 --> 00:11:15,880
- of the votes for Jim Moett came from, because you, you, when you get the votes as the administrator
+ of the votes for Jim Mowatt came from, because you, you, when you get the votes as the administrator
 
 185
 00:11:15,880 --> 00:11:21,240
@@ -748,7 +748,7 @@
 
 188
 00:11:28,200 --> 00:11:29,760
- by Randy Byitz.
+ by Randy Byers.
 
 189
 00:11:29,760 --> 00:11:36,000
@@ -776,7 +776,7 @@
 
 195
 00:11:51,800 --> 00:11:57,760
- This is also why when Warren Buff ran in 2010, I can't remember when, but a while back
+ This is also why when Warren Buff ran in twot housand and - I can't remember when, but a while back
 
 196
 00:11:57,760 --> 00:12:02,120
@@ -788,7 +788,7 @@
 
 198
 00:12:05,120 --> 00:12:08,720
- could not in any way imagine Paul Cornell wandering around in East con nagging people
+ could not in any way imagine Paul Cornell wandering around in Eastercon nagging people
 
 199
 00:12:08,720 --> 00:12:09,720
@@ -796,35 +796,35 @@
 
 200
 00:12:09,720 --> 00:12:12,800
- It does not seem like a poor thing to do in any way.
+ It does not seem like a Paul thing to do in any way.
 
 201
 00:12:12,800 --> 00:12:17,880
- So yeah, I think there's an arts picking people who are bullshit and who will.
+ So yeah, I think there's an art to picking people who are balshy and who will.
 
 202
 00:12:17,880 --> 00:12:21,320
- Yes, I don't think I nagged anyone at least, gone to vote.
+ Alison: Yes, I don't think I nagged anyone at the Eastercon to vote.
 
 203
 00:12:21,320 --> 00:12:25,440
- No, well, if, if I had been, if I had been Sandra, I would have picked someone who was
+ John: No, well, if, if I had been, if I had been Sandra, I would have picked someone who was
 
 204
 00:12:25,440 --> 00:12:31,080
- not working in East con to go with you and, and one of the other two perhaps, but, um.
+ not working in Eastercon to go with you and, and one of the other two perhaps, but, um.
 
 205
 00:12:31,080 --> 00:12:36,480
- So what, what I find interesting in a way is how swingy the vote totals are in taff.
+ Liz: So what, what I find interesting in a way is how swingy the vote totals are in TAFF.
 
 206
 00:12:36,480 --> 00:12:37,480
- Oh, yeah.
+ John: Oh, yeah.
 
 207
 00:12:37,480 --> 00:12:41,600
- And this was definitely one of our lower, lower numbered ones, but it's interesting
+ Liz: And this was definitely one of our lower, lower numbered ones, but it's interesting
 
 208
 00:12:41,600 --> 00:12:45,400
@@ -836,7 +836,7 @@
 
 210
 00:12:49,200 --> 00:12:57,280
- More people vote in the races that are sending US nominees to the UK, your EU than the other
+ More people vote in the races that are sending US nominees to the UK or EU than the other
 
 211
 00:12:57,280 --> 00:12:58,440
@@ -864,11 +864,11 @@
 
 217
 00:13:13,200 --> 00:13:16,000
- Yeah, I think, I think it is definitely true.
+ John: Yeah, I think, I think it is definitely true.
 
 218
 00:13:16,000 --> 00:13:17,800
- I mean, they say definitely.
+ I mean, I say definitely.
 
 219
 00:13:17,800 --> 00:13:23,520
@@ -884,7 +884,7 @@
 
 222
 00:13:32,240 --> 00:13:39,520
- Liam had like 80 voters just in Europe because he was so like on it, but he did not have
+ Liam had like 80 voters just in Europe because he was so on it, but he did not have
 
 223
 00:13:39,520 --> 00:13:42,000
@@ -896,39 +896,39 @@
 
 225
 00:13:46,000 --> 00:13:47,000
- Yeah, no.
+ Alison: Yeah, no.
 
 226
 00:13:47,000 --> 00:13:50,320
- I don't think he is listening, but yes, if he is.
+ John: I don't think he is listening, but yes, if he is.
 
 227
 00:13:50,320 --> 00:13:51,320
- Sorry, Liam.
+ Alison: Sorry, Liam.
 
 228
 00:13:51,320 --> 00:13:56,880
- And then the EFF, or F. F.
+ John: And then the EFF, or Efffffff.
 
 229
 00:13:56,880 --> 00:14:02,200
- EFF can't be confused with anything else.
+ Liz: EFF can be confused with other things.
 
 230
 00:14:02,200 --> 00:14:03,200
- Right?
+ JOhn: Right?
 
 231
 00:14:03,200 --> 00:14:06,600
- No, but the European Fan Fund was one.
+ No, but the European Fan Fund was won
 
 232
 00:14:06,600 --> 00:14:09,280
- By the children of Chitska.
+ Alison: By Matylda Naczyńska.
 
 233
-00:14:09,280 --> 00:14:14,440
- Congratulations to them and Commiserations to James Shields, who ran and didn't really
+00:14:09,280 --> 00:14:1 4,440
+ John:Congratulations to them and commiserations to James Shields, who ran and didn't really
 
 234
 00:14:14,440 --> 00:14:19,520
@@ -936,11 +936,11 @@
 
 235
 00:14:19,520 --> 00:14:26,280
- So yes, but they will visit conflict, which is in of Salah in Sweden in June.
+ So yes, but they will visit Konflict, which is in Uppsala in Sweden in June.
 
 236
 00:14:26,280 --> 00:14:28,280
- And we didn't get an awful lot of votes for it.
+ Alison: And we didn't get an awful lot of votes for it.
 
 237
 00:14:28,280 --> 00:14:33,360
@@ -956,11 +956,11 @@
 
 240
 00:14:38,720 --> 00:14:47,240
- It will get some help because it's getting 20% of the Fan Fund's raised at conversation,
+ It will get some help because it's getting 20% of the Fan Funds funds raised at conversation,
 
 241
 00:14:47,240 --> 00:14:49,960
- which spoiler is an enormous amount of money.
+ which, spoiler, is an enormous amount of money.
 
 242
 00:14:49,960 --> 00:14:51,040
@@ -968,7 +968,7 @@
 
 243
 00:14:51,040 --> 00:14:56,000
- I think this is a good lesson about how, although hybrid conventions are great, they might not
+ John: I think this is a good lesson about how, although hybrid conventions are great, they might not
 
 244
 00:14:56,000 --> 00:14:58,280
@@ -976,7 +976,7 @@
 
 245
 00:14:58,280 --> 00:15:03,360
- Because I think if Marcin had been on site at Eastcon, maybe he could have done some more
+ Because I think if Marcin had been on site at Eastercon, maybe he could have done some more
 
 246
 00:15:03,360 --> 00:15:05,640
@@ -984,7 +984,7 @@
 
 247
 00:15:05,640 --> 00:15:09,360
- And also if the person at Eastcon was the person in the race who didn't want to win
+ And also if the person at Eastercon was the person in the race who didn't want to win
 
 248
 00:15:09,360 --> 00:15:12,520
@@ -996,11 +996,11 @@
 
 250
 00:15:13,960 --> 00:15:16,040
- And was also quite busy?
-
+ Alison: And was also quite busy?
+ 
 251
 00:15:16,040 --> 00:15:18,000
- Yes, I was also quite busy.
+ John: Yes, and was also quite busy.
 
 252
 00:15:18,000 --> 00:15:23,600
@@ -1008,7 +1008,7 @@
 
 253
 00:15:23,600 --> 00:15:27,600
- Eastcon, if your deadline is going to be just after Eastcon, because that will help get
+ Eastercon, if your deadline is going to be just after Eastercon, because that will help get
 
 254
 00:15:27,600 --> 00:15:28,600
@@ -1016,11 +1016,11 @@
 
 255
 00:15:28,600 --> 00:15:34,400
- Yeah, or you could have the sort of British fans who get the vote out for these things,
+ Alison: Yeah, or you could have the sort of British fans who get the vote out for these things,
 
 256
 00:15:34,400 --> 00:15:37,280
- not actually also running the Eastcon, also good things.
+ not actually also running the Eastercon, also good things.
 
 257
 00:15:37,280 --> 00:15:39,680
@@ -1028,7 +1028,7 @@
 
 258
 00:15:39,680 --> 00:15:44,120
- Hopefully because the contributions from the voting fees, because there are only 33
+ LizHopefully because the contributions from the voting fees, because there are only 33
 
 259
 00:15:44,120 --> 00:15:49,440
@@ -1036,11 +1036,11 @@
 
 260
 00:15:49,440 --> 00:15:53,200
- Because it turns out 353 Polish.
+ Because it turns out 353 Polish
 
 261
 00:15:53,200 --> 00:15:57,280
- So T is not a huge amount of money in pounds.
+ zloty is not a huge amount of money in pounds.
 
 262
 00:15:57,280 --> 00:15:59,960
@@ -1052,31 +1052,31 @@
 
 264
 00:16:06,040 --> 00:16:08,720
- I think there's money basically.
+ Alison: I think there's money basically.
 
 265
 00:16:08,720 --> 00:16:12,600
- Moshy's very relaxed about having operating funds for this at the moment.
+ Marcin's very relaxed about having operating funds for this at the moment.
 
 266
 00:16:12,600 --> 00:16:14,960
- And also maybe we'll get TAP reports or things.
+ And also maybe we'll get TAFF reports or things.
 
 267
 00:16:14,960 --> 00:16:19,960
- I mean, I've still quite lost a SUS TAP report, and I'm going to sell a lot more.
+ I mean, I've seen quite a lot of Sue's TAFF report, and I'm going to sell a lot more.
 
 268
 00:16:19,960 --> 00:16:23,120
- So that does actually, it's going to be a useful amount of money for TAF.
+ So that means actually, it's going to be a useful amount of money for TAFF.
 
 269
 00:16:23,120 --> 00:16:34,000
- Shall we talk about the Eastcon?
+ John: Shall we talk about the Eastercon?
 
 270
 00:16:34,000 --> 00:16:37,000
- We've kind of already started talking about Eastcon.
+ We've kind of already started talking about Eastercon.
 
 271
 00:16:37,000 --> 00:16:38,840
@@ -1088,15 +1088,15 @@
 
 273
 00:16:41,600 --> 00:16:43,600
- Yeah, there was an Eastcon.
+ Yeah, there was an Eastercon.
 
 274
 00:16:43,600 --> 00:16:49,440
- And we're doing the elephant in the room first or last.
+ Liz: And are we doing the elephant in the room first or last?
 
 275
 00:16:49,440 --> 00:16:52,080
- It's the Og to Thorpe COVID policy round up.
+ John: It's the Octothorpe COVID policy round up.
 
 276
 00:16:52,080 --> 00:16:53,080
@@ -1104,7 +1104,7 @@
 
 277
 00:16:53,080 --> 00:16:56,520
- A lot of people caught COVID at Eastcon.
+ Alison: A lot of people caught COVID at Eastercon.
 
 278
 00:16:56,520 --> 00:17:00,320
@@ -1116,7 +1116,7 @@
 
 280
 00:17:01,320 --> 00:17:05,760
- I mean, it doesn't really matter what you get up above about 80 cases.
+ I mean, it doesn't really matter once you get up above about 80 cases.
 
 281
 00:17:05,760 --> 00:17:08,520
@@ -1124,7 +1124,7 @@
 
 282
 00:17:08,520 --> 00:17:13,920
- Yeah, I mean, I did my own personal mini count based on what I could see on Discord,
+ Liz: Yeah, I mean, I did my own personal mini count based on what I could see on Discord,
 
 283
 00:17:13,920 --> 00:17:16,720
@@ -1132,7 +1132,7 @@
 
 284
 00:17:16,720 --> 00:17:21,240
- But yeah, I guess when your question is, do we give it to 10% of the convention or 15%
+ But yeah, I guess when your question is, doid we give it to 10% of the convention or 15%
 
 285
 00:17:21,240 --> 00:17:22,240
@@ -1144,11 +1144,11 @@
 
 287
 00:17:25,520 --> 00:17:29,240
- A lot of people caught COVID at conversation.
+ Alison: A lot of people caught COVID at Conversation.
 
 288
 00:17:29,240 --> 00:17:34,000
- I would prefer that we did not use the phrase how many people did we give COVID to?
+ I would prefer that we did not use the phrase "how many people did we give COVID to"?
 
 289
 00:17:34,000 --> 00:17:35,920
@@ -1160,7 +1160,7 @@
 
 291
 00:17:37,880 --> 00:17:39,440
- I'll just leave all of that in.
+ John: I'll just leave all of that in.
 
 292
 00:17:39,440 --> 00:17:40,960
@@ -1168,7 +1168,7 @@
 
 293
 00:17:40,960 --> 00:17:42,440
- I'm completely fine with that.
+ Alison: I'm completely fine with that.
 
 294
 00:17:42,440 --> 00:17:44,040
@@ -1180,7 +1180,7 @@
 
 296
 00:17:50,800 --> 00:17:54,400
- people in a hotel weekend, there's a good chance you're going to get COVID.
+ people in a hotel all weekend, there's a good chance you're going to get COVID.
 
 297
 00:17:54,400 --> 00:17:56,320
@@ -1196,11 +1196,11 @@
 
 300
 00:18:03,560 --> 00:18:09,280
- We knew it was going to be quite high number because last year, by the close of Monday of
+ We knew it was going to be quite a high number because last year, by the close of Monday of
 
 301
 00:18:09,280 --> 00:18:11,840
- the Eastcon, we'd had five reports.
+ the Eastercon, we'd had five reports.
 
 302
 00:18:11,840 --> 00:18:15,840
@@ -1216,7 +1216,7 @@
 
 305
 00:18:19,600 --> 00:18:20,600
- Yes.
+ John: Yes.
 
 306
 00:18:20,600 --> 00:18:21,600
@@ -1232,11 +1232,11 @@
 
 309
 00:18:26,680 --> 00:18:28,560
- Did you catch COVID, John?
+ Liz: Did you catch COVID, John?
 
 310
 00:18:28,560 --> 00:18:29,560
- I got COVID.
+ John: I got COVID.
 
 311
 00:18:29,560 --> 00:18:33,600
@@ -1252,11 +1252,11 @@
 
 314
 00:18:37,160 --> 00:18:40,600
- I either got it from a Spaniard or I got it when I went home to visit my parents.
+ I either got it from España or I got it when I went home to visit my parents.
 
 315
 00:18:40,600 --> 00:18:45,000
- It would be hilariously bad luck if I avoided it at the Eastcon and got it on a trained
+ It would be hilariously bad luck if I avoided it at the Eastercon and got it on a train to
 
 316
 00:18:45,000 --> 00:18:49,160
@@ -1268,7 +1268,7 @@
 
 318
 00:18:50,160 --> 00:18:54,280
- If I hadn't tested, if a Spaniard hadn't had it, I would not have tested.
+ If I hadn't tested, if España hadn't had it, I would not have tested.
 
 319
 00:18:54,280 --> 00:18:57,120
@@ -1276,11 +1276,11 @@
 
 320
 00:18:57,120 --> 00:19:03,600
- But yes, a Spaniard got it with the unfortunate, there's an unfortunate side effect, which
+ But yes, España got it with the unfortunate, there's an unfortunate side effect, which
 
 321
 00:19:03,600 --> 00:19:09,280
- is that a Spaniard has decided, I think, that future Eastcons without mask mandates will
+ is that España has decided, I think, that future Eastercons without mask mandates will
 
 322
 00:19:09,280 --> 00:19:11,800
@@ -1304,7 +1304,7 @@
 
 327
 00:19:28,640 --> 00:19:33,320
- And yeah, I haven't quite processed that yet because I've been to every Eastcon since
+ And yeah, I haven't quite processed that yet because I've been to every Eastercon since
 
 328
 00:19:33,320 --> 00:19:37,880
@@ -1320,7 +1320,7 @@
 
 331
 00:19:40,480 --> 00:19:46,880
- My wife's thresholds are clearly in a different place from the communities.
+ My wife's thresholds are clearly in a different place from the community's.
 
 332
 00:19:46,880 --> 00:19:52,520
@@ -1328,7 +1328,7 @@
 
 333
 00:19:52,520 --> 00:19:56,480
- I think there's a wide range of views in the community because there's definitely people
+ Alison: I think there's a wide range of views in the community because there's definitely people
 
 334
 00:19:56,480 --> 00:19:58,960
@@ -1364,7 +1364,7 @@
 
 342
 00:20:22,440 --> 00:20:27,680
- As I said before, as I said in the episode before the convention, it's all about shifting
+ John: As I said before, as I said in the episode before the convention, it's all about shifting
 
 343
 00:20:27,680 --> 00:20:30,640
@@ -1372,7 +1372,7 @@
 
 344
 00:20:30,640 --> 00:20:33,640
- And there were things the Eastcon could have done to shift it to the left that they chose
+ And there were things the Eastercon could have done to shift it to the left that they chose
 
 345
 00:20:33,640 --> 00:20:36,440
@@ -1424,11 +1424,11 @@
 
 357
 00:21:14,520 --> 00:21:19,480
- Well, I think far as planning to tighten up the mask mandate for levitation.
+ Alsisn: Well, I think Farah's planning to tighten up the mask mandate for Levitation.
 
 358
 00:21:19,480 --> 00:21:22,800
- But I will have to be at levitation because I'm doing a big job for Glasgow that will
+ But I will have to be at Levitation because I'm doing a big job for Glasgow that will
 
 359
 00:21:22,800 --> 00:21:24,320
@@ -1444,7 +1444,7 @@
 
 362
 00:21:31,400 --> 00:21:33,600
- No, yeah, I mean, that's it, right?
+ John: No, yeah, I mean, that's it, right?
 
 363
 00:21:33,600 --> 00:21:36,400
@@ -1456,7 +1456,7 @@
 
 365
 00:21:39,040 --> 00:21:42,480
- I don't think I have won because I think levitation is going to tighten up.
+ Alison: I don't think I have won because I think Levitation is going to tighten up.
 
 366
 00:21:42,480 --> 00:21:43,840
@@ -1480,7 +1480,7 @@
 
 371
 00:21:58,040 --> 00:22:01,880
- I don't want to have a problem that says in program items, you mask.
+ I don't  have a problem that says in programme items, you mask.
 
 372
 00:22:01,880 --> 00:22:05,080
@@ -1496,7 +1496,7 @@
 
 375
 00:22:12,560 --> 00:22:16,840
- I would just say, ispania has been mostly unconscious for about a week because it has
+ John: I would just say, España has been mostly unconscious for about a week because it has
 
 376
 00:22:16,840 --> 00:22:18,000
@@ -1516,7 +1516,7 @@
 
 380
 00:22:22,160 --> 00:22:25,000
- I mean, eventually everyone has to have it for the first time, right?
+ Alison: I mean, eventually everyone has to have it for the first time, right?
 
 381
 00:22:25,000 --> 00:22:30,400
@@ -1528,7 +1528,7 @@
 
 383
 00:22:31,400 --> 00:22:33,240
- I say, well, we don't know that.
+ Liz: I say, one, we don't know that.
 
 384
 00:22:33,240 --> 00:22:36,600
@@ -1536,7 +1536,7 @@
 
 385
 00:22:36,600 --> 00:22:40,680
- it was the only effect of COVID or you've got a very mild sore throat, then yes, I think
+ it was the only effect of COVID was you've got a very mild sore throat, then yes, I think
 
 386
 00:22:40,680 --> 00:22:41,680
@@ -1564,7 +1564,7 @@
 
 392
 00:22:58,600 --> 00:23:03,360
- So we'll come back on October 3,027 to see how that all went.
+ So we'll come back on Octothorpe 3027 to see how that all went.
 
 393
 00:23:03,360 --> 00:23:07,760
@@ -1608,11 +1608,11 @@
 
 403
 00:23:43,320 --> 00:23:48,720
- it possible for people to go into basically say masks in program space, mass in the dealer's
+ it possible for people to go into, basically say masks in program space, mass in the dealer's
 
 404
 00:23:48,720 --> 00:23:54,760
- room, mass in the arch, or mass in those spaces and have a mask, a mandatory mass social space.
+ room, mask in the art show, or mass in those spaces and have a mask, a mandatory mask social space.
 
 405
 00:23:54,760 --> 00:23:58,960
@@ -1620,11 +1620,11 @@
 
 406
 00:23:58,960 --> 00:24:05,000
- And then people can make that choice, I think, to know that they'll be able to go to program
+ And then people can make that choice, I think, to know that they'll be able to go to programme
 
 407
 00:24:05,000 --> 00:24:09,120
- or if their dealers to come and deal at the convention and know that people will be wearing
+ or if they're dealers to come and deal at the convention and know that people will be wearing
 
 408
 00:24:09,120 --> 00:24:12,440
@@ -1636,7 +1636,7 @@
 
 410
 00:24:15,840 --> 00:24:19,200
- Some people will say that's unpleasant, they don't want to sit in program in mass all day
+ Some people will say that's unpleasant, they don't want to sit in programme in masks all day
 
 411
 00:24:19,200 --> 00:24:20,200
@@ -1648,11 +1648,11 @@
 
 413
 00:24:23,120 --> 00:24:26,040
- We obviously can't plead both extremes so maybe I'm going from middle ground where we
+ We obviously can't please both extremes so maybe I'm going for a middle ground where we
 
 414
 00:24:26,040 --> 00:24:27,040
- try and plead someone.
+ try and please someone.
 
 415
 00:24:27,040 --> 00:24:29,120
@@ -1664,7 +1664,7 @@
 
 417
 00:24:31,760 --> 00:24:37,280
- I'm asked as a dealer in the dealer's room last year where you're masking continuously
+ Alison: I masked as a dealer in the dealer's room last year where you're masking continuously
 
 418
 00:24:37,280 --> 00:24:40,800
@@ -1672,11 +1672,11 @@
 
 419
 00:24:40,800 --> 00:24:45,480
- And I found it extremely unpleasant because you have to talk to people, you have to gauge
+ And I found it extremely unpleasant because you have to talk to people, you have to engage
 
 420
 00:24:45,480 --> 00:24:50,120
- in them with them and that's really quite hard through a mask all day.
+ with them and that's really quite hard through a mask all day.
 
 421
 00:24:50,120 --> 00:24:54,680
@@ -1692,11 +1692,11 @@
 
 424
 00:25:02,200 --> 00:25:07,640
- It's complicated but we have a lot of convention spaces that weren't dealers room or...
+ It's complicated but we have a lot of convention spaces that weren't dealers room.
 
 425
 00:25:07,640 --> 00:25:14,360
- I feel very strongly, it's been you being unable to work for a week, is less of an...
+ John: I feel very strongly, it's been you being unable to work for a week, is 
 
 426
 00:25:14,360 --> 00:25:17,680
@@ -1704,11 +1704,11 @@
 
 427
 00:25:17,680 --> 00:25:21,440
- I think what I find the most frustrating is the...
+ I think what I find the most frustrating is the,
 
 428
 00:25:21,440 --> 00:25:25,520
- There seems to be an implicit assumption in the discussion that wearing a mask is equally
+ there seems to be an implicit assumption in the discussion that wearing a mask is equally
 
 429
 00:25:25,520 --> 00:25:30,200
@@ -1716,7 +1716,7 @@
 
 430
 00:25:30,200 --> 00:25:31,200
- No, it's not.
+ Alison: No, it's not.
 
 431
 00:25:31,200 --> 00:25:33,320
@@ -1724,7 +1724,7 @@
 
 432
 00:25:33,320 --> 00:25:36,840
- Even by COVID this time, which was much, much less bad than the other time or possible
+ Even my COVID this time, which was much, much less bad than the other time or possible
 
 433
 00:25:36,840 --> 00:25:37,840
@@ -1732,7 +1732,7 @@
 
 434
 00:25:37,840 --> 00:25:42,160
- I don't enjoy wearing a mask but I don't enjoy having COVID either.
+ John: I don't enjoy wearing a mask but I don't enjoy having COVID either.
 
 435
 00:25:42,160 --> 00:25:44,240
@@ -1740,7 +1740,7 @@
 
 436
 00:25:44,240 --> 00:25:45,240
- I think there's a...
+ I think there's a,
 
 437
 00:25:45,240 --> 00:25:48,840
@@ -1752,7 +1752,7 @@
 
 439
 00:25:52,760 --> 00:25:55,080
- So don't think it works.
+ Because I don't think it works.
 
 440
 00:25:55,080 --> 00:25:58,400
@@ -1760,7 +1760,7 @@
 
 441
 00:25:58,400 --> 00:26:02,240
- inconvenience wearing a mask and I am surprised by how many people seem to be on the other
+ inconvenience of wearing a mask and I am surprised by how many people seem to be on the other
 
 442
 00:26:02,240 --> 00:26:04,040
@@ -1772,15 +1772,15 @@
 
 444
 00:26:06,280 --> 00:26:07,280
- It just...
+ It just,
 
 445
 00:26:07,280 --> 00:26:08,280
- It catches me unawares.
+ it catches me unawares.
 
 446
 00:26:08,280 --> 00:26:11,160
- Okay, you've got quite a lot of people on your side.
+ Alison: Okay, you've got quite a lot of people on your side.
 
 447
 00:26:11,160 --> 00:26:15,000
@@ -1788,7 +1788,7 @@
 
 448
 00:26:15,000 --> 00:26:16,000
- of strong.
+ stronger".
 
 449
 00:26:16,000 --> 00:26:18,040
@@ -1800,11 +1800,11 @@
 
 451
 00:26:19,040 --> 00:26:21,880
- I know this is a lurker support me in email thing but when we ask for feedback, which will
+ I know this is a lurkers support me in email thing but when we ask for feedback, which will
 
 452
 00:26:21,880 --> 00:26:27,960
- pass to levitation, quite a lot of the feedback is saying, "We think you struck quite a good
+ pass to Levitation, quite a lot of the feedback is saying, "We think you struck quite a good
 
 453
 00:26:27,960 --> 00:26:30,040
@@ -1816,11 +1816,11 @@
 
 455
 00:26:31,120 --> 00:26:36,040
- I think we're far enough after the convention now that I would say that although I was...
+ I think we're far enough after the convention now that I would say that although I wasn't,
 
 456
 00:26:36,040 --> 00:26:40,040
- I wasn't involved in the discussion of what I polish you should be because dead parents.
+ I wasn't involved in the discussion of what our policy should be because dead parents.
 
 457
 00:26:40,040 --> 00:26:45,680
@@ -1828,11 +1828,11 @@
 
 458
 00:26:45,680 --> 00:26:50,240
- letting people know, "I think if people have followed our COVID policy, we'd have had less
+ letting people know, I think if people had followed our COVID policy, we'd have had less
 
 459
 00:26:50,240 --> 00:26:51,240
- COVID."
+ COVID.
 
 460
 00:26:51,240 --> 00:26:55,480
@@ -1840,7 +1840,7 @@
 
 461
 00:26:55,480 --> 00:27:01,240
- No, I want to push back on this, right, because I have heard you said this a few times.
+ John: No, I want to push back on this, right, because I have heard you said this a few times.
 
 462
 00:27:01,240 --> 00:27:04,240
@@ -1852,7 +1852,7 @@
 
 464
 00:27:05,240 --> 00:27:07,520
- Oh yeah, you were right.
+ Alison: Oh yeah, you were right.
 
 465
 00:27:07,520 --> 00:27:10,640
@@ -1864,7 +1864,7 @@
 
 467
 00:27:13,280 --> 00:27:14,280
- Thank you.
+ John: Thank you.
 
 468
 00:27:14,280 --> 00:27:15,760
@@ -1872,7 +1872,7 @@
 
 469
 00:27:15,760 --> 00:27:17,760
- Sorry, you were right about that.
+ Alison: Sorry, you were right about that.
 
 470
 00:27:17,760 --> 00:27:20,480
@@ -1884,7 +1884,7 @@
 
 472
 00:27:25,560 --> 00:27:30,800
- view was that we should have had a stronger COVID policy with mandatory masking in program
+ view was that we should have had a stronger COVID policy with mandatory masking in programme
 
 473
 00:27:30,800 --> 00:27:37,360
@@ -1904,11 +1904,11 @@
 
 477
 00:27:45,800 --> 00:27:48,080
- Masking in the green room would have been very difficult.
+ John: Masking in the green room would have been very difficult.
 
 478
 00:27:48,080 --> 00:27:49,720
- It's hard.
+ Alison: It's hard.
 
 479
 00:27:49,720 --> 00:27:50,720
@@ -1952,7 +1952,7 @@
 
 489
 00:28:29,320 --> 00:28:34,640
- if you wanted that to work, which isn't to say it couldn't work, but this is moving
+ if you wanted that to work, which isn't to say it couldn't work, but. Alison: This is moving
 
 490
 00:28:34,640 --> 00:28:37,000
@@ -1976,19 +1976,19 @@
 
 495
 00:28:53,880 --> 00:28:59,720
- a mistake for lots of reasons, including the hybrid element screen room.
+ a mistake for lots of reasons, including the hybrid elements of green room.
 
 496
 00:28:59,720 --> 00:29:02,280
- Do you want to say things about COVID before I talk more about green room?
+ John: Do you want to say things about COVID before I talk more about green room?
 
 497
 00:29:02,280 --> 00:29:05,880
- Because I have more ideas about green room lists, but they're not really COVID based.
+ Because I have more ideas about green room Liz, but they're not really COVID based.
 
 498
 00:29:05,880 --> 00:29:09,960
- Yeah, let's I think when we talk a bit more about hybrid and so on, we should talk about
+ Liz: Yeah, let's I think when we talk a bit more about hybrid and so on, we should talk about
 
 499
 00:29:09,960 --> 00:29:10,960
@@ -1996,7 +1996,7 @@
 
 500
 00:29:10,960 --> 00:29:12,600
- I mean, I think my thoughts are covered out.
+ I mean, I think my thoughts are covered.
 
 501
 00:29:12,600 --> 00:29:14,680
@@ -2024,7 +2024,7 @@
 
 507
 00:29:34,680 --> 00:29:40,160
- we do things like the ventilation in the bar was definitely poor.
+ we do things, like the ventilation in the bar was definitely poor.
 
 508
 00:29:40,160 --> 00:29:43,540
@@ -2052,7 +2052,7 @@
 
 514
 00:29:57,200 --> 00:30:01,480
- I'm not, you know, speeding like spit all over your like bacon eggs.
+ I'm not, you know, spewing spit all over your bacon and eggs.
 
 515
 00:30:01,480 --> 00:30:03,120
@@ -2060,15 +2060,15 @@
 
 516
 00:30:03,120 --> 00:30:05,560
- So maybe that should be thing people do.
+ So maybe that should be a thing people do.
 
 517
 00:30:05,560 --> 00:30:09,600
- And for those who want that service, subscribe to Liz only fans.
+ John: And for those who want that service, subscribe to Liz's Onlyfans.
 
 518
 00:30:09,600 --> 00:30:13,200
- But yeah, I think we've got to take all that into account.
+ Liz: But yeah, I think we've got to take all that into account.
 
 519
 00:30:13,200 --> 00:30:17,480
@@ -2076,15 +2076,15 @@
 
 520
 00:30:17,480 --> 00:30:19,240
- of Easter cons, try and encourage that.
+ of Eastercons to  try and encourage that.
 
 521
 00:30:19,240 --> 00:30:24,320
- I will say one place that I think conversation couldn't have known this, but it was true.
+ I will say one place that I think Conversation couldn't have known this, but it was true
 
 522
 00:30:24,320 --> 00:30:28,360
- It was a very big space called the refectory with lots of chairs and tables spread out
+ there was a very big space called the refectory with lots of chairs and tables spread out
 
 523
 00:30:28,360 --> 00:30:31,720
@@ -2096,7 +2096,7 @@
 
 525
 00:30:35,680 --> 00:30:40,800
- So maybe if you did have a fan bar, a bit like reclamation's where you had people spread
+ So maybe if you did have a fan bar, a bit like Reclamation's, where you had people spread
 
 526
 00:30:40,800 --> 00:30:45,800
@@ -2116,7 +2116,7 @@
 
 530
 00:30:53,760 --> 00:30:55,200
- I don't regret coming to Eastcon.
+ I don't regret coming to Eastercon.
 
 531
 00:30:55,200 --> 00:30:58,160
@@ -2132,15 +2132,15 @@
 
 534
 00:31:01,760 --> 00:31:07,280
- You know, I could, I'm really, it does make me rethink whether I want to attend food
+ You know, I could, I'm really, it does make me rethink whether I want to attend future
 
 535
 00:31:07,280 --> 00:31:10,920
- Easter cons, unfortunately, because of the risk of disease and because of the risk of
+ Eastercons, unfortunately, because of the risk of disease and because of the risk of
 
 536
 00:31:10,920 --> 00:31:13,640
- like, like, disruptive disruption to my life.
+ like, like, disruptive massive disruption to my life.
 
 537
 00:31:13,640 --> 00:31:19,560
@@ -2152,7 +2152,7 @@
 
 539
 00:31:20,680 --> 00:31:22,560
- Yeah, we had the refectory.
+ Alison: Yeah, we had the refectory.
 
 540
 00:31:22,560 --> 00:31:25,280
@@ -2176,11 +2176,11 @@
 
 545
 00:31:40,320 --> 00:31:44,640
- And then we also had a bus required lounge, which wasn't used at all.
+ And then we also had a mask required lounge, which wasn't used at all.
 
 546
 00:31:44,640 --> 00:31:49,040
- But no, I don't know whether we talked about that before, but like the other part of the
+ John: But no, I don't know whether we talked about that before, but like the other part of the
 
 547
 00:31:49,040 --> 00:31:52,760
@@ -2200,11 +2200,11 @@
 
 551
 00:31:59,760 --> 00:32:05,280
- This is, it's weird, I think, how much of these discussions are?
+ This is, it's weird, I think, how much of these discussions are,
 
 552
 00:32:05,280 --> 00:32:07,160
- There are things we've been asking for as a convention for ages.
+ there are things we've been asking for as a convention for ages.
 
 553
 00:32:07,160 --> 00:32:11,480
@@ -2216,15 +2216,15 @@
 
 555
 00:32:13,760 --> 00:32:16,280
- It's such a pain that if someone was a gin and tonic, they have to be at this end of
+ It's such a pain that if someone wants a gin and tonic, they have to be at this end of
 
 556
 00:32:16,280 --> 00:32:18,720
- the hotel, but someone was really allowed to be there in the hotel.
+ the hotel, but someone wants real ale they have to be there in the hotel.
 
 557
 00:32:18,720 --> 00:32:20,480
- I can't be in the same place.
+ Why can't they be in the same place.
 
 558
 00:32:20,480 --> 00:32:23,920
@@ -2232,15 +2232,15 @@
 
 559
 00:32:23,920 --> 00:32:27,160
- of the normal people with the nice breakfast instead of being in a little ghetto?
+ of the normal people with the nice breakfast place instead of being in a little ghetto?
 
 560
 00:32:27,160 --> 00:32:30,720
- We've cracked that issue and other pandemics happened to be like, why can't, why can't
+ We've cracked that issue and now the pandemic's happened to be like, why can't, why can't
 
 561
 00:32:30,720 --> 00:32:34,760
- we be in our little ghetto and why can't the real little be the other side of the hotel?
+ we be in our little ghetto and why can't the real ale be the other side of the hotel?
 
 562
 00:32:34,760 --> 00:32:36,320
@@ -2260,7 +2260,7 @@
 
 566
 00:32:46,760 --> 00:32:49,680
- Before we go off COVID, we're about to go off COVID, right?
+ Alison: Before we go off COVID, we're about to go off COVID, right?
 
 567
 00:32:49,680 --> 00:32:51,440
@@ -2268,19 +2268,19 @@
 
 568
 00:32:51,440 --> 00:32:54,240
- I would not like to be the levitation chair right now.
+ I would not like to be the Levitation chair right now.
 
 569
 00:32:54,240 --> 00:32:55,240
- Hello, Farrah.
+ Hello, Farah.
 
 570
 00:32:55,240 --> 00:32:57,880
- No, it'll be a tricky job.
+ John: No, it'll be a tricky job.
 
 571
 00:32:57,880 --> 00:33:03,480
- Because you've got a lot of work collecting all these different points of view together
+ Alison: Because you've got a lot of work collecting all these different points of view together
 
 572
 00:33:03,480 --> 00:33:05,800
@@ -2288,7 +2288,7 @@
 
 573
 00:33:05,800 --> 00:33:06,800
- You should do a survey.
+ John: You should do a survey.
 
 574
 00:33:06,800 --> 00:33:08,040
@@ -2296,7 +2296,7 @@
 
 575
 00:33:08,040 --> 00:33:10,120
- To a survey, have like at scales.
+ To a survey, have Likert scales.
 
 576
 00:33:10,120 --> 00:33:11,480
@@ -2304,7 +2304,7 @@
 
 577
 00:33:11,480 --> 00:33:12,480
- Yeah, levitation.
+ Alison: Yeah, Levitation.
 
 578
 00:33:12,480 --> 00:33:13,480
@@ -2320,7 +2320,7 @@
 
 581
 00:33:24,920 --> 00:33:28,320
- a lot on the internet because there's some very harangue people on both sides of the
+ a lot on the internet because there's some very harangue-y people on both sides of the
 
 582
 00:33:28,320 --> 00:33:29,320
@@ -2328,15 +2328,15 @@
 
 583
 00:33:29,320 --> 00:33:30,400
- I think it may be time for a survey.
+ Liz: I think it may be time for a survey.
 
 584
 00:33:30,400 --> 00:33:33,600
- I'm just going to say I don't think it should just be levitation members because obviously
+ I'm just going to say I don't think it should just be Levitation members because obviously
 
 585
 00:33:33,600 --> 00:33:36,520
- there will be people who aren't joining levitation for that reason.
+ there will be people who aren't joining Levitation for that reason.
 
 586
 00:33:36,520 --> 00:33:38,160
@@ -2344,7 +2344,7 @@
 
 587
 00:33:38,160 --> 00:33:44,200
- But we have surveyed EasterCon members before in the future of EasterCon surveys.
+ But we have surveyed Eastercon members before in the Future of Eastercon surveys.
 
 588
 00:33:44,200 --> 00:33:46,240
@@ -2360,7 +2360,7 @@
 
 591
 00:33:54,120 --> 00:33:58,240
- I do love that we have people on both sides of this argument in this podcast.
+ Alison: I do love that we have people on both sides of this argument in this podcast.
 
 592
 00:33:58,240 --> 00:34:01,800
@@ -2368,23 +2368,23 @@
 
 593
 00:34:01,800 --> 00:34:03,000
- adcope.
+ I'd cope.
 
 594
 00:34:03,000 --> 00:34:05,600
- Would you wear a mask if it meant you would see John as a convention?
+ Liz: Would you wear a mask if it meant you would see John as a convention?
 
 595
 00:34:05,600 --> 00:34:08,680
- I see John at times other than conventions.
+ Alison: I see John at times other than conventions.
 
 596
 00:34:08,680 --> 00:34:11,360
- But I am just going to say the other thing that would change a lot of this is if you could
+ John: But I am just going to say the other thing that would change a lot of this is if you could
 
 597
 00:34:11,360 --> 00:34:17,640
- get a COVID booster from boots and you could get it in late February because my attitude
+ get a COVID booster from Boots and you could get it in late February because my attitude
 
 598
 00:34:17,640 --> 00:34:22,080
@@ -2396,15 +2396,15 @@
 
 600
 00:34:23,200 --> 00:34:28,240
- I do very unsafe things at Novicon every year and I have not caught COVID at Novicon and
+ Alison: I do very unsafe things at Novacon every year and I have not caught COVID at Novicon and
 
 601
 00:34:28,240 --> 00:34:31,160
- that's because I always have my boot booster in October.
+ that's because I always have my booster in October.
 
 602
 00:34:31,160 --> 00:34:32,880
- Novicon's a month later.
+ Novacon's a month later.
 
 603
 00:34:32,880 --> 00:34:33,880
@@ -2412,11 +2412,11 @@
 
 604
 00:34:33,880 --> 00:34:37,800
- I would like to have a second booster about the before Easter card and not only would
+ I would like to have a second booster a month before Eastercon and not only would
 
 605
 00:34:37,800 --> 00:34:39,800
- I get one but I get to lots of people.
+ I get one but I woule tell lots of people.
 
 606
 00:34:39,800 --> 00:34:43,760
@@ -2428,7 +2428,7 @@
 
 608
 00:34:46,400 --> 00:34:51,320
- When you can plan it then, it's quite nice because we had to, Mike was near a gig and
+ John: Well you can plan it then, it's quite nice because we had to, Mike Wozniak gig and
 
 609
 00:34:51,320 --> 00:34:54,800
@@ -2448,7 +2448,7 @@
 
 613
 00:35:00,720 --> 00:35:02,520
- I was incredibly irritating.
+ That was incredibly irritating.
 
 614
 00:35:02,520 --> 00:35:03,520
@@ -2468,7 +2468,7 @@
 
 618
 00:35:10,080 --> 00:35:15,160
- I might like Mike Wozniak's mustache more than I like Eastercon.
+ I might like Mike Wozniak's moustache more than I like Eastercon.
 
 619
 00:35:15,160 --> 00:35:16,280
@@ -2476,11 +2476,11 @@
 
 620
 00:35:16,280 --> 00:35:20,280
- It was spectacularly inconvenient for me catching COVID at Eastercon.
+ Alison: It was spectacularly inconvenient for me catching COVID at Eastercon.
 
 621
 00:35:20,280 --> 00:35:23,880
- Mary-Ann also caught COVID and had to delay the start date of her job.
+ Marianne also caught COVID and had to delay the start date of her job.
 
 622
 00:35:23,880 --> 00:35:26,600
@@ -2488,7 +2488,7 @@
 
 623
 00:35:26,600 --> 00:35:27,920
- It's a very brief plug.
+ Liz: It's a very brief plug.
 
 624
 00:35:27,920 --> 00:35:32,560
@@ -2504,7 +2504,7 @@
 
 627
 00:35:41,000 --> 00:35:44,240
- Like one of these boots, like the, you know, boots, dual-defencing, it's like that.
+ Like one of those Boots, like the, you know, Boots Dual Defence things, it's like that.
 
 628
 00:35:44,240 --> 00:35:46,200
@@ -2512,7 +2512,7 @@
 
 629
 00:35:46,200 --> 00:35:50,880
- And I don't know if it made a difference or not, but it was not like horrible to do.
+ And I don't know if it made a difference or not, but it was not, like, horrible to do.
 
 630
 00:35:50,880 --> 00:35:56,120
@@ -2524,19 +2524,19 @@
 
 632
 00:35:59,280 --> 00:36:04,320
- So I think that will be part of my like regimen for future events, to be honest.
+ So I think that will be part of my regimen for future events, to be honest.
 
 633
 00:36:04,320 --> 00:36:06,400
- Oh, I'm 100% up for that.
+ Alison: Oh, I'm 100% up for that.
 
 634
 00:36:06,400 --> 00:36:07,400
- Sounds good.
+ John: Sounds good.
 
 635
 00:36:07,400 --> 00:36:08,400
- Can't buy it.
+ Liz: Can't buy it.
 
 636
 00:36:08,400 --> 00:36:09,400
@@ -2544,23 +2544,23 @@
 
 637
 00:36:09,400 --> 00:36:10,400
- I'll bring you about all next time.
+ I'll bring you a bottle next time.
 
 638
 00:36:10,400 --> 00:36:13,160
- I want to talk very quickly about the green room.
+ John: I want to talk very quickly about the green room.
 
 639
 00:36:13,160 --> 00:36:18,840
- This is one area where I think the way that conversation did green room made me think
+ This is one area where I think the way that Conversation did green room made me think
 
 640
 00:36:18,840 --> 00:36:24,160
- that you could have done with a lot of tiny rooms like they have at the park in and he
+ that you could have done with a lot of tiny rooms like they have at the Park Inn 
 
 641
 00:36:24,160 --> 00:36:28,240
- throw because then you could have a tiny, you could have a green room per room.
+ in Heathrow because then you could have a tiny, you could have a green room per room?
 
 642
 00:36:28,240 --> 00:36:30,360
@@ -2572,15 +2572,15 @@
 
 644
 00:36:32,560 --> 00:36:35,280
- And the problem is with conference centers.
+ And the problem is with conference centres.
 
 645
 00:36:35,280 --> 00:36:40,280
- So I don't know whether this will work for levitation or for reconnect, which is the 2025
+ So I don't know whether this will work for Levitation or for Reconnect, which is the 2025
 
 646
 00:36:40,280 --> 00:36:44,080
- Belfast EATCOM because they're both convention center EATCOMs.
+ Belfast Eastercon because they're both convention center Eastercons.
 
 647
 00:36:44,080 --> 00:36:50,040
@@ -2588,7 +2588,7 @@
 
 648
 00:36:50,040 --> 00:36:54,800
- green rooms in them, if you were going to use the same model as conversation might potentially
+ green rooms in them, if you were going to use the same model as Conversation might potentially
 
 649
 00:36:54,800 --> 00:36:56,040
@@ -2600,7 +2600,7 @@
 
 651
 00:36:59,360 --> 00:37:02,920
- It's a bit of a funny pain for the green room stuff because to tell if people are actually
+ It's a bit of a pain for the green room stuff because to tell if people are actually
 
 652
 00:37:02,920 --> 00:37:04,720
@@ -2616,7 +2616,7 @@
 
 655
 00:37:08,160 --> 00:37:11,120
- I think we should have a hundred percent virtual green room.
+ Alison: I think we should have a hundred percent virtual green room.
 
 656
 00:37:11,120 --> 00:37:15,480
@@ -2628,7 +2628,7 @@
 
 658
 00:37:17,800 --> 00:37:23,240
- I cannot successfully overstate how much I disagree with that.
+ John: I cannot successfully overstate how much I disagree with that.
 
 659
 00:37:23,240 --> 00:37:24,800
@@ -2644,11 +2644,11 @@
 
 662
 00:37:31,240 --> 00:37:34,040
- Reason one, log in onto a zoom.
+ Reason one, logging onto a Zoom.
 
 663
 00:37:34,040 --> 00:37:40,720
- I didn't log on to the zoom during the convention and that adds a layer of things I have to
+ I didn't log on to the Zoom during the convention and that adds a layer of things I have to
 
 664
 00:37:40,720 --> 00:37:41,720
@@ -2680,7 +2680,7 @@
 
 671
 00:38:06,280 --> 00:38:09,040
- on the panel with them, especially if it's on, I don't know very well.
+ on the panel with them, especially if it's someone I don't know very well.
 
 672
 00:38:09,040 --> 00:38:11,120
@@ -2688,11 +2688,11 @@
 
 673
 00:38:11,120 --> 00:38:15,600
- I wouldn't have liked, especially, I'm not going to plug the Adrian Tchaikovsky interview
+ I wouldn't have liked, especially, I'm going to plug the Adrian Tchaikovsky interview
 
 674
 00:38:15,600 --> 00:38:20,120
- against Ory listeners, but especially when I met Adrian Tchaikovsky for the first time,
+ again sorry listeners, but especially when I met Adrian Tchaikovsky for the first time,
 
 675
 00:38:20,120 --> 00:38:24,120
@@ -2720,7 +2720,7 @@
 
 681
 00:38:37,200 --> 00:38:39,280
- So yeah, I think the green room was very experimental.
+ Alison: So yeah, I think the green room was very experimental.
 
 682
 00:38:39,280 --> 00:38:40,440
@@ -2728,15 +2728,15 @@
 
 683
 00:38:40,440 --> 00:38:44,240
- I think hybrid was a huge success for this gone.
+ I think hybrid was a huge success for this gcon.
 
 684
 00:38:44,240 --> 00:38:45,240
- Yep.
+ John: Yep.
 
 685
 00:38:45,240 --> 00:38:50,800
- I love the way that on the Friday morning everyone was like, oh, this item has a disembodied
+ Alison: I love the way that on the Friday morning everyone was like, oh, this item has a disembodied
 
 686
 00:38:50,800 --> 00:38:55,320
@@ -2744,7 +2744,7 @@
 
 687
 00:38:55,320 --> 00:38:58,440
- of virtual things that it was just part of what happened at the Eastcon and I think
+ of virtual things that it was just part of what happened at the Eastercon and I think
 
 688
 00:38:58,440 --> 00:38:59,920
@@ -2756,7 +2756,7 @@
 
 690
 00:39:05,880 --> 00:39:10,320
- I tell you what, JT's sad nod in the Eastcon Live episode.
+ John: I tell you what, JT's sad nod in the Octothorpe Live episode.
 
 691
 00:39:10,320 --> 00:39:14,920
@@ -2764,7 +2764,7 @@
 
 692
 00:39:14,920 --> 00:39:19,520
- I didn't see his sad nod, so you'll have to describe it to me.
+ Alison: I didn't see his sad nod, so you'll have to describe it to me.
 
 693
 00:39:19,520 --> 00:39:25,280
@@ -2772,7 +2772,7 @@
 
 694
 00:39:25,280 --> 00:39:30,880
- he is Kenny Wave, or maybe I said if you are Kenny Wave, and he just did the sadest nod
+ he is can he wave, or maybe I said if you can you wave, and he just did the saddest nod
 
 695
 00:39:30,880 --> 00:39:34,040
@@ -2780,7 +2780,7 @@
 
 696
 00:39:34,040 --> 00:39:38,240
- He always has at least one hilarious interjection in Octatore Live episodes Eastcon.
+ He always has at least one hilarious interjection in Octothorpe Live episodes at Eastercon.
 
 697
 00:39:38,240 --> 00:39:39,240
@@ -2796,11 +2796,11 @@
 
 700
 00:39:41,240 --> 00:39:42,720
- So I mean, are we talking virtual?
+ Liz: So I mean, are we talking virtual?
 
 701
 00:39:42,720 --> 00:39:43,720
- We can do.
+ John: We can do.
 
 702
 00:39:43,720 --> 00:39:44,720
@@ -2808,7 +2808,7 @@
 
 703
 00:39:44,720 --> 00:39:47,840
- The question did virtual really, really well.
+ Liz: The convention did virtual really, really well.
 
 704
 00:39:47,840 --> 00:39:52,040
@@ -2816,15 +2816,15 @@
 
 705
 00:39:52,040 --> 00:39:54,560
- green rooms a bit like Cough Allison.
+ green rooms a bit late *cough* Alison.
 
 706
 00:39:54,560 --> 00:39:59,480
- Oh, I had a massive, massive problem getting on.
+ Alison Oh, I had a massive, massive problem getting on.
 
 707
 00:39:59,480 --> 00:40:05,000
- So that was an unforeseen situation where he had to suddenly add in a Zoom stream that
+ Liz: So that was an unforeseen situation where he had to suddenly add in a Zoom stream that
 
 708
 00:40:05,000 --> 00:40:06,440
@@ -2852,7 +2852,7 @@
 
 714
 00:40:26,280 --> 00:40:28,520
- wouldn't be seen as everything would be delayed.
+ wouldn't be seen and everything would be delayed.
 
 715
 00:40:28,520 --> 00:40:34,560
@@ -2864,11 +2864,11 @@
 
 717
 00:40:36,040 --> 00:40:40,480
- I would be much more likely to feature a response virtually because I know it may work.
+ I would be much more likely to do future Eastercons virtually because I know it may work.
 
 718
 00:40:40,480 --> 00:40:44,920
- And so I don't know if conversation just, I don't know whether you just didn't promote
+ And so I don't know if Conversation just, I don't know whether you just didn't promote
 
 719
 00:40:44,920 --> 00:40:48,440
@@ -2896,7 +2896,7 @@
 
 725
 00:41:04,760 --> 00:41:06,920
- I mean, I think that was always our vision, right?
+ Alison: I mean, I think that was always our vision, right?
 
 726
 00:41:06,920 --> 00:41:12,240
@@ -2952,11 +2952,11 @@
 
 739
 00:41:54,800 --> 00:41:59,400
- So it actually does that thing and I'm going to claim some visionary bit for this.
+ So it actually does that thing and I'm going to claim some visionary bit for this,
 
 740
 00:41:59,400 --> 00:42:05,600
- My vision that the Discord should surround and envelop the cons so that you have that
+ my vision that the Discord should surround and envelope the cons so that you have that
 
 741
 00:42:05,600 --> 00:42:10,040
@@ -2964,7 +2964,7 @@
 
 742
 00:42:10,040 --> 00:42:12,600
- sense of it supporting the catch up for the convention.
+ sense of it supporting the catch-up for the convention.
 
 743
 00:42:12,600 --> 00:42:13,800
@@ -2984,7 +2984,7 @@
 
 747
 00:42:25,400 --> 00:42:31,400
- I do just want to say that even though I was at the convention in me space, I did be on
+ John: I do just want to say that even though I was at the convention in meatspace, I did be on
 
 748
 00:42:31,400 --> 00:42:32,640
@@ -2992,7 +2992,7 @@
 
 749
 00:42:32,640 --> 00:42:39,560
- I think any even purely meet space conventions should have good Discords because even if
+ I think any even purely meatspace conventions should have good Discords because even if
 
 750
 00:42:39,560 --> 00:42:45,640
@@ -3004,7 +3004,7 @@
 
 752
 00:42:46,640 --> 00:42:51,760
- I would agree with that, but there is an issue for large conventions, which is that we manually
+ Alison: I would agree with that, but there is an issue for large conventions, which is that we manually
 
 753
 00:42:51,760 --> 00:42:53,960
@@ -3036,7 +3036,7 @@
 
 760
 00:43:12,920 --> 00:43:17,400
- James and Andrew, if you're listening, I'd be interested in being in that working group
+ John: James and Andrew, if you're listening, I'd be interested in being in that working group
 
 761
 00:43:17,400 --> 00:43:19,680
@@ -3044,7 +3044,7 @@
 
 762
 00:43:19,680 --> 00:43:28,040
- I am concerned that Worldcon is considering single sign-on solutions and certainly as
+ Alison: I am concerned that Worldcon is considering single sign-on solutions and certainly as
 
 763
 00:43:28,040 --> 00:43:32,080
@@ -3052,7 +3052,7 @@
 
 764
 00:43:32,080 --> 00:43:38,920
- Chicon's use of air meat was dreadful and I think we need to do better and Discord is
+ Chicon's use of Airmeet was dreadful and I think we need to do better and Discord is
 
 765
 00:43:38,920 --> 00:43:41,120
@@ -3064,11 +3064,11 @@
 
 767
 00:43:46,640 --> 00:43:49,840
- All threads for program items are amazingly good.
+ All threads for programme items are amazingly good.
 
 768
 00:43:49,840 --> 00:43:55,160
- They are the best thing, even if it's not octa-thorp and you have 310 people posting
+ They are the best thing, even if it's not Octothorpe and you have 310 people posting
 
 769
 00:43:55,160 --> 00:43:58,120
@@ -3080,7 +3080,7 @@
 
 771
 00:44:02,040 --> 00:44:05,920
- Even if you can't do automatic onboarding, which thing you can, the other thing you could
+ John: Even if you can't do automatic onboarding, which thing you can, the other thing you could
 
 772
 00:44:05,920 --> 00:44:11,640
@@ -3096,11 +3096,11 @@
 
 775
 00:44:15,440 --> 00:44:20,040
- Yes, but then you have to moderate your Discord for a year and a half.
+ Alison: Yes, but then you have to moderate your Discord for a year and a half.
 
 776
 00:44:20,040 --> 00:44:21,800
- No, no, read-only.
+ John: No, no, read-only.
 
 777
 00:44:21,800 --> 00:44:25,000
@@ -3116,7 +3116,7 @@
 
 780
 00:44:28,880 --> 00:44:29,880
- Okay, yep.
+ Alison: Okay, yep.
 
 781
 00:44:29,880 --> 00:44:35,640
@@ -3128,7 +3128,7 @@
 
 783
 00:44:41,240 --> 00:44:46,600
- I mean, can you choose a better time period to do it because if you do it year and a half
+ Liz: I mean, can you choose a better time period to do it because if you do it year and a half
 
 784
 00:44:46,600 --> 00:44:49,320
@@ -3136,15 +3136,15 @@
 
 785
 00:44:49,320 --> 00:44:53,720
- logins, you know, before the com, but not like now.
+ logins, you know. Before the con, but not like now.
 
 786
 00:44:53,720 --> 00:44:57,560
- It would be much better to have an automatic solution.
+ John: It would be much better to have an automatic solution.
 
 787
 00:44:57,560 --> 00:45:03,560
- It did seem to me that the kind of Discord plus Zoom plus whatever Magic JT was doing
+ Liz: It did seem to me that the kind of Discord plus Zoom plus whatever magic JT was doing
 
 788
 00:45:03,560 --> 00:45:08,240
@@ -3160,11 +3160,11 @@
 
 791
 00:45:15,160 --> 00:45:17,840
- But it did seem to work better than AirMe.
+ But it did seem to work better than Airmeet.
 
 792
 00:45:17,840 --> 00:45:22,240
- I mean, the main issue with it was just actually getting people logged on because they don't
+ I mean, the main issue with it was just actually getting people logged on because I don't
 
 793
 00:45:22,240 --> 00:45:26,240
@@ -3172,11 +3172,11 @@
 
 794
 00:45:26,240 --> 00:45:28,520
- Yeah, there was a bug in the registration.
+ Alison: Yeah, there was a bug in the registration.
 
 795
 00:45:28,520 --> 00:45:32,640
- What we should have done with the great evidence of high-sized is if we'd had a couple of
+ What we should have done with the great evidence of hindsight is if we'd had a couple of
 
 796
 00:45:32,640 --> 00:45:36,680
@@ -3212,11 +3212,11 @@
 
 804
 00:46:02,200 --> 00:46:07,760
- Are you suggesting some kind of testing of software is a good thing?
+ Liz: Are you suggesting some kind of testing of software is a good thing?
 
 805
 00:46:07,760 --> 00:46:12,640
- The other thing I wanted to say on virtual is that the one area that we fell down was
+ Alison: The other thing I wanted to say on virtual is that the one area that we fell down was
 
 806
 00:46:12,640 --> 00:46:20,240
@@ -3240,7 +3240,7 @@
 
 811
 00:46:42,280 --> 00:46:45,680
- I thought that once we had virtual things that encouraged people to use them, that would
+ I thought that once we had virtual things and encouraged people to use them, that would
 
 812
 00:46:45,680 --> 00:46:47,720
@@ -3248,7 +3248,7 @@
 
 813
 00:46:47,720 --> 00:46:50,480
- What were you hoping that people would just sort of sit at a virtual table in the hope
+ Liz: What were you hoping that people would just sort of sit at a virtual table in the hope
 
 814
 00:46:50,480 --> 00:46:53,080
@@ -3256,7 +3256,7 @@
 
 815
 00:46:53,080 --> 00:46:54,800
- I thought that a few people would.
+ Alison: I thought that a few people would.
 
 816
 00:46:54,800 --> 00:46:57,280
@@ -3264,11 +3264,11 @@
 
 817
 00:46:57,280 --> 00:47:02,200
- But I don't think you had enough purely, if you weren't a virtual member, then you were
+ Liz: But I don't think you had enough purely, if you weren't a virtual member, then you were
 
 818
 00:47:02,200 --> 00:47:06,600
- probably in the refetri or the bar or maybe somewhere slightly better ventilation.
+ probably in the refectory or the bar or maybe somewhere slightly better ventilation.
 
 819
 00:47:06,600 --> 00:47:09,120
@@ -3292,11 +3292,11 @@
 
 824
 00:47:28,120 --> 00:47:31,160
- this is our evening Zoom social," would have probably worked.
+ this is our evening Zoom social", would have probably worked.
 
 825
 00:47:31,160 --> 00:47:37,000
- Yeah, I mean, we had a couple of cafe mooses and they went quite well as hybrids.
+ Alison: Yeah, I mean, we had a couple of Cafe Mooses and they went quite well as hybrids.
 
 826
 00:47:37,000 --> 00:47:38,000
@@ -3304,7 +3304,7 @@
 
 827
 00:47:38,000 --> 00:47:42,200
- Yeah, but mooses already got people, basically people who know how Zoom socials work and
+ Liz: Yeah, but Mooses already got people, basically people who know how Zoom socials work and
 
 828
 00:47:42,200 --> 00:47:47,200
@@ -3320,7 +3320,7 @@
 
 831
 00:47:53,960 --> 00:47:59,400
- No, because obviously Zoom socials at hybrids are very important to me, but if I'm attending
+ Alison: No, because obviously Zoom socials at hybrids are very important to me, but if I'm attending
 
 832
 00:47:59,400 --> 00:48:03,240
@@ -3336,11 +3336,11 @@
 
 835
 00:48:11,720 --> 00:48:15,680
- wasn't actually stuck in my hotel room with Covid for very long and I was quite busy.
+ wasn't actually stuck in my hotel room with COVID for very long and I was quite busy, so
 
 836
 00:48:15,680 --> 00:48:19,800
- So I did think, I mean, I've been to that hotel before, I've never actually stayed in
+ Liz: I did think, I mean, I've been to that hotel before, I've never actually stayed in
 
 837
 00:48:19,800 --> 00:48:24,560
@@ -3348,7 +3348,7 @@
 
 838
 00:48:24,560 --> 00:48:29,360
- for the weird, my personal round. Why do the hotel rooms not have any draws in? Who decided
+ for the weird, my personal rant, why do the hotel rooms not have any drawers in? Who decided
 
 839
 00:48:29,360 --> 00:48:32,560
@@ -3356,7 +3356,7 @@
 
 840
 00:48:32,560 --> 00:48:38,960
- This hotel room I'm currently in also does not. It is in fashion, Liz, draws for idiots,
+ John: This hotel room I'm currently in also does not. It is in fashion, Liz, drawers for idiots,
 
 841
 00:48:38,960 --> 00:48:44,040
@@ -3364,11 +3364,11 @@
 
 842
 00:48:44,040 --> 00:48:52,200
- I mean, our room, which was a suite in the Hilton, did not have, it's not that it didn't
+ Alison: I mean, our room, which was a suite in the Hilton, did not have, it's not that it didn't
 
 843
 00:48:52,200 --> 00:48:55,520
- have draws, because I think not having draws is a great idea. The problem with draws is
+ have drawers, because I think not having drawers is a great idea. The problem with drawers is
 
 844
 00:48:55,520 --> 00:49:00,440
@@ -3376,7 +3376,7 @@
 
 845
 00:49:00,440 --> 00:49:05,320
- of draws, that's still a lot better than not having them. But their view seemed to be that
+ of drawers, that's still a lot better than not having them. But their view seemed to be that
 
 846
 00:49:05,320 --> 00:49:09,560
@@ -3392,11 +3392,11 @@
 
 849
 00:49:18,200 --> 00:49:20,920
- I would accept shelves. I mean...
+ Liz: I would accept shelves. I mean...
 
 850
 00:49:20,920 --> 00:49:26,840
- This room has two shelves and room for about hanging 20 pieces of clothes, which is, I
+ John: This room has two shelves and room for about hanging 20 pieces of clothes, which is, I
 
 851
 00:49:26,840 --> 00:49:30,560
@@ -3408,19 +3408,19 @@
 
 853
 00:49:36,240 --> 00:49:41,640
- this particular one. I can't imagine a circumstances in which I tag up a t-shirt really.
+ this particular one. Alison: I can't imagine circumstances in which I hang up a t-shirt really.
 
 854
 00:49:41,640 --> 00:49:45,560
- When there's no draws or shelves, that's when you hang a t-shirt. No, I just leave
+ Liz: When there's no drawers or shelves, that's when you hang a t-shirt. Alison: No, I just leave
 
 855
 00:49:45,560 --> 00:49:50,840
- them at an orderly pile on the floor, Liz. Oh yeah, I don't put my clothes on the floor.
+ them at an orderly pile on the floor, Liz. Liz: Oh yeah, I don't put my clothes on the floor.
 
 856
 00:49:50,840 --> 00:49:55,600
- Oh no, I mean I've got standards. Yeah. I mean I also bought a lot of clothes when
+ John: Oh no, I mean I've got standards. Liz: Yeah. I mean I also bought a lot of clothes when
 
 857
 00:49:55,600 --> 00:49:59,880
@@ -3432,15 +3432,15 @@
 
 859
 00:50:07,280 --> 00:50:12,200
- of the EasterCon hotels we've been to recently, just because it's big. I never had to queue
+ of the Eastercon hotels we've been to recently, just because it's big. I never had to queue
 
 860
 00:50:12,200 --> 00:50:15,320
- for programme rooms. There was just tons of space in Italy, all of them. The corridor
+ for programme rooms. There was just tons of space in nearly all of them. The corridor
 
 861
 00:50:15,320 --> 00:50:22,600
- is a big. It's not as bad as some of the others. You can have a nice big dealer's room.
+ is big. It's not as maze-like as some of the others. You can have a nice big dealer's room.
 
 862
 00:50:22,600 --> 00:50:28,200
@@ -3448,7 +3448,7 @@
 
 863
 00:50:28,200 --> 00:50:33,360
- In Italy, you have to walk through the NEC, which may be full of 40,000 people who all
+ Initially, you have to walk through the NEC, which may be full of 40,000 people who all
 
 864
 00:50:33,360 --> 00:50:35,720
@@ -3456,11 +3456,11 @@
 
 865
 00:50:35,720 --> 00:50:38,600
- On the way back to the train station, on the last night I had to walk through the NEC
+ John: On the way back to the train station, on the last night I had to walk through the NEC
 
 866
 00:50:38,600 --> 00:50:43,680
- and they wanted to check my bag. I was like, "What happens if you don't line my bag?"
+ and they wanted to check my bag. I was like, "What happens if you don't like my bag?"
 
 867
 00:50:43,680 --> 00:50:48,640
@@ -3480,27 +3480,27 @@
 
 871
 00:51:03,760 --> 00:51:05,840
- as a venue for the EastCon in general.
+ as a venue for the Eastercon in general.
 
 872
 00:51:05,840 --> 00:51:10,200
- Anything else people want to say? We should probably say the programme was amazing. Well
+ Alison: Anything else people want to say? We should probably say the programme was amazing. Well
 
 873
 00:51:10,200 --> 00:51:11,200
- done, see.
+ done, Z.
 
 874
 00:51:11,200 --> 00:51:15,320
- Oh yes, no. The programme was really good. The catch-up was really good. The hybrid was
+ John: Oh yes, no. The programme was really good. The catch-up was really good. The hybrid was
 
 875
 00:51:15,320 --> 00:51:21,400
- really good. The real ale I quite liked. The port was good.
+ really good. The real ale I quite liked. The porter was good.
 
 876
 00:51:21,400 --> 00:51:25,920
- I liked the real ale. It wasn't as good as it could have been, but it was pretty bloody
+ Alison: I liked the real ale. It wasn't as good as it could have been, but it was pretty bloody
 
 877
 00:51:25,920 --> 00:51:30,240
@@ -3512,11 +3512,11 @@
 
 879
 00:51:32,200 --> 00:51:38,480
- However, seven quits, seven pounds for a pint. My brain cannot process this.
+ Liz: However, seven quids, seven pounds for a pint. My brain cannot process this.
 
 880
 00:51:38,480 --> 00:51:43,920
- Yep, so that was a lot, but my theory was that people would grumble but they would pay
+ Alison: Yep, so that was a lot, but my theory was that people would grumble but they would pay
 
 881
 00:51:43,920 --> 00:51:47,760
@@ -3532,27 +3532,27 @@
 
 884
 00:51:53,840 --> 00:51:59,040
- evening." I mean, I think a lot of people ate in the hotel as well.
+ evening." Liz: I mean, I think a lot of people ate in the hotel as well.
 
 885
 00:51:59,040 --> 00:52:03,720
- Oh, the food trucks. The food trucks were great. Did the food trucks count towards your
+ John: Oh, the food trucks. Liz: The food trucks were great. John:Did the food trucks count towards your
 
 886
 00:52:03,720 --> 00:52:05,480
- food and drinks, Ben? Yes.
+ food and drink spend? Alison: Yes.
 
 887
 00:52:05,480 --> 00:52:07,040
- Ah, okay.
+ Liz: Ah, okay.
 
 888
 00:52:07,040 --> 00:52:10,400
- Ha ha. The life hack. That is very clever.
+ John: Ha ha. The life hack. That is very clever.
 
 889
 00:52:10,400 --> 00:52:15,720
- Food trucks on the real ale and all of the hotels bar stuff. So all the... I'm pretty
+ Alison: Food trucks on the real ale and all of the hotels bar stuff. So all the... I'm pretty
 
 890
 00:52:15,720 --> 00:52:19,960
@@ -3572,11 +3572,11 @@
 
 894
 00:52:31,000 --> 00:52:33,560
- No. No, yeah, no, it's fair enough.
+ John: No. No, yeah, no, it's fair enough.
 
 895
 00:52:33,560 --> 00:52:39,200
- I think I drank fewer pints because they were seven quid and also they were nice. I didn't
+ Liz: I think I drank fewer pints because they were seven quid and also they were nice. I didn't
 
 896
 00:52:39,200 --> 00:52:44,360
@@ -3588,19 +3588,19 @@
 
 898
 00:52:48,160 --> 00:52:51,600
- That was the old store podcast and it's goodbye from me.
+ John: That was the Octothorpe podcast and it's goodbye from me.
 
 899
 00:52:51,600 --> 00:52:55,160
- It's goodbye from me. It's goodbye from me.
+ Alison: It's goodbye from me. Liz: It's goodbye from me.
 
 900
 00:53:15,160 --> 00:53:20,000
- So I don't know if this is something that you guys will appreciate, but Caroline Mullen
+ Alison: So I don't know if this is something that you guys will appreciate, but Caroline Mullan
 
 901
 00:53:20,000 --> 00:53:24,320
- has just messaged me to say, "Allison, are you all right? You haven't posted anywhere
+ has just messaged me to say, "Alison, are you all right? You haven't posted anywhere
 
 902
 00:53:24,320 --> 00:53:27,280
@@ -3608,15 +3608,15 @@
 
 903
 00:53:27,280 --> 00:53:31,880
- Have we been podcasting so long that people are worried about you?
+ John: Have we been podcasting so long that people are worried about you?
 
 904
 00:53:31,880 --> 00:53:35,280
- Yes. We've been podcasting for three hours.
+ Liz: Yes. We've been podcasting for three hours.
 
 905
 00:53:35,280 --> 00:53:40,400
- This is a savage indictment of how permanently online you are and also how long we have been
+ John: This is a savage indictment of how permanently online you are and also how long we have been
 
 906
 00:53:40,400 --> 00:53:41,400
@@ -3624,13 +3624,13 @@
 
 907
 00:53:41,400 --> 00:53:42,960
- We have been doing it a long time.
+ Alison: We have been doing it a long time.
 
 908
 00:53:42,960 --> 00:53:43,960
- Yeah.
+ John: Yeah.
 
 909
 00:53:43,960 --> 00:54:11,400
- Team music for this episode was Fanfare for Space by Kevin MacLeod in Com
+ The music for this episode was Fanfare for Space by Kevin MacLeod at incompetech.com used under a Creative Commons Attribution 4.0 licence. Liz: This podcast will end at the beep. John: <beep>
 
