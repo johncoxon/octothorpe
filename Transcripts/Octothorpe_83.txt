@@ -1,0 +1,432 @@
+**John:** I keep clicking the stop video button when I click back to zoom.
+
+**Liz:** What? Don't turn your video off. It's like you've gone off in a huff, John.
+
+**John:** I can't believe you said that, Liz.
+
+**Alison:** Okay, that was a bit of a visual joke.
+
+<Music>
+
+**John** Hello, everyone, and welcome to the very 83rd episode of Octothorpe, a podcast for science fiction and science fiction fandom, which is coming to you on the 11th of May 2023. And King Charles has got his crown on.
+
+I'm John Coxon.
+
+**Alison:** I’m Alison Scott.
+
+**Liz:** And I'm Liz Batty.
+
+**John:** Did you guys enjoy the Coronation?
+
+**Liz:** probably?
+
+**Alison:** We're recording this one immediately after we recorded episode 82 because we have a load of stuff to talk about, about Eastercon and so on, but we couldn't do any of that because we were too busy talking about the Hugo nominations in time for you to nominate.
+
+**John:** I spent the Coronation playing board games.
+Right then! We have letters of comment. We don't have letters of comment on last episode because of what Alison just said, but we do have letters of comment on the two episodes from before that. So strap in.
+
+First up, we have a letter of comment from Raj who says that he strongly agrees with me that _Digger_ is excellent and did point out that I hadn't put the link in the show notes but I have fixed that now. He has a hard copy, which is the omnibus that Sofawolf Press did years back and it is a beast of a book. And I have not got a hard copy, but I can imagine that it's quite big.
+
+**Liz:** Can you? Er, yes. 
+
+**John:** Liz.
+
+**Liz:** Um, maybe to say, uh, thank you to everyone who watched us live at Eastercon and left comment, and to those who watched us live and then listened to the actual podcast, which I think is going above and beyond.
+
+Thank you to Fran who left us a letter of comment – and I think this might be a new one – she left us a letter of comment in the Discord thread for our item on the Eastercon Discord. And she's basically off to give her cats their Dreamies via the medium of interpretive dance, which is another way of giving us a letter of comment.
+
+I would also like to say thank you to everyone who made our item at Conversation the one with the most Discord comments. I don't think this is a reflection of the engagement with the item so much as (a) our listeners like to back channel a bunch of shit at us in the Discord and also that we did start about half an hour late, so they had to really entertain themselves.
+
+**John:** Jonny Baddeley also watched live and then listened to the podcast afterwards. So yeah, that is, it is dedication.
+
+**Liz:** I mean, I didn't do that.
+
+**Alison:** There was some serious discussion about looking at the amount of engagement on the Discord as a measure of how good program items were and guys, don't do that.
+
+**John:** Our program item was the best program item.
+
+**Alison:** We have the most comments on the Discord of any item at Conversation by a factor of about three, I think. The other thing about the live thing is at the end of it, it just kind of finished and then they turned off my zoom and I was like, oh, that means I don't get to say goodbye to John and Liz, and Liz is going back to Thailand, because immediately now I am going to get in a car, get in a plague-ridden car and drive back to London. But neither of the other two people in the car got the plague. So there you go. But I didn't get to say goodbye. So bye bye, chaps.
+
+**John:** Bye Alison.
+
+We also heard from España Sheriff who let us know that there is a D&D TV series in the works in which Joe Manganiello is adapting the Dragonlance series to TV, which we now know was a formative book series for both Niall Harrison and Adrian Tchaikovsky. So, yeah, interesting stuff. He's also working on a documentary. He is a massive nerd. It's good. I like it.
+
+**Alison:** Farah Mendlesohn wrote to say that we can't hold the Eastercon in Wales because we can't find a suitable venue, which I think is something that most people agree. And she also says that Telford is the main convention venue for Wales. Welsh people, write in.
+
+**John:** I remember the Chester Eastercon. I wish we could go back to Chester. That was a great venue.
+
+**Alison:** Chester is also not a primary convention venue for Wales.
+
+**John:** It’s better than Telford.
+
+**Liz:** But in terms of being in Wales.
+
+**John:** If there is a spectrum of Welshness, Chester is more Welsh than Telford.
+
+**Liz:** Yeah.
+
+**John:** I suspect that's just angered Welsh people and Chester people. So that's good.
+
+**John:** So we have a letter of comment from James Shields about Plan Z, and we mentioned this in episode 80. He confirms that it is a fork of Zambia. And he does note, “For a while, I've felt that naming your project after an African country might be culturally insensitive.” That is a fair thing to point out that we did not cover at the end of episode 80. There is a GitHub for Plan Z, and listener to the show Andrew January has created a GitHub issue to suggest changing the name away from Plan Z, and we will put a link to that issue in the show notes if you want to contribute. There are some other names being suggested and whatnot. If I had known there was a GitHub repo for Plan Z, I would have gone and raised an issue myself but I did not know. So thank you to Andrew for telling us.
+
+**Alison:** Yes, Zi Graves has suggested the name Ariadne because it weaves a lot of threads together. And I super like that. Plus it supports our spider theme. More spiders in science fiction, please.
+
+**John:** On the subject of spiders in science fiction, Esther MacCallum-Stewart wrote in to tell us that there will be a Spiders track at Glasgow in 2024. There will also be one about Armadillos and one devoted to Badger and collectively the Badger, Armadillo and Spiders tracks will be called all about that BAS which is an incredibly tortured joke that I loved. Thank you very much Esther.
+
+**Liz:** Pretty good.
+
+**John:** Chris Garcia wrote to us on the 31st of March. And he says it was another good episode. And notes that there has been small scale octopus farming for centuries by his tribe. You'd find corrals of thornwood, redwood and oak built in tiny bays that would keep them in pens. They used a lasso to catch them and dumped them in there. The oak is sturdy, the thornwood prickly and the redwood full of tannins that octopus don't much care for. They also supposedly penned in dolphins but they don't get residuals from SeaWorld. That is a horrific thing to tell us.
+Thank you very much Chris.
+
+**Alison:** Yeah, there's a difference between kind of, trapping some wild octopus behind plants they don't like and having a massive Chinese octopus farm, right?
+
+**John:** The Chinese octopus farm of course being in Spain. Famous for its Chinese farms, Spain.
+
+He also notes if the third row panel isn't held with all the participants sitting in the third row, then we all are leaving money on the table. As Andrew Hogg has said, many a time, the third row isn't a place. If a third row-er sits in a row, that row is the third row. And so it shall always be.
+
+**Alison:** One of the best lines in the third row panel was Mark Plummer pointing out that in that same third row where Third Row fandom was formed, Peter Mabey was sitting, who was 78 at the time.
+
+**John:** So we have known Peter Mabey was in Third Row fandom. He doesn't respond to our emails but he is more than welcome. Peter, if you're listening, there's a Discord.
+
+**John:** Chengdu is a Shower segment. It’s sunny spells this week, not much showering is occurring.
+
+**Liz:** I would say I did have a chat to Francesco Verso at Eastercon who I think is helping out in some ways on programme for Chengdu and it all sounded pretty good actually.
+
+**Alison:** I was delighted that Sandra Bond, who was one of the candidates that I nominated, is going to be the TAFF delegate to Pemmi-Con in Winnipeg in August. So Pemmi-Con is the NASFiC and I think that Sandra will be an excellent delegate and I was very pleased to see her win. And I hope that Mikołaj will run again because he had a lot of support in Europe and I think also could do with making more connections in the US to pick up North American votes there.
+
+**Liz:** Yeah, is it Mikołaj’s third loss?
+
+**John:** I think his second.
+
+**Liz:** Second, sorry second. So I don't know. I feel sad for anyone who runs twice and loses both times, and I hope they will run again. 
+
+**John:** I think there might be, oh I'm trying to think of a way of saying this, that is, to lose once is sad. To lose twice might mean you need to change your North American nominators to people who will actually get your vote out. I am sure the people that Mikołaj picked were great but I would maybe, I mean, Chris Garcia, he's very good at getting people to vote for people, like consider writing him an email. There are merits in choosing your nominators carefully in the territory you're less well known in. That wasn't very diplomatic but yes.
+
+**Alison:** For a race where the final date was the day after Eastercon, Sandra chose three European nominators who were all on the Eastercon committee.
+
+**John:** Yeah, we'll also say Sandra's selection of nominators was, sorry Sandra, terrible because you're basically choosing three people who all appeal to the same–
+
+**Alison:** Oh thanks a lot.
+
+**John:** Oh no, I mean but you want to choose three people who will appeal to different demographics, not three people who are all in the same group of people. So yes, I think that's one area where Mikołaj did better because he had a much wider range of European nominators. But Sandra won so, you know, hindsight is irrelevant.
+
+**Alison:** Sandra did pick at least one nominator who went round every single person at Corflu going, have you voted in TAFF yet? And not leaving until they either said yes or went and did it, so that will have helped.
+
+**Liz:** But I mean when you say you should pick your North American nominators very carefully, I think it's possible that Sandra's nominators, John D Berry and Ted White, also kind of appeal to a similar constituency, right? I mean maybe that is it.
+
+**John:** Oh yeah, but Sandra is incredibly well known in North American fandom.
+
+**Liz:** Okay.
+
+**John:** The point is you need to make sure, so like I did a blog post, this is getting slightly into the weeds, but I did a blog post after the 2013 race where I broke down how many of the votes for Jim Mowatt came from, because you, you, when you get the votes as the administrator in the old days, it would have on the bottom what, where the form came from because you were still getting PDFs of forms. And it became very clear that over half of the votes that were submitted had been distributed by Randy Byers. And so picking an administrator who works to get the vote out gets you, and if you get someone who's good at it, gets you a lot of votes. And it's one of those things where I know in British fandom we like to pretend that campaigning doesn't help, but campaigning really helps. So you've got to, you've got to make sure that you've picked people who will campaign and campaign hard. 
+
+This is also why when Warren Buff ran in 2010, I can't remember when, but a while back he picked Paul Cornell, which I remember thinking was a weird choice because I think there were some people who were put off by the fact he had picked a pro, but also I could not in any way imagine Paul Cornell wandering around an Eastercon nagging people to vote. It just does not seem like a Paul thing to do in any way. So yeah, I think there's an art to picking people who are bolshie and who will…
+
+**Alison:** Yes, I don't think I nagged anyone at the Eastercon to vote.
+
+**John:** No, well, if, if I had been, if I had been Sandra, I would have picked someone who was not working the Eastercon to go with you and, and one of the other two perhaps, but, um.
+
+**Liz:** So what, what I find interesting in a way is how swingy the vote totals are in TAFF.
+
+**John:** Oh, yeah.
+
+**Liz:** And this was definitely one of our lower, lower numbered ones, but it's interesting on how they kind of swing from over 200, to kind of under 100. And I thought at first it might be on the direction of the race. More people vote in the races that are sending US nominees to the UK or EU than the other way, but actually it's not.
+It's just though, obviously there's some people who are really getting out the vote, or maybe it's related to the number of people who run in the race because you all like mobilise the same small set of people. But yeah, it is interesting. Maybe I will dig into this further for a future episode.
+
+**John:** Yeah, I think, I think it is definitely true. I mean, when I say definitely, I strongly suspect that it's true that that if you have active nominators, the vote total goes up quite considerably. Like when Liam ran against, when Liam and Graham Charnock ran in 2011 against me, like Liam had like 80 voters just in Europe because he was so like on it, but he did not have the North American strength to pull it through. Also Liam, if you're listening, we hope you recover fully and quickly.
+
+**Alison:** Yeah, no.
+
+**John:** I don't think he is listening, but yes, if he is.
+
+**Alison:** Sorry, Liam.
+
+**John:** And then the EFF, or F. F.
+
+**Liz:** EFF can be confused by other things. 
+
+**John:** F can't be confused with anything else. Right?No, but the European Fan Fund was won.
+
+**Alison:** By Matylda Naczyńska 
+
+**John:** Congratulations to them and commiserations to James Shields, who ran and didn't really want to win, I don't think, but wanted the race to happen and wanted it to be contested. So yes, but they will visit Konflikt, which is in Uppsala in Sweden in June.
+
+**Alison:** And we didn't get an awful lot of votes for it. So I think, I mean, which is not surprising given that it was a new fund, but I think we'd like to see some more enthusiasm for this for next time, because I do think it's a great idea. It will get some help because it's getting 20% of the Fan Funds funds raised at Conversation, which – spoiler – is an enormous amount of money. So that's quite good.
+
+**John:** I think this is a good lesson about how, although hybrid conventions are great, they might not be very good at getting Fan Fund votes out. Because I think if Marcin had been on site at Eastercon, maybe he could have done some more wandering around, encouraging people to vote. And also if the person at Eastercon was the person in the race who didn't want to win as much, maybe he did less campaigning than he might have done. So I think what we probably need…
+
+**Alison:** And was also quite busy?
+
+**John:** Yes, and was also quite busy. So what you probably want is a British or Irish fan to run who wants to win, and is at Eastercon, if your deadline is going to be just after Eastercon, because that will help get votes in. Yeah, or you could have the sort of British fans who get the vote out for these things, not actually also running the Eastercon, also a good thing. So next year I think we'll get more votes out.
+
+**Liz:** Hopefully because the contributions from the voting fees, because there are only 33 voters, the voting fees are about 200 quid when I did all the conversions. Because it turns out 353 Polish zloty is not a huge amount of money in pounds. So I think they will have to try and get the vote out a bit, because it's probably not sustainable to run a fan fund on kind of that plus 20% of a fan fund auction revenue.
+
+**Alison:** I think there's money basically. Marcin is very relaxed about having operating funds for this at the moment. And also maybe we'll get TAFF reports or things.
+I mean, I've sold quite a lot of Sue’s TAFF report, and I'm going to sell a lot more. So that does actually, it's going to be a useful amount of money for TAFF.
+
+**John:** Shall we talk about the Eastercon? We've kind of already started talking about Eastercon. So that's good. But yeah, shall we do that some more?
+
+**Liz:** Yeah, there was an Eastercon. Are we're doing the elephant in the room first or last?
+
+**John:** It's the Octothorpe covid policy round up. Yee-haw.
+
+**Alison:** A lot of people caught covid at Eastercon. We started counting, but we stopped counting when it was obvious it was going to be enormous numbers. I mean, it doesn't really matter once you get up above about 80 cases. It's like, oh, yes, loads of cases, which it was.
+
+**Liz:** Yeah, I mean, I did my own personal mini count based on what I could see on Discord, Facebook and Twitter, and I got somewhere over 100. But yeah, I guess when your question is, do we give it to 10% of the convention or 15% of the convention? OK, you know, maybe that's not a big, a big issue.
+
+**Alison:** A lot of people caught covid at Conversation. I would prefer that we did not use the phrase ‘How many people did we give covid to?’ We didn't give covid to anybody. A lot of people caught it that weekend.
+
+**John:** I’ll just leave all of that in. And I'm sure that'll be fine.
+
+**Alison:** I'm completely fine with that. Because, you know, it's a lot of different things. And people, I hope that we did tell people if you come to a convention where we put 800 people in a hotel all weekend, there's a good chance you're going to get covid. Because I think we did say that fairly clearly. You know, that's why we had a hybrid program where you didn't need to come to the convention if you didn't want to catch an illness. We knew it was going to be quite a high number because last year, by the close of Monday of the Eastercon, we'd had five reports. And this year, by the 10 o'clock committee meeting on Monday morning, we had had 28 reports. So, you know, a lot.
+
+**John:** Yes. I believe… so I caught covid and Alison caught covid and Liz did not catch covid. I believe.
+
+**Liz:** Did you catch covid, John?
+
+**John:** I got covid. I tested positive on Monday last week. So I suspect I got it. I don't think I got it at the convention. I either got it from España or I got it when I went home to visit my parents. It would be hilariously bad luck if I avoided it at the Eastercon and got it on a train to Peterborough while fully masked, but there you are. But it's very mild. If I hadn't tested, if España hadn't had it, I would not have tested. I had a very vaguely sore throat. But yes, España got it, with the unfortunate, there's an unfortunate side effect, which is that España has decided, I think, that future Eastercons without mask mandates will not be a thing she comes to. So that might mean I am not at them either, which makes me slightly sad. I was hoping that despite being quite convinced this would end up being a rather large incidence of covid, I was hoping I was wrong. And I am very sad I was not wrong. And yeah, I haven't quite processed that yet because I've been to every Eastercon since 2007 and it will be weird to break that streak. But that's that. That's how the cookie crumbles. Everyone’s got their own thresholds. My thresholds and my wife's thresholds are clearly in a different place from the community’s. And that's just something I have to sort of process in my own time.
+
+**Alison:** I think there's a wide range of views in the community because there's definitely people who are there with you. The problem is we'd have had a lot of covid at that convention, even if we'd had a full mask mandate. We wouldn't have had as much, definitely. But we wouldn't have mandated masking in the hotel bar or in the breakfast room of the hotel. We couldn't have done, or in the Hilton's executive lounge or the swimming pool. And there was spread in all of those places that we know about.
+
+**John:** As I said before, as I said in the episode before the convention, it's all about shifting the probability distribution to the left where you can. And there were things the Eastercon could have done to shift it to the left that they chose not to, which I understand. And as I say, my thresholds are in a different place from the community’s, clearly. But that does mean that it has an effect on my future congoing. And I'm not going to pretend it doesn't. You know, I am cognisant of the fact that it's not designed around me and my experience. And that's right and proper. But it does mean in this instance that I am going to be one of the ones that don't come to as many in-person conventions. And that makes me deeply, deeply sad, like really sad. But there's nothing I can do about it other than, other than argue. But I tried that and it doesn't work. So now it's time to get used to it, I think.
+
+**Alison:** Well, I think Farah is planning to tighten up the mask mandate for Levitation. But I will have to be at Levitation because I'm doing a big job for Glasgow that will mandate my being there. But I have no interest in spending my own money to go to events that do have mask mandates. So, you know.
+
+**John:** No, yeah, I mean, that's it, right? You have won and I have lost. But it does feel very much like I have lost.
+
+**Alison:** I don't think I have won because I think Levitation is going to tighten up. And I think I'll have to go there anyway. But if that becomes the way, if Eastercons decide that masking to prevent people from getting very mild sore throats is the way they're going, then, I mean, obviously, people can mask if they like. I think that's completely fine. I don’t, wouldn’t have a problem that says in program items, you mask. But I do have a problem that says in all conventional spaces, you mask. So, you know, because I like seeing my friends smile and I'm happy to see them smile online, which is something I do every day.
+
+**John:** I would just say, España has been mostly unconscious for about a week because it has completely exhausted her. So it's not just that she got a very mild sore throat. And that's the problem. You don't know in advance.
+
+**Alison:** I mean, eventually everyone has to have it for the first time, right? Because it's a cold, it's going to spread into the system of diseases like all other coronaviruses have.
+
+**Liz:** I say, one, we don't know that. I don't think we can say this is a bunch of very mild sore throats because, yes, if it was the only effect of covid or you've got a very mild sore throat, then yes, I thinkit would be different. But we know there's a spectrum of, you know, very mild sore throats through to, you know, still serious disease and ongoing serious disease. So I don't think it's, I don't think it's very sensible also to say, oh, well, eventually it'll be like a coronavirus or like the other coronaviruses because we don't know it will. And we also have no idea how long that might take. So we'll come back on Octothorpe 3,027 to see how that all went.
+
+ I would say personally that while I knew there was a risk of covid at Eastercon, the numbers were shockingly high even to me. When you say, you know, there was transmission going, I don't think you can say where transmission happened. I mean, yes, obviously the breakfast room and the bar were poorly ventilated and full of people close together. But what I think is like, is there a middle ground we can do which is make it possible for people to attend and enjoy the convention without putting themselves at risk, while still allowing people who want to do the riskier things to do them? And I think my attitude is still that, you know, you could draw a line which was make it possible for people to go into, basically say masks in programme space, masks in the dealer's room, masks in the art show, masks in those places, and have a mandatory masked social space. And then basically inform people there won't be anything in the bar or the hotel breakfast. And then people can make that choice, I think, to know that they'll be able to go to programme or if they’re dealers to come and deal at the convention and know that people will be wearing masks around them and it gives them a level of protection.Some people may still say this is not enough and they still wouldn't come. Some people will say that's unpleasant, they don't want to sit in program in masks all day and do it. But it feels like that's a middle ground between the two extremes. We obviously can't please both extremes so maybe I'm going for a middle ground where we try and please someone. And maybe that's no good, maybe it's better to go for one or the other. But that would be my current feeling about it.
+
+**Alison:** I masked as a dealer in the dealer's room last year, where you're masking continuously for eight hours doing that. And I found it extremely unpleasant, because you have to talk to people, you have to engage with them, and that's really quite hard through a mask all day.  I think I'd definitely be up for, well, we ask people going to the dealer's room and art show to mask but I'm not convinced that we should mandate masking for the dealers and artists so that's a thing. It's complicated but we have a lot of convention spaces that weren't dealers room or...
+
+**John:** I feel very strongly, España being unable to work for a week, is less of an... more of an inconvenience than someone having to wear a mask for six hours. I think what I find the most frustrating is the... There seems to be an implicit assumption in the discussion that wearing a mask is equally unpleasant to having covid and I find that exhausting because I don't think that's true.
+
+**Alison:** No, it's not. Definitely worse having covid. Even my covid this time, which was much, much less bad than the other time or possible other two times.
+
+**John:** I don't enjoy wearing a mask but I don't enjoy having covid either. And I know which one I prefer. I think there's a... I think what a lot of people would like to be able to do is not wear a mask and not get covid and I think those people are clearly very big fans of the fantasy genre. So don't think it works. And so I think you have to decide would I rather have covid or would I rather have the inconvenience of wearing a mask and I am surprised by how many people seem to be on the other side of that argument to me. But again, like, I respect that. It just... It catches me unawares.
+
+**Alison:** Okay, you've got quite a lot of people on your side. There's quite a lot of public statements saying, "Oh, we would like this to be quite a lot of strong. We've had quite a lot of email. This is a... I know this is a ‘lurkers support me in email’ thing but when we asked for feedback, which we’ll pass to Levitation, quite a lot of the feedback is saying, "We think you struck quite a good balance and it's not your fault everyone got covid." I'm not sure I agree with that. I think we're far enough after the convention now that I would say that although I was...
+I wasn't involved in the discussion of what our policy should be because dead parents. But I was happy to go along with the result in order, in terms of communicating it and letting people know. I think if people have followed our covid policy, we'd have had less covid. But they didn't, which is a thing to say.
+
+**John:** No, I want to push back on this, right, because I have heard you said this a few times. We did tell you in advance what the result of your covid policy would be on this very podcast.
+
+**Alison:** Oh yeah, you were right. I want to say this on record on the podcast. You were right about that.
+
+**John:** Thank you.
+
+Well, hang on, let me just bask.
+
+**Alison:** Sorry, you were right about that. You told us it wouldn't work and you were right. I also want to say because it's now a month after the convention or something, my personal view was that we should have had a stronger covid policy with mandatory masking in programme spaces and mandatory masking in corridors in convention spaces. And mandatory masking in the Green Room, which I think was another place where we know covid spread quite a lot. Or we think it's very likely covid spread quite a lot.
+
+**John:** Masking in the Green Room would have been very difficult.
+
+**Alison:** It's hard. Yes.
+
+**John:** Because you would have needed, it was already quite difficult for people on Zoom to hear people through the laptops that had been set up on the tables in the Green Rooms. So for those who weren't at the convention, it was hybrid, obviously, and that meant that some of the panels had remote participants. And so each room, each program room in the hotel had a corresponding table in the greenroom, which had the laptop for the virtual Green Room for that program room on that table. And so when you went to Green Room, you had your table, which was your item, and then the laptop had the virtual people. And I would have to probably think quite carefully about like ambient noise and microphones if you wanted that to work, which isn't to say it couldn't work.
+
+**Alison:** This is moving a little bit away from covid. But that was the most experimental part of our hybrid design. And we doubled the size of the Green Room on Saturday afternoon, (after the horse had bolted). But we should have had twice as big a Green Room in the first place and not doing so was a mistake for lots of reasons, including the hybrid elements of Green Room.
+
+**John:** Do you want to say things about covid before I talk more about Green Room? Because I have more ideas about Green Room Liz, but they're not really covid based.
+
+**Liz:** Yeah, let's I think when we talk a bit more about hybrid and so on, we should talk about that. I mean, I think my thoughts on covid are. We're going to keep having this conversation. I would say that bear in mind that if you collect feedback directly after the convention when, you know, maybe 120 of your members are quite ill, you may not get the, you know, unbiased feedback.  I think we're going to keep discussing it, but I think we need to also remember that masks are not the 100% solution or the only solution, and be thinking about other ways we do things like the ventilation in the bar was definitely poor. This was one of those cases where I may have appreciated what some hotels do where they shove all the con people in a separate breakfast room, because maybe, maybe that would have been better. I certainly put a mask on when I go up to get my breakfast from the breakfast buffet. And this is partly because I've been trained to in hotels where that is mandatory. But also it's quite nice. I'm not, you know, speeding like spit all over your like bacon eggs. You know, it seems like quite a nice thing to do. So maybe that should be thing people do.
+
+**John:** And for those who want that service, subscribe to Liz’s OnlyFans.
+
+**Liz:** But yeah, I think we've got to take all that into account. We also got to think about, you know, better ventilation, what we can do maybe as a set of Eastercons, try and encourage that. I will say one place that I think Conversation couldn't have known this, but it was true. There was a very big space called the refectory with lots of chairs and tables spread out quite a lot where you could take food and drink and socialise. And it was really underused and then everyone was crammed in the main bar. So maybe if you did have a fan bar, a bit like Reclamation's where you had people spread out and they could get beer there, it might encourage people to just spread out a bit. But you know, I think this is a, this is an evolving thing. But I think we do need to think about it because I mean, I personally am thinking, okay, I had a very nice time. I don't regret coming to Eastercon. If I had got covid, it could have been really disastrous. I could have been stuck in a hotel for a week. I could have had cancelled flights. You know, I could, I'm really, it does make me rethink whether I want to attend future Eastercons, unfortunately, because of the risk of disease and because of the risk of like, like, massive disruption to my life. So I think the numbers basically are, if they stay this high, it will be hard to justify it more than occasionally.
+
+**Alison:** Yeah, we had the refectory. We probably could have done a lot more to say to people. This is a large, airy ventilated space – because our program rooms were all very well ventilated –  that you could go and eat food and drink and chat to your friends. And it's going to be safer than the bar. I mean, I don't know if it was safer than the bar, but I think it probably was. And then we also had a mask required lounge, which wasn't used at all.
+
+**John:** But no, I don't know whether we talked about that before, but like the other part of the problem is, I'm going to go to where my friends are. I'm not going to sit in the mask required bar and hope my friends come to me. So that is tricky. I wanted to say, what did I want to say?This is, it's weird, I think, how much of these discussions are… There are things we've been asking for as a convention for ages. Like when the fan bar and the actual bar are opposite ends of the hotel, like before the pandemic, we were like, oh, why aren't they closer together? It's such a pain that if someone was a gin and tonic, they have to be at this end of the hotel, but someone wants a real ale, they have to be at that end of the hotel. Why can’t we be in the same place? And then we finally cracked that issue and like, why can't we have breakfast with all of the normal people with the nice breakfast instead of being in a little ghetto? We've cracked that issue and now the pandemics happened to be like, why can't, why can't we be in our little ghetto and why can't the real ale be the other side of the hotel? It's so unfair. And so that just occurs to me, it's like, you know, it's like the, someone's clearly made a wish on a monkey paw for these things that has gone badly. So if that was you, write in.
+
+**Alison:** Before we go off covid, we're about to go off covid, right? So we haven't said the keyword. “I would not like to be the Levitation chair right now.” Hello, Farah.
+
+**John:** No, it'll be a tricky job. Because you've got a lot of work collecting all these different points of view together and ending up with something that works.
+You should do a survey. You should do a survey.
+Do a survey, have Likert scales. I love a good survey.
+
+**Alison:** Yeah, Levitation. Do a survey. Ask your members what they actually think, and do it in a way that means that it won't, their personal views will not be made public or get back to people who can harangue them a lot on the internet because there's some very haranguey people on both sides of this argument.
+
+**Liz:** I think it may be time for a survey. I'm just going to say I don't think it should just be Levitation members because obviously there will be people who aren't joining Levitation for that reason. But you probably don't want it to be completely open. But we have surveyed Eastercon members before in the Future of Eastercon surveys. It might be time to do something like that. You're not going to guarantee it will change your positions, but it would be interesting to know how many people fall into which different set of opinions.
+
+**Alison:** I do love that we have people on both sides of this argument in this podcast. I think it would be very sad if I never saw John as a convention again, but you know, I’d cope.
+
+**Liz:** Would you wear a mask if it meant you would see John as a convention?
+
+**Alison:** I see John at times other than conventions.
+
+**John:** But I am just going to say the other thing that would change a lot of this is if you could get a covid booster from Boots and you could get it in late February because my attitude towards a lot of this would change drastically if I could reliably get a booster three weeks before the convention.
+
+**Alison:** I do very unsafe things at Novacon every year and I have not caught covid at Novacon and that's because I always have my booster in October. Novacon's a month later. It's fine. I would like to have a second booster about a month before Eastercon and not only would I get one but I get to lots of people. I'd probably be sicker with the booster than I was with covid this time, but at least I wouldn't worry that I was infecting all my friends.
+
+**John:** When you can plan it then, it's quite nice because we had tickets to a Mike Wozniak gig and I was like, we'll be able to go to that because if we do get covid, we'll have recovered by the time that happens. But then I ended up testing seven days after the convention positive and then I had to skip the gig and I was incredibly irritated.
+So boo. I've got to be honest. That's the other thing, right? Like if next year there is a Mike Wozniak gig within a week of Eastercon. I might like Mike Wozniak's mustache more than I like Eastercon. You can quote me on that.
+
+**Alison:** It was spectacularly inconvenient for me catching covid at Eastercon. Marianne also caught covid and had to delay the start date of her job. So, you know, that is a pain in the arse.
+
+**Liz:** It's a very brief plug. So, I mean, I have no way of actually properly assessing this or not. But I bought a nasal spray with like one of these things that like, just put stuff in your nasal mucus and puts, you know, antibodies up there or whatever. Like one of these Boots, like the, you know, Boots, Dual-Defence it's like that. It's also got anti-covid antibodies in there. And I don't know if it made a difference or not, but it was not like horrible to do. And it was 15 quid and I put it up my nostrils twice a day and I was definitely sitting around chatting with people who got covid and I did not get covid. So I think that will be part of my like regimen for future events, to be honest.
+
+**Alison:** Oh, I'm 100% up for that.
+
+**John:** Sounds good.
+
+**Liz:** Can't buy it. It's Thailand only. I'll bring you a bottle next time.
+
+**John:** I want to talk very quickly about the Green Room. This is one area where I think the way that Conversation did Green Room made me think that you could have done with a lot of tiny rooms like they have at the Park Inn at Heathrow because then you could have a you could have a Green Room per Room. And that would be quite good for stopping spread. I don't know. And the problem is with conference centres. So I don't know whether this will work for levitation or for Reconnect, which is the 2025 Belfast Eastercon because they're both convention center Eastercons. But like if you did have a lot of rooms that were too small to be useful, having different Green Rooms in them, if you were going to use the same model as Conversation might potentially be a good way of doing things. I mean, it might also not be, but it was just a thought I had.
+
+**Liz:** It's would probably be a it of a funny pain for the Green Room staff because you can’t tell if people are actually there, you can't check them in. You need that entry gate really. Yeah.
+
+**Alison:** I think we should have a hundred percent virtual Green Room. I think the Green Room is an enormous faff and that people should just join in or log in on a Zoom and have a chat.
+
+**John:** I cannot successfully overstate how much I disagree with that. No, so okay. So I think the Green Room, I think there are three reasons I disagree. I will now enumerate them. Reason one, log in onto a zoom. I didn't log on to the zoom during the convention and that adds a layer of things I have to worry about. But I'm glad I didn't have to worry about and I was glad that I could if I needed to, but I was equally glad I didn't have to. Second thing is I really like, I really like having like my drink sorted before going to the panel rather than having it delivered to the room the panel is happening in. So that I think would suffer a little bit. But thirdly, I quite like getting the vibe of my fellow panelists offstage before being on the panel with them, especially if it's someone I don't know very well. I kind of like being able to feel them out a bit. I wouldn't have liked, especially, I'm going to plug the Adrian Tchaikovsky interview again listeners, but especially when I met Adrian Tchaikovsky for the first time, I'm glad that that like initial feeling each other out about the interview didn't happen virtually because I think doing it in person was probably a better way to get ready for the panel. So those are some unformed thoughts about that. But it's definitely an idea. I hope that wasn't too strident.
+
+**Alison:** So yeah, I think the Green Room was very experimental. I hope we do more hybrid. I think hybrid was a huge success for this con.
+
+**John:** Yep. I love the way that on the Friday morning everyone was like, oh, this item has a disembodied face coming in, that's weird, and by Monday everyone was like, oh, no, we've got a couple of virtual things that it was just part of what happened at the Eastercon and I think that's quite good. So props to Jt, who has worked incredibly hard for 18 months, making this happen.
+
+**John:** I tell you what, Jt’s sad nod in the Eastercon Live episode. I really wish there'd been a camera on Jt because that was one of the funniest.
+
+**Alison:** I didn't see his sad nod, so you'll have to describe it to me.
+
+**John:** You said on your big screen of doom, like I think Jt’s the tech lead for Glasgow if he is, can he wave, or maybe I said if you are, can you wave, and he just did the saddest nod in the entire world and it was incredibly funny. He always has at least one hilarious interjection in Octothorpe Live episodes at Eastercon. So that's good.
+It's a good tradition.
+
+**Liz:** Yeah. So I mean, are we talking virtual?
+
+**John:** We can do.
+
+**Liz:** This is a thing. Conversation did virtual really, really well. I know there were a few teething problems and maybe people who turned up to their virtual Green Rooms a bit late -cough- Alison.
+
+**Alison:** Oh, I had a massive, massive problem getting on.
+
+**Liz:** So that was an unforeseen situation where he had to suddenly add in a Zoom stream that
+was not previously planned. But basically, it seemed to go really, really well. Now I think now we know it can be done that well. I would feel much more confident about trying to do an Eastercon purely virtually because honestly, I thought it would be either like some streams I could watch, but they would occasionally crash or they wouldn't quite work on Friday afternoon or, you know, they wouldn't be seen as everything would be delayed. Like now I know it can be done and they look great and the panelists managed to join. There's no problems with missing panelists and things. I would be much more likely to do future Eastercons virtually because I know it may work. And so I don't know if Conversation just, I don't know whether you just didn't promote it in places I could see it or whether you were still a little bit wary of promoting it too heavily. But I saw a lot of, oh, there will be lots of hybrid stuff. But if it was like, you will be able to see everything except maybe the Lego room and it will all be streaming and it will be live and you can ask questions in Discord and it will be brilliant then might have got like slightly more people joining virtually.
+
+**Alison:** I mean, I think that was always our vision, right? You don't want to say “We're going to do this thing that nobody else has come anywhere close to” too hard in case it's a disaster. I’m incredibly proud of what we achieved. You guys were both at the convention in person all of the time. So you won't know that the Discord was also absolutely exactly what I hoped a convention Discord would be and Andrew and Emily January take a huge amount of credit for making that happen. And of course, the Discord started early. We got over half the convention onto the Discord before the convention started, which is part of our vision. And then it carried on until the end of the catch up. I don't know whether that will have happened or not by the time this episode drops for reasons, but it might have happened. So it actually does that thing and I'm going to claim some visionary bit for this. My vision that the Discord should surround and envelop the con so that you have that sense of being part of it before it starts, especially if you're new, and you have that sense of it supporting the catch up for the convention. But it was all so good. People who came to the convention virtually felt that they were engaged socially with the convention as well as by watching the streaming, which was another part of what I very much hoped would happen.
+
+**John:** I do just want to say that even though I was at the convention in meatspace, I did be on the Discord. I think any even purely meatspace conventions should have good Discords because even if you're not attending at all hybridly or virtually, I think having a strong Discord is just such a boon.
+
+**Alison:** I would agree with that, but there is an issue for large conventions, which is that we manually gate them. We believe it's possible to run an automatic gate into Discord because obviously Patreons and so on do it. And James Shields is having a think about that, and Andrew January, but unless we can get an automatic gate, we can't manage this for say, the Worldcon. We'll need to use another less good solution. I mean, I think we can have an automatic gate.
+
+**John:** James and Andrew, if you're listening, I'd be interested in being in that working group trying to do that automatically.
+
+**Alison:** I am concerned that Worldcon is considering single sign-on solutions and certainly as at the last time I looked at them, they were all still appalling. Chicon's use of Airmeet was dreadful and I think we need to do better and Discord is the obvious way to do it. And I feel like, you know, obviously this may be all sorted by next year. Discord threads for programme items are amazingly good. They are the best thing, even if it's not Octothorpe and you have 310 people posting memes and taking the piss. But I mean, you know, serious Discord threads are also great.
+
+**John:** Even if you can't do automatic onboarding, which thing you can, the other thing you could do is manually add people to a read-only Discord like a year and a half out because that is also possible. It's less elegant, but it is possible.
+
+**Alison:** Yes, but then you have to moderate your Discord for a year and a half.
+
+**John:** No, no, read-only. You can give everyone a role that lets them see one channel they can't post in and that is entirely possible. It would be less good though.
+
+**Alison:** Okay, yep. Glasgow, if you're listening to this, I am happy to manually gate everybody into your Discord a year and a half out along the lines that John suggests.
+
+**Liz:** I mean, can you choose a better time period to do it because if you do it year and a half out, a bunch of people are going to change their email addresses, forget the Discord logins, you know, before the com, but not like now.
+
+**John:** It would be much better to have an automatic solution.
+
+**Liz:** It did seem to me that the kind of Discord plus Zoom plus whatever Magic Jt was doing to stream to hidden YouTube streams was the best way of doing it.
+I mean, I guess it had the problem that you could in theory send people the links to the YouTube streams because they weren't actually gated. But it did seem to work better than Airmeet. I mean, the main issue with it was just actually getting people logged on because I don't think James Shields' registration system is actually designed for that.
+
+**Alison:** Yeah, there was a bug in the registration. What we should have done with the great evidence of hindsight is if we'd had a couple of streaming items a couple of weeks before the convention, the same way that we opened the Discord, if we said also check that your streaming system works by logging on as streaming this test item, we'd have got a lot of people in through that and we would have… It probably wouldn't be all of them, but we'd have identified the bug in the registration system that meant that we ended up with a 10-step process in time that we could sort it out. Because by the time we did realise we had a problem, the convention had started and we couldn't possibly have implemented a fix.
+
+**Liz:** Are you suggesting some kind of testing of software is a good thing?
+
+**Alison:**The other thing I wanted to say on virtual is that the one area that we fell down was face-to-face socials like Zoom socials because we were hoping that that would happen through the Discord AV tables and it just didn't. And I would like, that's something that I think you do need to put a volunteer into early to make happen and people designing future hybrid conventions need to put a bit more energy into that particular element of things which slightly surprised me. I thought that once we had virtual things and encouraged people to use them, that would be enough, but it wasn't.
+
+**Liz:** What were you hoping that people would just sort of sit at a virtual table in the hope that someone else might come along to chat to them at the virtual table?
+
+**Alison:** I thought that a few people would. That has worked at some cons.
+
+**Liz:** But I don't think you had enough purely, if you weren't a virtual member, then you were probably in the refectory or the bar or maybe somewhere with slightly better ventilation. I don't think you had enough people in the right time zone to make that work because remember a lot of your hybrid attendees, if I was hybrid, I'm not turning up to the bar at the bar times because I'm asleep. So I just think like, yeah, I don't know, it seems incredibly optimistic to think that this will self-organise itself. I think just a kind of like, "This is our morning Zoom social, this is our evening Zoom social," would have probably worked.
+
+**Alison:** Yeah, I mean, we had a couple of Café Mooses and they went quite well as hybrids. So yeah.
+
+**Liz:** Yeah, but Moose has already got people, basically people who know how Zoom socials work and kind of, you know, I mean, I guess maybe most people do by now, but yeah, I still think you need a bit of like, hand-holding to make sure everyone gets there and figures it out and has a nice socially time.
+
+**Alison:** No, because obviously Zoom socials at hybrids are very important to me, but if I'm attending a convention virtually, I just make sure they happen even if they're not on the programme and not part of the plan. But obviously, if I'm attending a convention in person, I'm
+not going to spend hours on Zoom unless I find myself stuck in my hotel room. But I wasn't actually stuck in my hotel room with covid for very long and I was quite busy.
+
+**Liz:** So I did think, I mean, I've been to that hotel before, I've never actually stayed in that hotel. I treated myself to an actual room in the hotel, which was nice, except for the weird, my personal rant – Why do the hotel rooms not have any drawers in? Who decided to get weird nightstands with tripod legs?
+
+**John:** This hotel room I'm currently in also does not. It is in fashion, Liz, drawers are for idiots, shelves and hangers are in vogue. And whoever decided that, oof.
+
+**Alison:** I mean, our room, which was a suite in the Hilton, did not have, it's not that it didn't have drawers, because I think not having draws is a great idea. The problem with drawers is that people leave their stuff in them. But if you have shelves that fulfil the function of drawers, that's still a lot better than not having them. But their view seemed to be that  your entire storage would be the rack that you put your suitcase on. And because our
+car was so full, our suitcases were actually just packing cubes. So we didn't have anything. If we'd had shelves that would have been something.
+
+**Liz:** I would accept shelves. I mean...
+
+**John:** This room has two shelves and room for about hanging 20 pieces of clothes, which is, I mean I can hang all my t-shirts up, but I gotta be honest, usually I keep them in a folded pile, and I imagine I am not atypical. Or I am atypical in many ways, but not in this particular one.
+
+**Alison:** I can't imagine a circumstances in which I’d hang up a t-shirt really.
+
+**Liz:** When there's no draws or shelves, that's when you hang a t-shirt.
+
+**Alison:** No, I just leave them at an orderly pile on the floor, 
+
+**Liz:** Oh yeah, I don't put my clothes on the floor.
+
+**John:** Oh no, I mean I've got standards.
+
+**Liz:** Yeah. I mean I also bought a lot of clothes when I was there, so I did really want somewhere to kind of sort them and stash them until I took them home. But otherwise, I think that is a nice hotel. I think it is one of my favourite of the Eastercon hotels we've been to recently, just because it's big. I never had to queue for programme rooms. There was just tons of space in nearly all of them. The corridor is a bit, it is a bit mazelike but it's not as bad as some of the others. You can have a nice big dealer's room. It's not too difficult to get to. It's in walking distance of a mainline train station. Admittedly, you have to walk through the NEC, which may be full of 40,000 people who all want to play Call of Duty. But...
+
+**John:** On the way back to the train station, on the last night I had to walk through the NEC and they wanted to check my bag. I was like, "What happens if you don't like my bag?" I'm not walking round. I'm going through to the train station. And I got very grumpy. So yeah, I don't like having to have a random man check in my bag so I can walk to a train station without having to go round the way that takes three times as long. But that is a minor complaint in general, but I mean it was very well connected and I quite like it as a venue for the Eastercon in general.
+
+**Alison:** Anything else people want to say? We should probably say the programme was amazing. Well done, Zi.
+
+**John:** Oh yes, no. The programme was really good. The catch-up was really good. The hybrid was really good. The real ale I quite liked. The porter was good.
+
+**Alison:** I liked the real ale. It wasn't as good as it could have been, but it was pretty bloody good and it was a lot better than last time or the time before, or the time before that, when we'd been in that hotel. So yay.
+
+**Liz:** However, seven quid. seven pounds for a pint. My brain cannot process this.
+
+**Alison:** Yep, so that was a lot, but my theory was that people would grumble but they would pay it and that seems to be correct. Caroline was very worried that we wouldn't meet our food and beverage and... And John Dodd was like, "Oh Caroline, you do not need to worry. We passed it on Friday evening."
+
+**Liz:** I mean, I think a lot of people ate in the hotel as well.
+
+**John:** Oh, the food trucks.
+
+**Liz:** The food trucks were great.
+
+**John:** Did the food trucks count towards your food and drink spend?
+
+**Alison:** Yes.
+
+**Liz:** Ah, okay.
+
+**John:** Ha ha. Life hack. That is very clever.
+
+**Alison:** Food trucks on the real ale and all of the hotel’s bar stuff. So all the... I'm pretty sure that all of what was it called Insomnia people who were staying in the hotel and who were drinking and eating in the Hilton bar in the evenings, of whom there were quite a lot, all conted to our food and beverage spend. Because there was no way to differentiate that from convention spend, right?
+
+**John:** No. No, yeah, no, it's fair enough.
+
+**Liz:** I think I drank fewer pints because they were seven quid and also they were nice. I didn't think the convention specific beer was very nice, but the other ones were nice. But I don't know if I'm out of touch or what, but seven pounds.
+
+**John:** That was the Octothorpe podcast and it's goodbye from me.
+
+**Alison:** It's goodbye from me.
+
+**Liz:** It's goodbye from me.
+
+**Alison:** So I don't know if this is something that you guys will appreciate, but Caroline Mullan has just messaged me to say, "Alison, are you all right? You haven't posted anywhere on anything since this morning."
+
+**John:** Have we been podcasting so long that people are worried about you?
+
+**Liz:** Yes. We've been podcasting for three hours.
+
+**John:** This is a savage indictment of how permanently online you are and also how long we have been doing this.
+
+**Alison:** We have been doing it a long time.
+
+**Liz:** Yeah.
+
+**John:** The theme music for this episode was Fanfare for Space by Kevin MacLeod at incompetech.com, used under a Creative Commons Attribution 4.0 license.  
+
+**Liz:** This podcast will end at the beep. 
+
+**John:** –beeep–
