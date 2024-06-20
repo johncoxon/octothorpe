@@ -1,0 +1,2196 @@
+1
+00:00:00,000 --> 00:00:04,240
+ I don't know how long we've actually recorded, because we've been recording for an hour,
+
+2
+00:00:04,240 --> 00:00:07,000
+ but there has been quite a lot that's not going in the pod.
+
+3
+00:00:07,000 --> 00:00:25,920
+ Hello everyone, and welcome to the very 112th episode of OctaThorp, a podcast for Science Fiction and Science Fiction fandom,
+
+4
+00:00:25,920 --> 00:00:29,720
+ which is coming to you on the 20th of June 2024.
+
+5
+00:00:29,720 --> 00:00:34,040
+ I'm John Coxon, I'm Alison Scott, and I'm Liz Batty.
+
+6
+00:00:34,040 --> 00:00:37,880
+ And we have some layers of comments.
+
+7
+00:00:37,880 --> 00:00:44,680
+ We heard from Christopher J. Garcia, who wrote in to say it was another good episode,
+
+8
+00:00:44,680 --> 00:00:49,200
+ he listened to it as he was driving back from research at Stanford and trying to figure out what to have for lunch.
+
+9
+00:00:49,200 --> 00:00:53,680
+ He had chicken stir fry, good to hear from you Chris, good choice.
+
+10
+00:00:53,680 --> 00:01:01,680
+ I do feel of the research at Stanford and what Chris had for lunch. Chris has maybe told us the less exciting bit of those two.
+
+11
+00:01:01,680 --> 00:01:03,680
+ Ha ha ha.
+
+12
+00:01:03,680 --> 00:01:08,680
+ You could be right. He says he likes science fiction because it's fun, but there's no more fun,
+
+13
+00:01:08,680 --> 00:01:14,680
+ dour depressing writing than science fiction, dour depressing writing. And yes, I agree with that.
+
+14
+00:01:14,680 --> 00:01:20,680
+ We also heard from Peter Sullivan, who actually is writing a left comment on episode 109,
+
+15
+00:01:20,680 --> 00:01:25,680
+ but by the time we read it, we'd already recorded 110 and 111. So I'm going to bring it out now.
+
+16
+00:01:25,680 --> 00:01:32,680
+ Peter says, "Did Liz just say that a system where some people's votes are worth 10 times more if they pay is democratic?"
+
+17
+00:01:32,680 --> 00:01:41,680
+ So yes, I did, but I am only quoting Locust magazine, who as we know are the biggest democratic awards in science fiction,
+
+18
+00:01:41,680 --> 00:01:45,680
+ where some people's votes count twice as much as the others.
+
+19
+00:01:45,680 --> 00:01:50,680
+ So I am basically saying we should bring back like rotten boroughs, but in science fiction awards.
+
+20
+00:01:50,680 --> 00:01:58,680
+ Thank you, Peter, who I know it says he is in the in-person online team for Glasgow 2024, which is an interesting name for a team.
+
+21
+00:01:58,680 --> 00:02:04,680
+ I am in the online team. I think Peter's job is to try and make people in person care about online,
+
+22
+00:02:04,680 --> 00:02:07,680
+ but I might have misconstrued that slightly.
+
+23
+00:02:07,680 --> 00:02:12,680
+ I'd be interested to see how he does that. Right in Peter.
+
+24
+00:02:12,680 --> 00:02:22,680
+ So we also heard from Sandra Bond. She said this is a letter on 110, but as we recorded 110 and 111 together, we're doing it now.
+
+25
+00:02:22,680 --> 00:02:27,680
+ She says, "The trouble with Wilcons is that they happen once a year, which is not very often.
+
+26
+00:02:27,680 --> 00:02:32,680
+ If you go to a Chinese restaurant and don't get a very nice meal, you can decide to try them again in a week or two,
+
+27
+00:02:32,680 --> 00:02:37,680
+ and they hope that they were just having an off day. If you go to a Chinese Wilcon and don't have a very nice convention,
+
+28
+00:02:37,680 --> 00:02:41,680
+ it will be years before they get a second chance, even if the whole of fandom decides to give them a second chance.
+
+29
+00:02:41,680 --> 00:02:46,680
+ And with the churn inherent in the membership of fandom, I think you can see where the issue arises there.
+
+30
+00:02:46,680 --> 00:02:53,680
+ Then again, there is still the attitude and fandom that campus Eastercons are not to be thought of because there was a shitty one in 1976,
+
+31
+00:02:53,680 --> 00:03:01,680
+ which is, you know, speaking of somebody who has been heard to describe that problem, I can understand that.
+
+32
+00:03:01,680 --> 00:03:07,680
+ She says that Jonathan Cami makes her think of what she believes is John Brunner's greatest single thought ever.
+
+33
+00:03:07,680 --> 00:03:14,680
+ There are two kinds of fool, one who says this is old and therefore good, and one who says this is new and therefore better.
+
+34
+00:03:14,680 --> 00:03:19,680
+ She was curious about the warm number, warm body camp for meditation.
+
+35
+00:03:19,680 --> 00:03:26,680
+ Her gut says that 450 is about right, but she says that her gut also says it was, "I scream at pizza at times when I pay,
+
+36
+00:03:26,680 --> 00:03:33,680
+ but I do not need them, so I am cautious about trusting my intestines to do my thinking for me, which is fair."
+
+37
+00:03:33,680 --> 00:03:40,680
+ Yeah, my gut wants an almond croissant because Alison's been eating almond croissant on the recording, and it does not need an almond croissant.
+
+38
+00:03:40,680 --> 00:03:44,680
+ I agree with Alison about the downsides of bucket lists.
+
+39
+00:03:44,680 --> 00:03:50,680
+ What if you cross off all of your successfully? Do you congratulate yourself and book a ticket to commit suicide in Switzerland,
+
+40
+00:03:50,680 --> 00:03:52,680
+ or do you just watch TV for the rest of your days?
+
+41
+00:03:52,680 --> 00:03:59,680
+ I think it's okay to have things you want to do, and I also think you should not use it as a stick to beat yourself with.
+
+42
+00:03:59,680 --> 00:04:05,680
+ But I guess I damn written them down, but there are definitely things I want to do, and I'm going to do them.
+
+43
+00:04:05,680 --> 00:04:08,680
+ I think it's just a shorthand for that, right? I don't know.
+
+44
+00:04:08,680 --> 00:04:13,680
+ I'm surprised by the amount of anti-bucket list sentiment that's come out on the pod.
+
+45
+00:04:13,680 --> 00:04:15,680
+ I thought they were relatively harmless.
+
+46
+00:04:15,680 --> 00:04:22,680
+ From your late middle aged friends, because I think when I was in my 30s, there were a load of things I was definitely planning to do.
+
+47
+00:04:22,680 --> 00:04:27,680
+ But now I have to think, "Oh no, I have a limited amount of time left. What should I do with that limited time?"
+
+48
+00:04:27,680 --> 00:04:30,680
+ And the answer is work more on the WorldCom.
+
+49
+00:04:30,680 --> 00:04:32,680
+ For shadowing.
+
+50
+00:04:32,680 --> 00:04:35,680
+ Yeah, I mean, I think there's definitely things I had, you know,
+
+51
+00:04:35,680 --> 00:04:41,680
+ it might have been on my list in my 20s or something, like maybe in my 20s, I probably think, "Oh, I'd like to climb Mount Kilimanjaro or something."
+
+52
+00:04:41,680 --> 00:04:44,680
+ And now it is evident that I am not going to climb Mount Kilimanjaro.
+
+53
+00:04:44,680 --> 00:04:46,680
+ That's just an example, John. You're frowning at me.
+
+54
+00:04:46,680 --> 00:04:52,680
+ But there are definitely things that you might think you would like to do, and then you realize at some point, no, it's too late.
+
+55
+00:04:52,680 --> 00:04:54,680
+ And that can be a little depressing.
+
+56
+00:04:54,680 --> 00:04:56,680
+ Maybe John has not reached that point.
+
+57
+00:04:56,680 --> 00:05:00,680
+ It's never too late. Well, unless it is wisdom.
+
+58
+00:05:00,680 --> 00:05:03,680
+ The wisdom of John Coxen. Gonna make a fanzine in that.
+
+59
+00:05:03,680 --> 00:05:11,680
+ Sandra also sends a fantastic plug for her new book, which is Three Men in Orbit.
+
+60
+00:05:11,680 --> 00:05:18,680
+ It's not quite out yet, but it will be out quite soon, and is a steampunk space science fiction version of Three Men in a Boat,
+
+61
+00:05:18,680 --> 00:05:25,680
+ and which I keep hearing stories about how incredibly funny it is and how good it is and how many pre-orders
+
+62
+00:05:25,680 --> 00:05:28,680
+ she's getting at readings and so on.
+
+63
+00:05:28,680 --> 00:05:33,680
+ So if you're at walk-on, definitely go to Sandra's book launch and listen to her read.
+
+64
+00:05:33,680 --> 00:05:39,680
+ But I'm not reading out her plug because it's quite long, but it does say she's put her goth-beraggy reference in for John,
+
+65
+00:05:39,680 --> 00:05:44,680
+ and she also says, "woke."
+
+66
+00:05:44,680 --> 00:05:47,680
+ I write it this way to help you read it out if you choose to print this bit.
+
+67
+00:05:47,680 --> 00:05:54,680
+ I want to...the one thing I want to pull out of this lock that Alison hasn't his,
+
+68
+00:05:54,680 --> 00:05:56,680
+ that Sandra wonders if our thoughts on a gate kept.
+
+69
+00:05:56,680 --> 00:06:00,680
+ "1,000 person Worldcon has any relevance to the fact that Liz has just friended her on Facebook."
+
+70
+00:06:00,680 --> 00:06:04,680
+ And then she puts, "you don't have to answer that."
+
+71
+00:06:04,680 --> 00:06:06,680
+ I thought that made me kick off.
+
+72
+00:06:06,680 --> 00:06:10,680
+ I did see that. I want to say it was purely coincidental.
+
+73
+00:06:10,680 --> 00:06:15,680
+ Facebook did the irisome...some people that you probably don't know that you might want to be friends with,
+
+74
+00:06:15,680 --> 00:06:19,680
+ and normally it sends me someone with whom I have no friends in common.
+
+75
+00:06:19,680 --> 00:06:23,680
+ But in fact it sent me Sandra, and I was like, "why am I not already friends with Sandra?"
+
+76
+00:06:23,680 --> 00:06:27,680
+ Very good lock, Sandra. Thank you very much.
+
+77
+00:06:27,680 --> 00:06:31,680
+ We heard from David Ian Salter, who I think has never written to us before.
+
+78
+00:06:31,680 --> 00:06:33,680
+ Hello, David.
+
+79
+00:06:33,680 --> 00:06:41,680
+ And they said in episode 1, 1, 10, we discussed the lack of female characters in the Roll-Doll adaptations on Netflix.
+
+80
+00:06:41,680 --> 00:06:46,680
+ And David points out that actually there was a big Netflix deal with the Doll estate
+
+81
+00:06:46,680 --> 00:06:52,680
+ that probably covers what they're allowed to adapt and that they were trying to get directors to direct them.
+
+82
+00:06:52,680 --> 00:06:56,680
+ So this probably did not come from Wes Anderson saying, "these are my favorite three stories I want to do them."
+
+83
+00:06:56,680 --> 00:07:02,680
+ It's probably Netflix saying, "here are some properties we have, would you like to direct them?"
+
+84
+00:07:02,680 --> 00:07:08,680
+ And David does point out that we can put that criticism onto the big pile of criticism on Doll
+
+85
+00:07:08,680 --> 00:07:13,680
+ for being an unrepentantly racist and anti-Semitic bastard, which fair enough.
+
+86
+00:07:13,680 --> 00:07:14,680
+ And Fatphobic.
+
+87
+00:07:14,680 --> 00:07:15,680
+ And Fatphobic.
+
+88
+00:07:15,680 --> 00:07:21,680
+ So I will link to the Hollywood Reporter announcement of this massive Netflix Roll-Doll deal,
+
+89
+00:07:21,680 --> 00:07:29,680
+ which I missed at the time, but has like, it's got your classic picture of the Netflix CEO in one of those puffy vests that CEOs wear
+
+90
+00:07:29,680 --> 00:07:34,680
+ when they want to look slightly more relaxed and like they're about to go to Davos and have lots of meetings.
+
+91
+00:07:34,680 --> 00:07:40,680
+ And the whole thing is all about IP acquisition and what we can do with the Doll verse
+
+92
+00:07:40,680 --> 00:07:44,680
+ and how they can start a multi-series franchise on this.
+
+93
+00:07:44,680 --> 00:07:50,680
+ It's a way, if thing you want to read in it, it's about not about like how great it would be to make these Roll-Doll adaptations,
+
+94
+00:07:50,680 --> 00:07:54,680
+ but ooh, look at all these characters we can turn into intellectual property.
+
+95
+00:07:54,680 --> 00:07:57,680
+ It's like everything that you hate about what Hollywood is turning into.
+
+96
+00:07:57,680 --> 00:08:03,680
+ Kurt Phillips wrote to us, "hello Kurt" and said that he finds that John's ranking of the six nominees
+
+97
+00:08:03,680 --> 00:08:09,680
+ pretty much matches mine and he, and particularly thought that sub-desperate glory was the best.
+
+98
+00:08:09,680 --> 00:08:12,680
+ And that translation state nails down second place.
+
+99
+00:08:12,680 --> 00:08:18,680
+ He didn't really like any of the other nominees, but he wants to make special of mention of Scalsy's starter villain
+
+100
+00:08:18,680 --> 00:08:20,680
+ because he thought it was terrible.
+
+101
+00:08:20,680 --> 00:08:23,680
+ As a fan, I feel embarrassed that it was nominated.
+
+102
+00:08:23,680 --> 00:08:30,680
+ I wished the Hugo Ballots allowed a vote for holdover award, so we could vote for holdover award ahead of starter villain.
+
+103
+00:08:30,680 --> 00:08:39,680
+ Now, you may not know, but in fact, Hugo Ballots do include no awards, so get on there Kurt and vote for no award ahead of starter villain
+
+104
+00:08:39,680 --> 00:08:41,680
+ if that's how you feel.
+
+105
+00:08:41,680 --> 00:08:52,680
+ I want to say holdover award is quite interesting because I quite like the idea that you hold over the 2023 awards to 2024
+
+106
+00:08:52,680 --> 00:08:56,680
+ and then you just award to the next year when there are presumably better books about.
+
+107
+00:08:56,680 --> 00:09:02,680
+ I think Kurt has actually introduced fascinating thought experiment.
+
+108
+00:09:02,680 --> 00:09:08,680
+ Oh no, I like that's one way you could do it, but the other way you could do it is to say holdover award
+
+109
+00:09:08,680 --> 00:09:14,680
+ and then go back to the Hugo voters and say you did not do a good enough job nominating and voting in 2023.
+
+110
+00:09:14,680 --> 00:09:19,680
+ Read some better books from 2023 and we'll really do that award next year.
+
+111
+00:09:19,680 --> 00:09:25,680
+ But can you imagine in the puppy years we would just have done holdover award for like five years in a row and then given everyone a Hugo?
+
+112
+00:09:25,680 --> 00:09:30,680
+ The more that you, the further you got with that thought there's the more on board I was.
+
+113
+00:09:30,680 --> 00:09:32,680
+ [laughs]
+
+114
+00:09:32,680 --> 00:09:34,680
+ Hello, I really like that thought.
+
+115
+00:09:34,680 --> 00:09:38,680
+ The puppies were the example I was thinking of where this would be really good.
+
+116
+00:09:38,680 --> 00:09:42,680
+ Was for self-listening, they're still time to get new proposals in, I'm pretty sure.
+
+117
+00:09:42,680 --> 00:09:51,680
+ Kurt says, "Some desperate glory gives us the promise of more and greater work to come from this rather splendid new to me at least."
+
+118
+00:09:51,680 --> 00:09:56,680
+ Now she is a pretty new writer and I thank the Hugo nominators for bringing her to my attention.
+
+119
+00:09:56,680 --> 00:10:06,680
+ And he also says that we don't mention the names of the authors enough in the Hugo pod which will take on advisement.
+
+120
+00:10:06,680 --> 00:10:08,680
+ Where are they going to get their ego boo from?
+
+121
+00:10:08,680 --> 00:10:19,680
+ And I feel like being a Hugo novel finalist is such a big concentrated dose of ego boo that we do not want to give them any more ego boo in case it goes to their heads.
+
+122
+00:10:19,680 --> 00:10:24,680
+ I mean, did you read out the name there of the author of some desperate glory?
+
+123
+00:10:24,680 --> 00:10:25,680
+ Emily Tash?
+
+124
+00:10:25,680 --> 00:10:26,680
+ No.
+
+125
+00:10:26,680 --> 00:10:27,680
+ Deliberately.
+
+126
+00:10:27,680 --> 00:10:29,680
+ Because I thought it was funny.
+
+127
+00:10:29,680 --> 00:10:32,680
+ This is giving me one of this looks.
+
+128
+00:10:32,680 --> 00:10:33,680
+ Right, onwards.
+
+129
+00:10:33,680 --> 00:10:37,680
+ I just want to say I think the same is true of Vajra Chandra's Ticara.
+
+130
+00:10:37,680 --> 00:10:42,680
+ Saint-Bredors is also his debut novel and I think I'm excited to see what else he does in the future.
+
+131
+00:10:42,680 --> 00:10:51,680
+ He is good to have two debut novels on the finalist roster each of which, if they won, I think would be very splendid.
+
+132
+00:10:51,680 --> 00:10:53,680
+ Can I put in a tiny plug here?
+
+133
+00:10:53,680 --> 00:10:54,680
+ Uh huh.
+
+134
+00:10:54,680 --> 00:11:04,680
+ The Coo Street podcast did an interview with Vajra Chandra Cicara about Saint-Bredors but also they talked about his next novel, Rakesfall, which is out later this year.
+
+135
+00:11:04,680 --> 00:11:07,680
+ So he's already got the follow up in the bank and it sounds very interesting.
+
+136
+00:11:07,680 --> 00:11:14,680
+ A groundbreaking standalone science fiction epic about two souls bound together from here until the end of time.
+
+137
+00:11:14,680 --> 00:11:16,680
+ Oh, it's got a good cover.
+
+138
+00:11:16,680 --> 00:11:17,680
+ Right.
+
+139
+00:11:17,680 --> 00:11:19,680
+ SS Culture wrote in on Mastodon.
+
+140
+00:11:19,680 --> 00:11:21,680
+ Thank you very much to SS Culture.
+
+141
+00:11:21,680 --> 00:11:26,680
+ He says there's a Chinese language analysis of the translation of Babel, which he links to.
+
+142
+00:11:26,680 --> 00:11:30,680
+ He's not gone through it in any depth but it doesn't feel like there are any major changes from the original.
+
+143
+00:11:30,680 --> 00:11:31,680
+ So that is good to know.
+
+144
+00:11:31,680 --> 00:11:33,680
+ Thank you very much to him.
+
+145
+00:11:33,680 --> 00:11:43,680
+ And he also says the reason the mountain in the sea was on the nebula list before last but on the clock this year is because of UK and US print dates, which I thought we had said in the pod.
+
+146
+00:11:43,680 --> 00:11:48,680
+ But if we did not, yes, the like the clock cares about when you're published in the UK.
+
+147
+00:11:48,680 --> 00:11:54,680
+ So the reason it appears on the clock later than the nebula is because it was not published in the UK until a bit later.
+
+148
+00:11:54,680 --> 00:11:57,680
+ So yes, thank you very much for writing in SS Culture.
+
+149
+00:11:57,680 --> 00:12:01,680
+ Specifically the clock cares about when you were published on paper.
+
+150
+00:12:01,680 --> 00:12:03,680
+ Yes, sorry, should say that as well.
+
+151
+00:12:03,680 --> 00:12:12,680
+ Bridget and Farah, SS Culture, Johnny Badly and Juan San Miguel all commented on our Facebook since the last time we recorded.
+
+152
+00:12:12,680 --> 00:12:14,680
+ We thank them all very much.
+
+153
+00:12:14,680 --> 00:12:17,680
+ You can go and join the Facebook group on Facebook.
+
+154
+00:12:17,680 --> 00:12:23,680
+ There isn't ever a link in the show notes and I don't really know why we should probably put one in.
+
+155
+00:12:29,680 --> 00:12:31,680
+ Liz.
+
+156
+00:12:31,680 --> 00:12:33,680
+ Yes, it's me. I'm just opening a link.
+
+157
+00:12:33,680 --> 00:12:39,680
+ As our financial correspondent Liz is making a facelessness.
+
+158
+00:12:39,680 --> 00:12:41,680
+ Is that a badge of honor or not?
+
+159
+00:12:41,680 --> 00:12:44,680
+ It could be a badge of honor. It could be a ribbon.
+
+160
+00:12:44,680 --> 00:12:48,680
+ Like I don't know if that's a compliment or not.
+
+161
+00:12:48,680 --> 00:12:58,680
+ We could get ribbons made that say Octa Thorpe, Financial Correspondent, Octa Thorpe, Asia Correspondent, just like have you have 20 different Octa Thorpe ribbons every convention.
+
+162
+00:12:58,680 --> 00:13:03,680
+ I mean, I think this is going to be a piece of ribbon and a felt at pen from John, to be honest.
+
+163
+00:13:03,680 --> 00:13:08,680
+ So we're going to talk about Eastercom finances, which we have previously discussed.
+
+164
+00:13:08,680 --> 00:13:17,680
+ But what we have now is that levitation of the 2024 Eastercom have very quickly put out kind of a full report on the convention for which we commend them,
+
+165
+00:13:17,680 --> 00:13:20,680
+ including all the financial reports.
+
+166
+00:13:20,680 --> 00:13:22,680
+ And I think that is one of the more interesting things.
+
+167
+00:13:22,680 --> 00:13:30,680
+ So we're going to pick up on it because the headline here is as they say, financially the convention was a disaster.
+
+168
+00:13:30,680 --> 00:13:42,680
+ And this is because the total shortfall was about £35,000 and essentially they count only add up if you take into account they had substantial pass along.
+
+169
+00:13:42,680 --> 00:13:47,680
+ It's interesting. Basically it's the facilities costs, I think, which have killed them.
+
+170
+00:13:47,680 --> 00:13:59,680
+ So I did a bit of comparison. I think they're cost for guests, they're costs for tech, they're cost for stuff like print and publications and so on,
+
+171
+00:13:59,680 --> 00:14:08,680
+ are all pretty similar to past years. The money they got from Archo and dealers and the money they got from advertising.
+
+172
+00:14:08,680 --> 00:14:13,680
+ The money they got from advertising is maybe a little lower than some of the past ones. It's a bit lower than like reclamation.
+
+173
+00:14:13,680 --> 00:14:19,680
+ But basically it's all pretty similar. The issue is that they had to spend a ton of facilities because it was in a convention center.
+
+174
+00:14:19,680 --> 00:14:30,680
+ So we've talked about this before, I think, knowing that levitation ended up being a little smaller than other Eastercoms and that might cause them financial issues.
+
+175
+00:14:30,680 --> 00:14:42,680
+ But it's clear that even though the membership numbers were quite healthy, the membership numbers are quite similar to 2022 and then we have to kind of go back to 2019 to have a look
+
+176
+00:14:42,680 --> 00:14:48,680
+ and they don't break it out in the same way. So the memberships are not like substantially lower than all the others.
+
+177
+00:14:48,680 --> 00:14:54,680
+ The membership figures were like about £54,000 and that is more than 2022, less than 2018.
+
+178
+00:14:54,680 --> 00:15:01,680
+ But then they have this giant facilities budget line of £44,500 and that's where it's gone over.
+
+179
+00:15:01,680 --> 00:15:15,680
+ So I don't really know what we can take from this other than if your function space is going to cost that much, you really need to kind of budget that in and look at how much pass along you've got.
+
+180
+00:15:15,680 --> 00:15:21,680
+ Because the problem is that if you build up the pass along over several years and then if it kind of gets...
+
+181
+00:15:21,680 --> 00:15:26,680
+ It's designed, I guess, to cope with this kind of eventuality when you have a convention with a shortfall.
+
+182
+00:15:26,680 --> 00:15:43,680
+ But if we build this up kind of over several years and then it's sort of wiped out by one convention not quite meeting its financial goals, then we need to be aware of that because the next few Eastercons will not have as big a sort of backup safety net as a current one.
+
+183
+00:15:43,680 --> 00:15:57,680
+ I want to say, I don't think it's totally mad to have a very large budget line for conference space, but I think at the point where they budgeted, that should probably have been reflected in larger membership fees.
+
+184
+00:15:57,680 --> 00:16:01,680
+ And yes, that would have made their membership even smaller, so this is a balance.
+
+185
+00:16:01,680 --> 00:16:06,680
+ I think Farrah has said that if they know how big the convention was going to be, more sites would have been available to them.
+
+186
+00:16:06,680 --> 00:16:21,680
+ When I've worked on Eastercons, we've considered using venue-finding services and concluded that they are more expensive than unsurprisingly doing the work of researching and then going and negotiating directly because they have to make their money somewhere.
+
+187
+00:16:21,680 --> 00:16:33,680
+ Now, I don't know whether it was a very, very difficult year for negotiation and hotels are really expensive at the moment and other sites are really expensive at the moment, and I'm sure this reflects that.
+
+188
+00:16:33,680 --> 00:16:40,680
+ But, you know, we could say, yes, we're going to spend £40,000 on fantastic, fantastic, fantastic work for us.
+
+189
+00:16:40,680 --> 00:16:44,680
+ And in return, guys, you're going to have to pay quite a lot more for your membership.
+
+190
+00:16:44,680 --> 00:16:50,680
+ That's something that's an option for Eastercon to avoid financial ruin.
+
+191
+00:16:50,680 --> 00:16:53,680
+ But this is what Pass Along is for.
+
+192
+00:16:53,680 --> 00:17:07,680
+ The reason we have Pass Along funds is so that if this happens, the Eastercon can cope and will not have to go and ask rich members of fandom to bail it out or wulk ons or whatever, it can cope.
+
+193
+00:17:07,680 --> 00:17:11,680
+ This is good. This is what we did it for. It's fine.
+
+194
+00:17:11,680 --> 00:17:22,680
+ But in future, we probably need to not book that sort of conference space without having a very clear idea of how we're going to pay for it, which rather undermines all the people who went, oh, well,
+
+195
+00:17:22,680 --> 00:17:28,680
+ Telford was lovely. Telford was quite nice, actually. It's not impossible that we would use that sort of site again.
+
+196
+00:17:28,680 --> 00:17:31,680
+ Don't we get undermines people liking Telford?
+
+197
+00:17:31,680 --> 00:17:38,680
+ Well, it undermines people going, oh, this was a great venue. It was a great venue because you were essentially being subsidized by the entire history of Eastercon.
+
+198
+00:17:38,680 --> 00:17:41,680
+ But I don't think it does undermine people saying it's a great venue.
+
+199
+00:17:41,680 --> 00:17:46,680
+ Is that opinion still remains valid, even if it's a great venue we can't return to?
+
+200
+00:17:46,680 --> 00:17:48,680
+ I think undermine is the wrong verb.
+
+201
+00:17:48,680 --> 00:17:53,680
+ I think so. I just worry that there's a risk that people say, okay, Telford was great.
+
+202
+00:17:53,680 --> 00:17:58,680
+ And then if we go somewhere that was not as good as Telford, they say, well, why can't we have something as nice as Telford?
+
+203
+00:17:58,680 --> 00:18:02,680
+ We ran it there before. And then you have to say, because we can't, because we don't have the money anymore.
+
+204
+00:18:02,680 --> 00:18:17,680
+ Well, because we don't have the budget. So I think I have certainly had negotiations with hotels that would be fabulous for Eastercon, but they'd have come in at about the price Telford was, and we've had to walk away and go, oh, no, can't do that.
+
+205
+00:18:17,680 --> 00:18:21,680
+ It's a bit of a shame. But sites do exist.
+
+206
+00:18:21,680 --> 00:18:24,680
+ So we just don't use because they're ludicrously expensive.
+
+207
+00:18:24,680 --> 00:18:38,680
+ Looking at the numbers, so membership, 54,000 and a half thousand pounds, just for comparison, Follicon got 63,000 pounds from membership and Reclamation got 47,000 pounds from membership.
+
+208
+00:18:38,680 --> 00:18:51,680
+ So you could say, okay, what we'd need to make this viable was probably another 30, 40k from membership, which probably means getting up to maybe 900 people instead of 550 or 1000 people.
+
+209
+00:18:51,680 --> 00:19:01,680
+ And that's certainly doable for Eastercons, but it's just very hard to guarantee and also possibly difficult for Telford.
+
+210
+00:19:01,680 --> 00:19:12,680
+ But, you know, if we found like a perfect venue in out of London, say, they actually had a facilities cost that was similar, I think that might be doable, but it would be risky.
+
+211
+00:19:12,680 --> 00:19:15,680
+ Well, the Nova-Tel Hammersmith is not actually out of London.
+
+212
+00:19:15,680 --> 00:19:22,680
+ I mean, I'm also thinking of hotel prices and stuff. We're also going to be higher. So if you're going to have a high membership cost, you'll also have to account for a high hotel cost.
+
+213
+00:19:22,680 --> 00:19:31,680
+ But just that like, I think it's fine, we have the pass along so that committees can take a swing at this. And yeah, if you miss, you are not financially ruined.
+
+214
+00:19:31,680 --> 00:19:40,680
+ But the next like three or four Eastercons, which I think are still in a difficult post-COVID situation cannot take a swing like this.
+
+215
+00:19:40,680 --> 00:19:42,680
+ They have to be a little bit more conservative.
+
+216
+00:19:42,680 --> 00:19:54,680
+ Yes, but in time, there are other cities with small conference centres that small and medium-sized conference centres that probably are quite well suited to the East economy.
+
+217
+00:19:54,680 --> 00:19:59,680
+ We just need to go and find that we haven't really been looking for them before. They didn't use to exist.
+
+218
+00:19:59,680 --> 00:20:04,680
+ There are a lot more conference facilities that are smaller in general. Off you go, chaps.
+
+219
+00:20:04,680 --> 00:20:12,680
+ I think, so I want to say like, I think this is one of the reasons, because we suspected, I think we suspected this would happen.
+
+220
+00:20:12,680 --> 00:20:24,680
+ Or we suspected this is what had happened. So one of the reasons we had the discussion on Episode 109 was because you have this financial consideration and that these sorts of venues do cost more money.
+
+221
+00:20:24,680 --> 00:20:35,680
+ And so if you're curious about the various financial implications and considerations for EATICON, and you have only just started listening, then do go back and listen to that episode.
+
+222
+00:20:35,680 --> 00:20:44,680
+ And for those who are newer, Eastcons do tend to be held in hotels where this sort of consideration is much less of a consideration.
+
+223
+00:20:44,680 --> 00:21:00,680
+ And so the reason we don't usually have this giant facilities budget line is because we usually get conference space in a hotel for free in exchange for spending a certain amount on food and drink, which we usually manage fairly easily because fans like eating and drinking.
+
+224
+00:21:00,680 --> 00:21:10,680
+ So yeah, if you're new to the Eastcon and to how these sort of conventions work, then that is the flip side and the sort of the normal way these things are done.
+
+225
+00:21:10,680 --> 00:21:17,680
+ I think I should say not free, at least not for the last few years, but much, much less than this.
+
+226
+00:21:17,680 --> 00:21:23,680
+ A much reduced price in return for a food and beverage spend, which we do meet normally.
+
+227
+00:21:23,680 --> 00:21:32,680
+ I mean, obviously there's a point where it could be escalated to the point where we wouldn't meet it, but hotels have an idea of how much food and drink.
+
+228
+00:21:32,680 --> 00:21:41,680
+ I think we just do a lot more eating and drinking on site during the day than a lot of events. We don't have it where people disappear for six hours for lunch and dinner or anything like that.
+
+229
+00:21:41,680 --> 00:21:54,680
+ The amount I spend on food and drink in the hotel in Eastcon is way higher than other conventions, which cuts both ways because it's one of the things that Noyce has found you're about Eastcons, but it is good for the purposes of running them.
+
+230
+00:21:54,680 --> 00:22:06,680
+ But I like that like Liz says, I think it is possible that you could do a, I don't think this is an impossible venue. I think it's just a venue where you have to be very clear that you need a certain amount of people and you need to charge a certain amount of money.
+
+231
+00:22:06,680 --> 00:22:18,680
+ But I think having done it in a way that means that everyone who went agrees that it is a workable venue and isn't the fallout from Blackpool, which is a clearly conference centre that's just completely an on-starter.
+
+232
+00:22:18,680 --> 00:22:28,680
+ Let's never try this again. Might mean we can start iterating towards a model that actually works for this sort of venue. And I'm kind of, obviously it's bad that this one, the hemorrhage money.
+
+233
+00:22:28,680 --> 00:22:37,680
+ But it is also nice that we've done an experiment and we have like a view of how it works and how it might work better if we ever want to do it again.
+
+234
+00:22:37,680 --> 00:22:44,680
+ And so it is quite nice that, you know, they took a shot and they came back with science. So thank you very much.
+
+235
+00:22:44,680 --> 00:22:56,680
+ I know Liz mentioned this, but very well done to Farrah and the whole committee for getting this report. Getting their finances tied up so quickly and getting the report out and published in good time.
+
+236
+00:22:56,680 --> 00:22:58,680
+ Please, Eastercons do this.
+
+237
+00:22:58,680 --> 00:23:00,680
+ Yes, it oozes integrity.
+
+238
+00:23:00,680 --> 00:23:08,680
+ Yeah, and there's a ton more, there's a ton more stuff in there for future discussion as well that we may come back to.
+
+239
+00:23:08,680 --> 00:23:16,680
+ But I think one of the things I'll pick out is also, you know, they say their membership curves were on course to be okay as late as January.
+
+240
+00:23:16,680 --> 00:23:21,680
+ And so it's obviously kind of a late, they didn't pick up the late members of the conventions due.
+
+241
+00:23:21,680 --> 00:23:27,680
+ And that's a really useful thing to know now because next year's convention can, you know, maybe thinking, "Hey, we're fine, we're on curve."
+
+242
+00:23:27,680 --> 00:23:31,680
+ And they're also going to hit this last three months slowdown that totally screws you over.
+
+243
+00:23:31,680 --> 00:23:38,680
+ Well, I wonder whether, so we know that Eastercons that get held in Worldcon years tend to be a bit smaller than you might otherwise expect.
+
+244
+00:23:38,680 --> 00:23:44,680
+ And this is very difficult to show because every Eastercon is in a different venue in a different year and is his own unique snowflake.
+
+245
+00:23:44,680 --> 00:23:47,680
+ And so finding patterns in the data is really, really difficult.
+
+246
+00:23:47,680 --> 00:24:00,680
+ But a great example is like the Eastercon in 2014 in Glasgow was about the same size as one in Bradford was, and you might expect Glasgow to have greater pulling power than Bradford or the other things being equal.
+
+247
+00:24:00,680 --> 00:24:08,680
+ And so like it's hard and you can, there's an element of opinion here listeners, so don't interpret this as like God's solid truth.
+
+248
+00:24:08,680 --> 00:24:20,680
+ But I think it strikes me that the number of people who will decide to go to an Eastercon or decide to go to a Worldcon, and for them it's neither or will be in that last three months.
+
+249
+00:24:20,680 --> 00:24:27,680
+ Like if you are the sort of person that always joins the Eastercon as soon as it's seated, you're probably going to the Eastercon.
+
+250
+00:24:27,680 --> 00:24:30,680
+ Whereas if you're not sure you're going to be in that last window.
+
+251
+00:24:30,680 --> 00:24:37,680
+ And so I do wonder whether it's the not sure's that drop off in a Worldcon year that might not drop off in a non-Worldcon year.
+
+252
+00:24:37,680 --> 00:24:42,680
+ And so maybe those curves don't work in Worldcon years when they get towards the end.
+
+253
+00:24:42,680 --> 00:24:45,680
+ Would be my working hypothesis.
+
+254
+00:24:45,680 --> 00:24:54,680
+ Maybe wrong and there's no real way of testing it, but that would be, if I was looking at the data, that would be my first sort of point of investigation finances.
+
+255
+00:24:55,680 --> 00:25:08,680
+ Now let's turn from finances to a different word beginning with F, and that word is fun.
+
+256
+00:25:08,680 --> 00:25:12,680
+ It's time to turn to our fun correspondent, Alison Scott.
+
+257
+00:25:12,680 --> 00:25:14,680
+ Alison, how's the fun bin this week?
+
+258
+00:25:14,680 --> 00:25:29,680
+ So a couple of weeks ago I went to Funcon, which was a built as a small fun convention in Buxton at the Buxton Palace, which has become a kind of go-to site for small British conventions at the moment, though I don't know for how long.
+
+259
+00:25:29,680 --> 00:25:43,680
+ And it was quite wary of it beforehand because it seemed to be kind of emphasizing organized and mandatory fun, but in practice none of the fun was mandatory.
+
+260
+00:25:43,680 --> 00:25:48,680
+ You were very welcome to have different fun or no fun at all if that was what you wanted to do.
+
+261
+00:25:48,680 --> 00:25:58,680
+ And the bits of organized fun I went to were fab because it was the sort of program I think all convention programs should be like, not in terms of its content, which was really interesting.
+
+262
+00:25:58,680 --> 00:26:12,680
+ Which was relentlessly trivial, deliberately relentlessly trivial, but because every single item on the program had had somebody giving it some thought and building a program item to be the best program item it could possibly be.
+
+263
+00:26:12,680 --> 00:26:22,680
+ And as you know, because I bleed all of it back to the pod every fortnight, I feel that larger conventions sometimes lose sight of that requirement.
+
+264
+00:26:22,680 --> 00:26:36,680
+ The program items I went to, and you will see a theme here, were exercised based, i.e. the air guitar workshop at which I discovered that Johnny Badley is an air guitar god and has missed his calling in life.
+
+265
+00:26:36,680 --> 00:26:46,680
+ And the Kaylee at which we were space lepers versus armadillos, which was part of the theme of the convention actually, was that there was a team of space lepers and a team of armadillos and you were one in one or the other.
+
+266
+00:26:46,680 --> 00:26:59,680
+ Because they just gone down the list, going 1 2 1 2 1 2, it meant the most couples were separated into opposite teams and I'm not sure about this, I think it might have been better if couples were on the same team, but on the other hand, it was fine.
+
+267
+00:26:59,680 --> 00:27:08,680
+ Into couple rivalry. Space lepers versus armadillos was quite good for the Kaylee because it messes you few and your partner were both at the Kaylee, you could make sure that you were on the correct side.
+
+268
+00:27:08,680 --> 00:27:15,680
+ How, wait, how did you get points for your team at Kaylee because the Kaylee's I've been to are not generally speaking competitive.
+
+269
+00:27:15,680 --> 00:27:21,680
+ I am not sure we got points for our team at the Kaylee, but we did get some points for our team in other things.
+
+270
+00:27:21,680 --> 00:27:32,680
+ I've just remembered I also went to a campfire sing along which I'd forgotten because I had had so much alcohol that I started singing the sorts of songs I sing at the folk clubs, so that was pretty bad.
+
+271
+00:27:32,680 --> 00:27:33,680
+ Are you sure it was bad?
+
+272
+00:27:33,680 --> 00:27:35,680
+ Are they about headchunks?
+
+273
+00:27:35,680 --> 00:27:39,680
+ Actually, that one would have fitted it very well, but in fact, nobody chose to sing it.
+
+274
+00:27:39,680 --> 00:27:42,680
+ Did you sing The Wizard's Staff has a knob on the end?
+
+275
+00:27:42,680 --> 00:27:57,680
+ Yeah, yeah, it was that sort of sing along, it was a lot of fun, it was kind of like, it reminded me of what filc sessions were like when I first got into fandom and really, really enjoyed the kind of drunken sing along nature of the filking.
+
+276
+00:27:57,680 --> 00:28:14,680
+ And then the other sort of programme I went to was food related items, i.e. the gin tasting and the cheese tasting, and they were both great, and I drank a lot of gin at the gin tasting, and my tasting notes say, "Ooh, gin, gin is good."
+
+277
+00:28:14,680 --> 00:28:15,680
+ Ha!
+
+278
+00:28:15,680 --> 00:28:22,680
+ And I ate a lot of cheese at the cheese tasting, and my cheese tasting notes say, "Mmm, cheese, cheese is good."
+
+279
+00:28:22,680 --> 00:28:32,680
+ So it was very relaxed, it was a lot of fun. In between the lots of programme, I also spent quite a lot of time in Buxton, in pubs and bars, like I often do when I'm there.
+
+280
+00:28:32,680 --> 00:28:48,680
+ And it was a really good chance for people who had maybe been working on big conventions, or who were currently working on bigger conventions, to just kind of relax and have a nice weekend doing relaxing things that weren't necessarily smoughing.
+
+281
+00:28:48,680 --> 00:28:57,680
+ There was supposed to be a rule that said you couldn't smough, but in fact quite a lot of people smough secretly when nobody, when they thought nobody was looking, really had a nice time.
+
+282
+00:28:57,680 --> 00:29:07,680
+ More cons like that, please. Don't know why I go to bigger cons, because this con just had all of the stuff I like, and none of the stuff that's complicated and gets in the way of having fun.
+
+283
+00:29:07,680 --> 00:29:08,680
+ Really brilliant.
+
+284
+00:29:08,680 --> 00:29:09,680
+ I'm glad to enjoy that.
+
+285
+00:29:09,680 --> 00:29:14,680
+ And Alan Fleming has also written a comic report, he also had fun, and I will put a link in the show notes.
+
+286
+00:29:14,680 --> 00:29:22,680
+ Alan's a good egg, I think. I've decided to confer upon him good egg status.
+
+287
+00:29:22,680 --> 00:29:27,680
+ Yeah, no, Alan and David were some of the people that I spent a lot of time chatting to, and it was all good.
+
+288
+00:29:27,680 --> 00:29:34,680
+ This is not really for Pod, but I did put a little picture into the chat of what I was doing while you guys were at Funkon and UK Games Expo.
+
+289
+00:29:34,680 --> 00:29:41,680
+ Did you not see me go "Ee" at the point where I opened your picture? Listeners, I have sent them a picture of a bat.
+
+290
+00:29:41,680 --> 00:29:46,680
+ I should point out I didn't take the picture, an actual photographer took that picture, which is why it is a good picture.
+
+291
+00:29:46,680 --> 00:29:49,680
+ All my pictures are very blurry.
+
+292
+00:29:49,680 --> 00:29:53,680
+ Oh, it's so cute.
+
+293
+00:29:53,680 --> 00:29:59,680
+ No, it's fucking terrifying. God, you can understand why people thought they were devils.
+
+294
+00:29:59,680 --> 00:30:00,680
+ No, it's not.
+
+295
+00:30:00,680 --> 00:30:02,680
+ I think it's a fairly cute bat.
+
+296
+00:30:02,680 --> 00:30:09,680
+ Bats are so cute. If having bats as pets was like an option, I would have bats as pets, because bats are amongst the cutest animals.
+
+297
+00:30:09,680 --> 00:30:24,680
+ So the timeshare that I go to in the summer, the swimming pool has bats in its rafters, and if you swim late at night, the bats sweep down and drink water from the swimming pool while you're swimming.
+
+298
+00:30:24,680 --> 00:30:26,680
+ I mean, I'm not sure they do anymore, but...
+
+299
+00:30:26,680 --> 00:30:28,680
+ I need a swimming pool and some bats.
+
+300
+00:30:28,680 --> 00:30:34,680
+ Yeah, that happens here, John. I mean, I've not seen them swoop into the pool while I'm in it, but they will swoop overhead while you're swimming.
+
+301
+00:30:34,680 --> 00:30:36,680
+ Oh, I need to go and visit this.
+
+302
+00:30:36,680 --> 00:30:40,680
+ I mean, I already needed to go and visit this, but I need to go and visit this even more now.
+
+303
+00:30:40,680 --> 00:30:42,680
+ Oh, you know I want to go and visit this.
+
+304
+00:30:42,680 --> 00:30:45,680
+ I'm at whatever's the cool time in Bangkok.
+
+305
+00:30:45,680 --> 00:30:48,680
+ When hell freezes over, I think.
+
+306
+00:30:48,680 --> 00:30:50,680
+ Yeah, define cool.
+
+307
+00:30:50,680 --> 00:30:51,680
+ Cooler.
+
+308
+00:30:51,680 --> 00:30:56,680
+ I'm going to very quickly talk about the convention I went to.
+
+309
+00:30:56,680 --> 00:30:58,680
+ So I went to the UK Games Expo.
+
+310
+00:30:58,680 --> 00:31:06,680
+ I probably didn't have the money to go to Funkon anyway, but the fact it was the same weekend as the UK Games Expo, which I always book a year ahead.
+
+311
+00:31:06,680 --> 00:31:07,680
+ Um, meant I was...
+
+312
+00:31:07,680 --> 00:31:09,680
+ Was Game Expo cheaper?
+
+313
+00:31:09,680 --> 00:31:14,680
+ Well, no, but going to the UK Games Expo is cheaper than going to the UK Games Expo and going to Funkon.
+
+314
+00:31:14,680 --> 00:31:18,680
+ Yeah, but you know, one of these is non-negotiable for John.
+
+315
+00:31:18,680 --> 00:31:24,680
+ Yeah, my three mandatory conventions in any UK Worldcon year are Eastcon, the Games Expo and the UK Worldcon.
+
+316
+00:31:24,680 --> 00:31:28,680
+ And if that means that Funkon would be Convention No. 4, which would be...
+
+317
+00:31:28,680 --> 00:31:29,680
+ Well, I think we can't.
+
+318
+00:31:29,680 --> 00:31:31,680
+ Yes, well, and that's the thing, right?
+
+319
+00:31:31,680 --> 00:31:38,680
+ Convention No. 4 would have been unlikely anyway, but Convention No. 4 instead of one of the mandatory ones, that was not going to happen.
+
+320
+00:31:38,680 --> 00:31:41,680
+ But I went to the UK Games Expo and it was very good.
+
+321
+00:31:41,680 --> 00:31:47,680
+ I bought some games, I played some games, and if you would like to talk to me about games, listeners, please email,
+
+322
+00:31:47,680 --> 00:31:51,680
+ and I will go into great detail about what I thought of the games.
+
+323
+00:31:51,680 --> 00:31:53,680
+ Also works in tech.
+
+324
+00:31:53,680 --> 00:31:55,680
+ Any format. Games.
+
+325
+00:31:55,680 --> 00:31:59,680
+ Um, when I used to go to Games Conventions, I went to one enormous one.
+
+326
+00:31:59,680 --> 00:32:04,680
+ Probably nothing like as big as Games Expo is now, but still pretty enormous.
+
+327
+00:32:04,680 --> 00:32:09,680
+ And I'm not asked by X what its day was because I could find a trace of it on the internet.
+
+328
+00:32:09,680 --> 00:32:14,680
+ And then I also went to a sort of quite small Games Conventions that I decided I really liked small Games Conventions a lot more,
+
+329
+00:32:14,680 --> 00:32:19,680
+ because they were less about people trying to sell you games and more about people getting drunk and play games,
+
+330
+00:32:19,680 --> 00:32:22,680
+ which is the thing that I actually enjoyed.
+
+331
+00:32:22,680 --> 00:32:25,680
+ UK Games Expo is about both in spades.
+
+332
+00:32:25,680 --> 00:32:30,680
+ There is the entire Hilton is dedicated to playing games.
+
+333
+00:32:30,680 --> 00:32:31,680
+ Mm-hmm.
+
+334
+00:32:31,680 --> 00:32:38,680
+ So for people who have been to the Hilton Boeing and Metropole, where we would situate an Easter con and have room to rattle about,
+
+335
+00:32:38,680 --> 00:32:43,680
+ the UK Games Expo completely packs it and there are no traders at all.
+
+336
+00:32:43,680 --> 00:32:49,680
+ It is all people playing games and they use every function room just for playing games.
+
+337
+00:32:49,680 --> 00:32:55,680
+ So like, it is bigger than an Easter con and it is just people playing games and drinking.
+
+338
+00:32:55,680 --> 00:33:04,680
+ And then the NEC is one hall for the queue for tickets and the queue for the bring and buy, one hall for playing games,
+
+339
+00:33:04,680 --> 00:33:06,680
+ and then two halls for exhibitors.
+
+340
+00:33:06,680 --> 00:33:12,680
+ Which also has a lot of playing games because you get to play all of the demo games and the print and play games and like the stuff,
+
+341
+00:33:12,680 --> 00:33:16,680
+ there is the play testing area and there is the stuff that will never make it to market.
+
+342
+00:33:16,680 --> 00:33:20,680
+ And so like, I spent a lot of time there playing games and then the evening I play other games elsewhere.
+
+343
+00:33:20,680 --> 00:33:21,680
+ I play a lot of games.
+
+344
+00:33:21,680 --> 00:33:22,680
+ Sounds good.
+
+345
+00:33:22,680 --> 00:33:24,680
+ In conclusion, Games.
+
+346
+00:33:24,680 --> 00:33:30,680
+ [Music]
+
+347
+00:33:30,680 --> 00:33:33,680
+ Shall we talk more about Conventions?
+
+348
+00:33:33,680 --> 00:33:37,680
+ Liz, do you want to tell us about sites?
+
+349
+00:33:37,680 --> 00:33:39,680
+ Let's go 2024.
+
+350
+00:33:39,680 --> 00:33:44,680
+ The 2024 Worldcon have open site selection for the 2026 Worldcon.
+
+351
+00:33:44,680 --> 00:33:54,680
+ To vote in site selection, you have to pay what is sometimes called a voting fee or sometimes called the Advanced Supporting Membership.
+
+352
+00:33:54,680 --> 00:33:56,680
+ Or now I think it's called an Advanced Whisthest Membership.
+
+353
+00:33:56,680 --> 00:34:06,680
+ Anyway, basically if you pay the voting fee, you get to vote and then you will automatically get a Whisthest Membership of the 2026 Worldcon.
+
+354
+00:34:06,680 --> 00:34:18,680
+ Now in a year with lots of bids, you will just get a membership in whichever one wins, which can be great if it was the one you wanted and less great if you weren't going to buy one otherwise.
+
+355
+00:34:18,680 --> 00:34:28,680
+ This year there is only one filed bid which is LA in 2026, so your choices are vote for LA in 2026 or vote for not LA in 2026.
+
+356
+00:34:28,680 --> 00:34:33,680
+ And this year you can vote online which has been possible in some years.
+
+357
+00:34:33,680 --> 00:34:39,680
+ I think it's only been possible in uncontested years so far because I think all the bids have to agree.
+
+358
+00:34:39,680 --> 00:34:43,680
+ Correct me if I am wrong listeners, I haven't voted in all the site selections.
+
+359
+00:34:43,680 --> 00:34:45,680
+ I believe that is true.
+
+360
+00:34:45,680 --> 00:34:52,680
+ Yeah, because basically it's only controversial so no one's worried about any problems with being able to vote online.
+
+361
+00:34:52,680 --> 00:35:01,680
+ You can vote in person at Worldcon if you want, but only until new on Saturday so if you are going to vote in select selection, don't forget and leave it till Monday.
+
+362
+00:35:01,680 --> 00:35:11,680
+ So I haven't voted on my, I might vote on site, I might not care and just sign up when 2026 becomes naturally to come, whatever.
+
+363
+00:35:11,680 --> 00:35:22,680
+ It is traditionally but not invariably the cheapest way to get your wussus membership of the 2026 Worldcon and hence in some time a voter's packet.
+
+364
+00:35:22,680 --> 00:35:32,680
+ So I have voted in site selection for many many years despite the fact that actually I don't get to most Worldcons, I only generally get to European Worldcons and the occasional other Worldcon.
+
+365
+00:35:32,680 --> 00:35:34,680
+ But I have tried to vote.
+
+366
+00:35:34,680 --> 00:35:53,680
+ To vote you go to your Glasgow page on the Glasgow website and you click available actions and then from there you can pay £45 and you will get an email telling you that you're about to get an email from Election Buddy.
+
+367
+00:35:53,680 --> 00:36:11,680
+ And that email can take a couple of days to arrive for me, it took two days and then after you have received the email from Election Buddy you will click the link and you can vote for Los Angeles, you can write in your own bid, you can vote for no preference or you can vote to basically none of these
+
+368
+00:36:11,680 --> 00:36:22,680
+ where someone else would have to come up with a Worldcon at Quile Notice. It's my opinion that choosing that one would be unhelpful but you can democracy.
+
+369
+00:36:22,680 --> 00:36:27,680
+ And I believe I have done this, I voted for LA and I believe Alison has done this, Alison.
+
+370
+00:36:27,680 --> 00:36:36,680
+ I have paid my £45 but I have not yet had the email from Election Buddy and they're not actually late for another few minutes.
+
+371
+00:36:36,680 --> 00:36:40,680
+ But I mean I'm assuming it'll come in the next day or two and I should not worry.
+
+372
+00:36:40,680 --> 00:36:45,680
+ But all this to say just do not leave it till the last minute if you are planning to vote in site selection.
+
+373
+00:36:45,680 --> 00:36:51,680
+ I would recommend you just do it now if you have the money or do it on pay day if you do not but you wish to.
+
+374
+00:36:51,680 --> 00:36:55,680
+ It was in a spam bucket, I found it, I'm voting right now. Real time follow up.
+
+375
+00:36:55,680 --> 00:36:58,680
+ Hey live voting.
+
+376
+00:36:58,680 --> 00:37:02,680
+ No stop, stop doing other stuff while you are podcasting.
+
+377
+00:37:02,680 --> 00:37:04,680
+ This always happens.
+
+378
+00:37:04,680 --> 00:37:08,680
+ What are you guys don't get distracted?
+
+379
+00:37:08,680 --> 00:37:12,680
+ If you don't mind revealing on the pod which button are you clicking?
+
+380
+00:37:12,680 --> 00:37:21,680
+ I clicked on the LA in 2026 button because somebody suggested that I should go to Disneyland and indeed some Star Wars thing.
+
+381
+00:37:21,680 --> 00:37:22,680
+ You should.
+
+382
+00:37:22,680 --> 00:37:27,680
+ If I go to LA in 2026 and that sounds like quite a fun thing you might do.
+
+383
+00:37:27,680 --> 00:37:28,680
+ Or I might not.
+
+384
+00:37:28,680 --> 00:37:35,680
+ But it's a possibility and it's better than not having a world color not going anywhere and I see no reason to think that LA can't put on a perfectly good world card.
+
+385
+00:37:35,680 --> 00:37:36,680
+ I'm looking forward to it.
+
+386
+00:37:36,680 --> 00:37:40,680
+ John you're undermining the sanctity of the secret ballot here.
+
+387
+00:37:40,680 --> 00:37:43,680
+ No I'm not it's fine to tell people who you voted for.
+
+388
+00:37:43,680 --> 00:37:46,680
+ It's just not to find to tell people who other people voted for.
+
+389
+00:37:46,680 --> 00:37:52,680
+ [Music]
+
+390
+00:37:52,680 --> 00:37:58,680
+ Alison would you like to talk to us about Glasgow in 2024?
+
+391
+00:37:58,680 --> 00:38:06,680
+ We've had this on the possible topics list for a little while to talk about briefly and we are just going to cover it briefly I think.
+
+392
+00:38:06,680 --> 00:38:13,680
+ To talk about Worldcon overload and staying sane in the last few weeks before a Worldcon and not doing too much.
+
+393
+00:38:13,680 --> 00:38:21,680
+ And I have a little bit of backstory here because in order to make this easier for me I resigned from my Worldcon job and did not take another one.
+
+394
+00:38:21,680 --> 00:38:38,680
+ I'm not doing any work for the Worldcon and nevertheless for the last week almost all of my spare time has been spent doing tasks which will not necessarily directly as a member of Worldcon staff have been beat for the Worldcon and have takes up a lot of my time.
+
+395
+00:38:38,680 --> 00:38:40,680
+ So it was a bit shocking.
+
+396
+00:38:40,680 --> 00:38:49,680
+ I don't want to talk too much about the sorts of tasks they were but they were basically all of the things that I seem to have peripherally got involved in doing with the Worldcon.
+
+397
+00:38:49,680 --> 00:38:54,680
+ And I think I don't think it's terrible. I think it's just by getting them done now.
+
+398
+00:38:54,680 --> 00:39:05,680
+ It'll be much quieter later but I also think that's bananas and is not true and I will be absolutely up to my eyeballs at it for the next couple of weeks, four weeks, six weeks, six and a half.
+
+399
+00:39:05,680 --> 00:39:09,680
+ I don't know, seven weeks by the time you listen to this I can't remember.
+
+400
+00:39:09,680 --> 00:39:11,680
+ It's coming anyway. It's all been a bit much.
+
+401
+00:39:11,680 --> 00:39:15,680
+ Is it going to be like this every all the time for the next six weeks guys?
+
+402
+00:39:15,680 --> 00:39:20,680
+ If this is you and you're listening to this then do remember to take lovely breaks and I did take a lovely break.
+
+403
+00:39:20,680 --> 00:39:31,680
+ I went camping for a weekend camping in a lovely quiet part of Norfolk and visiting Kingslyn and then I twisted my ankle and had to come home.
+
+404
+00:39:31,680 --> 00:39:33,680
+ So don't do that.
+
+405
+00:39:33,680 --> 00:39:36,680
+ That does seem reasonable.
+
+406
+00:39:36,680 --> 00:39:44,680
+ So one of the reasons to be fair that I've been doing so much Worldcon stuff this week is that I twisted my ankle and so I still cannot walk for more than, you know, to the bottom.
+
+407
+00:39:44,680 --> 00:39:47,680
+ You know, to the bus stop. So I haven't really been that much.
+
+408
+00:39:47,680 --> 00:39:52,680
+ I'm sorry. I am working on the Worldcon. I'm working on the Discord.
+
+409
+00:39:52,680 --> 00:39:54,680
+ That sounds like fun. Yeah hopefully.
+
+410
+00:39:54,680 --> 00:40:01,680
+ I have the same Worldcon job as I've had for a few months which is doing the podcasting and radio area.
+
+411
+00:40:01,680 --> 00:40:07,680
+ I am having terrible problems because for some reason my internet really hates Planner Armor at the moment.
+
+412
+00:40:07,680 --> 00:40:11,680
+ Even if I have like a VPN on or I use a different connection it just really hates Planner Armor.
+
+413
+00:40:11,680 --> 00:40:15,680
+ I think the internet tubes between Thailand and Planner Armor are tiny.
+
+414
+00:40:15,680 --> 00:40:18,680
+ So basically some other people have been picking up some of my slack.
+
+415
+00:40:18,680 --> 00:40:22,680
+ So you can't say I'm overworked but I do have a bunch more stuff to do.
+
+416
+00:40:22,680 --> 00:40:27,680
+ And I just remember like this time in 2014.
+
+417
+00:40:27,680 --> 00:40:28,680
+ Yeah.
+
+418
+00:40:28,680 --> 00:40:31,680
+ Wait, when was the Worldcon? Was it 2014 or was it 2012?
+
+419
+00:40:31,680 --> 00:40:32,680
+ 2014.
+
+420
+00:40:32,680 --> 00:40:34,680
+ It was 2014. Okay, can't remember anymore.
+
+421
+00:40:34,680 --> 00:40:40,680
+ This time in 2014 I remember that basically I had just moved house and I didn't own a sofa.
+
+422
+00:40:40,680 --> 00:40:47,680
+ I owned a single IKEA Poeng chair and every day I would get home from work and I would sit in my IKEA Poeng
+
+423
+00:40:47,680 --> 00:40:51,680
+ and I would fix scheduling conflicts and then I would go to bed.
+
+424
+00:40:51,680 --> 00:40:57,680
+ That was definitely a bit too much Worldcon work but I think I have actually a lot more day job work
+
+425
+00:40:57,680 --> 00:41:00,680
+ and that means I just cannot do as much Worldcon work.
+
+426
+00:41:00,680 --> 00:41:06,680
+ So do your Worldcon stuff while you are young and energetic or alternatively retired?
+
+427
+00:41:06,680 --> 00:41:07,680
+ My advice.
+
+428
+00:41:07,680 --> 00:41:17,680
+ In 2014 I had about a four month period where I pretty much got up every day, did Worldcon stuff until bedtime and then went to bed.
+
+429
+00:41:17,680 --> 00:41:18,680
+ It was a lot.
+
+430
+00:41:18,680 --> 00:41:25,680
+ And that is partly that if you do things and you do them well, you acquire a lot more things to do.
+
+431
+00:41:25,680 --> 00:41:28,680
+ When we were doing the pre-show for this and discussing everything we were going to talk about,
+
+432
+00:41:28,680 --> 00:41:35,680
+ John said, "But you need to say no more" and I think the person I mostly need to say no to more is me.
+
+433
+00:41:35,680 --> 00:41:36,680
+ Yes.
+
+434
+00:41:36,680 --> 00:41:41,680
+ Because a lot of those things come out of my head and I go, "Oh wouldn't it be cool if this happened?"
+
+435
+00:41:41,680 --> 00:41:43,680
+ Which is probably true.
+
+436
+00:41:43,680 --> 00:41:50,680
+ But yes, so I'm working on a very small part of the Worldcon which I hope I will be able to make better.
+
+437
+00:41:50,680 --> 00:41:55,680
+ But yes, I've bitten off about as much as I can chew I think.
+
+438
+00:41:55,680 --> 00:41:56,680
+ So that's good.
+
+439
+00:41:56,680 --> 00:42:01,680
+ Liz and Liz is just pretending she's got bad internet to get out of having to do her actions.
+
+440
+00:42:01,680 --> 00:42:03,680
+ [Laughter]
+
+441
+00:42:03,680 --> 00:42:07,680
+ You heard it here first listeners. Internet seems fine to me Liz.
+
+442
+00:42:07,680 --> 00:42:12,680
+ It is quite annoying because like everything in programme at the moment runs through pranalarma
+
+443
+00:42:12,680 --> 00:42:18,680
+ which I think is pretty great and a big step up from when I was doing this with grenadine last time.
+
+444
+00:42:18,680 --> 00:42:24,680
+ And I would like to do more help with like scheduling and conflict resolution and stuff because I'm quite good at it.
+
+445
+00:42:24,680 --> 00:42:26,680
+ Having done it for like umpteen Worldcons.
+
+446
+00:42:26,680 --> 00:42:29,680
+ But I just can't because I can't get the page slowed.
+
+447
+00:42:29,680 --> 00:42:30,680
+ So yeah.
+
+448
+00:42:30,680 --> 00:42:34,680
+ And I probably won't pick up another, I doubt I'll pick up another job at the stage for the Worldcon.
+
+449
+00:42:34,680 --> 00:42:38,680
+ So I'll just be a little bit less involved but that's fine.
+
+450
+00:42:38,680 --> 00:42:41,680
+ There'll be more European Worldcons I'm pretty sure.
+
+451
+00:42:41,680 --> 00:42:42,680
+ [Laughter]
+
+452
+00:42:42,680 --> 00:42:44,680
+ Yes, in 2029 for a start.
+
+453
+00:42:44,680 --> 00:42:48,680
+ Picking up on what John said about doing a controlled area.
+
+454
+00:42:48,680 --> 00:42:52,680
+ There's a discussion going on on the Worldcon Discord at the moment.
+
+455
+00:42:52,680 --> 00:42:54,680
+ I think this is, staff discord this is.
+
+456
+00:42:54,680 --> 00:43:00,680
+ I don't think this is the only way secret about how did Worldcons get organised before we had the internet?
+
+457
+00:43:00,680 --> 00:43:05,680
+ And they're talking about the obvious things like in-person meetings and lots of phone calls and so on.
+
+458
+00:43:05,680 --> 00:43:13,680
+ But one of the things that I think was very different is that in general projects or sub-projects had far fewer people on them.
+
+459
+00:43:13,680 --> 00:43:24,680
+ So you'd have a person doing a thing and by and large they would do that thing with much less, you know, they'd obviously check in to make sure they were doing the right thing.
+
+460
+00:43:24,680 --> 00:43:29,680
+ But with much less kind of collaboration the world is very much more collaborative now.
+
+461
+00:43:29,680 --> 00:43:36,680
+ But that also means that everything takes a lot more work in total to get the same amount of output done.
+
+462
+00:43:36,680 --> 00:43:39,680
+ You probably, when it goes well, you get a better output.
+
+463
+00:43:39,680 --> 00:43:45,680
+ But don't underestimate the benefits of one person just taking a piece of work and going and doing it.
+
+464
+00:43:45,680 --> 00:43:49,680
+ Because that used to happen a lot more than I think it does that and it's really good.
+
+465
+00:43:49,680 --> 00:43:57,680
+ Shall we do picks?
+
+466
+00:43:57,680 --> 00:43:58,680
+ Yeah.
+
+467
+00:43:58,680 --> 00:44:05,680
+ Liz has to go first because she sniped my pick and so her punishment is having to go first.
+
+468
+00:44:05,680 --> 00:44:12,680
+ So my pick is Godzilla-1, a 2023 Japanese film about Godzilla.
+
+469
+00:44:12,680 --> 00:44:26,680
+ It is set in post-war Japan and essentially the central character is that we follow a Kamib Karzi pilot who encounters Godzilla during the war.
+
+470
+00:44:26,680 --> 00:44:34,680
+ And then we follow him after he goes back to bombed out Tokyo and ends up encountering Godzilla again.
+
+471
+00:44:34,680 --> 00:44:38,680
+ And I thought it was really great. It is a great monster movie.
+
+472
+00:44:38,680 --> 00:44:43,680
+ I think the Godzilla is entirely CGI but Godzilla looks fantastic.
+
+473
+00:44:43,680 --> 00:44:49,680
+ The effects are great. You do see Godzilla kind of, you know, stomping cities, firing his heat ray.
+
+474
+00:44:49,680 --> 00:44:54,680
+ And it all looks, you know, the sort of spectacular things you want in a big monster movie.
+
+475
+00:44:54,680 --> 00:45:05,680
+ But it also a film about guilt, about pilot Shikishima's kind of his survivors guilt, about kind of the collective guilt of Japan.
+
+476
+00:45:05,680 --> 00:45:12,680
+ Godzilla here is kind of, you know, becomes a giant mutated creature because of the United States nuclear weapons tests.
+
+477
+00:45:12,680 --> 00:45:21,680
+ But it's also very clear that kind of Japan are on their own when they're trying to fight Godzilla and there's no help coming from any other site.
+
+478
+00:45:21,680 --> 00:45:28,680
+ And yeah, I just thought it really nicely tied together like, okay, he is going to overcome his guilt by killing Godzilla.
+
+479
+00:45:28,680 --> 00:45:33,680
+ And it's pretty clear where it's going but it does, I think, a really good job of it.
+
+480
+00:45:33,680 --> 00:45:39,680
+ And I actually found the end, I knew exactly what was going to happen but I found it pretty moving.
+
+481
+00:45:39,680 --> 00:45:50,680
+ I'm slightly sad. I assume the reason it's not on the ballot for Best of Matter Presidents long form was because it came out right at the tail end of 23 and so hardly anyone had watched it at the point that
+
+482
+00:45:50,680 --> 00:46:00,680
+ they were nominating. But it is definitely, there are films on the ballot that I think would not be as good as Godzilla -1, put it that way.
+
+483
+00:46:00,680 --> 00:46:07,680
+ It's on Netflix at the moment, I don't know whether that's worldwide, but it's definitely in the UK. Presumably also in Thailand.
+
+484
+00:46:07,680 --> 00:46:12,680
+ Yeah, it's what I saw it is on Netflix, I think everywhere they have the rights for it.
+
+485
+00:46:12,680 --> 00:46:20,680
+ So I do not currently have Netflix but I'm considering taking Netflix for a month so that I can watch Godzilla.
+
+486
+00:46:20,680 --> 00:46:27,680
+ And in fact, I would have done this this week were it not for the fact that, did I mention I spent every spare minute doing stuff for the Worldcon this week.
+
+487
+00:46:27,680 --> 00:46:31,680
+ So hopefully next week when all of this stuff is delivered and things get quieter again.
+
+488
+00:46:31,680 --> 00:46:34,680
+ I think I want to say two of the good things about Godzilla -1.
+
+489
+00:46:34,680 --> 00:46:39,680
+ Firstly, it's two hours and five minutes which is the correct length for a movie to be.
+
+490
+00:46:39,680 --> 00:46:41,680
+ Oh yes, that's really good.
+
+491
+00:46:41,680 --> 00:46:53,680
+ And secondly, I like the tagline which is from 0 to -1 which is a reference to the fact that the Japanese fighter planes were called zeros which are very good strap line.
+
+492
+00:46:53,680 --> 00:47:01,680
+ I assumed it was called -1 because it was a prequel to Godzilla Zero but I don't think there has been a Godzilla Zero so clearly I was wrong.
+
+493
+00:47:01,680 --> 00:47:04,680
+ Yes, there have been 38 Godzilla movies.
+
+494
+00:47:04,680 --> 00:47:10,680
+ I think I can be forgiven for assuming one of them at some point would have been called Godzilla Zero and yet no.
+
+495
+00:47:10,680 --> 00:47:24,680
+ I realised that I did earlier in the podcast complain about franchising and intellectual property and starting up the dull verse but if what I get from franchises is great films like Godzilla -1 then I'm fine with that.
+
+496
+00:47:24,680 --> 00:47:34,680
+ This is the thing. So franchises can be really exciting or they can be proper terrible and they can also be everything in between and also are often both.
+
+497
+00:47:34,680 --> 00:47:40,680
+ In defiance of Liz sniping my pick, I'm going to pick a different science fiction movie.
+
+498
+00:47:40,680 --> 00:47:49,680
+ This movie I believe only had festival releases last year so I believe in popularies it is a 2024 movie.
+
+499
+00:47:49,680 --> 00:48:06,680
+ Might have its eligibility extended if it was for business meeting decides to but then he's been in motion but I'm going to pick the Beast starring Leia Seydoux and George MacKay which has been in cinemas in the UK in the last couple of weeks directed by Bertrand Bonnello.
+
+500
+00:48:06,680 --> 00:48:28,680
+ So the Beast is a movie set in a French sort of near future dystopia I think the year is 2044 and there is this mechanism called purification where you basically get into a black oozy bath and they inject you in your ear and then you relive previous incarnations of yourself
+
+501
+00:48:28,680 --> 00:48:36,680
+ and your DNA is purified which appears to mean you just don't really have emotions much anymore.
+
+502
+00:48:36,680 --> 00:48:54,680
+ And the reason they do this is because in 2025 there was some sort of giant thing that happened which is never really explained but that was caused by human being humans and now everything is done by AI except for the things that can be done by these purified humans who have been stripped of emotion.
+
+503
+00:48:54,680 --> 00:49:08,680
+ The movie takes place over three timelines you have the 2044 strand you have the strand occurring in kind of a dwardian times and then you have a strand occurring in 2014 I think it's explicitly 2014.
+
+504
+00:49:08,680 --> 00:49:16,680
+ You follow the same two people and their relationships in each of the strands.
+
+505
+00:49:16,680 --> 00:49:23,680
+ It's been you found the world building frustrating and I think it's fair to say the world building is not a key concern of the movie.
+
+506
+00:49:23,680 --> 00:49:36,680
+ It's much more interested in showing these three strands and the different ways in which the relationship pans out and George Mackay in particular I have not seen him in anything else but he is so good.
+
+507
+00:49:36,680 --> 00:49:51,680
+ The two roles he plays in two of the strands are so different and he is so good in both of them, believeably playing the same character in different times but also very different takes on that character which I found I just really liked.
+
+508
+00:49:51,680 --> 00:49:58,680
+ If you can go and see it I would say it's worth a look the beast or in French la bet.
+
+509
+00:49:58,680 --> 00:50:00,680
+ And it's partly French partly in English right?
+
+510
+00:50:00,680 --> 00:50:01,680
+ Yes.
+
+511
+00:50:01,680 --> 00:50:08,680
+ Yeah no what I'd heard about it is that George Mackay actually doesn't speak French and basically had to learn French to do this.
+
+512
+00:50:08,680 --> 00:50:14,680
+ Oh I did not pick up on that at all he sounded very good to my admittedly unexpertier.
+
+513
+00:50:14,680 --> 00:50:21,680
+ I was going to say professional actor.
+
+514
+00:50:21,680 --> 00:50:32,680
+ Yeah there's an interview with the director where they had to recast because the original actor they had in mind died and so he decided not to go to with a French actor to avoid comparison to the one who was due to play it and so they went with George Mackay.
+
+515
+00:50:32,680 --> 00:50:34,680
+ Is it George Mackay George Mackay?
+
+516
+00:50:34,680 --> 00:50:35,680
+ I don't know.
+
+517
+00:50:35,680 --> 00:50:42,680
+ They went with George Mackay and yeah he doesn't speak any French and basically learned enough to do the film.
+
+518
+00:50:42,680 --> 00:50:43,680
+ Interesting.
+
+519
+00:50:43,680 --> 00:50:45,680
+ And then it's Alison.
+
+520
+00:50:45,680 --> 00:51:01,680
+ I have to pick something and so therefore I am picking a little known video game that people won't be familiar with that is on the Hugo Ballot which is Baldur's Gate 3 which I got a code to because it is on the Hugo Ballot and downloaded and started to play.
+
+521
+00:51:01,680 --> 00:51:22,680
+ And I really liked that it's tutorial because this is kind of clickier to move and then everything else, everything is context dependent so if they think that you're not picking up on things fast enough it will just slip a little tool tip in there but otherwise you just kind of get on and play and learn things.
+
+522
+00:51:22,680 --> 00:51:51,680
+ In my case probably way slower than you might normally do so because it is just a Dungeons and Dragons game so that kind of letter you get into it of your own accord is very good and the other thing that is very good about it in the bit that I've played which is not a very great proportion of the whole is that you can take a lot of different routes to doing things and you do perception roles to do it and you can find yourself doing a role to see if you've achieved it.
+
+523
+00:51:51,680 --> 00:52:07,680
+ To see if you've achieved something incredibly clever because your class of your class and your and everything else that is gathered with you and then you can succeed and then you discover that it was absolutely catastrophic thing to do and that is that is new to me in gaming I thought that was pretty good.
+
+524
+00:52:07,680 --> 00:52:33,680
+ What I think you're probably not quite so good about it is a it is running like a dog on my 70 year old back but that's not my fault that's not it's fault it's my fault and be it for me it surfaces rather too much of the Dungeons and Dragons my offspring sort of looked over me and he said well it's just a game if you want to play a D&D campaign but you don't have any friends and you'd like to play it with a bunch of NPCs so this is how you could do it.
+
+525
+00:52:33,680 --> 00:52:58,680
+ I suppose that's true I don't particularly want to play a D&D campaign though so I've done about 5% of it I think and I'm probably going to wait until I have much more time on my hands to do the rest but I will kind of store it away in case I suddenly decide I've got a lot of time but I think if you like that sort of thing it's fabulous but if you like that sort of thing you've probably already played it but it seems very good.
+
+526
+00:52:58,680 --> 00:53:21,680
+ And having read some stuff about it I think the kind of you can do anything you like of the first stages of the game kind of falls back in on itself towards the end of the game in a way that is quite common in video games but at the moment it does seem to be sandboxing very effectively indeed and it doesn't feel like there's loads of stuff being repeated over and over again it all feels very much.
+
+527
+00:53:21,680 --> 00:53:25,680
+ There's a lot and lot there's a lot of writing here and it's mostly pretty good.
+
+528
+00:53:25,680 --> 00:53:26,680
+ Way.
+
+529
+00:53:26,680 --> 00:53:35,680
+ Offspring also said oh and if you'd like your if you'd like your game to be written by somebody who's better than writing fiction than your GM that would be good to.
+
+530
+00:53:35,680 --> 00:53:50,680
+ It's very tempting to view role play as the GM writes a story and the players follow the story and I think a lot of the publications for RPGs make that a very common way to think about it but I've always felt the best of the game.
+
+531
+00:53:50,680 --> 00:54:07,680
+ I've always felt the best RPGs that I've played in have been situations where you are not just going through a story written by the GM and so I think what are the reasons I prefer tabletop role playing to video game role playing is the video game role playing to do have a story and it is written
+
+532
+00:54:07,680 --> 00:54:12,680
+ and role play don't tabletop role plays I should say don't.
+
+533
+00:54:12,680 --> 00:54:31,680
+ Yeah I think that bolders gate I think that's okay though I think bolders gate is a thing that it is doing so well is that the other people you're traveling with really do feel like they have much more well constructed narratives about
+
+534
+00:54:31,680 --> 00:54:48,680
+ there about who they are and why they have got to where they are now and you're only going to learn about this slowly like as if they were people and this is one of the reasons I think that people love this game so much so they are much more and better rounded than a lot of
+
+535
+00:54:48,680 --> 00:55:04,680
+ of NPCs in video games particularly a lot of party members this may be just me but I have a lot of experience of playing games where the party members that you're traveling with are actually written quite scantily compared to a lot of the other people you're meeting in the world
+
+536
+00:55:04,680 --> 00:55:14,680
+ and that once they've joined your party you never learn very much about them anymore over again so you know it does that really well you're welcome to go oh no that's nonsense Allison you're your
+
+537
+00:55:14,680 --> 00:55:23,680
+ no I think that's fair that was the Octa thought podcast and it's goodbye from me it's goodbye from me and it's goodbye from me
+
+538
+00:55:23,680 --> 00:55:43,680
+ [Music]
+
+539
+00:55:43,680 --> 00:56:12,680
+ Palace Hotel in Buxton oh and yes I as a special bonus my train travel was almost free and so I'm going to get to buy some board games if you ever want to buy a board game and you practice coxons theory of delay repay board game purchasing which for new listeners is when one is delayed on a train one is often stressed out and miserable and you can apply in the UK for delay repay where if your train is delayed by more than 30 minutes or by more than 15 minutes
+
+540
+00:56:12,680 --> 00:56:41,680
+ in some territories you can get some money back and I have a rule that I can spend any of that money guilt free on board games and that transforms train delays from being stressed out that I'm late for whatever it is I'm late for to being very happy that there are board games in my future but if you practice this and you want to hack it so you can buy more board games you can just go to Buxton where you will definitely miss your connection at Stockport and you will definitely get a pay repurr
+
+541
+00:56:41,680 --> 00:57:05,680
+ because I also have had a delay repay from Buxton and I have also spent it on board games it's quite useful if you just kind of you go okay so this connection is 88 minutes but the event you trade is always late so therefore we will always miss the eight minute connection which is useful because it gives you time to have a coffee in a sandwich at Buxton whilst browsing board game websites
+
+542
+00:57:05,680 --> 00:57:21,680
+ unfortunately the cross country train I took from Newcastle to Birmingham was punctual that's really harsh because you were going to UK games Expo and what you'd really like is to know in the back of your mind that you've got a big parlor delay repay ready for the dealer's room there
+
+543
+00:57:21,680 --> 00:57:36,680
+ exactly pretty sure John takes it off trains as he already had a big pile of delay repay I got my whatever it is 520 quid from a delayed plane that was quite nice
+
+544
+00:57:36,680 --> 00:57:55,680
+ great I did have to spend an extra like 18 hours on the way home but you know that's the thing right delay repay on a on a long train journey getting 100 quid for being an hour late lovely getting 500 quid for being 18 hours late I'm beginning to because I can't spend 500 pounds on board games
+
+545
+00:57:55,680 --> 00:58:12,680
+ I mean I can that's an hour I lie I bought an iPad so because you can play board games on the iPad I bought an iPod and I ate a lot of hummus while I was stuck into my protein I was did you spend 500 pounds on hummus because if you did
+
+546
+00:58:12,680 --> 00:58:32,680
+ no it was free hummus free hummus yeah you've buried the lead here yeah because you get delayed on a plane and they're like okay well you're stuck here until the next connection go to this hotel which is free and they will feed you for free so I basically spent 18 hours hanging about in a hotel eating hummus and then went back to the airport it's not the worst thing in the world
+
+547
+00:58:32,680 --> 00:58:47,680
+ if you do ever find yourself delayed at one end I recommend laxatives John the theme music for this episode was fanfare for space by Kevin MacLeod and Competech.com used under a creative commons attribution 4.0 license
+
+548
+00:58:47,680 --> 00:58:51,680
+ this podcast will end at the beep beep
+
+549
+00:58:51,680 --> 00:59:01,680
+ [BLANK_AUDIO]
+
