@@ -1,0 +1,2904 @@
+1
+00:00:00,000 --> 00:00:06,000
+ Did you know that Britain is 0.14 more democratic than Mauritius?
+
+2
+00:00:06,000 --> 00:00:23,360
+ Hello everyone and welcome to the very 115th episode of Octothorp.
+
+3
+00:00:23,360 --> 00:00:27,600
+ This episode is coming to you on the 1st of August 2024.
+
+4
+00:00:27,600 --> 00:00:29,040
+ I'm John Coxon.
+
+5
+00:00:29,040 --> 00:00:31,840
+ I'm Alison Scott and I'm Liz Batty.
+
+6
+00:00:31,840 --> 00:00:37,280
+ This is a pretty bumper episode because we're going to talk about the business meeting at Glasgow
+
+7
+00:00:37,280 --> 00:00:41,520
+ and about some aspects of the Glasgow Worldcon. There's quite a lot of discussion listeners,
+
+8
+00:00:41,520 --> 00:00:46,160
+ so we're going to do letters of comment at the end if we have time and we suspect we will not
+
+9
+00:00:46,160 --> 00:00:53,120
+ have time and we'll come back to it in episode 118. But please keep writing, we still love you.
+
+10
+00:00:54,000 --> 00:00:59,360
+ So Glasgow, we're going to be at Glasgow listeners and we're going to do some programme.
+
+11
+00:00:59,360 --> 00:01:05,920
+ So Octothorp has a table talk which is at 11.30am on Saturday the 10th of August and we have a
+
+12
+00:01:05,920 --> 00:01:12,480
+ live recording which is at 11.30 in the morning on Monday the 12th of August. And so if you would
+
+13
+00:01:12,480 --> 00:01:17,440
+ like to come to our table talk and just talk to us then please feel free to do so and then if you
+
+14
+00:01:17,440 --> 00:01:20,560
+ want to listen to us do the pod then you can do that as well. Hoorah!
+
+15
+00:01:20,560 --> 00:01:24,720
+ Please definitely come to our table talk if you are the sort of person who would not come
+
+16
+00:01:24,720 --> 00:01:29,120
+ and approach us in the bar. If you're happy approaching us in the bar you can do that pretty much any
+
+17
+00:01:29,120 --> 00:01:33,920
+ time. Whenever we're in the bar I don't know where that will be. Get a ribbon, if you're a listener
+
+18
+00:01:33,920 --> 00:01:40,000
+ we'll all have ribbons I think. Oh yes. So come and find us and say I'm too nervous to talk to you
+
+19
+00:01:40,000 --> 00:01:45,600
+ oh Octothorp people but can I have a ribbon. I'm on two panels, one about Ahsoka from the Star Wars
+
+20
+00:01:45,600 --> 00:01:49,840
+ universe and another about safety tools for tabletop role-playing games. We will be putting
+
+21
+00:01:49,840 --> 00:01:54,080
+ in the show notes the times and details of the panels but we won't be reading them out here
+
+22
+00:01:54,080 --> 00:01:58,320
+ because they'll be very dull listeners. Look at the show notes if you'd like to know when they are
+
+23
+00:01:58,320 --> 00:02:03,840
+ Alison and Liz what do you want at Worldcon? So I particularly want to plug the fan funds
+
+24
+00:02:03,840 --> 00:02:10,400
+ as the Guffin administrator and we're having an auction on Saturday night at 8.30 um do come along
+
+25
+00:02:10,400 --> 00:02:14,640
+ and bid on amazing things and there'll be a catalogue. There's also a reception for the fan
+
+26
+00:02:14,640 --> 00:02:18,880
+ funds that you're all welcome to come to on Thursday afternoon pretty much straight after the opening
+
+27
+00:02:18,880 --> 00:02:25,040
+ ceremony in the fanzine lounge which is being run by John's other half, this mania sheriff with
+
+28
+00:02:25,040 --> 00:02:30,800
+ help from my other half Stephen Kane so that should be a good place during the convention to hang out
+
+29
+00:02:30,800 --> 00:02:37,040
+ in the in in hall 4 which is kind of the big social hall at the convention. I am also on Thursday
+
+30
+00:02:37,040 --> 00:02:46,800
+ running a maker fanzine workshop for a Glasgow 2024 fanzine and then I am on some panels one on
+
+31
+00:02:46,800 --> 00:02:52,240
+ how to generate and increase your podcast. How do you keep your podcast exciting and
+
+32
+00:02:52,240 --> 00:02:57,040
+ build an audience and I mean obviously this is a spoiler but our answer to this is have a
+
+33
+00:02:57,040 --> 00:03:02,000
+ wuss for business meeting agenda with 50 items on it that we can talk about. I'm on a panel about
+
+34
+00:03:02,000 --> 00:03:09,040
+ history Scottish fanzines and I am on a panel about fanzine covers. I'd obviously love to see
+
+35
+00:03:09,040 --> 00:03:13,280
+ any of you at all of them. I'm not doing anything at Worldcon apart from the tabletop
+
+36
+00:03:13,280 --> 00:03:17,360
+ tabletop and the live podcast recording so if you want to see me at Worldcon that's where you can
+
+37
+00:03:17,360 --> 00:03:24,480
+ find me. Listeners I am in charge of making sure people on the Glasgow discord talk enough.
+
+38
+00:03:24,480 --> 00:03:31,680
+ This is a bit like having a czar in charge of water being wet in that I was quite worried about
+
+39
+00:03:31,680 --> 00:03:36,400
+ it before we opened the discord then the discord opened and I was like oh people are quite happy
+
+40
+00:03:36,400 --> 00:03:41,280
+ quite happy to talk on the discord as it turns out but I am running a couple of activities to
+
+41
+00:03:41,280 --> 00:03:48,320
+ encourage people into the discord. I'm running a play along of if we ran the zoo con which will be
+
+42
+00:03:48,320 --> 00:03:52,800
+ on on the discord as a choose your own adventure style thing with discord polls and I'm also running
+
+43
+00:03:52,800 --> 00:03:59,360
+ a scavenger hunt which by the time this episode drops both of those will be in full flow and
+
+44
+00:03:59,360 --> 00:04:04,960
+ for anyone who remembers our episode on if I run the zuc on I'm doing all different scenarios you
+
+45
+00:04:04,960 --> 00:04:09,680
+ will see different parts of the game please come and join. Yeah it's busy just go on innit.
+
+46
+00:04:09,680 --> 00:04:17,520
+ I want to give some credit the discord strongly encouraged people to post something about themselves
+
+47
+00:04:17,520 --> 00:04:21,760
+ in the members directory and they called it members directory to make it clear that you can
+
+48
+00:04:21,760 --> 00:04:26,400
+ go and look people up and see who they are if you're chatting to them about a thing.
+
+49
+00:04:26,400 --> 00:04:33,600
+ This is a really good idea or all phallish discord should do this I love it and it has led to a
+
+50
+00:04:33,600 --> 00:04:36,960
+ lot of people so you discover that people do all sorts of things and are coming from all
+
+51
+00:04:36,960 --> 00:04:40,240
+ different parts of the world in a very exciting way so it's good.
+
+52
+00:04:40,240 --> 00:04:57,600
+ Glasgow 2024 have removed 377 votes from the hugos because they believe that it was a coordinated
+
+53
+00:04:57,600 --> 00:05:03,520
+ act of vote stuffing by not real people a lot of people had obviously made up names when they
+
+54
+00:05:03,520 --> 00:05:07,440
+ purchased their wuss was membership and they have removed those votes and re tallied the
+
+55
+00:05:07,440 --> 00:05:12,800
+ category they have not they were all voting for a particular finalist they did not have
+
+56
+00:05:12,800 --> 00:05:17,120
+ evidence that that finalist was involved in the attempt to stuff the ballot so they have
+
+57
+00:05:17,120 --> 00:05:22,720
+ not removed them there's a full statement about this which you can see on will put a link to
+
+58
+00:05:22,720 --> 00:05:28,320
+ the statement on their website and it seems to have got to have fairly well as a statement of
+
+59
+00:05:28,320 --> 00:05:33,120
+ well this is clearly transparent and we're glad that you took this action and have told us that
+
+60
+00:05:33,120 --> 00:05:40,000
+ you've done it um we'll probably never know what exactly went down but people have been trying to
+
+61
+00:05:40,000 --> 00:05:44,160
+ work it out for from data that they have available to them all over the internet so if you're interested
+
+62
+00:05:44,160 --> 00:05:51,760
+ that you can follow the trail of tea leaves yes indeed we condemn the attempt to stuff the ballot
+
+63
+00:05:51,760 --> 00:06:00,560
+ and we applaud Glasgow's robust transparent and decisive action in this matter yeah and they did
+
+64
+00:06:00,560 --> 00:06:05,280
+ a great thing as well which is that they started off by talking to the finalist concert to let them
+
+65
+00:06:05,280 --> 00:06:10,000
+ know that they were invalidating these votes and then they whole held a meeting with all of the
+
+66
+00:06:10,000 --> 00:06:14,800
+ hugo finalists has said you need to know about this before we release the press release which was
+
+67
+00:06:14,800 --> 00:06:20,400
+ i thought thoughtful unkind and it other that meeting had not just all of the wussfus division
+
+68
+00:06:20,400 --> 00:06:26,800
+ it but also um the chair and the promotions head and so on so it clearly took it very serious yes
+
+69
+00:06:26,800 --> 00:06:31,120
+ yes and exactly when like you know when you and when you announce this there is going to be a lot
+
+70
+00:06:31,120 --> 00:06:38,160
+ of speculation about who the person is or well who the finalist concerned is and you know that might
+
+71
+00:06:38,160 --> 00:06:42,880
+ spill over to other completely uninvolved finalists and so it's nice to give them a heads up to say
+
+72
+00:06:42,880 --> 00:06:48,080
+ look this is coming we want you to be aware before you read the press release along with everyone
+
+73
+00:06:48,080 --> 00:06:53,680
+ else in the world so thank you Glasgow who are generally being very nice to finalist yes
+
+74
+00:06:53,680 --> 00:07:06,480
+ at Glasgow there will be a series of incomprehensible meetings listeners if you
+
+75
+00:07:06,480 --> 00:07:11,040
+ have attended a world-con business meeting before you know what i'm talking about but if you are new
+
+76
+00:07:11,040 --> 00:07:15,840
+ to world cons or business meetings or science fiction family generally then we will never to
+
+77
+00:07:15,840 --> 00:07:21,360
+ explain no but people often believe if they're not into world cons that there is an elite shadow
+
+78
+00:07:21,360 --> 00:07:27,840
+ eacoball that controls the hugos and there is it's true and let us tell you all about it for two hours
+
+79
+00:07:27,840 --> 00:07:34,960
+ every day at the world con there is a meeting which lasts usually about three hours but this year
+
+80
+00:07:34,960 --> 00:07:41,920
+ will last five hours which basically does an awful lot of talking about how world cons should work
+
+81
+00:07:41,920 --> 00:07:49,120
+ and they use parliamentary rules to do this to make it as weird as it possibly can be and no
+
+82
+00:07:49,120 --> 00:07:55,360
+ i'm not exaggerating as much as you think if you've never been to one any any advances on that
+
+83
+00:07:55,360 --> 00:07:59,760
+ listen Alison i think it's worth saying look the business meeting lasts for quite long time
+
+84
+00:07:59,760 --> 00:08:05,040
+ but you are not obligated to go to all of it you are perfectly allowed as long as you can kind of
+
+85
+00:08:05,040 --> 00:08:09,760
+ sneak in and out quite relatively quietly to drop in and out of the business meeting when you happen
+
+86
+00:08:09,760 --> 00:08:16,640
+ to be free like don't feel it is only for people who can commit to attending you know 100% of the
+
+87
+00:08:16,640 --> 00:08:21,760
+ time it is okay to just pop in and out you might miss stuff you probably won't be able to time it
+
+88
+00:08:21,760 --> 00:08:28,160
+ so that if you want to see a particular thing be discussed you'll be there for it but it is okay
+
+89
+00:08:28,160 --> 00:08:33,600
+ to kind of you know participate in parts of it and not the full thing so if you want a gentle
+
+90
+00:08:33,600 --> 00:08:38,480
+ introduction you know you can go along one day and you don't have to stay for the whole five hours
+
+91
+00:08:38,480 --> 00:08:43,280
+ yeah and i think it's also important to note that you don't have to go at all if you don't want to
+
+92
+00:08:43,280 --> 00:08:49,040
+ like it is fine i'm not judging i will probably go to at least some of it because i care too much
+
+93
+00:08:49,040 --> 00:08:53,600
+ about some of this stuff more than it's healthy but yeah i'm not going to judge if other people
+
+94
+00:08:53,600 --> 00:08:58,960
+ quite reasonably decide they'd rather just have a nice convention it would be it would be interesting
+
+95
+00:08:58,960 --> 00:09:05,040
+ if some octa thought member turned out to be a stalwart of business meeting fandom a couple of
+
+96
+00:09:05,040 --> 00:09:09,360
+ years down the line octa thought listener i mean i'm sure there are some listeners who go to a lot
+
+97
+00:09:09,360 --> 00:09:13,680
+ of business meeting stuff and but i don't think there's many who are going to challenge us on it
+
+98
+00:09:13,680 --> 00:09:18,720
+ being kind of very difficult to know what's going on world con have published the business
+
+99
+00:09:18,720 --> 00:09:25,200
+ meeting agenda you want to hear what christopher j garsia's thoughts were on this i've put a link
+
+100
+00:09:25,200 --> 00:09:31,200
+ to his deep dive into his opinions on each of their um agenda items um and if anyone knows of
+
+101
+00:09:31,200 --> 00:09:36,400
+ any other deep dives along those lines please let me know and i will amend the show notes to include
+
+102
+00:09:36,400 --> 00:09:41,680
+ them on a previous episode which was probably either episode 95 or 96 but the show notes are
+
+103
+00:09:41,680 --> 00:09:48,880
+ inadequate nor he passed john we discussed the chengdu business meeting and uh day from karti's
+
+104
+00:09:48,880 --> 00:09:56,800
+ last minute surprise uh to invalidate online uh or to invalidate any attempt to take the business
+
+105
+00:09:56,800 --> 00:10:04,080
+ meeting online in future world cons um there are resolutions that are a direct result of him
+
+106
+00:10:04,080 --> 00:10:12,320
+ doing that and those resolutions are c1 c3 c4 and you're already having fun listeners yeah i mean
+
+107
+00:10:12,320 --> 00:10:16,000
+ there's just going to be an hour of this now so by all means we'll see you in Glasgow
+
+108
+00:10:16,000 --> 00:10:20,560
+ come to our table talk if you're currently not enjoying this it won't get better
+
+109
+00:10:21,120 --> 00:10:26,320
+ that the auger thought guarantee and at our table talk we promise not to talk about the
+
+110
+00:10:26,320 --> 00:10:30,160
+ weswesfus business meeting we do not promise not to talk about the weswesfus meeting guys
+
+111
+00:10:30,160 --> 00:10:35,600
+ c1 basically says you can try and post the pwn emotion indefinitely at the main business
+
+112
+00:10:35,600 --> 00:10:39,680
+ meeting the first time it's brought and that would change it from it only being possible at
+
+113
+00:10:39,680 --> 00:10:43,600
+ the preliminary business meeting um so it's basically another opportunity to get things off
+
+114
+00:10:43,600 --> 00:10:49,120
+ the agenda if you don't think they should be on the agenda c3 restricts a business that can be
+
+115
+00:10:49,120 --> 00:10:55,920
+ submitted by surprise effectively it would mean you can't do it without unanimous consent and c4
+
+116
+00:10:55,920 --> 00:11:01,040
+ which i think is the one i want to discuss most is the amendment to the standing rules that would
+
+117
+00:11:01,040 --> 00:11:06,320
+ basically remove standing rule 7.9 and i think we all know that that is the rule on proxy and
+
+118
+00:11:06,320 --> 00:11:14,320
+ remote voting and so it would explicitly strike that and would allow proxy voting again and thus
+
+119
+00:11:14,320 --> 00:11:19,840
+ move in the direction of remote participation which i as anyone who's listened to an episode of
+
+120
+00:11:19,840 --> 00:11:25,120
+ what i thought before and god if this is your first one i'm so sorry but i enthusiastically
+
+121
+00:11:25,120 --> 00:11:29,280
+ support this motion go back and listen to the last episode it was better or the next one that
+
+122
+00:11:29,280 --> 00:11:33,520
+ will be better with my slight parliamentary hat on i'm going to point out that these are
+
+123
+00:11:33,520 --> 00:11:38,160
+ divided into two categories ones which are about not letting this sort of thing happen again
+
+124
+00:11:38,160 --> 00:11:41,440
+ and the one which is about repealing the thing that got done last year
+
+125
+00:11:43,520 --> 00:11:47,040
+ yeah it shouldn't have happened nothing a change is big as they shouldn't have happened without
+
+126
+00:11:47,040 --> 00:11:54,480
+ ratification um we've talked about it before and so i'm very much in favor of um the repeal one and
+
+127
+00:11:54,480 --> 00:12:01,600
+ i don't care what was it what what was just us to sort it out i'm less excited by the by the
+
+128
+00:12:01,600 --> 00:12:08,240
+ nuts and bolts of making business meetings work than the others are yeah i'm in favor of these let's
+
+129
+00:12:08,240 --> 00:12:14,320
+ repeal things so we can at least try a virtual business meeting if it turns out to be terrible
+
+130
+00:12:14,320 --> 00:12:20,320
+ then we can have another opinion on it but i think at this point we've got at least try to you know
+
+131
+00:12:20,320 --> 00:12:24,800
+ reach the 20th century yep oh 21st century probably i don't think they were doing remote
+
+132
+00:12:24,800 --> 00:12:32,560
+ business meetings in like 1901 and c4 segues into a number of motions which are targeted at
+
+133
+00:12:33,280 --> 00:12:43,280
+ changing the way the business meeting works so d9 would set up a study group to review the rules
+
+134
+00:12:43,280 --> 00:12:48,480
+ over participation in the business meeting it would assess alternatives to rules of order
+
+135
+00:12:48,480 --> 00:12:53,120
+ it would assess remote participation and it would assess whether or not it's possible to schedule
+
+136
+00:12:53,120 --> 00:13:00,160
+ the business meeting separately from the world con and then f14 and 15 would bring in popular
+
+137
+00:13:00,160 --> 00:13:06,080
+ ratification so instead of things being ratified by the next business meeting they would be ratified
+
+138
+00:13:06,080 --> 00:13:12,880
+ by popular votes so the next work on would run a popular virtual then we put the same way that the
+
+139
+00:13:12,880 --> 00:13:18,000
+ movie one is doing are we going to talk about the movie yeah we talked about in this one at least
+
+140
+00:13:18,000 --> 00:13:27,040
+ 90 days before the first preliminary business meeting um so so yes in the run up and then f15
+
+141
+00:13:27,760 --> 00:13:35,200
+ basically sets up secondary business meetings and they would be online business meetings that would
+
+142
+00:13:35,200 --> 00:13:39,200
+ happen as well as the primary business meeting which would be the business meeting we currently
+
+143
+00:13:39,200 --> 00:13:45,040
+ have so what do we think about these i mean i think first i think they're not going to get
+
+144
+00:13:45,040 --> 00:13:49,120
+ debated this year because there is too much debate in the business meetings i think we should know
+
+145
+00:13:49,120 --> 00:13:55,920
+ that the business meeting timings have changed from being the usual 10 to 1 p.m to being 10 a.m to 3 p.m
+
+146
+00:13:55,920 --> 00:14:02,720
+ a Glasgow so that is like 20 hours of business meeting or i guess more importantly if you want
+
+147
+00:14:02,720 --> 00:14:08,080
+ to be there and taking part that is like your entire days basically spent in the business meeting
+
+148
+00:14:08,080 --> 00:14:15,360
+ it is i think too much and something has to change i quite like popular ratification but i'm i'd be
+
+149
+00:14:15,360 --> 00:14:21,680
+ interested to see how this kind of test vote at Glasgow works first um if you are not a Glasgow
+
+150
+00:14:21,680 --> 00:14:26,960
+ member or haven't done this yet they're basically holding a sort of popular vote on where you can
+
+151
+00:14:26,960 --> 00:14:32,880
+ vote yes or no to ratification of one particular bit of business passed on from Chengdu which is
+
+152
+00:14:32,880 --> 00:14:39,440
+ the independent film categories in the hugos and then they will report back did people vote in it
+
+153
+00:14:39,440 --> 00:14:44,480
+ did they vote yes did they vote no i think that will give us an indication of how like a popular
+
+154
+00:14:44,480 --> 00:14:50,640
+ ratification vote might work and so then we can use that to decide how we feel about popular
+
+155
+00:14:50,640 --> 00:14:55,520
+ ratification more generally which i think i'm kind of in favor of it brings in the whole membership
+
+156
+00:14:55,520 --> 00:15:01,360
+ rather than a few but i can also see problems with it people are very worried about popular
+
+157
+00:15:01,360 --> 00:15:05,680
+ ratification for all the reasons that people worry generally about referendum and popular
+
+158
+00:15:05,680 --> 00:15:09,760
+ democracies i'm actually i've taught quite a lot of people including quite a lot of people who
+
+159
+00:15:09,760 --> 00:15:15,280
+ are not bussifers nerds about the indie film vote and i'm quite encouraged by what i'm hearing
+
+160
+00:15:15,280 --> 00:15:20,240
+ because people are reading the statements and and drawing conclusions i think are reasonable about
+
+161
+00:15:20,240 --> 00:15:26,240
+ them so i'm hoping that will be reflected in the vote yeah i think in general i'm pro popular
+
+162
+00:15:26,240 --> 00:15:34,480
+ application and i'm deeply against f15 which is the um secondary business meeting idea because
+
+163
+00:15:34,480 --> 00:15:41,520
+ i think the reason to have the business meeting online is so that it can eventually take the
+
+164
+00:15:41,520 --> 00:15:45,280
+ business meeting away from the world con and have it separately so that people don't have to take
+
+165
+00:15:45,280 --> 00:15:50,480
+ time out of their world con to do it and i think this would explicitly mean that the world con one
+
+166
+00:15:50,480 --> 00:15:58,960
+ was was given primacy over any online participation and i have a severe philosophical objection to that
+
+167
+00:15:58,960 --> 00:16:04,480
+ and i like d9 because d9 basically says why don't we go away and try and form consensus and come back
+
+168
+00:16:04,480 --> 00:16:11,280
+ with a single care and proposal and i like that more of that yeah i don't believe we can ever form
+
+169
+00:16:11,280 --> 00:16:16,800
+ consensus on this issue but i think a study group is probably the only sensible way forward here
+
+170
+00:16:16,800 --> 00:16:21,600
+ i think all of the proposals on this agenda that essentially offer a solution
+
+171
+00:16:21,600 --> 00:16:29,520
+ queueing out of cloth by one faction oh i i i'll never gonna be the way and we need to do a little
+
+172
+00:16:29,520 --> 00:16:35,760
+ bit better do we want to go from here to independent film if you are a wussfus member Glasgow has
+
+173
+00:16:35,760 --> 00:16:44,160
+ written to you to invite you to vote in a consultative vote on the two independent film new hugo
+
+174
+00:16:44,160 --> 00:16:50,000
+ categories that were got their first pass last year in chen do and are up for ratification this
+
+175
+00:16:50,000 --> 00:16:55,280
+ year the deadline for voting will have gone by the time you listen to the podcast but we did want to
+
+176
+00:16:55,280 --> 00:17:02,080
+ talk about it briefly both because it represents the way forward for as i said a trial run for the
+
+177
+00:17:02,080 --> 00:17:06,640
+ popular ratification proposal but also because we as have mentioned before we have
+
+178
+00:17:06,640 --> 00:17:12,640
+ thinks about these hugos which is that while we're not averse to independent film is some way
+
+179
+00:17:12,640 --> 00:17:18,800
+ being recognized these are not the right models because they're very very confusing when you go
+
+180
+00:17:18,800 --> 00:17:24,960
+ and vote you've got a little statement in favor from the proposals of the hugos and a statement
+
+181
+00:17:24,960 --> 00:17:31,600
+ against which was written by olav rocke and amanda wackarock friends of the podcast and
+
+182
+00:17:31,600 --> 00:17:36,480
+ which i thought was very good but it missed my favorite argument against
+
+183
+00:17:36,480 --> 00:17:40,960
+ these categories which is that they do not partition the hugos and we try where possible
+
+184
+00:17:40,960 --> 00:17:45,840
+ to make sure you can one thing that you do is only ever eligible for one hugo we don't always
+
+185
+00:17:45,840 --> 00:17:50,080
+ manage it but normally normally the hugos are pretty good about that and these did not do that
+
+186
+00:17:50,080 --> 00:17:55,520
+ i very much want these hugos not to get ratified so this is my big hope for the business meeting
+
+187
+00:17:55,520 --> 00:17:59,680
+ which i have to say i'll probably not be at any of though i was hoping to be at this bit of it so
+
+188
+00:17:59,680 --> 00:18:04,400
+ we'll see do you have anything to say on this i agree with alison i think i'm not necessarily
+
+189
+00:18:04,400 --> 00:18:11,200
+ against rewarding short cinema at the hugos and i think like a best dramatic presentation very short
+
+190
+00:18:11,200 --> 00:18:16,800
+ form would be fun like i'm not saying i think best dramatic presentation is perfect as is i just
+
+191
+00:18:16,800 --> 00:18:21,120
+ think this is deeply imperfect in a way that i don't think fixes any of my problems with the
+
+192
+00:18:21,120 --> 00:18:26,320
+ category and i think in practice most of the interesting cinema i would like to reward is short
+
+193
+00:18:26,320 --> 00:18:32,800
+ film so you could very easily achieve this by having a time-based definition that would do
+
+194
+00:18:32,800 --> 00:18:40,240
+ something very similar for short indie movies but yeah so i i am broadly against this one yeah i think
+
+195
+00:18:40,240 --> 00:18:45,200
+ what i would need to be positively in favor of this is a list over the past few years of things they
+
+196
+00:18:45,200 --> 00:18:52,160
+ think that would have been good nominees and finalists and then i can see whether it would
+
+197
+00:18:52,160 --> 00:18:56,560
+ have been at all feasible for me to see any of them because that's a problem you're trying to reward
+
+198
+00:18:56,560 --> 00:19:01,440
+ these these indie films which really don't get a lot of distribution and then it's like well if
+
+199
+00:19:01,440 --> 00:19:05,680
+ no one can actually watch them then it's going to be very hard for people to to nominate them
+
+200
+00:19:05,680 --> 00:19:10,800
+ so there's that i think i could also go with a very short film category but you've got to be
+
+201
+00:19:10,800 --> 00:19:16,480
+ careful to kind of have a big kind of a gap so that very short films go in there but it doesn't
+
+202
+00:19:16,480 --> 00:19:21,920
+ include like 22 minute episodes of animated shows if that's what you want to keep into short form
+
+203
+00:19:21,920 --> 00:19:27,600
+ so it's hard to kind of have a thing that gets the best of like indie sf short films but doesn't
+
+204
+00:19:27,600 --> 00:19:32,480
+ just get token over by like six episodes of lower decks or something yeah the other thing i think
+
+205
+00:19:32,480 --> 00:19:38,800
+ you could do is simply have a category which explicitly rules out episodes of television
+
+206
+00:19:38,800 --> 00:19:44,480
+ because i think it's relatively easy to define a television series in a rigorous way and that
+
+207
+00:19:44,480 --> 00:19:50,160
+ would be the other way of doing it yeah but i i feel like you'd be at risk from worldcon related
+
+208
+00:19:50,160 --> 00:19:54,560
+ youtube videos and things of that sort as well so you know i have two other things which are
+
+209
+00:19:54,560 --> 00:19:59,760
+ basically i don't know how easy it would be for Hugo voters to actually watch any independent
+
+210
+00:19:59,760 --> 00:20:05,440
+ short films because none of the film festivals really allow remote participation including sci-fi
+
+211
+00:20:05,440 --> 00:20:09,440
+ london which is the one written by one of the people that suggested this double category
+
+212
+00:20:09,440 --> 00:20:15,520
+ and was online during the pandemic and has gone back to not being online which is frustrating
+
+213
+00:20:15,520 --> 00:20:21,840
+ and the other thing is i'm not sure how aware the Hugo electorate are of independent cinema in a way
+
+214
+00:20:21,840 --> 00:20:26,640
+ that i i don't know whether it makes sense for our opinions like are we going to actually
+
+215
+00:20:26,640 --> 00:20:32,960
+ award any good stuff or is it going to be a category which has limited participation so i think the
+
+216
+00:20:32,960 --> 00:20:38,720
+ thing i would want to see is if we want to reward short independent films i would want the people
+
+217
+00:20:38,720 --> 00:20:47,120
+ who are advocating for that to work on educating the worldcon membership about those before trying
+
+218
+00:20:47,120 --> 00:20:52,480
+ to get it on the Hugo awards and doing it the other way around smacks of self-interest to me
+
+219
+00:20:52,480 --> 00:20:56,480
+ it feels like unfortunately this would be a great fit for an award where you had a jewellery
+
+220
+00:20:56,480 --> 00:21:02,480
+ nomination stage and then a popular vote final stage and that's not possible in the Hugo
+
+221
+00:21:02,480 --> 00:21:08,960
+ system at the moment we can change anything in the wistford's constitution if we try harder
+
+222
+00:21:08,960 --> 00:21:15,360
+ than maybe the episode i agree with everything that you've both said but i'd also like to add
+
+223
+00:21:15,360 --> 00:21:20,000
+ that one thing that the worldcons could be doing to promote short film is getting more of it on
+
+224
+00:21:20,000 --> 00:21:26,320
+ the program having a short film program having more stuff that's about short film and getting
+
+225
+00:21:26,320 --> 00:21:32,080
+ you know the world calls it a great place to find some great short films and and present them as a
+
+226
+00:21:32,080 --> 00:21:37,760
+ as a freebie for the members in advance and say we've chosen 10 excellent short films made in
+
+227
+00:21:37,760 --> 00:21:42,720
+ the city that we're in here go and look at them guys yeah there's nothing stopping a worldcon from
+
+228
+00:21:42,720 --> 00:21:47,760
+ having a kind of short film competition as part of what it does and i'd love to see that shall
+
+229
+00:21:47,760 --> 00:21:55,440
+ we move from here on to extended eligibility yeah and so speaking of independent cinema the
+
+230
+00:21:55,440 --> 00:22:02,800
+ wistford's constitution basically allows for what is called extended eligibility items that receive
+
+231
+00:22:02,800 --> 00:22:08,000
+ extremely limited distribution in the year of first publication or presentation the eligibility
+
+232
+00:22:08,000 --> 00:22:12,800
+ may be extended for next year by a two-thirds vote of the business meeting and so every year there are
+
+233
+00:22:12,800 --> 00:22:19,120
+ some resolutions for extending the eligibility usually of these kind of small and independent
+
+234
+00:22:19,120 --> 00:22:24,560
+ films which have had like a few showings at film festivals or maybe a limited release overseas
+
+235
+00:22:25,120 --> 00:22:32,720
+ and giving them an extra year and i am basically favor this i think in general maybe we should just
+
+236
+00:22:32,720 --> 00:22:36,880
+ say anything which only been released at film festivals you're getting extra year by default
+
+237
+00:22:36,880 --> 00:22:42,880
+ um but this year there's a couple that i think are really pushing the definition of limited
+
+238
+00:22:42,880 --> 00:22:50,240
+ availability and those are proposals to extend the eligibility of the boy in the heron and godzilla
+
+239
+00:22:50,240 --> 00:22:58,400
+ minus one both films which came out kind of at the end of 20 23 and my problem is this is that
+
+240
+00:22:58,400 --> 00:23:04,880
+ when they say did not receive wide theatrical release until late in 2023 this is true but the
+
+241
+00:23:04,880 --> 00:23:09,680
+ boy in the heron came out on december 8th and made 35 million dollars in the us and godzilla
+
+242
+00:23:09,680 --> 00:23:15,200
+ minus one came out on december the first and made 45 million dollars in the us by the end of 2023
+
+243
+00:23:15,200 --> 00:23:21,760
+ according to numbers that i fished out of box office mojo so that to me is not limited availability
+
+244
+00:23:21,760 --> 00:23:26,400
+ and also i think we should remember that we are not actually nominating on december 31st people
+
+245
+00:23:26,400 --> 00:23:31,200
+ can still be watching these films in january and february and nominating them and i think the
+
+246
+00:23:31,200 --> 00:23:37,520
+ really strong counter argument against this one is that poor things which is a finalist was you know
+
+247
+00:23:37,520 --> 00:23:42,400
+ also released in december in the us and made less money than either the boy in the heron or godzilla
+
+248
+00:23:42,400 --> 00:23:48,000
+ minus one and still made it onto the ballot so i argue that they were available enough that people
+
+249
+00:23:48,000 --> 00:23:53,520
+ could have nominated it and i think kind of this is stretching it quite a bit and we just end up
+
+250
+00:23:53,520 --> 00:23:59,920
+ with an eligibility extension where anything released in december in the us um on thousands of
+
+251
+00:23:59,920 --> 00:24:04,720
+ cinema screens could then be eligible for next year which i'm not sure it needs and it's the same
+
+252
+00:24:04,720 --> 00:24:09,440
+ because i really love godzilla minus one but i think it has burned its eligibility which let's
+
+253
+00:24:09,440 --> 00:24:16,560
+ be clear most smaller movies are released in december it's the normal time to release your
+
+254
+00:24:16,560 --> 00:24:22,800
+ awards darlings and then anyone who's seriously into film can see those on cinema screens in january
+
+255
+00:24:22,800 --> 00:24:27,440
+ and february in good time to nominate as liz says i think we'll look at we also get a fine for
+
+256
+00:24:27,440 --> 00:24:32,000
+ both the boy in the heron and godzilla minus one that people did nominate those movies in quite
+
+257
+00:24:32,000 --> 00:24:36,240
+ large numbers just not insufficient numbers to get on the ballot and really it's just saying
+
+258
+00:24:36,240 --> 00:24:39,440
+ can we have two bites of cherry for anything we like please and i
+
+259
+00:24:39,440 --> 00:24:43,280
+ can see the minus one was very good it would have been on my ballot if i'd seen it in 2023 but you
+
+260
+00:24:43,280 --> 00:24:47,360
+ know if they wanted me to see it in 2023 they could have released it in july i think the other
+
+261
+00:24:47,360 --> 00:24:53,360
+ thing liz said was i don't think it would be a bad idea so allison i think said this earlier in the
+
+262
+00:24:53,360 --> 00:24:58,560
+ episode which is she would like see the business meeting basically discuss far more as much as you
+
+263
+00:24:58,560 --> 00:25:02,320
+ can away from the business meeting that doesn't really need to be discussed at the business meeting
+
+264
+00:25:02,320 --> 00:25:06,800
+ and i think going through individual films being like was it only shown at a film festival it can
+
+265
+00:25:06,800 --> 00:25:11,200
+ be eligible in this year then like just make that put it in the constitution because as allison is
+
+266
+00:25:11,200 --> 00:25:17,200
+ remarked elsewhere that's how the oscars do it so why not the huco awards so some films get a very
+
+267
+00:25:17,200 --> 00:25:23,440
+ limited distribution in theaters specific in december like not two thousand screens like ten
+
+268
+00:25:23,440 --> 00:25:30,160
+ screens specifically so they will be eligible for the oscars in in that year um the the streaming
+
+269
+00:25:30,160 --> 00:25:35,840
+ first movies do this and the notion that we should be doing something totally different for
+
+270
+00:25:35,840 --> 00:25:41,440
+ for world cons is a bit weird also when we're talking about things that you could do
+
+271
+00:25:41,440 --> 00:25:45,680
+ by not by popular ratification this seems like an excellent example of something you could do
+
+272
+00:25:45,680 --> 00:25:50,000
+ by popular vote well in advance for the world con i just not have it trouble the world so there
+
+273
+00:25:50,000 --> 00:25:55,520
+ have been a bevy of um things brought to the business meeting about the huco awards as one
+
+274
+00:25:55,520 --> 00:26:03,600
+ might expect from what happened and last year d 10 would establish a huco process study committee
+
+275
+00:26:03,600 --> 00:26:09,120
+ which would think about the huco awards very hard and come back with some recommendations
+
+276
+00:26:09,120 --> 00:26:14,320
+ one of the things it would think very hard about is third party administration of the huco awards
+
+277
+00:26:14,320 --> 00:26:24,160
+ f5 basically says if you disqualify or move anything under the relevant section you would have to
+
+278
+00:26:24,160 --> 00:26:30,720
+ publish and explain that with the statistics f6 would basically make a huge number of amendments
+
+279
+00:26:30,720 --> 00:26:37,280
+ to introduce a body called wsa which i don't know what it actually stands for because i don't
+
+280
+00:26:37,280 --> 00:26:45,200
+ think they define the acronym no they don't but they they basically say this would be some
+
+281
+00:26:45,200 --> 00:26:51,120
+ independent body which would replace the mark protection committee and would administer the
+
+282
+00:26:51,120 --> 00:26:57,280
+ huco awards f7 would mean that you can't remove things it would add a new thing which means you
+
+283
+00:26:57,280 --> 00:27:01,680
+ can't remove a work for a reason not in the constitution unless required in local law
+
+284
+00:27:01,680 --> 00:27:06,880
+ and if it was required if it was done for that reason there would be a retrohugo five years
+
+285
+00:27:06,880 --> 00:27:14,560
+ afterwards f8 would is just terrible we'll go into why but it's a really really poor amendment
+
+286
+00:27:14,560 --> 00:27:21,760
+ and should die in a fire jon jon tell us what you really think f9 would let you disqualify
+
+287
+00:27:21,760 --> 00:27:26,800
+ huco administrators which i originally put in the show notes under the don't do that
+
+288
+00:27:26,800 --> 00:27:32,800
+ dave resolutions but moved later but it is basically a don't do that dave resolution as well and then
+
+289
+00:27:32,800 --> 00:27:44,320
+ f11 would establish a elected subcommittee which would do auditing of the site selection and huco
+
+290
+00:27:44,320 --> 00:27:50,640
+ award processes and report back to whether or not they were done properly or not any any
+
+291
+00:27:50,640 --> 00:27:55,600
+ disagreements with the way i've summed that up i just want to say that this section contains some
+
+292
+00:27:55,600 --> 00:28:02,560
+ of the my all-time least favorite was for business meeting agenda items and and there is no amount
+
+293
+00:28:02,560 --> 00:28:09,520
+ of pointy fire that is sufficient for some of them yeah so let's go so any of us any of us against
+
+294
+00:28:09,520 --> 00:28:13,600
+ having a committee i mean the whole point of committees is that why would you be against it so
+
+295
+00:28:13,600 --> 00:28:20,560
+ i'm pro committee i guess okay so committees are slow and people want blood now that's the argument
+
+296
+00:28:20,560 --> 00:28:26,080
+ against a committee it could take a few years for the committee to get to some sensible point
+
+297
+00:28:26,080 --> 00:28:31,360
+ look how long the load start up but now we do have the load start so you know it's okay but
+
+298
+00:28:31,360 --> 00:28:35,760
+ yeah no obviously we want to committee we're in favor of doing less action aren't we guys
+
+299
+00:28:35,760 --> 00:28:40,880
+ i was certainly don't like any of these other ones so yeah now i am in favor of a committee i
+
+300
+00:28:40,880 --> 00:28:46,560
+ just worry that committees are where things go to die and i think this year we might have potentially
+
+301
+00:28:46,560 --> 00:28:52,960
+ this committee a committee on like reforming the business meeting and a potentially a committee on
+
+302
+00:28:52,960 --> 00:28:59,360
+ the center resolutions and that might be just a lot of committees and not enough people to actually
+
+303
+00:28:59,360 --> 00:29:05,040
+ run them and do a lot of work in a year and report back and i fear this is dragging on and it might
+
+304
+00:29:05,040 --> 00:29:11,600
+ be like 2027 before we get anything but in general i think this is a good one to take to committee
+
+305
+00:29:11,600 --> 00:29:16,400
+ if only for the fact that there are like five different amendments submitted that all do slightly
+
+306
+00:29:16,400 --> 00:29:22,320
+ different things in slightly different ways and maybe we should pick one yeah so one of the things
+
+307
+00:29:22,320 --> 00:29:27,760
+ that i said i think it was me who said it but i think was said was said on the podcast anyway
+
+308
+00:29:27,760 --> 00:29:32,480
+ after Chengdu was like i want to see sort of widespread consultation in whatever the solutions
+
+309
+00:29:32,480 --> 00:29:36,560
+ are to these problems and then one of the problems i think is that there have been groups of people
+
+310
+00:29:36,560 --> 00:29:42,240
+ who have tried to talk to other people but they haven't had the breadth of scope to be able to
+
+311
+00:29:42,240 --> 00:29:46,000
+ talk to everyone and i think the advantage with the committee that's actually a part of the business
+
+312
+00:29:46,000 --> 00:29:51,600
+ meeting is that they could do things like ask the seated world con to distribute a consultation
+
+313
+00:29:51,600 --> 00:29:58,160
+ survey and so i think this is an imperfect way of getting what i want but i can't see a better way
+
+314
+00:29:58,160 --> 00:30:02,960
+ of getting what i want so i think i do support it while agreeing with Liz that i have worries about
+
+315
+00:30:02,960 --> 00:30:08,160
+ committees being where things go to die so yeah i think that's well well said Liz
+
+316
+00:30:08,160 --> 00:30:14,240
+ i do slightly worry about our ability to run good committees in this space that there's a there's
+
+317
+00:30:14,240 --> 00:30:18,880
+ not that many people who are that good at this stuff and they are already working pretty hard on
+
+318
+00:30:18,880 --> 00:30:23,280
+ on the business meeting stuff we've already got that's my only caveat though because i think
+
+319
+00:30:23,280 --> 00:30:27,600
+ this has to be a committee it's going to take a couple of years we just have to get it right
+
+320
+00:30:28,160 --> 00:30:34,240
+ and some of the other ones i'm also kind of looking at them with the angle of all right if this was
+
+321
+00:30:34,240 --> 00:30:40,480
+ in place last year what would it have done and i guess the illegal exclusions one would say
+
+322
+00:30:40,480 --> 00:30:49,520
+ we can run some retros in 2028 for certain categories in 2023 which i don't think would be great to be
+
+323
+00:30:49,520 --> 00:30:55,760
+ honest i don't really like the using of the retro hugos which were established to like fill gaps
+
+324
+00:30:55,760 --> 00:31:01,680
+ as a way to kind of make good on things we have subsequently messed up on if only because i think
+
+325
+00:31:01,680 --> 00:31:09,680
+ if you do that in 2028 so you rerun the 2023 you know astounding award in 2028 i think definitely
+
+326
+00:31:09,680 --> 00:31:15,520
+ the person who was excluded in 2023 is going to win weren't i'd also it is i think you would need
+
+327
+00:31:15,520 --> 00:31:24,960
+ to pass f8 to make f7 make any sense and that's basically the one where if you if you if you if
+
+328
+00:31:24,960 --> 00:31:32,240
+ you remove anyone from the ballot then the entire category is not run and it just it seems like
+
+329
+00:31:32,240 --> 00:31:37,280
+ an absolute mess and this is exactly why i'd like a committee to go away and think about it properly
+
+330
+00:31:37,280 --> 00:31:44,560
+ because i don't think this actually helps so i am against f7 and f8 on that basis yeah i think
+
+331
+00:31:44,560 --> 00:31:51,440
+ the risk of f8 is you disqualify someone without citing a clause the constitution or something or
+
+332
+00:31:51,440 --> 00:31:55,200
+ say you do disqualify someone and you made a mistake but you then basically say to the other
+
+333
+00:31:55,200 --> 00:32:02,000
+ finalists tough no order here and that seems a bit heavy-handed because it's not the other finalists
+
+334
+00:32:02,000 --> 00:32:08,720
+ fault i i i think it would create even more bad feeling towards the hugo awards from creators
+
+335
+00:32:08,720 --> 00:32:15,200
+ who are already pretty pissed off with us we skipped over f5 and f6 f5 is the one that stipulates
+
+336
+00:32:15,200 --> 00:32:21,520
+ that you have to publish your disqualifications but it says that you have to publish them with the
+
+337
+00:32:21,520 --> 00:32:28,080
+ statistics published as required in section 312-3 and i don't like that because i like the way
+
+338
+00:32:28,080 --> 00:32:34,640
+ Glasgow did it and in general i think the business meeting should hue to the way world cons are
+
+339
+00:32:34,640 --> 00:32:39,120
+ choosing to solve problems rather than trying to solve them in a different way and force the
+
+340
+00:32:39,120 --> 00:32:45,520
+ world con to change i think there should be a thing saying you have to publish any moves or
+
+341
+00:32:45,520 --> 00:32:50,320
+ disqualifications and you have to explain why you did it i i would just like it to have a little
+
+342
+00:32:50,320 --> 00:32:56,000
+ bit more flexibility as to when the world con actually announces that and i think there's probably
+
+343
+00:32:56,000 --> 00:33:00,640
+ that that that might be able to be ironed out in the meeting when they discuss this hard degree on
+
+344
+00:33:00,640 --> 00:33:08,080
+ this what what Glasgow has done in terms of hugo transparency is it seems to be just about perfect
+
+345
+00:33:08,080 --> 00:33:13,280
+ to me and and should be a model for future world cons yeah i think you could say must be published
+
+346
+00:33:13,280 --> 00:33:17,920
+ like at the latest with the statistics but you can choose to publish earlier and that would be a
+
+347
+00:33:17,920 --> 00:33:25,120
+ small change to the wording and would be fine agreed f6 i don't like because it makes up a new body it
+
+348
+00:33:25,120 --> 00:33:29,520
+ doesn't actually say what the body is it replaces the mark protection committee but it doesn't seem
+
+349
+00:33:29,520 --> 00:33:37,360
+ to replace the duties of the mark protection committee or basically it's just a mess it's a
+
+350
+00:33:37,360 --> 00:33:42,320
+ badly badly written mess this is one of the reasons why i think we need a committee uh i
+
+351
+00:33:42,320 --> 00:33:47,840
+ would vote against just i think it's i i respect what it's trying to do i just think it does what
+
+352
+00:33:47,840 --> 00:33:54,080
+ it's trying to do extremely badly would our marks be unprotected if this best look right mark plumber
+
+353
+00:33:54,080 --> 00:34:00,720
+ is a guest of honor and is this how we repay him by ceasing his protection for shame listeners
+
+354
+00:34:00,720 --> 00:34:07,760
+ for shame any other thoughts on f6 other than boo it's very long oh it's it's just
+
+355
+00:34:07,760 --> 00:34:16,240
+ i mean it's just terrible i i mean one of the things that worries because because of having done
+
+356
+00:34:16,240 --> 00:34:22,720
+ a job that involved a lot of government drafting not not legal drafting but but you know writing
+
+357
+00:34:22,720 --> 00:34:27,680
+ things that are clearer say what you mean them to say i don't think it's a skill we're that great
+
+358
+00:34:27,680 --> 00:34:34,000
+ at in fandom and i don't know how we get the people who are good at it onto the committees that they
+
+359
+00:34:34,000 --> 00:34:39,600
+ need to be on to make this stuff good but this is not good there are two types of people in the world
+
+360
+00:34:39,600 --> 00:34:43,840
+ there are people who do not mind appearing less intelligent than they are because they explain
+
+361
+00:34:43,840 --> 00:34:48,800
+ things in a way that is understandable and there are people who are very keen that you understand
+
+362
+00:34:48,800 --> 00:34:52,960
+ exactly how clever they are and they word things in ways which are incomprehensible to reinforce
+
+363
+00:34:52,960 --> 00:34:59,760
+ their status and fandom is very full of the latter in ways that make it difficult because
+
+364
+00:34:59,760 --> 00:35:05,920
+ a lot of these discussions revolve around people showing how big they're basically showing how big
+
+365
+00:35:05,920 --> 00:35:14,000
+ them business meeting penises surely you mean business meeting brain john no no i definitely
+
+366
+00:35:14,000 --> 00:35:19,040
+ think i mean penis i think i think the problem is that it turns out the mark protection committee
+
+367
+00:35:19,040 --> 00:35:22,400
+ is like you basically have to go through and find everywhere you mentioned the mark protection
+
+368
+00:35:22,400 --> 00:35:29,440
+ committee and replace it and so some of it is just minor changes there but it's quite complicated
+
+369
+00:35:29,440 --> 00:35:33,280
+ and then you have to do things like okay well if the wall con committee has these powers which
+
+370
+00:35:33,280 --> 00:35:38,800
+ we're now going to delegate to wussf which epigems will science fiction awards or something
+
+371
+00:35:39,600 --> 00:35:44,640
+ then it just gets complicated but yeah i worry that this is not the way to set up a committee
+
+372
+00:35:44,640 --> 00:35:49,760
+ which they also say potentially has paid staff they say they will be supported by mark licensing
+
+373
+00:35:49,760 --> 00:35:56,000
+ fees paid by will con and they give like percentage of membership fees i went and figured out and for
+
+374
+00:35:56,000 --> 00:36:02,080
+ Glasgow i think it means they would have got a budget of about 18 000 pounds i'm not sure if
+
+375
+00:36:02,080 --> 00:36:08,320
+ that's actually enough to do anything with paid staff by the other hand it would be a lot of money
+
+376
+00:36:08,320 --> 00:36:13,520
+ to not use in a sensible way if it turns out we haven't set this committee up correctly
+
+377
+00:36:13,520 --> 00:36:18,640
+ so i think this really does need a lot of intensive study i've just had a comment thought on that
+
+378
+00:36:18,640 --> 00:36:25,600
+ 18 000 pounds which is that it's it's not it's not merely not enough it's not enough by at least one
+
+379
+00:36:25,600 --> 00:36:30,720
+ and possibly two orders of magnitude i don't think they have any idea how much it would cost to retain
+
+380
+00:36:30,720 --> 00:36:35,920
+ professionals in this area well it doesn't specify what you'd have the professionals doing it might
+
+381
+00:36:35,920 --> 00:36:42,400
+ be enough to get like you know like the legal advice on the trademarks or whatever it's not
+
+382
+00:36:42,400 --> 00:36:48,720
+ enough for natural paid staff but it might do a round of auditing on a very simple thing or
+
+383
+00:36:48,720 --> 00:36:53,920
+ something like that or just like someone professional looking at the accounts that should be within it
+
+384
+00:36:53,920 --> 00:36:57,680
+ but i mean that's supposedly five percent of every wussfers membership so i think if you
+
+385
+00:36:57,680 --> 00:37:04,240
+ upped it much people would start to get a bit like really f9 disqualifies Hugo administrators
+
+386
+00:37:04,240 --> 00:37:12,400
+ who are romans in favor i'm in favor but i also just keep thinking okay so what if
+
+387
+00:37:12,400 --> 00:37:19,360
+ hypothetically we had another world con in two years time which decided to appoint
+
+388
+00:37:19,360 --> 00:37:26,800
+ Dave McCarty as Hugo administrator at this point we then basically get to okay so you've declared
+
+389
+00:37:26,800 --> 00:37:31,440
+ just that that declares themselves to be an incompetent world con but they know that's going
+
+390
+00:37:31,440 --> 00:37:35,840
+ to happen so kind of what what are the sanctions basically and i think it's very tricky like what
+
+391
+00:37:35,840 --> 00:37:41,840
+ would happen if another con did decide to go rogue what could we realistically do about that
+
+392
+00:37:41,840 --> 00:37:44,960
+ and i think the problem is we don't really have sanctions for that because it's not something
+
+393
+00:37:44,960 --> 00:37:49,440
+ we generally thought would occur i don't like this partly because of the lack of sanctions and
+
+394
+00:37:49,440 --> 00:37:55,200
+ partly because you just redefine the role so that he was in a slightly different role but nevertheless
+
+395
+00:37:55,200 --> 00:38:02,320
+ had the power and also i worry about banning people from working on world cons when it's
+
+396
+00:38:02,320 --> 00:38:06,800
+ you know getting good people to work on world cons is a problem even though obviously i don't
+
+397
+00:38:06,800 --> 00:38:13,360
+ personally think Dave McCarty should be Hugo administrator again i think having a process that
+
+398
+00:38:13,360 --> 00:38:19,520
+ doesn't exclude the bad actors will make it harder to get good people to work on world cons and not
+
+399
+00:38:19,520 --> 00:38:28,080
+ easier i understand the sentiments but i think if you have a organization which is riddled with
+
+400
+00:38:28,080 --> 00:38:33,200
+ corruption it is hard to get people interested in working for that organization who do not want
+
+401
+00:38:33,200 --> 00:38:38,080
+ to be associated with corruption and so i think the answer to that is making sure you don't have
+
+402
+00:38:38,080 --> 00:38:43,920
+ the corruption i think this acts in the direction of more good people i do agree with Liz there's no
+
+403
+00:38:43,920 --> 00:38:50,400
+ way of sanctioning realistically there's no teeth to the constitution but that's true anyway so i
+
+404
+00:38:50,400 --> 00:38:57,520
+ don't know i don't know i think you ought to wear with what you can i will also say i think that
+
+405
+00:38:57,520 --> 00:39:02,720
+ the idea of the world's constitution is to set up what we want the world come to look like and i
+
+406
+00:39:02,720 --> 00:39:06,480
+ think even if a committee did basically say well you can be the Hugo administrator but Dave's going
+
+407
+00:39:06,480 --> 00:39:12,000
+ to tell you what to do on the secret and if you tell anyone we'll shout your kneecaps like i think
+
+408
+00:39:12,000 --> 00:39:17,600
+ that's impossible to avoid but i think making it clear that we don't want that to be how it is
+
+409
+00:39:17,600 --> 00:39:22,080
+ is valuable because it sends a message i think we've probably recapitulated the business
+
+410
+00:39:22,080 --> 00:39:26,480
+ mutual discussion at least in part on that topic and i think i will be interested to see where this
+
+411
+00:39:26,480 --> 00:39:30,880
+ one ends up this is one of the amendments that i thought was quite interesting but it might just
+
+412
+00:39:30,880 --> 00:39:35,200
+ get dumped into a committee with the rest of the committee things so i've got thoughts against it but
+
+413
+00:39:35,200 --> 00:39:40,880
+ if it passes i won't be upset i just think it probably won't do a lot but maybe it's fine to have
+
+414
+00:39:40,880 --> 00:39:46,560
+ that symbol in the constitution anyway and then f11 f11 yes which is the last one
+
+415
+00:39:46,560 --> 00:39:52,320
+ oh we sort of set up an extra committee more committees yeah we set up a sort of monitoring
+
+416
+00:39:52,320 --> 00:39:59,120
+ committee of people independent from the next two world cons who form a committee and report back
+
+417
+00:39:59,120 --> 00:40:05,920
+ on anything they observed in Hugo and site selection voting or presumably if they are not allowed to
+
+418
+00:40:05,920 --> 00:40:10,560
+ see any of the figures then their report back that this will come didn't let's see anything
+
+419
+00:40:10,560 --> 00:40:17,360
+ i think i'm kind of in favor of this although it seems like a lot of committees still but i think
+
+420
+00:40:17,360 --> 00:40:26,160
+ having like imagined that 2026 and 2027 have a an observation committee formed of three previous
+
+421
+00:40:26,160 --> 00:40:30,880
+ Hugo administrators or something because if we're letting these people then probably presumably
+
+422
+00:40:30,880 --> 00:40:35,360
+ the people who have been good Hugo administrators will be first in line yeah it could be quite good
+
+423
+00:40:35,360 --> 00:40:39,760
+ i was just thinking about probably Hugo administrators and considering the fact that that might end up
+
+424
+00:40:39,760 --> 00:40:44,880
+ with ferrets in a sack but it's possible that that one of the ferrets wouldn't be invited to be one
+
+425
+00:40:44,880 --> 00:40:49,920
+ of the three people yeah i suspect that if the business meeting is voting on who gets to be on
+
+426
+00:40:49,920 --> 00:40:56,400
+ this subcommittee you know we won't like vote for our own destruction probably i just have this
+
+427
+00:40:56,400 --> 00:41:00,480
+ image when liz was like Hugo administrators and it could be good i just had this image of liz like
+
+428
+00:41:00,480 --> 00:41:05,280
+ patting Hugo administrators on my head going who's a good Hugo administrator who's a good Hugo administrator
+
+429
+00:41:05,280 --> 00:41:15,920
+ oh yeah now i have a new art prompt because yeah so we broadly speaking in favor of f/11
+
+430
+00:41:15,920 --> 00:41:22,640
+ i think so unless by passing this we make the job of whatever committee that comes up in d9
+
+431
+00:41:22,640 --> 00:41:28,160
+ more complicated i i think this should be limited to the committee that's the the committee of the d9
+
+432
+00:41:28,160 --> 00:41:34,640
+ as one of the things that they're looking at i will say i think it's evidence in favor of having
+
+433
+00:41:34,640 --> 00:41:38,720
+ committees to look at this stuff the various motions that have been proposed by the mark
+
+434
+00:41:38,720 --> 00:41:44,240
+ protection committee are fairly sane and well considered and i would hope that that would
+
+435
+00:41:44,240 --> 00:41:49,120
+ extend to other committees as well i i think i'm sort of broadly in favor of f/11 but might want
+
+436
+00:41:49,120 --> 00:41:59,280
+ it to be committee motions d11 to d14 concern the shenanigans at chengdu more directly um two of them
+
+437
+00:41:59,280 --> 00:42:06,480
+ are um redacted from the agenda i'll come on to that in a second one is an apology
+
+438
+00:42:06,480 --> 00:42:15,760
+ um which we will discuss the meaning of that and then one basically explicitly means that the
+
+439
+00:42:15,760 --> 00:42:24,880
+ works removed will be designated finalists despite not appearing on the ballot the reason the two that
+
+440
+00:42:24,880 --> 00:42:31,200
+ are redacted are redacted is because scottish defamation law effectively means that if you can show
+
+441
+00:42:31,200 --> 00:42:37,200
+ damage to reputation then you are guilty of defamation unless you can prove the same as you made it true
+
+442
+00:42:37,200 --> 00:42:44,480
+ and Glasgow have sought legal advice and decided that they would be best not to publish this text
+
+443
+00:42:44,480 --> 00:42:50,080
+ themselves text is available online um one of them's on par 770 and the other i think is in the
+
+444
+00:42:50,080 --> 00:42:55,360
+ business meeting discord i will endeavor to put links to both of them in the show notes and it will be
+
+445
+00:42:55,360 --> 00:43:00,880
+ discussed at the meeting but it won't be kind of officially published by the worldcom there's been
+
+446
+00:43:00,880 --> 00:43:07,520
+ quite a lot of hand-wringing over this from some people i basically think it's a very unfortunate
+
+447
+00:43:07,520 --> 00:43:13,920
+ situation that has been handled as transparently as humanly possible which stands in stark contrast
+
+448
+00:43:13,920 --> 00:43:20,320
+ to the actions of some previous people in which things were handled with much less transparency
+
+449
+00:43:20,320 --> 00:43:26,800
+ in ways that made me cross so that is my thoughts there Alison and Liz what are your thoughts
+
+450
+00:43:26,800 --> 00:43:33,520
+ i mean on the resolutions or on the you know on any of it on on the like you know not publishing
+
+451
+00:43:33,520 --> 00:43:39,760
+ the full content of these resolutions and discussing them like in a i think unfilmed and
+
+452
+00:43:39,760 --> 00:43:46,400
+ unstreamed bit of the business meeting yeah i mean it seems fair enough i'm not legal expert but i
+
+453
+00:43:46,400 --> 00:43:57,360
+ do remember that worldcom 76 spent an awful lot of money to resolve a defamation case and i suspects
+
+454
+00:43:57,360 --> 00:44:01,840
+ all the other world cons have looked at that and gone boy we really do not want to be in that
+
+455
+00:44:01,840 --> 00:44:07,440
+ situation where we spent several years and tens if not hundreds of thousands of dollars on this and
+
+456
+00:44:07,440 --> 00:44:13,040
+ have taken legal advice and gone for the absolute safe route and i can't really blame for it i
+
+457
+00:44:13,040 --> 00:44:18,560
+ agree with that i am sad to see that this part of the business meeting will not be streamed because
+
+458
+00:44:18,560 --> 00:44:25,280
+ as as you know bob i'm very much into the business meeting in general becoming as online as it
+
+459
+00:44:25,280 --> 00:44:30,800
+ possibly can and the free streaming of business meetings well i can't actually attend the world
+
+460
+00:44:30,800 --> 00:44:35,360
+ con is one of the things i particularly like about modern world cons because i generally attend all
+
+461
+00:44:35,360 --> 00:44:40,400
+ of the business meeting in the years i'm not at the world but this worldcom made the decision to
+
+462
+00:44:40,400 --> 00:45:02,800
+ not require wis
+
+463
+00:45:02,800 --> 00:45:09,280
+ but i am in favor of passing a resolution one of these resolutions to basically say
+
+464
+00:45:09,280 --> 00:45:14,800
+ look what happened last year is not something the business meeting grieves of and approves of
+
+465
+00:45:14,800 --> 00:45:19,520
+ and we apologize to those people who are affected i think i'd also be okay with adding those people
+
+466
+00:45:19,520 --> 00:45:24,640
+ to the official finalist list as a you know a gesture which cannot make up for being excluded
+
+467
+00:45:24,640 --> 00:45:28,640
+ from the actual finalist list but i go back and forth on that one i think it's a shame we've got
+
+468
+00:45:28,640 --> 00:45:33,840
+ like four resolutions and not maybe one resolution but that's just how things have gone this year we
+
+469
+00:45:33,840 --> 00:45:39,520
+ have a lot of kind of competing and slightly overlapping resolutions and amendments i mean
+
+470
+00:45:39,520 --> 00:45:46,560
+ yes that's not uncommon for wis just business meeting agendas and and the way that the the way
+
+471
+00:45:46,560 --> 00:45:51,760
+ that the organization works almost compels that if you've got different views or things you're
+
+472
+00:45:51,760 --> 00:45:57,120
+ going to get competing amendments i would like to see a motion of censure past in sub form i want
+
+473
+00:45:57,120 --> 00:46:01,760
+ to say that clearly me too if you had to pick one of these which one would it be
+
+474
+00:46:01,760 --> 00:46:08,960
+ i mean i don't have 11 and 12 to hand because they're not in the agenda i'd have to go and get
+
+475
+00:46:08,960 --> 00:46:17,760
+ them back off of file 17 17 but i am perfectly happy with d 13 which i think kind of overlaps
+
+476
+00:46:17,760 --> 00:46:26,560
+ quite a bit with d 14 despite having the same proposal in one case well i think d 14 is designed
+
+477
+00:46:26,560 --> 00:46:33,360
+ to d 14 is designed to make sure that those things are listed as finalists even if d 13 does not pass
+
+478
+00:46:33,360 --> 00:46:40,720
+ i suspect the intention is to let people go along with the finalists bit even if they don't
+
+479
+00:46:40,720 --> 00:46:45,200
+ want the apology bit but i think i want the apology bit so like yeah i think i'd just split
+
+480
+00:46:45,200 --> 00:46:49,040
+ them have an apology and then have the finalist bit rather than having a both and then a half of
+
+481
+00:46:49,040 --> 00:46:54,640
+ it but anyway happy to pass both of those i don't like the wording of d 13 which i think is
+
+482
+00:46:55,120 --> 00:47:01,760
+ a flowery in that kind of roberts fools parliamentarian way that winds me up quite often
+
+483
+00:47:01,760 --> 00:47:06,880
+ so but i would like a simpler apology apologies are best the short when they're nice and short
+
+484
+00:47:06,880 --> 00:47:14,720
+ whereas i agree with allison and whereas i think that was a good point
+
+485
+00:47:14,720 --> 00:47:23,120
+ um be it resolved that octa thought considers d 13 to be good but bit flowery yes um all those in
+
+486
+00:47:23,120 --> 00:47:28,720
+ favor say aye aye aye no i'm trying to push this to a serpentine vote here
+
+487
+00:47:28,720 --> 00:47:40,400
+ what serpentine vote great on radio one two three hey there we go okay it was unanimous listeners
+
+488
+00:47:40,400 --> 00:47:46,000
+ who wants to introduce wispous memberships and stuff so there's f1 and f2 the first one is
+
+489
+00:47:46,000 --> 00:47:50,640
+ about what you do if people accidentally purchase duplicate wispous memberships and the second one
+
+490
+00:47:50,640 --> 00:47:54,880
+ is basically saying instead of saying wispous membership and attending supplement we go back
+
+491
+00:47:54,880 --> 00:48:01,040
+ to supporting membership and attending membership and i'm not super i'm not super concerned by either
+
+492
+00:48:01,040 --> 00:48:06,720
+ although i do like how f2 just says you know if we pass this go and change it back to the old
+
+493
+00:48:06,720 --> 00:48:10,960
+ terminology throughout the constitution rather than listing every single place in the constitution
+
+494
+00:48:10,960 --> 00:48:15,120
+ where we have to change it yeah i mean i don't think this actually changes the new thing where
+
+495
+00:48:15,120 --> 00:48:20,080
+ you have the wispous membership and the attending supplement on top and you can't ever sell that
+
+496
+00:48:20,080 --> 00:48:25,920
+ wispous membership unless voting has not opened i mean i was in favor of them all being more
+
+497
+00:48:25,920 --> 00:48:31,600
+ transferable anyway but i understand it's apparently awkward to deal with i just feel sorry for all
+
+498
+00:48:31,600 --> 00:48:35,760
+ the people who bought wilcom memberships and are now selling them at glass you know selling
+
+499
+00:48:35,760 --> 00:48:41,520
+ their Glasgow memberships at the last minute and can't sell the wispous bit i don't know i think both
+
+500
+00:48:41,520 --> 00:48:45,520
+ of these are probably like things that we should talk about but maybe not this year so i oppose
+
+501
+00:48:45,520 --> 00:48:52,480
+ considering them but if they get considered i'd probably in favor of f2 in Nicholas White's
+
+502
+00:48:52,480 --> 00:48:57,360
+ early commentary on the agenda which we're linking to he says about some other items
+
+503
+00:48:57,360 --> 00:49:02,880
+ some of this stuff matters but it's not for this year this year needs to concentrate on
+
+504
+00:49:02,880 --> 00:49:07,120
+ cleaning up from last year and i absolutely agree with that and this is an example of something
+
+505
+00:49:07,120 --> 00:49:13,600
+ that can wait yeah i mean i'll say that Chengdu passed on an unusually high number of items to be
+
+506
+00:49:13,600 --> 00:49:18,240
+ ratified before we even start on the new business and new resolutions so it was going to be
+
+507
+00:49:18,240 --> 00:49:23,360
+ quite a lot anyway and i think we just have to postpone anything that's not completely vital in
+
+508
+00:49:23,360 --> 00:49:28,160
+ order that we at the business meeting actually gets everything done in time i say we i'm not
+
+509
+00:49:28,160 --> 00:49:33,040
+ going to go to the whole business meeting i might go to parts of it but i'm not spending 20 hours
+
+510
+00:49:33,040 --> 00:49:39,200
+ thinking about Robertsville de Vore. The mark protection committee have submitted f3 and f4
+
+511
+00:49:39,920 --> 00:49:50,800
+ so f3 provides explicit licensing of the wiswers marks and this comes up as a result of Kevin
+
+512
+00:49:50,800 --> 00:49:55,840
+ Sandley's comments last year about wiswers marks and how they run enforceable and some very uh
+
+513
+00:49:55,840 --> 00:49:59,280
+ enlightened people pointing out that that means that they can't be trademarks then because that's
+
+514
+00:49:59,280 --> 00:50:04,640
+ not how trademarks work and this is a attempt to bring the wiswers constitution in line with
+
+515
+00:50:04,640 --> 00:50:10,000
+ u.s trademark law and therefore i support it i think it probably is important enough to be in
+
+516
+00:50:10,000 --> 00:50:16,560
+ the mix this year and then the other one is they would quite like to be able to let mark protection
+
+517
+00:50:16,560 --> 00:50:22,720
+ member mark protection committee members force meetings of the mark protection committee and
+
+518
+00:50:22,720 --> 00:50:28,160
+ they would also like a mechanism for removing members of the mark protection committee and that's
+
+519
+00:50:28,160 --> 00:50:34,720
+ a direct result of the many shenanigans that had to go through for the mark protection committee to
+
+520
+00:50:34,720 --> 00:50:40,320
+ be able to do anything with the four people they sent showed earlier in the year and i think this
+
+521
+00:50:40,320 --> 00:50:45,840
+ is probably also something that we need to do so yeah broadly speaking in favor of f3 and 4
+
+522
+00:50:45,840 --> 00:50:50,160
+ how are you guys yeah it seems like we basically had a committee that sort of ticked along and
+
+523
+00:50:50,160 --> 00:50:55,280
+ norm was particularly concerned about it and then when it did become a big thing we realized that
+
+524
+00:50:55,280 --> 00:50:59,600
+ there were lots of handy mechanisms that should really be in place for any committee which were
+
+525
+00:50:59,600 --> 00:51:06,240
+ not and so this is an effort to tidy them up which is good and i do not know enough about the um
+
+526
+00:51:06,240 --> 00:51:11,680
+ i i mean i know a little about u.s trademark law but not enough to really comment here so i'm
+
+527
+00:51:11,680 --> 00:51:17,440
+ going to say if the mark protection committee think these changes are necessary then i think i'd
+
+528
+00:51:17,440 --> 00:51:24,560
+ agree with that so we have f10 which makes another committee and it is a committee basically
+
+529
+00:51:25,120 --> 00:51:33,520
+ that makes a Hugo oversight committee and a Hugo software advisory committee and so the first one
+
+530
+00:51:33,520 --> 00:51:41,920
+ is about more oversight of the Hugo's and the second one is about oversight of the Hugo's software
+
+531
+00:51:41,920 --> 00:51:49,600
+ i think the Hugo's software one is probably not necessary it just seems to add extra
+
+532
+00:51:49,600 --> 00:51:56,400
+ extra levels in and i'm not convinced we need them the Hugo oversight committee is basically another
+
+533
+00:51:56,400 --> 00:52:02,080
+ version of the Hugo committee we discussed earlier except instead of having members elected by the
+
+534
+00:52:02,080 --> 00:52:08,080
+ business meeting it will be elected by the association of science fiction and fancy artists the science
+
+535
+00:52:08,080 --> 00:52:14,160
+ fiction of fantasy rights association and the european s science fiction society which i mean
+
+536
+00:52:14,160 --> 00:52:18,720
+ have we taught them do they care like if you're going to say to software by the way you now
+
+537
+00:52:18,720 --> 00:52:24,880
+ appoint a member of the Hugo oversight committee meaning that your designated representative will be
+
+538
+00:52:24,880 --> 00:52:30,800
+ responsible for oversight of the Hugo's i don't know what they would think about that so we should
+
+539
+00:52:30,800 --> 00:52:36,320
+ probably check in with them on that i also worry that if we do this we i think we do need to make
+
+540
+00:52:36,320 --> 00:52:43,280
+ sure that for at world cons that take place in non-anglophone locations we are able to select
+
+541
+00:52:43,280 --> 00:52:49,200
+ enough people to be on those oversight committees who can really provide oversight yeah i mean it
+
+542
+00:52:49,200 --> 00:52:55,920
+ should at very least be two amendments and i think we've just got too many competing Hugo oversight
+
+543
+00:52:55,920 --> 00:53:03,040
+ amendments i will say i do definitely support having like sensible software to tabulate the Hugo's
+
+544
+00:53:03,040 --> 00:53:09,120
+ and it not just being as we discovered a big random SQL query that devant gati runs but i'm not
+
+545
+00:53:09,120 --> 00:53:12,800
+ sure having a software advisory committee is going to help because the number of people
+
+546
+00:53:12,800 --> 00:53:19,360
+ qualified to be on that is probably small and maybe they're already writing the Hugo software so
+
+547
+00:53:19,360 --> 00:53:25,200
+ kill this one pitch it back to the big committee see what the big committee say yep site selection
+
+548
+00:53:25,200 --> 00:53:32,640
+ changes so f12 basically acts to disenfranchise anyone who might want to join our community so
+
+549
+00:53:33,280 --> 00:53:36,080
+ you probably tell my opinion on that from the way i've described it
+
+550
+00:53:36,080 --> 00:53:48,400
+ and f13 f13 attempts to make sure that countries that hold the world con are countries that are a
+
+551
+00:53:48,400 --> 00:53:55,200
+ good fit for the world con and it does that through looking at the reporters without borders global
+
+552
+00:53:55,200 --> 00:54:02,080
+ score the freedom house freedom in the world data set and the economist intelligent units
+
+553
+00:54:02,080 --> 00:54:10,000
+ democracy index and like i see i see the point but i think this is exactly the sort thing that i
+
+554
+00:54:10,000 --> 00:54:15,760
+ would quite like to be discussed in committee rather than trying to hash out the details
+
+555
+00:54:15,760 --> 00:54:19,920
+ at the business meeting at the world con because i think this is one of those things where
+
+556
+00:54:20,720 --> 00:54:26,640
+ where you draw those lines probably needs quite a lot of discussion and i yeah i don't know i
+
+557
+00:54:26,640 --> 00:54:32,240
+ mean i feel like if i wouldn't want the world con going to a country whose um
+
+558
+00:54:32,240 --> 00:54:38,480
+ whose president was on record at saying they were playing to ban elections in the next four years
+
+559
+00:54:38,480 --> 00:54:45,680
+ so you know that's a start so i assume that i don't know how the democracy index is calculated
+
+560
+00:54:45,680 --> 00:54:53,600
+ but i assume that if if um the elections in the united states went away the united states would
+
+561
+00:54:53,600 --> 00:55:00,640
+ go down in its democracy index score but yeah chris has done some quite good analysis on this
+
+562
+00:55:00,640 --> 00:55:06,560
+ actually and said look at what the countries that they don't like having covered i think we can't
+
+563
+00:55:06,560 --> 00:55:10,800
+ escape it in that we're you know if you look at these three i think they've chosen three different
+
+564
+00:55:10,800 --> 00:55:16,880
+ indexes you know because you only have to pass one of these indexes to be you know a place which
+
+565
+00:55:16,880 --> 00:55:23,440
+ is eligible to bid for a world con and what you can't escape is that on those three indexes it is
+
+566
+00:55:23,440 --> 00:55:29,200
+ the kind of the same countries which are coming up poorly in all of them and they are mostly not
+
+567
+00:55:29,200 --> 00:55:33,760
+ ones which have traditionally held world cons and they are mostly lower middle income countries
+
+568
+00:55:33,760 --> 00:55:39,200
+ you know especially in africa and parts of asian so i don't think you can really like we can't on
+
+569
+00:55:39,840 --> 00:55:46,160
+ you can't disentangle these things i think is the tricky one like it is just a fact that there are
+
+570
+00:55:46,160 --> 00:55:51,120
+ more kind of authoritarian regimes in those places but i don't know whether there are other
+
+571
+00:55:51,120 --> 00:55:56,720
+ indexes we could be looking at or if these three are really the best and that's exactly why i'd
+
+572
+00:55:56,720 --> 00:56:02,640
+ like to see this be in committee it also doesn't cover the issue where you've got a country that
+
+573
+00:56:02,640 --> 00:56:11,200
+ is a federation of states say where human rights varies and democracy varies quite a lot between
+
+574
+00:56:11,200 --> 00:56:16,240
+ the states and that could that could become an issue i mean just say america we know you know you
+
+575
+00:56:16,240 --> 00:56:21,840
+ mean the USA i don't think it necessarily just means america if if the EU ever managed to get to the
+
+576
+00:56:21,840 --> 00:56:28,160
+ state it wants to be then then or the united Arab Emirates yeah but i don't think any of the
+
+577
+00:56:28,720 --> 00:56:34,960
+ you know uae constituent states would pass right i think we've digressed anyway we had a bid
+
+578
+00:56:34,960 --> 00:56:40,400
+ we had a bid that was Saudi Arabia and like it did not win do we want to rely on
+
+579
+00:56:40,400 --> 00:56:47,840
+ bids in countries that are very bad for human rights just being defeated at the ballot box
+
+580
+00:56:47,840 --> 00:56:55,040
+ or do we want to have some rules i don't know whether 60 60 and 6 are the right levels and i
+
+581
+00:56:55,040 --> 00:57:00,080
+ don't know whether these are the right indices but i'm not inherently against the idea of trying
+
+582
+00:57:00,080 --> 00:57:06,000
+ to make sure that there is some safeguard but what i would say is that if you're only passing on one
+
+583
+00:57:06,000 --> 00:57:11,200
+ metric if things get reevaluated the next year it could be tricky so two things i want to say i
+
+584
+00:57:11,200 --> 00:57:16,880
+ think one of these is because after the change in will come a lot people came along and said you know
+
+585
+00:57:16,880 --> 00:57:23,200
+ why was china even allowed to bid for a world con and lots of people said well that's just how
+
+586
+00:57:23,200 --> 00:57:29,200
+ it works anyone can bid for will come and this is a way of saying no look we have minimum standards
+
+587
+00:57:29,200 --> 00:57:35,920
+ you cannot bid for will cons in places that don't meet these standards to kind of you know pass off
+
+588
+00:57:35,920 --> 00:57:41,440
+ that argument and the second thing is that the timing is very unfortunate because if this gets
+
+589
+00:57:41,440 --> 00:57:47,040
+ ratified so if this gets this gets passed this year and then ratified next year it would take
+
+590
+00:57:47,040 --> 00:57:54,000
+ effect in 2026 which is exactly the year in which the first place to be disqualified under these
+
+591
+00:57:54,000 --> 00:58:01,840
+ scores would be bidding because it's the year that Uganda would be bidding for 2028 so basically the
+
+592
+00:58:01,840 --> 00:58:06,480
+ first effect of it would be to disqualify bid in its first year that it was there and it also means
+
+593
+00:58:06,480 --> 00:58:13,040
+ that the Uganda bid are going to be basically waiting for a year to see if 2025 ratifies this
+
+594
+00:58:13,040 --> 00:58:18,240
+ to know if they'll even be allowed to continue the bid so i don't think there's a way around that but
+
+595
+00:58:18,240 --> 00:58:22,560
+ it's just going to be really unfortunate for them they will have to basically wait a year to decide
+
+596
+00:58:22,560 --> 00:58:28,320
+ if they can continue bidding or maybe they'll just drop out early because of the uncertainty but yeah
+
+597
+00:58:28,320 --> 00:58:32,640
+ i think like the first i think this coming into effect and the first thing it does is saying to
+
+598
+00:58:32,640 --> 00:58:41,520
+ the first african will come bid um bye bye is a really unfortunate side side effect and then there's
+
+599
+00:58:41,520 --> 00:58:49,360
+ when we censure you we mean it which basically means you can't put censured people on
+
+600
+00:58:49,360 --> 00:58:57,520
+ bids or let them administer world cons or you can't write in for them on site selection ballots
+
+601
+00:58:57,520 --> 00:59:02,880
+ etc but basically trying to take people that have been censured by the business meeting out of
+
+602
+00:59:02,880 --> 00:59:07,440
+ world con running which i think we've already discussed but um but yeah and then there's
+
+603
+00:59:07,440 --> 00:59:12,480
+ ratification and then we're done yes so Chengdu passed a bunch of stuff which has gone for
+
+604
+00:59:12,480 --> 00:59:18,000
+ ratification i have a suspicion that if the Chengdu business meeting had been bigger possibly fewer
+
+605
+00:59:18,000 --> 00:59:24,960
+ things would have been passed on for ratification if for example online voting had been an option
+
+606
+00:59:24,960 --> 00:59:29,120
+ so that people could come in and bus us members from around the world can participate remotely
+
+607
+00:59:29,120 --> 00:59:36,960
+ e5 seems pretty unobjectionable it basically means if you are bidding for site selection you have to
+
+608
+00:59:36,960 --> 00:59:43,040
+ have a postal address and an email address because these were passed last year there's no kind of
+
+609
+00:59:43,040 --> 00:59:48,480
+ little explanation for why they should be on the ballot seems fair enough you have to have a
+
+610
+00:59:48,480 --> 00:59:53,680
+ postal address is this so people can send you letters of complaint i don't know seems good let's
+
+611
+00:59:53,680 --> 00:59:59,920
+ rify it e6 is the one where when you file your site selection ballot you have to include your
+
+612
+00:59:59,920 --> 01:00:06,160
+ postal address email address and you may include a phone number and if you don't have your name your
+
+613
+01:00:06,160 --> 01:00:11,760
+ signature or your postal address then your ballot is only counters no preference and this i think is
+
+614
+01:00:11,760 --> 01:00:18,560
+ a reaction to all those Chengdu ballots that didn't have a postal address on by basically clarifying
+
+615
+01:00:18,560 --> 01:00:24,960
+ the word address in the constitution to be postal and email when presumably it was when it was written
+
+616
+01:00:24,960 --> 01:00:31,600
+ as just a dress didn't mean email address i don't think you really need someone's postal address to
+
+617
+01:00:31,600 --> 01:00:36,800
+ know they're a person who exists and i don't know what you're going to do with postal addresses
+
+618
+01:00:36,800 --> 01:00:43,040
+ anyway because what if i just write like john's house on my thing are you going to cross check it
+
+619
+01:00:43,040 --> 01:00:48,080
+ with what i put in my membership form what if i moved house it just seems like an extra requirement
+
+620
+01:00:48,080 --> 01:00:53,520
+ that we won't actually do anything with and is designed to close what people perceived of as a
+
+621
+01:00:53,520 --> 01:01:02,000
+ loophole which probably wasn't loophole yes both both signature and postal address are very western
+
+622
+01:01:02,000 --> 01:01:06,720
+ constructs so i mean i don't mind this probably is something that needs to go off to the big hugre
+
+623
+01:01:06,720 --> 01:01:11,760
+ committee i don't mind having some requirement that means it is reasonably straightforward to
+
+624
+01:01:11,760 --> 01:01:16,560
+ acetate that this is an individual you were being i don't know what that would be but it's not this
+
+625
+01:01:16,560 --> 01:01:21,760
+ yeah you can't even say like a unique email address because people share email addresses within
+
+626
+01:01:21,760 --> 01:01:28,480
+ families and so on i think i agree with allison like i i don't inherently oppose there being
+
+627
+01:01:28,480 --> 01:01:33,760
+ more checks on whether people are natural persons especially given the news this year that there
+
+628
+01:01:33,760 --> 01:01:39,120
+ wasn't attempted to stuff the ballot by non natural persons but i don't know whether this is it and
+
+629
+01:01:39,120 --> 01:01:45,040
+ i would quite like it to be something that was thought through in a way that i felt better about
+
+630
+01:01:45,600 --> 01:01:52,320
+ so then i think the next one that's interesting is the fancast not paying compensation so this would
+
+631
+01:01:52,320 --> 01:02:00,720
+ mean that if a fancast paid its contributors or staff monetarily it would not qualify as a fancast
+
+632
+01:02:00,720 --> 01:02:07,840
+ and i don't know what that means what is being paid is a patreon being paid yeah i don't think
+
+633
+01:02:07,840 --> 01:02:14,240
+ this is probably being thought through do we do we know i think a patreon is being
+
+634
+01:02:14,240 --> 01:02:21,280
+ paid i think i would argue it is but i'm worried that you could argue it isn't and i'm worried that
+
+635
+01:02:21,280 --> 01:02:26,960
+ what i'm going to argue that it definitely isn't until the amount you get from the patreon exceeds
+
+636
+01:02:26,960 --> 01:02:33,120
+ the costs of running the podcast that's the thing isn't it like if you take in an amount of money that
+
+637
+01:02:33,120 --> 01:02:39,440
+ means you can't pay your contributors or staff is that does that mean that this doesn't qualify
+
+638
+01:02:39,440 --> 01:02:45,760
+ and i don't know if that's clear from this i think that would be something that individual
+
+639
+01:02:45,760 --> 01:02:50,320
+ administrators would have to rule on and so i think this makes it fuzzier not less fuzzy so i think
+
+640
+01:02:50,320 --> 01:02:56,640
+ i'm against but i'm not sure i mean this has come from fanzine right like the wording in fanzine is
+
+641
+01:02:56,640 --> 01:03:01,760
+ that you can't pay your contributors and stuff other than in copies of the magazine so i think it's
+
+642
+01:03:01,760 --> 01:03:06,880
+ kind of lifted that language and i don't know of any fanzines that have patreons so i don't know if
+
+643
+01:03:06,880 --> 01:03:14,480
+ that's a problem i mean i can see they're trying to do stuff like okay if we say we had a patreon
+
+644
+01:03:14,480 --> 01:03:20,480
+ which got us enough money to pay an editor to professionally edit the podcast i can see that
+
+645
+01:03:20,480 --> 01:03:27,840
+ would be like a disqualifying thing but if we got a patreon that just paid like we got £20 a month
+
+646
+01:03:27,840 --> 01:03:32,160
+ that covered our hosting costs that seems like it shouldn't fundamentally disqualify us from
+
+647
+01:03:32,160 --> 01:03:38,880
+ being a fan cast yeah i think i agree with that i think i would agree with a resolution that said
+
+648
+01:03:38,880 --> 01:03:46,800
+ that my worry is that that is not this no but i think it's a case of there are some very clear
+
+649
+01:03:46,800 --> 01:03:51,520
+ lines but then there's going to be cases which are much closer to the edge like maybe you have a
+
+650
+01:03:51,520 --> 01:03:57,360
+ patreon that brings in £1,000 a year so that's more than you need for hosting or you know come to
+
+651
+01:03:57,360 --> 01:04:02,960
+ be more than you need for say hosting and podcast expenses does that count but not like
+
+652
+01:04:02,960 --> 01:04:07,680
+ money that you are living off should that count i would like to see a solution here that is
+
+653
+01:04:07,680 --> 01:04:14,880
+ consistent across fan artist fan writer fanzine and fan cast thank you maybe we need a committee
+
+654
+01:04:14,880 --> 01:04:21,760
+ for that as well e10 language requirement would change it so that at the moment if a work appeared
+
+655
+01:04:21,760 --> 01:04:27,760
+ in a language that wasn't english then it's also eligible in the year in which it first was published
+
+656
+01:04:27,760 --> 01:04:32,720
+ in english and if it work was published outside the united states it is eligible in the year in
+
+657
+01:04:32,720 --> 01:04:37,440
+ which it is published in the united states and it changes that so that it's the languages of the
+
+658
+01:04:37,440 --> 01:04:43,600
+ administering and prior world cons and it is the countries of the administering and prior world con
+
+659
+01:04:43,600 --> 01:04:50,080
+ and this sounds very good but i wish it was as well as the united states and as well as english
+
+660
+01:04:50,080 --> 01:04:56,560
+ because this year the world con is in scotland and last year it was in china and what this resolution
+
+661
+01:04:56,560 --> 01:05:04,400
+ would do is mean that anything which hasn't yet had a uk release date but was published in the us
+
+662
+01:05:04,400 --> 01:05:09,680
+ this year if this had taken effect that would not be eligible this year and then because there
+
+663
+01:05:09,680 --> 01:05:14,240
+ won't be another british world con for ten years it would also mean it wasn't eligible next year
+
+664
+01:05:14,240 --> 01:05:19,360
+ when it goes to seattle because it would already have been published in the us and so it would have
+
+665
+01:05:19,360 --> 01:05:24,160
+ fallen out of the eligibility window in one direction for the uk and fallen out in the other
+
+666
+01:05:24,160 --> 01:05:29,040
+ direction for the us and it would just never be eligible and i think that is a problem because i
+
+667
+01:05:29,040 --> 01:05:35,040
+ think this is very well intentioned because it reduces the implicit assumption that most world
+
+668
+01:05:35,040 --> 01:05:41,840
+ cons are held in the us but it does not address the problem which is most world cons are held in
+
+669
+01:05:41,840 --> 01:05:49,280
+ the us which is still true even if you ignore it really hard and most welcome members come
+
+670
+01:05:49,280 --> 01:05:55,120
+ from the world us even when the world con is not in the us and most dr thought listeners come from
+
+671
+01:05:55,120 --> 01:06:01,760
+ the us really oh my god we know this we went we went through it on a previous episode in the
+
+672
+01:06:01,760 --> 01:06:07,040
+ after show yeah i just think this will mean that interesting works that are not from the us have
+
+673
+01:06:07,040 --> 01:06:12,000
+ a harder chance of being recognized and i think that will have the exact opposite effect to the
+
+674
+01:06:12,000 --> 01:06:17,920
+ thing it is trying to do and i worry i'm meant to sit down and do like a grid of okay what if we have
+
+675
+01:06:17,920 --> 01:06:23,440
+ world cons in say China followed by the uk followed by the us and all the different
+
+676
+01:06:23,440 --> 01:06:27,520
+ publications and when they would be eligible but i didn't do it because it would be a very
+
+677
+01:06:27,520 --> 01:06:32,720
+ boring spreadsheet but i am worried about edge cases that i haven't considered while being
+
+678
+01:06:32,720 --> 01:06:38,560
+ thinking this is generally a good thing yeah so i think i might be against ratification until
+
+679
+01:06:38,560 --> 01:06:43,040
+ someone can demonstrate to me that it doesn't end up disenfranchising things that would otherwise
+
+680
+01:06:43,040 --> 01:06:48,080
+ have a chance effectively i would be entirely in favor of this amendment if it didn't have any
+
+681
+01:06:48,080 --> 01:06:53,600
+ strike throughs and just had the word and a few more times yeah but this is now for ratification
+
+682
+01:06:53,600 --> 01:06:58,480
+ so it can't be changed yeah that's the problem isn't it if only i had been able to participate
+
+683
+01:06:58,480 --> 01:07:04,320
+ in last year's business meeting uh right and then it's as thick Liz you're our asian correspondent
+
+684
+01:07:04,320 --> 01:07:10,880
+ yeah yes so this is the idea that we should have an asian science fiction convention i just haven't
+
+685
+01:07:11,440 --> 01:07:18,960
+ quite i don't quite understand where like the pushes for this unless there are basically i would
+
+686
+01:07:18,960 --> 01:07:24,800
+ want to see fandoms from a whole bunch of asian countries who really wanted this and even then
+
+687
+01:07:24,800 --> 01:07:29,280
+ i'm not sure it makes sense to have it under the world con umbrella but i also think we should
+
+688
+01:07:29,280 --> 01:07:36,080
+ abolish the nazvik anyway so i think i'm not in favor of this i am in favor of more conventions
+
+689
+01:07:36,080 --> 01:07:42,160
+ and potentially will come supporting things like an asian science fiction convention either through
+
+690
+01:07:42,160 --> 01:07:48,480
+ people assisting or by financial support and seed funding and so on but i don't think i'm in
+
+691
+01:07:48,480 --> 01:07:53,760
+ favor of adding an extra thing that the will come is for some reason administrating in basically
+
+692
+01:07:53,760 --> 01:08:00,800
+ every year because asian wilcons are pretty few and far between lizz is completely right i just
+
+693
+01:08:00,800 --> 01:08:05,280
+ don't want a bunch of white people to go to asia and start running conventions there thinking
+
+694
+01:08:05,280 --> 01:08:11,120
+ they're helping oh do you think this is what this was about i think this is about having a one i
+
+695
+01:08:11,120 --> 01:08:15,840
+ think it's about pushing back against the fact that the constitution for some reason has the nazvik
+
+696
+01:08:15,840 --> 01:08:20,720
+ and no equivalent in other places which is a historical anomaly we should correct and i think
+
+697
+01:08:20,720 --> 01:08:27,760
+ this is about correcting it and also possibly about having a like wisface affiliated convention
+
+698
+01:08:27,760 --> 01:08:34,560
+ in china more often if you had asphyx every couple of years and then a kz would bid for a world con
+
+699
+01:08:34,560 --> 01:08:38,480
+ based on that that could be a success
+
+700
+01:08:38,480 --> 01:08:48,240
+ picks next time we're going to do picks so we're going to do very quick picks or not do pick i think
+
+701
+01:08:48,240 --> 01:08:52,560
+ we can not do picks to be honest it's going to be so long i think we can just say look come and see
+
+702
+01:08:52,560 --> 01:08:59,040
+ us in clasco and in then we've got some picks you can do live in person picks by asking me and john
+
+703
+01:08:59,040 --> 01:09:04,720
+ and allison in the bar what we like and what we've been reading and doing recently or at the table
+
+704
+01:09:04,720 --> 01:09:10,160
+ talk or a table talk please sign up for a table talk or we'll feel silly also all of them are just
+
+705
+01:09:10,160 --> 01:09:15,040
+ going to pick a generic thing anyway which was not science fiction related so there's no evidence
+
+706
+01:09:15,040 --> 01:09:19,600
+ that the lake district isn't a spaceship that's been buried in the north of england-liss
+
+707
+01:09:19,600 --> 01:09:25,760
+ yep first time for everything ah that was the old thought podcast and it's goodbye from me it's
+
+708
+01:09:25,760 --> 01:09:41,680
+ goodbye from me and it's goodbye from me
+
+709
+01:09:49,600 --> 01:09:56,800
+ oh there's a big bee in my room no it's a wasp a giant wasp um we might need to pause for a minute
+
+710
+01:09:56,800 --> 01:10:04,320
+ while i uh watch the wasp carefully liz liz looks quite worried about this it's really big
+
+711
+01:10:04,320 --> 01:10:08,800
+ you've got a webcam liz show us the wasp show us the wasp show us the wasp
+
+712
+01:10:08,800 --> 01:10:12,720
+ or don't make any sudden movements i thought they show you the wasp
+
+713
+01:10:13,440 --> 01:10:19,040
+ ah the wasp is gone the wasp has gone back out the window we're good all right hey good wasp
+
+714
+01:10:19,040 --> 01:10:28,720
+ so oh no the wasp the wasp is back okay it really is quite big um i'm just gonna run away
+
+715
+01:10:31,360 --> 01:10:31,920
+ bye liz
+
+716
+01:10:31,920 --> 01:10:44,560
+ hello sorry has has it been resolved yes it flew out the window and i have closed all the windows
+
+717
+01:10:44,560 --> 01:10:49,520
+ uh cunning like a good like you know three or four centimeters long
+
+718
+01:10:49,520 --> 01:10:58,240
+ anyway yeah and i don't come across wasp very often so i hope you enjoyed my wasp panic um
+
+719
+01:10:58,800 --> 01:11:06,240
+ i'm gonna cut the episode now sorry i was trying i was trying not to enjoy it but i did enjoy it yeah
+
+720
+01:11:06,240 --> 01:11:10,720
+ because i realized i didn't turn the camera off did i just disappeared and through the laptop to
+
+721
+01:11:10,720 --> 01:11:17,280
+ one side yeah yeah sorry john was going to do the censure resolutions before we had a wasp um
+
+722
+01:11:17,280 --> 01:11:25,280
+ intervention i've only just noticed the tobs cosigned one of these hi tobs yes i've never seen
+
+723
+01:11:25,280 --> 01:11:29,760
+ your name in the wasp was business meeting agenda before this is a lovely surprise
+
+724
+01:11:29,760 --> 01:11:36,720
+ the theme music for this episode was fanfare for space by kevin mccloud and competec.com
+
+725
+01:11:36,720 --> 01:11:44,000
+ used under a creative commons attribution 4.0 license this podcast will end at the beep beep
+
+726
+01:11:44,000 --> 01:12:14,000
+ Thank you.
+
