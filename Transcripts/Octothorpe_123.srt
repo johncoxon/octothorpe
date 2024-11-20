@@ -1,0 +1,2184 @@
+1
+00:00:00,000 --> 00:00:04,480
+ Oh shit! Shit shit shit shit shit shit shit shit shit shit shit shit shit!
+
+2
+00:00:04,480 --> 00:00:06,000
+ Recording stopped.
+
+3
+00:00:06,000 --> 00:00:11,120
+ I listened to just pour a bunch of tea on a computer I think.
+
+4
+00:00:11,120 --> 00:00:13,440
+ That's definitely going in the edit.
+
+5
+00:00:26,720 --> 00:00:32,000
+ Hello everyone and welcome to the very 123rd episode of Octa Thorpe,
+
+6
+00:00:32,000 --> 00:00:37,600
+ a podcast of science fiction and science fiction fandom which is coming to you on the 21st
+
+7
+00:00:37,600 --> 00:00:40,720
+ of November 2024. I'm John Coxin.
+
+8
+00:00:40,720 --> 00:00:46,560
+ I'm Alison Scott and I'm Liz Batty. I should do the intro one episode just to confuse everyone.
+
+9
+00:00:46,560 --> 00:00:50,240
+ You did Dom the Zoo Corn F-Pierso, didn't you?
+
+10
+00:00:50,240 --> 00:00:51,600
+ I don't remember that far back.
+
+11
+00:00:51,600 --> 00:00:55,440
+ Right, that's fair. I remember we played with the format but yes it would be fun to play with
+
+12
+00:00:55,440 --> 00:00:59,520
+ the format. We don't have any letters of comment this week on account of how we're
+
+13
+00:00:59,520 --> 00:01:05,040
+ recording before the last episode has gone up so yeah we don't feel lonely.
+
+14
+00:01:05,040 --> 00:01:08,800
+ So we're recording very early this week even earlier than we did last week.
+
+15
+00:01:08,800 --> 00:01:11,440
+ On account if I'm going to trip again sorry listeners.
+
+16
+00:01:11,440 --> 00:01:15,600
+ Oh but your last trip was amazing or all your trips amazing Liz.
+
+17
+00:01:15,600 --> 00:01:16,240
+ Yes.
+
+18
+00:01:16,240 --> 00:01:22,320
+ This one is a work conference so less amazing but it's in New Orleans so not bad.
+
+19
+00:01:22,320 --> 00:01:26,560
+ I was going to say I was going to say I think less amazing is doing some work there because
+
+20
+00:01:26,560 --> 00:01:28,080
+ less amazing than Japan.
+
+21
+00:01:28,080 --> 00:01:35,200
+ Yeah my work trip is Washington DC in December which is less good than New Orleans I think but
+
+22
+00:01:35,200 --> 00:01:36,720
+ oh you fuckers.
+
+23
+00:01:36,720 --> 00:01:38,000
+ It's certainly colder.
+
+24
+00:01:38,000 --> 00:01:40,320
+ Oh it's going.
+
+25
+00:01:40,320 --> 00:01:43,680
+ Oh what it is to be a working academic.
+
+26
+00:01:43,680 --> 00:01:47,600
+ It's so hard I just got to go to so many places so difficult.
+
+27
+00:01:47,600 --> 00:01:52,720
+ I will say that I'm going to spend 23 hours in transit.
+
+28
+00:01:52,720 --> 00:01:54,560
+ Yeah I mean that's horrible.
+
+29
+00:01:54,560 --> 00:01:56,800
+ Did that for Australia it was worth it?
+
+30
+00:01:56,800 --> 00:01:58,720
+ Yeah I mean it will be it will be.
+
+31
+00:01:58,720 --> 00:02:04,640
+ I will say that I get to fly premium economy because of the travel and expenses rules.
+
+32
+00:02:04,640 --> 00:02:06,480
+ I've never done that before so I'm excited.
+
+33
+00:02:06,480 --> 00:02:08,240
+ Oh I'm not flying premium economy.
+
+34
+00:02:08,240 --> 00:02:12,160
+ I'm doing the whole thing down the back of the plane John so thank your travel rules.
+
+35
+00:02:12,160 --> 00:02:17,200
+ I really enjoyed my 19 and a half hour direct flight would do it again.
+
+36
+00:02:17,600 --> 00:02:21,760
+ In the latest banana wings which dropped the other day there's a quote from Ella Parker about
+
+37
+00:02:21,760 --> 00:02:27,440
+ she has this fantasy of being just slightly incapacitated so she can take her bed and read
+
+38
+00:02:27,440 --> 00:02:32,880
+ for several months yes and and going on a very long plane journey is kind of a bit like that
+
+39
+00:02:32,880 --> 00:02:38,000
+ because you can just kind of consume media for 24 hours so that's quite good.
+
+40
+00:02:38,000 --> 00:02:42,160
+ Yeah planes I mean I'm looking forward to my flights to Washington DC because I have a large
+
+41
+00:02:42,160 --> 00:02:43,600
+ number of books to read.
+
+42
+00:02:43,600 --> 00:02:48,240
+ I knew this going in but as a clerk judge you get sent all of the books physically
+
+43
+00:02:48,240 --> 00:02:54,480
+ and I cut my book around in my bag all the time yeah I don't I did had not realized how much I
+
+44
+00:02:54,480 --> 00:02:55,600
+ didn't miss doing that.
+
+45
+00:02:55,600 --> 00:03:06,240
+ The Belfast Eastercon has opened its hotel bookings.
+
+46
+00:03:06,240 --> 00:03:10,400
+ To be fair they did that yeah they did that a while ago we just forgot to tell you.
+
+47
+00:03:10,400 --> 00:03:14,640
+ It's time it's time to book your Eastercon hotel if you've not done so already they are in the
+
+48
+00:03:14,640 --> 00:03:19,520
+ Hilton but as they say there are many other hotels in the Belfast area and they have rates at some
+
+49
+00:03:19,520 --> 00:03:24,080
+ of them. There are also many other hotels in the Belfast area at which they do not have rates and
+
+50
+00:03:24,080 --> 00:03:28,720
+ one of those is the one I am booked into and so other people might also like to go and have a look
+
+51
+00:03:28,720 --> 00:03:30,960
+ at what hotels are available in Belfast.
+
+52
+00:03:30,960 --> 00:03:38,480
+ Yes so there's a range of hotel options they vary from quite expensive to really very expensive.
+
+53
+00:03:38,480 --> 00:03:43,920
+ I mean that is not a dig at Belfast that is just the reality of hotels in 2024 I think
+
+54
+00:03:43,920 --> 00:03:49,920
+ but yes I am also staying I'm staying at the same hotel as Alison which is not a con hotel
+
+55
+00:03:49,920 --> 00:03:52,800
+ and Liz I know has been looking at Airbnb's.
+
+56
+00:03:52,800 --> 00:03:58,400
+ Yes I mean I also looked at Airbnb's in the vicinity and there are some and also bear in mind I think
+
+57
+00:03:58,400 --> 00:04:05,040
+ there is a based on Google Maps I think there is a pedestrian bridge into or very close to the Hilton
+
+58
+00:04:05,040 --> 00:04:09,120
+ which is not used for part of walking direction so there are some which look quite far
+
+59
+00:04:09,120 --> 00:04:12,160
+ but are actually a shelter walk than you'd imagine.
+
+60
+00:04:12,160 --> 00:04:18,000
+ Ah so like as the Bumblebee flies it is closer than it would look on the map.
+
+61
+00:04:18,000 --> 00:04:22,400
+ Yeah it's close to the new because obviously there's some water and there's only various ways to
+
+62
+00:04:22,400 --> 00:04:25,360
+ cross the water and one of them I think is not on the map.
+
+63
+00:04:25,360 --> 00:04:28,720
+ Liz are you coming to the Belfast Eastercon?
+
+64
+00:04:28,720 --> 00:04:30,240
+ Yeah probably. Excellent.
+
+65
+00:04:30,800 --> 00:04:32,800
+ Yeah we can do what we thought live.
+
+66
+00:04:32,800 --> 00:04:35,040
+ Eastercon have announced their rate rises.
+
+67
+00:04:35,040 --> 00:04:40,480
+ The first rate rise to 90 pounds has already happened it took effect on the 1st of November.
+
+68
+00:04:40,480 --> 00:04:44,560
+ Sorry we didn't tell you about that before it happened but you know sorry.
+
+69
+00:04:44,560 --> 00:04:48,880
+ And then there is going to be another rate rise to 100 pounds on the 1st of January
+
+70
+00:04:48,880 --> 00:04:52,560
+ and another rate rise on the door to 120 pounds.
+
+71
+00:04:52,560 --> 00:04:54,800
+ Day rates will also be available.
+
+72
+00:04:54,800 --> 00:05:00,560
+ The first Eastercon discount and the All Ireland rate will rise to 70 pounds on the 14th of November.
+
+73
+00:05:00,560 --> 00:05:02,720
+ So you will also have missed that.
+
+74
+00:05:02,720 --> 00:05:08,160
+ We have spoken before on the podcast about the way that increasing rates for Eastercon
+
+75
+00:05:08,160 --> 00:05:12,240
+ is a great deal after the initial offering rather than merely a little bit.
+
+76
+00:05:12,240 --> 00:05:17,440
+ Privileges are the people who can afford to buy their Eastercon membership to years in advance
+
+77
+00:05:17,440 --> 00:05:20,160
+ which is not everybody coming to Eastercon by any means.
+
+78
+00:05:20,160 --> 00:05:26,480
+ I kind of have a regular moan about the quality of Eastercon budgeting but my feeling is that if
+
+79
+00:05:26,480 --> 00:05:32,480
+ you are budgeting in the best possible way then you would set a higher rate to begin with and then
+
+80
+00:05:32,480 --> 00:05:36,400
+ have only modest rate rises subsequently.
+
+81
+00:05:36,400 --> 00:05:41,360
+ That's probably me being a slightly mean because obviously running a Belfast Eastercon is quite hard
+
+82
+00:05:41,360 --> 00:05:46,720
+ and it's an unknown quantity in quite a lot of ways so you know but we did think when the original
+
+83
+00:05:46,720 --> 00:05:48,800
+ rate was announced that it was quite low.
+
+84
+00:05:48,800 --> 00:05:55,440
+ Well I think in particular the very specific problem that Reconnect have is that they have an All Ireland
+
+85
+00:05:55,440 --> 00:06:01,120
+ price and I think it's very hard to know how many people will be joining at that rate before you
+
+86
+00:06:01,120 --> 00:06:01,920
+ start.
+
+87
+00:06:01,920 --> 00:06:06,160
+ So it might be that they're... I mean and I also don't know how you budget but it might be that
+
+88
+00:06:06,160 --> 00:06:11,440
+ you expect tons of people to join at the All Ireland rate and then even if it's a lower rate
+
+89
+00:06:11,440 --> 00:06:16,080
+ they don't and so you kind of raise all your rates or you want to keep that steady to try and let
+
+90
+00:06:16,080 --> 00:06:21,200
+ people join from Ireland who would not otherwise be able to go to Eastercon and raise the rate for
+
+91
+00:06:21,200 --> 00:06:23,760
+ maybe all people from the UK and the US.
+
+92
+00:06:23,760 --> 00:06:26,720
+ It's a really tricky balance and I don't know which way I would have done it but I think they have
+
+93
+00:06:26,720 --> 00:06:33,200
+ significantly more uncertainty than many Eastercons although they've all been uncertain since 2020
+
+94
+00:06:33,200 --> 00:06:39,760
+ and Worldcon is also an extra uncertainty because that normally brings in a bunch of people who have
+
+95
+00:06:39,760 --> 00:06:44,000
+ decided they kind of like this convention thing and let's go to the next one but I don't know how many
+
+96
+00:06:44,000 --> 00:06:48,080
+ of them would say go if it was in York but won't go to Belfast.
+
+97
+00:06:48,080 --> 00:06:50,800
+ I'm sure there'll be some of those but one of the things that's
+
+98
+00:06:50,800 --> 00:06:53,840
+ happened and we'll be talking a little bit about back to our futures later but one of the things
+
+99
+00:06:53,840 --> 00:06:58,080
+ that's happened this weekend is that I've had a couple of conversations with people whose first
+
+100
+00:06:58,080 --> 00:07:03,840
+ Worldcon was Glasgow and who are now going to the Belfast Eastercon which is quite exciting really
+
+101
+00:07:03,840 --> 00:07:06,560
+ and I like to know that those people exist.
+
+102
+00:07:06,560 --> 00:07:10,000
+ I think it's very good there's obviously been an influx of new people to community which is very
+
+103
+00:07:10,000 --> 00:07:14,080
+ good and I think obviously it's very good that there's an Eastercon Belfast because I hope that
+
+104
+00:07:14,080 --> 00:07:18,560
+ will bring more people into the community and it's also very good and I do think there's like
+
+105
+00:07:18,560 --> 00:07:24,240
+ a... the comment about privilege is an interesting one right because on the one hand
+
+106
+00:07:24,240 --> 00:07:29,360
+ it does advantage people who can afford to budget in advance to have it very cheap at the start and
+
+107
+00:07:29,360 --> 00:07:34,720
+ then raise it quite dramatically at the end but I guess the counter-argument to that is if you have
+
+108
+00:07:34,720 --> 00:07:39,840
+ just all the rate to be high you never like if you can't afford that high rate you just never can
+
+109
+00:07:39,840 --> 00:07:44,000
+ whereas if you have it low for a little bit at least like there's a window but like I don't know
+
+110
+00:07:44,000 --> 00:07:49,120
+ how that works and also I am aware that the price of a membership is not necessarily the
+
+111
+00:07:49,120 --> 00:07:54,320
+ the biggest slice of the pie when it comes to the cost of attending an Eastercon but the other
+
+112
+00:07:54,320 --> 00:07:59,120
+ thing is that even when they announced that 70 pound membership I remember them announcing it
+
+113
+00:07:59,120 --> 00:08:04,000
+ and I was like I was genuinely astounded that it was so low when they announced it and the fact that
+
+114
+00:08:04,000 --> 00:08:10,800
+ they're announced three rate rises in the course of six months does rather indicate that they might
+
+115
+00:08:10,800 --> 00:08:16,480
+ not be having a financially great time because I feel like if they were all just like tik-a-tiboo
+
+116
+00:08:16,480 --> 00:08:22,640
+ they wouldn't need to do that so I don't know I wonder whether they had it I think you're right
+
+117
+00:08:22,640 --> 00:08:28,080
+ that they had it far too cheap early doors and I wonder whether that was a mistake and I think
+
+118
+00:08:28,080 --> 00:08:34,560
+ ultimately we are probably entering a period of time when Eastercon memberships do need to go up
+
+119
+00:08:34,560 --> 00:08:39,600
+ because everything has gone up like there hasn't been a massive jump like levitation was a jump
+
+120
+00:08:39,600 --> 00:08:48,160
+ compared to the previous two and then the Belfast went back down to the conversation level and I
+
+121
+00:08:48,160 --> 00:08:53,520
+ think that was probably a mistake I think probably that was not sustainable I think they might be
+
+122
+00:08:53,520 --> 00:09:00,560
+ finding out yeah there's a real sense in which conversation was sitting on a pre-pandemic hotel
+
+123
+00:09:00,560 --> 00:09:08,800
+ contract and and I feel that that's part a big part of why our our rates could be as low as they
+
+124
+00:09:08,800 --> 00:09:13,440
+ were we knew that rates would have to rise I mean I think Farah came to talk to us about
+
+125
+00:09:13,440 --> 00:09:17,120
+ when she was planning levitation and said will people whether a higher rate and I said you know
+
+126
+00:09:17,120 --> 00:09:21,120
+ yes they will it'll be fine much more than they'll weather Telford I didn't say that
+
+127
+00:09:21,120 --> 00:09:26,720
+ well I think and I think actually conversation saying it's so low has made the conversation
+
+128
+00:09:26,720 --> 00:09:32,560
+ more difficult because I think part of why reconnects level is so low is because people
+
+129
+00:09:32,560 --> 00:09:37,120
+ reacted very badly to the jump with Telford and I think as a community we probably should have
+
+130
+00:09:37,120 --> 00:09:42,240
+ pitched that differently and conversation probably shouldn't have had such a low rate in order that
+
+131
+00:09:42,240 --> 00:09:47,120
+ levitations would seem less dramatic and then reconnect wouldn't feel a need to react to it
+
+132
+00:09:47,120 --> 00:09:53,920
+ I'm gonna I'm gonna say no conversation budgeted correctly and carefully and we also deliberately
+
+133
+00:09:53,920 --> 00:09:59,280
+ did not do a lot of the things that cost a lot of money the last time I ran an easter con we booked
+
+134
+00:09:59,280 --> 00:10:03,360
+ a band I've been thinking about booking bands because Glasgow didn't book any bands they just
+
+135
+00:10:03,360 --> 00:10:11,120
+ booked orchestras and we booked a band for for Follicon because it was a thing we could do and we
+
+136
+00:10:11,120 --> 00:10:17,840
+ came to levitation well came to do conversation and we went oh what is our events budget going to be
+
+137
+00:10:17,840 --> 00:10:22,880
+ oh people are going to be feeling poor pandemic all of that and we just want to make the convention
+
+138
+00:10:22,880 --> 00:10:28,720
+ run we are not going to have that events budget that would bring in a name band we actually did have
+
+139
+00:10:28,720 --> 00:10:32,480
+ we had some quite good events but they were basically because we got them for free or very very very
+
+140
+00:10:32,480 --> 00:10:37,520
+ cheap but we basically did not have an ends budget and and that saves you a lot of money on both
+
+141
+00:10:37,520 --> 00:10:45,440
+ tech and events and and so we actually made budgeting choices to keep the price down and the notion
+
+142
+00:10:45,440 --> 00:10:51,440
+ that that having budgeted correctly and run the convention at a made a reasonable amount of money
+
+143
+00:10:51,440 --> 00:10:55,920
+ that is in some way suggesting it's all right for people to go off and spend what they want
+
+144
+00:10:55,920 --> 00:11:01,520
+ want and then and then go oh but the problem here is conversation to charge a load more money
+
+145
+00:11:01,520 --> 00:11:06,880
+ that's just nonsense you were like conversation should have charged more that that that's not
+
+146
+00:11:06,880 --> 00:11:14,080
+ why he said i mean that's not what i said so that's fair but i think easter con as a whole if you have
+
+147
+00:11:14,080 --> 00:11:20,000
+ an event which is being run by the same people every year and that event went 70 70 110 everyone
+
+148
+00:11:20,000 --> 00:11:24,640
+ complained it would be quite natural for the next event to pick their level at 70 and i think
+
+149
+00:11:24,640 --> 00:11:29,840
+ that's probably why reconnect picked it at 70 and reconnect is now in trouble and i think what you
+
+150
+00:11:29,840 --> 00:11:37,520
+ probably wanted to do is do 70 90 110 and so i think it's i think it is if you look at easter con as a
+
+151
+00:11:37,520 --> 00:11:43,520
+ holistic thing rather than a sequence of warring committees there is a different logic and i agree
+
+152
+00:11:43,520 --> 00:11:48,400
+ that easter con is a sequence of warring committees but like we don't have to make every decision on
+
+153
+00:11:48,400 --> 00:11:56,160
+ that basis you are still making it sound like a membership rate is something that you pluck from
+
+154
+00:11:56,160 --> 00:12:04,960
+ thin air you don't you make oh no no i'm not i'm absolutely not you said they picked their membership
+
+155
+00:12:04,960 --> 00:12:12,240
+ you don't pick it from thin air they picked it from thin air job well but they didn't that's wrong
+
+156
+00:12:12,240 --> 00:12:17,360
+ i i don't know which one you you are talking about when you say they by the way because you
+
+157
+00:12:17,360 --> 00:12:21,760
+ could be referring to multiple committees i think she's talking about Belfast but i think
+
+158
+00:12:21,760 --> 00:12:25,680
+ Belfast picked their membership level because there was so much chunkering at levitation and they
+
+159
+00:12:25,680 --> 00:12:32,880
+ wanted to pick it cheaper so that they wouldn't get the the the feedback the backlash and i think
+
+160
+00:12:32,880 --> 00:12:39,680
+ that's part of if you don't condition people slowly to these sorts of changes in the financial
+
+161
+00:12:39,680 --> 00:12:45,600
+ reality of the convention then then you are going to have that backlash and if you can reduce that
+
+162
+00:12:45,600 --> 00:12:52,000
+ backlash so that people aren't as grumpy then that is good and i think as a community we did not do
+
+163
+00:12:52,000 --> 00:12:56,880
+ a good job of that i think every convention made choices which in a vacuum for that convention
+
+164
+00:12:56,880 --> 00:13:01,680
+ made a lot of sense but i think when you look at the overall trend those decisions look a bit
+
+165
+00:13:01,680 --> 00:13:05,840
+ weird because it's like well we're not all operating in a vacuum this is a series of
+
+166
+00:13:05,840 --> 00:13:11,200
+ conventions which all work together but we don't work together financially very well i don't think
+
+167
+00:13:11,200 --> 00:13:16,160
+ yeah but i mean i think i'm a little bit more than i listen on this one because imagine you'd have
+
+168
+00:13:16,160 --> 00:13:21,200
+ to here have a situation where conversation knew what tellford were aiming at in order to set it
+
+169
+00:13:21,200 --> 00:13:25,840
+ higher i think one you need to know very much kind of how much cons are going to cost before
+
+170
+00:13:25,840 --> 00:13:30,720
+ the time because it would have needed like you know i we don't know what i can't and what conversation
+
+171
+00:13:30,720 --> 00:13:34,000
+ would have known but they would have had to like know a bunch of stuff about tellford but the thing
+
+172
+00:13:34,000 --> 00:13:40,880
+ is imagine that conversation you know they knew that the next one was going to be more expensive so
+
+173
+00:13:40,880 --> 00:13:46,160
+ do they kind of set the rate at 90 so that they make a big chunk of money which sits and pass along
+
+174
+00:13:46,160 --> 00:13:50,880
+ or do they have to then set it at 90 and then say okay but we'll spend spend more money
+
+175
+00:13:50,880 --> 00:13:54,560
+ or are you saying they should end up with the same amount of money just set the initial rate higher
+
+176
+00:13:54,560 --> 00:13:59,760
+ and and not raise it i mean i think i think it's tricky i'm not saying anything about the budgets
+
+177
+00:13:59,760 --> 00:14:04,560
+ which i think is what might be confusing i'm saying stuff about the consumer perception to
+
+178
+00:14:04,560 --> 00:14:08,960
+ increasing price of events over time yeah and i don't disagree with you on that one but i can't
+
+179
+00:14:08,960 --> 00:14:14,800
+ see a way in which you mitigate this that doesn't involve conversation setting their rate artificially
+
+180
+00:14:14,800 --> 00:14:20,800
+ high and they prefer to make choices not to do that the so the first thing is the hospitality
+
+181
+00:14:20,800 --> 00:14:25,760
+ industry is also about to take another big hit um they've already they're getting hammered in the
+
+182
+00:14:25,760 --> 00:14:30,240
+ budget and things are going to be even worse so i don't think we're going to see this improving
+
+183
+00:14:30,240 --> 00:14:33,920
+ anytime soon i think we do have to accept east coast is going to get more expensive
+
+184
+00:14:33,920 --> 00:14:41,600
+ feel comfortable to set a much higher starting rate it will be fine um levitation also set a
+
+185
+00:14:41,600 --> 00:14:46,640
+ low starting rate and only then increased a lot it so it did the same trick where the people who
+
+186
+00:14:46,640 --> 00:14:51,760
+ were in the know can get their tickets and i'd have money can get their tickets early yes um the
+
+187
+00:14:51,760 --> 00:14:59,040
+ other thing i thought about was i i go to a folk club sometimes and about 50 years ago the people
+
+188
+00:14:59,040 --> 00:15:04,720
+ who ran the precursors of this folk club said the ticket the price for a ticket to see the band on
+
+189
+00:15:04,720 --> 00:15:09,440
+ the folk club night should be about the same as two pints of ale because you know you'd have two
+
+190
+00:15:09,440 --> 00:15:15,600
+ pints of ale you buy your ticket so that would be about right and and what we've got to is that the
+
+191
+00:15:15,600 --> 00:15:20,560
+ price of an easter con membership is now way less than the price of even a single night in the hotel
+
+192
+00:15:20,560 --> 00:15:24,720
+ and that seems to me to be quite low if you're likely to go to an easter con and have three or
+
+193
+00:15:24,720 --> 00:15:30,080
+ four nights at a hotel then it doesn't seem to be unreasonable the the cost of the convention is
+
+194
+00:15:30,080 --> 00:15:37,040
+ about the same as one of those nights you know and and so so that's kind of the starting of a place
+
+195
+00:15:37,040 --> 00:15:43,760
+ where you might look and say oh yes a hotel room a membership but yes easter cons are expensive
+
+196
+00:15:43,760 --> 00:15:48,400
+ they've always been expensive you know the conventions are expensive except for back to our futures
+
+197
+00:15:48,400 --> 00:15:55,040
+ which is not expensive yeah i think i think that's it basically if prices are going up you have to be
+
+198
+00:15:55,040 --> 00:15:59,280
+ prepared to put your prices higher and then when people say well your prices are you say because
+
+199
+00:15:59,280 --> 00:16:05,120
+ that's how much it costs for things because everything is much more expensive now especially in the
+
+200
+00:16:05,120 --> 00:16:10,160
+ hospitality industry where all of our costs are incurred as you just said yeah and the last thing
+
+201
+00:16:10,160 --> 00:16:15,440
+ i'll say is that you know i think we connect our pains to say look we have our main hotel but look
+
+202
+00:16:15,440 --> 00:16:19,200
+ there are other hotels around which are much cheaper than our extremely high hotel rate but
+
+203
+00:16:19,200 --> 00:16:25,680
+ for the people who have no choice to be in that hotel because they need to be close to the con
+
+204
+00:16:25,680 --> 00:16:29,280
+ it doesn't matter if they're paying an extra 20 pounds a night at an extra 20 pounds from membership
+
+205
+00:16:29,280 --> 00:16:34,640
+ because they're going to be paying hundreds pounds more for a hotel room than say i would have to pay
+
+206
+00:16:34,640 --> 00:16:39,200
+ so that i think is a much bigger thing anyway and even without sorry even without having
+
+207
+00:16:39,200 --> 00:16:43,520
+ tired hotel rooms i think you still need to think a little bit about what your main hotel
+
+208
+00:16:43,520 --> 00:16:48,400
+ price is and whether they're any that are very very close by part of this comes from so alla
+
+209
+00:16:48,400 --> 00:16:53,360
+ some mentioned that levitation also says it's opening rate low and the reason we did that was
+
+210
+00:16:53,360 --> 00:16:57,520
+ because we had known so obviously e-sicon committees talked to each other we knew that
+
+211
+00:16:57,520 --> 00:17:02,320
+ conversation was going for 70 pounds and we knew we couldn't do the budget we actually needed to do
+
+212
+00:17:03,120 --> 00:17:06,960
+ immediately because we knew people would already be angry it was so much higher
+
+213
+00:17:06,960 --> 00:17:11,520
+ and we knew we couldn't do it properly at the level we actually needed it and that
+
+214
+00:17:11,520 --> 00:17:16,000
+ kind of ties into the thing i saying right at the beginning which is if we assume that the cost
+
+215
+00:17:16,000 --> 00:17:20,880
+ of this is going up and it seems to be going up like it might be that this is a blip and it's
+
+216
+00:17:20,880 --> 00:17:25,200
+ going to return back to where it was but i don't think so and i think alla says point about the
+
+217
+00:17:25,200 --> 00:17:30,160
+ budget is a good one where i think it's going to get more expensive not less in the imminent future
+
+218
+00:17:30,720 --> 00:17:36,800
+ if we accept that then that i think implies that the membership over the sort of decade from 2020
+
+219
+00:17:36,800 --> 00:17:41,920
+ onwards is going to be a straight line going up at some gradient and i just want easter cons to
+
+220
+00:17:41,920 --> 00:17:48,320
+ make that gradient a gradient rather than a sort of series of big jumps and then plateaus
+
+221
+00:17:48,320 --> 00:17:52,000
+ because i think that makes it easier for everyone to see the shape of what's happening
+
+222
+00:17:52,000 --> 00:17:57,520
+ and it comes as less of a shock and i think i don't mean to disparage any individual convention
+
+223
+00:17:57,520 --> 00:18:01,920
+ for making decisions that made sense in their budget i just think for a very high level
+
+224
+00:18:01,920 --> 00:18:07,360
+ perspective i want the membership to be able to see that shape and not be surprised when that
+
+225
+00:18:07,360 --> 00:18:12,800
+ shape is like i don't want that shape to be unpredictable because i think that doesn't work well for
+
+226
+00:18:12,800 --> 00:18:18,000
+ our members and our community and that's the point i'm trying to make i want i want people to understand
+
+227
+00:18:18,000 --> 00:18:23,200
+ what's happening which part of the reason we're having this discussion now i think yeah that's right
+
+228
+00:18:23,200 --> 00:18:26,800
+ but i think every convention does make the decisions they have to make in their own budget
+
+229
+00:18:26,800 --> 00:18:31,760
+ and like i'm not it's hard running conventions especially budgeting conventions is difficult
+
+230
+00:18:31,760 --> 00:18:37,360
+ yeah i think every other time i've run an easter con we've put the rate up and explained why
+
+231
+00:18:37,360 --> 00:18:42,400
+ because easter con because this pressure to keep the membership artificially low is is
+
+232
+00:18:42,400 --> 00:18:48,560
+ absolutely real hmm yeah and especially to have a very low rate so i i go to a lot of festivals
+
+233
+00:18:48,560 --> 00:18:54,560
+ and they have early bird rates which are maybe 10 or 20 pounds less than the eventual rate
+
+234
+00:18:54,560 --> 00:18:59,600
+ and then you get to easter con where the where it could be like 40 or 50 or 60 pounds between
+
+235
+00:18:59,600 --> 00:19:05,600
+ the starting rate and the flatness feeling the bit off i went to an academic sorry academic conference
+
+236
+00:19:05,600 --> 00:19:10,720
+ space whether it was like space by the conference and the early bird rate was 260 and the rate if
+
+237
+00:19:10,720 --> 00:19:16,960
+ you registered four weeks before was 360 and the rate on the door was 460 and because i missed the
+
+238
+00:19:16,960 --> 00:19:20,880
+ first jump i was like i was just not going then because it's not worth the money like and i was
+
+239
+00:19:20,880 --> 00:19:25,120
+ like i do wonder the other thing is if your jumps are high enough i do wonder how many people are
+
+240
+00:19:25,120 --> 00:19:30,400
+ like oh well i missed the early bird so i'm just not gonna go because it feels like it's not value
+
+241
+00:19:30,400 --> 00:19:36,240
+ for money if you did and that is another part of the psychology which is very tricky i mean i think
+
+242
+00:19:36,240 --> 00:19:41,200
+ there was an enormous amount of money in the bank at the point where conversation started and i think
+
+243
+00:19:41,200 --> 00:19:47,040
+ if we had budgeted to make because we did make a surplus as well as all the parcel long right i
+
+244
+00:19:47,040 --> 00:19:52,160
+ think if we made a significantly larger surplus than that people would have started nobody got
+
+245
+00:19:52,160 --> 00:19:57,360
+ upset with the amount of surplus we made but people would have got seriously upset if if we had made
+
+246
+00:19:57,360 --> 00:20:02,720
+ a lot more than that and that's the disadvantage of not having a central east con body but let's not
+
+247
+00:20:02,720 --> 00:20:07,040
+ have that argument now i know we can have that argument another time but i feel like we'd be there
+
+248
+00:20:07,040 --> 00:20:12,640
+ many times we are getting to the point where we'll have to the um they're closing up the sorts of
+
+249
+00:20:12,640 --> 00:20:17,200
+ bank accounts we use and things like that so it's gonna be it's gonna be very very hard
+
+250
+00:20:17,200 --> 00:20:21,680
+ we've touched on this before but we didn't have a central east con body but what we did have
+
+251
+00:20:21,680 --> 00:20:27,840
+ was a set of past along that would get you out if you made a horrendous you know if you had made a
+
+252
+00:20:27,840 --> 00:20:32,640
+ horrendous misjudgment in your price and you ended up down a few thousand pounds on what you needed
+
+253
+00:20:32,640 --> 00:20:37,360
+ we had a past along that would get us through it when we don't have that you've got to be a lot
+
+254
+00:20:37,360 --> 00:20:41,440
+ more cautious about your rates yeah that's that's the other problem no no past along
+
+255
+00:20:41,440 --> 00:20:43,520
+ got nothing to talk about this week guys it's terrible
+
+256
+00:20:43,520 --> 00:20:51,440
+ Seattle also announced hotels they are also expensive are they more expensive than Belfast
+
+257
+00:20:51,440 --> 00:20:58,160
+ oh yes yeah but you can put four people in a room yes we could if Liz was coming Liz are you
+
+258
+00:20:58,160 --> 00:21:05,760
+ coming to Seattle no boo yeah you could if we were coming are you coming to Seattle no boo
+
+259
+00:21:06,400 --> 00:21:12,720
+ you see I went on holiday and I only have a finite amount of annual leave jump I know it
+
+260
+00:21:12,720 --> 00:21:18,240
+ sucks doesn't it as of as of may we will have an infinite amount of annual leave or rather
+
+261
+00:21:18,240 --> 00:21:24,080
+ only 365 days of it yeah yeah my parents are retired and they keep saying things like oh I
+
+262
+00:21:24,080 --> 00:21:30,720
+ just forget what day it is and I want I just oh my goodness it's so smug it's so smug I am not
+
+263
+00:21:30,720 --> 00:21:36,240
+ retired and but I do work for myself and can pick exactly my own hours and um and that will continue
+
+264
+00:21:36,240 --> 00:21:41,440
+ we're going to go to Ocapellicon which is something I might mention on the podcast we have joined
+
+265
+00:21:41,440 --> 00:21:46,000
+ we haven't done any of the other stuff about sorting out the speaking of 23-hour transit times
+
+266
+00:21:46,000 --> 00:21:50,800
+ to the Aland Islands but I'm hoping it will be quite nice and a nice place to be like the end of
+
+267
+00:21:50,800 --> 00:21:56,320
+ June which is also my 60th birthday start 23-hour transit to the island islands I hope not there's
+
+268
+00:21:56,320 --> 00:22:01,120
+ an airport if you go by ferry which we're not going to do we're going to fly the take a ferry
+
+269
+00:22:01,120 --> 00:22:05,120
+ yeah you could fly to Stockholm and take ferry right is that what you think that's the plan
+
+270
+00:22:05,120 --> 00:22:08,960
+ yeah either Stockholm or Helsinki but probably Stockholm Helsinki doesn't have ferries
+
+271
+00:22:08,960 --> 00:22:12,960
+ Helsinki does have ferries I mean it doesn't have ferries to the island I'm going to go
+
+272
+00:22:12,960 --> 00:22:17,840
+ double check this one to make sure I have not completely made this up so I got to the Helsinki
+
+273
+00:22:17,840 --> 00:22:21,920
+ World Con by taking a ferry from Stockholm to Helsinki which went through the Orland Island
+
+274
+00:22:21,920 --> 00:22:27,040
+ but I don't know whether it does it but I don't know I confess I don't know whether it does stop
+
+275
+00:22:27,040 --> 00:22:32,160
+ both ways oh it does know okay oh no I'm talking nonsense it does have one it's just that that
+
+276
+00:22:32,160 --> 00:22:36,720
+ is overnight the Stockholm one's better because it's during the day so you can do like looking out
+
+277
+00:22:36,720 --> 00:22:41,440
+ over the I look like the archipelago and stuff and it's good I was gonna say you can go from
+
+278
+00:22:41,440 --> 00:22:46,960
+ from Toku instead and that will do it yeah I mean there's also an airport on the island
+
+279
+00:22:46,960 --> 00:22:50,560
+ it's dinky it's the smallest airport I've ever been in but there isn't an airport
+
+280
+00:22:50,560 --> 00:22:56,880
+ Liz can tell us if she's going to archipelacon too I am not because as we have previously discussed
+
+281
+00:22:56,880 --> 00:23:01,040
+ our E.C.F.T.L. Wilcons I have a finite amount of annual leave and it does not cover the amount
+
+282
+00:23:01,040 --> 00:23:04,400
+ I would need to get back and go to Finland but I am a bit sad because I went to archipelacon
+
+283
+00:23:04,400 --> 00:23:09,440
+ one and it was great this is one of the reasons I'm going to archipelacon too is that not you
+
+284
+00:23:09,440 --> 00:23:15,520
+ were not the only person who said it was a fabulous convention it is I just we have a finite amount of
+
+285
+00:23:15,520 --> 00:23:22,240
+ we have the annual leave the problem is the money yeah yeah we have the annual leave and we sort of
+
+286
+00:23:22,240 --> 00:23:25,360
+ have the money but we only kind of have a finite amount of money for the whole of the rest of our
+
+287
+00:23:25,360 --> 00:23:30,160
+ lives so we we need to kind of spread it out a bit now and also I'm going to go to I'm going to go
+
+288
+00:23:30,160 --> 00:23:34,560
+ to L.A.Con so I feel like I can do a different thing and have a year off from WELCOME.
+
+289
+00:23:40,960 --> 00:23:46,960
+ On the subject of WELCOME and conventions we have been running back to our futures this weekend
+
+290
+00:23:46,960 --> 00:23:51,440
+ which is an online convention where we watch all the catch up from Glasgow and talk about it
+
+291
+00:23:51,440 --> 00:23:56,080
+ I say all the catch up it's not all the catch up on account of how there was quite a lot of catch
+
+292
+00:23:56,080 --> 00:23:59,920
+ up but yeah and we're going to talk a little bit about the stuff we've seen and whether we thought
+
+293
+00:23:59,920 --> 00:24:04,800
+ it was good we did mostly think it was good I want to talk I didn't want to talk about the actual
+
+294
+00:24:04,800 --> 00:24:10,720
+ content of back to our futures so much except for um it was the Glasgow program turns out to
+
+295
+00:24:10,720 --> 00:24:18,000
+ have been really pretty good well done Liz and crew um and especially when people gave a little
+
+296
+00:24:18,000 --> 00:24:22,560
+ thought to curating some things out of it and saying here it's a program slot you could you
+
+297
+00:24:22,560 --> 00:24:27,920
+ could go to two items or you can do anything else you like but here are two things we think you might
+
+298
+00:24:27,920 --> 00:24:35,520
+ like and everyone seems to have really liked all of the things in those item slots yeah I went to
+
+299
+00:24:35,520 --> 00:24:39,920
+ some panels I went to the opening ceremony which I kind of had to because I was on it
+
+300
+00:24:39,920 --> 00:24:48,000
+ and then I went to writing Future Scotland which was good very good I did a team quiz and when
+
+301
+00:24:48,000 --> 00:24:53,600
+ Liz answered the questions she messaged me to say John because she did not like one of the
+
+302
+00:24:53,600 --> 00:24:58,720
+ connections between the answers or maybe she did like it so much she wanted to pay me a
+
+303
+00:24:58,720 --> 00:25:03,600
+ compliment no one knows all right I will not you know reveal which one of those it was we
+
+304
+00:25:03,600 --> 00:25:10,720
+ as may decide for themselves reveal reveal your secrets Liz it wasn't the first one John
+
+305
+00:25:10,720 --> 00:25:17,280
+ or it wasn't the second one uh you didn't like it you did like it yeah my ton of voice would be
+
+306
+00:25:17,280 --> 00:25:26,880
+ John okay that's why I was attempting to convey through all caps then I went to the
+
+307
+00:25:26,880 --> 00:25:32,880
+ the mathematics of games fairies in fantasy literature the nitty ochora four panel and from
+
+308
+00:25:32,880 --> 00:25:39,120
+ Antarctica to space and then there was a gin tasting and I had rather a lot of gin and was
+
+309
+00:25:39,120 --> 00:25:44,560
+ quite squiffy oh I tasted a lot of gin and it was all terrible I didn't have any good gin in the
+
+310
+00:25:44,560 --> 00:25:49,520
+ house because apparently when we have good gin in the house we drink gin and when we have bad
+
+311
+00:25:49,520 --> 00:25:55,200
+ gin in the house we drink other things I realized but we drank quite a lot of our bad gin and we
+
+312
+00:25:55,200 --> 00:26:02,320
+ also drank some some good gin liqueur which we had forgotten that we had and yeah no gin gin good
+
+313
+00:26:02,320 --> 00:26:06,640
+ but I got to bed at a very sensible time there may be not as sensible as some people have you
+
+314
+00:26:06,640 --> 00:26:15,920
+ seen any cat chup at Glasgow Liz um I have independently I went back and watched the dark room oh which is
+
+315
+00:26:15,920 --> 00:26:22,400
+ good I mean it is the dark room but it does have some good you know gags about welcome yeah it does
+
+316
+00:26:22,400 --> 00:26:26,880
+ and I just want to buy John Robertson like infinite supplies of like honey and lemon
+
+317
+00:26:26,880 --> 00:26:32,720
+ I think he's gonna need them I think he's a performer who is not taking good care of his throat
+
+318
+00:26:32,720 --> 00:26:36,960
+ I think he's got very good I mean he's very good performer and I'm sure he's very good at
+
+319
+00:26:36,960 --> 00:26:41,200
+ projection but I do feel a little bit like oh I wanted you to just have a sit down and not talk
+
+320
+00:26:41,200 --> 00:26:46,560
+ for an hour and maybe have some like throat sweeties um yeah so that was great um I've started
+
+321
+00:26:46,560 --> 00:26:52,160
+ watching the tip tree play which I think is on back to our futures for later but I will not be there
+
+322
+00:26:52,160 --> 00:26:59,120
+ so yeah that's but that's actually it's all I've watched I feel I'm not a person who sits down and
+
+323
+00:26:59,120 --> 00:27:05,280
+ puts a panel on I think that's partly because mostly they are not visually interesting I think if
+
+324
+00:27:05,280 --> 00:27:09,440
+ they were all as a bunch of podcasts and an RSS feed I could download and listen to I would be
+
+325
+00:27:09,440 --> 00:27:14,400
+ more likely to do some catch up and future world cons take note because that's something you can
+
+326
+00:27:14,400 --> 00:27:22,320
+ just do because I treat catch up in general like podcasts as in I put it on while I am working
+
+327
+00:27:22,320 --> 00:27:26,800
+ especially panels I mean there are obviously some more visual items that I do watch but the
+
+328
+00:27:26,800 --> 00:27:31,680
+ majority of Glasgow stuff I have put on and treated as podcasts and then I have also watched some of
+
+329
+00:27:31,680 --> 00:27:36,560
+ the program this weekend but about half of the things that were recommended that are on our schedule
+
+330
+00:27:36,560 --> 00:27:40,880
+ I've already watched so so that was it was quite nice to know that I have actually been
+
+331
+00:27:40,880 --> 00:27:47,920
+ getting through it because I've been working quite hard on on program I felt stung by the
+
+332
+00:27:47,920 --> 00:27:53,440
+ suggestion that I never go to program at conventions and so I am taking great use of where where
+
+333
+00:27:53,440 --> 00:27:57,760
+ conventions have replay programs I am watching as much program as anyone might reasonably watch
+
+334
+00:27:57,760 --> 00:28:02,240
+ in the weekend just afterwards I like program perfectly well as long as I don't have other
+
+335
+00:28:02,240 --> 00:28:07,120
+ things I could be doing one of the things I've always sort of wanted I keep meaning to volunteer
+
+336
+00:28:07,120 --> 00:28:12,800
+ to program at conventions and keep not doing but it would I think when we did the punctuations I
+
+337
+00:28:12,800 --> 00:28:18,800
+ did because obviously we had the access to the replay videos so the ones that were on replay I
+
+338
+00:28:18,800 --> 00:28:23,040
+ just hived the audio off and put on my podcast app and just listened to them while running and
+
+339
+00:28:23,040 --> 00:28:29,120
+ that was very good and I don't know the obviously the problem is that podcasts are publicly available
+
+340
+00:28:29,120 --> 00:28:32,640
+ and then if you want to make them privately available I guess that there's work involved there and I
+
+341
+00:28:32,640 --> 00:28:37,040
+ don't really have an idea for how much work that is I mean it might be very little work and it might
+
+342
+00:28:37,040 --> 00:28:42,400
+ be very a lot work and I have literally no clue which way you'd jump but yeah I think it is the
+
+343
+00:28:42,400 --> 00:28:47,440
+ sort of thing that I would very much enjoy being able to do but also I don't know how many people
+
+344
+00:28:47,440 --> 00:28:53,040
+ would like I know I would is that enough to make it worth the effort no one knows I mean we know
+
+345
+00:28:53,040 --> 00:28:57,280
+ that people listen to podcasts right it'll be the same crew as the crew who listen to podcasts who
+
+346
+00:28:57,280 --> 00:29:03,120
+ would like this yeah I think I think it is I think it is much work because it basically has to be
+
+347
+00:29:03,120 --> 00:29:09,920
+ an individual URL basically I think the way people normally do podcasts which have
+
+348
+00:29:09,920 --> 00:29:17,520
+ memberships is to give you like a special RSS feed right yeah but some places have one per person
+
+349
+00:29:17,520 --> 00:29:23,120
+ and that is a lot more work but we could just have one and put it behind the paywall in the same way
+
+350
+00:29:23,120 --> 00:29:28,960
+ that we've done back to our futures because back to our futures is just all tucked behind the Glasgow
+
+351
+00:29:28,960 --> 00:29:35,040
+ paywall yes but I don't think you can have an RSS feed for podcasts took behind the paywall that
+
+352
+00:29:35,040 --> 00:29:42,000
+ I can't email to someone it doesn't matter but yes it potentially it potentially does because if
+
+353
+00:29:42,000 --> 00:29:46,160
+ you tell people your audio video is only available to Glasgow members and then you put it somewhere
+
+354
+00:29:46,160 --> 00:29:51,520
+ it isn't then 99 cent the time you'll be fine and 1 cent of the time you won't be and then you've
+
+355
+00:29:51,520 --> 00:29:57,520
+ got a problem this ties into something else that I've been thinking about which is that jondie berry
+
+356
+00:29:57,520 --> 00:30:01,360
+ said in a place I'm not supposed to talk about but I don't think you'll like this if you do mind
+
+357
+00:30:01,360 --> 00:30:09,360
+ John I'm very sorry that he speaks at a type conference every year and they hold the they hold
+
+358
+00:30:09,360 --> 00:30:13,840
+ replay for the members for a certain amount of time and then they just pushed all on YouTube and
+
+359
+00:30:13,840 --> 00:30:18,960
+ I said well what we did this was one of the punctuations we actually asked people about replay in
+
+360
+00:30:18,960 --> 00:30:24,880
+ YouTube's and public YouTube separately and presumably you could actually ask those permissions at
+
+361
+00:30:24,880 --> 00:30:28,800
+ WILCON and then just dump everything on YouTube at the end of the replay period at which point
+
+362
+00:30:28,800 --> 00:30:35,200
+ you could also make these are a public RSS feed and the answer I got was that you can do that but
+
+363
+00:30:35,200 --> 00:30:40,560
+ you could do that in theory but Planarama didn't have the permission so I've put this as a very vague
+
+364
+00:30:40,560 --> 00:30:47,520
+ feature request in the in the Vay in the fandom development discord but I feel like that model
+
+365
+00:30:47,520 --> 00:30:52,160
+ where you hold the stuff for a certain amount of time for members and then where people have
+
+366
+00:30:52,160 --> 00:30:57,120
+ previously given permission you then dump it into a public space at the end of that time which is
+
+367
+00:30:57,120 --> 00:31:02,880
+ also what we're using for the Taffa Guff reports now and that's a really good model because actually
+
+368
+00:31:02,880 --> 00:31:07,200
+ there's there's infinite amounts of stuff on the internet and really people don't often want to
+
+369
+00:31:07,200 --> 00:31:11,920
+ look at stuff at the six months old but sometimes they might yes that would be fine but my point
+
+370
+00:31:11,920 --> 00:31:16,240
+ was Glasgow did not ask permission to do that so they can't no no no Glasgow clearly can't do that
+
+371
+00:31:16,240 --> 00:31:21,200
+ this is this is I'm not saying Glasgow do this I'm saying future conventions have a think about this
+
+372
+00:31:21,200 --> 00:31:24,400
+ also we were talking about the great cost of conventions and I'm going to say that
+
+373
+00:31:24,400 --> 00:31:29,360
+ back to our futures obviously Glasgow was quite expensive to put on back to our futures have
+
+374
+00:31:29,360 --> 00:31:37,840
+ been extremely cheap both to have make happen and to attend and I still think there's space for some
+
+375
+00:31:37,840 --> 00:31:42,320
+ online conventions in the mix because they are very cheap and can be accessible to a lot of people
+
+376
+00:31:42,320 --> 00:31:47,760
+ who couldn't necessarily get to a physical convention yeah but back to our futures a terrible example
+
+377
+00:31:47,760 --> 00:31:52,240
+ of that right because there's a reason about our futures is cheap which is you haven't generated
+
+378
+00:31:52,240 --> 00:31:56,960
+ any content I mean you generate you have generated a small amount of content but you know how dare
+
+379
+00:31:56,960 --> 00:32:02,400
+ you Liz I wrote 25 quiz questions at least five of which made you make a noise I think you can still
+
+380
+00:32:02,400 --> 00:32:06,080
+ do this but what I'm saying is back to our futures is basically building off a half million pound
+
+381
+00:32:06,080 --> 00:32:11,680
+ you know turnover convention it is I have another but however I have another idea for an online
+
+382
+00:32:11,680 --> 00:32:17,360
+ convention which is that you could do this but instead of getting your program from Glasgow you
+
+383
+00:32:17,360 --> 00:32:22,880
+ get your program from the internet and you basically curate stuff that's already out there as say
+
+384
+00:32:22,880 --> 00:32:28,080
+ we're going to watch these fabulous things in the world one of the things so Nicholas Jackson
+
+385
+00:32:28,080 --> 00:32:33,280
+ gave a talk on the mathematics of games which I really liked but oh you have to you have to have
+
+386
+00:32:33,280 --> 00:32:39,360
+ a head for maths like he is not he is not like walking you slowly through maths on that one
+
+387
+00:32:39,360 --> 00:32:44,560
+ like the equations come thick and fast and those equations are made in LaTeX I watched that a
+
+388
+00:32:44,560 --> 00:32:50,320
+ couple of days ago and I was like oh this I know two thirds of the stuff in this already and the
+
+389
+00:32:50,320 --> 00:32:55,600
+ third that I don't know is very interesting and I really enjoy this and it is great and yes I
+
+390
+00:32:55,600 --> 00:33:01,440
+ was like oh it's it's it's it's proper game theory it's good but I will say is so the reason I bring
+
+391
+00:33:01,440 --> 00:33:07,040
+ that up is that he mentioned a talk that was given as the hey lecture the other year by a
+
+392
+00:33:07,040 --> 00:33:11,520
+ mathematician and someone pointed out that that talk has been given at a different event where they
+
+393
+00:33:11,520 --> 00:33:16,240
+ did put it on YouTube so like I think Alison is on something here where there are like
+
+394
+00:33:16,240 --> 00:33:22,400
+ fanist style program things that you could cobble something out of now the question is
+
+395
+00:33:22,400 --> 00:33:26,880
+ if you build it do they come I don't know the answer to that yes because not that many people
+
+396
+00:33:26,880 --> 00:33:32,720
+ I mean we've got about we've got about 160 people have joined the discord something like four
+
+397
+00:33:32,720 --> 00:33:37,920
+ back to our futures and quite a lot of people have come in but not all at once very often so we've
+
+398
+00:33:37,920 --> 00:33:44,400
+ typically had about between probably 30 or 40 engaging with the program a lot of the time and
+
+399
+00:33:44,400 --> 00:33:49,600
+ and I mean that's small I it's enough but I would like to it would be twice the size so I'll know
+
+400
+00:33:49,600 --> 00:33:54,160
+ that for next time I mean we kind of we kind of didn't publicize this very much for fear of getting
+
+401
+00:33:54,160 --> 00:34:00,160
+ a thousand so yeah we could we could on our current setup we could have it have had it be two or three
+
+402
+00:34:00,160 --> 00:34:06,480
+ times the size it is and also in the pandemic large zooms were a thing that happened and like
+
+403
+00:34:06,480 --> 00:34:11,600
+ you just had to basically be okay with that but outside the pandemic I've forgotten how much I
+
+404
+00:34:11,600 --> 00:34:18,560
+ hate big zooms like I find it really difficult to work out when I can join a conversation without
+
+405
+00:34:18,560 --> 00:34:25,520
+ interrupting and when I'm welcome to talk and stuff and like above about five people I just
+
+406
+00:34:25,520 --> 00:34:32,720
+ start finding it completely isolating and lonely and so yeah there is an element there which is
+
+407
+00:34:32,720 --> 00:34:37,040
+ in the pandemic this was much better than nothing but outside the pandemic it's much worse than
+
+408
+00:34:37,040 --> 00:34:44,800
+ being at a convention and that is hard I think I have enjoyed this weekend very greatly but yeah
+
+409
+00:34:44,800 --> 00:34:51,040
+ I think it is interesting going back to that kind of pandemic mode of discourse and being like oh oh oh
+
+410
+00:34:51,040 --> 00:34:56,800
+ I think I could have done with setting up more rooms that were kind of maximum four maximum six
+
+411
+00:34:56,800 --> 00:35:02,480
+ maximum eight I can do that of course but I think now it's probably a next time thing
+
+412
+00:35:02,480 --> 00:35:07,200
+ a lot of the time it's been fine it's just sometimes there's a huge bunch of people in one room and
+
+413
+00:35:07,200 --> 00:35:12,080
+ it's quite hard that we still haven't solved that problem of how to organically split a group in a
+
+414
+00:35:12,080 --> 00:35:17,040
+ bar that is too big into two groups that are the right size that just happens naturally in bars
+
+415
+00:35:17,040 --> 00:35:22,720
+ but never happens at all in zoom there's also been another welcome bit announced and it is a bid for
+
+416
+00:35:22,720 --> 00:35:30,000
+ Edmonton in 2030 hey I've always wanted to go to Edmonton I would like to go to Canada be nice
+
+417
+00:35:30,000 --> 00:35:34,480
+ yeah so there's basically just an announcement saying we are going to do an Edmonton bid
+
+418
+00:35:34,480 --> 00:35:39,440
+ and a blue sky account and then further details will be forthcoming this is one of your you know
+
+419
+00:35:39,440 --> 00:35:44,800
+ placeholders for the future things yeah that placeholder has a very strong graphic design
+
+420
+00:35:44,800 --> 00:35:50,320
+ I was very pleased to see this it has very strong graphic design and also they have four grounded
+
+421
+00:35:50,320 --> 00:35:56,400
+ the name used for Edmonton by the indigenous people of Canada because we later named it Edmonton
+
+422
+00:35:56,400 --> 00:36:00,960
+ and that is a nice thing to see upfront on your big materials and this is something that came up
+
+423
+00:36:00,960 --> 00:36:05,680
+ on the fame fantasy panel was a discussion about indigenous people was because Jo Walton was offered
+
+424
+00:36:05,680 --> 00:36:10,720
+ basically she was asked if she wanted to write a sequel to among others and she was like financially
+
+425
+00:36:10,720 --> 00:36:14,960
+ that would bring quite a good idea so I looked at like how I could do it and she was like basically
+
+426
+00:36:14,960 --> 00:36:19,600
+ there are two options which is do the do the thing like what if it's in a different country or do
+
+427
+00:36:19,600 --> 00:36:24,320
+ the thing in space now I will go on the record of saying I want to read the sequel to among among
+
+428
+00:36:24,320 --> 00:36:30,240
+ others sell on the moon like she talked about it he sounded cracking I would be well up for it
+
+429
+00:36:30,240 --> 00:36:36,880
+ Jo I assume you don't listen but if you do I'm in a friend of Jo let her know tell her to listen
+
+430
+00:36:36,880 --> 00:36:44,320
+ John will buy one copy yeah you will you will get one sale but she talked about like you know
+
+431
+00:36:44,320 --> 00:36:47,040
+ one of the other obvious things you could do is just like well what would this look like in the
+
+432
+00:36:47,040 --> 00:36:52,560
+ States and then she was like but I don't want to erase the indigenous peoples like own kind of
+
+433
+00:36:52,560 --> 00:36:59,840
+ fantastical cultures and heritages by transplanting like the British fantastical on it to erase the
+
+434
+00:36:59,840 --> 00:37:05,840
+ indigenous fantastical and I think they're a really fascinating thing but I'd love to see
+
+435
+00:37:05,840 --> 00:37:11,520
+ I'm kind of hoping that if this convention is selected they would have like some really
+
+436
+00:37:11,520 --> 00:37:16,560
+ interesting stuff on indigenous science fiction and fantasy and I think that would be really really
+
+437
+00:37:16,560 --> 00:37:22,400
+ interesting Belfast Easton has Ruecke Rowan horses a guest of honor and obviously there is a
+
+438
+00:37:22,400 --> 00:37:26,080
+ consideration there is you could probably do some quite good intersectional program about
+
+439
+00:37:26,080 --> 00:37:34,080
+ English colonialism of the fantastic in Ireland and in the States and do some interesting
+
+440
+00:37:34,080 --> 00:37:37,760
+ crossovers there so I'm hoping that there'll be some interesting panels about that
+
+441
+00:37:37,760 --> 00:37:51,040
+ shall we do picks I guess so all right who wants to pick first I'll pick they've got a book a pick
+
+442
+00:37:51,040 --> 00:37:59,120
+ it's a book oh this is going to surprise zero listeners but I read a book by Robert Jackson
+
+443
+00:37:59,120 --> 00:38:06,560
+ Bennett and it was great and I'm going to pick it uh-huh I know I've become predictable but the book
+
+444
+00:38:06,560 --> 00:38:13,200
+ is called Tainted Cup by Robert Jackson Bennett it is yet another brilliant fantasy world um it's
+
+445
+00:38:13,200 --> 00:38:21,920
+ basically an empire where giant leviathans are real and in the rainy season they will basically
+
+446
+00:38:21,920 --> 00:38:28,800
+ need to be stopped from destroying the outlying areas of the empire um and also all the magic is
+
+447
+00:38:28,800 --> 00:38:33,760
+ magic where you engineer plants anyway it's great and it also kind of sets up this very
+
+448
+00:38:33,760 --> 00:38:41,520
+ this class structure where there's obviously a big military who are there to defeat the leviathans
+
+449
+00:38:41,520 --> 00:38:46,560
+ you have this structure where living in the inside of the empire is more desirable because if you
+
+450
+00:38:46,560 --> 00:38:52,480
+ live in outside provinces there's a possibility that a giant whale will come and destroy you oh and
+
+451
+00:38:52,480 --> 00:38:59,760
+ also people are magically altered to have things like say a perfect memory so our main characters are
+
+452
+00:38:59,760 --> 00:39:07,840
+ Anna who is an investigator of mysteries and she is investigating a murder through her assistant
+
+453
+00:39:07,840 --> 00:39:13,840
+ Dinh, Dinh has a perfect memory Anna basically does not leave the house and sends Dinh out to do
+
+454
+00:39:13,840 --> 00:39:18,720
+ all the investigating with his perfect memory and then come back and relate to her what he sees
+
+455
+00:39:18,720 --> 00:39:23,600
+ and I think the best review I've seen is stealing a sort of good news from goodreads
+
+456
+00:39:23,600 --> 00:39:28,560
+ approach from the Hugo Girl people the review is it's like knives out but if knives out was set
+
+457
+00:39:28,560 --> 00:39:32,560
+ to fancy world and Benoit Blanc was an old woman who had hired the most disaster bisexual to be
+
+458
+00:39:32,560 --> 00:39:40,320
+ her eyes and ears thank you Robin on goodreads yeah and it is I would say it is a bit more plotty
+
+459
+00:39:40,320 --> 00:39:44,320
+ and so rid of the books a bit less character driven because it is both a great fancy world
+
+460
+00:39:44,320 --> 00:39:48,720
+ and a good murder mystery and it feels like a nice well-paced murder mystery where things come out
+
+461
+00:39:48,720 --> 00:39:55,200
+ you know at the right time to be a surprise and yeah I just sort of devoured it in a day
+
+462
+00:39:55,200 --> 00:39:59,680
+ well that sounds awesome the other the other thing I think it's probably in conversation with is the
+
+463
+00:40:00,880 --> 00:40:08,000
+ Lincoln Rime novels by Jeffrey Deaver in which the main character is paraplegic and has a
+
+464
+00:40:08,000 --> 00:40:14,240
+ detective who does the crime scene work for them so yeah it sounds interesting I love those books
+
+465
+00:40:14,240 --> 00:40:19,200
+ so I shall look it up I just I do like Robert Jackson Bennett and I need to read more of it so
+
+466
+00:40:19,200 --> 00:40:23,760
+ thank you for the recommendation is it going to be like Adrian Shekoski where the person
+
+467
+00:40:23,760 --> 00:40:28,080
+ writes faster than I read books thank you right it's about one book a year I think you can manage
+
+468
+00:40:28,080 --> 00:40:33,040
+ that very normal I could definitely read one Robert Jackson Bennett book a year he's very good
+
+469
+00:40:33,040 --> 00:40:38,000
+ oh Liz you have an Adrian Shekoski scoop well it's not it's not really a scoop so much as I read
+
+470
+00:40:38,000 --> 00:40:43,520
+ Amazon is it mmm mmm there's a cancer scoop yeah basically I'm reading I'm reading an
+
+471
+00:40:43,520 --> 00:40:48,240
+ agent Shekoski book as I do quite often so I'm reading House of Open Wounds so I went to add
+
+472
+00:40:48,240 --> 00:40:55,120
+ Days of Shattered Faith his next book in the series to my Amazon wishlist and I saw there was a fourth
+
+473
+00:40:55,120 --> 00:40:59,200
+ book listed and I couldn't find any information about it on the internet so I did what everyone
+
+474
+00:40:59,200 --> 00:41:05,520
+ does which is I skated at the author to say oh what's going on and he said it's an
+
+475
+00:41:05,520 --> 00:41:11,040
+ avilla-length book in the same world so there you go is that a scoop yeah it's quite exciting
+
+476
+00:41:11,040 --> 00:41:14,240
+ I presume at some point is going to be announced and someone accidentally put it on the Amazon
+
+477
+00:41:14,240 --> 00:41:19,280
+ listing Adrian right rather than skipp forget from Amazon well I found the name on Amazon because
+
+478
+00:41:19,280 --> 00:41:23,040
+ someone had uploaded it to the listing so it's not like it's a secret but then I probably the only
+
+479
+00:41:23,040 --> 00:41:30,640
+ person who's gone oh what's going on here doing so far so I am picking Time Stalker which is a
+
+480
+00:41:30,640 --> 00:41:37,760
+ small indie movie it is written and directed on stars the comedian Alice Lowe and it's sort of a
+
+481
+00:41:37,760 --> 00:41:41,520
+ comedy and it's got some funny bits which has also got some really not funny bits which is kind of
+
+482
+00:41:41,520 --> 00:41:46,960
+ how comedy works these days I guess but I really really like to tell the premise of the movie is
+
+483
+00:41:46,960 --> 00:41:56,720
+ that Alice Lowe has a absolutely disastrous obsession crush on someone that is so completely all
+
+484
+00:41:56,720 --> 00:42:02,640
+ encompassing that she goes through Time repeatedly in order to declare her passion for this man who
+
+485
+00:42:02,640 --> 00:42:07,760
+ is then completely oblivious and that bit is very funny and then she dies horribly so there's a bit
+
+486
+00:42:07,760 --> 00:42:12,720
+ of gore in it Stephen was like I do not understand why this film is so gory but it is just cartoon
+
+487
+00:42:12,720 --> 00:42:18,560
+ violence it's not very gory in the in the great scheme of things and I thought it had a lot of
+
+488
+00:42:18,560 --> 00:42:23,120
+ very interesting things to say and this is made up on a budget of about £2.50 and it doesn't
+
+489
+00:42:23,120 --> 00:42:27,600
+ entirely work but apart from that it's really really good and I liked it and would recommend it
+
+490
+00:42:27,600 --> 00:42:31,200
+ and you will have to look quite hard to find it because we had to go to Hackney Pitch House to
+
+491
+00:42:31,200 --> 00:42:36,720
+ see this film we could not see it in a Waltham state this was trailed before the substance when we
+
+492
+00:42:36,720 --> 00:42:41,840
+ didn't see the substance and I have it has been on my list but it did leave all of the cinemas near us
+
+493
+00:42:41,840 --> 00:42:46,400
+ before we could get to it but I'm a huge fan of Alice Lowe because she was in
+
+494
+00:42:46,400 --> 00:42:52,000
+ Goveringay's Dark Place among other things horrible histories is the other thing and also
+
+495
+00:42:52,000 --> 00:42:59,920
+ the film just looked absolutely mad so I was like very down it's absolutely bananas it's bananas yeah
+
+496
+00:43:01,120 --> 00:43:06,880
+ because I came in and I was like this doesn't make any sense it also includes John's favourite
+
+497
+00:43:06,880 --> 00:43:13,600
+ Mike Wozniak so you know John's excited about that who just might Wozniak play in this movie he plays
+
+498
+00:43:13,600 --> 00:43:19,040
+ Dan I'm gonna suggest it's not a big role but yeah I want to see it very much and I will be excited
+
+499
+00:43:19,040 --> 00:43:23,200
+ when it comes to streaming because as well as Alice Lowe going back and forth through history
+
+500
+00:43:23,200 --> 00:43:28,960
+ several of the other characters do which is almost it's not immediately obvious whether that's a
+
+501
+00:43:28,960 --> 00:43:36,320
+ deliberate artistic choice or whether it's much cheaper if all of your main characters take
+
+502
+00:43:36,320 --> 00:43:40,800
+ several parts rather than having to recast in time but I think it is a bit of a bit of a
+
+503
+00:43:40,800 --> 00:43:45,520
+ bit of a bit of a bit of a choice so there is so that sets up this question of whether Alice
+
+504
+00:43:45,520 --> 00:43:50,000
+ is really going through time or if it is all in her head which it could be and there's kind of a
+
+505
+00:43:50,000 --> 00:43:54,240
+ telling scene where she gets some therapy for this which is a fairly sensible therapy I think
+
+506
+00:43:54,240 --> 00:44:01,920
+ and I it's a very strange movie I did like it a lot I'm gonna pick a role-playing game so I've been
+
+507
+00:44:01,920 --> 00:44:10,400
+ playing in a campaign of a role-playing game called Roth and Glory which is a Warhammer 40,000 role-playing
+
+508
+00:44:10,400 --> 00:44:21,280
+ game by Cubicle 7 Games and this is a D6 based system and it's very good and the reason I'm
+
+509
+00:44:21,280 --> 00:44:27,520
+ gonna pick it is because it does something cool with its dice mechanic where you have a thing called
+
+510
+00:44:27,520 --> 00:44:32,640
+ the Wrath Dice you basically in every time you roll you roll a number of D6s and you're looking
+
+511
+00:44:32,640 --> 00:44:37,600
+ for basically successes on your D6s but the Wrath Dice if it rolls a six or a one something weird
+
+512
+00:44:37,600 --> 00:44:42,480
+ happens or like something very bad or very good happens and I've seen this kind of mechanic before
+
+513
+00:44:42,480 --> 00:44:48,640
+ in a role-playing game called Genesis which is the underpinning for the most recent Star Wars RPG
+
+514
+00:44:49,760 --> 00:44:55,120
+ and I really like games that make you think about what's going on beyond the immediate
+
+515
+00:44:55,120 --> 00:45:00,240
+ success or fail of the thing you've said you're doing and this system does that encourages you
+
+516
+00:45:00,240 --> 00:45:04,640
+ to think about the wider context of your actions without needing like a bunch of specialist dice
+
+517
+00:45:04,640 --> 00:45:09,680
+ and so yeah I've been enjoying it very much the other thing I quite like about this game is that
+
+518
+00:45:09,680 --> 00:45:13,440
+ when you're going to combat you're basically paying miniature games of Warhammer 40,000 and
+
+519
+00:45:13,440 --> 00:45:16,640
+ the people I'm playing with are very nerdy so they have all the little toy soldiers and I get to
+
+520
+00:45:16,640 --> 00:45:20,800
+ move the round the map and I'm like I remember this from when I was an undergraduate it was very fun
+
+521
+00:45:20,800 --> 00:45:26,320
+ I have no desire to go back into collecting Warhammer 40,000 on account of how I have to pay my mortgage
+
+522
+00:45:26,320 --> 00:45:33,520
+ but yeah I'm very much enjoying playing this and and I would recommend it to any role players out
+
+523
+00:45:33,520 --> 00:45:38,880
+ there especially role players who fancy some grim darkness yeah I hear what you're saying
+
+524
+00:45:38,880 --> 00:45:45,120
+ there about little toy soldiers and it's a it's a hugely consuming hobby that people spend tens of
+
+525
+00:45:45,120 --> 00:45:51,360
+ thousands of pounds on I'm always slightly amazed by it but I'm sure but the people who do it should
+
+526
+00:45:51,360 --> 00:45:55,360
+ do it I'm sure they're having fun it's one of those things that seems expensive until you work
+
+527
+00:45:55,360 --> 00:45:59,680
+ at how much time you're spending playing and then it seems a lot less expensive like board games
+
+528
+00:45:59,680 --> 00:46:06,560
+ much more expensive than book and also I'm not sure some of them spend a lot of time playing but
+
+529
+00:46:06,560 --> 00:46:12,640
+ a lot of them just spend a lot of time kind of painting and organizing and looking at their little
+
+530
+00:46:12,640 --> 00:46:20,320
+ toy soldiers painting is also a hobby time spent painting is fun it is well an unless you hate
+
+531
+00:46:20,320 --> 00:46:25,360
+ painting in which case it's not that was the art thought podcast and it's goodbye from me it's
+
+532
+00:46:25,360 --> 00:46:28,560
+ goodbye from me and it's goodbye from me
+
+533
+00:46:28,560 --> 00:46:47,760
+ [Music]
+
+534
+00:46:47,760 --> 00:46:55,840
+ recording in progress hey Alison how's it going I know sorry guys
+
+535
+00:46:56,720 --> 00:47:03,440
+ not well so so I was basically sitting chatting away while I noticed and then suddenly I noticed
+
+536
+00:47:03,440 --> 00:47:10,320
+ this weird slightly increasing pool of brown liquid yeah Liz Liz I think called it behind my
+
+537
+00:47:10,320 --> 00:47:18,000
+ eye found did any get into a computer um I believe I have a I have a three pin British plug here
+
+538
+00:47:18,000 --> 00:47:24,400
+ that just had some coffee spilled on it but I believe our plugs are very safe and I have
+
+539
+00:47:24,400 --> 00:47:30,400
+ a plastic container that holds a battery and I don't think any will have got inside the plastic
+
+540
+00:47:30,400 --> 00:47:36,080
+ containers to get all the battery because it's a it's a battery for a insta 360 and they're pretty
+
+541
+00:47:36,080 --> 00:47:40,560
+ I mean it is this is a reminder that I should probably have tidied up this nest a bit better
+
+542
+00:47:40,560 --> 00:47:46,560
+ but in fact it's fine the main the main problem is that my lovely lovely flat white from the lovely
+
+543
+00:47:46,560 --> 00:47:52,800
+ lovely coffee shop is much reduced but it was it only got through a hole that size in the top of
+
+544
+00:47:52,800 --> 00:47:59,440
+ my keep cup so the theme music for this episode was fanfare for space by kevin mccloud and
+
+545
+00:47:59,440 --> 00:48:08,000
+ compotec.com used under a creative commons attribution 4.0 license this podcast will end at the beep beep
+
+546
+00:48:08,000 --> 00:48:27,360
+ (silence)
+
