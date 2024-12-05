@@ -1,0 +1,1984 @@
+1
+00:00:00,000 --> 00:00:04,000
+ I would totally take a sausage sandwich above a sausage roll, I think.
+
+2
+00:00:04,000 --> 00:00:10,080
+ So there is a stall on Leicester. There's a stall on the Greyja market here in Newcastle called
+
+3
+00:00:10,080 --> 00:00:15,120
+ Jordi Bangers and they do a very good sausage roll but they also do a very good sausage roll.
+
+4
+00:00:26,800 --> 00:00:33,440
+ Hello everyone and welcome to the very 124th episode of OctaThorpe, a podcast for Science Fiction
+
+5
+00:00:33,440 --> 00:00:39,520
+ and Science Fiction fandom which is coming to you on the 5th of December 2024. I'm John Coxon.
+
+6
+00:00:39,520 --> 00:00:44,320
+ I'm Alison Scott and I'm Liz Batty. We are coming to you in Advent.
+
+7
+00:00:44,320 --> 00:00:50,560
+ So you will have eaten your first five Advent chocolates today listeners and I hope it's going well.
+
+8
+00:00:51,200 --> 00:00:57,600
+ We've got some letters of comment listeners. We heard from June Young. In episode 110,
+
+9
+00:00:57,600 --> 00:01:03,440
+ I mentioned that I had an Aurora app on my phone and June asks what app I have and what app I
+
+10
+00:01:03,440 --> 00:01:09,040
+ recommend. She knows she lives in New Zealand and has a Samsung Android phone even if she only has
+
+11
+00:01:09,040 --> 00:01:15,120
+ a tiny chance of seeing Aurora she has to try. So I got in touch with my chum Craig who works
+
+12
+00:01:15,120 --> 00:01:21,120
+ at the University of Otago in New Zealand and he sent through a link to the University of Otago's
+
+13
+00:01:21,120 --> 00:01:28,480
+ page for Aurora Alerts in New Zealand. So June I recommend that. I will pop a link to that in the
+
+14
+00:01:28,480 --> 00:01:36,320
+ show notes and it has advice for when to go looking and like how to see Aurora and various graphs and
+
+15
+00:01:36,320 --> 00:01:42,560
+ it all looks very good. In general I sent June an email with a couple of links to apps but the two
+
+16
+00:01:42,560 --> 00:01:48,720
+ I as my colleagues about are Space Weather Live and the Glendale app and I'll put links to those in
+
+17
+00:01:48,720 --> 00:01:57,280
+ the show notes as well. The one I use is Aurora Alerts UK but as the name might suggest that is
+
+18
+00:01:57,280 --> 00:02:03,840
+ really mostly helpful if you live in the UK and so yes not as helpful for international listeners
+
+19
+00:02:03,840 --> 00:02:08,800
+ and I'll pop some iPhone recommendations in the show notes as well for all your iPhone is out there
+
+20
+00:02:08,800 --> 00:02:15,440
+ but yeah. Andrew Hogg says GTA 2 is not available on Netflix. I'm guessing Alice does misunderstood
+
+21
+00:02:15,440 --> 00:02:20,960
+ which three games are involved in the Grand Theft Auto in Grand Theft Auto the trilogy and yes you
+
+22
+00:02:20,960 --> 00:02:28,480
+ are completely correct this is true. 100% I wasn't paying close attention. For those who are wondering
+
+23
+00:02:28,480 --> 00:02:32,720
+ for those who are wondering Grand Theft Auto 2 is the last good one. I think I've only actually
+
+24
+00:02:32,720 --> 00:02:40,240
+ played Grand Theft Auto 1. In general games get worse games get worse when they go 3D. Zelda is a
+
+25
+00:02:40,240 --> 00:02:47,120
+ very notable exception to this rule but like 2D games they be good. Like all the 2D Zelda's quite
+
+26
+00:02:47,120 --> 00:02:52,240
+ a lot. I like the 2D Zelda's but Ocarina of Time might be the best game ever made and it is 3D so
+
+27
+00:02:52,240 --> 00:02:57,840
+ it is a compelling counter example to my point but like I always prefer the 2D Mario's to the 3D
+
+28
+00:02:57,840 --> 00:03:05,120
+ Mario's for instance. I just sold my copy of Ocarina of Time 3D in my giant mountain of things I'm
+
+29
+00:03:05,120 --> 00:03:12,160
+ selling. Liz how many d's do you like? Oh that could go the wrong way. I'm not answering that one John.
+
+30
+00:03:12,160 --> 00:03:24,080
+ As many as is necessary. Wow wow correct answer. I mean technically you could say
+
+31
+00:03:24,080 --> 00:03:30,240
+ braid is like a 4D platform all right and I like braid so there you go. Yes braid is good. I would
+
+32
+00:03:30,240 --> 00:03:36,960
+ say braid is 3D but the third d isn't what you think. 3D? Hmm yeah I guess it is yeah. Braid is 3D
+
+33
+00:03:36,960 --> 00:03:44,400
+ platformer. I don't think anyone's done braid 3D but actually 4D. Oh no there is a very weird golf
+
+34
+00:03:44,400 --> 00:03:52,320
+ game. 4D golf. Have you seen any of the videos of 4D golf? Nope. Absolutely like my brain little brain
+
+35
+00:03:52,320 --> 00:03:58,080
+ just cannot comprehend 4D golf. Brilliant. Okay I apparently I need to go and play 4D golf.
+
+36
+00:03:58,080 --> 00:04:02,000
+ I mean I think you need to watch a video of 4D golf and then decide if you think your brain can
+
+37
+00:04:02,000 --> 00:04:06,640
+ cope with the fourth dimension of the golf. It's 30% off right now Alison and it's available on your
+
+38
+00:04:06,640 --> 00:04:14,560
+ Mac. I'll look at the video. It looks it looks pretty mad. Mmm. Preef pause whatever you want to
+
+39
+00:04:14,560 --> 00:04:19,440
+ the video of 4D golf. We also heard from Chris Garcia. I think we're here from Chris Garcia twice
+
+40
+00:04:19,440 --> 00:04:25,120
+ since we lasted any letters of comment so that is a lot of Chris Garcia. Chris talks about the
+
+41
+00:04:25,120 --> 00:04:31,280
+ costs of comms for attendees. He says basically they're too high which yeah and the problem is that
+
+42
+00:04:31,280 --> 00:04:36,480
+ higher prices on a traveling comm can mean that the locals who might only be able to go to that
+
+43
+00:04:36,480 --> 00:04:41,920
+ warm comm still can't make it so even if they don't have to take into account hotel prices sometimes
+
+44
+00:04:41,920 --> 00:04:47,920
+ high prices can price the locals out. Yeah he says in the 1990s some cons tried a thing we'd have
+
+45
+00:04:47,920 --> 00:04:51,840
+ a rate for people staying in the hotel it was lower than people not staying in the hotel which
+
+46
+00:04:51,840 --> 00:04:56,560
+ does sound just very complicated basically and he's very much looking forward to an
+
+47
+00:04:56,560 --> 00:05:01,760
+ Edmonton WorldCom. I didn't quite understand the thing about people in the hotel paying less.
+
+48
+00:05:01,760 --> 00:05:07,200
+ That didn't quite make sense to me. I do think having a local person's rate which is slightly
+
+49
+00:05:07,200 --> 00:05:11,760
+ cheaper is very good idea and that's kind of what Belfast are doing right and it's something Glasgow
+
+50
+00:05:11,760 --> 00:05:16,560
+ did as well so I have no I think that's a good point to well-made Chris to that sort of thing
+
+51
+00:05:16,560 --> 00:05:21,200
+ might be good. I think the idea is if you are a con where you have to fill your room block in order
+
+52
+00:05:21,200 --> 00:05:25,840
+ to not get in trouble with the hotel then giving people a slight discount and encouraging them to
+
+53
+00:05:25,840 --> 00:05:30,000
+ fill the hotel room block could be a good thing but it just sounds very complicated to keep track
+
+54
+00:05:30,000 --> 00:05:36,080
+ off and as Chris says could be kind of subverted by booking and then cancelling hotels. Yeah in
+
+55
+00:05:36,080 --> 00:05:40,560
+ general I do like it when cons are sort of unbundled from a hotel because then it does give you the
+
+56
+00:05:40,560 --> 00:05:44,720
+ freedom to stay in whatever hotel you like without worrying that you are going to cause the cons
+
+57
+00:05:44,720 --> 00:05:49,120
+ financial difficulties. Yeah I know what you mean do you want to do Chris's other letter Liz or do
+
+58
+00:05:49,120 --> 00:05:53,840
+ you want me to do that? Well shall I do Tommy and then you could do Chris too. Chris to electric
+
+59
+00:05:53,840 --> 00:05:58,320
+ Boogaloo. I might do Chris's now because the other Chris one is the one that comes before the Chris
+
+60
+00:05:58,320 --> 00:06:05,440
+ one that Liz just did. Okay so you can do we also heard from Chris Garcia. Oh this is 4D letters of
+
+61
+00:06:05,440 --> 00:06:11,520
+ comment. Yeah I'm going to keep all this in obviously but the fourth dimension is time I feel like
+
+62
+00:06:11,520 --> 00:06:17,520
+ podcasts may only be 1D there so it's 2D if you've got timey it's timey wiry stuff in it. So Chris
+
+63
+00:06:17,520 --> 00:06:22,880
+ does note that they did listen to the grass episode on the way to wrestling and JP said this sounds
+
+64
+00:06:22,880 --> 00:06:29,360
+ like a weird book. Yes JP that is not an unfair you might have gotten to the hearts of the situation
+
+65
+00:06:29,360 --> 00:06:35,360
+ there fair enough. He mentions Ekpeki and sort of talks about that we should just note there is a
+
+66
+00:06:35,360 --> 00:06:39,600
+ file service every article in which it turns out that the initial child that was levied against
+
+67
+00:06:39,600 --> 00:06:45,680
+ Ekpeki might not be true because Kens' name does appear on the story that Ekpeki submitted so we're
+
+68
+00:06:45,680 --> 00:06:48,800
+ we'll link to that in the show notes but that whole thing is rapidly getting into
+
+69
+00:06:48,800 --> 00:06:56,000
+ it's all just very strange now and then Chris says everything feeds into smothcon smothconning
+
+70
+00:06:56,000 --> 00:07:00,160
+ with virtual hybrid concept and then he says for a group that often complains that people see them
+
+71
+00:07:00,160 --> 00:07:04,320
+ as a shadowy group who doesn't want to have that action seen they sure make choices that make that
+
+72
+00:07:04,320 --> 00:07:11,760
+ impression easy to justify is not not a bad point. So yes thank you very much Chris we now return to
+
+73
+00:07:11,760 --> 00:07:17,840
+ the period of time after the time that Chris wrote to us after the one I just read. So Tommy Ferguson
+
+74
+00:07:17,840 --> 00:07:25,280
+ wrote to us as said made three points as reconnect treasurer I am very I am very confused by the
+
+75
+00:07:25,280 --> 00:07:30,640
+ concept of a combined treasurer and co-chair of an east cod that seems like quite a lot of work to me
+
+76
+00:07:30,640 --> 00:07:35,200
+ but there we go. Saying we are not in financial trouble which I think is what I said last time
+
+77
+00:07:35,200 --> 00:07:40,320
+ they have 622 members are certain they will be able to pay their bills there may be some limits
+
+78
+00:07:40,320 --> 00:07:46,880
+ on what they can and cannot do e.g. streaming and they may not have as much past as long as they
+
+79
+00:07:46,880 --> 00:07:57,520
+ would like and so he's passed that on to the next east cod to know. On membership prices they
+
+80
+00:07:57,520 --> 00:08:02,320
+ want as many members as early as possible which is why they went for an early rate and they knew
+
+81
+00:08:02,320 --> 00:08:08,880
+ that they were getting a subvention of £50 a person approximately for every member outside
+
+82
+00:08:08,880 --> 00:08:16,640
+ Northern Ireland from the Belfast local government tourist subsidy. So that actually totally explains
+
+83
+00:08:16,640 --> 00:08:24,480
+ it because if you if what you're paying is £70 plus £50 that's 120 isn't it so yeah and and he said
+
+84
+00:08:24,480 --> 00:08:31,680
+ without that money they could not have considered putting on the con but then he also says we anticipate
+
+85
+00:08:31,680 --> 00:08:38,400
+ a small or no virtual component reconnect get it and I would like to take issue with you there Tommy
+
+86
+00:08:38,400 --> 00:08:43,920
+ because what you do when you say we want to reconnect in person because reconnecting in person is
+
+87
+00:08:43,920 --> 00:08:50,640
+ better than virtual conventions is this is an exclusionary policy virtual conventions aren't
+
+88
+00:08:50,640 --> 00:08:54,880
+ I don't think there's anybody who goes oh I'd rather attend a convention virtually than travel
+
+89
+00:08:54,880 --> 00:09:01,360
+ people are too frail to travel or they do not have enough money to travel to a convention in person
+
+90
+00:09:01,360 --> 00:09:07,520
+ or they still feel that they're actually not safe to travel because of being immunocompromised or
+
+91
+00:09:07,520 --> 00:09:11,760
+ for other reasons and all of those things are access issues and having a virtual component to
+
+92
+00:09:11,760 --> 00:09:16,800
+ your convention and having it be as broad as you could possibly manage and I understand that finance
+
+93
+00:09:16,800 --> 00:09:22,800
+ might constrain it isn't it's not about saying oh it's better to meet a person it's about saying
+
+94
+00:09:22,800 --> 00:09:27,440
+ oh well but we want to encourage as many people as possible to come to our convention even if the
+
+95
+00:09:27,440 --> 00:09:33,040
+ way that they do that is virtually you know as it happens liz in Thailand is flying next year but
+
+96
+00:09:33,040 --> 00:09:38,960
+ many of the people in the East Kong community who are scattered around the world cannot possibly
+
+97
+00:09:38,960 --> 00:09:44,160
+ afford to come to Belfast and his third point is this he's got a finance subcommittee which
+
+98
+00:09:44,160 --> 00:09:50,480
+ includes several people who have worked on previous Easter cons he's also getting advice and help
+
+99
+00:09:50,480 --> 00:09:55,840
+ from other East Kong treasurers and so they're kind of little little net of East Kong treasurers
+
+100
+00:09:55,840 --> 00:10:02,640
+ keeping informed and trying to make sure that the money um that that we are actually making
+
+101
+00:10:02,640 --> 00:10:08,400
+ the kind of year on year decisions about the money which I think is is very sensible and he's
+
+102
+00:10:08,400 --> 00:10:12,880
+ shared all of their income and budgets he's kind of like well it's transparent and if anyone really
+
+103
+00:10:12,880 --> 00:10:22,320
+ wants to see the um budget and expenditure lines do get in touch so you know if that's you listeners
+
+104
+00:10:22,320 --> 00:10:25,920
+ I mean I'm I'm pretty confident that they're doing the right sort of thing and I'll let them
+
+105
+00:10:25,920 --> 00:10:31,120
+ get on with it but if that's you then um get in touch I am going to be fascinated to know so if
+
+106
+00:10:31,120 --> 00:10:36,880
+ this convention's real cost to be profitable is 120 pounds a member which it sounds like it is
+
+107
+00:10:36,880 --> 00:10:44,080
+ I don't envy Phil and the 2026 bid which we'll discuss later I don't envy them in their decision
+
+108
+00:10:44,080 --> 00:10:49,920
+ making about where they start their prices given that reconnects started at 70 I that's going to
+
+109
+00:10:49,920 --> 00:10:55,280
+ be there's going to be gasps in the room again but again every convention makes the decisions it makes
+
+110
+00:10:55,280 --> 00:11:02,000
+ that are right for it and reconnect clearly feel that that is what they have done and I can't as we
+
+111
+00:11:02,000 --> 00:11:07,040
+ went over last time we can't criticize an individual convention for making the decisions that are
+
+112
+00:11:07,040 --> 00:11:14,800
+ right for them right so yeah it's hard I gotta say 50 quid is pretty good to mention from the
+
+113
+00:11:14,800 --> 00:11:19,840
+ Belfast stories board I mean I'm trying to remember how much kind of what was the kind of range of
+
+114
+00:11:19,840 --> 00:11:24,320
+ stuff Glasgow was getting for bringing a whole world con to Scotland and I think it was probably
+
+115
+00:11:24,320 --> 00:11:29,200
+ not out the realm of like what will come what Easter gone is going to get for coming to Belfast I
+
+116
+00:11:29,200 --> 00:11:36,960
+ mean they have succeeded in that I am having made the decision to go to the Belfast Eastacom I will
+
+117
+00:11:36,960 --> 00:11:43,920
+ also then like spend some more time in Northern Ireland and spend more of my tourist monies and
+
+118
+00:11:43,920 --> 00:11:49,360
+ you know fly I mean although actually I will fly to Dublin which probably was not their intention but
+
+119
+00:11:49,360 --> 00:11:55,040
+ it's working 50 quid is is buttons compared to the amount of money I'm going to spend in the hotels
+
+120
+00:11:55,040 --> 00:12:01,920
+ restaurants and bars of Belfast that weekend and also I think that we're probably not as influential
+
+121
+00:12:01,920 --> 00:12:07,200
+ as we used to be but I think that there are still plenty of influential people in in East
+
+122
+00:12:07,200 --> 00:12:11,520
+ conf anthem who are going around saying oh Belfast is actually a great place to go for a weekend and
+
+123
+00:12:11,520 --> 00:12:16,960
+ that's really important as part of the part of the discussion when tourist boards are making these
+
+124
+00:12:16,960 --> 00:12:23,200
+ sorts of choices so somebody who shall be nameless um sidled up to me in the nivcon bar and said
+
+125
+00:12:23,200 --> 00:12:29,680
+ smofcon's decision to scrap its virtual program is particularly vexing because the reason they won
+
+126
+00:12:29,680 --> 00:12:37,120
+ the bid over Suicon was that they promised virtual and Suicon couldn't oh I thought that's interesting
+
+127
+00:12:37,120 --> 00:12:43,680
+ that is proper gossip yeah that that is I had I confess I had not realized that the smofcon
+
+128
+00:12:43,680 --> 00:12:50,080
+ right I saw of assume that most convention bid processes are not actually contested because in
+
+129
+00:12:50,080 --> 00:12:54,720
+ general listeners they tend not to be I mean world cons is an exception obviously but like
+
+130
+00:12:54,720 --> 00:12:58,880
+ east con is technically a competitive bidding process but hasn't been for many years but I
+
+131
+00:12:58,880 --> 00:13:05,040
+ didn't as a result I hadn't occurred to me that part of the um problem here might be that Seattle
+
+132
+00:13:05,040 --> 00:13:10,480
+ had promised something in the bidding that they are then going back on and that is an interesting
+
+133
+00:13:10,480 --> 00:13:16,480
+ consideration that we didn't pick up last episode indeed and and when I say contested bidding I mean
+
+134
+00:13:16,480 --> 00:13:22,400
+ obviously this I said Suicon earlier but it is just Sweden rather than Suicon it's smofcon 42
+
+135
+00:13:22,400 --> 00:13:28,560
+ um I think it's just switched so they will do it this year so next year so it's not that
+
+136
+00:13:28,560 --> 00:13:34,080
+ it's not that that will never happen I guess it's also that if you say you're going to do
+
+137
+00:13:34,080 --> 00:13:39,200
+ hybrid and people vote for you on the ground that you're going to do hybrid but then none of them
+
+138
+00:13:39,200 --> 00:13:44,400
+ actually join as virtual members then that's also tricky yeah true also didn't we have quite
+
+139
+00:13:44,400 --> 00:13:52,720
+ contested east con bidding in um 20 21 but I think that's one time in the nearly 20 years I've been
+
+140
+00:13:52,720 --> 00:13:57,440
+ going so I feel like it's fair to say it's not common yes I'm not saying it's literally impossible
+
+141
+00:13:57,440 --> 00:14:02,640
+ I think we worked out there's been there's been four contested east comptons and I was part of
+
+142
+00:14:02,640 --> 00:14:09,760
+ all four of them so oops I'm also gonna so I'm also gonna say um we don't have many comments from
+
+143
+00:14:09,760 --> 00:14:15,120
+ them but we have picked up a very large number of followers on blue sky which is obviously the
+
+144
+00:14:15,120 --> 00:14:20,080
+ new hotness as far as social media goes partly because we are in some starter packs which is
+
+145
+00:14:20,080 --> 00:14:27,840
+ I think on blue sky where if you would like to um mass follow basically a bunch of interesting
+
+146
+00:14:27,840 --> 00:14:33,760
+ people who are related in some particular way then you can say go and find a starter pack of
+
+147
+00:14:33,760 --> 00:14:37,920
+ science fictional podcasters and click follow and you'll get to follow all of them and sort of
+
+148
+00:14:37,920 --> 00:14:42,960
+ populate your feed with people which is I think a really nice thing actually because my main
+
+149
+00:14:42,960 --> 00:14:48,320
+ problem with blue sky in the early days is it was very slow because I wasn't following tons of
+
+150
+00:14:48,320 --> 00:14:53,360
+ people because there weren't tons of people I wanted to follow and now it has massively perked up
+
+151
+00:14:53,360 --> 00:14:58,400
+ and so completely replaced twitter for me and I think part of it might be the following
+
+152
+00:14:58,400 --> 00:15:02,480
+ being a follow start back not what I have followed any starter packs but I like to use them as a way
+
+153
+00:15:02,480 --> 00:15:06,880
+ to go so go through and find interesting people I might like to follow even if I don't tend to
+
+154
+00:15:06,880 --> 00:15:11,680
+ mass follow all of them because in case they might be super prolific yeah so we're on blue sky
+
+155
+00:15:11,680 --> 00:15:18,000
+ we are octa-thorpe cast as usual um come and say hi leave us comments we might read them out um I
+
+156
+00:15:18,000 --> 00:15:24,880
+ promise to get a slightly better corrupt version of our icon that fits nicely in a circle before
+
+157
+00:15:24,880 --> 00:15:30,080
+ next episode and we have also and I don't know if we mentioned this on the podcast we are also now
+
+158
+00:15:30,080 --> 00:15:35,360
+ on instagram so if you want to follow us on instagram we are octa-thorpe sf because meta are
+
+159
+00:15:35,360 --> 00:15:40,320
+ shit but we are on instagram so if you're on there come and give us a follow we posted a show art
+
+160
+00:15:40,960 --> 00:15:49,200
+ cunning um we should do we also on um mastodon we got a letter of comment from archipelacon 2
+
+161
+00:15:49,200 --> 00:15:54,080
+ who says uh we appreciate the kind words about archipelacon 1 and we look forward to seeing
+
+162
+00:15:54,080 --> 00:16:00,240
+ alison archipelacon 2 thanks archipelacon 2 monkey king says that they are envious of
+
+163
+00:16:00,240 --> 00:16:04,960
+ alison going to archipelacon 2 because they went to the first one and they loved both the con and
+
+164
+00:16:04,960 --> 00:16:10,560
+ mariham so yeah I've heard this from quite a lot of people actually so people saying oh
+
+165
+00:16:10,560 --> 00:16:15,280
+ I don't think I can go but I loved the first one and people saying oh I'm really trying to get
+
+166
+00:16:15,280 --> 00:16:20,880
+ it together to go and then it's attracting a really interesting international crowd so that
+
+167
+00:16:20,880 --> 00:16:26,640
+ that's kind of cool it's very dangerous for alison though i will predict because it's i think
+
+168
+00:16:26,640 --> 00:16:32,320
+ it's very dangerous for you because my problem was I would be sitting in the bar having a nice beer
+
+169
+00:16:32,320 --> 00:16:39,440
+ awesome long drink and then realized that it was maybe 1 a.m because it just hadn't gone dark
+
+170
+00:16:39,440 --> 00:16:45,040
+ and so it had not triggered my oh maybe it is time to stop drinking and go to sleep so okay so
+
+171
+00:16:45,040 --> 00:16:50,720
+ fortunately I do not have um a flag that says maybe it's time to stop drinking and go to sleep
+
+172
+00:16:50,720 --> 00:16:56,320
+ the i mean essentially it happens for me when I fall asleep in my beer which means that which
+
+173
+00:16:56,320 --> 00:17:02,320
+ means that when the cues that should trigger that flag go away it will be even worse is my
+
+174
+00:17:02,320 --> 00:17:10,160
+ prediction you won't sleep for five days hoorah things only a three day come or four day maybe
+
+175
+00:17:10,160 --> 00:17:14,480
+ and that really illustrates how bad it is that alison won't sleep for five days Liz
+
+176
+00:17:14,480 --> 00:17:20,800
+ and then you can go and dance with the moomins on the ferry hey oh i don't think i'm gonna be on a
+
+177
+00:17:20,800 --> 00:17:26,720
+ ferry i think well i don't know we haven't done our travel yet i think i've put that in a problem for
+
+178
+00:17:26,720 --> 00:17:34,400
+ 2025 first time writer on facebook um Sheila R says Glasgow was their first wokan first convention
+
+179
+00:17:34,400 --> 00:17:39,280
+ of any sort and they cannot get over the value of money of the weekend ticket people pay more
+
+180
+00:17:39,280 --> 00:17:45,360
+ than that for one night to giggle the theater wokan gives five days of back-to-back entertainment
+
+181
+00:17:45,360 --> 00:17:49,840
+ i think that we all know that this is why we do this this is why we go to these conventions
+
+182
+00:17:49,840 --> 00:17:54,480
+ this is what they are like come to easter cod did i say that sorry i want to pick up on this which
+
+183
+00:17:54,480 --> 00:18:01,360
+ is um yeah and i think one thing we might not have made enough of in the last few months of discussing
+
+184
+00:18:01,360 --> 00:18:07,280
+ the cost of conventions is that it is very expensive to go to conventions but they are like pound for
+
+185
+00:18:07,280 --> 00:18:13,040
+ pound some of the best value entertainment you can possibly have like and we i do think we
+
+186
+00:18:13,040 --> 00:18:18,080
+ discussed the price a lot and that's probably good and wise and price is obviously a barrier and
+
+187
+00:18:18,080 --> 00:18:24,480
+ being able to afford that price is a privilege but also it is terrific value if you can afford to go
+
+188
+00:18:24,480 --> 00:18:30,560
+ like far superior to many other forms of entertainment will might pay to attend and Glasgow is especially
+
+189
+00:18:30,560 --> 00:18:36,480
+ Glasgow was very very good it was this is why i am firmly on the it is okay for easter cod to
+
+190
+00:18:36,480 --> 00:18:43,120
+ increase its membership rates side of the force and then Johnny badly said best pre-credits ever
+
+191
+00:18:43,120 --> 00:18:50,080
+ thank you Johnny my slightly damp electronic equipment thanks you it's all dry now yeah
+
+192
+00:18:50,080 --> 00:18:55,760
+ clearly you should pour coffee into your laptop um more often nope i thought it was tea was it not
+
+193
+00:18:55,760 --> 00:19:01,920
+ tea uh no um this said it was tea but it was obviously coffee it's really it's really tea
+
+194
+00:19:01,920 --> 00:19:07,840
+ round here coffee in coffee drinking hours it's often it's often like chamomile or fennel or
+
+195
+00:19:08,400 --> 00:19:13,760
+ the kursti like at ten o'clock at night before anyone writes in we appreciate those things are
+
+196
+00:19:13,760 --> 00:19:19,280
+ technically infusions and are not technically tea just to head off that lock ahead of time
+
+197
+00:19:19,280 --> 00:19:26,320
+ that's fair because i get very grumpy when people say that soil liquidized soil or liquidized
+
+198
+00:19:26,320 --> 00:19:33,040
+ almond or liquidized oats are somehow milk so you know i was not i was not going to make any
+
+199
+00:19:33,040 --> 00:19:37,440
+ suggestion that if you were listening to this pod if you were listening to a podcast and they
+
+200
+00:19:37,440 --> 00:19:43,520
+ had said that you would be the one writing in but i am not not saying that either um but yes
+
+201
+00:19:43,520 --> 00:19:49,760
+ thank you very much to Johnny big oat milk sorry i was saying big oat milk i am quite happy to call
+
+202
+00:19:49,760 --> 00:19:54,400
+ it milk if you would like to you know send me your oat milk so i will call it oat milk on the
+
+203
+00:19:54,400 --> 00:20:00,400
+ podcast as often as possible hi alla fair oh and i will get annoyed every single time hmm
+
+204
+00:20:00,400 --> 00:20:04,800
+ which is great advertising for the oat milk lobby Johnny also wrote in to say that there's an
+
+205
+00:20:04,800 --> 00:20:10,240
+ article about me in the latest issue of mostly harmless uh and i did not know this and if anyone
+
+206
+00:20:10,240 --> 00:20:13,520
+ is listening that has a pdf please could they send it to me because i would like to know what it
+
+207
+00:20:13,520 --> 00:20:20,000
+ says thank you please send it to the podcast because i also want to know what it says and also i'm mortified
+
+208
+00:20:20,000 --> 00:20:24,720
+ normally when you're writing articles about people you check with the subject to see if it's
+
+209
+00:20:24,720 --> 00:20:29,920
+ got they've got everything correct it's got much that is inaccurate or at least wildly apocryphal
+
+210
+00:20:29,920 --> 00:20:36,320
+ or is that alley baker books writes in about um about traveling as an academic
+
+211
+00:20:36,320 --> 00:20:41,840
+ the long and the straw here is yes i am very lucky alley if it makes you feel better i went all
+
+212
+00:20:41,840 --> 00:20:48,240
+ the way to the u.s for a conference and then got flew so it was not quite as glamorous as it seemed
+
+213
+00:20:48,240 --> 00:20:54,400
+ because then i spent 25 hours on plane with a very congested nose but well done to my conference
+
+214
+00:20:54,400 --> 00:20:59,120
+ which did give us all a combined flu and covid test on day one all that's partly because i think
+
+215
+00:20:59,120 --> 00:21:04,240
+ they were sponsored by a flu and covid test diagnostic test manufacturer yeah that that'll
+
+216
+00:21:04,240 --> 00:21:10,320
+ that'll help or two yeah but it worked got a little length of flu yeah easter con should also look
+
+217
+00:21:10,320 --> 00:21:17,600
+ at getting that sponsorship mmm yeah i mean might not be quite as likely like to make i don't know
+
+218
+00:21:17,600 --> 00:21:23,600
+ yeah so we heard from the chairs of the last two easter cons in addition to the chair of next year's
+
+219
+00:21:23,600 --> 00:21:30,160
+ easter con we have been very chaired um this month so we heard from caroline mullen and fara Mendelssohn
+
+220
+00:21:30,160 --> 00:21:34,640
+ far enough that they think we should move away from a model that there is such thing as too much
+
+221
+00:21:34,640 --> 00:21:39,280
+ surplus because um it's good to have surplus for easter cons and i have to say i think i agree with
+
+222
+00:21:39,280 --> 00:21:45,680
+ that and then uh far it also notes that the budget that levitation did for their membership curve
+
+223
+00:21:45,680 --> 00:21:50,640
+ assumed the same curve as the last time there was a Glasgow world con and then the membership
+
+224
+00:21:50,640 --> 00:21:56,240
+ stalled after christmas in a way that is very unusual for easter cons um and they also had problems
+
+225
+00:21:56,240 --> 00:22:03,520
+ with their tech budget so those are considerations in what happened there um caroline rights to say
+
+226
+00:22:03,520 --> 00:22:11,280
+ that conversation did in fact um budget to have a large event but they couldn't land a booking because
+
+227
+00:22:11,280 --> 00:22:17,200
+ in 2022 the touring scene was struggling when they were trying to do so and so they ended up putting
+
+228
+00:22:17,200 --> 00:22:23,360
+ that unspent money into the pass along for future conventions and so thank you very much to both
+
+229
+00:22:23,360 --> 00:22:30,560
+ of those chairs for writing in we also heard from leavin on facebook who says back to our futures
+
+230
+00:22:30,560 --> 00:22:36,480
+ was great so well done you two hey i think that the biggest compliment i can pay it is that it's
+
+231
+00:22:36,480 --> 00:22:41,680
+ made me seriously consider virtual attendance at a world con so that is uh a pretty awesome bit of
+
+232
+00:22:41,680 --> 00:22:47,840
+ feedback to get basically you are converting people to virtual cons so yeah oh and then rosanna
+
+233
+00:22:47,840 --> 00:22:54,240
+ pendleberry wrote in to say um she went to clasco as her first world con as now going to her first
+
+234
+00:22:54,240 --> 00:22:59,680
+ easter con because she really rather enjoyed that whole con thing i'm hoping to get another fix and
+
+235
+00:22:59,680 --> 00:23:06,800
+ this is this is the way join us and it anecdotally i haven't heard from andy open sure but i know this
+
+236
+00:23:06,800 --> 00:23:10,000
+ to also be true of andy where we were like you should come to a convention they came to a convention
+
+237
+00:23:10,000 --> 00:23:15,120
+ she's like where is the next convention and we're like it's coming it's coming we promise i have had
+
+238
+00:23:15,120 --> 00:23:19,600
+ several conversations with people who are coming to belfast having been at world con and this is good
+
+239
+00:23:19,600 --> 00:23:23,920
+ and i understand that we probably dragged morian if the next convention was in london but you know
+
+240
+00:23:23,920 --> 00:23:28,240
+ the next year is at the lec and that's pretty easy so we if you're going oh i'd really want to do
+
+241
+00:23:28,240 --> 00:23:33,280
+ another one but i cannot get to belfast then then it's probably going to be the nac in 2026 and i
+
+242
+00:23:33,280 --> 00:23:37,360
+ getting ahead of myself because i think that's our next topic segwaying from what rosanna says i
+
+243
+00:23:37,360 --> 00:23:41,520
+ think this is part of the legacy that glasco will leave which is reinvigorating and bringing people
+
+244
+00:23:41,520 --> 00:23:48,240
+ into uh fandom in the uk um and that's really good and obviously part of the way they're doing that
+
+245
+00:23:48,240 --> 00:23:56,640
+ is by dispersing some of their surplus funds to other conventions so i believe it is known that
+
+246
+00:23:56,640 --> 00:24:03,280
+ glasco has distributed some of their surplus to the next three easter cons or will distribute it to
+
+247
+00:24:03,280 --> 00:24:08,400
+ the next three easter con has made it is what i was told at nova con and i was not told it was secret
+
+248
+00:24:08,400 --> 00:24:14,800
+ um was that glasco had decided that to donate five thousand pounds to each of the next three
+
+249
+00:24:14,800 --> 00:24:21,600
+ easter cons to help in some ways recover the surplus the the puzzle of funds that we lost over
+
+250
+00:24:21,600 --> 00:24:27,600
+ over the pandemic and if that was secret you're gonna have to start telling us everything that is
+
+251
+00:24:27,600 --> 00:24:33,040
+ whether everything is a secret when you're at the bar no i mean i don't i don't think
+
+252
+00:24:33,520 --> 00:24:39,520
+ i don't think there was any suggestion it was it was a secret so if it was i'm very sorry i
+
+253
+00:24:39,520 --> 00:24:42,960
+ seem glasco would have done this even if there had not been a pandemic because i think one of the
+
+254
+00:24:42,960 --> 00:24:49,200
+ ways in which british world cons help british fandom is that they put money into british conventions
+
+255
+00:24:49,200 --> 00:24:55,200
+ but loncon three did not um give money to the easter cons subsequent to it because it did not
+
+256
+00:24:55,200 --> 00:25:00,400
+ make a surplus um but this is something i think most british world cons that do make a surplus do
+
+257
+00:25:00,400 --> 00:25:05,120
+ is they help out the easter cons and other ventures in the country going forward and i'm sure that
+
+258
+00:25:05,120 --> 00:25:11,440
+ there is a team of elves beavering away behind the scenes at glasco working out how they want to give
+
+259
+00:25:11,440 --> 00:25:16,880
+ the money um that they've made to british fandom and cement the glasco legacy
+
+260
+00:25:16,880 --> 00:25:27,600
+ um i want to introduce the easter con better if that's okay because i want to say i went to
+
+261
+00:25:27,600 --> 00:25:33,280
+ nova con all right yeah i went to nova con and my normal practice in nova con is to spend the
+
+262
+00:25:33,280 --> 00:25:38,640
+ entire weekend in bars um and a variety as well as the nova con bar also all the lovely bars in
+
+263
+00:25:38,640 --> 00:25:44,640
+ buxin which is a place with a lot of very nice drinking holes but i sacrificed some of my drinking
+
+264
+00:25:44,640 --> 00:25:49,440
+ time so that i could go to the future easter cons presentation at which i discovered some useful
+
+265
+00:25:49,440 --> 00:25:57,120
+ things um first that phil dyson will be bidding um for the easter con at bell first and he's going to
+
+266
+00:25:57,120 --> 00:26:04,720
+ be bidding for 26 with a bid called iridescence to be held in the hilton at the nes which of course
+
+267
+00:26:04,720 --> 00:26:11,920
+ we went to in 2023 and has many virtues none of which are its immediate environment they've got a
+
+268
+00:26:11,920 --> 00:26:16,880
+ deal it's going to be they can do it i'm very much looking forward to going back for a convention
+
+269
+00:26:16,880 --> 00:26:21,600
+ that i am not on the commissive for so do you guys have anything to say about 26 or should i move
+
+270
+00:26:21,600 --> 00:26:28,560
+ on to 27 26 sounds good i will probably go i'm quite happy to go back to Birmingham i quite like
+
+271
+00:26:28,560 --> 00:26:34,560
+ as a venue and it seems like it is relatively easy travel wise and there are alternative hotels
+
+272
+00:26:34,560 --> 00:26:38,720
+ in the vicinity it is just a bit of a slow to get to anything but it's a lot better now they've
+
+273
+00:26:38,720 --> 00:26:45,120
+ built that um what's it called train airport hotel no that big shopping center thing with loads
+
+274
+00:26:45,120 --> 00:26:49,840
+ of restaurants in oh yeah the shopping center made a big difference yeah yeah the first time i went
+
+275
+00:26:49,840 --> 00:26:54,880
+ to an east con i know i'm going to sound really old here was back on 87 and it was absolutely in
+
+276
+00:26:54,880 --> 00:26:58,800
+ the middle of a wasteland we were told there were plenty of food and drink spots at the nes but they
+
+277
+00:26:58,800 --> 00:27:05,760
+ were all closed resort world that's his name it's good it has a nambo's and the five guys i mean i
+
+278
+00:27:05,760 --> 00:27:11,200
+ wouldn't go there as like a holiday in resort would you but i mean it's got shops and stuff no but
+
+279
+00:27:11,200 --> 00:27:15,760
+ for a convention it's great i really like five guys i know i shouldn't but there's something about
+
+280
+00:27:15,760 --> 00:27:21,040
+ that sort of burger that's just like oh this is what fast food should be like five guys are
+
+281
+00:27:21,040 --> 00:27:26,880
+ immense i will hear nothing against them i had one on friday yeah no 2026 sounds good
+
+282
+00:27:26,880 --> 00:27:32,240
+ allen flummying and david bamford announced that they are going to bid for Glasgow for 2027 and
+
+283
+00:27:32,240 --> 00:27:36,960
+ mark meanen in the bar was like i'm definitely going to find them a site they have they're looking
+
+284
+00:27:36,960 --> 00:27:41,760
+ up for hotels they are very confident they have a site you know that that one of those four will
+
+285
+00:27:41,760 --> 00:27:47,760
+ will deliver what they need and mark is helping them get the negotiation landed and i'm quite
+
+286
+00:27:47,760 --> 00:27:52,480
+ excited about going back to Glasgow for the east con because it has been a while um the last one
+
+287
+00:27:52,480 --> 00:27:58,560
+ was satellite for mm-hmm it was i have heard some rumors about 2028 i have heard a couple of different
+
+288
+00:27:58,560 --> 00:28:05,520
+ names in the frame for 2028 and i've also heard a site in the frame for 2828 which is the sage
+
+289
+00:28:05,520 --> 00:28:12,240
+ gates head um and i guess it's going to get it because the old sage has got a new name gloss
+
+290
+00:28:12,240 --> 00:28:19,120
+ house and then there's the new sage where phil dices said yeah they really wanted just to come
+
+291
+00:28:19,120 --> 00:28:25,520
+ there for 2026 and they haven't actually broken ground yet so that's a really bad idea so hopefully
+
+292
+00:28:25,520 --> 00:28:30,000
+ it'll get built at some point and then and then we might have a look at that so i'd quite like to go
+
+293
+00:28:30,000 --> 00:28:36,480
+ to gate said because i i kind of like new castle and gate said is kind of easy to get to and yeah
+
+294
+00:28:36,480 --> 00:28:42,800
+ it would be good i will say it would be interesting for um comrunners to look at new castle gates head
+
+295
+00:28:42,800 --> 00:28:47,920
+ without coming to talk to the new castle first there's a group and having a chat with us um so
+
+296
+00:28:47,920 --> 00:28:52,080
+ like you know if you are looking at these venues and you haven't come and said hello i would i would
+
+297
+00:28:52,080 --> 00:28:57,600
+ recommend coming to say hello uh there's a facebook group and a mailing list novicon was a great
+
+298
+00:28:57,600 --> 00:29:02,320
+ success and i really had a good time and they have announced that next year they will be back in the
+
+299
+00:29:02,320 --> 00:29:06,640
+ buxdon palace which is a hotel i really like indeed because i very much do because i really
+
+300
+00:29:06,640 --> 00:29:11,520
+ like being in a city center and although buxdon is not very big it has the things i want in a city
+
+301
+00:29:11,520 --> 00:29:16,640
+ center which is a lot of nice restaurants and bars and it's you've got beautiful scenery as well so
+
+302
+00:29:16,640 --> 00:29:22,240
+ you feel like you're in the fresh air in a nice place um as long as you leave the hotel um and their
+
+303
+00:29:22,240 --> 00:29:27,360
+ guest of honor next year is emily tesh which i think is a great shout i think a lot of people thought
+
+304
+00:29:27,360 --> 00:29:33,360
+ it was a great shout and their head of program next year is estan bakalam stewart and i was like
+
+305
+00:29:33,360 --> 00:29:39,280
+ oh i suppose you are in the middle and so aren't you it will be interesting to see how esta balances
+
+306
+00:29:39,280 --> 00:29:45,840
+ program from overcon and being the deputy administrator for the hugos at seattle and still being the
+
+307
+00:29:45,840 --> 00:29:51,840
+ chair of a world con that's dispersing funds and running comrunner all in a year that that is an
+
+308
+00:29:51,840 --> 00:29:57,680
+ adventurous schedulista i wish you the very best of luck i i think she'd say it's not going to be
+
+309
+00:29:57,680 --> 00:30:04,400
+ anything like as um hard as running the ct d's to con i worked on the east con seated world con
+
+310
+00:30:04,400 --> 00:30:08,640
+ with somebody who had just come off a world con and they've been on a world con committee and i was
+
+311
+00:30:08,640 --> 00:30:13,760
+ like i assure you you want to be doing the east con so soon he was like oh it's like a rest cure and
+
+312
+00:30:13,760 --> 00:30:18,240
+ i think that was steve coopers view on running the east con after being a world con chair was that it
+
+313
+00:30:18,240 --> 00:30:22,480
+ was it was just like falling off a log compared to the difficulty of running a world con which i
+
+314
+00:30:22,480 --> 00:30:29,520
+ can easily believe um but yes emo esta who is a busy woman is also going to be running um conrunner
+
+315
+00:30:29,520 --> 00:30:36,240
+ in 2026 february 2026 conrunner is the kind of british equivalent of smoth con british european
+
+316
+00:30:36,240 --> 00:30:39,680
+ i think she would probably say but it's all it's been britainal ways and i'm sure it will be this
+
+317
+00:30:39,680 --> 00:30:45,440
+ time as well um and conners are great fun and if you have any interest in conrunning at all or indeed
+
+318
+00:30:45,440 --> 00:30:50,400
+ if you like to hang out in a bar with conrunners then i would strongly recommend conrunner great con
+
+319
+00:30:50,400 --> 00:30:56,880
+ do we know where it's going to be uh no somewhere i mean i was like the palace hotel buxton looks
+
+320
+00:30:56,880 --> 00:31:00,640
+ like exactly the right size for what you're trying to do what did they have the last one
+
+321
+00:31:00,640 --> 00:31:04,800
+ i'm sure i went to the last one but i've now completely forgotten where it was but it was
+
+322
+00:31:04,800 --> 00:31:10,240
+ somewhere quite nice i thought it was in that awful hotel in stevenage correct me if i'm wrong
+
+323
+00:31:10,240 --> 00:31:14,880
+ might have been wrong about that maybe or maybe i really did have a good time in stevenage
+
+324
+00:31:14,880 --> 00:31:19,600
+ well i was probably under like some kind of conrunning delusion or something it was 2027 so
+
+325
+00:31:19,600 --> 00:31:26,560
+ it's been a was it's supposed to be in a conrunner i'm reading a magnificent um round up from an
+
+326
+00:31:26,560 --> 00:31:31,360
+ extremely thorough roundup from mochine which does not appear to say where it was
+
+327
+00:31:31,360 --> 00:31:39,200
+ ah if you remember where conrunner was please write inlessness oh nothing um
+
+328
+00:31:39,200 --> 00:31:44,320
+ notting them nothing at the park i would actually go to my team and get probably at the park yes
+
+329
+00:31:44,320 --> 00:31:50,320
+ that sounds more like it so basically yes hold it at the nouvere con venue esta that's the tradition
+
+330
+00:31:50,320 --> 00:31:55,440
+ please i mean if i was going to vote i would vote against that please no oh it's improved
+
+331
+00:31:55,440 --> 00:32:00,400
+ actually they keep they're refurbishing it it's getting better it's better i probably will go to
+
+332
+00:32:00,400 --> 00:32:06,320
+ nova con because emily tesh sounds good i don't go to every nova con but i go to nova cons if i'm
+
+333
+00:32:06,320 --> 00:32:11,280
+ not going to a world con and if the program sounds great and if the guests of honor sounds
+
+334
+00:32:11,280 --> 00:32:16,320
+ particularly my kind of thing and i think the next nova con fulfills some or all of those
+
+335
+00:32:16,320 --> 00:32:20,240
+ briefs so i think i probably want to go to that two different people came up to me and over con
+
+336
+00:32:20,240 --> 00:32:25,680
+ and said oh i want to run a little online con on a very niche topic john put something in the
+
+337
+00:32:25,680 --> 00:32:31,760
+ show notes that i hadn't otherwise seen and was quite interested in so well done john hey
+
+338
+00:32:32,560 --> 00:32:40,320
+ he has put in a note that wiskon 2025 is going to be online and wiskon is the um feminist
+
+339
+00:32:40,320 --> 00:32:45,840
+ sf convention that has been running every year in wisconsin for many years and i think this is
+
+340
+00:32:45,840 --> 00:32:50,160
+ their second consecutive year when they've basically gone online i think last year was a
+
+341
+00:32:50,160 --> 00:32:54,640
+ planned we're going to go online and do it virtually to let everyone kind of recover a bit and then
+
+342
+00:32:54,640 --> 00:32:59,120
+ 2025 appears to be a we are doing it online because we don't have the volunteers to run an offline
+
+343
+00:32:59,120 --> 00:33:05,200
+ con i'm going to be very interested to see if this kind of regenerates it for future years or if this
+
+344
+00:33:05,200 --> 00:33:10,720
+ is sort of the the end of wiskons which would be a little bit a little bit strange they've been
+
+345
+00:33:10,720 --> 00:33:15,040
+ running for a long time they've been running in the same venue i went quite a few years ago but
+
+346
+00:33:15,040 --> 00:33:19,600
+ it was like a thousand person con but i guess if you don't have the people who are willing to
+
+347
+00:33:19,600 --> 00:33:24,640
+ be involved in running it you know the people don't have the the time or the energy to do that then
+
+348
+00:33:24,640 --> 00:33:30,880
+ yeah you have to try going online and then if you can't get people then you fold i guess i just sort
+
+349
+00:33:30,880 --> 00:33:37,200
+ of always thought of it as a kind of fixture of the concert even though i didn't go so yeah but it's
+
+350
+00:33:37,200 --> 00:33:42,400
+ an interesting contrast to i was saying here is the 2026 easter gone beers in 2027 and here in the
+
+351
+00:33:42,400 --> 00:33:48,560
+ room is for 2028 um it fortunately does not appear easter gone by going that way uh we've just had a
+
+352
+00:33:48,560 --> 00:33:54,160
+ local world con which as we know bob as long as it doesn't burn everybody out is extremely good for
+
+353
+00:33:54,160 --> 00:33:58,880
+ generating enthusiasm among the community for more of this sort of i think if it hadn't been for
+
+354
+00:33:58,880 --> 00:34:03,360
+ Glasgow 2024 we would in fact be we i mean we would still be managing to make use to cons happen but
+
+355
+00:34:03,360 --> 00:34:09,200
+ we might be having some of the conversations about shrinking them changing their focus that sort of
+
+356
+00:34:09,200 --> 00:34:12,960
+ thing that other places have done when it's become hard to get volunteers but we have lots of young
+
+357
+00:34:12,960 --> 00:34:16,640
+ people it's very good Glasgow had lots of young people at it that was also very good and by young
+
+358
+00:34:16,640 --> 00:34:23,520
+ i mean under 50 where yes so what we i guess need is a wiskonsin world con aisles to
+
+359
+00:34:23,520 --> 00:34:30,240
+ bump up those volunteer numbers in wisconsin i know or minneapolis yeah in minnesota you know
+
+360
+00:34:30,240 --> 00:34:34,880
+ some midwestern world con is what they need a wimpy zone will con i'd fucking love a minneapolis
+
+361
+00:34:34,880 --> 00:34:40,240
+ world con and i'd quite like it to happen before 2073 and for listeners who don't understand why i
+
+362
+00:34:40,240 --> 00:34:45,680
+ say that there is an extant world con bid for minneapolis in 2073 which has been going since
+
+363
+00:34:45,680 --> 00:34:52,720
+ minneapolis did not win in 1973 and that joke gets less funny with every passing year presumably
+
+364
+00:34:52,720 --> 00:34:58,480
+ as uh 2073 gets ever closer oh they they've been serious for a few years now they are planning
+
+365
+00:34:58,480 --> 00:35:03,760
+ to run it in 2073 and they're not planning to run it before that but you know you could do it in
+
+366
+00:35:03,760 --> 00:35:09,200
+ like 2033 or something that'd be good but yeah wiskons do specifically say like they don't have
+
+367
+00:35:09,200 --> 00:35:14,880
+ enough volunteers to run in person so lizz is like um thing about they just yeah i hope that they
+
+368
+00:35:14,880 --> 00:35:19,040
+ continue but they need the people i mean you think with minneapolis is they already have a world
+
+369
+00:35:19,040 --> 00:35:23,840
+ con sized convention which happens annually in minneapolis so yeah why would you have a world con
+
+370
+00:35:23,840 --> 00:35:29,680
+ i don't think they do anymore do they minicon shrunk a lot not minicon convergence what
+
+371
+00:35:29,680 --> 00:35:34,560
+ oh convergence yeah no no well convert why does convergence not generate people who would like to
+
+372
+00:35:34,560 --> 00:35:38,640
+ run a wiskon i don't know because they run in convergence one of the one of the things that world
+
+373
+00:35:38,640 --> 00:35:44,240
+ con does is it recruits a lot of people and then it goes away again oh yes that's true if you if you
+
+374
+00:35:44,240 --> 00:35:48,880
+ if you if you had done glasco in the next year you were doing the same thing in glasco again all
+
+375
+00:35:48,880 --> 00:35:52,400
+ the people who had just worked on glasco would be working on the next glasco they wouldn't be going
+
+376
+00:35:52,400 --> 00:35:58,080
+ into the community working on other stuff because they'd be busy so yeah non-traveling conventions do
+
+377
+00:35:58,080 --> 00:36:03,280
+ less to invigorate local fandom uh in the sense that they probably invigorate a lot of local
+
+378
+00:36:03,280 --> 00:36:07,440
+ fandom but then they invigorate it in a very specific direction i don't know historically how
+
+379
+00:36:07,440 --> 00:36:14,000
+ much of the wiskon convention committee was actually local um to Wisconsin and how many
+
+380
+00:36:14,000 --> 00:36:18,720
+ were people who came every year because this was kind of the big feminist f-compention well i might
+
+381
+00:36:18,720 --> 00:36:22,880
+ just say emminton has a website now we're not going to talk about it in much detail but we will link
+
+382
+00:36:22,880 --> 00:36:27,360
+ in the show notes or we will probably talk about it on future episodes almost certainly that includes
+
+383
+00:36:27,360 --> 00:36:31,280
+ a list of the people who are working on emminton which is quite nice to have it's my favorite thing
+
+384
+00:36:31,280 --> 00:36:35,920
+ about bid websites i know some of these people unlike them i do not know most of the people that's
+
+385
+00:36:35,920 --> 00:36:39,680
+ probably fine at this stage and she knows some of them and dislikes them but we're not going to tell
+
+386
+00:36:39,680 --> 00:36:46,320
+ you which we have a little real world thing this week which is kind of a psa which is that loyds
+
+387
+00:36:46,320 --> 00:36:51,120
+ are introducing monthly charges of four pounds twenty five on community bank accounts many
+
+388
+00:36:51,120 --> 00:36:56,080
+ fannish bank accounts have this and i think if you've got an active one you probably already know
+
+389
+00:36:56,080 --> 00:36:59,600
+ this and you're probably already thinking about what you might do about it the charge of four
+
+390
+00:36:59,600 --> 00:37:03,680
+ pounds twenty five is not very much compared to kind of the cost of putting on an easter con say
+
+391
+00:37:03,680 --> 00:37:09,120
+ um the people it really matters for is if you're sitting with a small bank account that's got some
+
+392
+00:37:09,120 --> 00:37:14,880
+ funds from a thing you did ten years ago or even longer then these charges will eat that all up
+
+393
+00:37:14,880 --> 00:37:20,080
+ so you should probably go and have a look and change your bank account or close it if you don't
+
+394
+00:37:20,080 --> 00:37:27,440
+ need it um yeah it's a bit it's a bit of pain yeah wonderful person of our parish claire brawley
+
+395
+00:37:27,440 --> 00:37:32,320
+ has done quite a lot of work on looking at all of the alternatives so if if somebody's like out there
+
+396
+00:37:32,320 --> 00:37:37,680
+ going i don't know what i might do about this then get in touch and we'll put you in touch with claire
+
+397
+00:37:37,680 --> 00:37:41,840
+ indeed we will um she won't like that or i will maybe pass on some of the information that claire
+
+398
+00:37:41,840 --> 00:37:43,520
+ has found but it is a bit of a pain
+
+399
+00:37:43,520 --> 00:37:56,480
+ shall we do picks so i have a pick that is a steam game that is technically an early access
+
+400
+00:37:56,480 --> 00:38:02,400
+ but we'll have its 1.0 release the day this podcast drops so if you've been waiting for the 1.0 of
+
+401
+00:38:02,400 --> 00:38:08,720
+ caves of cudd you can i assume that's how you pronounce qud you can go and get it on
+
+402
+00:38:08,720 --> 00:38:14,320
+ thursday in the 1.0 but actually it's been around for a decade but i only just recently started playing
+
+403
+00:38:14,320 --> 00:38:20,320
+ it they've described it as a science fantasy rogue-like epic steeped in retrofuturism deep
+
+404
+00:38:20,320 --> 00:38:27,840
+ simulation and of swathes of sentient plants and it's kind of a lot of it is procedurally generated
+
+405
+00:38:27,840 --> 00:38:34,080
+ but actually there's quite a lot of underlying lore and plot so it is kind of like a giant
+
+406
+00:38:34,080 --> 00:38:42,640
+ open world fantasy epic game but also it's kind of like an asky rogue like it has graphics but they're
+
+407
+00:38:42,640 --> 00:38:50,320
+ they're little tiny little 16 by 16 pixel type graphics i love it it's so good
+
+408
+00:38:50,320 --> 00:38:56,320
+ it is the only reason it hasn't eaten my life is that i drag myself away from it periodically to do
+
+409
+00:38:56,320 --> 00:39:02,240
+ other things i keep dying there's a as well as the kind of proper rogue like permadeath
+
+410
+00:39:02,240 --> 00:39:07,680
+ approach to it you can also set it up so you play it like an rpg and when you die you respawn
+
+411
+00:39:07,680 --> 00:39:14,000
+ in the last town you were in so that might work and there's also a mode where you just wander
+
+412
+00:39:14,000 --> 00:39:19,600
+ around and nothing kills you very much so that you can make progress but i kind of like the kind
+
+413
+00:39:19,600 --> 00:39:25,920
+ of stabby version it's kind of in a post-apocalyptic world but it is it is much deeper than you might
+
+414
+00:39:25,920 --> 00:39:34,080
+ expect and it is doing much more with with lore than is normal for a procedurally generated game
+
+415
+00:39:34,080 --> 00:39:39,280
+ and i just want to say go and play it it's going to be on me hugo valet because it is getting its
+
+416
+00:39:39,280 --> 00:39:44,160
+ 1.0 release so clearly it is eligible for 2025 and for those of you who've been out there saying
+
+417
+00:39:44,160 --> 00:39:50,400
+ well i've been playing it since 2030 or something well yeah no i know that's true but it's new and
+
+418
+00:39:50,400 --> 00:39:58,880
+ old at the same time way sounds good and and like many rogue likes um amazing things happen to you
+
+419
+00:39:58,880 --> 00:40:07,120
+ so you find you're in alliance with sentient worms and and meanwhile um and you get you get
+
+420
+00:40:07,120 --> 00:40:14,080
+ artifacts that cause everybody to turn into goo which you know there's all sorts of all sorts of
+
+421
+00:40:14,080 --> 00:40:20,320
+ bizarre things happen to you in this game every game nice i will put it on my steam wish list
+
+422
+00:40:20,320 --> 00:40:27,440
+ it's also on itch.io and gog we will have links in the show notes listeners and it costs £24
+
+423
+00:40:27,440 --> 00:40:34,400
+ and £99 but obviously if what you like in your life is huge 3d graphics then it is not for you
+
+424
+00:40:34,400 --> 00:40:40,720
+ because it's really it is a game of alasky road like sense even though it's not actually using
+
+425
+00:40:40,720 --> 00:40:46,960
+ asky as using it's using graphical bits i am also going to pick a game and i am also going to pick
+
+426
+00:40:46,960 --> 00:40:51,920
+ a game that came out quite a while ago in a early access equivalent and has had its first
+
+427
+00:40:51,920 --> 00:40:58,240
+ edition this year and i am going to pick mothership mothership is a science fiction horror role playing
+
+428
+00:40:58,240 --> 00:41:05,040
+ game it is a tabletop role playing game not a video role playing game yeah so it came out in kind of
+
+429
+00:41:05,040 --> 00:41:12,720
+ early 2024 in the first edition and i have been playing it lately and it's very very good
+
+430
+00:41:12,720 --> 00:41:19,840
+ it's a very simple system which does a very good job of establishing how GMs should GM and players
+
+431
+00:41:19,840 --> 00:41:25,840
+ should play through it's quite small and snappy um rule books and i'm really impressed with it and
+
+432
+00:41:25,840 --> 00:41:34,080
+ i'm really enjoying um running it for some friends when i do and there's so much content for it available
+
+433
+00:41:34,080 --> 00:41:40,320
+ kind of online through the um like the community doing third party material and that's something
+
+434
+00:41:40,320 --> 00:41:45,360
+ that the developers Tuesday night games have really embraced and that's part of what makes it so
+
+435
+00:41:45,360 --> 00:41:52,240
+ wonderful um but yeah it's very lovely very lovely very well done game and it's published by Tuesday
+
+436
+00:41:52,240 --> 00:41:57,920
+ night games and i think Liz is familiar with two rooms in a boom um but Tuesday night games were
+
+437
+00:41:57,920 --> 00:42:02,640
+ the publishers of two rooms in a boom and they are also the upcoming publishers of uh were wolf in
+
+438
+00:42:02,640 --> 00:42:07,920
+ the dark um so they make some they make some neat games generally um but yeah mothership's really
+
+439
+00:42:07,920 --> 00:42:13,440
+ good and thank you very much to laurie anderson and kevin anderson of the hugo girl podcast for
+
+440
+00:42:13,440 --> 00:42:20,080
+ bringing me my mothership box to Glasgow because yeah that was very lovely of them tying into that
+
+441
+00:42:20,080 --> 00:42:25,760
+ is currently mothership month which means on back a kit there's a bunch of mothership crowd
+
+442
+00:42:25,760 --> 00:42:31,280
+ funding happening right now and you can go and get your grubby mitts on loads of different products
+
+443
+00:42:31,280 --> 00:42:36,960
+ and by the time uh you listen to this there will be i think probably four or five days left on that
+
+444
+00:42:36,960 --> 00:42:46,320
+ crowd funding experience um i have perhaps back to an unwise number of campaigns um but i have no
+
+445
+00:42:46,320 --> 00:42:51,440
+ regrets mhm lizzy you're gonna pick something like a book or are you also going to pick a game
+
+446
+00:42:51,440 --> 00:42:56,880
+ now well that's it now since you've both picked games i'm gonna pick a game just so we all match
+
+447
+00:42:57,440 --> 00:43:03,600
+ yes i wasn't going to pick this game because i picked the precursor game not that long ago um as
+
+448
+00:43:03,600 --> 00:43:09,920
+ one of my picks but i will pick rise of the golden idol which is a sequel to curse of the golden idol
+
+449
+00:43:09,920 --> 00:43:16,400
+ it is another excellent little puzzle game which you can play on multiple platforms you can also
+
+450
+00:43:16,400 --> 00:43:22,800
+ play it through netflix if you have netflix and basically did you like curse the golden idol then
+
+451
+00:43:22,800 --> 00:43:26,960
+ you'll probably very much like rise a golden idol which is the same except i like the graphic style
+
+452
+00:43:26,960 --> 00:43:30,800
+ a little bit better i think it's a little bit clearer on smaller screens and i think it's
+
+453
+00:43:30,800 --> 00:43:37,520
+ um there were some puzzles in the expansions for curse of golden idol which were really like i
+
+454
+00:43:37,520 --> 00:43:43,360
+ could not could not get through them i had to get some hints whereas this one um i think everything
+
+455
+00:43:43,360 --> 00:43:47,360
+ was kind of at the right difficulty level there was only one bit where i got stuck and then when i
+
+456
+00:43:47,360 --> 00:43:52,240
+ got a hint i was like oh fine that's what you meant kind of moment but basically they're just
+
+457
+00:43:52,240 --> 00:43:57,200
+ they're just satisfying and i had them on my phone and kept kind of poking away at them for five or
+
+458
+00:43:57,200 --> 00:44:01,040
+ ten minutes and like unlocking another little bit of the puzzle and then putting it away and trying
+
+459
+00:44:01,040 --> 00:44:07,120
+ again and then i basically went through like the last final bit in like three hours one night and
+
+460
+00:44:07,120 --> 00:44:13,120
+ had a lovely time hmm that sounds good i have not played the first one yet but it is on the list
+
+461
+00:44:13,120 --> 00:44:20,160
+ it's on my phone i also thought it was pretty great that right after i bought a playstation 5 i decided
+
+462
+00:44:20,160 --> 00:44:26,160
+ to play a tiny adventure game on my phone this is this is why i do not yet have a playstation 5
+
+463
+00:44:26,160 --> 00:44:33,440
+ i actually the the reason the proper reason i have not um played your pick from tovah week is that i
+
+464
+00:44:33,440 --> 00:44:39,200
+ almost never play games on my phone or on my computer i almost always play them on playstation
+
+465
+00:44:39,200 --> 00:44:45,680
+ or switch so maybe i should look up to see whether these games are on consoles i'm pretty sure golden
+
+466
+00:44:45,680 --> 00:44:51,920
+ idling on switch golden island is on switch um i don't know if it's via netflix on switch or
+
+467
+00:44:51,920 --> 00:44:57,600
+ don't think so i think you have to get it life on that was the ott thought podcast and it's a good
+
+468
+00:44:57,600 --> 00:45:13,520
+ bye for me it's goodbye from me and it's goodbye from me
+
+469
+00:45:22,240 --> 00:45:27,520
+ it's an interesting interesting psychology there right i don't want to buy it for money on a platform
+
+470
+00:45:27,520 --> 00:45:30,800
+ because i could play it for free but the thing i can play it for free on is the thing i never
+
+471
+00:45:30,800 --> 00:45:36,880
+ play games on so therefore i don't play it and i'm like this is this is old psychology this is poor
+
+472
+00:45:36,880 --> 00:45:41,680
+ psychology you know i understand why people do it but but there are lots of times for example do you
+
+473
+00:45:41,680 --> 00:45:47,760
+ ever buy a coffee in a cafe rather than going oh no if i was a tome i could just make myself a cup of
+
+474
+00:45:47,760 --> 00:45:52,160
+ coffee but i'm not a tome so i would have to buy a cup of coffee in this cafe and i don't do that
+
+475
+00:45:52,160 --> 00:45:58,960
+ because i could be at home making coffee so you buy things this is this is a terrible analogy
+
+476
+00:45:58,960 --> 00:46:03,760
+ no it's not it's exactly the same thing the point is it's convenient for you to have it on the switch
+
+477
+00:46:03,760 --> 00:46:09,200
+ or your ps5 so you buy it rather than playing it for free on the thing that it's free on but the
+
+478
+00:46:09,200 --> 00:46:14,640
+ thing is that when i am playing on my ps5 my phone is in my pocket if i was in a cafe and i had brought
+
+479
+00:46:14,640 --> 00:46:18,080
+ with me a coffee that i had made at home i would drink the coffee from home and they would throw
+
+480
+00:46:18,080 --> 00:46:23,200
+ me out the cafe that's where i'm at in this analogy do you ever get takeaway food because your kitchen
+
+481
+00:46:23,200 --> 00:46:28,160
+ is right there in your house i get takeaway food i couldn't make i couldn't make as well as i can at
+
+482
+00:46:28,160 --> 00:46:33,360
+ home but they're identical games us and i also sometimes pay for Netflix instead of watching
+
+483
+00:46:33,360 --> 00:46:39,600
+ aspania do interpretive dance my point i think is that this analogy is limited i have a better
+
+484
+00:46:39,600 --> 00:46:46,240
+ analogy but first can i pay to see aspania do interpretive dance uh aspania please write in i think
+
+485
+00:46:46,240 --> 00:46:51,520
+ about analogy is when i own a book on paper and then i buy it on kindle so it's easier for me to
+
+486
+00:46:51,520 --> 00:46:55,920
+ cart about with me on my kindle the preferred reading experience for me which i have done see i
+
+487
+00:46:55,920 --> 00:47:00,960
+ don't i don't do that i just take the book with yeah but what if it's really big i mean i'm reading
+
+488
+00:47:00,960 --> 00:47:05,840
+ the book of love by kelly link and it is really big at eliz but i am still ready to get on dead tree
+
+489
+00:47:05,840 --> 00:47:12,800
+ oh yeah yeah i read that on the kindle it's fair i was going to say i guess you're reading a lot of
+
+490
+00:47:12,800 --> 00:47:19,120
+ paper books still yes john at the moment for sure i do quite like paper books i basically like books
+
+491
+00:47:19,120 --> 00:47:25,920
+ i am not quite as militant as some are in this i just like books and i don't really care what format
+
+492
+00:47:25,920 --> 00:47:31,040
+ they're in yeah i mean i did buy i have bought handbags specifically because they are the correct
+
+493
+00:47:31,040 --> 00:47:36,800
+ size to fit all minus s season including a kindle the theme music for this episode was
+
+494
+00:47:36,800 --> 00:47:43,920
+ fanfare for space by kevin mccloud in comfatec.com used under a creative commons attribution 4.0 license
+
+495
+00:47:43,920 --> 00:47:47,680
+ this podcast will end at the beep beep
+
+496
+00:47:47,680 --> 00:47:48,660
+ Thank you.
+
