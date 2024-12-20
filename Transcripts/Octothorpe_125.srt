@@ -1,0 +1,2140 @@
+1
+00:00:00,000 --> 00:00:11,120
+ [Music]
+
+2
+00:00:11,120 --> 00:00:19,280
+ Hello everyone and welcome to the very 125th episode of Octothorpe, a podcast for science fiction and
+
+3
+00:00:19,280 --> 00:00:24,960
+ science fiction fandom which is coming to you with a twinkle in its eye and a Christmassy
+
+4
+00:00:24,960 --> 00:00:33,600
+ Ho Ho Ho on the 19th of December 2024. I'm John Coxon, I'm Alison Scott and I'm Liz Batty.
+
+5
+00:00:33,600 --> 00:00:41,840
+ Ho Ho Ho. I was going to say Bar Humbug. I just want to have it noted that John instructed us all to
+
+6
+00:00:41,840 --> 00:00:46,800
+ come wearing our Christmas hats to record this episode and I brought a wide variety of festive
+
+7
+00:00:46,800 --> 00:00:51,040
+ Christmas hats and they're discovered that they do not fit properly over my headphones and then
+
+8
+00:00:51,040 --> 00:00:56,720
+ I discover that neither of the other two have bothered. I meant it metaphorically. John's not the boss
+
+9
+00:00:56,720 --> 00:01:02,560
+ of me, I'm not wearing a hat just because he insists on it. I didn't insist it was a metaphor.
+
+10
+00:01:02,560 --> 00:01:08,080
+ If you've said it, if you've meant it metaphorically you should have said metaphorical Christmas hats
+
+11
+00:01:08,080 --> 00:01:12,640
+ not maybe get the box of hat Christmas hats down from the high shelf which is something that I
+
+12
+00:01:12,640 --> 00:01:19,920
+ am not skilled in. I had to get a Christmas hat getting down helper elf. I see. I am sorry, I did
+
+13
+00:01:19,920 --> 00:01:27,760
+ not bring a Christmas hat to the conference I've had so I can only apologize.
+
+14
+00:01:27,760 --> 00:01:34,640
+ Alison waving Christmas hats at the screen is not a good podcast activity.
+
+15
+00:01:34,640 --> 00:01:41,840
+ Is that a Christmas hat or is it just a moose hat? It's a moose hat. A moose inherently Christmassy?
+
+16
+00:01:41,840 --> 00:01:47,440
+ I mean if you do want an art prompt then just draw the three of us wearing a variety of Christmas
+
+17
+00:01:47,440 --> 00:01:54,720
+ hats perched on headphones. 100% done. And with that out of the way it's time for letters of comment.
+
+18
+00:01:54,720 --> 00:02:04,880
+ Who would like to introduce the first one? We heard from Chris Garcia. Hi Chris. He is a tolerant man
+
+19
+00:02:04,880 --> 00:02:10,320
+ but he can't hold with anyone saying the best GTA game isn't either San Andreas or Vice City.
+
+20
+00:02:10,320 --> 00:02:15,360
+ I knew this was going to cause trouble. Definitely not. I knew this was going to cause trouble.
+
+21
+00:02:15,360 --> 00:02:22,880
+ You started it. I've already made my opinions on these clear. Speaking of dimensions by the way
+
+22
+00:02:22,880 --> 00:02:30,240
+ I've been playing Monument Valley 3. Which is more Monument Valley. Did you like one and two?
+
+23
+00:02:30,240 --> 00:02:36,160
+ You were like more of the same. Yeah. Yes. Fair. I like one and then I thought well two is just the
+
+24
+00:02:36,160 --> 00:02:44,640
+ same as one really. Yeah there's more of it. This is on topic for the on brand for me. Chris also says
+
+25
+00:02:44,640 --> 00:02:50,080
+ he thinks having a treasurer who is also a co-chair makes sense especially to make sure there is not
+
+26
+00:02:50,080 --> 00:02:55,360
+ kind of a distance where the treasurer is siloed off and the chairs are not aware of issues which is
+
+27
+00:02:55,360 --> 00:02:59,360
+ also a good point. You just have to make sure that there are other people raining in if you have
+
+28
+00:02:59,360 --> 00:03:04,560
+ a chair treasurer who likes to spend your cash. Yes. And also he agrees with me that coconut and almond
+
+29
+00:03:04,560 --> 00:03:10,240
+ milk are clearly milks. Trees are evolutionarily older than cows. I was listening to the Beef and
+
+30
+00:03:10,240 --> 00:03:17,760
+ Dairy Network podcast as one was talking about leaf milk which is where you take the liquid off the
+
+31
+00:03:17,760 --> 00:03:25,280
+ leaves and it's very hydrating and that was pleasantly stupid. That's water isn't it? That is indeed
+
+32
+00:03:25,280 --> 00:03:32,160
+ the joke. Yes. And Laurie did also comment I'm going to ask for liquidized oats next time she
+
+33
+00:03:32,160 --> 00:03:37,280
+ orders her coffee. Bet it's on what happens. I think they'll ask me to leave. Laurie please
+
+34
+00:03:37,280 --> 00:03:46,080
+ report back. We also heard from Raj on Mastodon where he said he's looking forward to reconnect but
+
+35
+00:03:46,080 --> 00:03:50,000
+ he probably wouldn't have bothered if it wasn't the first Northern Ireland EasterCon so he thought
+
+36
+00:03:50,000 --> 00:03:55,120
+ it feels he has to support it. So that's an interesting one right like I go to every EasterCon.
+
+37
+00:03:55,120 --> 00:04:00,080
+ I think there are more people who would go to the convention straight after a WorldCon that
+
+38
+00:04:00,080 --> 00:04:04,960
+ wouldn't but then he also notes that there will be hopefully two Glasgow cons in as many years
+
+39
+00:04:04,960 --> 00:04:09,200
+ because there will be satellite 9 and the 2027 EasterCon bit and that means he's going to more
+
+40
+00:04:09,200 --> 00:04:16,080
+ cons in a few years than the whole of the last decade and yay conventions. There are also conventions
+
+41
+00:04:16,080 --> 00:04:22,560
+ outside of Northern Ireland and Glasgow, Raj which are also available. Conventions right in.
+
+42
+00:04:22,560 --> 00:04:31,920
+ Indeed. I mean that sounds good to me because I don't think I have met Raj in person. No. Were
+
+43
+00:04:31,920 --> 00:04:40,400
+ you at satellite 8? No. And Raj got Covid at WorldCon. Yes. So yeah no you wouldn't have done.
+
+44
+00:04:40,400 --> 00:04:46,960
+ So reconnect. Raj say hi. Yes. Yeah definitely Raj. But it's a false
+
+45
+00:04:46,960 --> 00:04:51,680
+ what's name isn't it? Because you're not reconnecting you're just connecting. Is that allowed?
+
+46
+00:04:51,680 --> 00:04:57,040
+ I think at reconnect we can only talk to people we already know. I don't think meeting new people
+
+47
+00:04:57,040 --> 00:05:07,920
+ will be sanctioned. Recollects, right in. Again. Right. And then there were Facebook things.
+
+48
+00:05:07,920 --> 00:05:12,960
+ Alison do you want to read out the Facebooks? So lots of people agreed with me in whole or in part
+
+49
+00:05:12,960 --> 00:05:18,000
+ about virtual and there's lots of interesting but not terribly summarisable commentary there.
+
+50
+00:05:18,000 --> 00:05:22,880
+ I wanted to pick up one thing which is that JT wrote and said I think I am agreeing with you
+
+51
+00:05:22,880 --> 00:05:27,360
+ that core offerings should focus on simple things that like hybrid that leverage existing work and
+
+52
+00:05:27,360 --> 00:05:32,800
+ add benefit to impersonate Nd's rather than burdening over work teams by adding additional
+
+53
+00:05:32,800 --> 00:05:38,320
+ layers like running completely virtual streams in parallel. And I want to kind of respond a
+
+54
+00:05:38,320 --> 00:05:43,760
+ little bit on that because I think it's half true. I don't think there's a lot of merit in having
+
+55
+00:05:43,760 --> 00:05:49,760
+ like panels in virtual at conventions except possibly for a very large convention because
+
+56
+00:05:49,760 --> 00:05:54,880
+ I think panels in person are great and there are lots of them and unless you're specifically trying to
+
+57
+00:05:54,880 --> 00:06:01,200
+ showcase somebody who wouldn't otherwise get and even if you are trying to do that I'm not sure
+
+58
+00:06:01,200 --> 00:06:06,720
+ that panel is the very best way to do it. What I do think you have to do though is if you're
+
+59
+00:06:06,720 --> 00:06:11,680
+ having an in-person event then your social happens automatically because there are a lot of people
+
+60
+00:06:11,680 --> 00:06:17,200
+ in the same space and they want to socialise. And the social programme is provided by the bars
+
+61
+00:06:17,200 --> 00:06:22,480
+ and restaurants and activities that you could do in the local area. If you're running a virtual
+
+62
+00:06:22,480 --> 00:06:27,120
+ convention then you actually have to programme in your socialisation stuff and that is a stream
+
+63
+00:06:27,120 --> 00:06:31,120
+ or maybe a couple of streams on its own. So although for Back to the Futures we took all of our
+
+64
+00:06:31,120 --> 00:06:38,080
+ programme from Glasgow we did have I don't know about 10 or 15 items that people had offered to
+
+65
+00:06:38,080 --> 00:06:44,560
+ us that were specific things to do virtually as a social event. And I think if I was running like
+
+66
+00:06:45,280 --> 00:06:53,600
+ in EG if I was running the virtual social spaces for a Worldcon I would want to have some sort of
+
+67
+00:06:53,600 --> 00:06:58,800
+ that programming of that kind going on almost all the time at the Worldcon as an option for people
+
+68
+00:06:58,800 --> 00:07:06,800
+ to gather socially and do things in virtual spaces. This is not necessarily a job application.
+
+69
+00:07:06,800 --> 00:07:14,880
+ It's important to clarify. Yeah. I guess there's an open thing about virtual streams which is like
+
+70
+00:07:14,880 --> 00:07:18,800
+ if you do the social virtually does that mean that people from the convention don't join in
+
+71
+00:07:18,800 --> 00:07:25,040
+ but I still don't know how you fix that. So yeah, it's tricky isn't it? I just I just be happy if
+
+72
+00:07:25,040 --> 00:07:31,200
+ most of the virtual people did join in. That's my first goal in this rather than trying to say
+
+73
+00:07:31,200 --> 00:07:36,080
+ oh if you're actually at the Worldcon in person what you want to be doing is going and looking at
+
+74
+00:07:36,080 --> 00:07:47,200
+ all the virtual stuff as well. So one piece of news we had this week we don't normally talk about
+
+75
+00:07:47,200 --> 00:07:53,280
+ like every award in the science fiction community however the Rotsler Award was announced at Los
+
+76
+00:07:53,280 --> 00:07:59,200
+ Con. It is given annually for one to working with graphic art in amateur publications with
+
+77
+00:07:59,200 --> 00:08:04,080
+ science fiction communities so it is very unusual and it is an actual award for fan artists. I know
+
+78
+00:08:04,080 --> 00:08:08,160
+ there's a Hugo one but otherwise we are there are not that many awards fan artists and it comes
+
+79
+00:08:08,160 --> 00:08:13,280
+ with an honorarium so there's actual cash attached to it rather than just a trophy so that's quite nice
+
+80
+00:08:13,280 --> 00:08:18,560
+ and this year we were absolutely delighted to hear that it has been awarded to España Sheriff
+
+81
+00:08:18,560 --> 00:08:26,160
+ who of course has done cover up for us. Do any of you know España? Who? No yes we're very proud
+
+82
+00:08:26,160 --> 00:08:33,440
+ very proud of my lovely wife is brand new for winning this is um yes it was very lovely news
+
+83
+00:08:33,440 --> 00:08:37,600
+ congratulations España. Excellent news yes very good news
+
+84
+00:08:37,600 --> 00:08:51,680
+ Seattle in 2025 has given us an early Christmas present because they've made the business meeting
+
+85
+00:08:51,680 --> 00:09:02,480
+ virtual and this is very good and no one minds or you know no one yeah don't say what you were
+
+86
+00:09:02,480 --> 00:09:11,440
+ going to say there Tom. How are we feeling about this gang? Okay so what do you think we think about
+
+87
+00:09:11,440 --> 00:09:18,240
+ it on a scale of one to oh that's fantastic holy fuck I'm so pleased I'm going to think nine yeah
+
+88
+00:09:18,240 --> 00:09:26,080
+ some people have got their niches in a bit of a twist I mean I think I think I'm I'm positive
+
+89
+00:09:26,080 --> 00:09:33,520
+ but I think I am slightly less positive than Alison just because I am at the moment we are it's a
+
+90
+00:09:33,520 --> 00:09:37,600
+ pre-kind of a pre-announcement we're very low on detail of how Seattle will actually do the business
+
+91
+00:09:37,600 --> 00:09:42,080
+ meeting the business they're not going to kind of just invent an entirely new set of rules I think
+
+92
+00:09:42,080 --> 00:09:45,680
+ I think it's still going to be a thing where we have to figure out how to do Roberts Rules of Order
+
+93
+00:09:45,680 --> 00:09:50,000
+ in a virtual space I do have confidence in the business meeting team to do that
+
+94
+00:09:50,000 --> 00:09:55,200
+ but I think they've basically announced this a bit maybe a bit before they otherwise would have
+
+95
+00:09:55,200 --> 00:10:01,120
+ because it was smough gone last weekend as we are recording and that is a good place for people
+
+96
+00:10:01,120 --> 00:10:04,320
+ to have discussions about this I haven't seen anything that's come out of smoughcon about it but I think
+
+97
+00:10:04,320 --> 00:10:11,120
+ that's possibly why they did and I guess the other interesting thing is that rather than designate say
+
+98
+00:10:11,120 --> 00:10:17,200
+ a weekend when they're going to do this they have picked four dates to do it and they haven't said
+
+99
+00:10:17,200 --> 00:10:20,880
+ the times yet but I think they're going to do it kind of at different times as they say they're
+
+100
+00:10:20,880 --> 00:10:25,120
+ going to try and accommodate you know religious observance work commitments and times own differences
+
+101
+00:10:25,120 --> 00:10:30,560
+ so I'm assuming there will be at different times on those dates so I can see that if what you want
+
+102
+00:10:30,560 --> 00:10:36,160
+ to do is go to all the business meeting sessions it is probably going to require quite a bit of
+
+103
+00:10:36,160 --> 00:10:41,680
+ rearrangement of your life on those four weekends to try and do that and those weekends do include
+
+104
+00:10:41,680 --> 00:10:50,000
+ like the 4th of July which I understand is a holiday in America so you know you may have to
+
+105
+00:10:50,000 --> 00:10:54,160
+ rearrange plans you have made if you really want to go to all the sessions I don't think there was a
+
+106
+00:10:54,160 --> 00:10:58,560
+ good solution here you know if they decide oh we're going to hold them all on like four consecutive
+
+107
+00:10:58,560 --> 00:11:03,120
+ Sundays at 10 a.m. Seattle time then that will eliminate some people from being able to tend
+
+108
+00:11:03,120 --> 00:11:09,440
+ entirely you can't hold them all on say Saturdays for maximum which would probably maximize and
+
+109
+00:11:09,440 --> 00:11:14,240
+ I'm hoping you could go say late on Friday night Saturday or like late into Saturday for different
+
+110
+00:11:14,240 --> 00:11:19,120
+ time zones because that will exclude everyone who's got religious observances on those days so I
+
+111
+00:11:19,120 --> 00:11:23,840
+ don't think there is a perfect solution but it's going to be interesting to see how this works if
+
+112
+00:11:23,840 --> 00:11:27,840
+ you kind of look at this schedule in the end and say okay the only I can only reasonably get to one
+
+113
+00:11:27,840 --> 00:11:32,080
+ of these business meetings but maybe the thing I really want to discuss is going to be in the one
+
+114
+00:11:32,080 --> 00:11:36,800
+ after can I rearrange everything to do that so I think if you really want to go to all of them you
+
+115
+00:11:36,800 --> 00:11:43,200
+ have some reasonable objections to this new system fair enough but I mean I'm in favor because I do
+
+116
+00:11:43,200 --> 00:11:48,640
+ think we should try yeah I don't think we know the perfect solution but why not give this a go and
+
+117
+00:11:48,640 --> 00:11:54,880
+ see how it works I'm sure if like everyone finds this to be an unworkable system then we'll come up
+
+118
+00:11:54,880 --> 00:11:59,440
+ with a different one but at the moment we have a different unworkable system so I don't object
+
+119
+00:11:59,440 --> 00:12:05,120
+ to conventions trying a different one see if it works better yeah and the the people who spend
+
+120
+00:12:05,120 --> 00:12:13,520
+ their whole worldcon in the business meeting and will now find themselves nothing like as in control
+
+121
+00:12:13,520 --> 00:12:21,840
+ of the power centers as they were before are pretty upset and but I mean I don't see that they
+
+122
+00:12:21,840 --> 00:12:27,680
+ have any more right to speak for worldcon members than all of the other people at the worldcon who
+
+123
+00:12:27,680 --> 00:12:31,200
+ are enjoying themselves all weekend and choosing not to spend all of their time in the business
+
+124
+00:12:31,200 --> 00:12:36,000
+ meeting or all of the people who are working all weekend and so cannot spend their time in the
+
+125
+00:12:36,000 --> 00:12:39,920
+ business meeting or all of the people who are not able to attend the worldcon every year and so
+
+126
+00:12:39,920 --> 00:12:44,000
+ cannot spend all their time in the business meeting because this will in franchise the supporting
+
+127
+00:12:44,000 --> 00:12:50,000
+ members that might or might not might go quite badly I don't know that's the thing that we'll have
+
+128
+00:12:50,000 --> 00:12:56,560
+ to see it is very experimental so there's a couple of things which is like there has to be there has
+
+129
+00:12:56,560 --> 00:13:00,240
+ to be a business meeting at the worldcon but there still will be because there will be a site
+
+130
+00:13:00,240 --> 00:13:05,920
+ selection meeting so like site selection will still be done physically at the worldcon I assume
+
+131
+00:13:05,920 --> 00:13:11,920
+ because I assume that's where the voting is going to happen and at the moment the constitution says
+
+132
+00:13:11,920 --> 00:13:19,120
+ that business meeting shall be held at advertised times at each worldcon it's tricky because there's
+
+133
+00:13:19,120 --> 00:13:25,920
+ wiggle room there as we found out in 2020 but and also it's tricky because there's no actual teeth
+
+134
+00:13:25,920 --> 00:13:31,840
+ to the constitution but like in theory they have to be able to advertise times at each worldcon
+
+135
+00:13:31,840 --> 00:13:40,720
+ the um and I can see that there's an argument for I can see that there's an argument for being
+
+136
+00:13:40,720 --> 00:13:49,200
+ careful about allowing the worldcon government structure to be open to anyone who wants to sort
+
+137
+00:13:49,200 --> 00:13:53,440
+ of buy enough supporting memberships that they can sway things which is kind of what happened with
+
+138
+00:13:53,440 --> 00:14:00,080
+ the puppies in the mid 2010s whereas basically like the hugos ones we opened up to um supporting
+
+139
+00:14:00,080 --> 00:14:06,240
+ members voting um without attending the convention were more vulnerable than they were previously
+
+140
+00:14:06,240 --> 00:14:14,000
+ and that um limiting it to people who attend the convention is in its own way a it's obviously a
+
+141
+00:14:14,000 --> 00:14:21,920
+ gate you're keeping a gate but that gate can be used to um prevent bad actors as well as
+
+142
+00:14:21,920 --> 00:14:28,240
+ preventing good actors so it there are concerns there and I do think we need to go into their
+
+143
+00:14:28,240 --> 00:14:35,760
+ discussion without eyes wide open about that but also I do think that the infraentroisment is
+
+144
+00:14:35,760 --> 00:14:44,640
+ massively um a good thing and I also think that it's unfair to expect people who care about the
+
+145
+00:14:44,640 --> 00:14:53,840
+ worldcon but don't actually want to spend their worldcon just in meetings um though those people
+
+146
+00:14:53,840 --> 00:15:00,080
+ deserve to have their thoughts about how worldcon is governed listened to and and synthesized too so
+
+147
+00:15:00,080 --> 00:15:07,440
+ yeah in general I'm pro um which will not really surprise anyone who has listened to previous
+
+148
+00:15:07,440 --> 00:15:15,680
+ episodes um but yeah in general I am pro I think you're absolutely right that we have to be a
+
+149
+00:15:15,680 --> 00:15:22,160
+ little bit careful because the as we yeah decreased the barrier to involvement we also decreased
+
+150
+00:15:22,160 --> 00:15:28,560
+ the barrier to bad actors getting involved we do and so you have to be able to run this
+
+151
+00:15:28,560 --> 00:15:33,600
+ meeting in such a way that it can't be easily disrupted by anyone who buys a supporting membership
+
+152
+00:15:33,600 --> 00:15:39,600
+ basically just to you know try it but then again that's the thing we see we see how it works
+
+153
+00:15:39,600 --> 00:15:43,920
+ if I had to pick a person on earth most able to deal with bad actors wanting to
+
+154
+00:15:43,920 --> 00:15:49,360
+ troll the business meeting just look would be my choice yeah I do know that in class go
+
+155
+00:15:49,360 --> 00:15:56,080
+ we repealed the standing rules thing about no meetings should we schedule to begin before 10am
+
+156
+00:15:56,080 --> 00:16:02,400
+ or after 1pm local time which I didn't realize at the time didn't really think about the fact that
+
+157
+00:16:02,400 --> 00:16:08,400
+ will give some more freedom to the scheduling of the virtual meetings I hadn't noticed that
+
+158
+00:16:08,400 --> 00:16:12,480
+ say that again sorry I think the argument was no one is trying to start the business meetings
+
+159
+00:16:12,480 --> 00:16:16,880
+ at 8am anymore and so that was kind of an unnecessary standing rule but it does give a lot more freedom
+
+160
+00:16:16,880 --> 00:16:23,280
+ to the virtual ones oh yeah no okay yeah I see what you mean it is interesting because is the
+
+161
+00:16:23,280 --> 00:16:31,680
+ internet a non-smoking environment because standing rule 1.4 says it has to be and who knows if if
+
+162
+00:16:31,680 --> 00:16:38,880
+ someone is smoking on the zoom tricky no so there are like little um there are some little
+
+163
+00:16:38,880 --> 00:16:44,240
+ things here and there that like it's kind of interesting to see how it all insects but like I
+
+164
+00:16:44,240 --> 00:16:49,760
+ agree with you just because there will be difficulties though that doesn't mean that we shouldn't try to
+
+165
+00:16:49,760 --> 00:16:56,640
+ do it and to make it good and like I think there is some gnashing of teeth I've seen a couple of
+
+166
+00:16:56,640 --> 00:17:01,760
+ people being like oh anyone who's criticizing this plan is being seen as being like anti-progress
+
+167
+00:17:01,760 --> 00:17:10,480
+ and it's like well I mean hmm that's tricky isn't it I have strong I do have a strong emotional
+
+168
+00:17:10,480 --> 00:17:17,680
+ I think that there are a lot of people who for whom the the business meeting is the focus of
+
+169
+00:17:17,680 --> 00:17:22,720
+ their world con and it's if you said oh we've just decided not to have filch this year at the
+
+170
+00:17:22,720 --> 00:17:26,560
+ World con but they are going to have to find something else to do with their time at the
+
+171
+00:17:26,560 --> 00:17:30,320
+ convention and and and it I don't think it's going to be easy for those people at all and I think
+
+172
+00:17:30,320 --> 00:17:35,520
+ there's quite a lot of them yeah I wanted to touch on that because I think there is there are people
+
+173
+00:17:35,520 --> 00:17:39,680
+ from the business meeting is there a bit of fandom just as there are people for whom all kinds of
+
+174
+00:17:39,680 --> 00:17:46,480
+ little niches of the World con are there bits of fandom the problem is that in most cases you
+
+175
+00:17:46,480 --> 00:17:52,960
+ enjoying your particular niche of the world con has no effect on what I enjoy but here keeping the
+
+176
+00:17:52,960 --> 00:17:57,680
+ business meetings as a thing that happens in person at the World con for quite a long period of
+
+177
+00:17:57,680 --> 00:18:05,200
+ time is basically preventing lots of people from being able to be fully engaged with the you know
+
+178
+00:18:05,200 --> 00:18:10,000
+ business of the World con so I think it is a little bit different right you know like you stop having
+
+179
+00:18:10,000 --> 00:18:14,400
+ filch it makes no difference to someone who loves the science program they can exist separately the
+
+180
+00:18:14,400 --> 00:18:20,320
+ business meeting cannot exist as a fandom which is not also you know a really big part of how we
+
+181
+00:18:20,320 --> 00:18:25,200
+ run things and so trying to make that accessible to more people I think has to take precedent over
+
+182
+00:18:25,200 --> 00:18:29,520
+ you know the fact that it is going to disrupt the enjoyment of some people's World cons but you
+
+183
+00:18:29,520 --> 00:18:34,320
+ know I get it like if you said we're not doing the thing you particularly love at World cons then I
+
+184
+00:18:34,320 --> 00:18:39,280
+ would be probably pretty annoyed pretty grumpy and you know you probably need some time to
+
+185
+00:18:39,280 --> 00:18:43,760
+ figure out your feelings on it and maybe by the time we get to virtual meetings people will have
+
+186
+00:18:43,760 --> 00:18:48,080
+ at least talk this out for several months and have maybe different thoughts on it my further
+
+187
+00:18:48,080 --> 00:18:53,120
+ point is that I can also see that it is you know there are ways to interpret the constitution which
+
+188
+00:18:53,120 --> 00:18:57,280
+ would be that you can't have these virtual meetings you know and it is going to come down I think
+
+189
+00:18:57,280 --> 00:19:02,800
+ to interpretation of some of the rules and it is tricky because as John has already said there's
+
+190
+00:19:02,800 --> 00:19:06,720
+ basically no enforcement of any of this if a convention decided to ignore it wholesale then
+
+191
+00:19:06,720 --> 00:19:12,160
+ there would be no I don't think there's a lot you could do so I do worry that we're kind of getting
+
+192
+00:19:12,160 --> 00:19:17,680
+ down to kind of constitutional judgment and in this case they're doing something that I agree with
+
+193
+00:19:17,680 --> 00:19:22,160
+ that you could argue is not constitutional and if they did something that I disagreed with
+
+194
+00:19:22,160 --> 00:19:26,880
+ then I would probably be very strongly arguing that wasn't unconstitutional so I'm trying to
+
+195
+00:19:26,880 --> 00:19:30,400
+ like check that I am not basically just being in favor of this because it's one I agree with
+
+196
+00:19:30,400 --> 00:19:35,200
+ because I think if we do just start wholesaling ignoring the constitution then we don't need one
+
+197
+00:19:35,200 --> 00:19:40,320
+ but again I'm not interpreting I do not spend a lot of time interpreting business meeting rules
+
+198
+00:19:40,320 --> 00:19:47,200
+ and Jesse and the subtle BM team do firstly that's an hour I lie uh let's you spend a lot of time
+
+199
+00:19:47,200 --> 00:19:56,400
+ interpreting rules that's why we have a jingle not in any official capacity John and I should
+
+200
+00:19:56,400 --> 00:20:06,320
+ never be allowed to do it in official capacity um yeah so so basically the the arguments that I've
+
+201
+00:20:06,320 --> 00:20:15,840
+ seen against it constitutionally seem to revolve around article 5.1.1 and 5.1.5 so 5.1.1 says
+
+202
+00:20:15,840 --> 00:20:22,000
+ business meetings of us first shall we held at advertised times at East Worldcon and 5.1.5
+
+203
+00:20:22,000 --> 00:20:28,080
+ says the quorum of the business meeting shall we 12 members of the society physically present
+
+204
+00:20:28,080 --> 00:20:36,560
+ and um Kate Seacore on the business meeting discord basically sort of outlined a plan to
+
+205
+00:20:36,560 --> 00:20:43,760
+ filibuster by challenging on both of those points every time one of these meetings is started and
+
+206
+00:20:43,760 --> 00:20:50,240
+ yeah I think it's tricky I don't know what we already know that you can have a business meeting
+
+207
+00:20:50,240 --> 00:20:55,680
+ in a place and the convention online so I would have argued that if the convention is a place the
+
+208
+00:20:55,680 --> 00:21:00,880
+ business meeting can be online and that's exactly the same relationship between the two things because
+
+209
+00:21:00,880 --> 00:21:06,320
+ Conzina did that so we know that that's fine from precedent and the fact that no one complained
+
+210
+00:21:06,320 --> 00:21:14,080
+ when it happened last time um and then I think the quorum shall be 12 members of the society
+
+211
+00:21:14,080 --> 00:21:20,400
+ physically present that gets harder and I don't know what physically present means because like
+
+212
+00:21:20,400 --> 00:21:27,840
+ I'm physically present in this hotel room on this zoom but like yeah I don't know so I think
+
+213
+00:21:27,840 --> 00:21:33,040
+ Mike Leib makes a point that I don't think he's totally unreasonable um he's clearly pretty
+
+214
+00:21:33,040 --> 00:21:38,000
+ knocked this change has been executed without advanced proposals discussion attempt to build
+
+215
+00:21:38,000 --> 00:21:44,480
+ consensus or any other hallmarks of democracy and and that's true but I kind of don't see how you
+
+216
+00:21:44,480 --> 00:21:48,720
+ could because you said to the people if you went into the room whether people with all the power
+
+217
+00:21:48,720 --> 00:21:52,880
+ because they're in the room where it happens have all the power and said we've decided we want to do
+
+218
+00:21:52,880 --> 00:21:59,520
+ it this way they go oh no we're not going to let you do that so you know but but I do take the point
+
+219
+00:21:59,520 --> 00:22:03,040
+ that you know using this sort of structure you could say we've decided to hold the business
+
+220
+00:22:03,040 --> 00:22:08,000
+ meeting we'll have one element of business meeting in the in at the world con for the site selection
+
+221
+00:22:08,000 --> 00:22:13,760
+ but we'll hold the other three in a bar in Seattle in July and no there won't be any online and as
+
+222
+00:22:13,760 --> 00:22:20,240
+ long as I have 12 people there that would actually be legal and I feel like that's an issue so so
+
+223
+00:22:20,240 --> 00:22:25,280
+ they are they're obviously saying no what we're doing here is widening participation and so therefore
+
+224
+00:22:25,280 --> 00:22:32,000
+ we should be allowed to do that and and so they are trying to do it by cultural consensus and I
+
+225
+00:22:32,000 --> 00:22:39,760
+ think that's fine but I think Mike's not wrong that that you could use this to indeed ignore any
+
+226
+00:22:39,760 --> 00:22:43,840
+ parts of the Constitution you wanted to really but that's I would argue quite strongly that's
+
+227
+00:22:43,840 --> 00:22:48,400
+ what they already did in Conziland in the other direction which is why I was so angry in earlier
+
+228
+00:22:48,400 --> 00:22:54,400
+ episodes of this podcast so I think that precedent this fine podcast where we were just starting in
+
+229
+00:22:54,400 --> 00:22:59,440
+ fact yeah and so I think there's already precedent that you can do that that's been used in the wrong
+
+230
+00:22:59,440 --> 00:23:05,840
+ way so using that precedent in the right way doesn't bother me over much I will also say there's been
+
+231
+00:23:05,840 --> 00:23:11,040
+ I think it's a bit unfair to say there's been no attempt to build consensus I think the consensus
+
+232
+00:23:11,040 --> 00:23:15,600
+ has been building for years that this is the thing we should be doing and like there's a few
+
+233
+00:23:15,600 --> 00:23:22,240
+ whole doubts but the reason this is being done is that at a high level in our community there is a
+
+234
+00:23:22,240 --> 00:23:27,440
+ recognition that this needs to happen and like I say that does suck for the few people who really
+
+235
+00:23:27,440 --> 00:23:33,520
+ do enjoy being in that room but I think people who run conventions at senior level are mostly
+
+236
+00:23:33,520 --> 00:23:40,240
+ behind this change and that's the that's really what's going on here I mean I think that's a big claim
+
+237
+00:23:40,240 --> 00:23:46,880
+ to make are the other people who run conventions at high level in the room with you I listen
+
+238
+00:23:46,880 --> 00:23:53,120
+ and I don't know because I think it's wrong to kind of take some of them extra frightened
+
+239
+00:23:53,120 --> 00:24:00,320
+ I think it's wrong to kind of say that to everyone's view is that or that lots of people of high
+
+240
+00:24:00,320 --> 00:24:07,040
+ level are that I know well I think there is a group of people involved in running conventions
+
+241
+00:24:07,040 --> 00:24:12,800
+ who are currently in charge of these these processes who are very much of the opinion that this is
+
+242
+00:24:12,800 --> 00:24:16,560
+ the way it should happen and I think there are also a group of people who run conventions who are
+
+243
+00:24:16,560 --> 00:24:21,840
+ very much of the opinion that it isn't and I think that just because we've had two conventions in a
+
+244
+00:24:21,840 --> 00:24:26,800
+ row where the people seem to be on this side doesn't necessarily mean it follows that everyone
+
+245
+00:24:26,800 --> 00:24:33,440
+ at that level does think this yeah no quite right I mean the example the example being
+
+246
+00:24:33,440 --> 00:24:38,400
+ you know it looked for two conventions it looked like we'd moved to a model of having
+
+247
+00:24:38,400 --> 00:24:43,680
+ world cons be called a world con number and then we had some conventions that were like no we don't
+
+248
+00:24:43,680 --> 00:24:49,280
+ want to do that so we're not going to and it yeah drawing a line through two points is dangerous
+
+249
+00:24:50,320 --> 00:24:59,760
+ but we will see I mean and and we'll discuss the um 20 27 world combat in a bit um but but yeah
+
+250
+00:24:59,760 --> 00:25:05,120
+ sometimes it gives me a warm feeling in my heart to know that we will never run out of
+
+251
+00:25:05,120 --> 00:25:12,800
+ material for the podcast yeah hey no but I think I think in general I think this is a good thing
+
+252
+00:25:12,800 --> 00:25:16,800
+ the fact that like Mike and others have noted that you could use the same loopholes in the
+
+253
+00:25:16,800 --> 00:25:21,760
+ Constitution to do bad things yes you could this is something again that I criticized four years ago
+
+254
+00:25:21,760 --> 00:25:26,000
+ and was told I was wrong and now that this has been used against the people who told me I was wrong
+
+255
+00:25:26,000 --> 00:25:30,080
+ they're like hang on a minute this is open to abuse and it's like yes yes I did point that out
+
+256
+00:25:30,080 --> 00:25:36,560
+ the Constitution is badly written it has lots of loopholes in it anyone I've talked to who has
+
+257
+00:25:36,560 --> 00:25:41,600
+ any understanding of how organizations such as this should be constituted as like this is not how
+
+258
+00:25:41,600 --> 00:25:47,280
+ you do it and yeah was for this is not fit for purpose in the way it's done so we need to start
+
+259
+00:25:47,280 --> 00:25:52,160
+ changing it and this is the first step on that road that's because it's a constitution and everyone
+
+260
+00:25:52,160 --> 00:25:56,080
+ who's complaining about the loopholes in the Constitution that might allow this to happen is
+
+261
+00:25:56,080 --> 00:26:03,520
+ fueling that fire because they have also noticed that it's not for purpose I would I would say
+
+262
+00:26:03,520 --> 00:26:09,440
+ finally I would not put it past Seattle to get around this one by having 12 people physically in
+
+263
+00:26:09,440 --> 00:26:14,720
+ one location that would count as a core business meeting and then we don't have to have that
+
+264
+00:26:14,720 --> 00:26:19,760
+ particular debate this time hmm I'm sure they're going to do that well I'm not sure they're going
+
+265
+00:26:19,760 --> 00:26:24,240
+ to do that but I would I would expect them to do that the question of whether it's at the World
+
+266
+00:26:24,240 --> 00:26:29,840
+Con there doesn't say that meeting has to be at the WorldCon it says the meetings it has to be at
+
+267
+00:26:29,840 --> 00:26:34,000
+ times that are advertised at the WorldCon it doesn't say the times have to be in the future
+
+268
+00:26:34,640 --> 00:26:40,160
+ this is the sort of loophole in the Constitution that I feel could be abused you know but there's
+
+269
+00:26:40,160 --> 00:26:44,640
+ technically nothing stopping you saying and there's also technically nothing stopping you saying well
+
+270
+00:26:44,640 --> 00:26:50,480
+ the WorldCon is technically speaking being held in Aberdeen but all of the program and the Hugo
+
+271
+00:26:50,480 --> 00:26:55,840
+ ceremony will be held in Brighton like that is allowed in the Constitution there's nothing saying
+
+272
+00:26:55,840 --> 00:27:00,560
+ the convention that people might actually want to attend could be hundreds of miles away from
+
+273
+00:27:00,560 --> 00:27:05,040
+ whether the business meeting and the technical world like the Constitution does nothing there's
+
+274
+00:27:05,040 --> 00:27:09,760
+ so much you could do if you were evil because when Nicholas said you want to run the business
+
+275
+00:27:09,760 --> 00:27:13,280
+ meeting at Glasgow I was like can I have the business meeting in Peterborough and apparently
+
+276
+00:27:13,280 --> 00:27:18,480
+ that wasn't allowed so I politely demurred but it's not not allowed because of the Constitution
+
+277
+00:27:18,480 --> 00:27:24,160
+ it's only not allowed because of decency and I'm very indecent you know don't underestimate the
+
+278
+00:27:24,160 --> 00:27:28,960
+ power of decency and constitutions I mean if you have an unwritten constitution you you rely on
+
+279
+00:27:28,960 --> 00:27:31,760
+ it all of the time
+
+280
+00:27:31,760 --> 00:27:41,440
+ there were updates from Smofcon which I'm picking up mostly from Vince Dockertie's report on file
+
+281
+00:27:41,440 --> 00:27:47,600
+ 770 which we will link to in the show notes Smofcon 42 next year will be in Stockholm
+
+282
+00:27:47,600 --> 00:27:55,600
+ and the future bids of interest were a kind of DC Maryland Virginia I think the A is Virginia
+
+283
+00:27:55,600 --> 00:28:01,920
+ bid in 2026 and then 2027 there are apparently two possible bids one being on a cruise ship
+
+284
+00:28:01,920 --> 00:28:10,960
+ from LA to Mexico and one being a different European location oh yeah did you say cruise ship
+
+285
+00:28:10,960 --> 00:28:18,560
+ yes interesting when's that I'm not totally opposed to ones that run on cruise ships but I mean
+
+286
+00:28:18,560 --> 00:28:24,640
+ I'm never going to go on an LA California to Mexico cruise ship in order to go to a Smofcon
+
+287
+00:28:24,640 --> 00:28:29,280
+ but yeah I can't think of any there's been any recent conventions on cruise ships apart from
+
+288
+00:28:29,280 --> 00:28:34,640
+ like the Joko cruise which is similar but maybe not quite the same thing yeah there's the Joko
+
+289
+00:28:34,640 --> 00:28:42,400
+ cruise there's um this isn't quite what you're talking about but there's a convention called
+
+290
+00:28:42,400 --> 00:28:53,840
+ BGG at sea which is the board game geek cruise ooh which in summer 25 is sailing they do one from
+
+291
+00:28:53,840 --> 00:29:00,160
+ Southampton in the UK which goes around Norway and they're doing one that goes from Los Angeles to
+
+292
+00:29:00,160 --> 00:29:08,880
+ Mexico and like you know that does sound quite fun maybe my pick if I had managed to rewatch it
+
+293
+00:29:08,880 --> 00:29:16,240
+ should be that um cruise is the gods thing with Rob Bryden and Steve Coogan oh from the mid-2000s
+
+294
+00:29:16,240 --> 00:29:22,080
+ where it's about like old old stars of your sci-fi show who are on a fan cruise but I don't
+
+295
+00:29:22,080 --> 00:29:29,760
+ remember it was being very good so maybe not a pick that's fair yeah I think they do different
+
+296
+00:29:29,760 --> 00:29:33,920
+ ones every year so like the last one I think went from Spain and just went around the Mediterranean
+
+297
+00:29:34,960 --> 00:29:41,280
+ but yeah but they are not cheap if you thought world cons are expensive I'm it's probably it might
+
+298
+00:29:41,280 --> 00:29:45,840
+ not be too different actually because I guess you get all your food included but yeah you get
+
+299
+00:29:45,840 --> 00:29:52,640
+ everything and there's there are lots of there are lots of festivals held on like folk festivals held
+
+300
+00:29:52,640 --> 00:29:59,520
+ on little ship ship based festivals and um and resort based festivals and they seem to run quite
+
+301
+00:29:59,520 --> 00:30:04,960
+ well despite the fact that the normal model is we all go and sleep intense so yeah I don't think
+
+302
+00:30:04,960 --> 00:30:09,920
+ it's impossible the conventions might it might work for conventions as well actually that's not bad
+
+303
+00:30:09,920 --> 00:30:15,520
+ they're not bad the cheapest end of cruises is not significantly more than you're going to pay
+
+304
+00:30:15,520 --> 00:30:20,400
+ for five nights in Belfast all right I'm going to move on stop googling cruise prices
+
+305
+00:30:22,080 --> 00:30:32,000
+ so there was also Q&A for future world combids and for 2027 there were two bids Montreal and Tel Aviv
+
+306
+00:30:32,000 --> 00:30:39,440
+ and the Tel Aviv world combid has folded for 2027 so they've not folded completely but I think
+
+307
+00:30:39,440 --> 00:30:46,160
+ that accepted that 2027 in Tel Aviv is just not a goa at this time so the only bid for 2027 is
+
+308
+00:30:46,160 --> 00:30:52,320
+ currently Montreal and that will be voted on in 2025 at Seattle probably at the convention as
+
+309
+00:30:52,320 --> 00:30:58,320
+ previously mentioned so I mean it's almost certain to be Montreal then unless someone starts up a
+
+310
+00:30:58,320 --> 00:31:04,160
+ rival bid pretty quickly yeah so so this Montreal bid is being run by the team who demonstrated that
+
+311
+00:31:04,160 --> 00:31:12,240
+ they couldn't run a 600% aspect very well so I feel like if you've got any desire to run a world comb
+
+312
+00:31:13,040 --> 00:31:16,800
+ yeah I might like to put a bid together for 2027 and see if you can have a shout
+
+313
+00:31:16,800 --> 00:31:21,040
+ does anyone have any desire we're not going to run punctuation of the work on are we guys
+
+314
+00:31:21,040 --> 00:31:25,840
+ no but I will do a write-in vote for Alison's house in 2027 if you'd like
+
+315
+00:31:25,840 --> 00:31:32,880
+ yes no I'm not sure we can actually get the 12 people here for the business meeting
+
+316
+00:31:32,880 --> 00:31:35,280
+ the writing campaign starts here listeners
+
+317
+00:31:35,280 --> 00:31:40,720
+ I'm not doing it I'm not sharing a world con never going to happen
+
+318
+00:31:40,720 --> 00:31:44,480
+ look right we're not saying you are we're just saying that you will win the site selection
+
+319
+00:31:44,480 --> 00:31:48,240
+ and you can do with that when you want when it arises
+
+320
+00:31:48,240 --> 00:31:57,440
+ don't you have to file sign like a signed contract with a site because this site's definitely not
+
+321
+00:31:57,440 --> 00:32:01,760
+ signing any world con related contract I don't know I reckon if I get Stephen drunk enough
+
+322
+00:32:01,760 --> 00:32:06,800
+ I was gonna say there are other people in your house that's almost certainly true or
+
+323
+00:32:06,800 --> 00:32:10,800
+ actually Jonathan is probably your best bet I'm gonna have to tell them now do not
+
+324
+00:32:10,800 --> 00:32:14,640
+ not on any account sign anything say you'd like to hold the world con in your house
+
+325
+00:32:14,640 --> 00:32:20,400
+ do you know how small our house is we had a letter of comment from one Claire Breuerley
+
+326
+00:32:20,400 --> 00:32:25,760
+ where she said when Alison talks about her small house she must be talking a different one
+
+327
+00:32:25,760 --> 00:32:28,480
+ about a different one to the five bedroom one in central London
+
+328
+00:32:28,480 --> 00:32:33,840
+ it's not essential it is picking Wolfenstein and you might not think Wolfenstein is very
+
+329
+00:32:33,840 --> 00:32:37,600
+ far from anywhere but if somebody's trying to put the world con here by God you'd hear about it
+
+330
+00:32:37,600 --> 00:32:41,280
+ do you know how much griping we got about Excel we're a lot further out the next cell
+
+331
+00:32:41,280 --> 00:32:46,000
+ Wolfenstein you can get to town quicker from Wolfenstein from Excel surely
+
+332
+00:32:46,000 --> 00:32:48,560
+ that's not the point
+
+333
+00:32:48,560 --> 00:32:57,040
+ what zone do you live in I'm in zone three yeah that's central as I'm concerned
+
+334
+00:32:58,000 --> 00:33:03,280
+ we're at one eight one rather than a one seven one that's the key thing does anyone back in the
+
+335
+00:33:03,280 --> 00:33:08,160
+ days when people are telephone numbers that means nothing to anyone anymore it will mean
+
+336
+00:33:08,160 --> 00:33:16,480
+ nothing to our listeners also I can tell you categorically we can we have we have five bedrooms
+
+337
+00:33:16,480 --> 00:33:21,280
+ all-side of which two of them will not be available to the convention as they're being used and the
+
+338
+00:33:21,280 --> 00:33:25,600
+ other three are full of shite it's gonna be great incentive to declutter your house then isn't it
+
+339
+00:33:27,200 --> 00:33:33,360
+ um yeah so the Montreal Worldcon I would be excited about going to Montreal I will agree
+
+340
+00:33:33,360 --> 00:33:39,840
+ or I will kind of echo Alison's sentiment that given how poorly people felt Winnipeg was run I
+
+341
+00:33:39,840 --> 00:33:50,000
+ am I'm genuinely curious how well a world con run by the same team would be so we'll see we'll see
+
+342
+00:33:50,000 --> 00:33:55,040
+ if they win I should say it is not exactly the same team but it has many of the same elements
+
+343
+00:33:55,040 --> 00:34:02,960
+ hmm I think it is however quite different to the Edmonton in 2030 bid team totally different team
+
+344
+00:34:02,960 --> 00:34:08,400
+ yes yeah totally different team bidding for Edmonton they have they're not I think largely
+
+345
+00:34:08,400 --> 00:34:14,720
+ world connell's hands but that's probably quite a good thing yeah more people more people coming
+
+346
+00:34:14,720 --> 00:34:21,680
+ into the con running community is I think good for the con running community the 20 30 the 23rd
+
+347
+00:34:21,680 --> 00:34:27,680
+ big crew is very interesting yes I'm excited they've put them all on their website you can have a
+
+348
+00:34:27,680 --> 00:34:34,480
+ have a look they cover like a wide range of communities and fandoms and yeah looks interesting
+
+349
+00:34:34,480 --> 00:34:40,080
+ yeah be up yeah but yes I think unfortunately the yeah I don't know I don't know what's going to
+
+350
+00:34:40,080 --> 00:34:44,800
+ happen there because I think people might be reluctant to have two Canadian ones in three years
+
+351
+00:34:44,800 --> 00:34:50,720
+ but if kind of Montreal wins by default that may just harm the chances of Edmonton in 2030
+
+352
+00:34:50,720 --> 00:34:54,720
+ which is a bit of a shame but on the other hand no one else is bidding for 2030 yet so
+
+353
+00:34:54,720 --> 00:35:03,760
+ the most exciting thing on that list for me is a suggested Dutch bid for 2032 and I very much
+
+354
+00:35:03,760 --> 00:35:08,160
+ enjoyed the last Dutch world con that I went to so much that it's largely a haze it was a very
+
+355
+00:35:08,160 --> 00:35:14,720
+ long time ago and I fervently believe that I can party just as hard 32 years 42 years later a long
+
+356
+00:35:14,720 --> 00:35:21,920
+ time later that might not be true jumping back to 2028 there are still two bids Brisbane Australia
+
+357
+00:35:21,920 --> 00:35:28,160
+ for their dates on the near the solar eclipse and the Kigali Rwanda in 2028 bid and they do appear
+
+358
+00:35:28,160 --> 00:35:32,880
+ to both still be bidding and sent in you know communications and questionnaires to smoughcon
+
+359
+00:35:32,880 --> 00:35:38,640
+ and so those that that's the only contested year at the moment now and then it's Dublin in
+
+360
+00:35:38,640 --> 00:35:46,000
+ 2029, Edmonton 2030, Texas in 2031 and potentially Maastricht in 2032.
+
+361
+00:35:46,000 --> 00:35:53,120
+ No it's interesting right and the thing on Fast 7E ends by saying you know remember that 2039
+
+362
+00:35:53,120 --> 00:35:59,680
+ would be the centenary of the centenary of the very first world con in New York I think I'm a
+
+363
+00:35:59,680 --> 00:36:07,040
+ pre-support of a Texas it'll be interesting to see whether because here in the time I've been in
+
+364
+00:36:07,040 --> 00:36:19,920
+ fandom the Chicago group have had 2012 and 2022 and so I kind of I guess I kind of thought 2032
+
+365
+00:36:19,920 --> 00:36:25,280
+ might be a year they were thinking of but yeah it'd be interesting to see if that's contested or
+
+366
+00:36:25,280 --> 00:36:30,560
+ whether there won't be a Chicago bid or whether like Chicago might go for a different year that
+
+367
+00:36:30,560 --> 00:36:35,440
+ will be that will be interesting to see how it unfolds but yeah I think the Netherlands bid would
+
+368
+00:36:35,440 --> 00:36:41,120
+ be lovely yeah I think it would be great I mean I don't know if there is any early planning for
+
+369
+00:36:41,120 --> 00:36:46,640
+ the next UK one probably a little bit early to start that discussion only five months after we
+
+370
+00:36:46,640 --> 00:36:51,040
+ finished the last one but maybe there'll be a Dutch one instead and the UK one will have more
+
+371
+00:36:51,040 --> 00:36:56,960
+ than a tenure gap this is like three years after 2029 in Dublin and the last Dutch World con was
+
+372
+00:36:56,960 --> 00:37:02,400
+ three years after a UK World con so it's cut they have very different flavours then and I think
+
+373
+00:37:02,400 --> 00:37:06,800
+ they probably have quite different flavours now as well Dutch World con was smaller then and I'm
+
+374
+00:37:06,800 --> 00:37:11,600
+ sure it would be smaller now than other European World cons but it still might be pretty big because
+
+375
+00:37:11,600 --> 00:37:16,800
+ European World cons are pretty big these days that's a long time yeah still I didn't even think about
+
+376
+00:37:16,800 --> 00:37:22,800
+ 2039 2039 is like well the thing is if it's New York it needs to be thought about earlier than
+
+377
+00:37:22,800 --> 00:37:28,400
+ you'd think great because we need to actually work out where on earth would hold it I suspect
+
+378
+00:37:28,400 --> 00:37:36,080
+ 2034 will be a UK bid but I don't know for sure but I would I don't know I got feeling in my waters
+
+379
+00:37:36,080 --> 00:37:39,520
+ by which I mean I've given mega 20
+
+380
+00:37:39,520 --> 00:37:48,560
+ did you give it straight back no no she did not there you go then you heard it here first
+
+381
+00:37:55,840 --> 00:38:03,440
+ the news that Vanessa Mae had passed away came recently she died after a short illness and
+
+382
+00:38:03,440 --> 00:38:11,760
+ it's very sad news for this did a lot for fandom and was like I always enjoyed talking to her
+
+383
+00:38:11,760 --> 00:38:17,120
+ conventions and she will be sadly missed I worked with her on multiple conventions and she she
+
+384
+00:38:17,680 --> 00:38:26,720
+ worked on 2018 East con and which I shared and I've known her a long time she was really one of the
+
+385
+00:38:26,720 --> 00:38:30,720
+ people who was instrumental in getting the Glasgow bid off the ground I think people forget this but
+
+386
+00:38:30,720 --> 00:38:38,240
+ it was originally Vanessa and Esther and Emma England but I mean you know we wouldn't necessarily
+
+387
+00:38:38,240 --> 00:38:42,640
+ have had that Wilcon if it hadn't been for Vanessa's input right at the beginning saying which she
+
+388
+00:38:42,640 --> 00:38:49,200
+ wanted the Wilcon to be in in the UK yeah so I think it was 2014 when I met all of Esther and Emma
+
+389
+00:38:49,200 --> 00:38:56,480
+ and Vanessa while working on the London Wilcon and it was always great to chat to Vanessa and we got
+
+390
+00:38:56,480 --> 00:39:05,360
+ along well and in 2016 she persuaded me that I should take the vacant position of precon access
+
+391
+00:39:05,360 --> 00:39:11,920
+ coordinator for the Helsinki Wilcon and you know which is a position I could not at all have done
+
+392
+00:39:11,920 --> 00:39:15,840
+ without Vanessa kind of supporting me and guiding me through the whole thing I had a lot of support
+
+393
+00:39:15,840 --> 00:39:20,080
+ from other people who had done it previously but she was really like the main thing there and she
+
+394
+00:39:20,080 --> 00:39:25,600
+ said you know Carlong do this it'll be it'll be fun and it was fun I remember we you know went to
+
+395
+00:39:25,600 --> 00:39:30,560
+ Helsinki and spent like part of the afternoon just traveling around the Helsinki tram network
+
+396
+00:39:30,560 --> 00:39:35,520
+ checking if you could actually get wheelchairs on off the trams so we could like report this
+
+397
+00:39:35,520 --> 00:39:41,520
+ to everyone but it meant just like a fun afternoon just poodling around on trams so I have a lot of
+
+398
+00:39:41,520 --> 00:39:49,840
+ little memories um like that and yeah very sad tears she has passed yeah I found I found her input on
+
+399
+00:39:49,840 --> 00:39:56,000
+ on access issues absolutely invaluable we walked walked down to the to our site and things like that
+
+400
+00:39:56,000 --> 00:40:01,360
+ at at Harrogate and spent quite a lot of time thinking about Harrogate and how it was going to
+
+401
+00:40:01,360 --> 00:40:06,000
+ work and all of them because it was not an easy site for access have a little class of Grand Manié
+
+402
+00:40:06,000 --> 00:40:11,040
+ in her honour yeah so we'll raise the toast to her I'd have thought we'd do something I would have
+
+403
+00:40:11,040 --> 00:40:14,880
+ thought these could only do something for her as she's a former East Concher
+
+404
+00:40:14,880 --> 00:40:30,320
+ shall we do pics yes although as mentioned I'm not sure I have a pic fine do do pics and I will
+
+405
+00:40:30,320 --> 00:40:34,000
+ tell everyone that the Christmas Carol is great whichever one knows but I will tell them again
+
+406
+00:40:34,000 --> 00:40:40,480
+ I've never seen it what I've never seen it because you know you've never told me to watch it so
+
+407
+00:40:40,480 --> 00:40:45,200
+ how would I have seen it I mean you've you've not really watched or listened and played all the
+
+408
+00:40:45,200 --> 00:40:47,520
+ rest of my pics so I don't know why this one will be different John
+
+409
+00:40:47,520 --> 00:40:56,720
+ rude hang on no yes so 2020 2020 Christmas we didn't do anything like this
+
+410
+00:40:56,720 --> 00:41:04,960
+ in the 2021 Christmas episode we did favorite Christmas songs 2022 you picked it by Stephen King
+
+411
+00:41:04,960 --> 00:41:12,400
+ which you know great shout but festive it is not and then um and then 2023
+
+412
+00:41:12,400 --> 00:41:23,280
+ 2023 we talked about festive games and it's just got it's just got a note which says Liz hated by
+
+413
+00:41:23,280 --> 00:41:31,520
+ Emily and Andrew and I don't know why well what did you do to Emily and Andrew Liz no one knows
+
+414
+00:41:32,320 --> 00:41:38,480
+ I don't know Emily and Andrew what did I do Ryan okay see I don't think we've done
+
+415
+00:41:38,480 --> 00:41:43,120
+ I don't think we've done I don't think we've done favorite Christmas films so we could do that as a
+
+416
+00:41:43,120 --> 00:41:46,960
+ pic if you want yeah we could do that unless you guys have pics you actually want to do
+
+417
+00:41:46,960 --> 00:41:53,200
+ Alison what's your thought I've put advent of code I'm um oh yeah that's good job I'm see that's
+
+418
+00:41:53,200 --> 00:41:57,840
+ kind of what I want to do and I'm looking down timeouts best Christmas films and I'm going on Jesus
+
+419
+00:41:57,840 --> 00:42:03,440
+ Christ I hate all of all right let's just do a Christmasy thing there's there's something about
+
+420
+00:42:03,440 --> 00:42:11,760
+ the combination of sentimentality and I don't know just I know it's just the combination of
+
+421
+00:42:11,760 --> 00:42:17,360
+ sentimentality and sentimentality that causes me to really dislike all the Christmas films
+
+422
+00:42:17,360 --> 00:42:23,520
+ hello all right don't you have some kind of Christmasy pic then we can just be Christmasy fiend
+
+423
+00:42:23,520 --> 00:42:27,760
+ yeah I mean advent of code is Christmasy yeah that's what I mean you can do have any code I'll do
+
+424
+00:42:27,760 --> 00:42:32,960
+ my because Karen John could do something else and it will just be Christmas pics yeah all right
+
+425
+00:42:32,960 --> 00:42:40,080
+ it's time for our Christmas pics listeners who wants to do their Christmasy pic first I basically
+
+426
+00:42:40,080 --> 00:42:44,800
+ did not have a new pic for this week and so have changed the entire theme into Christmas pics
+
+427
+00:42:44,800 --> 00:42:49,360
+ um because John asked me what is my favorite Christmas film and the answer is and always will
+
+428
+00:42:49,360 --> 00:42:53,280
+ be the mop at Christmas Carol John gone watch the mop at Christmas Carol I can't believe you haven't
+
+429
+00:42:53,280 --> 00:42:59,920
+ seen it I just love it what's it streaming on I am gonna guess it's on Disney plus but I don't
+
+430
+00:42:59,920 --> 00:43:04,480
+ currently have a Disney plus sub so someone can check that for me apparently it's on Disney
+
+431
+00:43:04,480 --> 00:43:09,120
+ plus you're right wait it's Disney in it someone was telling me the other day that I should try and
+
+432
+00:43:09,120 --> 00:43:15,200
+ watch it on VHS because apparently there's like a song that's cut out of the one that's on streaming
+
+433
+00:43:15,200 --> 00:43:22,800
+ oh yes so there is right let me just get this correct I think there is a song which was cut
+
+434
+00:43:23,520 --> 00:43:30,640
+ um that they put back in for the VHS release and I think they may in fact have put it now back in
+
+435
+00:43:30,640 --> 00:43:36,320
+ for the whole thing so I think possibly there's like a you know remastered full length version
+
+436
+00:43:36,320 --> 00:43:42,080
+ and so I think the one that's on Disney plus um actually has that one in yes it looks like they do
+
+437
+00:43:42,080 --> 00:43:47,120
+ excellent okay I'm quite confused because I remember this song being in there like when I
+
+438
+00:43:47,120 --> 00:43:52,240
+ watched it on the TV mm-hmm but apparently wasn't I can absolutely see where they did it's basically
+
+439
+00:43:52,720 --> 00:43:57,760
+ a slightly sad song that slows down the middle of the film a lot and you know cuts away from
+
+440
+00:43:57,760 --> 00:44:05,120
+ important bits like jokes about Fossebear but it's fine to have it back in mm okay it's great I
+
+441
+00:44:05,120 --> 00:44:08,800
+ mean it is one of those films where it feels like no one really thought about it and then it had
+
+442
+00:44:08,800 --> 00:44:13,440
+ like this resurgence of interest and then it became almost overly a thing to love the Muppet
+
+443
+00:44:13,440 --> 00:44:20,640
+ Christmas Carol but I do watch it most years at Christmas time I love it that's fair my pick is
+
+444
+00:44:20,640 --> 00:44:25,840
+ advent of code so I like to do I always like to think well what has been occupying my time
+
+445
+00:44:25,840 --> 00:44:34,080
+ I'll just pick that and advent of code is a advent um so there's a coding puzzle for every day in
+
+446
+00:44:34,080 --> 00:44:38,480
+ December and all of the coding puzzles are kind of Christmassy themed but really they're just coding
+
+447
+00:44:38,480 --> 00:44:45,200
+ puzzles and I every year the same thing happens which is that I started off and I'm having great
+
+448
+00:44:45,200 --> 00:44:52,560
+ fun and I gradually get bogged down until someday about I don't know the 15th or 16th of December
+
+449
+00:44:52,560 --> 00:44:58,800
+ the necessities of manifesting Christmas overwhelm me and I get stuck and then I never come back to
+
+450
+00:44:58,800 --> 00:45:05,040
+ it but so far I'm not stuck we're on day 14 and I have done all of them almost all on the day
+
+451
+00:45:05,040 --> 00:45:10,480
+ you're supposed to do them and there are people out there kind of when it releases at five o'clock
+
+452
+00:45:10,480 --> 00:45:16,160
+ in the morning UK time there are people out there who are um who immediately type drop the code into
+
+453
+00:45:16,160 --> 00:45:23,760
+ a variety of LLMs and spit out answers and solve it in two seconds and I am not that person so I
+
+454
+00:45:23,760 --> 00:45:28,800
+ lovingly craft all my code very badly by hand and I have a great time and there are private
+
+455
+00:45:28,800 --> 00:45:35,440
+ leaderboards one of them is on the fancon.dev server if you are there so we have a advent of code
+
+456
+00:45:35,440 --> 00:45:41,200
+ channel hidden away somewhere and then I also have a leaderboard somewhere that's just got my family
+
+457
+00:45:41,200 --> 00:45:45,680
+ and some people on it so so anyway if that's the sort of thing you like it's really really good
+
+458
+00:45:45,680 --> 00:45:49,200
+ there's been this is the 10th year and they're kind of advertising the fact they'd be doing it for
+
+459
+00:45:49,200 --> 00:45:54,320
+ 10 years it's just one guy who thought this would be a fun thing to do and I think you know he gets
+
+460
+00:45:54,320 --> 00:45:58,960
+ 100,000 people doing it which is quite a lot really and it's good fun. I normally start and give up
+
+461
+00:45:58,960 --> 00:46:06,720
+ about day three. More I remember that my job is partly writing code and I should probably
+
+462
+00:46:06,720 --> 00:46:14,560
+ do the job bits of code with my code brain. Yeah I um we do we run it for um the students like
+
+463
+00:46:14,560 --> 00:46:20,800
+ one of the lecturers does like a mince pies an advent of code afternoon at work and I'm always
+
+464
+00:46:20,800 --> 00:46:28,640
+ like oh that's such a good idea. It's a very good idea just don't want to do it on my off time because
+
+465
+00:46:28,640 --> 00:46:36,080
+ like you say Liz I do it a lot on my on time and that is tricky but yeah it is uh
+
+466
+00:46:36,080 --> 00:46:42,240
+ no but it's very good for me because I only kind of code occasionally so doing advent of
+
+467
+00:46:42,240 --> 00:46:49,840
+ codes quite good at kind of keeping all of that keeping some coding brain going and also this
+
+468
+00:46:49,840 --> 00:46:56,400
+ year I've been really good about actually making a little file of helper apps and have helper
+
+469
+00:46:56,400 --> 00:47:00,960
+ programs and making sure that I've noted down where I nicked algorithms from things like that which
+
+470
+00:47:00,960 --> 00:47:06,800
+ will be very useful if I ever decided to do any real coding. That is fair. Yeah I kind of think I
+
+471
+00:47:06,800 --> 00:47:09,600
+ should do it because it's like okay well help you brush up on your code skills because I do
+
+472
+00:47:09,600 --> 00:47:14,400
+ increasingly less coding and I was like oh I should do it or I should like use it as an excuse to learn
+
+473
+00:47:14,400 --> 00:47:19,440
+ new language but then I just don't but now I think with the permission of John's colleague
+
+474
+00:47:19,440 --> 00:47:25,760
+ I'm like still that idea and next year get all the students who want to do coding to sit down and
+
+475
+00:47:25,760 --> 00:47:30,000
+ puzzle their way through it and improve their coding skills. Nice. I'm actually thinking of
+
+476
+00:47:30,000 --> 00:47:38,960
+ running a retrospective event of code thing starting in January on um on the fancon.dev server in
+
+477
+00:47:38,960 --> 00:47:43,680
+ its currently non-existent death to productivity section where we just kind of do a puzzle a week
+
+478
+00:47:43,680 --> 00:47:49,360
+ and say well if you haven't solved it starting from the 2015 one and saying well if you haven't
+
+479
+00:47:49,360 --> 00:47:54,080
+ solved it then you can solve it and if you have solved it then you can make your solution better
+
+480
+00:47:54,080 --> 00:48:00,080
+ or implement it in brainfuck or whatever you want. Yeah. Because some of my solutions are really ugly
+
+481
+00:48:00,080 --> 00:48:09,520
+ I mean really ugly oh my god. I am gonna pick exit the game advent calendar the missing Hollywood
+
+482
+00:48:09,520 --> 00:48:16,320
+ star. So this is this year's this is this year's advent calendar from the exit game series um
+
+483
+00:48:16,320 --> 00:48:24,880
+ Espanar and I have done the exit advent calendars every year since my friend Josh got me the one in
+
+484
+00:48:24,880 --> 00:48:31,120
+ 2021 for my birthday which was the first one they did which was called the mystery of the ice cave
+
+485
+00:48:31,120 --> 00:48:38,240
+ and so it's basically an advent calendar you got 24 doors um you do the uh puzzles in the doors
+
+486
+00:48:38,240 --> 00:48:45,200
+ you have to solve the puzzle before you can move on to the next puzzle so like they are to get to
+
+487
+00:48:45,200 --> 00:48:51,360
+ work out what door the next door is you have to have solved the previous door and that is uh
+
+488
+00:48:51,360 --> 00:48:56,000
+ that is kind of a pleasant way of doing it you can't skip ahead and it comes with like hints and
+
+489
+00:48:56,000 --> 00:49:00,880
+ stuff if you are struggling but yeah they're really good um this year's I feel like has been
+
+490
+00:49:00,880 --> 00:49:06,800
+ easier than previous years but the theming is great um so I have been enjoying it very much
+
+491
+00:49:06,800 --> 00:49:13,040
+ and yeah they're like 30 quid 35 quid which for like 24 kind of puzzles that you do over the course
+
+492
+00:49:13,040 --> 00:49:19,920
+ of christmas it was very lovely and um I'm often as discussed I'm often away uh a conference in
+
+493
+00:49:19,920 --> 00:49:27,040
+ December so um it's bany and I do it through like texting and cam photos that is banya sends me and
+
+494
+00:49:27,040 --> 00:49:33,600
+ like or the odd FaceTime um and it's very good and yeah and in this year's one there's one where
+
+495
+00:49:33,600 --> 00:49:38,160
+ you have to use they give you an elastic band and you have to make the box into a musical instrument
+
+496
+00:49:38,160 --> 00:49:42,480
+ and that was very fun it was it's good they're really nice that I would highly commend them to
+
+497
+00:49:42,480 --> 00:49:49,280
+ anyone who likes um puzzle games and yeah it's just it's very lovely I should say that 20
+
+498
+00:49:49,280 --> 00:49:55,600
+ adverts of code is 24 puzzles that you do over the advert period and it is free but it's coding
+
+499
+00:49:55,600 --> 00:50:02,560
+ it's just coding yeah like it as as previously mentioned coding is my day job yeah for for
+
+500
+00:50:02,560 --> 00:50:07,280
+ but no it's it's good did you see anything about the mop it christmas carol apart from
+
+501
+00:50:07,280 --> 00:50:12,400
+ it's the mop it christmas part carol I mean not really it's it's a mop it christmas carol it's
+
+502
+00:50:12,400 --> 00:50:16,960
+ great it's like the christmas carol but with mop it's yeah Alison have you seen the mop it christmas
+
+503
+00:50:16,960 --> 00:50:22,640
+ carol it's got Michael Kane in it um it's on my list I found out where it was streaming
+
+504
+00:50:22,640 --> 00:50:26,960
+ I didn't realize I needed to explain the mop it christmas carol because I just assumed everyone
+
+505
+00:50:26,960 --> 00:50:32,800
+ has seen it it is a really quite faithful retelling of um the Dickens christmas carol
+
+506
+00:50:33,360 --> 00:50:38,080
+ except apart from Michael Kane who is screwed uh they're all mopets it's basically it and it's
+
+507
+00:50:38,080 --> 00:50:43,680
+ got a few songs and it's good I'm familiar um it sounds like I'm more familiar with it than
+
+508
+00:50:43,680 --> 00:50:49,360
+ Alison is but I need to watch it this year I think I mean if you've ever seen that trend on social
+
+509
+00:50:49,360 --> 00:50:54,560
+ media for you know take a movie and replace all but one actor with mop it's that's basically
+
+510
+00:50:54,560 --> 00:50:58,000
+ because that's what the mop it christmas carol is you've just got Michael Kane and everyone else
+
+511
+00:50:58,000 --> 00:51:02,800
+ is mop it and it's never owned and no sorry that's wrong because um Michael Kane's like
+
+512
+00:51:02,800 --> 00:51:09,600
+ Scrooge's family are also humans I guess otherwise that would be like complicated uh questions that
+
+513
+00:51:09,600 --> 00:51:14,000
+ you don't really want to go into in a christmas carol yeah that's it it's like it's never questioned
+
+514
+00:51:14,000 --> 00:51:23,040
+ why you know why why are all Scrooge's bookkeepers frogs frog mopets they just are and it has like
+
+515
+00:51:23,040 --> 00:51:29,520
+ uh Dickens is the narrator so the great grandzo plays Charles Dickens as like the narrator
+
+516
+00:51:29,520 --> 00:51:34,320
+ who knows what's going to happen because he wrote the book which is just an excellent conceit
+
+517
+00:51:34,320 --> 00:51:42,400
+ yeah now I'm um I am it is on the list to watch this year I will be watching it uh a dear dear
+
+518
+00:51:42,400 --> 00:51:48,560
+ friend has also told me that I must watch it this year so I shall I'm looking forward to it I would
+
+519
+00:51:48,560 --> 00:51:52,880
+ suggest we just sit and watch it together don't like simultaneously except that I have let my
+
+520
+00:51:52,880 --> 00:51:59,840
+ Disney+ sublaps and it isn't working in the UK anyway so ah right that was the Octothorpe
+
+521
+00:51:59,840 --> 00:52:05,680
+ podcast and it's goodbye from me it's goodbye from me and it's goodbye from me and Merry Christmas
+
+522
+00:52:05,680 --> 00:52:07,280
+ ho ho ho
+
+523
+00:52:07,280 --> 00:52:27,760
+ [Music]
+
+524
+00:52:27,760 --> 00:52:33,600
+ I had a really weird hydration drink today where they came and gave me a little free sample of
+
+525
+00:52:33,600 --> 00:52:38,800
+ something which smelled like apples but did not at all taste of apples when you taste it it was
+
+526
+00:52:38,800 --> 00:52:44,800
+ just water it was freaky oh I think they were saying if you like drinking sweet fizzy drinks
+
+527
+00:52:44,800 --> 00:52:49,280
+ this will help you drink more water but it's like what I already drink a lot of water it's just
+
+528
+00:52:49,280 --> 00:52:54,880
+ weird when it smells like apple flavor if I can find a link I will put it in the show notes okay
+
+529
+00:52:54,880 --> 00:53:00,960
+ that makes sense probably cut all that out as being excess hydration checked no that's the after
+
+530
+00:53:00,960 --> 00:53:08,080
+ show the hydration chat definitely not blocked a hydropyloxer bloody hell how does it be no one
+
+531
+00:53:08,080 --> 00:53:15,840
+ knows I'm 25 episodes octa-thorf hydration quarter we already had gamers corner today as well we're
+
+532
+00:53:15,840 --> 00:53:22,880
+ on a roll yep we're can we get to four corners can we be square no one knows the theme music for
+
+533
+00:53:22,880 --> 00:53:29,040
+ this episode was fanfare for space by kevin mccloud and competec.com used under a creative
+
+534
+00:53:29,040 --> 00:53:34,960
+ commons attribution 4.0 license this podcast will end at the beep beep
+
+535
+00:53:34,960 --> 00:53:44,960
+ [BLANK_AUDIO]
+
