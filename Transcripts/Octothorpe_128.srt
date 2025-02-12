@@ -1,0 +1,1764 @@
+1
+00:00:00,000 --> 00:00:05,600
+ "Prisperter?" You remember the letter of comment that we were discussing before this one?
+
+2
+00:00:05,600 --> 00:00:12,000
+ You know. You remember the one where I read out the name of the film? Maybe three or four minutes
+
+3
+00:00:12,000 --> 00:00:18,400
+ ago. It is possible I was not paying close attention at that exact moment.
+
+4
+00:00:18,400 --> 00:00:29,760
+ Fair enough. We also heard... Sorry. That's all right. I can't really criticize anyone for
+
+5
+00:00:29,760 --> 00:00:35,520
+ having a lapse of attention. John like joins conventions and so on like during the pod, so I don't
+
+6
+00:00:35,520 --> 00:00:38,560
+ think we can ding anyone for, you know, reading another link.
+
+7
+00:00:38,560 --> 00:00:58,000
+ Hello everyone and welcome to the very 128th episode of Octothorpe, a podcast of
+
+8
+00:00:58,000 --> 00:01:03,680
+ science fiction and science fiction fandom which is coming to you on the 13th of February 2025.
+
+9
+00:01:03,680 --> 00:01:11,440
+ I'm John Coxon. I'm Alison Scott and I'm Liz Batty. And we have some letters of comment.
+
+10
+00:01:11,440 --> 00:01:22,640
+ So first up we heard from Andreas Devauer who sent us both a toot and an email. He says,
+
+11
+00:01:22,640 --> 00:01:27,680
+ he remembers how people used to say they needed a window system to play games and then they claimed
+
+12
+00:01:27,680 --> 00:01:31,920
+ that they needed a window system or a Mac. Now Alison says you can play games quite well on a
+
+13
+00:01:31,920 --> 00:01:36,320
+ Mac as long as they're not using graphics but his Steam Decks runs the Linux that he's been
+
+14
+00:01:36,320 --> 00:01:40,800
+ sticking with all these years. I'm going to say I don't ever remember the time people said you
+
+15
+00:01:40,800 --> 00:01:47,120
+ needed a Mac to run games. I am going to say also that as Macs are Unix under the hood they can
+
+16
+00:01:47,120 --> 00:01:52,400
+ generally run anything that you can run on. Linux is generally though of course Steam Decks are
+
+17
+00:01:52,400 --> 00:01:57,840
+ tweaked for games so that's a bit different but in general. Macs will do anything Linux can.
+
+18
+00:01:57,840 --> 00:02:01,920
+ Yeah but you've got to recompile everything for the ARM chips now.
+
+19
+00:02:01,920 --> 00:02:06,960
+ Yes it's the trade off. It's the trade off so I've got a friend with a Steam Deck and I've got
+
+20
+00:02:06,960 --> 00:02:12,480
+ a friend and I've got a Switch and it is noticeable how much better the battery life is on my Mac
+
+21
+00:02:12,480 --> 00:02:18,000
+ book than it is on the Switch or the Steam Deck because of ARM. Those Intel processors
+
+22
+00:02:18,560 --> 00:02:23,200
+ pour they battery hungry. We need to heat our houses with something don't we?
+
+23
+00:02:23,200 --> 00:02:33,760
+ My our house is noticeably harder to heat since we went to ARM processors and also LED lights.
+
+24
+00:02:33,760 --> 00:02:39,600
+ But yeah I always say as a Mac as a Mac person I've never really played games on Mac like I played
+
+25
+00:02:39,600 --> 00:02:44,960
+ them on my PlayStation. I used to play them on Windows but then I don't now. Having noticed last
+
+26
+00:02:44,960 --> 00:02:49,680
+ time that I had been playing loads of games on my Mac and this had prevented me from doing any
+
+27
+00:02:49,680 --> 00:02:55,280
+ work I have got better and I've done it much less this two weeks I've just played loads of
+
+28
+00:02:55,280 --> 00:03:00,000
+ board games instead I'm not sure that's actually better but it feels more worthy.
+
+29
+00:03:00,000 --> 00:03:05,600
+ But I mean this all kind of started I seem to remember when Mac gaming started becoming more
+
+30
+00:03:05,600 --> 00:03:09,760
+ common that was like alongside Linux gaming because it was the humble bundles that got this all
+
+31
+00:03:09,760 --> 00:03:14,320
+ kind of kicked off in the old days and it very much seemed like they were both being done at the
+
+32
+00:03:14,320 --> 00:03:20,560
+ same time but I don't know if that's true or not. But I see relatively few games on Steam that are
+
+33
+00:03:20,560 --> 00:03:27,360
+ Windows and Mac but not Linux. It does seem to be either Windows only or all three in general.
+
+34
+00:03:27,360 --> 00:03:34,800
+ He also emailed in to say he wonders are fan funds as relevant as they used to be. These days we're
+
+35
+00:03:34,800 --> 00:03:39,280
+ seeing more exchange of ideas across other electronic media and people are traveling more
+
+36
+00:03:39,280 --> 00:03:44,720
+ freely than they did when fan funds like TAF were first brought up maybe he's totally off his
+
+37
+00:03:44,720 --> 00:03:50,640
+ rocker or has history moving on made fan funds less of a thing. I've always said ultimately the
+
+38
+00:03:50,640 --> 00:03:55,040
+ fan funds will die when they're no longer relevant because they rely on people voting for them to
+
+39
+00:03:55,040 --> 00:04:00,720
+ work. So if people thought TAF was irrelevant TAF would have gone and they don't so it hasn't.
+
+40
+00:04:00,720 --> 00:04:05,280
+ So I think the answer is in the fact that it's still there but also international travel I think
+
+41
+00:04:05,280 --> 00:04:10,480
+ is getting more expensive now or not less. So I think that's the other half of the thing.
+
+42
+00:04:10,480 --> 00:04:16,560
+ I'm going to say I've been on this item three times now at conventions because it's a favorite
+
+43
+00:04:16,560 --> 00:04:22,640
+ topic for convention pedals and as well as the points that John has just raised I would also say
+
+44
+00:04:22,640 --> 00:04:30,480
+ my guff drip was completely unlike a holiday I might have taken to Australia and New Zealand
+
+45
+00:04:30,480 --> 00:04:38,080
+ even if that was holiday was a to a convention because that focus on meeting and hanging out and
+
+46
+00:04:38,080 --> 00:04:45,040
+ spending time with science fiction fans makes a big difference in lots of different ways.
+
+47
+00:04:45,040 --> 00:04:51,040
+ There were a couple of times when I had meetups in a city and as a result of those meetups people
+
+48
+00:04:51,040 --> 00:04:55,600
+ who were science fiction fans in the same area but never previously met got to meet and hang out
+
+49
+00:04:55,600 --> 00:05:01,520
+ because they both came to see the fan fund delegate. So there are lots of ways in which the fan funds
+
+50
+00:05:01,520 --> 00:05:07,360
+ make a difference that is not just otherwise available. Also people do donate money to us and
+
+51
+00:05:07,360 --> 00:05:12,800
+ you know people don't like it they don't need to do that which is also fine. It has the non-fan
+
+52
+00:05:12,800 --> 00:05:18,400
+ fund delegate. I would say I think we looked into this because I looked at all the past TAF races
+
+53
+00:05:18,400 --> 00:05:23,520
+ certainly there on Dave Langford's website thank you and you can look at the votes and the votes
+
+54
+00:05:23,520 --> 00:05:29,040
+ go up and down but I would not say the votes have been going down consistently and I think the thing
+
+55
+00:05:29,040 --> 00:05:33,360
+ to worry about or maybe not worry about but I think the thing to think about is whether TAF is
+
+56
+00:05:33,360 --> 00:05:39,680
+ becoming a smaller pool of fans donating more generously than it might have been in previous years
+
+57
+00:05:39,680 --> 00:05:44,480
+ which might be an issue in the future if some of those fans and like you know you're relying more
+
+58
+00:05:44,480 --> 00:05:49,280
+ on a smaller pool of people and if more of those people pull out then you have an issue and also
+
+59
+00:05:49,280 --> 00:05:54,320
+ it's going to be interesting to see because we now you know we have three fan funds now in Europe
+
+60
+00:05:54,320 --> 00:06:00,960
+ sending fans to you know around Europe North America and Australia and does that mean we end up
+
+61
+00:06:00,960 --> 00:06:04,560
+ raising more money or do we end up raising the same amount of money but slicing it more thinly
+
+62
+00:06:04,560 --> 00:06:09,920
+ like I think it's not unreasonable to check where we are but they still feel they do still feel
+
+63
+00:06:09,920 --> 00:06:13,760
+ relevant in that people can choose or not whether they want to give them money by their stuff in
+
+64
+00:06:13,760 --> 00:06:18,960
+ auctions etc and so in a way people kind of vote with their money. I think that's evidenced in the
+
+65
+00:06:18,960 --> 00:06:26,240
+ fact that like if cuff and naph are kind of if the if the within country fan funds are beginning to
+
+66
+00:06:26,240 --> 00:06:31,360
+ struggle that might make sense because it might be getting easier to talk to other people in the
+
+67
+00:06:31,360 --> 00:06:36,560
+ same country as you and that sort of thing but I think the other thing is that we're seeing that
+
+68
+00:06:36,560 --> 00:06:41,040
+ there are people in the community who struggle to come to conventions and we have bursaries and
+
+69
+00:06:41,040 --> 00:06:50,080
+ stuff so I think you know there was at least there are at least on occasion people who do run who
+
+70
+00:06:50,080 --> 00:06:55,200
+ otherwise would not be able to do the thing and it's not always true but certainly if I had not
+
+71
+00:06:55,200 --> 00:07:01,040
+ one taf I would not have gone to any of the places I went and would not have been able to afford to
+
+72
+00:07:01,040 --> 00:07:08,720
+ do so so I think that's the other thing which is it might be true in general that you know people
+
+73
+00:07:08,720 --> 00:07:14,880
+ can travel but it might not be true that the person can travel that was Andreas thank you very
+
+74
+00:07:14,880 --> 00:07:19,440
+ much for writing in Andreas we have definitely talked about the relevance of fan funds on the pod
+
+75
+00:07:19,440 --> 00:07:25,200
+ so we could if we had a really fabulous index in the form of our listeners somebody could write
+
+76
+00:07:25,200 --> 00:07:30,000
+ in and tell us when that was oh Alison could go and search our own transcripts or our own website
+
+77
+00:07:30,000 --> 00:07:35,840
+ and figure that out itself I could but you know listeners if you feel that this request for
+
+78
+00:07:35,840 --> 00:07:44,000
+ outsource work it's reasonable please write to Alison don't don't fox Alison's plans by pointing
+
+79
+00:07:44,000 --> 00:07:50,000
+ out that we're making the listeners do work that that is a poor precedent to set list
+
+80
+00:07:50,000 --> 00:07:58,640
+ so we heard from Chris Garcia and Chris said there is no more fanish form of recording than the real
+
+81
+00:07:58,640 --> 00:08:06,080
+ to real tape the real to real has magnetic audio tape has been recording fanish events since world
+
+82
+00:08:06,080 --> 00:08:11,760
+ cons in the 1950s and some of those recordings still exist to this day it is remarkably robust
+
+83
+00:08:11,760 --> 00:08:17,120
+ technique in almost every tape so long as it's not physically damaged can be read decades later
+
+84
+00:08:17,120 --> 00:08:22,800
+ I have recordings from the 1960s that played perfectly well when I fard them up I own 10 real
+
+85
+00:08:22,800 --> 00:08:27,840
+ to real recorders one with eight track recording capabilities and should really drag one to a
+
+86
+00:08:27,840 --> 00:08:33,520
+ con someday so much of the stuff still exists I recently found a trove of reels that were audio
+
+87
+00:08:33,520 --> 00:08:38,640
+ books from the 70s and 80s they're so much clearer than the cassette tapes I have from the same period
+
+88
+00:08:38,640 --> 00:08:44,720
+ we should be doing real to real I still think we should not be doing real to real but we should
+
+89
+00:08:44,720 --> 00:08:50,960
+ be making sure that we solidly archive the digital recordings that we're making do any of you have
+
+90
+00:08:50,960 --> 00:08:59,360
+ anything so about real to real I uh no I do not myself own 10 real to real tape recorders however
+
+91
+00:08:59,360 --> 00:09:06,400
+ David Bamford has written to us and said reconnecters reconnect program is being coordinated by himself
+
+92
+00:09:06,400 --> 00:09:12,160
+ and med mcdonald we cannot put recordings on real to real tape I'm afraid but if you bring a mini
+
+93
+00:09:12,160 --> 00:09:17,360
+ disc player along we'll do our best so I have two comments on that the first is that you do not
+
+94
+00:09:17,360 --> 00:09:21,760
+ need a mini disc player you need a mini disc recorder a mini disc player will do you no good
+
+95
+00:09:21,760 --> 00:09:27,920
+ um but fortunately I have several mini disc recorders and now that I know it's a thing I will be
+
+96
+00:09:27,920 --> 00:09:32,960
+ put bringing them along so that you can give me a feed off the sand desk for the whole
+
+97
+00:09:32,960 --> 00:09:38,480
+ convention that sounds great I would like to say thanks Chris Garcia because as usual I think I
+
+98
+00:09:38,480 --> 00:09:44,160
+ may like a joke about real to real tapes and Chris comes in with the archivist knowledge mic drop
+
+99
+00:09:44,800 --> 00:09:47,920
+ thank you Chris also I will not actually take real
+
+100
+00:09:47,920 --> 00:09:53,680
+ mini disc recorders to easter con I would do were it not for the fact that we're flying
+
+101
+00:09:53,680 --> 00:09:59,680
+ so somebody else if you're driving to easter con or or don't mind putting real mini disc
+
+102
+00:09:59,680 --> 00:10:04,960
+ recorders in your luggage then off you go yarrick i think i only have about six i don't have as many
+
+103
+00:10:04,960 --> 00:10:12,000
+ mini disc recorders as chris has real to real tape recorders and they're a lot smaller i have
+
+104
+00:10:12,000 --> 00:10:18,400
+ none of either we heard from karen shafer who is catching up on octa-thorpe so some of these
+
+105
+00:10:18,400 --> 00:10:22,720
+ comments are about previous episodes in fact episodes where we may forgotten that we talked
+
+106
+00:10:22,720 --> 00:10:27,200
+ about what karen is commenting on but we're gonna i'm gonna put her head anyway she read the tainty
+
+107
+00:10:27,200 --> 00:10:34,160
+ cup on my recommendation and loved it yes yes i'm gonna convert you all eventually um yes and we made
+
+108
+00:10:34,160 --> 00:10:39,120
+ we really have made jokes about the miniapolis in 75 bid which we have messed up isn't highly
+
+109
+00:10:39,120 --> 00:10:47,120
+ possible so they were bidding for the 1973 world con for decades and then they decided to bid for
+
+110
+00:10:47,120 --> 00:10:55,280
+ 2073 but we were never bidding for 75 which is apparently the joke that we made so yes it was
+
+111
+00:10:55,280 --> 00:11:01,120
+ basically a silly joke where they were bidding for the 1973 world con at the 1973 world con and
+
+112
+00:11:01,120 --> 00:11:05,680
+ continued to do that for a long time and then people started joking about 2073 and now maybe
+
+113
+00:11:05,680 --> 00:11:12,160
+ there will be a bid for 2073 but basically it's all a bunch of fannish fun nice karen also sent
+
+114
+00:11:12,160 --> 00:11:17,120
+ us another email um saying in a past podcast you asserted that it's easier for us fans to attend
+
+115
+00:11:17,120 --> 00:11:22,800
+ virtual uk conventions which just agrees because the time zone means that programming in the uk starts
+
+116
+00:11:22,800 --> 00:11:26,640
+ in the morning which is super early in the morning for the us and it's much better the opposite way
+
+117
+00:11:26,640 --> 00:11:31,200
+ around where us programming starts in the morning and is at a nice civilized afternoon time for the
+
+118
+00:11:31,200 --> 00:11:37,280
+ uk now i agree and i'm not sure why we asserted it was easier for us fans to attend virtual uk
+
+119
+00:11:37,280 --> 00:11:44,560
+ conventions but i suspect Alison asserted that i think i might have asserted this easier for me
+
+120
+00:11:44,560 --> 00:11:52,160
+ it's not difficult for me to attend west coast us conventions because i'm not so interested in the
+
+121
+00:11:52,160 --> 00:11:56,960
+ program but i'm very interested in the parties and they always happen after i go to bed
+
+122
+00:11:57,920 --> 00:12:02,880
+ now which is very sad karen does acknowledge that yes if you're interested in socializing in the
+
+123
+00:12:02,880 --> 00:12:07,680
+ evening then this is true us fans can socialize in our daytime with uk fans in the evening as we
+
+124
+00:12:07,680 --> 00:12:13,120
+ have amply proved time and time again and indeed prove on a daily basis in cafe mousse and elsewhere
+
+125
+00:12:13,120 --> 00:12:20,240
+ so i do want to say obviously uh catch up also makes this kind of work in the opposite direction
+
+126
+00:12:20,240 --> 00:12:27,120
+ to an extent where if you have catch up you can watch it regardless of time zone and a lot of
+
+127
+00:12:27,120 --> 00:12:33,280
+ streamed stuff is on catch up as well so i guess that's another confounding factor but no i do
+
+128
+00:12:33,280 --> 00:12:37,360
+ think like if you want to be on discord chatting along with other people watching the program
+
+129
+00:12:37,360 --> 00:12:44,720
+ then that is a very good point for virtual seattle if seattle does streaming and gets its catch up
+
+130
+00:12:44,720 --> 00:12:52,400
+ online fairly quickly it's really nice to in our kind of early daytime get online when america's
+
+131
+00:12:52,400 --> 00:12:56,160
+ asleep and watch a bunch of catch up on the previous day there's the things that people thought were
+
+132
+00:12:56,160 --> 00:13:00,400
+ really good and i did that at this con and i'm sure it'll work for this as well and it's
+
+133
+00:13:00,400 --> 00:13:05,120
+ important listeners who have not been listening since the dawn of time do you want to explain what
+
+134
+00:13:05,120 --> 00:13:11,040
+ cafe mousse is cafe mousse is a zoom that i do get in touch with me lot the cupboard if you're
+
+135
+00:13:11,040 --> 00:13:16,720
+ interested and it's just basically people hanging out but i also do one in the afternoon sometimes
+
+136
+00:13:16,720 --> 00:13:22,320
+ for that americans come to and then americans do all come quite a lot of them come to our evening
+
+137
+00:13:22,320 --> 00:13:28,320
+ events like the london first thursday virtual meeting and things of that kind raj wrote in
+
+138
+00:13:28,320 --> 00:13:33,280
+ mastodon he says he was initially very disappointed when he read for the blurb for lady's last con
+
+139
+00:13:33,280 --> 00:13:37,200
+ because he had assumed it was about her last science fiction convention rather than a confidence
+
+140
+00:13:37,200 --> 00:13:47,040
+ trick which is hilarious me too raj i don't understand why anyone would think that but fair
+
+141
+00:13:47,040 --> 00:13:53,200
+ enough two people did he says glasco has lots of architectural obscenities the building of the
+
+142
+00:13:53,200 --> 00:14:00,400
+ m8 through the heart of the city but the m8's such a lovely road and he also writes in with some
+
+143
+00:14:00,400 --> 00:14:07,440
+ things he's planning to nominate for the hugos so he uh recommends bond bond and james bond by
+
+144
+00:14:07,440 --> 00:14:15,920
+ eric malinsky which is a short story on the podcast imaginary worlds he also talks about the novelette
+
+145
+00:14:15,920 --> 00:14:21,760
+ lake of souls from the recent um short fiction collection by an lechie um which is also called
+
+146
+00:14:21,760 --> 00:14:28,240
+ lake of souls and then in novella he recommends last stop by jango wexler so thank you very much
+
+147
+00:14:28,240 --> 00:14:36,640
+ raj and we also heard from tami coxin about hugo uh nominations and she just notes on
+
+148
+00:14:36,640 --> 00:14:41,840
+ administrators transferring nominations in in best dramatic presentation they can only do that
+
+149
+00:14:41,840 --> 00:14:46,800
+ if you have room on your balla in the category that the nomination would need to move too so you
+
+150
+00:14:46,800 --> 00:14:51,280
+ should try and make sure that you put it where you think it goes and if you're very worried you
+
+151
+00:14:51,280 --> 00:14:56,880
+ should leave a gap in the other um in the other category so thank you very much for pointing that
+
+152
+00:14:56,880 --> 00:15:03,680
+ out tami that is useful info we heard from dc who would like to point out that sliding doors was
+
+153
+00:15:03,680 --> 00:15:09,440
+ probably inspired by 1987 polish film prismideck uh english title blind chance in which a man
+
+154
+00:15:09,440 --> 00:15:15,360
+ runs for train and three different timelines unfold and dc thinks it's a better film because
+
+155
+00:15:15,360 --> 00:15:19,520
+ sliding doors and end in a very good way but it does have john hannah i really like the ending of
+
+156
+00:15:19,520 --> 00:15:27,760
+ sliding doors but maybe that is just me also um as far as i can tell uh pris bidetck like i can't
+
+157
+00:15:27,760 --> 00:15:32,720
+ buy or rent anywhere dc where sliding doors did have the advantage like press a button and watch
+
+158
+00:15:32,720 --> 00:15:40,320
+ it that was a key uh feature of it for me british bradshaw writes to us to say that we live in time
+
+159
+00:15:40,320 --> 00:15:46,480
+ has we to bix content for those interested which i actually knew and i've been intended to go and
+
+160
+00:15:46,480 --> 00:15:50,800
+ see this movie in the cinema but i have missed it so i'm gonna have to pick it up on streaming
+
+161
+00:15:50,800 --> 00:15:56,800
+ um but i do want to see it because i'm not sure it's a very good movie but it's got hantrick car
+
+162
+00:15:56,800 --> 00:16:03,680
+ fields of florince pureed it oh that's good love for me i got confused with in time which is genre
+
+163
+00:16:03,680 --> 00:16:12,880
+ and isn't very good uh we also heard on facebook from farimenderson who notes that there was at
+
+164
+00:16:12,880 --> 00:16:19,120
+ least one nominee who submitted a package to the hugo finalist um packet that was two thirds co-written
+
+165
+00:16:19,120 --> 00:16:26,080
+ with a very well known sf writer um but they don't mention who that was uh and megbert donald says
+
+166
+00:16:26,080 --> 00:16:31,920
+ bellfast program the aim is that program will open in late february to participants for sign up
+
+167
+00:16:31,920 --> 00:16:39,120
+ so go sign up on plan z now so you're all set to go do do that if you also want to see some
+
+168
+00:16:39,120 --> 00:16:45,040
+ terrible puns i recommend going and reading the comments on the facebook post because meg got her
+
+169
+00:16:45,040 --> 00:16:49,120
+ pun on i want to know who this person is who kept on making him submit everything that was cool it
+
+170
+00:16:49,120 --> 00:16:55,920
+ was somewhat now i'm really curious i'm very fascinated far if you want to name names do get back to us
+
+171
+00:16:56,400 --> 00:16:59,520
+ if you want to name name secretly we won't do on the podcast then you can also do this
+
+172
+00:16:59,520 --> 00:17:13,920
+ on the subject of the bellfast easter con um i have volunteered to do the discord
+
+173
+00:17:13,920 --> 00:17:19,600
+ or i've been asked to do the discord and i have wanted to do the discord uh so i'm doing that i'm
+
+174
+00:17:19,600 --> 00:17:27,520
+ learning java i'm not learning java uh but i sort of imploking java to see what happens um so yes
+
+175
+00:17:27,520 --> 00:17:33,280
+ so if anyone's interested in volunteering for moderating a discord um do volunteer at bellfast
+
+176
+00:17:33,280 --> 00:17:39,440
+ website um i think people already have which is good i'm extremely pleased about this because
+
+177
+00:17:39,440 --> 00:17:45,120
+ i said to the notes saying i will absolutely do the discord if nobody else volunteers so yay
+
+178
+00:17:45,120 --> 00:17:51,120
+ well done john and i would not have done it as well as john will do it because i would have done
+
+179
+00:17:51,120 --> 00:17:57,360
+ a discord where i was like oh you want a thread on a program item here's a place you could put that
+
+180
+00:17:57,360 --> 00:18:03,680
+ thread yeah no me i think that's um hmm interesting yeah i'd have been kind of
+
+181
+00:18:03,680 --> 00:18:09,280
+ here's here's a discord guys off you go and build it i'm sure the discord will be particularly
+
+182
+00:18:09,280 --> 00:18:15,600
+ looking for people who are coming to um bellfast virtually and it strikes me that our listeners
+
+183
+00:18:15,600 --> 00:18:19,360
+ might include quite a lot of people like that because people who are actually in bellfast will
+
+184
+00:18:19,360 --> 00:18:24,480
+ probably have less time to moderate the discord than people who are not in bellfast so if if you're
+
+185
+00:18:24,480 --> 00:18:28,240
+ not going to be in bellfast this is a job you could do that will be really helpful to the con and also
+
+186
+00:18:28,240 --> 00:18:35,280
+ a great deal of fun i'm sure yes another bellfast update they've also said that they will be closing
+
+187
+00:18:35,280 --> 00:18:39,600
+ the application process for bursaries to cover travel accommodation on sunday 16th of february
+
+188
+00:18:39,600 --> 00:18:46,080
+ 12 noon so if you're listening to this now and you if you're listening to this right now
+
+189
+00:18:46,080 --> 00:18:51,920
+ and you would like to apply for some bursaries to help you make it to bellfast you have
+
+190
+00:18:51,920 --> 00:18:56,880
+ probably about two and a half days to do so so do get onto the website and take a look
+
+191
+00:18:56,880 --> 00:19:04,560
+ we have also some news from iridescence which is the bid for the 2026 easter con um they
+
+192
+00:19:04,560 --> 00:19:12,720
+ sent a email around there is a zoom forum which is on the day we're recording um it only got announced
+
+193
+00:19:12,720 --> 00:19:19,840
+ the day before um so sorry we haven't told you about this in advance listeners but if you would
+
+194
+00:19:19,840 --> 00:19:28,560
+ like to know when future things like this are happening you should go to easter con 2026.org
+
+195
+00:19:29,200 --> 00:19:34,640
+ and you should sign up for their mailing list because that is how i have found out about it
+
+196
+00:19:34,640 --> 00:19:41,680
+ listeners and we will probably report on whatever happens at that zoom in the next episode
+
+197
+00:19:41,680 --> 00:19:54,400
+ allyson do you want to tell us what is the bsfa we thought it would be good to do a segment on the bsfa
+
+198
+00:19:56,000 --> 00:20:02,240
+ i am i am a member of the bsfa um and let's talk a little bit about what it is it is the
+
+199
+00:20:02,240 --> 00:20:11,680
+ british science fiction association it has been going since um 1958 and members include
+
+200
+00:20:11,680 --> 00:20:20,320
+ authors academics fans editors other interested people you can join joining gets you a ton of
+
+201
+00:20:20,320 --> 00:20:25,120
+ publications and the chance to vote in the bsfa awards which you also get if you go to easter
+
+202
+00:20:25,120 --> 00:20:30,000
+ con but um i think not if you attend easter con virtually i'm not sure about that probably though
+
+203
+00:20:30,000 --> 00:20:36,160
+ and it also gets you just a sense that you're part of this big uk community of science fiction fans
+
+204
+00:20:36,160 --> 00:20:42,240
+ which or science fiction related people which i think is good and i having spent quite a lot
+
+205
+00:20:42,240 --> 00:20:46,000
+ of years not being a member of the bsfa i rejoined a few years ago and i have not
+
+206
+00:20:46,000 --> 00:20:50,560
+ regretted that decision and we're going to talk about the bsfa a lot and we will put a link so
+
+207
+00:20:50,560 --> 00:20:55,440
+ that you too can join the british science fiction association if you would like to in the show notes
+
+208
+00:20:55,440 --> 00:21:03,200
+ so one thing uh we heard from the bsfa this week was we got the long lists for the bsfa awards
+
+209
+00:21:03,200 --> 00:21:09,440
+ so for those of you who are not fully up to date with the bsfa awards the current process is a
+
+210
+00:21:09,440 --> 00:21:13,680
+ two-stage one where everyone in the bsfa can nominate things and they go on a long list and
+
+211
+00:21:13,680 --> 00:21:17,520
+ then you can vote for things from the long list to make a short list and then uh at easter con
+
+212
+00:21:17,520 --> 00:21:23,680
+ and shortly before you vote things on the shortlist and they win and the long list is good i mean
+
+213
+00:21:23,680 --> 00:21:28,320
+ if nothing else it basically acts as a sort of big long recommendation list of things that bsfa
+
+214
+00:21:28,320 --> 00:21:32,320
+ members like which is quite nice there's a whole bunch of categories at the moment and i was
+
+215
+00:21:32,320 --> 00:21:36,480
+ worried when they expanded the number of categories that maybe it was an expansion too far but actually
+
+216
+00:21:36,480 --> 00:21:41,520
+ there's a lot of stuff in all of the categories so it's not like there is a shortage of things to be
+
+217
+00:21:41,520 --> 00:21:47,120
+ uh voting on in the shortlist and yeah it's generally a pretty interesting list of stuff and i would say
+
+218
+00:21:47,120 --> 00:21:55,840
+ that because we are on it i should say we are in best short nonfiction yes for episode 122
+
+219
+00:21:55,840 --> 00:22:02,080
+ which is true because we are best we are short nonfiction um we are short nonfiction but we are not
+
+220
+00:22:02,080 --> 00:22:10,000
+ crucially written short nonfiction which is what the awards actually is for according to the website
+
+221
+00:22:10,000 --> 00:22:15,760
+ yes i'm very confused by this because i thought they were going to take the word written out of
+
+222
+00:22:15,760 --> 00:22:21,040
+ this after the last time we were put on the long last time we got all the shortlist in fact i thought
+
+223
+00:22:21,040 --> 00:22:26,640
+ they put the word written in after we got on the shortlist no they no so i noticed when they read
+
+224
+00:22:26,640 --> 00:22:32,480
+ the when we were in the bsfa award ceremony in 2022 they read the definition of the category
+
+225
+00:22:32,480 --> 00:22:37,520
+ out before reading out the nominees and it was at that point i noticed that there a definition
+
+226
+00:22:37,520 --> 00:22:44,000
+ they had read out definitely didn't mean we were eligible and i was like oh i just assumed we were
+
+227
+00:22:44,000 --> 00:22:50,240
+ on the basis that we're in it but now i also agree with Alison when they split this category up i
+
+228
+00:22:50,240 --> 00:22:55,200
+ thought there had been discussion about making it not purely written but Liz is right that it does
+
+229
+00:22:55,200 --> 00:23:00,480
+ still say written so i am a little bit confused and i'm wondering if i if that was something i
+
+230
+00:23:00,480 --> 00:23:06,400
+ misremembered or or whether it kind of got changed after i had paid attention to it or or what the
+
+231
+00:23:06,400 --> 00:23:12,080
+ deal was but i do want to say we have been nominated we have been nominated specifically for episode
+
+232
+00:23:12,080 --> 00:23:19,200
+ 122 which was the episode in which we talked about the world fantasy awards and the kitschies and
+
+233
+00:23:19,200 --> 00:23:25,040
+ the Ursula K Le Guin Award but also the episode where we reported on the news about
+
+234
+00:23:25,040 --> 00:23:31,280
+ organotrovwe Donald Epecchi for the first time and Liz didn't get free tickets to Disneyland
+
+235
+00:23:31,280 --> 00:23:36,640
+ oh no i got very excited about peppers ghosts didn't i yeah you did yeah but yes i don't know why
+
+236
+00:23:36,640 --> 00:23:42,000
+ that episode is the one that has been nominated but i guess if we were making a Hugo packet
+
+237
+00:23:42,080 --> 00:23:46,000
+ we would have a good signal as to which one we should put in it but thank you very much
+
+238
+00:23:46,000 --> 00:23:51,040
+ it's an honor to be on the long list i mean i mean it's although the answer for the long list is
+
+239
+00:23:51,040 --> 00:23:57,280
+ one person like live so thank you one person um i will also say that there is the whole of the
+
+240
+00:23:57,280 --> 00:24:04,800
+ podcast eight days of dino in jones is nominated in best nonfiction long form and a blog of book
+
+241
+00:24:04,800 --> 00:24:09,840
+ reviews is also nominated in the nonfiction short form so obviously these categories are a little
+
+242
+00:24:09,840 --> 00:24:14,640
+ bit fuzzy uh the category just says we have to be under 30 000 words i'm pretty sure one of our
+
+243
+00:24:14,640 --> 00:24:18,720
+ episodes is under 30 000 words but i confess i've never put the transcript through a word counter
+
+244
+00:24:18,720 --> 00:24:24,000
+ that's true yeah because on the long list it just says for short articles and they're equivalent
+
+245
+00:24:24,000 --> 00:24:28,960
+ they'll all be then because um if you're if you're reading out of speech you're going to be reading
+
+246
+00:24:28,960 --> 00:24:35,120
+ it out at between a hundred and hundred and twenty words a minute so 30 000 words is kind of nearly
+
+247
+00:24:35,120 --> 00:24:41,760
+ 300 minutes of podcast which is way longer than we manage in an episode ever even let's have most
+
+248
+00:24:41,760 --> 00:24:48,320
+ extreme yeah i was joking a bit i mean my thesis is like 35 000 words so okay that's a special we
+
+249
+00:24:48,320 --> 00:24:55,680
+ can record can that would be absolutely because me and Liz both do have PhD theses and as far as i
+
+250
+00:24:55,680 --> 00:25:01,360
+ know no one's ever except for Ian recording the start of it no Ian did the start of my TAF report
+
+251
+00:25:01,360 --> 00:25:07,040
+ hi Ian because i subscribed to his patreon so that he would respect me no respect my opinions
+
+252
+00:25:07,040 --> 00:25:12,000
+ i don't think he ever respected me so you both have thesis's and i have or theses theses
+
+253
+00:25:12,000 --> 00:25:21,120
+ and you have fees it no and i have oh god john and i have a light hearted ten minutes to article
+
+254
+00:25:21,120 --> 00:25:27,120
+ about almond croissant which i do want to that will be good that will be good it's part of my
+
+255
+00:25:27,120 --> 00:25:32,640
+ guff report now that i have actually submitted an article to another editor we should record this
+
+256
+00:25:32,640 --> 00:25:38,400
+ where are the bsfa awards defined because i can't actually find it i looked on the website on the
+
+257
+00:25:38,400 --> 00:25:46,320
+ page that says about towards okay yeah so they took the requirement for the written word out of the
+
+258
+00:25:46,320 --> 00:25:54,400
+ fiction um categories but they did not take it out of the non-fiction categories um maybe that's
+
+259
+00:25:54,400 --> 00:25:58,960
+ why i'm getting confused don't know anyway unclear if we're eligible but thank you very
+
+260
+00:25:58,960 --> 00:26:03,280
+ much for putting us on the long list but we appreciate it anyway i'm also going to suggest
+
+261
+00:26:03,280 --> 00:26:06,960
+ that when you're doing an award it's a great idea to have an eligibility team
+
+262
+00:26:06,960 --> 00:26:13,680
+ collect checking whether things are eligible before publishing a list of nominations that's just me
+
+263
+00:26:13,680 --> 00:26:17,200
+ it's tricky isn't it because the long list is i think literally everything that got nominated
+
+264
+00:26:17,200 --> 00:26:23,040
+ and so it's not clear to me whether the eligibility checking should happen before or after that step
+
+265
+00:26:23,040 --> 00:26:28,560
+ it's also possible they did do a quick check and i also appreciate that i think the bsfa awards is
+
+266
+00:26:28,560 --> 00:26:34,160
+ run by a single person who does a pretty good job yeah i mean that's the thing you can't possibly check
+
+267
+00:26:34,160 --> 00:26:37,600
+ everything on that long list there's hundreds of things i assume someone is in a cursory check
+
+268
+00:26:37,600 --> 00:26:42,240
+ that like there weren't any spam bots just like you know sticking in the name of beta books they
+
+269
+00:26:42,240 --> 00:26:46,720
+ got about ai or something i think someone's probably checked the works exist but that's really i think
+
+270
+00:26:46,720 --> 00:26:50,000
+ as far as you can go with that number of stuff otherwise you'd spend like three months vetting
+
+271
+00:26:50,000 --> 00:26:53,680
+ them and then it would be easter and on that subject laser you looking forward to doing the
+
+272
+00:26:53,680 --> 00:26:58,720
+ Hugo Awards yeah but there's no long list phase in the Hugo Awards is there yeah so it's going to be
+
+273
+00:26:58,720 --> 00:27:03,280
+ you know prevery category you just do the you know the top ones that look like they might be on
+
+274
+00:27:03,280 --> 00:27:09,200
+ the ballot and you don't need to do the you know 27 000 short stories that got one vote true i can
+
+275
+00:27:09,200 --> 00:27:14,240
+ hear different music now by the way over the last few weeks we've been hearing i think rumors is
+
+276
+00:27:14,240 --> 00:27:21,520
+ probably gossip gossip to the effect that the bsfa have been rejecting incoming reviews
+
+277
+00:27:21,520 --> 00:27:30,160
+ so we were alerted last week to a blog comment from a reviewer who reviews for the bsfa reviews
+
+278
+00:27:30,160 --> 00:27:34,640
+ steven french and they say all the reviews i wrote for bs reviews reviews the reviews journal of the
+
+279
+00:27:34,640 --> 00:27:39,360
+ bish sites fixed association have to discarded by the new editor and then says because the bsfa is
+
+280
+00:27:39,360 --> 00:27:42,960
+ going for charitable status and so reviews of books that the review is not happy with or did not
+
+281
+00:27:42,960 --> 00:27:47,920
+ understand are not acceptable which is interesting because i think we'd heard the same rumors from a
+
+282
+00:27:47,920 --> 00:27:55,760
+ couple of other sources that the new incoming bsfa reviews editor was not publishing reviews that
+
+283
+00:27:55,760 --> 00:27:59,520
+ were a bit negative or possibly a book they didn't understand and was trying to go for a much more
+
+284
+00:27:59,520 --> 00:28:06,080
+ positive tone yeah and we we subsequently talked to another reviewer who essentially only learned
+
+285
+00:28:06,080 --> 00:28:11,120
+ that there were guidelines about reviews being positive after they'd already written some reviews
+
+286
+00:28:11,120 --> 00:28:15,520
+ and so then those reviews would either not be published or need significant alteration
+
+287
+00:28:15,520 --> 00:28:19,280
+ we were a little bit concerned by this because they seem to be a bit of a divergence from how
+
+288
+00:28:19,280 --> 00:28:25,760
+ like reviewing should work and also it was strange to me that it was linked to their charitable status
+
+289
+00:28:25,760 --> 00:28:29,520
+ by one of the commenters because i don't think there's any reason that charitable status should
+
+290
+00:28:29,520 --> 00:28:34,160
+ preclude negative reviews for instance the science fiction foundation publishes an academic journal
+
+291
+00:28:34,160 --> 00:28:41,520
+ which definitely has not you know non-positive reviews in there so we did a little bit of journalism
+
+292
+00:28:41,520 --> 00:28:44,240
+ which is i think a new a new thing for us
+
+293
+00:28:44,240 --> 00:28:51,280
+ Stephen French said that this was linked to bsfa's um application for charitable status which is
+
+294
+00:28:51,280 --> 00:28:55,120
+ a rumor that had been going around and i wondered whether it was simply that the bsfa thought
+
+295
+00:28:55,120 --> 00:29:00,960
+ charitable meant being nice and wasn't meaning being a charity and so i don't know it could be that
+
+296
+00:29:00,960 --> 00:29:05,920
+ but i thought i'd ask so i emailed and i asked is there a change in policy if there is what's
+
+297
+00:29:05,920 --> 00:29:12,080
+ the new policy and is this linked to any application for charitable status and we heard back from the
+
+298
+00:29:12,080 --> 00:29:18,240
+ chair of the bsfa Alan Stroud who wrote this is a simple misunderstanding on the part of the reviews
+
+299
+00:29:18,240 --> 00:29:23,920
+ editor in relation to bsfa's oversight of its publications the editorial policy of bsfa publications
+
+300
+00:29:23,920 --> 00:29:28,640
+ is usually determined by the editors there is no connection between bsfa review editorial policy
+
+301
+00:29:28,640 --> 00:29:32,880
+ and the bsfa transition to being a charity the transition has not been confirmed and will need
+
+302
+00:29:32,880 --> 00:29:38,800
+ to be confirmed or rejected as a motion at the forthcoming e gm on the 23rd of February the bsfa's
+
+303
+00:29:38,800 --> 00:29:42,720
+ constitution is to approach science fiction and science fiction criticism and there's no priority
+
+304
+00:29:42,720 --> 00:29:48,080
+ to favor either over the other and we will be working with the reviews editor to produce a clearer
+
+305
+00:29:48,080 --> 00:29:56,160
+ set of guidelines so the answer seems to be that there is no from the top change in policy but
+
+306
+00:29:56,160 --> 00:30:02,880
+ something has happened at bsfa review and that that is something that the bsfa is currently having
+
+307
+00:30:02,880 --> 00:30:08,240
+ discussions about shall we say and i think the the really telling thing in the responses the
+
+308
+00:30:08,240 --> 00:30:14,240
+ part where Alan says there's no priority to favor either part of the bsfa mission over the other
+
+309
+00:30:14,240 --> 00:30:19,520
+ and therefore i assume that means that criticism will continue to be something the bsfa does well
+
+310
+00:30:19,520 --> 00:30:25,760
+ which is for the better i think i hope and to be fair criticism is something that bsfa has been
+
+311
+00:30:25,760 --> 00:30:34,560
+ doing well over almost all of its um how long ago was 1958 60 some odd years ages yeah ages
+
+312
+00:30:34,560 --> 00:30:39,520
+ i wanted to pick out one of the things from Alan's statement i'd like to thank Alan for getting back
+
+313
+00:30:39,520 --> 00:30:44,320
+ to us in good time with a very clear statement that was great but i want to pick one thing out of it
+
+314
+00:30:44,320 --> 00:30:51,200
+ which is that Alan has said that there is an e gm on the 23rd of February to discuss converting
+
+315
+00:30:51,200 --> 00:30:56,560
+ to charitable status if you remember you might be going oh i'm not sure i knew about this and it
+
+316
+00:30:56,560 --> 00:31:02,720
+ will happen before our next recording so our or before our next episode comes out so it is on the
+
+317
+00:31:02,720 --> 00:31:12,000
+ 23rd of um February for a bsfa member in the newsletter kind of about halfway down a several
+
+318
+00:31:12,000 --> 00:31:17,760
+ thousand word newsletter there is a thing for bsfa events which includes that there is an e gm on
+
+319
+00:31:17,760 --> 00:31:24,240
+ but on zoom on the 23rd of February um it it doesn't have anything about the agenda though so so this
+
+320
+00:31:24,240 --> 00:31:28,880
+ is the first that i'd heard that this was going to be put to the membership on that date so i am
+
+321
+00:31:28,880 --> 00:31:33,840
+ raising the signal on it and we'll continue to do so and hopefully we'll get an agenda and full
+
+322
+00:31:33,840 --> 00:31:42,080
+ details well in advance of that meeting the other thing that newsletter said was that a new chair
+
+323
+00:31:42,080 --> 00:31:50,480
+ is to be voted on because Alan is coming to the end of his two terms and the person that Alan is
+
+324
+00:31:50,480 --> 00:31:58,000
+ recommending for the next chair is Stuart Haughson and Stuart gave a very good talk on the intersection
+
+325
+00:31:58,000 --> 00:32:04,640
+ of ethnicity and games at the previous east con and uh he's a top chap so that seems like a good
+
+326
+00:32:04,640 --> 00:32:10,560
+ pick to me but i don't know if i don't know exactly how it works i don't know whether anyone will be
+
+327
+00:32:10,560 --> 00:32:16,080
+ i don't know how competitive bsfa elections tend to be so i don't know whether it's a sure thing or
+
+328
+00:32:16,080 --> 00:32:23,440
+ not but um but yes that was a bit of news as well um so one of the things that Alan says in the
+
+329
+00:32:23,440 --> 00:32:29,520
+ newsletter is that he's going to continue support Stuart for as long as necessary in a decision-making
+
+330
+00:32:29,520 --> 00:32:34,240
+ role as Stuart has long covid i think we'll want to see how that works really because
+
+331
+00:32:35,440 --> 00:32:40,800
+ you know you want to you want to make sure that in practice it is Stuart sharing the
+
+332
+00:32:40,800 --> 00:32:47,760
+ organization and and not Alan though when we were talking about this in our back chat we did say
+
+333
+00:32:47,760 --> 00:32:54,480
+ actually a four-year term limit seems very very short for the bsfa um it seems it seems way
+
+334
+00:32:54,480 --> 00:32:56,800
+ shorter than it would need to be for a chair but there we go
+
+335
+00:33:03,360 --> 00:33:08,240
+ do we have anything else to talk about or is it picks so we we mentioned last episode the
+
+336
+00:33:08,240 --> 00:33:13,840
+ eight days of dino in jones podcast which is emily tesh and rebecca frame oh and i noted that
+
+337
+00:33:13,840 --> 00:33:18,320
+ rebecca frame oh's book was on sale and it looked good so i bought it and i made it and it's pretty
+
+338
+00:33:18,320 --> 00:33:28,800
+ good um so as as noted it is called lady eve's last con it is uh basically lesbian romance from
+
+339
+00:33:28,800 --> 00:33:35,760
+ some uh hostlers who um it's it's essentially a pair of sisters who have been hustling and
+
+340
+00:33:35,760 --> 00:33:41,920
+ essentially have been one of them has been jilted by a very rich man named estiban menders yuki
+
+341
+00:33:41,920 --> 00:33:48,000
+ and so the other sister goes to try and essentially trap him into marriage as revenge
+
+342
+00:33:48,000 --> 00:33:54,640
+ which is a pretty fun uh a pretty fun plot she disguises herself like as an extremely young naive
+
+343
+00:33:54,640 --> 00:34:01,680
+ debutante and then goes off to have swanky parties and go to rich people uh parties and fun and
+
+344
+00:34:01,680 --> 00:34:09,040
+ make sure that no one no one spots her until she has enacted her con but her target has a sister
+
+345
+00:34:09,040 --> 00:34:16,160
+ who is smart and obviously attractive and is she going to figure out what is going on
+
+346
+00:34:16,160 --> 00:34:21,920
+ before ruth has a chance to enact this con and i'm not going to give too many spoilers away but
+
+347
+00:34:21,920 --> 00:34:26,080
+ one thing i will say is that i went into it thinking okay this is going to be the sort of thing where
+
+348
+00:34:26,080 --> 00:34:29,680
+ you know at some point there's going to be a reveal of her hidden identity and actually the reveal
+
+349
+00:34:29,680 --> 00:34:34,160
+ of the hidden identity ends up happening fairly early on in the book which is very refreshing
+
+350
+00:34:34,160 --> 00:34:39,760
+ it's like you could have like eked this out forever and instead she goes no actually i'm gonna
+
+351
+00:34:39,760 --> 00:34:45,200
+ tell soul what's going on here and then this changes like the whole the whole book so it just
+
+352
+00:34:45,200 --> 00:34:51,040
+ unexpected things it is a romance but there's a very solid um like crimey mystery plot under there
+
+353
+00:34:51,040 --> 00:34:54,400
+ it's got lots of interesting relationships because you've got like the different sibling
+
+354
+00:34:54,400 --> 00:34:59,040
+ relationships on different sides um it is all kind of in like you know they're on a
+
+355
+00:34:59,040 --> 00:35:05,440
+ a satellite and they go off to the like man-made beach in space okay i think i just end up picking
+
+356
+00:35:05,440 --> 00:35:12,800
+ books that i say it's fun but this is fun and satisfying and the resolution of the mystery
+
+357
+00:35:12,800 --> 00:35:17,280
+ crime plot gets a little bit complicated for me and i wasn't 100% sure what was going on there
+
+358
+00:35:17,280 --> 00:35:22,800
+ but i was kind of 100% sold by the emotions of what was going on so that was fine yeah and it has kind
+
+359
+00:35:22,800 --> 00:35:28,560
+ of a happy ending but it's not like a kind of super sappy happy ending it is very much a yeah
+
+360
+00:35:28,560 --> 00:35:33,120
+ this is where we have got to and this is a happy ending but it's not like let's see where it goes
+
+361
+00:35:33,120 --> 00:35:38,000
+ i liked it i think alison is reading it now as well yes so after um this says she would take one for
+
+362
+00:35:38,000 --> 00:35:43,680
+ the team last week i checked in my library they had a copy on ebooks to download so i immediately
+
+363
+00:35:43,680 --> 00:35:49,760
+ downloaded and i am reading it and i will expect to finish it this week yeah and i was pleasantly
+
+364
+00:35:49,760 --> 00:35:55,280
+ surprised but i think probably it might not be a book for me because it's probably a bit too fun
+
+365
+00:35:55,280 --> 00:36:02,880
+ for me i don't i believe that books should be detergent and serious and not fun at all so i don't
+
+366
+00:36:02,880 --> 00:36:08,080
+ know that's but i will i mean it's i don't think it would be likely to be a pick but i'm very glad
+
+367
+00:36:08,080 --> 00:36:13,280
+ ceaseless picking it i think it's very interesting book one to watch so my pick this week which is
+
+368
+00:36:13,280 --> 00:36:23,280
+ not genre at all um is the brutalist which is one of the Oscar nominations and is a three and a half
+
+369
+00:36:23,280 --> 00:36:32,960
+ hour film uh about an architect who is who escapes from well is liberated from a concentration
+
+370
+00:36:32,960 --> 00:36:39,360
+ camp at the end of world war two and travels to america and there gets starts off kind of
+
+371
+00:36:39,360 --> 00:36:45,200
+ trying to just get his feet on the ground but very rapidly gets an architectural commission for
+
+372
+00:36:45,200 --> 00:36:54,480
+ um an enormous project and this spins out slowly and very beautifully and not necessarily in
+
+373
+00:36:54,480 --> 00:36:59,920
+ ways you're going to expect for yeah three hours and thirty five minutes running time but that
+
+374
+00:36:59,920 --> 00:37:07,040
+ includes a 15 minute intermission which was extremely welcome in our in acid of a head as a chance
+
+375
+00:37:07,040 --> 00:37:13,920
+ to stretch our legs and and get another beer and so on one of my friends said this is four hours
+
+376
+00:37:13,920 --> 00:37:18,720
+ of my life i'm not getting back and another one said within about two minutes well i found it
+
+377
+00:37:18,720 --> 00:37:23,200
+ absolutely compelling throughout i really liked it i thought it was excellent i am not
+
+378
+00:37:23,200 --> 00:37:26,800
+ convinced it needed to be three hours or thirty minutes five minutes long i think it could easily
+
+379
+00:37:26,800 --> 00:37:34,000
+ have been you know two and three quarter hours without an intermission um and and i i have notes
+
+380
+00:37:34,000 --> 00:37:42,160
+ on where i would recommend um brady kobe takes the takes the cuts for that um adrian brody is the
+
+381
+00:37:42,160 --> 00:37:49,040
+ star as the architect of the title and um he is absolutely amazing throughout but obviously
+
+382
+00:37:49,040 --> 00:37:54,000
+ lots of good performances everywhere it's not really about brutalism if you think it's called
+
+383
+00:37:54,000 --> 00:38:00,320
+ the brothe list and there is a sort of implication that this is a bow house trained architect um
+
+384
+00:38:00,320 --> 00:38:05,360
+ from hongary um there's a kind of implication that it's about brutalism but it kind of isn't
+
+385
+00:38:05,360 --> 00:38:11,120
+ really so if you're if you're kind of really into 20th century architecture this might not be
+
+386
+00:38:11,120 --> 00:38:16,720
+ the movie for you architects hate it um though they probably don't hate it as much as they hated
+
+387
+00:38:16,720 --> 00:38:20,960
+ begalopolis so you know i think that would be an interesting panel discussion to listen to
+
+388
+00:38:21,760 --> 00:38:27,840
+ because it has all the same cliches about architecture being a field where torture
+
+389
+00:38:27,840 --> 00:38:35,040
+ geniuses work alone and and cannot stand any sort of a dilution of their vision and and
+
+390
+00:38:35,040 --> 00:38:39,120
+ everyone who actually works in architecture will be like well it's all about what you can do with
+
+391
+00:38:39,120 --> 00:38:44,640
+ the resources and space you have available it's it's the most compromising field of all
+
+392
+00:38:44,640 --> 00:38:50,640
+ so so architects don't like this movie i did like this movie a lot listeners all you have to do is
+
+393
+00:38:50,640 --> 00:38:56,000
+ find a single friend of yours who is an architect who likes this movie and you too can write a letter
+
+394
+00:38:56,000 --> 00:39:01,200
+ of comment uh yeah that's true if you're an architect and you love this movie write in if you
+
+395
+00:39:01,200 --> 00:39:07,680
+ love 20th century architecture write in that means new nick givers i will say that as a physicist i
+
+396
+00:39:07,680 --> 00:39:13,680
+ regularly enjoy movies where the physics is not always up to snuff um but yes no i take the point
+
+397
+00:39:14,480 --> 00:39:21,760
+ now i i i am sort of vaguely intrigued by this but not intrigued enough to spend the three and
+
+398
+00:39:21,760 --> 00:39:29,120
+ a half hours it would take to satisfy my intrigue think you take it i might well do i generally think
+
+399
+00:39:29,120 --> 00:39:34,960
+ films should not be allowed to be over two hours maybe not allowed is too strong but so so this is
+
+400
+00:39:34,960 --> 00:39:39,920
+ one of those movies where the critic response is very much more positive than the fewer response
+
+401
+00:39:40,560 --> 00:39:49,440
+ i am gonna pick and um it's an ongoing pick but i am gonna pick severance season two oh
+
+402
+00:39:49,440 --> 00:39:55,600
+ because i was a bit worried that severance season two would not be quite as good as severance season
+
+403
+00:39:55,600 --> 00:40:03,120
+ one and that worry it turns out was unfounded because it is still great uh very much enjoying it
+
+404
+00:40:03,120 --> 00:40:08,320
+ if you have seen severance season one uh you know you need to watch season two now if you have not
+
+405
+00:40:08,320 --> 00:40:14,320
+ seen severance season one go go and watch severance season one now it's really good i mean i think
+
+406
+00:40:14,320 --> 00:40:21,280
+ you can still get a seven-day trial for apple tv plus but you know it's worth a month of apple tv
+
+407
+00:40:21,280 --> 00:40:25,120
+ plus to watch severance and you can watch some other things while you're at it it is great we're
+
+408
+00:40:25,120 --> 00:40:30,640
+ going to bleep on about this every single week so you know oh my god this we're recording on sunday
+
+409
+00:40:30,640 --> 00:40:38,400
+ friday's episode by word anyway it's just really good and like yeah it's just really good
+
+410
+00:40:38,400 --> 00:40:44,800
+ did we not in fact pick season one at some point probably but this is season two it's completely
+
+411
+00:40:44,800 --> 00:40:50,720
+ different so so severance was three they've had three years to think about the direction they
+
+412
+00:40:50,720 --> 00:40:56,400
+ want to take this which is interesting because i think if they'd made season two immediately after
+
+413
+00:40:56,400 --> 00:41:02,240
+ season one wrapped i think it would have been much less daring than season two has actually been
+
+414
+00:41:02,240 --> 00:41:08,560
+ i don't know how i don't know whether they yeah i don't know what the production timeline was but
+
+415
+00:41:08,560 --> 00:41:16,320
+ but yeah certainly they do seem to be doing interesting things still and like yeah just really
+
+416
+00:41:16,320 --> 00:41:22,640
+ really thought it was i think it is very good so far i'm fascinated by what is going on yeah
+
+417
+00:41:22,640 --> 00:41:28,080
+ Alison picked season one in episode 59 she did i'm not saying we can't pick it again i'm saying
+
+418
+00:41:28,080 --> 00:41:33,920
+ that we did pick it previously well no we picked season one season two that's a whole different thing
+
+419
+00:41:33,920 --> 00:41:37,200
+ it's like i could pick guardians of the galaxy two even if someone already picked
+
+420
+00:41:37,200 --> 00:41:42,640
+ colonies a galaxy one but does that mean i'm allowed to pick severance episodes after episode four
+
+421
+00:41:42,640 --> 00:41:47,760
+ season two as a separate pick or have you preemptively picked the whole of season two we need some sort
+
+422
+00:41:47,760 --> 00:41:54,320
+ of eligibility team don't we what at the end is rubbish john i mean i'm confident it won't be but
+
+423
+00:41:54,320 --> 00:41:58,960
+ we will cross that bridge when we come to it fair fun factlessness i did not pick seats
+
+424
+00:41:58,960 --> 00:42:04,960
+ severance season two this week because i thought that we've only had four episodes and it could
+
+425
+00:42:04,960 --> 00:42:10,880
+ all go to tosh before the end of the season so john has trumped me and i thought i would wait till
+
+426
+00:42:10,880 --> 00:42:16,080
+ the season is finished but that's fine john has picked it i mean the thing is i can't pick any of
+
+427
+00:42:16,080 --> 00:42:23,280
+ the books i've read because they're all dreadful no i mean they're great but i don't know if i
+
+428
+00:42:23,280 --> 00:42:27,200
+ should pick them no it's fine this is this is a reasonable pick uh i just think it's funny to
+
+429
+00:42:27,200 --> 00:42:31,840
+ complain about it yeah no that's right it's fine it's fine i'm quite glad you picked it because
+
+430
+00:42:31,840 --> 00:42:39,680
+ as i thought about it and that was the Octothorpe podcast and it's goodbye for me it's goodbye for me and goodbye
+
+431
+00:42:39,680 --> 00:42:45,920
+ from me
+
+432
+00:42:46,880 --> 00:42:59,760
+ [Music]
+
+433
+00:42:59,760 --> 00:43:08,080
+ all right so this is completely off topic but there is very faint flute music in my headphones
+
+434
+00:43:08,080 --> 00:43:14,240
+ which i'm not as far as i know playing i don't think i hear any flute music no but i wonder if like
+
+435
+00:43:14,240 --> 00:43:18,080
+ my headphones the big cable is somehow acting as an antenna and i'm picking up some kind of
+
+436
+00:43:18,080 --> 00:43:26,800
+ weird broadcast signal i mean maybe it's only one ear it's only in one ear sure it's not just a
+
+437
+00:43:26,800 --> 00:43:32,480
+ weird form of tinnitus i mean it's only when i'm wearing my headphones so probably not
+
+438
+00:43:32,480 --> 00:43:40,240
+ anyway continue and i will give you updates as warranted the theme music for this episode was
+
+439
+00:43:40,240 --> 00:43:46,960
+ fanfare for space by kevin mccloud in competec.com used under a creative commons attribution 4.0
+
+440
+00:43:46,960 --> 00:43:51,120
+ license this podcast will end at the beep beep
+
+441
+00:43:51,120 --> 00:44:01,120
+ [BLANK_AUDIO]
+
