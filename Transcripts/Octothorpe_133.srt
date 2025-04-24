@@ -1,0 +1,2640 @@
+1
+00:00:00,000 --> 00:00:05,040
+ How do I do the beginning of the podcast again?
+
+2
+00:00:05,040 --> 00:00:08,000
+ It's written literally on the first line of the show notes.
+
+3
+00:00:08,000 --> 00:00:24,000
+ Hello everyone and welcome to Octothorpe Live.
+
+4
+00:00:27,680 --> 00:00:34,640
+ I'm John Coxon. I'm Alison Scott and I'm Liz Batty. So first up who oh in this episode is episode
+
+5
+00:00:34,640 --> 00:00:43,440
+ 130 something 33 and it is coming to you on a day. Thursday? Thursday. Whatever Thursday was when
+
+6
+00:00:43,440 --> 00:00:50,320
+ we were recording this. In three days I get to have to edit it yeah. Thursday the 24th of April
+
+7
+00:00:50,320 --> 00:00:57,040
+ 2025 and that will be our longest gap ever between episodes I think. What oh maybe not because we
+
+8
+00:00:57,040 --> 00:01:01,680
+ don't know because we just skip on one. Right so firstly by show of hands actually know by
+
+9
+00:01:01,680 --> 00:01:08,960
+ cheering who here listens to the Octothorpe podcast. Who here has never before listened to the
+
+10
+00:01:08,960 --> 00:01:17,360
+ Octothorpe podcast? Two people. You only watch it live. That's I mean that is I did not know we
+
+11
+00:01:17,360 --> 00:01:24,560
+ had Octothorpe hipsters in the audience. That is really immensely. Hello person welcome I'm John
+
+12
+00:01:24,560 --> 00:01:28,960
+ this is Alison and this is Liz. Okay could the person who's working on the zoom for tech
+
+13
+00:01:28,960 --> 00:01:34,080
+ please do the thing that stops the audio from cutting out whenever there's a loud noise.
+
+14
+00:01:34,080 --> 00:01:38,640
+ Thank you. See I love you tech. Thank you Kat.
+
+15
+00:01:38,640 --> 00:01:46,960
+ Yeah we're gonna have a big cheer for tech to check if it's working now so could you give a big cheer
+
+16
+00:01:46,960 --> 00:01:50,400
+ for tech? Yay!
+
+17
+00:01:53,440 --> 00:02:01,120
+ Sorted. All right um so Liz. Yes. How's your EasterCon bit? Pretty good.
+
+18
+00:02:01,120 --> 00:02:04,640
+ Boy. And that was the Octothorpe podcast.
+
+19
+00:02:04,640 --> 00:02:11,520
+ There are very good reasons why we do this podcast on the Monday of EasterCon usually which is we
+
+20
+00:02:11,520 --> 00:02:16,640
+ get to do a nice recap of the weekend but it does mean we always do the podcast when we're all almost
+
+21
+00:02:16,640 --> 00:02:23,360
+ dead. Yep. We were all sitting around at breakfast this morning going.
+
+22
+00:02:23,360 --> 00:02:33,760
+ Which is fascinating radio. So yeah so there have been panels there have been things that we've done
+
+23
+00:02:33,760 --> 00:02:39,920
+ there's been cosplay so yeah how people found the program should we start the program? Yeah
+
+24
+00:02:39,920 --> 00:02:46,480
+ there's been a program. I think the highlight for me was the Hay Lecture which this year
+
+25
+00:02:46,480 --> 00:02:51,200
+ was given so how many people saw the Hay Lecture?
+
+26
+00:02:51,200 --> 00:02:59,040
+ So this year the Hay Lecture was given by Dr Liz Batty and so if you didn't see the Hay Lecture
+
+27
+00:02:59,040 --> 00:03:02,240
+ you should watch Tom Kachup because it was fabulous and I thought I knew a lot of this stuff
+
+28
+00:03:02,240 --> 00:03:06,800
+ already but in fact Liz taught me lots of things I did not already know and I really enjoyed it
+
+29
+00:03:06,800 --> 00:03:10,720
+ so thank you very much her slides are a bit fuzzy. Next time you do this you could get me to
+
+30
+00:03:10,720 --> 00:03:17,600
+ my slides and my laptop are perfect. That is always the way there are always technical hiccups.
+
+31
+00:03:17,600 --> 00:03:22,080
+ You can tell people who are good at giving talks because they do not let the technical hiccups
+
+32
+00:03:22,080 --> 00:03:27,360
+ jostle them. I also like very good. Alison's admission that I might know things that Alison doesn't know
+
+33
+00:03:27,360 --> 00:03:32,080
+ but she could fix my slides.
+
+34
+00:03:32,080 --> 00:03:36,960
+ [Laughter]
+
+35
+00:03:36,960 --> 00:03:42,640
+ You might be able to fix your slides. I'm a fixer. You've got slides? I could fix them.
+
+36
+00:03:42,640 --> 00:03:48,480
+ I do have tech whispering to some extent because I always cause a lot of trouble for the tech
+
+37
+00:03:48,480 --> 00:03:53,120
+ every year. Hey we you know we're a team. We all... Yes I think somewhere in a
+
+38
+00:03:53,120 --> 00:03:59,920
+ Mac-to-Windows transition some of my images went a bit fuzzy but you know that happens sometimes.
+
+39
+00:03:59,920 --> 00:04:03,840
+ No and it was good it was really good. It might have been my favourite programme.
+
+40
+00:04:03,840 --> 00:04:08,720
+ I think it's very good. I feel it's like if I had a fanning bingo card that would be like a big
+
+41
+00:04:08,720 --> 00:04:18,480
+ box ticked off. Oh oh god you've given me aspirations. Because I've never given the BSFA lecture either.
+
+42
+00:04:18,480 --> 00:04:27,280
+ If anyone from the BSFA is listening I believe that is what they call the hint.
+
+43
+00:04:28,880 --> 00:04:35,200
+ I am not in fact an academic of any type and I missed the BSFA lecture was Fiona Moore who is
+
+44
+00:04:35,200 --> 00:04:40,400
+ also a friend of the podcast I would say and I would definitely have gone to that. Unfortunately
+
+45
+00:04:40,400 --> 00:04:45,760
+ it was opposite the bid session. Fiona I'm going to see that on catch up and I'm very much looking
+
+46
+00:04:45,760 --> 00:04:50,640
+ forward to that. I mean I did go to that instead of the bid session because someone told me the
+
+47
+00:04:50,640 --> 00:04:55,680
+ bid session was full and also you can pick up most of the bid session exciting info on Discord where
+
+48
+00:04:55,680 --> 00:04:59,760
+ it's very hard to pick up an entire lecture on Discord so yeah the the BSFA lecture was great.
+
+49
+00:04:59,760 --> 00:05:06,000
+ Made me think a lot both about diversity management and also made me want to reread Lord of the Rings.
+
+50
+00:05:06,000 --> 00:05:13,840
+ Oh have you never read Lord of the Rings? I'm just going to read it and then she's going to read it.
+
+51
+00:05:13,840 --> 00:05:20,000
+ I've also never given the re-slecture. If this episode is going to be a list of lectures you've
+
+52
+00:05:20,000 --> 00:05:26,400
+ never given it's going to take a really long time. I have to give because we mentioned on a previous
+
+53
+00:05:26,400 --> 00:05:31,280
+ podcast that I won an award in my day job and I have to give a lecture as a result and I...
+
+54
+00:05:31,280 --> 00:05:38,800
+ Can we come? Can we come? I don't know. No you've got to wait a few years until John gives that as
+
+55
+00:05:38,800 --> 00:05:45,040
+ the hey lecture. It'll be the Royal Astronomical Society right because I know where that is.
+
+56
+00:05:45,040 --> 00:05:49,040
+ I mean it basically depends if you want to hang out with Dave Lally because Dave Lally will definitely
+
+57
+00:05:49,040 --> 00:05:58,240
+ be there. It is Dave in the audience. No. Why is Dave Lally following you around academic lectures?
+
+58
+00:05:58,240 --> 00:06:02,560
+ Because Dave Lally is an enthusiastic member of the Royal Astronomical Society he used to
+
+59
+00:06:02,560 --> 00:06:07,840
+ organise the picnic. That is true. He was the person that basically made the society open up to
+
+60
+00:06:07,840 --> 00:06:12,560
+ effectively affiliate members because he just nagged them until they caved which is you know if
+
+61
+00:06:12,560 --> 00:06:20,640
+ you've met Dave Lally you'll understand. Right anyway yes. So Bridget has written in chat you
+
+62
+00:06:20,640 --> 00:06:29,520
+ could institute the Octothorpe lecture. We could. What would I get? Probably not. On the subject of
+
+63
+00:06:29,520 --> 00:06:34,080
+ the BSFA lecture clashing with the bid session do we want to talk about the upcoming Easter
+
+64
+00:06:34,080 --> 00:06:40,720
+ com of which there are there is much news listeners so for people who weren't at the bid session
+
+65
+00:06:41,520 --> 00:06:46,960
+ there were two Easter cons that were seated by the session and then there were two Easter cons
+
+66
+00:06:46,960 --> 00:06:53,360
+ that were kind of announced for future years so we started to chronologically do the beginning
+
+67
+00:06:53,360 --> 00:06:59,600
+ and then move towards the end. We should. All right Liz what do you think given you weren't there
+
+68
+00:06:59,600 --> 00:07:04,880
+ let's get Liz's opinion first. I mean I like having Easter cons so I enjoy having
+
+69
+00:07:04,880 --> 00:07:11,520
+ some Easter com bids. They both sound like good Easter cons. Yes so the 2026 Easter con is iridescent.
+
+70
+00:07:11,520 --> 00:07:18,480
+ Its website is easter con 2026.org the guests of one are RJ Barker, Karen Lord, Emma Newman,
+
+71
+00:07:18,480 --> 00:07:26,960
+ John Wilson and Serena Culfether and the philadel attending is 80 pounds the un waged is 50 and the
+
+72
+00:07:26,960 --> 00:07:33,680
+ support is 40 pounds so yes and they're sharing their sight with an anime convention
+
+73
+00:07:34,480 --> 00:07:39,920
+ which is new. We've not done that before to the best of my knowledge. So I think Phil said that
+
+74
+00:07:39,920 --> 00:07:45,600
+ they'd got about 60% of the site and the anime convention had about 40% of the site there's an
+
+75
+00:07:45,600 --> 00:07:50,400
+ enormous amount of conference space in the Hilton so I think that will probably be fine. Phil is in
+
+76
+00:07:50,400 --> 00:07:54,720
+ the audience so they've just given us a big thumbs up. I mean we're not we're not about to say oh no
+
+77
+00:07:54,720 --> 00:07:59,120
+ so it's going to be incredibly pokey and we'll all be on top of each other. I mean I think it will be
+
+78
+00:07:59,120 --> 00:08:05,120
+ fine and we're looking forward to obviously I was involved in the team the rather rather last
+
+79
+00:08:05,120 --> 00:08:08,880
+ Easter con on the site which was amazing obviously no pressure guys.
+
+80
+00:08:08,880 --> 00:08:16,160
+ Also I like the NEC. I was trying to explain this to someone the other day where the NEC is
+
+81
+00:08:16,160 --> 00:08:21,600
+ objectively not a beautiful place but I have so many good memories of the NEC. Every time I go I'm
+
+82
+00:08:21,600 --> 00:08:27,040
+ like oh I love the NEC and it's just you know playing games getting very drunk eating lots of
+
+83
+00:08:27,040 --> 00:08:33,360
+ nandos that's a good weekend. Is the is the anime con in the NEC or just in the other bits
+
+84
+00:08:33,360 --> 00:08:37,920
+ or else it's a small one okay so there might also be something in the NEC of course because I mean
+
+85
+00:08:37,920 --> 00:08:43,280
+ effectively last time we sort of shared a lot of like the hotel like spaces with people who were
+
+86
+00:08:43,280 --> 00:08:48,080
+ at the con at the NEC anyway so they're all there at breakfast and occasionally in other bits so
+
+87
+00:08:48,080 --> 00:08:52,960
+ I'd rather share it with the anime con and we shared it with a lot of coronavirus. Well we don't
+
+88
+00:08:52,960 --> 00:08:57,520
+ know like yes but I mean we can't really say directionally who brought the coronavirus to who
+
+89
+00:08:57,520 --> 00:09:01,200
+ Alison is that the one where we were worried you'd given me coronavirus and I would get stuck in
+
+90
+00:09:01,200 --> 00:09:05,840
+ quarantine for two weeks. It's the one where we all shared the IPA by drinking it from straws
+
+91
+00:09:05,840 --> 00:09:10,320
+ right next to each other's faces and then our single coat. Yes that was the one where I had to
+
+92
+00:09:10,320 --> 00:09:14,720
+ pass the COVID test the next day otherwise I would get put into like 14 day quarantine. Yes
+
+93
+00:09:14,720 --> 00:09:20,080
+ that was a good convention this would also probably be a good convention. I don't think it was I
+
+94
+00:09:20,080 --> 00:09:26,160
+ think that was reclamation. Oh no I know the other he's so one where we shared where we
+
+95
+00:09:26,160 --> 00:09:30,640
+ drank the same drink with a straw was Heathrow and the one where I was I'd already caught COVID
+
+96
+00:09:30,640 --> 00:09:36,800
+ at the time we did Dr Thought. But it's worth noting that relatively we'll always be outnumbered
+
+97
+00:09:36,800 --> 00:09:41,360
+ by coronavirus because they're really small so there are loads of them but there's only a thousand
+
+98
+00:09:41,360 --> 00:09:47,600
+ of us how many how many coronaviruses are in the given person Liz? Millions. Yeah so they outnumber us
+
+99
+00:09:47,600 --> 00:09:53,840
+ they're just gonna we need to really up our game. So my current practice is to get a private
+
+100
+00:09:53,840 --> 00:10:00,320
+ vaccination two to three weeks before EasterCon and so far that's worked this time so I do know
+
+101
+00:10:00,320 --> 00:10:04,720
+ so far that's worked this time. Oh I see what you mean it's worked that makes me a lot of sense
+
+102
+00:10:04,720 --> 00:10:13,360
+ I'm relatively content with this model of it's very expensive oh and it's in the sewers yeah.
+
+103
+00:10:13,920 --> 00:10:17,920
+ That was something that Liz said in her lecture for those who didn't go and are just like why did
+
+104
+00:10:17,920 --> 00:10:27,760
+ Alison say it's in the sewers? I'm not saying I'm not up for a convention held entirely in the sewers
+
+105
+00:10:27,760 --> 00:10:33,600
+ but I would want to do a good job on the big presentation. Have a great games room. Yes that
+
+106
+00:10:33,600 --> 00:10:39,200
+ was a joke about turtles. Shall we go back to the EasterCon? What do we think of the guests of
+
+107
+00:10:39,200 --> 00:10:46,800
+ honour? I'm excited. I haven't read any RJ Barker novels but I've met them and they're very nice.
+
+108
+00:10:46,800 --> 00:10:51,680
+ I like Karen Lord books I've read some of Emma Newman's books and they were good. I haven't read
+
+109
+00:10:51,680 --> 00:10:56,080
+ the newest one that's which is like a kind of slight departure into with more I think fantasy
+
+110
+00:10:56,080 --> 00:11:02,000
+ pirates I've read science fiction ones so that's good and yeah John and Serena like it's great let's
+
+111
+00:11:02,000 --> 00:11:06,400
+ honour fan it's nice that they both got a fan guest of honour honouring someone who does a lot of
+
+112
+00:11:06,400 --> 00:11:13,040
+ work and gets recognised for it now so yeah. I've also read I read Emma Newman had a series that was
+
+113
+00:11:13,040 --> 00:11:21,040
+ a finalist for best series in the Hugo Awards so I liked that. Right the discord is a
+
+114
+00:11:21,040 --> 00:11:27,040
+ distractigast. The discord is doing what it does and I feel it's a good thing we don't have a
+
+115
+00:11:27,040 --> 00:11:34,080
+ discord stream on most of our regular recording sessions. Yes. So if you're watching the audio
+
+116
+00:11:34,080 --> 00:11:40,080
+ later and can't see the discord I'm very sorry. I mean you could always join the convention
+
+117
+00:11:40,080 --> 00:11:44,560
+ in the future just to read the discord but that might not be an effective use of cash.
+
+118
+00:11:44,560 --> 00:11:49,280
+ So did anyone join this convention just so they could read the comments on Oxford Live?
+
+119
+00:11:49,280 --> 00:11:59,760
+ No probably not. Shall we move on? Can I talk about 2027? Yes you can talk about 2027.
+
+120
+00:11:59,760 --> 00:12:06,160
+ The 2027 Eastcon is unconfined it will be in the Crown Plaza in Glasgow where we have held at least
+
+121
+00:12:06,160 --> 00:12:11,360
+ two Eastcons. I think exactly two Eastcons before and they have both been great so I'm expecting
+
+122
+00:12:11,360 --> 00:12:16,320
+ this one to also be great. I think maybe we also held two cons there but we'll forget that.
+
+123
+00:12:16,320 --> 00:12:25,680
+ P.J.L.E. Clark, L.R. Lamb, Mark Meenan and Tamzin Muir is a Splendiferous Roster.
+
+124
+00:12:25,680 --> 00:12:32,160
+ Right so P.J.L.E. Clark is a fabulous choice of guests and Tamzin Muir is a fabulous choice of
+
+125
+00:12:32,160 --> 00:12:36,960
+ guests. I personally have never heard of L.R.L.E. Lamb have either of you two. I've heard of them
+
+126
+00:12:36,960 --> 00:12:41,840
+ because you know they're an author and I'm pretty sure they have written a book that is in my house.
+
+127
+00:12:41,840 --> 00:12:48,160
+ I have not yet read that book but I intend to read that book. I think there might have been,
+
+128
+00:12:48,160 --> 00:12:53,520
+ I can't remember what the name of it is though but yes I'm familiar with them as a sort of concept
+
+129
+00:12:53,520 --> 00:12:57,920
+ but I have not yet read their books but I will do in preparation for the Eastcon and I have never
+
+130
+00:12:57,920 --> 00:13:03,760
+ read any books by Mark Meenan but I understand that is not his primary. I understand he's more
+
+131
+00:13:03,760 --> 00:13:10,000
+ of a lemon curd person than a writing person. So Mark Meenan was working very hard on conventions
+
+132
+00:13:10,000 --> 00:13:16,880
+ when I got into cons in 1984 and has continued to do so continuously ever since and I was very
+
+133
+00:13:16,880 --> 00:13:21,200
+ pleased to see Serena and John's name come up and I was even more pleased to see absolutely brilliant
+
+134
+00:13:21,200 --> 00:13:25,520
+ choices of fan guests which I actually know guys is something I care a lot about because I don't read
+
+135
+00:13:25,520 --> 00:13:33,200
+ very many books. Somebody has said in the chat Rosanna again I've seen a lot of Americans saying
+
+136
+00:13:33,200 --> 00:13:39,280
+ they'll come just for Tamsen Muhre and once they'll just get a passport from me. No so Tamsen Muhre I
+
+137
+00:13:39,280 --> 00:13:44,480
+ think has not done any guest slots previously. I think this is the first convention she is a
+
+138
+00:13:44,480 --> 00:13:51,120
+ guest at which makes this, I don't know if everyone is aware of how I think they are, they must
+
+139
+00:13:51,120 --> 00:13:56,640
+ have worked very hard to make that happen but I think that will be, I mean Glasgow is a city where
+
+140
+00:13:56,640 --> 00:14:02,720
+ you would get a big Eastcon anyway but I think Meenan would attract a lot of people so I think
+
+141
+00:14:02,720 --> 00:14:08,080
+ that might be, I mean you might be looking back at the Ocons that had some guests that were also
+
+142
+00:14:08,080 --> 00:14:14,640
+ very attractive and they were sort of hitting 1200 which is why the question in the mid-session
+
+143
+00:14:14,640 --> 00:14:20,160
+ about capping was I think a good one because I, I mean I have already joined, I would recommend
+
+144
+00:14:20,800 --> 00:14:26,160
+ join early join often but yes I think that might be a well attended Eastcon.
+
+145
+00:14:26,160 --> 00:14:30,480
+ Yes there was a question in the bist session about what they would do if they filled up the
+
+146
+00:14:30,480 --> 00:14:35,520
+ cramploss because cramploss has got a good amount of comfort space but it's not absolutely enormous
+
+147
+00:14:35,520 --> 00:14:42,640
+ and they have told us that there is other conference accommodation in the near area that they might
+
+148
+00:14:42,640 --> 00:14:48,400
+ be able to use. Well there's a big room in the, not the aloft, what's the one on the other side
+
+149
+00:14:48,400 --> 00:14:52,160
+ of the river where they put the business meeting at Glasgow? The village. The village, yeah that's
+
+150
+00:14:52,160 --> 00:14:57,680
+ got a big comfort swimming pool. That's relevant. There's also the directly connected conference
+
+151
+00:14:57,680 --> 00:15:04,480
+ rooms in the SEC. Don't point out there's also the SEC, have we considered that? That's interesting
+
+152
+00:15:04,480 --> 00:15:09,760
+ but I mean I have no knowledge of whether the SEC would just let you have a tiny bit of the SEC
+
+153
+00:15:09,760 --> 00:15:15,520
+ with that gets very complicated. Yes I, I don't know and they haven't yet picked their venue liaisons
+
+154
+00:15:15,520 --> 00:15:19,680
+ so I don't know how, I don't, because I think if they don't the chairs are going to end up doing
+
+155
+00:15:19,680 --> 00:15:23,280
+ the work and I think that will be quite a lot of work even if you're working with the conference
+
+156
+00:15:23,280 --> 00:15:28,080
+ bureau. But I mean you can see from this Eastcon which for those who are not here is using the
+
+157
+00:15:28,080 --> 00:15:33,200
+ Hilton in Belfast but also part of the ICC in Belfast that they've got to have people doing kind of
+
+158
+00:15:33,200 --> 00:15:38,160
+ the access controls into the ICC in multiple points even though we don't have the whole ICC
+
+159
+00:15:38,160 --> 00:15:41,360
+ and so presumably that gets more complicated and more expensive and as soon as you start going
+
+160
+00:15:41,360 --> 00:15:46,960
+ into SEC which has like six doors or whatever and bits of it are public and bits of it are private
+
+161
+00:15:46,960 --> 00:15:51,520
+ that gets very complicated right? Just going in a hotel might be. Well also I've seen how hard
+
+162
+00:15:51,520 --> 00:15:55,600
+ the being on the committee for this convention I've seen how hard Lisa Macklin who is doing the
+
+163
+00:15:55,600 --> 00:16:01,440
+ venue job she's been working phenomenally hard and so I do think if you're going to involve a
+
+164
+00:16:01,440 --> 00:16:07,120
+ conference enter you are going to need someone whose job it is to do that wrangling so so yeah
+
+165
+00:16:08,080 --> 00:16:12,720
+ but you know I'm excited it will be good I mean Glasgow is great haggis pecora
+
+166
+00:16:12,720 --> 00:16:19,440
+ I mean an absolute belter of a starter at any Indian restaurant. Can we get before 2027
+
+167
+00:16:19,440 --> 00:16:30,800
+ a second Glasgow food joke? Well that's me told. Well somebody one of the things about this
+
+168
+00:16:30,800 --> 00:16:34,400
+ convention is somebody has pointed out that one of the great things about this con has been
+
+169
+00:16:34,400 --> 00:16:41,440
+ Belfast vibrant food culture. I like all food culture but yes Belfast has been very good too.
+
+170
+00:16:41,440 --> 00:16:45,680
+ Belfast full of good food most of which does indeed come with chips there has been this whole
+
+171
+00:16:45,680 --> 00:16:51,520
+ thread of I never expected this year to come with chips. I ordered a soup that came with chips the
+
+172
+00:16:51,520 --> 00:16:58,640
+ other day. I tell a lie I did have chips but I went to a burger restaurant so you know.
+
+173
+00:16:58,640 --> 00:17:03,520
+ Yeah Fran has pointed out on Discord that haggis pecora is not a joke which is true haggis pecora
+
+174
+00:17:03,520 --> 00:17:06,240
+ really exists. It's deadly serious. Sorry everyone.
+
+175
+00:17:06,240 --> 00:17:13,680
+ Yeah the other thing about having Tamsimua as a guest in 2027 means that presumably
+
+176
+00:17:13,680 --> 00:17:19,840
+ she is planning to have written and published another book by 2027. You would hope. So it might
+
+177
+00:17:19,840 --> 00:17:24,400
+ give you a guess about when like a Lecto of the Ninth is going to come out. I think if she hasn't
+
+178
+00:17:24,400 --> 00:17:29,760
+ published another book by 2027 then you may have to have some like a swear box for things you're
+
+179
+00:17:29,760 --> 00:17:34,960
+ not allowed to say at the con. I can't remember when a Lecto was originally slated for release but at
+
+180
+00:17:34,960 --> 00:17:40,160
+ the moment it is TBC so yeah we'll see. But I am looking forward to it because I presume it will
+
+181
+00:17:40,160 --> 00:17:45,840
+ make all of the rest of it make sense. I love the books. I'm fuzzy as to exactly what's happening
+
+182
+00:17:45,840 --> 00:17:51,760
+ in the books but I do love the books. So you think that the next one will make it all make sense?
+
+183
+00:17:51,760 --> 00:17:55,920
+ Oh yeah yeah it will tie everything together and everything will make perfect sense and there will
+
+184
+00:17:55,920 --> 00:18:00,320
+ be no ambiguity at all. John you missed the panel that told you what was going on in the books because
+
+185
+00:18:00,320 --> 00:18:04,400
+ that was the panel on sword lesbians. That's what the books are. Hey I'm going to get that on catch up.
+
+186
+00:18:04,400 --> 00:18:09,920
+ Yeah that was the panel on sword lesbians about that. What? It was about sword lesbians and Gideon
+
+187
+00:18:09,920 --> 00:18:17,360
+ is a sword lesbian right? Yeah so it came up. Yeah I understand. Yeah. Yep okay. Unless people want
+
+188
+00:18:17,360 --> 00:18:22,080
+ to argue Gideon is not a sword lesbian I can see some funny. So no okay she's got a sword so
+
+189
+00:18:23,040 --> 00:18:27,520
+ I'm given to understand that neither of those are sufficient they're both necessary but not
+
+190
+00:18:27,520 --> 00:18:31,440
+ sufficient except for when they're not necessary either. I go into a philosophical debate about
+
+191
+00:18:31,440 --> 00:18:36,640
+ this over dinner and I left more confused than I was when I started. And now I am more confused
+
+192
+00:18:36,640 --> 00:18:43,200
+ than you were when you started. Good. I was when you started. Yep. So I was also very excited when I
+
+193
+00:18:43,200 --> 00:18:49,520
+ saw the Eastercons for 2026 and 27 because they both have teams that include people who have not
+
+194
+00:18:49,520 --> 00:18:54,080
+ previously worked on Eastercons and are kind of coming along to do it and I like that because
+
+195
+00:18:54,080 --> 00:18:59,520
+ the more people wants to Eastercons the better as far as I'm concerned because I only did an
+
+196
+00:18:59,520 --> 00:19:04,080
+ Eastercon last time because no no it's a time before last because nobody else wanted to so
+
+197
+00:19:04,080 --> 00:19:08,480
+ the more Eastercons there are that somebody wants to do them the better as far as I'm concerned.
+
+198
+00:19:08,480 --> 00:19:16,080
+ I really liked it. Talking about new people coming into running Eastercons Alan Stroud announced that
+
+199
+00:19:16,080 --> 00:19:22,320
+ the BSFA are going to try and do a combined Eastercon Eurocon in 2028. I'm going to talk about that a
+
+200
+00:19:22,320 --> 00:19:26,480
+ little bit. Liz what do you reckon? I wasn't in the bid session so I didn't actually hear much about
+
+201
+00:19:26,480 --> 00:19:34,000
+ the 2028 bid but is it Alan Stroud bidding for 2028 or the BSFA as in the person by Alan Stroud?
+
+202
+00:19:34,000 --> 00:19:39,600
+ Alan was the one who talked but he said it would be a BSFA convention. He said the BSFA is going to
+
+203
+00:19:39,600 --> 00:19:45,200
+ bring forward a bid for Eastercon and Eurocon and I thought that was fascinating. I talked to somebody
+
+204
+00:19:45,200 --> 00:19:50,400
+ at the bar who I'm not going to shout out here who's like we spent decades trying to extract the
+
+205
+00:19:50,400 --> 00:19:55,440
+ Eastercon from the clutches of the BSFA and I was like no because it would only be one year it
+
+206
+00:19:55,440 --> 00:20:00,960
+ wouldn't like be a big permanent thing. I feel like I'd like to see the BSFA run raise their website
+
+207
+00:20:00,960 --> 00:20:05,680
+ came quite a lot before the bid and if they don't I think that's one of the things I'd be asking
+
+208
+00:20:05,680 --> 00:20:11,040
+ in a bid session for example yeah you know I'd like to see some evidence that the BSFA can run the BSFA
+
+209
+00:20:11,040 --> 00:20:18,080
+ before they try run the Eastercon. Lightly edited.
+
+210
+00:20:18,080 --> 00:20:29,040
+ I mean I'll keep it in but uh please direct Alison Scott at her. Alison's Alison's opinions do
+
+211
+00:20:29,040 --> 00:20:34,480
+ not necessarily reflect the opinions of her co-hosts. No I think it would be interesting so I have two
+
+212
+00:20:34,480 --> 00:20:39,840
+ worries which is firstly I do think I guess my main worry is that I've never been to an Eastercon
+
+213
+00:20:39,840 --> 00:20:44,800
+ that was also a year ago and I really like Eastercon and my main worry is that a year ago that isn't
+
+214
+00:20:44,800 --> 00:20:48,800
+ Eastercon won't feel as much like an Eastercon and I will miss having an Eastercon.
+
+215
+00:20:48,800 --> 00:20:56,640
+ I mean we don't there's no way to know right but but because Chamorocon was a year ago and that
+
+216
+00:20:56,640 --> 00:21:00,720
+ felt like an Eastercon but it wasn't an Eastercon so I do appreciate it could go the other way but
+
+217
+00:21:00,720 --> 00:21:05,440
+ yeah so so year of cons very quite very quite a lot but they're very a lot less than they used to
+
+218
+00:21:05,440 --> 00:21:10,640
+ actually so Eurekos got a bit of a really solid vibe of its own that's quite different from the
+
+219
+00:21:10,640 --> 00:21:18,160
+ Eastercon vibe so that is interesting. I myself have been to I mean not one that I've been for as it
+
+220
+00:21:18,160 --> 00:21:25,920
+ happens. Eastercons so so I have been to an Eastercon it was also a year con and it was also my first
+
+221
+00:21:25,920 --> 00:21:31,360
+ convention it was Ccon 84 and it was amazing so it was my first convention ever and I know that
+
+222
+00:21:31,360 --> 00:21:34,960
+ there were it was in the Brighton Metro Pearl I know there were a huge number of things wrong with it
+
+223
+00:21:34,960 --> 00:21:40,640
+ but I did not notice any of them because I was having an amazing time because it was my first
+
+224
+00:21:40,640 --> 00:21:45,520
+ Eastercon ever and I did I tried to do everything I didn't quite you know I didn't give the hay lecture
+
+225
+00:21:45,520 --> 00:21:51,840
+ but you know I did despite obviously not being on the program I find myself on the program a
+
+226
+00:21:51,840 --> 00:22:00,720
+ couple of times and and I like filked and I drank quite a lot and I did stayed up far too late and
+
+227
+00:22:00,720 --> 00:22:07,280
+ we were staying in a terrible terrible bed and breakfast and and I mean every it was the whole
+
+228
+00:22:07,280 --> 00:22:13,280
+ of the Cambridge the Cambridge Science Fiction Society and essentially every flat surface in this
+
+229
+00:22:13,280 --> 00:22:19,920
+ bed and breakfast had somebody sleeping on it and yeah it was it was amazing so yeah I think
+
+230
+00:22:19,920 --> 00:22:25,120
+ so I guess my other worry not worry but I think the other thing is that because Alan specifically
+
+231
+00:22:25,120 --> 00:22:29,840
+ named checked fantasy con when he was talking about running an Eastercon and obviously fantasy
+
+232
+00:22:29,840 --> 00:22:34,880
+ con also has a slightly different complexion to an Eastercon and I am that is that is three
+
+233
+00:22:34,880 --> 00:22:40,080
+ different approaches to convention running and it will be interesting to see how they blend and you
+
+234
+00:22:40,080 --> 00:22:44,480
+ know I think that could be very good but I'm also perhaps a little bit more wary than I would
+
+235
+00:22:44,480 --> 00:22:51,040
+ otherwise be if if it was coming from a group that had run Eastercons before as opposed to a
+
+236
+00:22:51,040 --> 00:22:57,120
+ different group but we will see I am so yeah those are my kind of thoughts I guess as they are
+
+237
+00:22:58,000 --> 00:23:03,200
+ but it is exciting to have kind of bid starting to rumble this far out because I can't remember
+
+238
+00:23:03,200 --> 00:23:08,960
+ the last time we had an idea of what the three year hence bid might be like as a public out in
+
+239
+00:23:08,960 --> 00:23:13,360
+ the open thing there's always gossip but like it's kind of nice to be able to talk about it out
+
+240
+00:23:13,360 --> 00:23:18,000
+ in the open and and and yeah yeah I thought it was really good that they could adapt so that we could
+
+241
+00:23:18,000 --> 00:23:23,920
+ put a good pontificate about it all the pod for yes I mean I'm I think the only era kind of been
+
+242
+00:23:23,920 --> 00:23:32,320
+ to is the one in Dublin in 2014 which I did enjoy but I was also basically dead so I just ate a lot
+
+243
+00:23:32,320 --> 00:23:37,280
+ of cookies um no a lot of cookies um I think there's a few things to be interesting like
+
+244
+00:23:37,280 --> 00:23:42,240
+ at the moment I don't have a vision of what a convention organized by the BSAFA is differently
+
+245
+00:23:42,240 --> 00:23:46,800
+ to a convention an Eastercon which is organized by people who happen to be part of the BSAFA
+
+246
+00:23:46,800 --> 00:23:51,360
+ be interesting if that means they can like send to more BSAFA stuff maybe get kind of a bit of a
+
+247
+00:23:51,360 --> 00:23:56,640
+ closer link more members involved in the BSAFA um if the BSAFA is a charity by then I don't
+
+248
+00:23:56,640 --> 00:24:00,480
+ know if that makes any difference to whether a kind of a charity can actually sponsor running
+
+249
+00:24:00,480 --> 00:24:05,200
+ the event and how that might make a difference to our finances and how things run and yeah I
+
+250
+00:24:05,200 --> 00:24:10,560
+ just want to know kind of okay if you're a Eurocom what are the kind of obligatory Eurocom things you
+
+251
+00:24:10,560 --> 00:24:15,120
+ have to do other than the awards and the bid session and I'm sure someone will tell me but
+
+252
+00:24:15,120 --> 00:24:19,600
+ we'll tell you at length that's it very few you can do whatever you like okay from the audience
+
+253
+00:24:19,600 --> 00:24:25,280
+ the BSAFA also as far as I can see is primarily an organization just catering for the needs of
+
+254
+00:24:25,280 --> 00:24:29,360
+ science fiction authors and people who would like to be science fiction authors and Eastercon is a
+
+255
+00:24:29,360 --> 00:24:34,240
+ fan-run convention which is primarily catering for the needs of science fiction fans and I want to
+
+256
+00:24:34,240 --> 00:24:41,600
+ see what they would have to say about that I think yeah I hope the BSAFA caters too I think I've
+
+257
+00:24:41,600 --> 00:24:45,120
+ made this argument before I comment from made it on the podcast but I think there are three kind of
+
+258
+00:24:45,120 --> 00:24:50,160
+ sort of broad things in fandom there's the people who make the stuff the people who talk about the
+
+259
+00:24:50,160 --> 00:24:56,400
+ stuff and the people who enjoy the stuff and by that I mean writers reviewers and fans and I think
+
+260
+00:24:56,400 --> 00:25:01,200
+ the BSAFA in an ideal world represents all three constituencies but obviously the exact kind of
+
+261
+00:25:01,200 --> 00:25:08,560
+ ratios is in flux as the makeup of the BSA is in flux and so I hope that any BSA convention or
+
+262
+00:25:08,560 --> 00:25:14,800
+ an Eastercon would represent all of those groups but it will be interesting to see how that the
+
+263
+00:25:14,800 --> 00:25:20,960
+ emphasis shifts but yeah I mean I'm actually quite excited about the BSAB because I think
+
+264
+00:25:20,960 --> 00:25:25,280
+ if we kind of say things like it would be good if the BSAB did all of these things then they would
+
+265
+00:25:25,280 --> 00:25:29,680
+ probably get on and do all of those things or try to do all of those things and I think it could be
+
+266
+00:25:29,680 --> 00:25:34,320
+ absolutely amazing Malcolm points out that if you had given the Hay Lecture at Ccon that would
+
+267
+00:25:34,320 --> 00:25:39,280
+ have been pretty amazing because they didn't start until about 2000. Yes that was a joke do you think
+
+268
+00:25:39,280 --> 00:25:43,520
+ I should have actually said a thing saying this is a joke before I made the joke? I mean given that
+
+269
+00:25:43,520 --> 00:25:47,760
+ the convention you talked about was when I was minus four and it started when I was 11 you might
+
+270
+00:25:47,760 --> 00:25:52,480
+ find that some of us don't understand the historical context for the joke. I was telling the joke
+
+271
+00:25:52,480 --> 00:25:57,120
+ for the audience many of whom were older than were plenty older than us would be there. Us poor
+
+272
+00:25:57,120 --> 00:26:03,680
+ co-hosts don't get to the other joke. John that was your one and only allowed mention of how young you were
+
+273
+00:26:03,680 --> 00:26:08,800
+ when the rest of us started going to East Cuns. There was a young one when I was first on the
+
+274
+00:26:08,800 --> 00:26:16,000
+ East Con Committee. I think not many maybe less than that. When we did not have a slide deck because
+
+275
+00:26:16,000 --> 00:26:21,520
+ slide decks had not been invented when I first bit the East Con but we did have a promotional
+
+276
+00:26:21,520 --> 00:26:29,040
+ videography I didn't know you went that far. There was another um there was another bid that was
+
+277
+00:26:29,040 --> 00:26:35,200
+ announced by Marcus Streets who I think had also been looking at 2028 and seemed a bit miffed.
+
+278
+00:26:35,200 --> 00:26:42,560
+ So and then he was like I might have to postpone then to 2029 so we will see whether he comes
+
+279
+00:26:42,560 --> 00:26:48,400
+ background to 2029 but I had heard rumours that he was planning but he actually stood up on stage
+
+280
+00:26:48,400 --> 00:26:55,840
+ and said it so so yeah he is also thinking about bidding for an East Con. Does Marcus have a site
+
+281
+00:26:55,840 --> 00:27:00,640
+ in mind? I don't know he just said he was thinking about bidding for an East Con but it's not clear
+
+282
+00:27:00,640 --> 00:27:04,400
+ to me whether the BSFA has a site in mind I can't remember if they said. He was definitely thinking
+
+283
+00:27:04,400 --> 00:27:10,080
+ about bidding for 2027 as well so he's been kind of slipping into the future. There's a song about
+
+284
+00:27:10,080 --> 00:27:15,280
+ that. Yeah at some point you've got to bid and not just be saying your bid because if the problem
+
+285
+00:27:15,280 --> 00:27:20,640
+ with someone saying they'll bid is at some point he needs to become a concrete bid or other people
+
+286
+00:27:20,640 --> 00:27:24,960
+ who might want to bid for that year don't have time to get that together so you do kind of have to
+
+287
+00:27:24,960 --> 00:27:29,040
+ at some point say you know concretely this is my year I am going for it and then we have like
+
+288
+00:27:29,040 --> 00:27:34,080
+ the two years to get something else organised if you fail to get a site. Phil is waving his hand
+
+289
+00:27:34,080 --> 00:27:41,440
+ at me. Hello Phil. Sue Dawson says in the chat that the BSFA site is indeed Birmingham. I assume
+
+290
+00:27:41,440 --> 00:27:46,640
+ the Birmingham LEC is not not any other site in Birmingham yeah yeah how nice is it to be a
+
+291
+00:27:46,640 --> 00:27:51,600
+ East Con in a city apropos of nothing where you actually walk out of the convention there's
+
+292
+00:27:51,600 --> 00:27:57,360
+ restaurants and bars everywhere and other hotels and things like that. Yes it's lovely it is lovely
+
+293
+00:27:57,360 --> 00:28:04,320
+ Belfast is very very nice so and I do also want to note there are rumours of a 2029 East Con which
+
+294
+00:28:04,320 --> 00:28:09,360
+ is not the Marcus Streets East Con but that is not yet public and there's also rumours of a
+
+295
+00:28:09,360 --> 00:28:17,600
+ of a 2030 East Con bid that might be sort of in the vicinity of the north so yes.
+
+296
+00:28:18,560 --> 00:28:26,800
+ And I was trying to argue in the bar that 20 2030 should definitely be in London to be the
+
+297
+00:28:26,800 --> 00:28:31,440
+ 100th anniversary of the ill-third gathering of science fiction fans that was the beginning of
+
+298
+00:28:31,440 --> 00:28:35,920
+ organised science fiction fandom. Well I've started talking to everyone about Newcastle so
+
+299
+00:28:35,920 --> 00:28:42,800
+ and if you think Glasgow had a vibrant food culture you wait until you see a little delicacy called
+
+300
+00:28:42,800 --> 00:28:49,840
+ Greggs. So there's a Greggs very close to our hotel as it happens here in Belfast.
+
+301
+00:28:49,840 --> 00:28:54,080
+ All right are you saying Greggs is very outside Newcastle this is scandalous it will never it
+
+302
+00:28:54,080 --> 00:28:59,040
+ will never stand um but yes but yes shall we talk a little bit about Belfast Liz I understand
+
+303
+00:28:59,040 --> 00:29:05,120
+ you had a burger. I did have a burger. Good excellent. I'm trying to work out what John wants
+
+304
+00:29:05,120 --> 00:29:14,000
+ to know about this burger. Tell us about the burger. So after some cocktails were partaken off
+
+305
+00:29:14,000 --> 00:29:18,800
+ yesterday a few of us went in search of food and we went to one place around the corner
+
+306
+00:29:18,800 --> 00:29:22,000
+ and they were full and we said oh do you where do you recommend and they named two places so
+
+307
+00:29:22,000 --> 00:29:26,560
+ we went to one of those and they said oh we stopped serving food and we asked them okay well where do
+
+308
+00:29:26,560 --> 00:29:30,160
+ you recommend and they said how about that burger place across the street is really good so we
+
+309
+00:29:30,160 --> 00:29:34,880
+ went to the burger place across the street and it was really good. They serve burgers cheese burgers
+
+310
+00:29:34,880 --> 00:29:41,520
+ and a variety of types of chips and that is it vegetarians do not go there. Yes the menu was on a
+
+311
+00:29:41,520 --> 00:29:48,640
+ business card which I particularly like and we went to a place called Rattlebag for cocktail
+
+312
+00:29:48,640 --> 00:29:53,920
+ and there were cocktails and my head is sore. Oh the burger place was called Bunsen sorry people
+
+313
+00:29:53,920 --> 00:29:59,920
+ in the chat are asking Bunsen. We are somehow I think all staying in like the trendiest hotel in
+
+314
+00:29:59,920 --> 00:30:06,560
+ Belfast which has a little hidden cocktail bar and a rooftop pizza place and yeah I mean we are not
+
+315
+00:30:06,560 --> 00:30:13,280
+ all staying there but quite in I meant I meant the podcast not the whole room the three of us are
+
+316
+00:30:13,280 --> 00:30:19,760
+ in a room together with beds in the shape of an octothorpe we have pillow fights every night it's
+
+317
+00:30:19,760 --> 00:30:28,880
+ great. Have you been in my dreams again John? So I set up a group chat for the people who were staying
+
+318
+00:30:28,880 --> 00:30:34,800
+ in the in the in the hotel and and this girl was like no you can't have a group chat with
+
+319
+00:30:34,800 --> 00:30:39,600
+ more than 10 people it's got about 25 people on it so a lot of people are staying in that hotel
+
+320
+00:30:39,600 --> 00:30:48,400
+ it does that. So and we we also went there's just Belfast is great like so so the you know there's
+
+321
+00:30:48,400 --> 00:30:54,880
+ bread there's cocktails there's white pudding and black pudding and all sorts of things and it's
+
+322
+00:30:54,880 --> 00:31:00,080
+ all amazing. Oh and I also want to say so you know how conference centres not world renowned for
+
+323
+00:31:00,080 --> 00:31:05,760
+ their food and drink the ICC here the little bar that they've got which is firstly amazing because
+
+324
+00:31:05,760 --> 00:31:08,640
+ right next to the art show in the fan tables and round the corner from the details of dealers room
+
+325
+00:31:08,640 --> 00:31:12,640
+ there's loads of seating so it feels really good but the other thing is that that little bar
+
+326
+00:31:12,640 --> 00:31:18,960
+ has cans of like local Belfast like pale ails and also does great sausage rolls so I am pleasantly
+
+327
+00:31:18,960 --> 00:31:25,520
+ surprised by the ICC's food offering and you know the Hilton bar exists and you can play things from
+
+328
+00:31:25,520 --> 00:31:30,560
+ it. The Food and Hilton bar is not bad actually I had lunch there yesterday. So I have not been
+
+329
+00:31:30,560 --> 00:31:38,240
+ having lunch because I've been having breakfast in the hotel where it's like if you imagine one of
+
+330
+00:31:38,240 --> 00:31:43,200
+ the best breakfast cafes you've ever been into and then an OHS who says oh you can order anything
+
+331
+00:31:43,200 --> 00:31:47,680
+ you like if you want some extras that's fine too or some sides and then you can have as many flat
+
+332
+00:31:47,680 --> 00:31:51,600
+ whites as you can drink which is not a thing that has ever happened to be before and would you like
+
+333
+00:31:51,600 --> 00:31:56,720
+ some juice and pastries as well and so I have felt no need to have lunch on any day of this
+
+334
+00:31:56,720 --> 00:32:03,440
+ convention which is great. When we were checking in I went and I bought a croffin and a coffee and
+
+335
+00:32:03,440 --> 00:32:06,880
+ the guy was like if you're staying in the hotel it's free if you've got the breakfast package and I
+
+336
+00:32:06,880 --> 00:32:10,880
+ was like haven't checked in yet so I think I probably need to pay you some money but there yeah it's
+
+337
+00:32:10,880 --> 00:32:16,880
+ very very lovely and I think we locked it down. Well I think Claire Braley did an exhaustive search
+
+338
+00:32:16,880 --> 00:32:21,520
+ of all the hotels in Belfast and told us which one to book in fact which is like looking out.
+
+339
+00:32:21,520 --> 00:32:25,920
+ And one of the suggestions from the audience was to talk about our favorite cocktail so they made
+
+340
+00:32:25,920 --> 00:32:32,560
+ me a put I don't know how to pronounce it poi poi tin. Pushing. Pushing sour. That's actually
+
+341
+00:32:32,560 --> 00:32:38,480
+ lovely. Cheesy chips. I was gonna go I was gonna go it's not the cartoon cat.
+
+342
+00:32:38,480 --> 00:32:41,760
+ But yeah Pushing sour. That's Pushing.
+
+343
+00:32:41,760 --> 00:32:48,400
+ Lovely. Is that they sound sort of similar. They sound more similar than that poutine but yes
+
+344
+00:32:48,400 --> 00:32:53,120
+ Liz what was your favorite cocktail? I had a gimlet and it was very nice. I also had a cosmo
+
+345
+00:32:53,120 --> 00:32:57,600
+ I believe there is I mean they so they do cocktails with classic names but they're not exactly like
+
+346
+00:32:57,600 --> 00:33:03,120
+ the classic cocktails. There is a photo of me holding my cosmo while I look very excited to have been
+
+347
+00:33:03,120 --> 00:33:07,920
+ given a cocktail. Yes and there's also a photo of all our drinks where Liz looks deeply unimpressed.
+
+348
+00:33:07,920 --> 00:33:12,800
+ Yeah because I came in late and so I didn't have a drink yet. So it was just like seven drinks and
+
+349
+00:33:12,800 --> 00:33:18,320
+ is being like. But I did try all of them so. We went with Tammy Coxon and that was very fun
+
+350
+00:33:18,320 --> 00:33:26,480
+ because for those who don't know Tammy is a expert in cocktails and the picture of Liz has been posted
+
+351
+00:33:26,480 --> 00:33:31,200
+ into the discord chat. So Tammy does. No that's a different picture I hadn't seen that one.
+
+352
+00:33:33,280 --> 00:33:41,200
+ So Tammy does excellent cocktail workshops and has done them for our little online convention
+
+353
+00:33:41,200 --> 00:33:47,200
+ and she has been here and she does a podcast called Tiny Bottles and she came to me on Friday
+
+354
+00:33:47,200 --> 00:33:53,840
+ and said do you happen to know anyone who habitually drank baby sham and I asked Farrah and I believe
+
+355
+00:33:53,840 --> 00:34:00,080
+ that Farrah has tasted a historic baby sham with Tammy and I won't spoil the podcast but Farrah was
+
+356
+00:34:00,080 --> 00:34:08,000
+ like I used to drink baby sham all the time. I am also going to be on a forthcoming episode of
+
+357
+00:34:08,000 --> 00:34:12,800
+ Tammy's podcast and I made her drink a glitter bomb which I was very happy to be able to do.
+
+358
+00:34:12,800 --> 00:34:18,400
+ Excellent. You've got to go and question from the audience do you want to explain what that is
+
+359
+00:34:18,400 --> 00:34:24,000
+ and my answer is you've got to go and watch or listen to the podcast. I'm driving traffic
+
+360
+00:34:24,880 --> 00:34:30,400
+ but yeah it was fun. It reminded me of my youth. We will put a link to Tammy's podcast in the
+
+361
+00:34:30,400 --> 00:34:38,160
+ show notes. My favourite cocktail they there was a very good Negroni on the menu and later in the
+
+362
+00:34:38,160 --> 00:34:44,240
+ weekend because I've been drinking this bar a lot apparently. I don't my memory is not entirely
+
+363
+00:34:44,240 --> 00:34:51,680
+ clear but later in the weekend the chap whose bar it is was like but perhaps you would like a
+
+364
+00:34:51,680 --> 00:35:01,040
+ left hand which is a Negroni except with bourbon instead of gin but actually the bourbon is
+
+365
+00:35:01,040 --> 00:35:07,520
+ cacao infused and I said that does sound fabulous and that was I think my favourite of the
+
+366
+00:35:07,520 --> 00:35:16,320
+ seven or eight cocktails I have added that bar. Yeah no it's um yeah in my head.
+
+367
+00:35:18,160 --> 00:35:23,680
+ So we had all other audience suggestions. What's the best punctuation mark? The Octothorpe.
+
+368
+00:35:23,680 --> 00:35:30,080
+ Yeah that's what I said. Yeah sorry. I do not have a favourite punctuation mark. Liz is well
+
+369
+00:35:30,080 --> 00:35:34,480
+ adjusted everyone Liz remains the one adjusted member of the podcast. Now everyone in the bar
+
+370
+00:35:34,480 --> 00:35:38,400
+ yesterday thought semicolon. I was going to say my actual favourite punctuation mark is indeed
+
+371
+00:35:38,400 --> 00:35:47,120
+ the semicolon I am sorry. I like full stops. I like I yeah now a good dash a good dash. Oh you can't
+
+372
+00:35:47,120 --> 00:35:51,920
+ mean it. And dash. John did you know that I don't know which dash should be used in which place and
+
+373
+00:35:51,920 --> 00:36:00,880
+ so I just use them interchangeably. Liz I had a suspicion. I met Claire Brawley would not be happy
+
+374
+00:36:00,880 --> 00:36:06,800
+ because I have to send Claire things to proofread and Claire has like a physical punctuation mark
+
+375
+00:36:06,800 --> 00:36:12,880
+ which is like someone rolling their eyes and whenever I send Claire anything to proofread
+
+376
+00:36:12,880 --> 00:36:19,040
+ that's the reaction I get even and I know it's there even if I even if I didn't see it. So someone
+
+377
+00:36:19,040 --> 00:36:23,360
+ in the discord and entourage has written semicolon is what I want to be but dash is who I really am.
+
+378
+00:36:23,360 --> 00:36:29,200
+ That's very good. So entourage we had an Octothorpe meetup I should say so there are
+
+379
+00:36:29,200 --> 00:36:32,800
+ a couple people. I think everyone who came to the Octothorpe meetup. It was fun. I had fun. I
+
+380
+00:36:32,800 --> 00:36:36,400
+ hope everyone else had fun. And we met some listeners we hadn't met before which was very nice
+
+381
+00:36:36,400 --> 00:36:41,760
+ so that was good. Yeah. Two to be exact. Yeah two. Yeah. One of the results entourage was as well
+
+382
+00:36:41,760 --> 00:36:45,600
+ I thought of it. Yes. Yeah. Yeah. So hello entourage. And emission was the other one. I don't know
+
+383
+00:36:45,600 --> 00:36:52,400
+ as emission is he? Hello. Yes. And um. Yes. No emission. Yeah. And then I Alison and Liz both
+
+384
+00:36:52,400 --> 00:36:57,040
+ asked for our thought ribbons and I refused to give them them. Yeah. Like where are your ribbons?
+
+385
+00:36:57,040 --> 00:37:03,360
+ No. No. No. No. No. No. No. John. And I was like hmm. So John continued not giving me an octothoribbon
+
+386
+00:37:03,360 --> 00:37:09,840
+ past the point where I stopped finding it funny and up to the point where I started finding it
+
+387
+00:37:09,840 --> 00:37:19,280
+ pretty blood irritating. Yep. This reminds me so for listeners who remember the discussion of the
+
+388
+00:37:19,280 --> 00:37:23,840
+ timing of the meetup where I pretended to think that you were talking about a 9am meetup both
+
+389
+00:37:23,840 --> 00:37:29,040
+ Alison and Liz after I did that edit of the podcast send a message in Discord saying John did you
+
+390
+00:37:29,040 --> 00:37:36,560
+ mean to take to keep the bit in where you're a dick? And I was like yes. Yes I did. Why break
+
+391
+00:37:36,560 --> 00:37:42,720
+ the habit of a lifetime? Yes. Um. All right. Stewart asked us to do some serious talking about
+
+392
+00:37:42,720 --> 00:37:47,120
+ con pricing. Yes. Well I asked a question in the bit session which was like I'm surprised by how
+
+393
+00:37:47,120 --> 00:37:53,840
+ low the prices are for the two upcoming East cons. I want to say they are both higher than.
+
+394
+00:37:53,840 --> 00:37:59,920
+ So the previous few East cons have started their pricing at 70 pounds. And these ones start at
+
+395
+00:37:59,920 --> 00:38:05,440
+ 1885 and that is encouraging because I do think it does need to go up a bit. But yeah I still
+
+396
+00:38:06,000 --> 00:38:12,080
+ I guess I don't know. It surprises me that you can do it that low. But I mean maybe I'm just off base.
+
+397
+00:38:12,080 --> 00:38:17,360
+ I don't know and I don't know when I don't know where the rate will go up to. But we've talked
+
+398
+00:38:17,360 --> 00:38:21,120
+ about this one previous episode but yeah do I do you have any thoughts? Well these two conventions
+
+399
+00:38:21,120 --> 00:38:27,280
+ are both based primarily around a hotel. If you base it around a conference centre then the
+
+400
+00:38:27,280 --> 00:38:32,160
+ membership is going to have to pay for that. So that that in itself is I think this convention
+
+401
+00:38:32,160 --> 00:38:35,920
+ is managing with its conference centre. I think because it has successfully
+
+402
+00:38:35,920 --> 00:38:42,080
+ we've built a very large sum of money out of Belfast City Council. And in fact I would say one
+
+403
+00:38:42,080 --> 00:38:46,960
+ of the things about this weekend is have you noticed how the entire city of Belfast is absolutely
+
+404
+00:38:46,960 --> 00:38:52,240
+ delighted to have us here and really everywhere you go people are kind of talking about us and
+
+405
+00:38:52,240 --> 00:38:57,920
+ the convention and being really positive about it. And yeah it's really nice. So and that's one
+
+406
+00:38:57,920 --> 00:39:01,920
+ of the things that is clearly something that's a good thing for Belfast. Very excited to get
+
+407
+00:39:01,920 --> 00:39:08,480
+ get us and that's nice. Mike Scott in the Discord points out the levitation started at 95.70.
+
+408
+00:39:08,480 --> 00:39:12,720
+ Levitation is now LYA. If you look at the other three they were very very consistent price.
+
+409
+00:39:12,720 --> 00:39:16,960
+ I thought you had an early bird rate that was lower than that. I don't think I paid now to five
+
+410
+00:39:16,960 --> 00:39:22,880
+ pounds. I can't remember. I can't remember. But they might was on the committee so I guess
+
+411
+00:39:22,880 --> 00:39:29,280
+ I can't remember which one was levitation the one in Telford. Ah okay. Yes yes. But yeah would you
+
+412
+00:39:29,280 --> 00:39:34,960
+ come back to Belfast for an Easter come? Yes. Me too. Oh yes. I and also people have been kind of
+
+413
+00:39:34,960 --> 00:39:40,880
+ saying the the site is very spread out but I didn't find it very hard far. I think because the
+
+414
+00:39:40,880 --> 00:39:46,560
+ Hilton bar is bang in the middle. So you get to the ICC by walking out of the bar one way and you get
+
+415
+00:39:46,560 --> 00:39:50,960
+ to the functional space here by walking out of the bar the other way. And because if ever I want to
+
+416
+00:39:50,960 --> 00:39:56,960
+ get anywhere it needs to come I have to start by walking out of the bar. It just seemed fine.
+
+417
+00:39:56,960 --> 00:40:01,600
+ It didn't seem unreasonable at all. So I didn't think it was a strong out spite. But it's clearly
+
+418
+00:40:01,600 --> 00:40:05,520
+ if you're kind of at the far end of the Hilton functional space and you want to get to the far
+
+419
+00:40:05,520 --> 00:40:12,400
+ end of the ICC it might be quite well. It's not. I mean I said to like Meg Meg writes in the discord.
+
+420
+00:40:12,400 --> 00:40:17,040
+ Alison walked out of the bar. Okay walked is a strong word but yes.
+
+421
+00:40:17,040 --> 00:40:26,000
+ But yeah so so the... Wasn't the bar with the cocktails. The thing is I think this conference
+
+422
+00:40:26,000 --> 00:40:30,000
+ space. I'm pretty sure I've been to Birmingham conventions where the rooms were further apart
+
+423
+00:40:30,000 --> 00:40:34,640
+ than they are here. Like I don't think it's that bad. Yeah there are some super distant rooms in
+
+424
+00:40:34,640 --> 00:40:38,880
+ that Hilton right. I'm not sure if we've used them in the most recent cons but there are some
+
+425
+00:40:38,880 --> 00:40:44,080
+ words like continue down the long corridor looking for the beware of the leopard sign kind of thing.
+
+426
+00:40:44,080 --> 00:40:49,360
+ When I remembered do you remember the Ocons that the Radisson Edwardian that was that was a mate?
+
+427
+00:40:49,360 --> 00:40:54,240
+ Yes because apparently I am the only person who feels that the Radisson Edwardian is a perfectly
+
+428
+00:40:54,240 --> 00:40:58,080
+ sensibly laid out hotel and doesn't get lost. Liz is well adjusted.
+
+429
+00:40:58,080 --> 00:41:03,360
+ But this is this spizz to be me versus like the entire fandom and Diana
+
+430
+00:41:03,360 --> 00:41:07,200
+ when Jones has was being discussed on on Blue Sky earlier. I mean like yeah.
+
+431
+00:41:07,200 --> 00:41:10,640
+ I think that hotel is pretty reasonably laid out too but I just pretend that I don't
+
+432
+00:41:10,640 --> 00:41:16,160
+ so I can fit in with everyone else. Please like me please. I think part of the reason is that the
+
+433
+00:41:16,160 --> 00:41:21,760
+ the hotel was totally differently configured the first time we used it from the second time we
+
+434
+00:41:21,760 --> 00:41:27,920
+ used it and that makes a big difference. Maybe. So that normally if we go back to like even if
+
+435
+00:41:27,920 --> 00:41:32,720
+ you go back after 20 or 30 years Easter got hotels and much much the same as they used to be
+
+436
+00:41:32,720 --> 00:41:38,240
+ except with slightly cleaner wallpaper sometimes but not that one because of the pool that we
+
+437
+00:41:38,240 --> 00:41:42,880
+ weren't supposed to take glasses into disappeared so we can no longer take glasses into it.
+
+438
+00:41:42,880 --> 00:41:49,440
+ Okay so in 1996 when we're not going to make a joke about how old John was we went to the
+
+439
+00:41:49,440 --> 00:41:55,440
+ Eastcon in the Radisited Waterian called Evolution. Oh and he threw. And he threw. Oh okay. Cool cool cool.
+
+440
+00:41:55,440 --> 00:41:59,360
+ Yeah and we did not take glasses into the pool which is the source of that joke. I guess there
+
+441
+00:41:59,360 --> 00:42:04,320
+ was like comfort space all around the pool in a way that was ideally suited to just like hanging
+
+442
+00:42:04,320 --> 00:42:08,640
+ out with your drink if you'd been allowed to which we weren't. Have we covered everything that we
+
+443
+00:42:08,640 --> 00:42:14,880
+ were told to talk about? I think so and it is half past which means we have the end of hour one.
+
+444
+00:42:14,880 --> 00:42:19,520
+ Yeah. When are we doing pics? Yeah. Okay but we're going to take some audience questions.
+
+445
+00:42:19,520 --> 00:42:25,760
+ Oh I wanted to call out Nicholas but it scrolled out. Nicholas told us about a punctuation mark.
+
+446
+00:42:25,760 --> 00:42:30,240
+ So would you like to tell us about the punctuation mark from a roving mic or something and then
+
+447
+00:42:30,240 --> 00:42:33,760
+ could you take the roving mic to other people Nicholas? Thank you. It's the on button for the
+
+448
+00:42:33,760 --> 00:42:38,240
+ moment. So I don't mean Nicholas. I've been reading the moderator guides the chap in the middle of
+
+449
+00:42:38,240 --> 00:42:44,720
+ the room with the pointy ears. I don't know how you turn it on. The person in the middle of the room
+
+450
+00:42:44,720 --> 00:42:47,280
+ Thank you. Sorry. The parent is on I didn't.
+
+451
+00:42:47,280 --> 00:42:51,120
+ Doesn't the moderator guide say or not supposed to comment on people's physical characteristics?
+
+452
+00:42:51,120 --> 00:42:58,720
+ Sorry. The person in the middle of the room cosplaying somebody with pointy ears.
+
+453
+00:42:58,720 --> 00:43:02,640
+ I think I'm cosplaying a Hugo administrator actually.
+
+454
+00:43:02,640 --> 00:43:09,920
+ But I wanted to let everybody know about the Temerote slack which is used in the Ethiopian
+
+455
+00:43:09,920 --> 00:43:16,080
+ languages Amharic, Gairs, Tigrine, maybe a couple of other ones as well. And it is used to indicate
+
+456
+00:43:16,080 --> 00:43:22,320
+ irony or sarcasm. You can find it on your computer because it looks exactly the same as the inverted
+
+457
+00:43:22,320 --> 00:43:28,240
+ exclamation mark which is used in Spanish for the start of sentences that end with exclamation marks
+
+458
+00:43:28,240 --> 00:43:34,000
+ in other languages. Although then the problem is you have to find all the other Gairs alphabet
+
+459
+00:43:34,000 --> 00:43:38,160
+ letters on your computer which will take a little bit more digging. But I think it's the single best
+
+460
+00:43:38,160 --> 00:43:43,040
+ punctuation mark I've ever come across and I wanted to make sure that everybody else heard about it.
+
+461
+00:43:43,040 --> 00:43:46,960
+ So thank you for calling me for that question. Yeah right.
+
+462
+00:43:46,960 --> 00:43:51,680
+ I do now have a favourite punctuation mark.
+
+463
+00:43:51,680 --> 00:43:58,480
+ Right so does anyone have a question? Put a hand up and we will deliver a microphone to you.
+
+464
+00:43:58,480 --> 00:44:03,920
+ There must be some questions. Come on don't be shy. Oh there's a question person there wearing
+
+465
+00:44:03,920 --> 00:44:12,160
+ gold. No sunglasses with grey. So this is one of the very deep important philosophical questions.
+
+466
+00:44:12,160 --> 00:44:14,480
+ Tati Skones or potato bread which do you prefer?
+
+467
+00:44:14,480 --> 00:44:20,080
+ Okay no less doss. I will have both please thank you.
+
+468
+00:44:20,080 --> 00:44:25,920
+ Like quite like the wheat and bread actually. Yeah the Northern Irish wheat and bread is very good.
+
+469
+00:44:25,920 --> 00:44:30,880
+ I didn't hear the question sorry can you repeat it for me? Do we like Tati Skones or potato bread?
+
+470
+00:44:30,880 --> 00:44:35,120
+ I don't know. I'm not sure I've had either actually.
+
+471
+00:44:35,120 --> 00:44:37,760
+ I've got to take Liz and get her to give her food.
+
+472
+00:44:37,760 --> 00:44:44,320
+ So yes yesterday at dinner I had a starter which was different breads from Belfast and I had the
+
+473
+00:44:44,320 --> 00:44:50,160
+ starter to myself and it was for 10 bits of bread and I was very happy because I love breading in
+
+474
+00:44:50,160 --> 00:44:57,040
+ Ireland it is so good. Did you start to come with chips? No I had no chips yesterday.
+
+475
+00:44:58,240 --> 00:45:02,480
+ What apart from the burgers? No I didn't have a burger. I had the burger yesterday.
+
+476
+00:45:02,480 --> 00:45:07,600
+ Yes I had potatoes. I mean admittedly I had mashed and roast potatoes but that's just you know the
+
+477
+00:45:07,600 --> 00:45:13,360
+ UK. Carbs on carbs with a carb for starter. This does seem to be in general quite a carb forward
+
+478
+00:45:13,360 --> 00:45:18,160
+ food culture. What Britain yes I agree. No no but first comment is "fan you made when she moved
+
+479
+00:45:18,160 --> 00:45:23,600
+ to the UK was you guys really like carbs" and I was like yes yes we do. You put a carb in the carb
+
+480
+00:45:23,600 --> 00:45:29,200
+ and then you have it with a carb. Oh yeah no that's like a chip butty. Yeah yeah yeah. Any other
+
+481
+00:45:29,200 --> 00:45:33,840
+ questions there was one. There's definitely Tony's got a question. He's going to ask us about chip
+
+482
+00:45:33,840 --> 00:45:40,160
+ person over there with the blue tea. Call Tony. Is it tuned to ask your suggestions for candidates
+
+483
+00:45:40,160 --> 00:45:53,040
+ for the next Pope? Yes but I understand Alison has never been Pope so
+
+484
+00:45:54,000 --> 00:46:00,400
+ No um as I think we've previously suggested that Dave McCarty.
+
+485
+00:46:00,400 --> 00:46:09,200
+ Oh right. So I'm not going to take a picture of Paddington as the Pope.
+
+486
+00:46:09,200 --> 00:46:16,240
+ Is there like a Conclave RPG yet? And if not so I want to do one more next year.
+
+487
+00:46:16,240 --> 00:46:21,040
+ And if there isn't well we'll do some Googling. There is a convention called Conclave but I
+
+488
+00:46:21,040 --> 00:46:25,120
+ can't remember where or why but I know that in my head so it must be true right?
+
+489
+00:46:25,120 --> 00:46:31,040
+ It's an American one I think. Yes yes probably statistically that's likely.
+
+490
+00:46:31,040 --> 00:46:38,320
+ That has all the vertical. Well I mean there's a good idea but maybe not in Belfast.
+
+491
+00:46:38,320 --> 00:46:44,640
+ I know I know I know I should probably wash my ears out but I heard that as Battercon.
+
+492
+00:46:46,800 --> 00:46:49,920
+ I mean Battersea Power Station. Can you hold a con there?
+
+493
+00:46:49,920 --> 00:46:58,160
+ Could we call the convention at Battersea Power Station convention in the station?
+
+494
+00:46:58,160 --> 00:47:01,840
+ It's a snappy name but we could workshop it slightly more.
+
+495
+00:47:01,840 --> 00:47:08,000
+ Bridget says can we buy memberships with papal?
+
+496
+00:47:08,000 --> 00:47:13,840
+ And Conclave was in Michigan. I knew I'd do it excellent thank you very much.
+
+497
+00:47:14,720 --> 00:47:19,360
+ Right and also so does anyone else have a question?
+
+498
+00:47:19,360 --> 00:47:23,920
+ Any you can ask anything on your mind anything you've won that includes you discord you can
+
+499
+00:47:23,920 --> 00:47:26,240
+ start with the poke puns and ask a question if you like.
+
+500
+00:47:26,240 --> 00:47:32,960
+ Oh there's someone over there with a lovely blue cardie over a lighter blue t-shirt.
+
+501
+00:47:32,960 --> 00:47:41,040
+ All right so question now what I think you've talked about about in general but
+
+502
+00:47:42,160 --> 00:47:46,640
+ of items you were on for what has been your favourite that hasn't been mentioned.
+
+503
+00:47:46,640 --> 00:47:49,200
+ Shall I start? Yes.
+
+504
+00:47:49,200 --> 00:47:56,080
+ Because I accidentally forgot to fill in the programme form and so I then went oh I forgot
+
+505
+00:47:56,080 --> 00:47:59,680
+ what to fill in the programme form. I should write to them and say it's a bit late but can I be
+
+506
+00:47:59,680 --> 00:48:04,880
+ on the programme and then I went or alternatively I could not do that and it's really amazing.
+
+507
+00:48:04,880 --> 00:48:09,440
+ So the only other item I was on apart from this one was the fan funz auction.
+
+508
+00:48:10,080 --> 00:48:13,600
+ So hands up everyone who's in a cocktail bar during the fan funz auction.
+
+509
+00:48:13,600 --> 00:48:19,840
+ Well done and but nevertheless we had yeah no you definitely I thought you were as well.
+
+510
+00:48:19,840 --> 00:48:22,240
+ I can't. Yeah no I'm okay good.
+
+511
+00:48:22,240 --> 00:48:27,280
+ Like my co but we raised a ton of money so thank you everyone who came along and bid
+
+512
+00:48:27,280 --> 00:48:33,440
+ and what's amazing is that we raised it from one suitcase full of items so that that's so much
+
+513
+00:48:33,440 --> 00:48:37,120
+ less work than normal I mean it was still quite a bit of work but thank you we raised
+
+514
+00:48:37,120 --> 00:48:42,320
+ 1100 pounds for the fan funds next year we're having a massive fan funz extravaganza
+
+515
+00:48:42,320 --> 00:48:50,320
+ at iridescent so we will have a voice auction and a silent auction and some direct sales and
+
+516
+00:48:50,320 --> 00:48:56,080
+ something that is like amaze balls or tambola or something so if you are coming to iridescents
+
+517
+00:48:56,080 --> 00:49:01,440
+ bring us like just clear out your cupboards and we might throw some things away but we will also
+
+518
+00:49:01,440 --> 00:49:04,960
+ sell a lot of things for the benefit of the fan fun so thank you very much everyone.
+
+519
+00:49:04,960 --> 00:49:08,800
+ I missed the tambola so much that I was delighted to find that there was another tambola in the
+
+520
+00:49:08,800 --> 00:49:11,120
+ dealers room that I could give my pound coins to.
+
+521
+00:49:11,120 --> 00:49:13,440
+ This have you been on any other panels this weekend?
+
+522
+00:49:13,440 --> 00:49:15,360
+ I've been on one panel this weekend John.
+
+523
+00:49:15,360 --> 00:49:17,920
+ No was the other one where I was that next to you John?
+
+524
+00:49:17,920 --> 00:49:19,600
+ Do you want to talk about that one Liz?
+
+525
+00:49:19,600 --> 00:49:27,760
+ Yeah so we there was a panel on fandom politics and boycotts which you cannot watch because it was
+
+526
+00:49:27,760 --> 00:49:30,720
+ neither streamed nor recorded. Was that deliberate? Yes.
+
+527
+00:49:30,720 --> 00:49:36,320
+ Because we talked about like you know convention bids and mostly talking about world combids
+
+528
+00:49:36,320 --> 00:49:41,120
+ and specifically you know the politics around them and whether we should boycott them whether
+
+529
+00:49:41,120 --> 00:49:44,960
+ we should you know move bids in different countries what sort of standards should we have for bids?
+
+530
+00:49:44,960 --> 00:49:50,240
+ And I think it went quite well but we were maybe a little limited in that we were all people
+
+531
+00:49:50,240 --> 00:49:56,720
+ coming from a mostly you know from different European or American convention running traditions
+
+532
+00:49:57,360 --> 00:50:02,000
+ and when you're discussing like where you should take convention bids from it's nice to have people
+
+533
+00:50:02,000 --> 00:50:07,760
+ from other places that are considering doing that but with that limitation I think we made a good
+
+534
+00:50:07,760 --> 00:50:14,320
+ job of it. Yeah I hope so. I mean we came up with clear answers to the question which can be
+
+535
+00:50:14,320 --> 00:50:20,080
+ implemented easily and quickly. We did not that as a lie. We basically said it's really hard
+
+536
+00:50:20,080 --> 00:50:25,520
+ but we went into more detail than that. I tried to get into that program item but it was very full.
+
+537
+00:50:25,520 --> 00:50:32,080
+ It was full 15 minutes before it started which I is not often and I think I guess because it's not
+
+538
+00:50:32,080 --> 00:50:38,080
+ because it wasn't streamed actually. I think people are using the not streamed not catch up
+
+539
+00:50:38,080 --> 00:50:43,760
+ tags on Conchler and Discord quite heavily to work out what to prioritize so that probably helped a
+
+540
+00:50:43,760 --> 00:50:50,720
+ lot. Yeah so I did try to go to that so one thing for future programmers if you're not if you've got
+
+541
+00:50:50,720 --> 00:50:56,800
+ things that are not streamed and not recorded you might want to up the size of the room those
+
+542
+00:50:56,800 --> 00:51:01,680
+ things are in and swap out some of the things are streamed and recorded into because of room
+
+543
+00:51:01,680 --> 00:51:06,320
+ this size you know. We've got we've got about as many people as we always get for Octothorpe.
+
+544
+00:51:06,320 --> 00:51:14,240
+ We have a very steady audience. Doug says Doug says from the audience is this being recorded? It is
+
+545
+00:51:15,280 --> 00:51:22,320
+ probably. It always has two so you can either watch it on catch up when it's almost exactly the same as
+
+546
+00:51:22,320 --> 00:51:28,560
+ it goes out live or you can wait for the podcast and then you can compare which things have disappeared
+
+547
+00:51:28,560 --> 00:51:34,080
+ between the live show of the podcast. We have a question from Nicholas. I was going to give my
+
+548
+00:51:34,080 --> 00:51:39,360
+ answer to the previous question. I was on a panel which was history in board games and I thought
+
+549
+00:51:39,360 --> 00:51:53,200
+ that was very good. It had a excellent panel of Tim Kirk in more Russell Smith and Estema Count Stuart and it was I think it went really well. There was lots of very interesting chats.
+
+550
+00:51:53,200 --> 00:51:58,400
+ We kind of discussed a very wide range of games. If you're into games history or both then it
+
+551
+00:51:58,400 --> 00:52:06,320
+ I think is on catch up so yeah I liked that one. I went to a panel about 18th century witchcraft
+
+552
+00:52:06,320 --> 00:52:15,280
+ in county Antrim and it turned into a ukulele workshop. So change is the only constant.
+
+553
+00:52:15,280 --> 00:52:19,440
+ Are you going to give us a tune? My fingering is not very good Alison.
+
+554
+00:52:19,440 --> 00:52:23,840
+ Wow I'm not sure I need to know that thank you Nicholas.
+
+555
+00:52:23,840 --> 00:52:31,120
+ Have you considered octothor unplugged? Octothor unplugged. We
+
+556
+00:52:33,520 --> 00:52:40,720
+ did do octothor unplugged at Novicon because there were no microphones and we basically recorded it
+
+557
+00:52:40,720 --> 00:52:46,960
+ on an iPad and tried to speak very loudly. Unless you mean the sort of octothor after dark and we
+
+558
+00:52:46,960 --> 00:52:52,080
+ did that to the bar all the time. Well we just we just gossip too much when we're recording.
+
+559
+00:52:52,080 --> 00:52:56,720
+ There's too much that we cut out because we're not allowed to say it so we yeah I know it's tricky.
+
+560
+00:52:56,720 --> 00:53:00,560
+ But I'm not allowed to say it. I mean John doesn't allow us to say it. That's not true.
+
+561
+00:53:00,560 --> 00:53:05,440
+ There have been things I've said on the podcast that have been. But yes one day maybe.
+
+562
+00:53:05,440 --> 00:53:10,400
+ I still got all of the audio is still on my Synology so when I die people can go back through
+
+563
+00:53:10,400 --> 00:53:16,000
+ and like do all of the archival and stuff right. Don't get ideas. I mean I'll be dead first John
+
+564
+00:53:16,000 --> 00:53:23,760
+ because you're so much younger than I am. Yeah. Name of the episode. Right. Any other questions or
+
+565
+00:53:23,760 --> 00:53:26,960
+ should we move on to pics? I didn't know I was supposed to bring a pic. I know.
+
+566
+00:53:26,960 --> 00:53:31,120
+ We've always wanted to bring a pic. There have been some interesting comments on Discord actually
+
+567
+00:53:31,120 --> 00:53:36,320
+ pointing out that another issue with which items get streamed and which don't is you tend to have
+
+568
+00:53:36,320 --> 00:53:41,120
+ the streaming gear in the bigger rooms because they're going to be more popular stuff for streaming.
+
+569
+00:53:41,120 --> 00:53:43,920
+ And so that kind of affects that you know if you're then putting the on-stream things in the
+
+570
+00:53:43,920 --> 00:53:48,240
+ bigger rooms where you've set up all the streaming tech then that's an issue. So you got a balance
+
+571
+00:53:48,240 --> 00:53:52,960
+ at all. Yeah. Meg points out panelists sort of via the panelists says they don't want to be streamed.
+
+572
+00:53:52,960 --> 00:53:58,480
+ That's another consideration. It is a program is a complex and interlocking thing which is tricky.
+
+573
+00:53:58,480 --> 00:54:04,640
+ Pixar it didn't happen says "British Helpfully". I can't believe we've never made that joke in
+
+574
+00:54:04,640 --> 00:54:10,400
+ 133 episodes. No it's good. I love our listeners. Okay Liz you pick first.
+
+575
+00:54:10,400 --> 00:54:17,440
+ Do you want a serious pic or shall I just pick a funny easter con? I will pick easter con karaoke.
+
+576
+00:54:18,480 --> 00:54:23,440
+ Not solely responsible for why I am powered by cough syrup and strep seals this morning
+
+577
+00:54:23,440 --> 00:54:27,120
+ but might be a little bit of it. Because it was that nice mix of karaoke so
+
+578
+00:54:27,120 --> 00:54:32,640
+ tech said it all up so that you could just scan a little QR code and queue up songs on your phone.
+
+579
+00:54:32,640 --> 00:54:36,960
+ So you can you know scroll through the catalogue at your leisure and also see how long the queue
+
+580
+00:54:36,960 --> 00:54:42,400
+ is and when you're up which is pretty good. It had a very very wide range of things and people
+
+581
+00:54:42,400 --> 00:54:48,560
+ sang a very very wide range of things and it was just like good nature and fun and I enjoyed the
+
+582
+00:54:48,560 --> 00:54:52,800
+ slight battlement of different cultures coming together and seeing what other people consider
+
+583
+00:54:52,800 --> 00:54:59,360
+ to be top-notch karaoke songs. Yeah no the karaoke was great that's a good pic. Alison what's your
+
+584
+00:54:59,360 --> 00:55:06,560
+ pic? Well I picked the halexer right at the beginning so I'd have and then we've also talked quite a
+
+585
+00:55:06,560 --> 00:55:13,440
+ lot about the cocktail bar that might also feel my pick and I think I might be running out of.
+
+586
+00:55:13,440 --> 00:55:22,800
+ That's basically what I've done at breakfast. The steak? The steak was good but I mean I don't
+
+587
+00:55:22,800 --> 00:55:27,120
+ really like picking a steakhouse because steaks are expensive and we're very very rarely steak.
+
+588
+00:55:27,120 --> 00:55:31,920
+ It's extremely unusual for us. Steaks are expensive but the halexer requires you to come to easter con
+
+589
+00:55:31,920 --> 00:55:38,320
+ and steaks are relatively inexpensive by comparison. Yeah if you so basically here's how it worked.
+
+590
+00:55:38,320 --> 00:55:47,040
+ I was like we have saved 40 quid a night per room by staying in the other hotel so as we've taken
+
+591
+00:55:47,040 --> 00:55:53,200
+ two rooms and it's five nights so that's 400 quid and as it happened the week a couple of days
+
+592
+00:55:53,200 --> 00:55:56,960
+ before easter con we had an incredibly expensive meal. I was like that's great because that's covered
+
+593
+00:55:56,960 --> 00:56:00,960
+ by the money we've saved on our easter con bill and then I was in the cocktail bar and I was like
+
+594
+00:56:00,960 --> 00:56:04,640
+ well you know these cocktails are pretty expensive but it's been covered by the money we saved on
+
+595
+00:56:04,640 --> 00:56:09,680
+ easter con bill and then we went to have to the steakhouse and the steak's for amazing
+
+596
+00:56:09,680 --> 00:56:14,240
+ which I was like oh it's fine because it's covered by the money we've saved on the easter con
+
+597
+00:56:14,240 --> 00:56:20,000
+ on the easter con hotel bill but in fact it turns out that if you count up the money we spent
+
+598
+00:56:20,000 --> 00:56:24,080
+ at the fabulous restaurant and the money we spent at the steak restaurant and the money we spent
+
+599
+00:56:24,080 --> 00:56:29,680
+ at the fish restaurant and the money we spent at the cocktail bar it is all taken together
+
+600
+00:56:29,680 --> 00:56:34,800
+ quite a lot more than the amount we saved on the hotel room yes but it's always the way
+
+601
+00:56:34,800 --> 00:56:45,280
+ my pick is going to be the last cocktail we got at the cocktail bar so we had we were with
+
+602
+00:56:45,280 --> 00:56:50,080
+ Tammy Coxon who does a podcast we went to do earlier and she when she goes for cocktail bar she wants
+
+603
+00:56:50,080 --> 00:56:54,320
+ to have every cocktail on the menu so she's like everyone must have a different cocktail and we must
+
+604
+00:56:54,320 --> 00:57:01,680
+ each try all of us and so we did that and there were 16 cocktails maybe 12 cocktails but there were
+
+605
+00:57:01,680 --> 00:57:06,000
+ eight of us so by the time we were ordering the second there must have been 12 cocktails because
+
+606
+00:57:06,000 --> 00:57:09,200
+ when we were ordering the second round we ordered the other four off the menu and then we wanted
+
+607
+00:57:09,200 --> 00:57:14,240
+ four that were not on the menu which they and we basically said it would surprise us and the bartender
+
+608
+00:57:14,240 --> 00:57:20,320
+ gave us the most world weary eye roll I have ever seen it was great and said well give me a word
+
+609
+00:57:20,320 --> 00:57:27,680
+ and we all gave him a word and then it was decided that we should have a cocktail for the table and
+
+610
+00:57:27,680 --> 00:57:34,480
+ Meg gave him the word science fiction and he located in is it Diford's guide which is a big cocktail
+
+611
+00:57:34,480 --> 00:57:40,640
+ guide he located the pan-galactic gargle blaster and he brought us a pan-galactic gargle blaster
+
+612
+00:57:40,640 --> 00:57:46,400
+ which had cranberries and raspy puree and was a deep purple and if you go up in the chat that is
+
+613
+00:57:46,400 --> 00:57:53,680
+ the drink that Liz is sipping in the photo that was posted and it was extremely delicious but he said
+
+614
+00:57:53,680 --> 00:57:59,280
+ if you can guess this cocktail you get to be the first to try it and Tammy said is it a pan-galactic
+
+615
+00:57:59,280 --> 00:58:08,080
+ gargle blaster and he said yes and then she went no but it was it was very delightful and someone
+
+616
+00:58:08,080 --> 00:58:12,960
+ in the chat has said maybe we could you give them the word octothorp and see what they made so that
+
+617
+00:58:12,960 --> 00:58:19,600
+ is quite tempting but yes it was it was very good and it was it was not much like a slice of lemon
+
+618
+00:58:19,600 --> 00:58:24,480
+ wrapped around a large gold brick but it was very kind of give one last shout out actually
+
+619
+00:58:24,480 --> 00:58:29,040
+ because I realized what I could have picked which is there are some puzzle boxes or there were some
+
+620
+00:58:29,040 --> 00:58:36,160
+ puzzle boxes outside the fan tables and they come from like a escape room place in Belfast too obviously
+
+621
+00:58:36,160 --> 00:58:39,920
+ hoping that we will stay long enough to go and do their escape rooms and then I had to inform them
+
+622
+00:58:39,920 --> 00:58:45,120
+ nope I'm leaving on Tuesday but they brought two of their 30 puzzle boxes and they are
+
+623
+00:58:45,120 --> 00:58:49,520
+ really good fun I think they're probably closed by now so you can't do them sorry but they were
+
+624
+00:58:49,520 --> 00:58:55,120
+ really good fun I am going to get Stephen to stand up and model his t-shirt which he won by us doing
+
+625
+00:58:55,120 --> 00:59:00,560
+ the puzzle boxes it is a place called prison island they have escape rooms and puzzle boxes
+
+626
+00:59:00,560 --> 00:59:07,280
+ and yeah it was I we did we did the first one in no time flat and we were like feeling really
+
+627
+00:59:07,280 --> 00:59:12,960
+ chuffed with ourselves and then we did the second one and we got stuck twice at once
+
+628
+00:59:12,960 --> 00:59:17,200
+ because it's quite a hard puzzle and the other time because we were very incompetent
+
+629
+00:59:17,200 --> 00:59:21,680
+ I remember because I was in the art show now I remember listening to you playing that little
+
+630
+00:59:21,680 --> 00:59:28,560
+ piano for what seemed like hours well that's partly because we carried on playing the piano
+
+631
+00:59:28,560 --> 00:59:33,440
+ for some time after we solved the puzzle as well but we did have to get a hint for the piano and then
+
+632
+00:59:33,440 --> 00:59:37,920
+ and then I they've gone now so I can say there was a puzzle where you had to pull something out of
+
+633
+00:59:37,920 --> 00:59:41,440
+ the side of the box and we had tried to pull it out of the side of the box earlier
+
+634
+00:59:41,440 --> 00:59:46,240
+ failed and consumed it and concluded it was locked but he was like no it's just it's just
+
+635
+00:59:46,240 --> 00:59:50,560
+ telling that with the we magnet you know it just so it doesn't fall out when we move it
+
+636
+00:59:50,560 --> 00:59:56,320
+ it just comes out so yeah wasn't very clever all right so that was picks and I think that
+
+637
+00:59:56,320 --> 01:00:01,760
+ probably means it's time to wrap up so is there anything we haven't covered I don't think so
+
+638
+01:00:01,760 --> 01:00:05,600
+ audience it's just a shame we didn't have any tables for people to hide under this time
+
+639
+01:00:05,600 --> 01:00:12,480
+ so thank you very much to cat who has been handling the tech for us and has been fantastic
+
+640
+01:00:12,480 --> 01:00:13,440
+ wow how do I force your tech
+
+641
+01:00:13,440 --> 01:00:24,720
+ thank you thank you very much to Nicholas for running the mic thank you to
+
+642
+01:00:24,720 --> 01:00:30,320
+ Meg McDonald and the rest of the program team for putting us on program and giving us a
+
+643
+01:00:30,320 --> 01:00:34,640
+ two-hour slot which is very lovely and thank you to everyone else on the Belfast
+
+644
+01:00:34,640 --> 01:00:41,040
+ concom who have been great input on this wonderful convention and yeah thank you so much for coming
+
+645
+01:00:41,040 --> 01:00:46,080
+ we'll be doing Octothorpe live we can say that can we I think we yeah we're planning to do Octothorpe live
+
+646
+01:00:46,080 --> 01:00:49,760
+ at Nova cons with anyone that so if you're coming to Nova cons they'll be an Octothorpe live that
+
+647
+01:00:49,760 --> 01:00:55,200
+ and maybe with a stunt list and so that was the Octothorpe podcast and it's goodbye for me
+
+648
+01:00:55,200 --> 01:00:57,360
+ it's goodbye from me and it's goodbye from me
+
+649
+01:00:57,360 --> 01:01:06,720
+ [Applause]
+
+650
+01:01:06,720 --> 01:01:26,720
+ [Music]
+
+651
+01:01:26,720 --> 01:01:30,640
+ [Coughing]
+
+652
+01:01:30,640 --> 01:01:34,960
+ You alright Liz? Yeah sure we have a little 10 second break otherwise we'll hear me coughing on
+
+653
+01:01:34,960 --> 01:01:37,360
+ everyone's mic [Coughing]
+
+654
+01:01:37,360 --> 01:01:39,040
+ If everyone wants to cough please cough now
+
+655
+01:01:39,040 --> 01:01:44,480
+ thus ensuring that whole bit stays in the podcast
+
+656
+01:01:44,480 --> 01:01:48,240
+ sorry we're good continue
+
+657
+01:01:48,240 --> 01:01:53,440
+ the theme music for this episode was fanfare for space by Kevin McLeod in
+
+658
+01:01:53,440 --> 01:02:01,040
+ comfatec.com used under a creative Collins attribution 4.0 license this podcast will end at the beep
+
+659
+01:02:01,040 --> 01:02:03,040
+ beeeep
+
+660
+01:02:03,040 --> 01:02:06,040
+ (indistinct chatter)
+
