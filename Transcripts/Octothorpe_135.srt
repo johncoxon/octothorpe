@@ -1,0 +1,708 @@
+1
+00:00:00,000 --> 00:00:06,240
+ I have to tell Jerry that we've recorded this now so that she needs to get a finger out and get idea finished.
+
+2
+00:00:06,240 --> 00:00:25,360
+ Hello everyone and welcome to a very special bonus episode of Octothorpe, a podcast for
+
+3
+00:00:25,360 --> 00:00:31,680
+ Crassong and other pastries. I'm John Coxon, I'm Alison Scott and I'm Liz Batty.
+
+4
+00:00:31,680 --> 00:00:34,320
+ Wait, so quite some today?
+
+5
+00:00:34,320 --> 00:00:40,240
+ Yes, so when I decided to start writing my guff report, I decided that most of the
+
+6
+00:00:40,240 --> 00:00:44,800
+ articles were going to be about kind of topics rather than, you know, I went here and I
+
+7
+00:00:44,800 --> 00:00:52,160
+ ate this and I ate that and I ate the other and so also when we had Sandra Bond on doing a very
+
+8
+00:00:52,160 --> 00:00:58,240
+ funny and excellent portion of her Taff report, I thought I know I could do a portion of my
+
+9
+00:00:58,240 --> 00:01:04,480
+ guff report live on Octothorpe, well not live, but on Octothorpe and that would be good and it
+
+10
+00:01:04,480 --> 00:01:09,840
+ would make sense to be the one about Quaslon because obviously I eat a lot of almond quaslon
+
+11
+00:01:09,840 --> 00:01:14,800
+ and I eat a lot of almond quaslon on Octothorpe but not today because today we're recording on a
+
+12
+00:01:14,800 --> 00:01:21,760
+ Saturday rather than a Sunday so I ate at McDonald's instead but hey that's probably off topic already.
+
+13
+00:01:21,760 --> 00:01:26,240
+ So this might get a better title for the printed report but at the moment it is called
+
+14
+00:01:26,240 --> 00:01:31,120
+ Quaslon Engineering, shall I just get going? You guys should interrupt or laugh or whatever
+
+15
+00:01:31,120 --> 00:01:35,840
+ because otherwise I'm going to be very worried by the end of my...
+
+16
+00:01:35,840 --> 00:01:46,400
+ It's going to be like, you know, have your tumbleweed react ready. I'm really not a very picky person.
+
+17
+00:01:48,800 --> 00:01:52,960
+ Was that an intentional joke because it was very funny. Yes! Oh good!
+
+18
+00:01:52,960 --> 00:01:59,200
+ Except as it happens in the matter of coffee shop, I have to have nice coffee obviously and
+
+19
+00:01:59,200 --> 00:02:04,880
+ somewhere comfortable sit down. Ideally that spot should be at a table, big enough to set a tablet
+
+20
+00:02:04,880 --> 00:02:10,080
+ and keyboard on and reasonably close to a pass socket and definitely not a barstools. I'm not
+
+21
+00:02:10,080 --> 00:02:15,840
+ great with barstools on account of having to climb up them. I'm not at all fussy about the
+
+22
+00:02:15,840 --> 00:02:21,120
+ internet access that my coffee shop either free Wi-Fi or fast mobile collection will do and they
+
+23
+00:02:21,120 --> 00:02:26,400
+ need of course to serve a banging almond quassel. So it's a curious thing the almond quassel. What
+
+24
+00:02:26,400 --> 00:02:31,840
+ other peak of human achievement is best made from leftovers? Okay, bubble and squeak. But
+
+25
+00:02:31,840 --> 00:02:36,000
+ almond quassels were developed as a way to use up yesterday's quassel no longer saleable in their
+
+26
+00:02:36,000 --> 00:02:41,760
+ own right. At this point I have to draw a veil over my much-missed local Greg's Outlet Store,
+
+27
+00:02:41,760 --> 00:02:46,960
+ which sold dale croissants in their own right, but they were fine. Take a bunch of dale
+
+28
+00:02:46,960 --> 00:02:50,640
+ croissants, fill them with franger pan, you cover them with icing sugar and almond flakes,
+
+29
+00:02:50,640 --> 00:02:55,600
+ heat them up and nobody will ever know. And yet somehow this has been extrapolated to a work of art,
+
+30
+00:02:55,600 --> 00:02:59,680
+ the sugar and the heat provide just the right degree of caramelisation. There are so many moving
+
+31
+00:02:59,680 --> 00:03:03,680
+ parts, there must be a thousand different ways to make one. In my case I'm after something that
+
+32
+00:03:03,680 --> 00:03:07,200
+ is anxiously perfect in all respects with just the right balance of franger pan,
+
+33
+00:03:07,200 --> 00:03:13,680
+ quassel and sugar and almond. And by right, of course, I mean to my taste, because what
+
+34
+00:03:13,680 --> 00:03:17,680
+ other right could there possibly be? And of course in the manner of the connoisseur,
+
+35
+00:03:17,680 --> 00:03:24,640
+ CXKCD915, I am almost invariably disappointed. This one is too dry, that one is too soggy,
+
+36
+00:03:24,640 --> 00:03:28,480
+ that one has come from the supermarket and no they're never really good, not even the premium ones.
+
+37
+00:03:28,480 --> 00:03:33,760
+ They can be a dale, but not packed with nitrogen and stuffed with preservatives. This one is
+
+38
+00:03:33,760 --> 00:03:38,880
+ vegan, sorry vegans, but the texture of vegan quassels is too crispy for me. These ones have
+
+39
+00:03:38,880 --> 00:03:43,120
+ been made with a single bacon, not a double one, this one doesn't have enough franger pan,
+
+40
+00:03:43,120 --> 00:03:47,200
+ this one has too much and this other one has incorrectly distributed it so one end is
+
+41
+00:03:47,200 --> 00:03:51,440
+ unctuous and the other end is empty. Despite this trail of continuous disappointment,
+
+42
+00:03:51,440 --> 00:03:56,000
+ I order quite a few other quassels as such for the perfect one, I am hampered in this endeavour.
+
+43
+00:03:56,000 --> 00:04:00,080
+ By all insisting on always pronouncing the thing, as I have been doing throughout this
+
+44
+00:04:00,080 --> 00:04:05,840
+ segment, Armand Quasse, who is coincidentally also the hero of my epic fantasy novel.
+
+45
+00:04:05,840 --> 00:04:11,520
+ That's a kind of written joke that will work better in the written version of the article.
+
+46
+00:04:11,520 --> 00:04:18,240
+ This does seem to be entirely the correct way to say it, but in many coffee shops I also have to
+
+47
+00:04:18,240 --> 00:04:24,800
+ put the object of my desire or change what I say to include all the letters I normally a bit,
+
+48
+00:04:24,800 --> 00:04:30,400
+ if I want to actually get an almond quassel, which I always do, Almond Quasselt.
+
+49
+00:04:30,400 --> 00:04:36,080
+ Armandquassels are not known for their health-giving properties and might even be considered a
+
+50
+00:04:36,080 --> 00:04:40,880
+ sometimes food, but the French eatquassels every day and universally the picture of elegance,
+
+51
+00:04:40,880 --> 00:04:45,600
+ they must be doing something right, even if that's just strong black coffee, unfiltered cigarettes
+
+52
+00:04:45,600 --> 00:04:50,000
+ and red wine. I realised this was billed as a chapter of my guff report and you might be wondering
+
+53
+00:04:50,000 --> 00:04:54,640
+ what any of this has to do with Australia. While I was oddly searching for interesting things to
+
+54
+00:04:54,640 --> 00:05:00,880
+ do in Melbourne, one of the things that came up was eat one of the world's best Armandquassel.
+
+55
+00:05:00,880 --> 00:05:05,200
+ Loon is a croissantery set up by a former Formula One racing car engineer.
+
+56
+00:05:05,200 --> 00:05:10,800
+ In one of those great origin stories Kate Reed was working at her dream job but finding it not
+
+57
+00:05:10,800 --> 00:05:16,240
+ all she'd hoped, so was baking a great many pastries to cheer herself up. Eventually she realised that
+
+58
+00:05:16,240 --> 00:05:22,160
+ what she needed was a pivot. I planned a pilgrimage. But Loon has several branches and we fortuitously
+
+59
+00:05:22,160 --> 00:05:26,880
+ passed one while touring the Central Business District with Jaddis Gellb on a cold rainy day.
+
+60
+00:05:26,880 --> 00:05:31,040
+ That allowed us to read a regular quest on but the Armandquassels had all gone for the day.
+
+61
+00:05:31,040 --> 00:05:36,320
+ At peak hours, i.e. before the Armandquassels run out, people queue around the block at Loon.
+
+62
+00:05:36,320 --> 00:05:40,880
+ It was then I learnt that Erwin Hirsch has a branch of Loon at the bottom of his block of flats.
+
+63
+00:05:40,880 --> 00:05:45,680
+ Erwin and Wendy had left their large family home for a new bill flat the previous year and were
+
+64
+00:05:45,680 --> 00:05:50,640
+ promised that that retail unit would have a cafe in it. Anticipating agreeable light lunches,
+
+65
+00:05:50,640 --> 00:05:54,720
+ they were non-plussed to discover it only solved coffee and up market quassels and such as soon
+
+66
+00:05:54,720 --> 00:06:01,200
+ as the latter sold out. Nevertheless, I pressed them to acquire quassels and we went round to see them.
+
+67
+00:06:01,200 --> 00:06:05,280
+ They were brought extra to take to the barbecue that Julian Warner and Lucy Sussex have put on
+
+68
+00:06:05,280 --> 00:06:10,960
+ our honor but also serve for us. And I finally got to try this world-class confection. It was
+
+69
+00:06:10,960 --> 00:06:16,560
+ exceptionally beautiful and as promised, very carefully engineered. The flaked arm and stuck
+
+70
+00:06:16,560 --> 00:06:21,680
+ up vertically like the swords of the iron throne. Most traditionally made Armandquassels a squished
+
+71
+00:06:21,680 --> 00:06:28,400
+ flat but this one retains its classic shape and it tasted very precise. It did balance the flavours
+
+72
+00:06:28,400 --> 00:06:33,840
+ very nicely and the French Japan was evenly spread throughout the croissant and not that sweet.
+
+73
+00:06:33,840 --> 00:06:39,360
+ Each bite was just as you would expect and act exactly as I'd say in principle that I desired.
+
+74
+00:06:39,920 --> 00:06:44,480
+ It looked perfect and it was delicious. You know that if you got another loon quassel it would be
+
+75
+00:06:44,480 --> 00:06:50,320
+ almost identical and just as nice. And I realised that my perfect Armandquassel would just be the
+
+76
+00:06:50,320 --> 00:06:57,040
+ tiniest bit soggier than the loon one and also just very slightly more random.
+
+77
+00:06:57,040 --> 00:07:03,360
+ I know what the title of this episode is now. What's the title of this episode John?
+
+78
+00:07:03,360 --> 00:07:06,960
+ Liz, do you know? No. Very slightly soggier.
+
+79
+00:07:08,400 --> 00:07:10,640
+ Okay. Also maybe the title of the article.
+
+80
+00:07:10,640 --> 00:07:17,440
+ We want you to make 12 identical pastries as they say on the Great British Bake Off
+
+81
+00:07:17,440 --> 00:07:23,200
+ but you could have too much identicalness. I want my Armandquassel distribution to have slightly more
+
+82
+00:07:23,200 --> 00:07:29,680
+ jiggle. No matter how many quassels I eat from Loon, they'll all everyone be in the uncanny
+
+83
+00:07:29,680 --> 00:07:35,040
+ valley of Armandquassel perfection. I have something to show you, declared Damien woman,
+
+84
+00:07:35,040 --> 00:07:38,640
+ after we returned from Womara to the House in Adelaide the following week.
+
+85
+00:07:38,640 --> 00:07:43,600
+ Thought you were about to show us something. But you're about to do like visual aids. No.
+
+86
+00:07:43,600 --> 00:07:48,640
+ No, I don't have anything to show you. No, there will be visual aids for this. I'll have a cover
+
+87
+00:07:48,640 --> 00:07:52,800
+ illustration for it and then maybe also a photograph of a loon Armandquassel. I have something to show
+
+88
+00:07:52,800 --> 00:07:57,760
+ you, declared Damien woman, after we returned from Womara to the House in Adelaide the following week.
+
+89
+00:07:57,760 --> 00:08:02,720
+ It turned out to be a fan scene, an art scene, not an SF scene, all about Armandquasselons.
+
+90
+00:08:02,720 --> 00:08:06,320
+ I was very excited about this because I thought I had found another connoisseur.
+
+91
+00:08:06,320 --> 00:08:10,560
+ I picked it up eagerly to learn about the author's take on the best faces to flying croissant,
+
+92
+00:08:10,560 --> 00:08:16,000
+ her identification of the characteristics of perfect croissant, and her experiences of eating
+
+93
+00:08:16,000 --> 00:08:20,240
+ them. But no, she merely likes Armandquassels and wants you to know that they're good.
+
+94
+00:08:20,240 --> 00:08:24,720
+ I should probably have been tipped off by the staples. It is true that I am almost as
+
+95
+00:08:24,720 --> 00:08:28,880
+ didactic about staples as I am about croissant, but I'd like to think that most people would
+
+96
+00:08:28,880 --> 00:08:33,760
+ struggle with these ones. They were stapled through the centrefold fanzine, a little way from the
+
+97
+00:08:33,760 --> 00:08:39,680
+ left margin. I'm so leaving a fold. Longarm staplers are not exactly rocket science, and I tell you,
+
+98
+00:08:39,680 --> 00:08:45,200
+ this method of fanzine production is shocked me. There we go. In general, Australian coffee is
+
+99
+00:08:45,200 --> 00:08:49,360
+ excellent, and don't they know it? And their coffee shops are generally pretty good, and their pastries
+
+100
+00:08:49,360 --> 00:08:54,080
+ are fine even when they're not a loon Armandquassel. People were very quick to tell me that I would
+
+101
+00:08:54,080 --> 00:08:59,120
+ find it hard to cope in New Zealand, where, according to Australians, the coffee bean is completely
+
+102
+00:08:59,120 --> 00:09:03,920
+ unknown. So as I travelled to New Zealand, I was excited to explore that country's take on my
+
+103
+00:09:03,920 --> 00:09:08,480
+ favourite pastry. But in practice, all thoughts of Armandquassel flew from my mind as I discovered
+
+104
+00:09:08,480 --> 00:09:14,320
+ that every coffee shop in the country, no matter how humble, serves cheese scones, mostly homemade.
+
+105
+00:09:14,320 --> 00:09:18,800
+ Luckily, I was not there long enough to establish a detailed ranking. I loved them all.
+
+106
+00:09:18,800 --> 00:09:24,400
+ So, staples. How do you feel about unstapled fanzines, Alison?
+
+107
+00:09:24,400 --> 00:09:29,200
+ I think they should. Well, I mean, I have no problem with unstapled fanzines
+
+108
+00:09:29,200 --> 00:09:32,000
+ when they are made out of a single sheet of paper.
+
+109
+00:09:32,000 --> 00:09:34,560
+ Oh dear, you're not of like to my fanzine.
+
+110
+00:09:34,560 --> 00:09:38,800
+ Oh, fine. I'm sure I don't like your fanzine. I just might have stapled it before reading it.
+
+111
+00:09:38,800 --> 00:09:40,720
+ That was what Mark used to do.
+
+112
+00:09:40,720 --> 00:09:42,320
+ Yeah, you know.
+
+113
+00:09:42,320 --> 00:09:43,440
+ He sent a lock.
+
+114
+00:09:43,440 --> 00:09:46,000
+ I have a long Armstapler, and I know how to use it.
+
+115
+00:09:47,360 --> 00:09:54,240
+ Did you find in general that the Almond-Crasants were better or worse than the UK?
+
+116
+00:09:54,240 --> 00:09:59,680
+ Like about the same, really. I'm in the same kind of range of really good ones to not like great ones.
+
+117
+00:09:59,680 --> 00:10:03,840
+ I mean, I didn't eat any supermarket ones, whereas in the UK, I do occasionally eat supermarket ones.
+
+118
+00:10:03,840 --> 00:10:07,280
+ I maybe shouldn't say it was that on the podcast, because the answer is
+
+119
+00:10:07,280 --> 00:10:10,880
+ "At the home of my friends when they serve us breakfast."
+
+120
+00:10:12,160 --> 00:10:17,600
+ My favourite Armstapler, of all, and this hasn't quite made it into the article are
+
+121
+00:10:17,600 --> 00:10:22,880
+ other ones from a pastry shop around the chocolateine, which was one of the things we didn't manage to last weekend,
+
+122
+00:10:22,880 --> 00:10:27,920
+ was go and get breakfast from chocolateine, because there were too many places to go and get breakfast from.
+
+123
+00:10:27,920 --> 00:10:29,680
+ You were too busy going to get beer?
+
+124
+00:10:29,680 --> 00:10:34,000
+ Yeah, no, we also had beer and breakfast on Sunday.
+
+125
+00:10:34,000 --> 00:10:41,760
+ Yeah, we went to a brewery called Blondys, and they open at 9am, and they have like a coffee bar,
+
+126
+00:10:41,760 --> 00:10:44,960
+ and they had pastries, and they had an almond croissant, which I actually thought
+
+127
+00:10:44,960 --> 00:10:50,160
+ I didn't like the filling very much, but they also had a cinnamon bun, which was very, very
+
+128
+00:10:50,160 --> 00:10:55,840
+ wonderful. And then they had beer and also curried goat. It was a good couple of hours.
+
+129
+00:10:55,840 --> 00:10:59,040
+ I could detect that the Armstapler, I probably would have had the Armstapler,
+
+130
+00:10:59,040 --> 00:11:02,000
+ which I don't know what principle of somebody hadn't ordered it first, but I could detect from a
+
+131
+00:11:02,000 --> 00:11:07,520
+ distance that it was going to disappoint me. I mean, Stephen's like this with Bonoffee Pies.
+
+132
+00:11:07,520 --> 00:11:11,840
+ You know, he always orders Bonoffee Pies whenever it's an option, and he's
+
+133
+00:11:11,840 --> 00:11:14,000
+ disappointed 99% of the time.
+
+134
+00:11:14,000 --> 00:11:17,440
+ Yeah, I think this is like me in Tiramisu. If I'm at Italian restaurant, I will almost always
+
+135
+00:11:17,440 --> 00:11:20,560
+ order the Tiramisu, and quite often be a little bit disappointed.
+
+136
+00:11:20,560 --> 00:11:25,840
+ Yeah, we had the Tiramisu at a pizza place in Newcastle, and it was like, it was a bit watery,
+
+137
+00:11:25,840 --> 00:11:30,480
+ and I was a bit like, oh, this is disappointing. It's got to be... yeah.
+
+138
+00:11:30,480 --> 00:11:33,200
+ The guy who invented Tiramisu died recently.
+
+139
+00:11:33,200 --> 00:11:39,680
+ Oh, that's sad. So, Julie... when we had Blockta, Julie used to make...
+
+140
+00:11:39,680 --> 00:11:44,640
+ so, Julie is Italian for people who don't know. Julie de Chasare, this is.
+
+141
+00:11:44,640 --> 00:11:51,520
+ She used to make Tiramisu at a giant turkey roasting tin for us, and she used to make
+
+142
+00:11:51,520 --> 00:11:56,320
+ an extra special one for Michael at the time didn't drink, so therefore didn't like the alcoholic
+
+143
+00:11:56,320 --> 00:12:02,320
+ content of Tiramisu. So, but in a smaller roasting tin. So, there was just this vast
+
+144
+00:12:02,320 --> 00:12:09,040
+ quantity of Tiramisu. You can't eat them vastly more than six adults, two children and a dog...
+
+145
+00:12:09,040 --> 00:12:13,760
+ a dog. Six adults, two children, a cat could possibly have eaten, and nevertheless,
+
+146
+00:12:13,760 --> 00:12:17,440
+ somehow we managed it every time, because it doesn't keep.
+
+147
+00:12:17,440 --> 00:12:23,120
+ There's a... if you ever visit Newcastle, which I will, there is a place called the Pink Lane
+
+148
+00:12:23,120 --> 00:12:27,600
+ Bakery, and they do my favorite Newcastle almond croissant, but they are not a coffee shop.
+
+149
+00:12:27,600 --> 00:12:33,600
+ What is your opinion on... ooh... places that are not a coffee shops? That's a very broad question,
+
+150
+00:12:33,600 --> 00:12:38,480
+ isn't it? Because it... oh yeah, that's quite complicated. So, I mean, are you saying places that
+
+151
+00:12:38,480 --> 00:12:44,960
+ serve almond croissant, but... and they're very, very good, but do not serve coffee, so you have to...
+
+152
+00:12:44,960 --> 00:12:49,680
+ they do serve coffee, and they do serve almond croissants. I've never had the coffee, so it might
+
+153
+00:12:49,680 --> 00:12:55,360
+ be terrible, and they also have nowhere to sit. Here's a counter. So, you take your almond croissant,
+
+154
+00:12:55,360 --> 00:12:59,920
+ and you sit somewhere... else? You maybe sit somewhere else, like,
+
+155
+00:12:59,920 --> 00:13:05,280
+ serves coffee, but then they might get the hump about you bringing food from other places.
+
+156
+00:13:05,280 --> 00:13:10,800
+ It's probably a summer activity, John. Obviously, what you need is a park. Yes, you need a park,
+
+157
+00:13:10,800 --> 00:13:14,960
+ which is near both the bakery which sells almond croissants, and maybe a little stall that sells
+
+158
+00:13:14,960 --> 00:13:19,680
+ good coffee. And on the 30 days a year when Newcastle's warm enough to use a park, I'm sure
+
+159
+00:13:19,680 --> 00:13:27,280
+ that's great. It's warm enough to use a park now, and it's March. I bet it is actually, it's lovely
+
+160
+00:13:27,280 --> 00:13:33,600
+ here this weekend. Yeah. I mean, global warming has its downsides, but the warmth in Newcastle is
+
+161
+00:13:33,600 --> 00:13:38,880
+ not one of them. Until the Gulf Stream goes away and it all goes horribly wrong. Oh yeah, then the
+
+162
+00:13:38,880 --> 00:13:43,040
+ coldness in Newcastle will be one of them. I've never tried making croissants because it seems
+
+163
+00:13:43,040 --> 00:13:49,520
+ like there are too many steps. Maybe one day. Massive, massive amount of work. Yeah. And then
+
+164
+00:13:49,520 --> 00:13:52,960
+ if you want an almond croissant, obviously, you have to make your croissants and then wait a day
+
+165
+00:13:52,960 --> 00:13:56,800
+ and then do all the French-Spanish almonds. Hmm, I think you could French-Spanish-Spanish
+
+166
+00:13:56,800 --> 00:14:04,320
+ almond them on day one. Yes, I don't know though. I think because Loon definitely keeps his,
+
+167
+00:14:04,320 --> 00:14:08,800
+ it bakes a load of croissants, and then it, and as it's selling more almond croissants than regular
+
+168
+00:14:08,800 --> 00:14:13,920
+ ones, it keeps a load of them for a day to make the almond croissants out of. But no, I've never
+
+169
+00:14:13,920 --> 00:14:21,040
+ made some, I've made laminated pastry a couple of times, but I generally speaking, I think there's
+
+170
+00:14:21,040 --> 00:14:26,880
+ a reason we haven't experts for this. Go find an expert, buy it from them. Oh yes. I think that's
+
+171
+00:14:26,880 --> 00:14:32,960
+ wise. In general, experts are good. That is the view of this podcast. Well, certainly for things
+
+172
+00:14:32,960 --> 00:14:39,120
+ like pastry chefs and plumbers. You're a plumber. If you're a plumber, write in. And that was the
+
+173
+00:14:39,120 --> 00:14:44,160
+ Octothorpe podcast, and it's goodbye from me. It's goodbye from me. And it's goodbye from me.
+
+174
+00:15:05,200 --> 00:15:09,520
+ Hang on, did I actually press the stop recording button? I did not. I should do that.
+
+175
+00:15:10,160 --> 00:15:16,000
+ The theme music for this episode was Fanfare for Space by Kevin MacLeod in Competec.com
+
+176
+00:15:16,000 --> 00:15:23,280
+ used under a Creative Commons attribution 4.0 license. This podcast will end at the beep. Beep.
+
+177
+00:15:23,280 --> 00:15:47,880
+ Thank you.
+
