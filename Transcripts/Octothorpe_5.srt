@@ -1,3036 +1,3504 @@
 1
-00:00:00,000 --> 00:00:03,000
- Oh, and the other thing I've learned is I can't sit back in my chair because it does this.
+00:00:00,001 --> 00:00:03,100
+Oh, and the other thing I've learned is I can't sit back in my chair because it does this.
 
 2
-00:00:03,000 --> 00:00:07,840
- And it turns out that you can hear that on the recording.
+00:00:03,100 --> 00:00:09,300
+And it turns out that you can hear that on the recording, so if I lean back when I'm speaking,
 
 3
-00:00:07,840 --> 00:00:10,520
- So if I leave that when I'm speaking, very difficult to add out.
+00:00:09,300 --> 00:00:10,660
+very difficult to edit out.
 
 4
-00:00:10,520 --> 00:00:22,080
- Hello, everyone.
+00:00:10,660 --> 00:00:25,640
+Hello everyone, and welcome to episode 5 of the Octothorpe podcast,
 
 5
-00:00:22,080 --> 00:00:28,520
- And welcome to episode five of the Oxford podcast, a podcast about science fiction and SF fandom.
+00:00:25,640 --> 00:00:29,600
+a podcast about science fiction and SF fandom. I'm Jon Coxon.
 
 6
-00:00:28,520 --> 00:00:29,920
- I'm John Coxon.
+00:00:30,040 --> 00:00:31,080
+I'm Alison Scott.
 
 7
-00:00:29,920 --> 00:00:31,400
- I'm Alison Scott.
+00:00:31,080 --> 00:00:32,360
+And I'm Liz Batty.
 
 8
-00:00:31,400 --> 00:00:32,560
- And I'm Liz Batty.
+00:00:32,360 --> 00:00:39,060
+And we have a letter of comment this week from Claire Briarley of Croydon.
 
 9
-00:00:32,560 --> 00:00:39,360
- And we have a letter of comment this week from Claire Breiley of Croydon.
+00:00:39,060 --> 00:00:44,400
+And one of the things she asks is, why do we always go Jon, Alison, Liz?
 
 10
-00:00:39,360 --> 00:00:44,720
- And one of the things she asks is, why do we always go John Allison Liz?
+00:00:44,400 --> 00:00:48,120
+Alison and Liz, do you want to reveal the secrets behind the curtain?
 
 11
-00:00:44,720 --> 00:00:48,480
- Alison and Liz, do you want to reveal the secrets behind the curtain?
+00:00:48,120 --> 00:00:52,560
+It's because if we don't go Jon, Alison, Liz, then...
 
 12
-00:00:48,480 --> 00:00:52,440
- It's because if we don't go John Allison Liz then.
+00:00:52,560 --> 00:00:55,200
+Then Alison and I talk at exactly the same time.
 
 13
-00:00:52,440 --> 00:00:55,520
- Then Alison and I talk exactly the same time.
+00:00:55,200 --> 00:00:58,920
+And every time we try and do it again, we again talk exactly the same time
 
 14
-00:00:55,520 --> 00:00:59,640
- And every time we try and do it again, we again talk exactly the same time and dissolve in
+00:00:58,920 --> 00:01:01,760
+and dissolve in fits of giggles and Jon Franz has.
 
 15
-00:00:59,640 --> 00:01:01,760
- Fitzgiggles and John Francis.
+00:01:01,760 --> 00:01:05,180
+And says we have to do it again.
 
 16
-00:01:01,760 --> 00:01:05,400
- And says we have to do it again.
+00:01:05,180 --> 00:01:09,540
+The beauty of having you record on separate tracks is actually that I can make it sound
 
 17
-00:01:05,400 --> 00:01:09,400
- The beauty of having you record on separate tracks is actually that I can make it sound
+00:01:09,540 --> 00:01:11,180
+like you didn't talk at the same time.
 
 18
-00:01:09,400 --> 00:01:11,000
- like you didn't talk at the same time.
+00:01:11,180 --> 00:01:14,560
+But yes, it does sound weird when you're listening to it live.
 
 19
-00:01:11,000 --> 00:01:14,720
- But yes, it does sound weird when you're listening to it lie.
+00:01:14,560 --> 00:01:18,360
+Yeah, but Claire is very observant and noticed that we do this.
 
 20
-00:01:14,720 --> 00:01:18,200
- Yeah, but Claire is very observant and noticed that we do this.
+00:01:18,360 --> 00:01:19,880
+But yes, that is indeed the reason.
 
 21
-00:01:18,200 --> 00:01:19,920
- But yes, that is indeed the reason.
+00:01:19,880 --> 00:01:23,180
+Claire also gave us some corrections.
 
 22
-00:01:19,920 --> 00:01:23,920
- Claire also gave us some corrections.
+00:01:24,180 --> 00:01:30,140
+So she noted that we got the fan fund bounty stuff slightly wrong last week.
 
 23
-00:01:23,920 --> 00:01:28,760
- So she noted that we got the fan fund bounty stuff.
+00:01:30,140 --> 00:01:34,660
+I did put that in the show notes because I realised I had done it wrong while I was talking about it.
 
 24
-00:01:28,760 --> 00:01:30,280
- Slightly wrong last week.
+00:01:34,660 --> 00:01:44,000
+But she noted that Fanac doesn't cover the guff trip reports and sci-fi still does.
 
 25
-00:01:30,280 --> 00:01:34,680
- I did put that in the show notes because I realised I had done it wrong while I was talking about it.
+00:01:44,120 --> 00:01:49,080
+And they're five years run from the date of the trip rather than from the date of winning the fund.
 
 26
-00:01:34,680 --> 00:01:43,920
- But she noted that Fanac doesn't cover the Guff trip reports and sci-fi still does.
+00:01:49,080 --> 00:01:50,540
+So that's good news for Alison.
 
 27
-00:01:43,920 --> 00:01:49,160
- And their five years run from the date of the trip rather than from the date of winning the fund.
+00:01:50,540 --> 00:01:53,860
+Because the date of the trip may be five years after winning the fund.
 
 28
-00:01:49,160 --> 00:01:50,800
- So that's good news for Alison.
+00:01:53,860 --> 00:01:56,740
+Indeed.
 
 29
-00:01:50,800 --> 00:01:53,800
- Because the date of the trip may be five years after winning the fund.
+00:01:57,380 --> 00:02:04,660
+The other thing that Claire mentioned is that she very carefully stores all of her Hugo finalist pins together
 
 30
-00:01:53,800 --> 00:01:57,400
- Indeed.
+00:02:04,660 --> 00:02:09,860
+and knows precisely where they are, which is extremely organised.
 
 31
-00:01:57,400 --> 00:02:03,480
- The other thing that Claire mentioned is that she very carefully stores all of her Hugo
+00:02:09,860 --> 00:02:15,400
+Alison, do you have any relevant anecdotes about Hugo pins and the care thereof?
 
 32
-00:02:03,480 --> 00:02:10,360
- Fidalis pins together and knows precisely where they are, which is extremely organised.
+00:02:15,400 --> 00:02:23,140
+Well, I was thinking about the care of Hugo pins because I have a neighbour who makes giant public artworks
 
 33
-00:02:10,360 --> 00:02:15,720
- Alison, do you have any relevant anecdotes about Hugo pins and the care they're off?
+00:02:23,140 --> 00:02:28,520
+out of little mosaic tiles and she normally generates these tiles in big community workshops
 
 34
-00:02:15,720 --> 00:02:21,960
- Well, I was thinking about the care of Hugo pins because I have a neighbour who makes giant
+00:02:28,520 --> 00:02:30,280
+and I've never quite managed to get to one of them.
 
 35
-00:02:21,960 --> 00:02:27,480
- public artworks out of little mosaic tiles and she normally generates these tiles in big
+00:02:30,280 --> 00:02:34,360
+These are beautiful and I will put a link to them on the show notes and you can be amazed.
 
 36
-00:02:27,480 --> 00:02:30,600
- community workshops and I've never quite managed to get to one of them.
+00:02:34,360 --> 00:02:36,640
+They are exactly what public art should be like.
 
 37
-00:02:30,600 --> 00:02:34,440
- These are beautiful and I will put a link to them on the show notes and you can be amazed.
+00:02:36,640 --> 00:02:42,880
+And in lockdown, she worked, she started off being a bit depressed that she couldn't have these big community workshops
 
 38
-00:02:34,440 --> 00:02:37,120
- They are exactly what public art should be like.
+00:02:42,880 --> 00:02:46,680
+and then she realised that she could roll out a lot of tiny little mosaic tiles
 
 39
-00:02:37,120 --> 00:02:41,560
- And in lockdown she worked, she started off being a bit depressed that she couldn't have
+00:02:46,680 --> 00:02:51,460
+and put them in boxes wet for local families to pick up
 
 40
-00:02:41,560 --> 00:02:42,920
- these big community workshops.
+00:02:51,460 --> 00:02:56,140
+and then stamp out the tiles using tools they find around the house and then return them.
 
 41
-00:02:42,920 --> 00:02:47,400
- And then she realised that she could roll out a lot of tiny little mosaic tiles and put
+00:02:56,140 --> 00:02:59,460
+And so I have stamped out a load of tiles with a load of things around the house
 
 42
-00:02:47,400 --> 00:02:53,520
- them in boxes wet for local families to pick up and then stamp out the tiles using tools
+00:02:59,460 --> 00:03:03,160
+that are important to me and to my family, including one of my Hugo pins.
 
 43
-00:02:53,520 --> 00:02:56,080
- they find around the house and then return them.
+00:03:03,160 --> 00:03:04,320
+Clay is inert.
 
 44
-00:02:56,080 --> 00:02:59,400
- And I so I have stamped out a load of tiles and a load of things around the house that
+00:03:04,320 --> 00:03:05,720
+It won't have done any permanent damage.
 
 45
-00:02:59,400 --> 00:03:03,480
- are important to me and to my family, including one of my Hugo pins.
+00:03:05,720 --> 00:03:09,340
+It does have quite a bit of clay on it now, but, you know, I think that'll be OK.
 
 46
-00:03:03,480 --> 00:03:05,520
- Claire is inert, it won't have done it any permanent damage.
+00:03:09,340 --> 00:03:14,540
+Not only do I not keep my Hugo pins carefully, but I did manage to find one.
 
 47
-00:03:05,520 --> 00:03:09,760
- It does have quite a bit of clay on it now, but you know, I think that'll be OK.
+00:03:14,540 --> 00:03:17,460
+So I thought that was quite good and I will brush the clay off it.
 
 48
-00:03:09,760 --> 00:03:14,760
- Not only do I not keep my Hugo pins carefully, but I did manage to find one so I thought
+00:03:17,460 --> 00:03:22,100
+But I also don't tend to look after them very well, for which I'm sorry.
 
 49
-00:03:14,760 --> 00:03:17,640
- that was quite good and I will brush the clay off it.
+00:03:22,100 --> 00:03:24,980
+I know it's very important and I should be very grateful.
 
 50
-00:03:17,640 --> 00:03:22,560
- But I also don't tend to look after them very well for which I'm sorry I know it's very
+00:03:24,980 --> 00:03:27,200
+I mean, I'm very grateful of the pin.
 
 51
-00:03:22,560 --> 00:03:27,240
- important and I should be very grateful of the pin.
+00:03:27,200 --> 00:03:32,360
+And my other Hugo abuse anecdote is that, of course, the very first thing I did after winning Hugo,
 
 52
-00:03:27,240 --> 00:03:32,400
- My other Hugo-abusive note is that of course the very first thing I did after winning Hugo,
+00:03:32,360 --> 00:03:36,500
+apart from brandishing it on an upper deck of a bus, was play ring toss with it.
 
 53
-00:03:32,400 --> 00:03:36,800
- apart from brandishing it on a upper deck of a bus, was play ring toss with it.
+00:03:36,500 --> 00:03:41,600
+Did you get a bus tour of London when you won a Hugo, like the cricket team?
 
 54
-00:03:36,800 --> 00:03:40,640
- Would you get a bus tour of London when you won a Hugo?
+00:03:41,600 --> 00:03:45,200
+We got a bus tour of Glasgow, which is just as good.
 
 55
-00:03:40,640 --> 00:03:42,000
- Like the cricket team?
+00:03:45,200 --> 00:03:46,360
+Ah, it's amazing.
 
 56
-00:03:42,000 --> 00:03:45,320
- We got a bus tour of Glasgow which is just as good.
+00:03:46,360 --> 00:03:47,100
+I didn't know that.
 
 57
-00:03:45,320 --> 00:03:47,280
- It's amazing, I didn't know that.
+00:03:47,100 --> 00:03:50,120
+We won the Hugos at the SECC.
 
 58
-00:03:47,280 --> 00:03:50,400
- We won the Hugo's at the SECC.
+00:03:50,120 --> 00:03:52,880
+The party was somewhere else in Glasgow.
 
 59
-00:03:50,400 --> 00:03:53,360
- The party was somewhere else in Glasgow.
+00:03:52,880 --> 00:03:55,200
+Was it in the party hotel in Glasgow?
 
 60
-00:03:53,360 --> 00:03:55,120
- Was it in the party hotel in Glasgow?
+00:03:55,200 --> 00:03:56,640
+It was in the party hotel.
 
 61
-00:03:55,120 --> 00:03:58,880
- It was in the party hotel and so we got driven by double deck of us.
+00:03:56,640 --> 00:03:59,000
+And so we got driven by a double-decker bus.
 
 62
-00:03:58,880 --> 00:04:02,480
- So the plot to Cabal were on the top of the double deck of us waving air, Hugo's around
+00:03:59,000 --> 00:04:02,640
+So the Plotka Bowl were on the top of the double-decker bus waving our Hugos around.
 
 63
-00:04:02,480 --> 00:04:06,120
- and and and George RR Martin was there waving his Hugo around.
+00:04:02,640 --> 00:04:05,660
+And George R. R. Martin was there waving his Hugo around.
 
 64
-00:04:06,120 --> 00:04:09,000
- And I asked him whether the next book was coming out which was probably very bad.
+00:04:05,660 --> 00:04:08,780
+And I asked him where the next book was coming out, which was probably very bad.
 
 65
-00:04:09,000 --> 00:04:11,240
- And the next book did come out but not the one after.
+00:04:08,780 --> 00:04:11,160
+And the next book did come out, but not the one after.
 
 66
-00:04:11,240 --> 00:04:12,840
- So you know, there we go.
+00:04:11,160 --> 00:04:12,220
+So, you know, there we go.
 
 67
-00:04:12,840 --> 00:04:18,160
- And then we went to the Hugo party and it was full of authors and kind of a bit dreary
+00:04:12,220 --> 00:04:18,340
+And then we went to the Hugo party and it was full of authors and kind of a bit dreary.
 
 68
-00:04:18,160 --> 00:04:22,720
- and so we came back to the fan lounge in the Motast Ex to the SECC which is really where
+00:04:18,340 --> 00:04:22,100
+And so we came back to the fan lounge in the motor house next to the SECC,
 
 69
-00:04:22,720 --> 00:04:23,920
- we should have been all along.
+00:04:22,100 --> 00:04:23,720
+which is really where we should have been all along.
 
 70
-00:04:23,920 --> 00:04:28,080
- But we wouldn't have wanted to miss out on riding around on the top of the bus.
+00:04:23,720 --> 00:04:27,480
+But we wouldn't have wanted to miss out on riding around on the top of the bus.
 
 71
-00:04:28,080 --> 00:04:31,920
- Obviously the population of Glasgow came out through Ticotay Patos.
+00:04:27,780 --> 00:04:31,480
+Obviously, the population of Glasgow came out and threw ticket a patters.
 
 72
-00:04:31,920 --> 00:04:34,120
- No they did not.
+00:04:31,480 --> 00:04:34,040
+No, they did not.
 
 73
-00:04:34,120 --> 00:04:35,600
- But we had mentioned it.
+00:04:34,040 --> 00:04:35,260
+But we imagined it.
 
 74
-00:04:35,600 --> 00:04:36,600
- Fair enough.
+00:04:35,260 --> 00:04:36,220
+Fair enough.
 
 75
-00:04:36,600 --> 00:04:39,160
- It was one of the best nights of my life I have to say.
+00:04:36,220 --> 00:04:38,920
+It was one of the best nights of my life, I have to say.
 
 76
-00:04:39,160 --> 00:04:41,120
- I strongly recommend witty Hugo's.
+00:04:38,920 --> 00:04:40,860
+I strongly recommend Winnie Cugos.
 
 77
-00:04:41,120 --> 00:04:45,680
- I think I also played Ring Toss at the 2005 Worldcon.
+00:04:40,860 --> 00:04:45,460
+I think I also played ring toss at the 2005 Worldcon.
 
 78
-00:04:45,680 --> 00:04:51,000
- I think I was standing kind of on the balcony around the lobby of the party hotel in Glasgow
+00:04:45,460 --> 00:04:51,100
+I think I was standing kind of on the balcony around the lobby of the party hotel in Glasgow,
 
 79
-00:04:51,000 --> 00:04:55,120
- who's now my have forgotten with a bunch of I think they were like glow sticks and trying
+00:04:51,100 --> 00:04:54,680
+whose name I have forgotten, with a bunch of, I think they were like glow sticks
 
 80
-00:04:55,120 --> 00:04:57,000
- to throw them at people down in the lobby.
+00:04:54,680 --> 00:04:56,980
+and trying to throw them at people down in the lobby.
 
 81
-00:04:57,000 --> 00:04:58,720
- Didn't do that very long though.
+00:04:56,980 --> 00:04:58,560
+Didn't do that very long, though.
 
 82
-00:04:58,720 --> 00:05:01,840
- I mean I think the glow sticks rings a bell because I was like well what will be using for
+00:04:58,560 --> 00:05:01,040
+I mean, I think the glow sticks rings a bell because I was like,
 
 83
-00:05:01,840 --> 00:05:04,320
- the rings and I think it was in fact glow stick.
+00:05:01,040 --> 00:05:02,340
+well, what were we using for the rings?
 
 84
-00:05:04,320 --> 00:05:08,520
- So I think we must have had those little glow sticks that you clip together and push out.
+00:05:02,340 --> 00:05:03,880
+And I think it was, in fact, glow sticks.
 
 85
-00:05:08,520 --> 00:05:12,800
- Somebody who's a proper fan of history and is going to remember this is some detail and
+00:05:03,880 --> 00:05:07,880
+So I think we must have had those little glow sticks that you clipped together and pushed out.
 
 86
-00:05:12,800 --> 00:05:13,800
- write to us.
+00:05:07,880 --> 00:05:13,460
+Somebody, somebody who's a proper fan historian is going to remember this in some detail and write to us.
 
 87
-00:05:13,800 --> 00:05:18,200
- I suspect it will be what Claire Bradley have coidded.
+00:05:13,460 --> 00:05:16,180
+I suspect it will be one Claire Braley of Croydon.
 
 88
-00:05:18,200 --> 00:05:21,520
- Before we end the anecdote I should say I was throwing the glowing at someone who was
+00:05:17,920 --> 00:05:23,440
+Before we end the anecdote, I should say I was throwing the glow ring at someone who was expecting me to throw the glow ring at them,
 
 89
-00:05:21,520 --> 00:05:25,560
- expecting me to throw the glowing at them not like completely random people standing
+00:05:23,440 --> 00:05:27,720
+not at, like, completely random people standing in the hotel lobby, which would not be correct.
 
 90
-00:05:25,560 --> 00:05:28,440
- in the hotel lobby which would not be correct.
+00:05:27,720 --> 00:05:28,980
+That's fair.
 
 91
-00:05:28,440 --> 00:05:29,440
- That's fair.
+00:05:28,980 --> 00:05:32,460
+The other thing I remember from that night is that Cory Doctorow was like,
 
 92
-00:05:29,440 --> 00:05:33,320
- The other thing I remember from that night is that Corey Doctorow was like oh my god
+00:05:32,460 --> 00:05:34,620
+oh my God, can I hold your Hugo?
 
 93
-00:05:33,320 --> 00:05:35,400
- can I hold your Hugo?
+00:05:34,620 --> 00:05:38,020
+So that tells you approximately how old this anecdote is.
 
 94
-00:05:35,400 --> 00:05:39,640
- So that tells you approximately how old this anecdote is.
+00:05:39,480 --> 00:05:43,280
+The Hugo is just a physical representation of things that actually matters,
 
 95
-00:05:39,640 --> 00:05:43,960
- The Hugo is just a physical representation of things that actually matters which is the
+00:05:43,280 --> 00:05:46,840
+which is the acclimation of your friends and peers.
 
 96
-00:05:43,960 --> 00:05:47,480
- acclimation of your friends and peers.
+00:05:46,840 --> 00:05:51,120
+What we're interested in is validation emotionally.
 
 97
-00:05:47,480 --> 00:05:51,280
- What we're interested in is validation emotionally.
+00:05:51,120 --> 00:05:53,840
+We're not interested in physical artifacts on Otto Thorpe.
 
 98
-00:05:51,280 --> 00:05:53,840
- We're not interested in physical artifacts a lot to the thought.
+00:05:53,840 --> 00:05:56,160
+We are interested in emotional well-being.
 
 99
-00:05:53,840 --> 00:05:56,520
- We are interested in emotional wellbeing.
+00:05:56,160 --> 00:06:00,540
+So do tell us how marvellous the podcast is because we really care about that.
 
 100
-00:05:56,520 --> 00:06:00,800
- So do tell us how marvellously podcast is because we really care about that.
+00:06:00,540 --> 00:06:03,960
+Please, please tell us how great we are.
 
 101
-00:06:00,800 --> 00:06:04,280
- Please, please tell us how great we are.
+00:06:03,960 --> 00:06:06,620
+I will note also that I am highly materialistic,
 
 102
-00:06:04,280 --> 00:06:08,480
- I will know also that I have highly materialistic so I do achieve my emotional wellbeing by
+00:06:06,620 --> 00:06:09,800
+so I do achieve my emotional well-being by acquiring more things.
 
 103
-00:06:08,480 --> 00:06:12,360
- acquiring more things so that is a whole conflict of interest.
+00:06:09,800 --> 00:06:11,940
+So that is a whole conflict of interest.
 
 104
-00:06:12,360 --> 00:06:18,840
- We should talk about Conzeland because since we last discussed Conzeland in any great detail
+00:06:11,940 --> 00:06:14,340
+We should talk about Con Zealand,
 
 105
-00:06:18,840 --> 00:06:24,320
- they have announced what it is they're doing for worldcon during the pandemic.
+00:06:14,340 --> 00:06:18,780
+because since we last discussed Con Zealand in any great detail,
 
 106
-00:06:24,320 --> 00:06:29,640
- So they have a streaming partner which is the and this is a URL.
+00:06:18,780 --> 00:06:23,760
+they have announced what it is they're doing for Worldcon during the pandemic.
 
 107
-00:06:29,640 --> 00:06:37,600
- This is a band name which is watch.thefantasy.network, end of URL and they have a new pricing structure
+00:06:23,760 --> 00:06:26,860
+So they have a streaming partner,
 
 108
-00:06:37,600 --> 00:06:44,960
- which is £150 or they're about for an attending membership so approximately $200.
+00:06:26,860 --> 00:06:29,320
+which is the, and this is a URL,
 
 109
-00:06:44,960 --> 00:06:51,640
- How do we feel about the fact that the Conzeland attending membership is roughly the same as
+00:06:29,320 --> 00:06:31,220
+this isn't a band name,
 
 110
-00:06:51,640 --> 00:06:57,280
- the discount 3 attending membership given the fact that one of those is not happening
+00:06:31,220 --> 00:06:36,040
+which is watch.thefantasy.network, end of URL.
 
 111
-00:06:57,280 --> 00:07:00,440
- in the real world but inside the space?
+00:06:36,040 --> 00:06:37,720
+And they have a new pricing structure,
 
 112
-00:07:00,440 --> 00:07:06,720
- I don't think that's a fair comparison because the Conzeland attending membership is the actual
+00:06:37,720 --> 00:06:40,800
+which is £150 or thereabouts for an attending membership.
 
 113
-00:07:06,720 --> 00:07:12,960
- front up right up to the convention attending membership whereas the discount 3 one is going
+00:06:40,800 --> 00:06:43,840
+So approximately US$200.
 
 114
-00:07:12,960 --> 00:07:17,600
- to be a lot lower than the discount 3 membership will be this time next year.
+00:06:43,840 --> 00:06:49,880
+How do we feel about the fact that the Con Zealand attending membership
 
 115
-00:07:17,600 --> 00:07:24,800
- So you're not quite comparing like to like but it is certainly not cheap and when I talked
+00:06:49,880 --> 00:06:53,320
+is roughly the same as the Discon 3 attending membership,
 
 116
-00:07:24,800 --> 00:07:31,320
- last time about my experience of EasterCon being that I didn't go to any programming
+00:06:53,320 --> 00:06:58,900
+given the fact that one of those is not happening in the real world,
 
 117
-00:07:31,320 --> 00:07:35,000
- and then partnered with my friends every night so it was almost exactly the same as a real
+00:06:58,900 --> 00:07:00,000
+but in cyberspace?
 
 118
-00:07:35,000 --> 00:07:37,240
- EasterCon and I drank too much ale.
+00:07:00,000 --> 00:07:02,920
+I don't think that's a fair comparison,
 
 119
-00:07:37,240 --> 00:07:41,480
- So it was exactly the same as a real EasterCon apart from the fact that I ended up in my
+00:07:02,920 --> 00:07:05,720
+because the Con Zealand attending membership
 
 120
-00:07:41,480 --> 00:07:46,480
- own bed at home and didn't have to manage hotels and things but also nobody cooked me
+00:07:05,720 --> 00:07:07,520
+is the actual front up,
 
 121
-00:07:46,480 --> 00:07:49,080
- enormous breakfast which was a bit of a shame.
+00:07:07,520 --> 00:07:09,480
+right up to the convention attending membership,
 
 122
-00:07:49,080 --> 00:07:57,840
- I do wonder that for people like me who habitually don't attend a lot of the programme, I am
+00:07:09,480 --> 00:07:12,040
+whereas the Discon 3 one is the,
 
 123
-00:07:57,840 --> 00:08:01,040
- Conzeland accompanying my membership as the Guff delegate and I am extremely grateful
+00:07:12,040 --> 00:07:15,680
+is going to be a lot lower than the Discon 3 membership
 
 124
-00:08:01,040 --> 00:08:02,040
- to them.
+00:07:15,680 --> 00:07:16,980
+will be this time next year.
 
 125
-00:08:02,040 --> 00:08:03,040
- Thank you very much.
+00:07:16,980 --> 00:07:20,240
+So you're not quite comparing like to like,
 
 126
-00:08:03,040 --> 00:08:05,760
- That is very kind of them and I will come along and of course I'll be on programme
+00:07:20,240 --> 00:07:21,000
+but it is certainly,
 
 127
-00:08:05,760 --> 00:08:08,400
- and I will do programme-y things during the programme time.
+00:07:21,000 --> 00:07:23,840
+it is certainly not cheap.
 
 128
-00:08:08,400 --> 00:08:13,440
- We're going to talk a bit about Guff later but for people who aren't me but who are kind
+00:07:24,000 --> 00:07:28,220
+And when I talked last time about my experience of Easter Con,
 
 129
-00:08:13,440 --> 00:08:19,560
- of party type fans I do slightly wonder if the primary benefit of a WorldCon for you
+00:07:28,220 --> 00:07:33,020
+being that I didn't go to any programming and then partied with my friends every night.
 
 130
-00:08:19,560 --> 00:08:25,160
- is the socialisation structure, what it is that you get for your attending membership.
+00:07:33,020 --> 00:07:35,580
+So it was almost exactly the same as a real Easter Con.
 
 131
-00:08:25,160 --> 00:08:29,680
- So they do say that as part of their collaboration with the Fancy Network that they're going
+00:07:35,580 --> 00:07:36,800
+And I drank too much ale.
 
 132
-00:08:29,680 --> 00:08:34,680
- to try and have some as well as the panels and video they will also have networking and
+00:07:36,800 --> 00:07:38,760
+So it was exactly the same as a real Easter Con,
 
 133
-00:08:34,680 --> 00:08:39,120
- late night hanging out and informal hangouts as well which I think they're right that is
+00:07:38,760 --> 00:07:40,300
+apart from the fact that I woke up,
 
 134
-00:08:39,120 --> 00:08:44,440
- like a key part of the WorldCon. You can't just put on some streams of panels and replicate
+00:07:40,300 --> 00:07:40,840
+you know,
 
 135
-00:08:44,440 --> 00:08:50,840
- the WorldCon experience. You have to include some ways for people to hang out and network.
+00:07:41,340 --> 00:07:44,900
+in my own bed at home and didn't have to manage hotels and things.
 
 136
-00:08:50,840 --> 00:08:54,120
- I think I'm quite pleased to see that they've got this partnership going because it sounds
+00:07:44,900 --> 00:07:47,660
+But also nobody cooked me enormous breakfast,
 
 137
-00:08:54,120 --> 00:08:58,800
- like they've got some people who have really experienced doing sort of video on demand
+00:07:47,660 --> 00:07:48,840
+which was a bit of a shame.
 
 138
-00:08:58,800 --> 00:09:02,360
- and so it will be, I presume, all quite nicely done.
+00:07:48,840 --> 00:07:52,000
+I do wonder that for people like me,
 
 139
-00:09:02,360 --> 00:09:03,360
- There won't be a lot of this.
+00:07:52,000 --> 00:07:55,180
+who habitually don't attend a lot of the programme,
 
 140
-00:09:03,360 --> 00:09:05,480
- Hello are we all on Zoom? Can you hear me?
+00:07:55,180 --> 00:07:56,320
+what the,
 
 141
-00:09:05,480 --> 00:09:09,520
- Oh you're on mute, please unmute yourself. It will presumably work nicely which I think
+00:07:56,320 --> 00:07:56,580
+I mean,
 
 142
-00:09:09,520 --> 00:09:14,160
- is something worth paying for and maybe they have a really good way that they do sort of
+00:07:56,680 --> 00:08:00,060
+I am Con Zealand accompanying my membership as the Guff delegate
 
 143
-00:09:14,160 --> 00:09:19,280
- informal hanging out and social spaces with their current membership.
+00:08:00,060 --> 00:08:01,460
+and I am extremely grateful to them.
 
 144
-00:09:19,280 --> 00:09:27,920
- But I do think that £150 is probably more than I want to pay for that experience.
+00:08:01,460 --> 00:08:02,380
+Thank you very much.
 
 145
-00:09:27,920 --> 00:09:33,360
- That's fair. I think it must be very tricky if you're the Consi-land Committee because
+00:08:02,380 --> 00:08:03,920
+That is very kind of them.
 
 146
-00:09:33,360 --> 00:09:39,960
- I imagine that £150 is how much they need to charge to make this work and that is a
+00:08:03,920 --> 00:08:05,860
+And I will come along and of course I'll be on programme
 
 147
-00:09:39,960 --> 00:09:43,480
- tricky thing to get past if you can't sell people on the value.
+00:08:05,860 --> 00:08:08,320
+and I will do programme-y things during the programme time.
 
 148
-00:09:43,480 --> 00:09:49,440
- Obviously they haven't announced what they're doing in terms of the programming or any details
+00:08:08,320 --> 00:08:10,200
+We're going to talk a bit about Guff later,
 
 149
-00:09:49,440 --> 00:09:51,360
- about the social spaces.
+00:08:10,200 --> 00:08:12,180
+but for people who aren't me,
 
 150
-00:09:51,360 --> 00:09:56,920
- Last episode or perhaps episode before we were talking about how much you could attend
+00:08:12,180 --> 00:08:15,080
+but who are kind of party type fans,
 
 151
-00:09:56,920 --> 00:10:01,480
- in terms of programming a day. I think Liz had been on a training course and found it
+00:08:15,080 --> 00:08:19,720
+I do slightly wonder if the primary benefit of a Worldcon for you
 
 152
-00:10:01,480 --> 00:10:06,520
- quite exhausting to do 8 hours of content in a single day virtually.
+00:08:19,720 --> 00:08:21,260
+is the socialisation structure,
 
 153
-00:10:06,520 --> 00:10:13,720
- So lastly's first, how do you think you can do programming a world con over 5 days in
+00:08:21,260 --> 00:08:24,240
+what it is that you get for your attending membership.
 
 154
-00:10:13,720 --> 00:10:16,720
- a way that won't be exhausting in a similar way?
+00:08:24,940 --> 00:08:29,220
+So they do say that as part of their collaboration with the Fantasy Network
 
 155
-00:10:16,720 --> 00:10:21,160
- Well I guess the question is what do people normally do at WorldCon because I think most
+00:08:29,220 --> 00:08:31,160
+that they're going to try and have some,
 
 156
-00:10:21,160 --> 00:10:26,400
- people do not go and do 8 hours of program on a regular WorldCon day and I think it'll
+00:08:31,160 --> 00:08:31,620
+you know,
 
 157
-00:10:26,400 --> 00:10:30,160
- be much the same as I would do at WorldCon which is you might pop into one panel or two
+00:08:31,620 --> 00:08:33,100
+as well as the panels and video,
 
 158
-00:10:30,160 --> 00:10:33,480
- panels that you really want to see and then you'll go and have learnt and then maybe
+00:08:33,100 --> 00:08:35,900
+they will also have like networking and late night hanging out
 
 159
-00:10:33,480 --> 00:10:37,880
- you'll intend to go to a panel but you'll end up hanging out in the bar instead and so
+00:08:35,900 --> 00:08:37,840
+and informal hangouts as well,
 
 160
-00:10:37,880 --> 00:10:42,760
- actually you'll go to maybe three or four panels or items and spend the rest of time
+00:08:37,840 --> 00:08:39,040
+which I think they're right.
 
 161
-00:10:42,760 --> 00:10:43,760
- chatting to people.
+00:08:39,040 --> 00:08:39,980
+That is like a key,
 
 162
-00:10:43,760 --> 00:10:47,080
- I think there are a lot of people who do go to conventions and spend a lot of time in
+00:08:39,980 --> 00:08:41,260
+a key part of the Worldcon.
 
 163
-00:10:47,080 --> 00:10:52,320
- the program literally 8 hours especially when they first get into fandom and do that
+00:08:41,260 --> 00:08:43,820
+You can't just put on some streams of panels
 
 164
-00:10:52,320 --> 00:10:57,240
- Gosh wow oh boy oh boy oh boy oh thing I think your first few conventions you do in fact
+00:08:43,820 --> 00:08:45,680
+and replicate the Worldcon experience.
 
 165
-00:10:57,240 --> 00:11:01,720
- hit panels continuously I mean I still talk to people who have been around a few years
+00:08:45,680 --> 00:08:50,540
+You have to include some ways for people to hang out and network.
 
 166
-00:11:01,720 --> 00:11:06,440
- who sit there checking off things on a program book and going well I want to see all these
+00:08:50,540 --> 00:08:53,380
+I think I'm quite pleased to see that they've got this partnership going
 
 167
-00:11:06,440 --> 00:11:11,440
- things I think even more than usual when the WorldCon program book comes out and people
+00:08:53,380 --> 00:08:56,400
+because it sounds like they've got some people who are really experienced
 
 168
-00:11:11,440 --> 00:11:16,440
- see what's there I think you're going to get a lot of people wanting to go to a very
+00:08:56,400 --> 00:08:58,080
+at doing sort of video on demand.
 
 169
-00:11:16,440 --> 00:11:21,280
- large number of sessions and I think at that point they'll get a flush of people joining
+00:08:58,080 --> 00:09:00,020
+And so it will be,
 
 170
-00:11:21,280 --> 00:11:26,560
- as they realise that they can actually see some very exciting people in environments where
+00:09:00,020 --> 00:09:01,040
+I presume,
 
 171
-00:11:26,560 --> 00:11:28,640
- they wouldn't necessarily otherwise see them.
+00:09:01,040 --> 00:09:02,460
+all quite nicely done.
 
 172
-00:11:28,640 --> 00:11:33,960
- There are other organisations that already have virtual events of this kind that are
+00:09:02,460 --> 00:09:03,420
+There won't be a lot of this.
 
 173
-00:11:33,960 --> 00:11:39,640
- very successful a lot of gaming and esports things do do virtual conventions and have
+00:09:03,420 --> 00:09:03,740
+Hello,
 
 174
-00:11:39,640 --> 00:11:43,040
- virtual access and they charge quite a lot of money for it and people are very happy
+00:09:03,740 --> 00:09:04,620
+are we all on Zoom?
 
 175
-00:11:43,040 --> 00:11:49,880
- because they're not incurring the costs of a hotel and all your meals and your travel
+00:09:04,620 --> 00:09:05,560
+Can you hear me?
 
 176
-00:11:49,880 --> 00:11:54,960
- so you get all of that experience of hearing your favourite authors talking to each other
+00:09:05,560 --> 00:09:05,740
+Oh,
 
 177
-00:11:54,960 --> 00:11:59,000
- but without any of the on costs and I think for a lot of people that is quite a good value
+00:09:05,740 --> 00:09:06,200
+you're on mute.
 
 178
-00:11:59,000 --> 00:12:03,280
- proposition and it will be fine and they will have a marvellous programme and people will
+00:09:06,200 --> 00:09:07,120
+Please unmute yourself.
 
 179
-00:12:03,280 --> 00:12:04,360
- be amazed by that.
+00:09:07,120 --> 00:09:08,960
+It will presumably work nicely,
 
 180
-00:12:04,360 --> 00:12:08,840
- That's my gut feeling of that I don't know what they're actually planning to do.
+00:09:08,960 --> 00:09:11,660
+which I think is something worth paying for.
 
 181
-00:12:08,840 --> 00:12:12,400
- I mean the other part is that I would usually spend some of that time hanging out in the
+00:09:11,660 --> 00:09:15,820
+And maybe they have a really good way that they do sort of informal hanging out
 
 182
-00:12:12,400 --> 00:12:17,200
- dealers room looking at things I can't afford to buy but I can replicate that online.
+00:09:15,820 --> 00:09:18,860
+and social spaces with their current membership.
 
 183
-00:12:17,200 --> 00:12:21,200
- One thing they are actually planning to do is have a virtual dealers room and I know this
+00:09:18,860 --> 00:09:27,400
+But I do think that £150 is probably more than I want to pay for that experience.
 
 184
-00:12:21,200 --> 00:12:26,360
- because I'm doing a little bit of the playtesting on being a virtual dealer which is coming up.
+00:09:27,400 --> 00:09:28,600
+That's fair.
 
 185
-00:12:26,360 --> 00:12:31,360
- The other thing that Liz mentioned is the idea that you would go to a panel and then
+00:09:28,600 --> 00:09:33,100
+I think it must be very tricky if you're the Con Zealand committee,
 
 186
-00:12:31,360 --> 00:12:34,160
- end up talking to friends in the bar.
+00:09:33,300 --> 00:09:37,680
+because I imagine that £150 is how much they need to charge to make this work.
 
 187
-00:12:34,160 --> 00:12:38,760
- How do you replicate the experience of doing that in a virtual convention?
+00:09:37,680 --> 00:09:43,240
+And that is a tricky thing to get past if you can't sell people on the value.
 
 188
-00:12:38,760 --> 00:12:40,560
- Do I either of you have any ideas?
+00:09:43,240 --> 00:09:44,000
+Obviously,
 
 189
-00:12:40,560 --> 00:12:43,560
- I assume they have to try and replicate it but...
+00:09:44,000 --> 00:09:49,780
+they haven't announced what they're doing in terms of the programming or any details about
 
 190
-00:12:43,560 --> 00:12:49,920
- I have an idea based on Anna Raftery's trip report sessions which you can come and see
+00:09:49,780 --> 00:09:50,560
+the social spaces.
 
 191
-00:12:49,920 --> 00:12:56,880
- where we have been running the trip report sessions in Zoom and then having a bar session
+00:09:51,000 --> 00:09:51,920
+Last episode,
 
 192
-00:12:56,880 --> 00:12:58,360
- afterwards.
+00:09:51,920 --> 00:09:53,080
+or perhaps the episode before,
 
 193
-00:12:58,360 --> 00:13:01,280
- What you could do for the worldcon, and I don't know whether they've got this planned
+00:09:53,080 --> 00:09:58,480
+we were talking about how much you could attend in terms of programming a day.
 
 194
-00:13:01,280 --> 00:13:07,400
- but I am offering it to them as a suggestion, is after each event you could then have a
+00:09:58,480 --> 00:10:03,900
+I think Liz had been on a training course and found it quite exhausting to do eight hours of
 
 195
-00:13:07,400 --> 00:13:12,600
- break into the bar that then breaks into smaller groups so that people can have sensible conversations
+00:10:03,900 --> 00:10:05,980
+content in a single day virtually.
 
 196
-00:13:12,600 --> 00:13:16,320
- and you could just make that part of what you do for every single item because that's
+00:10:05,980 --> 00:10:08,320
+So I'll ask Liz first,
 
 197
-00:13:16,320 --> 00:13:18,360
- how real conventions work.
+00:10:08,320 --> 00:10:14,960
+how do you think you can do programming a Worldcon over five days in a way that won't be
 
 198
-00:13:18,360 --> 00:13:21,240
- People have an item and then they go off and chat about it in the bar with their mates
+00:10:14,960 --> 00:10:16,600
+exhausting in a similar way?
 
 199
-00:13:21,240 --> 00:13:22,720
- or people that haven't met yet.
+00:10:16,600 --> 00:10:17,260
+Well,
 
 200
-00:13:22,720 --> 00:13:28,240
- So I was looking a bit more at the fancy network team who will be assisting, I think,
+00:10:17,260 --> 00:10:18,600
+I guess the question is,
 
 201
-00:13:28,240 --> 00:13:32,760
- or running or whatever with Consilend and they have things like they have a Discord channel,
+00:10:18,600 --> 00:10:20,280
+what do people normally do at Worldcon?
 
 202
-00:13:32,760 --> 00:13:37,520
- they do stuff over Twitch where there will be, you know, you can watch the chat and watch
+00:10:20,280 --> 00:10:25,700
+because I think most people do not go and do eight hours of programme on a regular Worldcon day.
 
 203
-00:13:37,520 --> 00:13:39,720
- the item at the same time.
+00:10:25,700 --> 00:10:28,240
+And I think it'll be much the same as I would do at a Worldcon,
 
 204
-00:13:39,720 --> 00:13:43,280
- So I think it won't just be, we all sit and watch Zoom.
+00:10:28,240 --> 00:10:31,800
+which is you might pop into one panel or two panels that you really want to see,
 
 205
-00:13:43,280 --> 00:13:47,880
- It might be sort of interactive and we are chatting at the same time and then we can go
+00:10:31,800 --> 00:10:33,160
+and then you'll go and have lunch,
 
 206
-00:13:47,880 --> 00:13:53,440
- on Discord and form a channel to chat about whatever subject we want to later on.
+00:10:33,160 --> 00:10:34,700
+and then maybe you'll intend to go to a panel,
 
 207
-00:13:53,440 --> 00:13:56,820
- You know, you could even have Discord channels which are going to be okay, so this is Alison's
+00:10:34,700 --> 00:10:37,680
+but you'll end up hanging out in the bar instead.
 
 208
-00:13:56,820 --> 00:14:02,000
- party room and everyone who wants a party with Alison and her friends this evening can
+00:10:37,680 --> 00:10:38,380
+And so actually,
 
 209
-00:14:02,000 --> 00:14:03,120
- go in Alison's party room.
+00:10:38,380 --> 00:10:43,560
+you'll go to maybe three or four panels or items and spend the rest of the time chatting to people.
 
 210
-00:14:03,120 --> 00:14:08,520
- I mean, there will be some issues because normally this is not kind of completely open
+00:10:43,560 --> 00:10:47,620
+I think there are a lot of people who do go to conventions and spend a lot of time in the programme,
 
 211
-00:14:08,520 --> 00:14:09,520
- to everyone.
+00:10:47,620 --> 00:10:48,640
+literally eight hours,
 
 212
-00:14:09,520 --> 00:14:13,600
- You know, sometimes you go and sit in the bar and have a conversation with friends and
+00:10:49,100 --> 00:10:54,400
+especially when they first get into fandom and do that gosh, wow, oh boy, oh boy, oh boy thing.
 
 213
-00:14:13,600 --> 00:14:17,260
- that doesn't necessarily mean that everyone in the convention is going to walk up and
+00:10:54,400 --> 00:10:58,900
+I think your first few conventions, you do in fact hit panels continuously.
 
 214
-00:14:17,260 --> 00:14:19,760
- join that conversation with you and your friends.
+00:10:58,900 --> 00:10:59,220
+I mean,
 
 215
-00:14:19,760 --> 00:14:24,640
- And so I don't know quite how you manage those sort of social spaces which are not kind of
+00:10:59,220 --> 00:11:05,780
+I still talk to people who have been around a few years who sit there checking off things on a programme book and going,
 
 216
-00:14:24,640 --> 00:14:28,280
- public to everyone but people can kind of wander in and out.
+00:11:05,780 --> 00:11:06,900
+well, I want to see all these things.
 
 217
-00:14:28,280 --> 00:14:31,240
- But it does seem like they've got a good handle on the sort of tools that might help
+00:11:06,960 --> 00:11:09,180
+I think even more than usual,
 
 218
-00:14:31,240 --> 00:14:32,240
- them do that.
+00:11:09,180 --> 00:11:13,260
+when the Worldcon programme book comes out and people see what's there,
 
 219
-00:14:32,240 --> 00:14:37,160
- I think Alison's right that the Anna model will work very well, kind of laying people
+00:11:13,260 --> 00:11:17,700
+I think you're going to get a lot of people wanting to go to a very large number of sessions.
 
 220
-00:14:37,160 --> 00:14:39,960
- break into social groups after panels.
+00:11:17,700 --> 00:11:18,520
+And I think at that point,
 
 221
-00:14:39,960 --> 00:14:45,040
- My concern I think is firstly that means you have to go to panels in order to enjoy
+00:11:18,520 --> 00:11:28,260
+they'll get a flush of people joining as they realise that they can actually see some very exciting people in environments where they wouldn't necessarily otherwise see them.
 
 222
-00:14:45,040 --> 00:14:51,020
- the social space which is a slight change from how conventions are normally structured.
+00:11:28,260 --> 00:11:34,900
+There are other organisations that already have virtual events of this kind that are very successful.
 
 223
-00:14:51,020 --> 00:14:56,260
- And secondly, I think that it does mean that there's no equivalent to wandering through
+00:11:35,060 --> 00:11:40,480
+A lot of gaming and esports things do do virtual conventions and have virtual access.
 
 224
-00:14:56,260 --> 00:14:59,900
- the bar and spotting someone you want to talk to if that makes sense.
+00:11:40,480 --> 00:11:42,320
+And they charge quite a lot of money for it.
 
 225
-00:14:59,900 --> 00:15:03,980
- If you don't see someone in the same panels as you, you're not going to bump into them.
+00:11:42,320 --> 00:11:49,520
+And people are very happy because they're not incurring the costs of a hotel and all your meals and your travel.
 
 226
-00:15:03,980 --> 00:15:10,020
- For the virtual first Thursday meetings I've done, I've experimented or I am experimenting
+00:11:49,520 --> 00:11:54,920
+So you get all of that experience of hearing your favourite authors talking to each other,
 
 227
-00:15:10,020 --> 00:15:17,100
- with streaming the list of who is in the bar to Twitch so that when people come into the
+00:11:54,920 --> 00:11:57,240
+but without any of the on costs.
 
 228
-00:15:17,100 --> 00:15:19,700
- room they can go, who's in the bar already?
+00:11:57,240 --> 00:12:00,460
+And I think for a lot of people, that is quite a good value proposition and it will be fine.
 
 229
-00:15:19,700 --> 00:15:22,060
- Oh, there's these tables and they've got these people at them.
+00:12:00,460 --> 00:12:04,360
+And they will have marvellous programme and people will be amazed by that.
 
 230
-00:15:22,060 --> 00:15:26,060
- Now, if you can't do that for a Worldcon, I mean you can do it to some extent but you
+00:12:04,700 --> 00:12:06,360
+That's my gut feeling.
 
 231
-00:15:26,060 --> 00:15:30,260
- can't really do it for a Worldcon because we have a load of people at Worldcon so if
+00:12:06,360 --> 00:12:08,300
+I don't know what they're actually planning to do.
 
 232
-00:15:30,260 --> 00:15:35,780
- you did that they would kind of do the virtual equivalent of turning their badge around.
+00:12:08,300 --> 00:12:13,180
+I mean, the other part is that I would usually spend some of that time hanging out in the dealer's room,
 
 233
-00:15:35,780 --> 00:15:41,220
- You know, they don't want random fans to be able to come up and talk to them quite all
+00:12:13,180 --> 00:12:16,860
+looking at things I can't afford to buy, but I can replicate that online.
 
 234
-00:15:41,220 --> 00:15:45,020
- the time or much of the time because they would be mopped.
+00:12:16,860 --> 00:12:19,840
+One thing they are actually planning to do is have a virtual dealer's room.
 
 235
-00:15:45,020 --> 00:15:48,060
- And at that point you could have people say, "Oh, and if you don't want to be on the list
+00:12:19,840 --> 00:12:25,940
+And I know this because I'm doing a little bit of the playtesting on being a virtual dealer, which is coming up.
 
 236
-00:15:48,060 --> 00:15:52,100
- of who's in the bar so people can't see that you're there, let me know and I'll make sure
+00:12:25,940 --> 00:12:33,700
+The other thing that Liz mentioned is the idea that you would go to a panel and then end up talking to friends in the bar.
 
 237
-00:15:52,100 --> 00:15:53,740
- your name's not on that list."
+00:12:34,220 --> 00:12:38,640
+How do you replicate the experience of doing that in a virtual convention?
 
 238
-00:15:53,740 --> 00:15:59,140
- So we've got some scope for, but it's still a very blunt hammer compared with the joy
+00:12:38,640 --> 00:12:40,160
+Do either of you have any ideas?
 
 239
-00:15:59,140 --> 00:16:03,580
- of being able to go through a bar and see people you want to talk to but it's quite a
+00:12:40,160 --> 00:12:43,660
+I assume they have to try and replicate it, but...
 
 240
-00:16:03,580 --> 00:16:07,380
- refined hammer compared with the not joy of being able to go through a bar and discovering
+00:12:43,660 --> 00:12:49,600
+I have an idea based on Anna Raftery's trip report sessions, which you can come and see,
 
 241
-00:16:07,380 --> 00:16:11,180
- those 200 people in it and not being able to see the people you want to talk to because
+00:12:49,600 --> 00:12:57,760
+where we have been running the trip report sessions in Zoom and then having a bar session afterwards.
 
 242
-00:16:11,180 --> 00:16:12,180
- it's too crowded.
+00:12:57,760 --> 00:13:01,460
+What you could do for the Worldcon, and I don't know whether they've got this planned,
 
 243
-00:16:12,180 --> 00:16:15,980
- Ooh, and I don't know if this is secret but one of the people I've been talking about
+00:13:01,540 --> 00:13:12,220
+but I am offering it to them as a suggestion, is after each event, you could then have a break into the bar that then breaks into smaller groups so that people can have sensible conversations.
 
 244
-00:16:15,980 --> 00:16:21,340
- because I went to a very big meeting on this exact subject yesterday with Smoughs.
+00:13:12,220 --> 00:13:17,720
+And you could just make that part of what you do for every single item, because that's how real conventions work.
 
 245
-00:16:21,340 --> 00:16:25,540
- So just to know that the British term for Smoughs is con runners which is an unimaginative
+00:13:17,720 --> 00:13:22,420
+People have an item and then they go off and chat about it in the bar with their mates or people they haven't met yet.
 
 246
-00:16:25,540 --> 00:16:27,020
- but descriptive word.
+00:13:22,420 --> 00:13:30,420
+So I was looking a bit more at the Fantasy Network team who will be assisting, I think, or running or whatever with ConZealand.
 
 247
-00:16:27,020 --> 00:16:30,500
- One of the things I did discuss is I spent some time talking to Stephen Silver about the
+00:13:30,420 --> 00:13:35,620
+And they have things like they have a Discord channel, they do stuff over Twitch where there will be, you know,
 
 248
-00:16:30,500 --> 00:16:35,420
- plazities got for running social spaces at the Nebula weekend and I think we should very
+00:13:35,620 --> 00:13:39,280
+you can watch the chat and watch the item at the same time.
 
 249
-00:16:35,420 --> 00:16:40,980
- much watch that and see how that works because I think that'll be a very interesting lesson
+00:13:39,560 --> 00:13:42,700
+So I think it won't just be we all sit and watch Zoom.
 
 250
-00:16:40,980 --> 00:16:43,740
- for the community about what works.
+00:13:42,700 --> 00:13:47,260
+It might be sort of interactive and we are chatting at the same time.
 
 251
-00:16:43,740 --> 00:16:49,780
- I will say that the Nebula conference apparently is $150 so maybe £150 is the right price
+00:13:47,260 --> 00:13:53,020
+And then we can go on Discord and form a channel to chat about whatever subject we want to later on.
 
 252
-00:16:49,780 --> 00:16:50,780
- point for these things.
+00:13:53,020 --> 00:13:57,840
+You know, you could even have Discord channels which are going to be, OK, so this is Alison's party room.
 
 253
-00:16:50,780 --> 00:16:52,460
- Maybe that's just how much it costs.
+00:13:57,840 --> 00:14:03,380
+And everyone who wants a party with Alison and her friends this evening can go in Alison's party room.
 
 254
-00:16:52,460 --> 00:16:53,780
- I didn't realise that.
+00:14:03,380 --> 00:14:09,400
+I mean, there will be some issues because normally this is not kind of completely open to everyone.
 
 255
-00:16:53,780 --> 00:16:57,820
- I'm still excited about Cozziella and I think we're at that difficult point where we know
+00:14:09,840 --> 00:14:12,980
+You know, sometimes you go and sit in the bar and have a conversation with friends.
 
 256
-00:16:57,820 --> 00:17:02,300
- that it's going to be strange but we don't know all the ways it's going to be good yet.
+00:14:12,980 --> 00:14:19,420
+And that doesn't necessarily mean that everyone in the convention is going to walk up and join that conversation with you and your friends.
 
 257
-00:17:02,300 --> 00:17:09,700
- If you were already planning to go to Conzeland, this will, instead of looking like a very expensive
+00:14:19,420 --> 00:14:25,840
+And so I don't know quite how you manage those sort of social spaces which are not kind of public to everyone,
 
 258
-00:17:09,700 --> 00:17:14,540
- thing to those obviously weren't planning to go, will look like a bargain way of being
+00:14:25,840 --> 00:14:28,000
+but people can kind of wander in and out.
 
 259
-00:17:14,540 --> 00:17:18,540
- able to maintain your plans in light of everything that's happening.
+00:14:28,000 --> 00:14:32,080
+But it does seem like they've got a good handle on the sort of tools that might help them do that.
 
 260
-00:17:18,540 --> 00:17:23,580
- I think there are also a lot of Americans who always go to the Worldcon but could not
+00:14:32,080 --> 00:14:39,340
+I think Alison's right that the ANA model will work very well kind of letting people break into social groups after panels.
 
 261
-00:17:23,580 --> 00:17:28,740
- manage the costs for Conzeland particularly having been to Ireland last year and those
+00:14:39,340 --> 00:14:46,060
+My concern, I think, is firstly, that means you have to go to panels in order to join the social space,
 
 262
-00:17:28,740 --> 00:17:36,180
- people will now for $200 be able to get as much of their Worldcon experience as is available
+00:14:46,060 --> 00:14:50,520
+which is a slight change from how conventions are normally structured.
 
 263
-00:17:36,180 --> 00:17:37,180
- this year.
+00:14:50,520 --> 00:14:56,760
+And secondly, I think that it does mean that there's no equivalent to wandering through the bar
 
 264
-00:17:37,180 --> 00:17:38,180
- Yes.
+00:14:56,760 --> 00:14:59,540
+and spotting someone you want to talk to, if that makes sense.
 
 265
-00:17:38,180 --> 00:17:44,340
- My last thoughts on pricing are one that we don't know how much money Conzeland basically
+00:14:59,540 --> 00:15:03,760
+If you don't see someone in the same panels as you, you're not going to bump into them.
 
 266
-00:17:44,340 --> 00:17:49,260
- has already spent and cannot recoup so we don't know how much of the money they've
+00:15:03,780 --> 00:15:09,800
+For the virtual First Thursday meetings I've done, I've experimented, or I am experimenting,
 
 267
-00:17:49,260 --> 00:17:56,940
- already taken in is basically lost on preparation and payments for the physical spaces that
+00:15:09,800 --> 00:15:17,740
+with streaming the list of who is in the bar to Twitch so that when people come into the room,
 
 268
-00:17:56,940 --> 00:17:58,500
- they then can't use.
+00:15:17,740 --> 00:15:19,800
+they can go, who's in the bar already?
 
 269
-00:17:58,500 --> 00:18:04,420
- I will say the other point though is that a virtual Worldcon could be a really good
+00:15:19,800 --> 00:15:22,120
+Oh, there's these tables and they've got these people at them.
 
 270
-00:18:04,420 --> 00:18:10,580
- opportunity to bring in new members who actually never get to go to a Worldcon in person because
+00:15:22,120 --> 00:15:24,700
+Now, you can't do that for a Worldcon.
 
 271
-00:18:10,580 --> 00:18:14,180
- they live in places where there are never Worldcons and maybe giving them the virtual
+00:15:24,920 --> 00:15:27,720
+I mean, you could do it to some extent, but you can't really do it for a Worldcon
 
 272
-00:18:14,180 --> 00:18:15,700
- experience.
+00:15:27,720 --> 00:15:31,020
+because we have a load of people at Worldcons who, if you did that,
 
 273
-00:18:15,700 --> 00:18:19,540
- They might then consider coming to a Worldcon because they've managed to get a taste of
+00:15:31,020 --> 00:15:35,780
+they would kind of do the virtual equivalent of turning their badge around.
 
 274
-00:18:19,540 --> 00:18:25,460
- the experience and enjoyed it but I think 150 pounds is going to be too much for the
+00:15:35,780 --> 00:15:40,660
+You know, they don't want random fans to be able to come up and talk to them
 
 275
-00:18:25,460 --> 00:18:28,340
- people who might join on a whim.
+00:15:40,660 --> 00:15:44,940
+quite all the time or much of the time because they would be mobbed.
 
 276
-00:18:28,340 --> 00:18:33,300
- So I wonder if they might consider having a sort of first Worldcon membership for this
+00:15:44,940 --> 00:15:46,840
+And at that point, you could have people say,
 
 277
-00:18:33,300 --> 00:18:34,740
- streaming membership.
+00:15:46,840 --> 00:15:50,320
+oh, and if you don't want to be on the list of who's in the bar so people can't see that you're there,
 
 278
-00:18:34,740 --> 00:18:39,500
- That touches on something that you mentioned in a previous episode which was you pointed
+00:15:50,840 --> 00:15:53,480
+let me know and I'll make sure your name's not on that list.
 
 279
-00:18:39,500 --> 00:18:44,700
- out when I was talking about professional conferences that virtually attending a professional
+00:15:53,480 --> 00:15:58,760
+So we've got some scope for, but it's still a very blunt hammer compared with
 
 280
-00:18:44,700 --> 00:18:49,700
- conference is a very good way of lowering barriers to entry to less wealthy people generally.
+00:15:58,760 --> 00:16:02,220
+the joy of being able to go through a bar and see people you want to talk to.
 
 281
-00:18:49,700 --> 00:18:54,460
- I think that is actually a really good thing to bear in mind is that this could be a huge
+00:16:02,220 --> 00:16:07,040
+But it's quite a refined hammer compared with the not joy of being able to go through a bar
 
 282
-00:18:54,460 --> 00:19:02,620
- leveler and that as three relatively wealthy middle class white British people we perhaps
+00:16:07,040 --> 00:16:11,120
+and discovering those 200 people in it and not being able to see the people you want to talk to
 
 283
-00:19:02,620 --> 00:19:08,500
- are not the people who can't go to Worldcon because of various circumstances.
+00:16:11,120 --> 00:16:11,940
+because it's too crowded.
 
 284
-00:19:08,500 --> 00:19:13,300
- I don't want to go into passive details about my finances but if I decide to go to a Worldcon
+00:16:11,940 --> 00:16:16,080
+Oh, and I don't know if this is secret, but one of the people I've been taught,
 
 285
-00:19:13,300 --> 00:19:15,780
- I can save up and I can go to a Worldcon that's fine.
+00:16:16,080 --> 00:16:20,820
+because I went to a very big meeting on this exact subject yesterday with Smoth,
 
 286
-00:19:15,780 --> 00:19:20,260
- But there are so many people for whom that is a statement that sounds insane but I sometimes
+00:16:20,820 --> 00:16:20,960
+Smoths.
 
 287
-00:19:20,260 --> 00:19:24,860
- forget parts of my privilege and I am always very grateful when other people remind me
+00:16:20,960 --> 00:16:24,380
+So just to note that the British term for Smoths is conrunners,
 
 288
-00:19:24,860 --> 00:19:28,580
- of those parts before I make a giant fool of myself.
+00:16:24,380 --> 00:16:26,780
+which is an unimaginative but descriptive word.
 
 289
-00:19:28,580 --> 00:19:35,220
- I think I'm something like in the 95th percentile on world income scales or maybe a bit higher
+00:16:26,780 --> 00:16:31,000
+One of the things I did discuss is I spent some time talking to Stephen Silver about the plans
 
 290
-00:19:35,220 --> 00:19:39,780
- and I could not possibly have imagined ever going to the New Zealand Worldcon on my own
+00:16:31,000 --> 00:16:34,820
+that he's got for running social spaces at the Nebula weekend.
 
 291
-00:19:39,780 --> 00:19:40,780
- time.
+00:16:34,820 --> 00:16:38,460
+And I think we should very much watch that and see how that works,
 
 292
-00:19:40,780 --> 00:19:48,700
- So yes we could theoretically save up and do it but you know not not ad eat.
+00:16:38,460 --> 00:16:43,420
+because I think that'll be a very interesting lesson for the community about what works.
 
 293
-00:19:48,700 --> 00:19:53,820
- I considered it but I am basically halfway there already and that's the way it would
+00:16:43,420 --> 00:16:46,840
+I will say that the Nebula conference apparently is $150.
 
 294
-00:19:53,820 --> 00:19:54,820
- be feasible.
+00:16:47,300 --> 00:16:50,760
+So maybe £150 is the right price point for these things.
 
 295
-00:19:54,820 --> 00:19:58,180
- So for me it's like considering a trip to Europe except a bit more expensive because
+00:16:50,760 --> 00:16:52,220
+Maybe that's just how much it costs.
 
 296
-00:19:58,180 --> 00:20:00,780
- New Zealand is harder to get to but that kind of thing.
+00:16:52,220 --> 00:16:53,660
+I didn't realise that.
 
 297
-00:20:00,780 --> 00:20:05,220
- I am in a similar situation where the reason I did not want to go to New Zealand was because
+00:16:53,660 --> 00:16:55,380
+I'm still excited about Con Zealand.
 
 298
-00:20:05,220 --> 00:20:09,420
- I couldn't afford it but part of that was because I was planning to go to Disney World
+00:16:55,380 --> 00:16:59,400
+I think we're at that difficult point where we know that it's going to be strange,
 
 299
-00:20:09,420 --> 00:20:13,540
- so it's not really a sob story in any meaningful sense.
+00:16:59,400 --> 00:17:01,940
+but we don't know all the ways it's going to be good yet.
 
 300
-00:20:13,540 --> 00:20:15,660
- Except you didn't get to go to Disney World either.
+00:17:01,940 --> 00:17:09,800
+If you were already planning to go to Con Zealand, this will, instead of looking like a very expensive
 
 301
-00:20:15,660 --> 00:20:18,780
- No this is this is now that is a sob story.
+00:17:09,800 --> 00:17:14,860
+thing to those of us who weren't planning to go, will look like a bargain way of being able
 
 302
-00:20:18,780 --> 00:20:22,460
- I'm not going to get my lightsaber Alison my lightsaber.
+00:17:14,860 --> 00:17:17,960
+to maintain your plans in light of everything that's happening.
 
 303
-00:20:22,460 --> 00:20:26,460
- I knew it was a life saver I was getting because if you play sorry huge digression if
+00:17:17,960 --> 00:17:22,540
+I think there are also a lot of Americans who always go to the Worldcon,
 
 304
-00:20:26,460 --> 00:20:32,180
- you play Jedi Fallen Order they used the same lightsaber parts as you get in Galaxy Edge
+00:17:22,540 --> 00:17:27,840
+but could not manage the cost for Con Zealand, particularly having been to Ireland last year.
 
 305
-00:20:32,180 --> 00:20:36,860
- so I had built the lightsaber I was going to buy in Galaxy's Edge in Fallen Order and
+00:17:27,840 --> 00:17:36,280
+And those people will now for $200 be able to get as much of their Worldcon experience as is available
 
 306
-00:20:36,860 --> 00:20:41,380
- I knew which crystals I was going to have and I was so excited and now yeah.
+00:17:36,280 --> 00:17:36,780
+this year.
 
 307
-00:20:41,380 --> 00:20:45,340
- Done there is a potential silver lining to this which is that I am also not going to
+00:17:36,780 --> 00:17:37,480
+Yes.
 
 308
-00:20:45,340 --> 00:20:49,380
- Disney World this year so maybe we could go to Disney World at some point in the future
+00:17:37,480 --> 00:17:44,460
+My last thoughts on pricing are, one, that we don't know how much money Con Zealand basically
 
 309
-00:20:49,380 --> 00:20:50,900
- at the same time.
+00:17:44,460 --> 00:17:46,480
+has already spent and cannot recoup.
 
 310
-00:20:50,900 --> 00:20:54,620
- The listeners cannot see the excited head motions I am making but you can see you know
+00:17:46,480 --> 00:17:53,880
+So we don't know how much of the money they've already taken in is basically lost on preparation
 
 311
-00:20:54,620 --> 00:20:55,940
- how excited I am.
+00:17:53,880 --> 00:17:58,120
+and payments for the physical spaces that they then can't use.
 
 312
-00:20:55,940 --> 00:21:01,700
- So the last thing I want to ask you about New Zealand is as far as I know Conzeland haven't
+00:17:58,320 --> 00:18:05,060
+I will say the other point, though, is that a virtual Worldcon could be a really good opportunity
 
 313
-00:21:01,700 --> 00:21:04,740
- yet announced what time zone they're planning to run their program in.
+00:18:05,060 --> 00:18:11,020
+to bring in new members who actually never get to go to a Worldcon in person because they live
 
 314
-00:21:04,740 --> 00:21:09,180
- We've speculated previously that they would probably pick a time zone that would favour
+00:18:11,020 --> 00:18:15,000
+in places where there are never Worldcons and maybe giving them the virtual experience.
 
 315
-00:21:09,180 --> 00:21:16,180
- New Zealanders and US fans but do either of you have any thoughts about what makes sense
+00:18:15,000 --> 00:18:20,300
+They might then consider coming to a Worldcon because they've managed to get a taste of the experience
 
 316
-00:21:16,180 --> 00:21:20,340
- in that regard and have any of you heard anything about what they might be planning
+00:18:20,300 --> 00:18:21,140
+and enjoyed it.
 
 317
-00:21:20,340 --> 00:21:21,340
- to do?
+00:18:21,140 --> 00:18:27,820
+But I think £150 is going to be too much for the people who might join on a whim.
 
 318
-00:21:21,340 --> 00:21:24,100
- I have not heard anything about what they might be planning to do.
+00:18:28,200 --> 00:18:33,140
+So I wonder if they might consider having a sort of first Worldcon membership for this
 
 319
-00:21:24,100 --> 00:21:30,140
- I think it makes sense to prioritise New Zealanders first and then what time zone will
+00:18:33,140 --> 00:18:34,340
+streaming membership.
 
 320
-00:21:30,140 --> 00:21:33,180
- allow the maximum number of your members to attend.
+00:18:34,340 --> 00:18:39,600
+That touches on something that you mentioned in a previous episode, which was you pointed
 
 321
-00:21:33,180 --> 00:21:37,820
- I resigned to this as it means I would probably be able to attend really weirdly timed things
+00:18:39,600 --> 00:18:45,200
+out when I was talking about professional conferences that virtually attending a professional conference
 
 322
-00:21:37,820 --> 00:21:43,540
- like possibly parties at 7am my time and the hugos at lunch time or something like that
+00:18:45,200 --> 00:18:49,460
+is a very good way of lowering barriers to entry to less wealthy people generally.
 
 323
-00:21:43,540 --> 00:21:45,180
- but that's just going to happen.
+00:18:49,460 --> 00:18:54,700
+And I think that is actually a really good thing to bear in mind is that this could be a huge
 
 324
-00:21:45,180 --> 00:21:49,180
- My understanding is that we should be getting an announcement on this quite soon.
+00:18:54,700 --> 00:19:02,800
+leveler and that as three relatively wealthy middle class white British people, we perhaps
 
 325
-00:21:49,180 --> 00:21:52,300
- There's been obviously as you can imagine quite a lot of thinking and working around
+00:19:02,800 --> 00:19:07,940
+are not the people who can't go to Worldcon because of various circumstances.
 
 326
-00:21:52,300 --> 00:21:56,740
- the issue but I understand that that's coming to a conclusion and you should expect to be
+00:19:07,940 --> 00:19:13,420
+I don't want to go into massive details about my finances, but if I decide to go to a Worldcon,
 
 327
-00:21:56,740 --> 00:22:00,820
- resolved and they're going to try and make a decision that works the best for Conzeland
+00:19:13,420 --> 00:19:14,900
+I can save up and I can go to a Worldcon.
 
 328
-00:22:00,820 --> 00:22:01,820
- and for their members.
+00:19:14,900 --> 00:19:15,460
+That's fine.
 
 329
-00:22:01,820 --> 00:22:05,580
- So I think we're still expecting a lot of announcements for New Zealand and there's
+00:19:15,460 --> 00:19:19,400
+But there are so many people for whom that is a statement that sounds insane.
 
 330
-00:22:05,580 --> 00:22:10,060
- a lot of work going on to work out exactly what these will be but I think things are
+00:19:19,600 --> 00:19:24,320
+But I sometimes forget parts of my privilege and I am always very grateful when other people
 
 331
-00:22:10,060 --> 00:22:14,020
- happening and I think fairly soon the white smoke will go up.
+00:19:24,320 --> 00:19:28,100
+remind me of those parts before I make a giant fool of myself.
 
 332
-00:22:14,020 --> 00:22:15,580
- You expect the water to go up?
+00:19:28,540 --> 00:19:34,880
+I think I'm something like in the 95th percentile on world income scales or maybe a bit higher.
 
 333
-00:22:15,580 --> 00:22:18,460
- We're electing a new Pope of all World Conz.
+00:19:34,880 --> 00:19:40,220
+And I could not possibly have imagined ever going to the New Zealand Worldcon on my own time.
 
 334
-00:22:18,460 --> 00:22:19,460
- Yeah hey.
+00:19:40,220 --> 00:19:45,200
+So, you know, yes, we could we could theoretically save up and do it.
 
 335
-00:22:19,460 --> 00:22:20,460
- Space Pope.
+00:19:45,200 --> 00:19:47,420
+But, you know, not not at eat.
 
 336
-00:22:20,460 --> 00:22:22,900
- I've had for Vince Dockety.
+00:19:47,420 --> 00:19:52,780
+So I considered it, but I am, you know, basically halfway there already.
 
 337
-00:22:22,900 --> 00:22:25,300
- Vince would pull off the robes.
+00:19:52,780 --> 00:19:54,360
+And that's the way it would be feasible.
 
 338
-00:22:25,300 --> 00:22:29,820
- But I mean we're obviously not world conch-airs because you know there are some things that
+00:19:54,360 --> 00:19:58,360
+So for me, it's like considering a trip to Europe, except a bit more expensive because
 
 339
-00:22:29,820 --> 00:22:32,300
- you don't do if you've got any sense at all.
+00:19:58,360 --> 00:19:59,420
+New Zealand is harder to get to.
 
 340
-00:22:32,300 --> 00:22:35,740
- Because you and Liz haven't had time to do that yet and I'm not stupid enough.
+00:19:59,420 --> 00:20:00,600
+But that kind of thing.
 
 341
-00:22:35,740 --> 00:22:39,780
- No no no seriously I wasn't about to say you and Liz probably still have that as a plan
+00:20:00,600 --> 00:20:05,360
+I am in a similar situation where the reason I did not want to go to New Zealand was because
 
 342
-00:22:39,780 --> 00:22:41,780
- but I'm not stupid enough.
+00:20:05,360 --> 00:20:06,100
+I couldn't afford it.
 
 343
-00:22:41,780 --> 00:22:44,220
- Imagine a world conch-aired by me and John.
+00:20:06,100 --> 00:20:09,120
+But part of that was because I was planning to go to Disney World.
 
 344
-00:22:44,220 --> 00:22:49,420
- I'm imagining it's so hard Liz.
+00:20:09,120 --> 00:20:12,920
+So it's not really a sob story in any meaningful sense.
 
 345
-00:22:49,420 --> 00:22:50,900
- I will not even imagine it.
+00:20:12,920 --> 00:20:15,380
+Except that you didn't get to go to Disney World either.
 
 346
-00:22:50,900 --> 00:22:54,060
- I will give you £10 to pre-support it right now.
+00:20:15,380 --> 00:20:18,860
+No, this is this is now that is a sob story.
 
 347
-00:22:54,060 --> 00:22:55,060
- Oh man.
+00:20:18,860 --> 00:20:20,380
+I'm not going to get my lightsaber, Alison.
 
 348
-00:22:55,060 --> 00:22:57,460
- All you need to do is pick a year.
+00:20:20,380 --> 00:20:21,660
+My lightsaber.
 
 349
-00:22:57,460 --> 00:23:04,140
- I'm going to go for a 2150 on the basis that if I am still alive I'll presumably be wise
+00:20:22,440 --> 00:20:26,240
+I knew it, lightsaber I was getting because if you play sorry, huge digression.
 
 350
-00:23:04,140 --> 00:23:05,700
- enough to do it by then.
+00:20:26,240 --> 00:20:31,920
+If you play Jedi Fallen Order, they used the same lightsaber parts as you get in Galaxy
 
 351
-00:23:05,700 --> 00:23:07,180
- You'll be in a vat.
+00:20:31,920 --> 00:20:32,260
+Edge.
 
 352
-00:23:07,180 --> 00:23:09,300
- Liz ever going to chair a world con?
+00:20:32,260 --> 00:20:36,720
+So I had built the lightsaber I was going to buy in Galaxy's Edge in Fallen Order.
 
 353
-00:23:09,300 --> 00:23:10,300
- No.
+00:20:36,720 --> 00:20:38,440
+And I knew which crystals I was going to have.
 
 354
-00:23:10,300 --> 00:23:15,780
- She did not deny as fast as either of us did.
+00:20:38,440 --> 00:20:39,700
+And I was so excited.
 
 355
-00:23:15,780 --> 00:23:20,500
- I thought that there might be like I can see coming back to this in like 25 years or
+00:20:39,700 --> 00:20:41,000
+And now, yeah.
 
 356
-00:23:20,500 --> 00:23:24,820
- something when I do chair a world con and someone digs this sound by and goes ha ha
+00:20:41,000 --> 00:20:45,600
+John, there is a potential silver lining to this, which is that I'm also not going to
 
 357
-00:23:24,820 --> 00:23:28,220
- so I thought should I hedge a bit but then I'm like no I'm not going to chair a world
+00:20:45,600 --> 00:20:46,460
+Disney World this year.
 
 358
-00:23:28,220 --> 00:23:29,700
- con I'm going to say no.
+00:20:46,460 --> 00:20:50,740
+So maybe we could go to Disney World at some point in the future at the same time.
 
 359
-00:23:29,700 --> 00:23:34,940
- I would strongly recommend not bothering about that because if you did chair a world con
+00:20:50,740 --> 00:20:55,260
+The listeners cannot see the excited hand motions I am making, but you can see you know how excited
 
 360
-00:23:34,940 --> 00:23:40,940
- you go yeah well people change and if you don't deny it very firmly all the time then
+00:20:55,260 --> 00:20:55,580
+I am.
 
 361
-00:23:40,940 --> 00:23:43,740
- you will find yourself chairing a world con that is how it works.
+00:20:55,580 --> 00:21:01,920
+So the last thing I want to ask you about New Zealand is, as far as I know, Con Zealand haven't
 
 362
-00:23:43,740 --> 00:23:49,060
- I think we are following and actually we have sufficient people who want to chair world
+00:21:01,920 --> 00:21:04,740
+yet announced what time zone they're planning to run their program in.
 
 363
-00:23:49,060 --> 00:23:55,220
- cons right now and I also think chairing a world con is maybe a full time job at this
+00:21:04,740 --> 00:21:09,540
+We've speculated previously that they would probably pick a time zone that would favor New
 
 364
-00:23:55,220 --> 00:24:00,980
- point and I already have a full time job and of course my part time podcasting hobby.
+00:21:09,540 --> 00:21:11,240
+Zealanders and US fans.
 
 365
-00:24:00,980 --> 00:24:02,580
- That's exactly it.
+00:21:11,240 --> 00:21:17,040
+But do either of you have any thoughts about what makes sense in that regard?
 
 366
-00:24:02,580 --> 00:24:07,620
- We do have a circuit of people who want to chair a world con and rather to few who want
+00:21:17,040 --> 00:21:20,820
+And have any of you heard anything about what they might be planning to do?
 
 367
-00:24:07,620 --> 00:24:09,860
- to do all the work.
+00:21:20,820 --> 00:21:23,840
+I have not heard anything about what they might be planning to do.
 
 368
-00:24:09,860 --> 00:24:10,860
- Yes.
+00:21:23,840 --> 00:21:30,880
+I think it makes sense to prioritize New Zealanders first and then what time zone will allow the
 
 369
-00:24:10,860 --> 00:24:15,020
- I'd love to chair a world con if someone else would do all the work.
+00:21:30,880 --> 00:21:32,760
+maximum number of your members to attend.
 
 370
-00:24:15,020 --> 00:24:16,500
- You heard it here first.
+00:21:33,180 --> 00:21:37,160
+I'm resigned to this as it means I would probably be able to attend like really weirdly
 
 371
-00:24:16,500 --> 00:24:22,900
- On the subject of time zones Alison you have an itinerary for your guff trip.
+00:21:37,160 --> 00:21:42,640
+timed things like possibly parties at 7am my time and the Hugos at lunchtime or something
 
 372
-00:24:22,900 --> 00:24:24,940
- Do you want to talk to us about that?
+00:21:42,640 --> 00:21:43,160
+like that.
 
 373
-00:24:24,940 --> 00:24:25,940
- I do.
+00:21:43,160 --> 00:21:44,800
+But that's just going to happen.
 
 374
-00:24:25,940 --> 00:24:28,340
- I was originally planning to not fly directly.
+00:21:45,320 --> 00:21:49,260
+My understanding is that we should be getting an announcement on this quite soon.
 
 375
-00:24:28,340 --> 00:24:34,140
- I'm going to do the entire experience virtually and I think I might have trailed this last
+00:21:49,260 --> 00:21:52,420
+There's been obviously, as you can imagine, quite a lot of thinking and working around
 
 376
-00:24:34,140 --> 00:24:38,060
- time but I hadn't really set any of it up when we were talking before.
+00:21:52,420 --> 00:21:52,820
+the issue.
 
 377
-00:24:38,060 --> 00:24:41,780
- So now I have a Facebook group it's called something like Alice in the Scots virtual guff
+00:21:52,820 --> 00:21:57,280
+But I understand that that's coming to a conclusion and you should expect it to be resolved.
 
 378
-00:24:41,780 --> 00:24:44,900
- trip that will probably find it for you.
+00:21:57,280 --> 00:22:01,160
+And they're going to try and make a decision that works the best for Con Zealand and for
 
 379
-00:24:44,900 --> 00:24:47,100
- If you are interested you can join and help me plan it.
+00:22:01,160 --> 00:22:01,540
+their members.
 
 380
-00:24:47,100 --> 00:24:50,980
- If you're not on Facebook then get in touch and I will send you the stuff and you could
+00:22:01,540 --> 00:22:04,820
+So I think we're still expecting a lot of announcements for New Zealand.
 
 381
-00:24:50,980 --> 00:24:52,140
- also give me your thoughts.
+00:22:04,820 --> 00:22:08,960
+And there's a lot of work going on to work out exactly what these will be.
 
 382
-00:24:52,140 --> 00:24:55,900
- I'm particularly interested in people in Australia and New Zealand.
+00:22:08,960 --> 00:22:10,640
+But I think, you know, things are happening.
 
 383
-00:24:55,900 --> 00:24:57,300
- I am planning to do stopovers.
+00:22:10,640 --> 00:22:13,100
+And I think fairly soon the white smoke will go up.
 
 384
-00:24:57,300 --> 00:25:02,380
- I was originally only going to do one on the way back because my logic was that I would
+00:22:13,860 --> 00:22:15,300
+You expect the white to go up?
 
 385
-00:25:02,380 --> 00:25:07,940
- be flying non- I would be not flying non-stop from Heathrow to Perth as that is now not
+00:22:15,300 --> 00:22:18,040
+We're electing a new Pope of all Wilcons.
 
 386
-00:25:07,940 --> 00:25:11,820
- possible but if it were possible that would be how I would be flying.
+00:22:18,040 --> 00:22:18,920
+Yay!
 
 387
-00:25:11,820 --> 00:25:15,900
- Now the west coast of the US people have said well why can't you do a stopover on the west
+00:22:18,920 --> 00:22:20,140
+Space Pope.
 
 388
-00:25:15,900 --> 00:25:21,420
- coast of the US and I'm hoping to organise a stopover in the other direction in either
+00:22:20,140 --> 00:22:22,660
+I vote for Vince Doherty.
 
 389
-00:25:21,420 --> 00:25:23,660
- Shanghai or Japan.
+00:22:22,660 --> 00:22:24,740
+Vince would pull off the robes.
 
 390
-00:25:23,660 --> 00:25:27,100
- So it's practically around the world tour at this point.
+00:22:24,740 --> 00:22:30,040
+But I mean, we're obviously not Wilcon chairs because, you know, there are some things that
 
 391
-00:25:27,100 --> 00:25:28,100
- Thailand!
+00:22:30,040 --> 00:22:32,080
+you don't do if you've got any sense at all.
 
 392
-00:25:28,100 --> 00:25:31,500
- Stop in Thailand you very rarely get to speak to Liz.
+00:22:32,080 --> 00:22:35,600
+Because you and Liz haven't had time to do that yet and I'm not stupid enough.
 
 393
-00:25:31,500 --> 00:25:35,740
- It's not occurred to me to stop in Thailand and I'd like to say well Pete Young is also
+00:22:35,600 --> 00:22:36,760
+No, no, seriously.
 
 394
-00:25:35,740 --> 00:25:41,380
- in Thailand but of course Pete Young is actually holed up in Stoke so not in Thailand at all.
+00:22:36,760 --> 00:22:41,240
+I was about to say you and Liz probably still have that as a plan, but I'm not stupid enough.
 
 395
-00:25:41,380 --> 00:25:43,300
- How hot is it where you are Liz?
+00:22:41,560 --> 00:22:43,960
+Imagine a Wilcon chaired by me and John.
 
 396
-00:25:43,300 --> 00:25:45,460
- It's been in the high 30s.
+00:22:43,960 --> 00:22:48,300
+I'm imagining it so hard, Liz.
 
 397
-00:25:45,460 --> 00:25:50,260
- Yes, okay so that's one of the nice things about going on a virtual guff trip is that
+00:22:48,300 --> 00:22:51,040
+I will not even imagine it.
 
 398
-00:25:50,260 --> 00:25:52,860
- it will not be that hot.
+00:22:51,040 --> 00:22:54,120
+I will give you £10 to pre-support it right now.
 
 399
-00:25:52,860 --> 00:25:56,620
- The other nice thing is that because it's going to be summer in the UK and winter in
+00:22:54,120 --> 00:22:55,280
+Oh, man.
 
 400
-00:25:56,620 --> 00:25:58,260
- New Zealand.
+00:22:55,280 --> 00:22:57,140
+All you need to do is pick a year.
 
 401
-00:25:58,260 --> 00:26:02,860
- New Zealand's 11 hours ahead of us rather than 13 hours ahead of us which I think would
+00:22:57,140 --> 00:23:04,360
+I'm going to go for £21.50 on the basis that if I am still alive, I'll presumably be wise
 
 402
-00:26:02,860 --> 00:26:06,100
- be quite a bit worse in terms of managing it.
+00:23:04,360 --> 00:23:05,400
+enough to do it by then.
 
 403
-00:26:06,100 --> 00:26:09,820
- But I am going to go on to Australian, first Australian time and then New Zealand time
+00:23:05,400 --> 00:23:06,600
+You'll be in a vat.
 
 404
-00:26:09,820 --> 00:26:10,820
- for three weeks.
+00:23:06,600 --> 00:23:08,740
+Liz, ever going to chair a Wilcon?
 
 405
-00:26:10,820 --> 00:26:14,740
- I'm going to get one of the other sort of face masks, the one you wear on a plane that
+00:23:09,260 --> 00:23:09,580
+No.
 
 406
-00:26:14,740 --> 00:26:19,020
- covers your eyes so that you can sleep in your very light bedroom in the middle of the
+00:23:09,580 --> 00:23:15,500
+She did not deny as fast as either of us did.
 
 407
-00:26:19,020 --> 00:26:25,580
- day and go on to the night shift for three weeks and hopefully meet lots of Australian
+00:23:15,500 --> 00:23:20,640
+I thought that there might be, like, I can see coming back to this in like 25 years or
 
 408
-00:26:25,580 --> 00:26:26,580
- fans.
+00:23:20,640 --> 00:23:24,800
+something when I do chair a Wilcon and someone digs this soundbite and goes, ha ha.
 
 409
-00:26:26,580 --> 00:26:35,300
- I'm planning, I've definitely got plans for Perth, Melbourne, Canberra, Sydney, Adelaide,
+00:23:24,800 --> 00:23:26,120
+So I thought, should I hedge a bit?
 
 410
-00:26:35,300 --> 00:26:38,980
- Hobart, Wellington in all ready.
+00:23:26,120 --> 00:23:28,480
+But then I'm like, no, I'm not going to chair a Wilcon.
 
 411
-00:26:38,980 --> 00:26:43,420
- So I'm definitely going to go to lots of bits of Australia virtually and see their local
+00:23:28,480 --> 00:23:29,580
+I'm going to say no.
 
 412
-00:26:43,420 --> 00:26:48,660
- attractions virtually and hopefully I asked for ideas for cooking the local food and everyone
+00:23:30,000 --> 00:23:35,260
+I would strongly recommend not bothering about that because if you did chair a Wilcon, you
 
 413
-00:26:48,660 --> 00:26:50,460
- comes back with junk food.
+00:23:35,260 --> 00:23:36,540
+go, yeah, well, people change.
 
 414
-00:26:50,460 --> 00:26:57,940
- I think the only actual plausible recipe that's not either this is an interesting sort of biscuit
+00:23:36,540 --> 00:23:42,440
+And if you don't deny it very firmly all the time, then you will find yourself chairing a
 
 415
-00:26:57,940 --> 00:27:04,300
- that you can probably get hold of or roast kangaroo is chicken parme giana which apparently
+00:23:42,440 --> 00:23:42,680
+Wilcon.
 
 416
-00:27:04,300 --> 00:27:06,740
- is an Australian specialty.
+00:23:42,680 --> 00:23:43,540
+That is how it works.
 
 417
-00:27:06,740 --> 00:27:11,940
- So I will have some of that but in the near future I'm going to have the Middlesbrough equivalent
+00:23:43,540 --> 00:23:49,540
+I think we are following and actually we have sufficient people who want to chair Wilcons
 
 418
-00:27:11,940 --> 00:27:17,420
- of chicken parme giana which is called a parmo and it's where you get some chicken, you
+00:23:49,540 --> 00:23:50,280
+right now.
 
 419
-00:27:17,420 --> 00:27:23,660
- flatten it, you breadcrumb it, you whack some Besshamel sauce and some cheddar on it and
+00:23:50,460 --> 00:23:55,700
+And I also think chairing a Wilcon is maybe a full-time job at this point.
 
 420
-00:27:23,660 --> 00:27:28,180
- then you put toppings on it like it's a pizza and it comes in a giant box.
+00:23:55,700 --> 00:23:58,400
+And I already have a full-time job.
 
 421
-00:27:28,180 --> 00:27:32,380
- And that is the Middlesbrough equivalent of the Australian delicacy you have just outlined
+00:23:58,400 --> 00:24:00,920
+And of course, my part-time podcasting hobby.
 
 422
-00:27:32,380 --> 00:27:35,300
- and there is a place that delivers them now in Southampton.
+00:24:00,920 --> 00:24:02,280
+That's exactly it.
 
 423
-00:27:35,300 --> 00:27:40,140
- Oh yes, but if you go anywhere in London that does parmose you might be able to get a sort
+00:24:02,280 --> 00:24:08,360
+We do have a surfeit of people who want to chair Wilcon and rather too few who want to do
 
 424
-00:27:40,140 --> 00:27:42,820
- of British take on it delivered.
+00:24:08,360 --> 00:24:09,560
+all the work.
 
 425
-00:27:42,820 --> 00:27:44,540
- Authentic one, yeah that sounds really good.
+00:24:09,560 --> 00:24:10,680
+Yes.
 
 426
-00:27:44,540 --> 00:27:49,300
- I mean because delivery food is definitely an option here and in general I'm getting
+00:24:11,180 --> 00:24:13,800
+I'd love to chair a Wilcon if someone else would do all the work.
 
 427
-00:27:49,300 --> 00:27:52,780
- Australian wine and beer delivered seems like part of the plan as well.
+00:24:13,800 --> 00:24:16,180
+You heard it here first.
 
 428
-00:27:52,780 --> 00:27:56,580
- So it's coming all nicely and I have quite a lot of people are coming up with some quite
+00:24:16,180 --> 00:24:22,980
+On the subject of time zones, Alison, you have an itinerary for your guff trip.
 
 429
-00:27:56,580 --> 00:27:57,580
- nice things.
+00:24:22,980 --> 00:24:24,720
+Do you want to talk to us about that?
 
 430
-00:27:57,580 --> 00:28:02,620
- There's some questions about how we're going to get some famously reclusive Australian
+00:24:24,720 --> 00:24:25,540
+I do.
 
 431
-00:28:02,620 --> 00:28:10,360
- fans to try zoom or discord or some other video conferencing solution of their choice.
+00:24:25,540 --> 00:24:28,400
+I was originally planning to not fly directly.
 
 432
-00:28:10,360 --> 00:28:14,580
- But it's quite interesting because it turns out that my trip, I'm doing three weeks plus
+00:24:28,400 --> 00:24:31,520
+I'm going to do the entire experience virtually.
 
 433
-00:28:14,580 --> 00:28:20,980
- travel, it's quite full even despite the fact that I'm not going anywhere and it really
+00:24:31,520 --> 00:24:36,540
+And I think I might have trailed this last time, but I hadn't really set any of it up when
 
 434
-00:28:20,980 --> 00:28:29,340
- brings home how difficult it must be to plan a fan fun trip and not die in the attempt.
+00:24:36,540 --> 00:24:38,080
+we were talking before.
 
 435
-00:28:29,340 --> 00:28:33,820
- No it is, I remember planning my fan fun trip, I did it when I was in my final year
+00:24:38,080 --> 00:24:39,360
+So now I have a Facebook group.
 
 436
-00:28:33,820 --> 00:28:37,660
- of my undergrad degree and I did it very much as an undergraduate as I mentioned on
+00:24:39,620 --> 00:24:42,140
+It's called something like Alison Scott's Virtual Guff Trip.
 
 437
-00:28:37,660 --> 00:28:42,860
- Anna's trip report but I think my entire month long trip clocked in at something like 1200
+00:24:42,140 --> 00:24:43,620
+That will probably find it for you.
 
 438
-00:28:42,860 --> 00:28:43,860
- pounds.
+00:24:43,620 --> 00:24:47,220
+Where if you are interested, you can join and help me plan it.
 
 439
-00:28:43,860 --> 00:28:45,300
- I'm going to spend more than that.
+00:24:47,220 --> 00:24:50,840
+If you're not on Facebook, then get in touch and I will send you the stuff.
 
 440
-00:28:45,300 --> 00:28:47,140
- Yeah I should have spent more than that.
+00:24:50,840 --> 00:24:52,220
+And you could also give me your thoughts.
 
 441
-00:28:47,140 --> 00:28:49,860
- I was going to spend more than that.
+00:24:52,220 --> 00:24:55,640
+I'm particularly interested in people in Australia and New Zealand.
 
 442
-00:28:49,860 --> 00:28:51,580
- Even virtually.
+00:24:55,640 --> 00:24:57,400
+I am planning to do stopovers.
 
 443
-00:28:51,580 --> 00:28:52,580
- Ha ha!
+00:24:57,400 --> 00:25:02,780
+I was originally only going to do one on the way back because my logic was that I would be
 
 444
-00:28:52,580 --> 00:28:53,780
- No I did it really.
+00:25:02,780 --> 00:25:08,560
+not flying nonstop from Heathrow to Perth, as that is now not possible.
 
 445
-00:28:53,780 --> 00:28:58,620
- I took the absolute cheapest flights I possibly could at every juncture and I was bewilderingly
+00:25:09,040 --> 00:25:11,480
+But if it were possible, that would be how I would be flying.
 
 446
-00:28:58,620 --> 00:28:59,620
- frugal.
+00:25:11,480 --> 00:25:15,820
+But now the West Coast of the US people have said, well, why can't you do a stopover on
 
 447
-00:28:59,620 --> 00:29:01,580
- We should bully Liz into running for guff.
+00:25:15,820 --> 00:25:16,780
+the West Coast of the US?
 
 448
-00:29:01,580 --> 00:29:05,300
- Liz, rather guff, comes to England from Thailand.
+00:25:16,780 --> 00:25:23,460
+And I'm hoping to organise a stopover in the other direction in either Shanghai or Japan.
 
 449
-00:29:05,300 --> 00:29:07,660
- Is that a good guff trip?
+00:25:23,460 --> 00:25:26,820
+So it's practically around the world tour at this point.
 
 450
-00:29:07,660 --> 00:29:09,140
- Ha ha ha!
+00:25:26,820 --> 00:25:27,520
+Thailand.
 
 451
-00:29:09,140 --> 00:29:14,260
- I do not think Thailand falls under the remit of guff, John.
+00:25:27,520 --> 00:25:29,000
+Stop in Thailand.
 
 452
-00:29:14,260 --> 00:29:15,700
- Ha ha ha!
+00:25:29,000 --> 00:25:30,660
+You very rarely get to speak to Liz.
 
 453
-00:29:15,700 --> 00:29:20,100
- I'm not sure if I need to send you a map with some scribbles on it to explain where
+00:25:32,300 --> 00:25:34,120
+It had not occurred to me to stop in Thailand.
 
 454
-00:29:20,100 --> 00:29:24,980
- countries are but it is not in fact in Australia or New Zealand.
+00:25:34,120 --> 00:25:36,320
+And I'd like to say, well, Pete Young is also in Thailand.
 
 455
-00:29:24,980 --> 00:29:28,820
- So I'm torn here because obviously I could just look at a map but equally the notion
+00:25:36,320 --> 00:25:38,840
+But of course, Pete Young is actually holed up in Stoke.
 
 456
-00:29:28,820 --> 00:29:34,340
- of receiving mail from Thailand that is just Liz annotating maps of the world being like
+00:25:38,840 --> 00:25:40,920
+So not in Thailand at all.
 
 457
-00:29:34,340 --> 00:29:38,220
- Australia, Arrow, not Australia, Arrow.
+00:25:40,920 --> 00:25:43,040
+How hot is it where you are, Liz?
 
 458
-00:29:38,220 --> 00:29:40,340
- That would be, I would not say no Liz.
+00:25:43,040 --> 00:25:45,580
+It's been in the high 30s.
 
 459
-00:29:40,340 --> 00:29:43,460
- That would be a great way for a good year.
+00:25:45,580 --> 00:25:46,240
+Yes.
 
 460
-00:29:43,460 --> 00:29:48,540
- Liz, are you near or further from here than you are from Australia?
+00:25:46,240 --> 00:25:46,460
+OK.
 
 461
-00:29:48,540 --> 00:29:58,060
- I am closer to Australia I believe, I'm about the same distance between the UK and New Zealand.
+00:25:46,500 --> 00:25:51,040
+So that's one of the nice things about going on a virtual guff trip is that it will not
 
 462
-00:29:58,060 --> 00:30:00,060
- I'm not entirely sure on that.
+00:25:51,040 --> 00:25:52,900
+be that hot.
 
 463
-00:30:00,060 --> 00:30:02,260
- Yeah, so only really half way.
+00:25:52,900 --> 00:25:57,660
+The other nice thing is that because it's going to be summer in the UK and winter in New Zealand,
 
 464
-00:30:02,260 --> 00:30:04,500
- Yeah, I am really sort of half way.
+00:25:57,660 --> 00:26:03,160
+New Zealand's 11 hours ahead of us rather than 13 hours ahead of us, which I think will be
 
 465
-00:30:04,500 --> 00:30:10,620
- I did look up how long it would take me to go to New Zealand for the Worldcon thinking
+00:26:03,160 --> 00:26:06,000
+quite a bit worse in terms of managing it.
 
 466
-00:30:10,620 --> 00:30:12,780
- oh, I must be like most of the way there.
+00:26:06,140 --> 00:26:10,220
+But I am going to go on to Australia, first Australian time and then New Zealand time for
 
 467
-00:30:12,780 --> 00:30:15,500
- No, it's still a very long trip.
+00:26:10,220 --> 00:26:10,640
+three weeks.
 
 468
-00:30:15,500 --> 00:30:18,620
- So I don't want to be too dramatic with fan funds.
+00:26:10,640 --> 00:26:15,260
+I'm going to get one of the other sort of face masks, the one you wear on a plane that covers
 
 469
-00:30:18,620 --> 00:30:22,180
- People can run for fan funds if they think they should run for a fan fund.
+00:26:15,260 --> 00:26:20,380
+your eyes so that you can sleep in your very light bedroom in the middle of the day and
 
 470
-00:30:22,180 --> 00:30:28,500
- But I do think there's something nice about having fan fund delegates who have not otherwise
+00:26:20,380 --> 00:26:26,240
+go on to the night shift for three weeks and hopefully meet lots of Australian fans.
 
 471
-00:30:28,500 --> 00:30:32,860
- visited the place or maybe visited the place once a very long time ago for a short while
+00:26:26,240 --> 00:26:33,820
+I'm planning, I'm definitely, I've definitely got plans for Perth, Melbourne, Canberra, Sydney,
 
 472
-00:30:32,860 --> 00:30:38,380
- and are now getting to do something without the fan funds would not be a practical journey
+00:26:33,820 --> 00:26:38,340
+Adelaide, Hobart, Wellington in already.
 
 473
-00:30:38,380 --> 00:30:39,380
- for them.
+00:26:38,340 --> 00:26:43,600
+So I'm definitely going to go to lots of bits of Australia virtually and see their local
 
 474
-00:30:39,380 --> 00:30:42,140
- I don't want to say it's a requirement or anything like that because it clearly isn't
+00:26:43,600 --> 00:26:48,760
+attractions virtually and hopefully I asked for ideas for cooking the local food and everyone
 
 475
-00:30:42,140 --> 00:30:45,140
- and shouldn't be.
+00:26:48,760 --> 00:26:50,280
+comes back with junk food.
 
 476
-00:30:45,140 --> 00:30:50,580
- One of the things I think about when voting is how much would I not expect to be able
+00:26:50,280 --> 00:26:57,200
+I think the only actual plausible recipe that's not, you know, either this is an interesting
 
 477
-00:30:50,580 --> 00:30:52,060
- to see this person otherwise?
+00:26:57,200 --> 00:27:03,140
+sort of biscuit that you can probably get hold of or roast kangaroo is chicken parmigiana,
 
 478
-00:30:52,060 --> 00:30:57,340
- Yes, I don't think John was entirely serious that I should run for a fan fund.
+00:27:03,140 --> 00:27:06,800
+which apparently is an Australian speciality.
 
 479
-00:30:57,340 --> 00:31:01,620
- But I would not consider running for a fan fund unless I was living in one of the places
+00:27:06,800 --> 00:27:07,740
+So I will have some of that.
 
 480
-00:31:01,620 --> 00:31:03,620
- in the fan fund.
+00:27:07,740 --> 00:27:13,340
+But in the near future, I'm going to have the Middlesbrough equivalent of chicken parmigiana,
 
 481
-00:31:03,620 --> 00:31:08,340
- Anyone would like to start a fan fund to just send people to come and visit me?
+00:27:13,340 --> 00:27:14,820
+which is called a parmo.
 
 482
-00:31:08,340 --> 00:31:11,820
- That's fine and I will take them out and show them around.
+00:27:15,280 --> 00:27:20,600
+And it's where you get some chicken, you flatten it, you breadcrumb it, you whack some
 
 483
-00:31:11,820 --> 00:31:14,300
- But I think that's called a holiday fund.
+00:27:20,600 --> 00:27:23,340
+bechamel sauce and some cheddar on it.
 
 484
-00:31:14,300 --> 00:31:19,500
- When I was still enthusiastic and young, me and Claire talked about doing a fan fund
+00:27:23,340 --> 00:27:27,660
+And then you put toppings on it like it's a pizza and it comes in a giant box.
 
 485
-00:31:19,500 --> 00:31:24,180
- called OOF which would be the out of the ordinary fan fund for conventions which were
+00:27:27,660 --> 00:27:32,320
+And that is the Middlesbrough equivalent of the Australian delicacy you have just outlined.
 
 486
-00:31:24,180 --> 00:31:26,180
- not in traditionally served countries.
+00:27:32,320 --> 00:27:34,940
+And there is a place that delivers them now in Southampton.
 
 487
-00:31:26,180 --> 00:31:31,540
- I don't know if you remember when Chris O'Shea went to Japan, he won jets which was a one
+00:27:34,940 --> 00:27:36,480
+So yes.
 
 488
-00:31:31,540 --> 00:31:32,540
- off fan fund.
+00:27:36,480 --> 00:27:40,560
+But if you've got anywhere in London that does parmos, you might be able to get a sort of
 
 489
-00:31:32,540 --> 00:31:34,980
- But I thought it'd be funny to have a fan fund called OOF.
+00:27:40,560 --> 00:27:42,300
+British take on it delivered.
 
 490
-00:31:34,980 --> 00:31:37,220
- What was he going to do a trip report?
+00:27:42,300 --> 00:27:43,740
+Authentic one.
 
 491
-00:31:37,220 --> 00:31:38,700
- No, of course not.
+00:27:43,740 --> 00:27:44,680
+Yeah, that sounds really good.
 
 492
-00:31:38,700 --> 00:31:40,820
- So we've talked about Alison's guff trip.
+00:27:44,680 --> 00:27:47,260
+I mean, because delivery food is definitely an option here.
 
 493
-00:31:40,820 --> 00:31:44,660
- Is there anything else you want to say about it apart from come to Thailand and I'll show
+00:27:47,260 --> 00:27:52,520
+And in general, getting Australian wine and beer delivered seems like part of the plan as well.
 
 494
-00:31:44,660 --> 00:31:45,660
- you around?
+00:27:52,520 --> 00:27:54,140
+So it's coming on nicely.
 
 495
-00:31:45,660 --> 00:31:51,180
- Well I think we should when you're visiting Liz on your stopover in Asia on your way back.
+00:27:54,140 --> 00:27:57,260
+And I have quite a lot of, you know, people are coming up with some quite nice things.
 
 496
-00:31:51,180 --> 00:31:55,340
- I could stop over everywhere in Asia on my way back from Australia all in the same day
+00:27:57,260 --> 00:28:03,140
+There's some questions about how we're going to get some famously reclusive Australian fans
 
 497
-00:31:55,340 --> 00:31:56,340
- couldn't I?
+00:28:03,140 --> 00:28:09,980
+to try Zoom or Discord or some other video conferencing solution of their choice.
 
 498
-00:31:56,340 --> 00:32:03,860
- Yeah but we should do a live recording of your stopover in this house and we should let
+00:28:09,980 --> 00:28:14,580
+But it's quite interesting because it turns out that my trip is, I'm doing three weeks
 
 499
-00:32:03,860 --> 00:32:06,460
- people ask questions about your trip and that would be fantastic.
+00:28:14,580 --> 00:28:15,120
+plus travel.
 
 500
-00:32:06,460 --> 00:32:10,900
- And I'll be in Thai time so when would suit you Liz?
+00:28:15,120 --> 00:28:19,240
+It's quite full, even despite the fact that I'm not going anywhere.
 
 501
-00:32:10,900 --> 00:32:12,780
- Well now it's fine it's a thing.
+00:28:19,240 --> 00:28:28,500
+And it really brings home how difficult it must be to plan a fan fun trip and not die in the attempt.
 
 502
-00:32:12,780 --> 00:32:14,780
- Oh okay what time is it there?
+00:28:29,620 --> 00:28:30,480
+No, it is.
 
 503
-00:32:14,780 --> 00:32:16,380
- Like tea time.
+00:28:30,480 --> 00:28:32,560
+It's, I remember planning my fan fun trip.
 
 504
-00:32:16,380 --> 00:32:17,380
- 730.
+00:28:32,560 --> 00:28:34,820
+I did it when I was in my final year of my undergrad degree.
 
 505
-00:32:17,380 --> 00:32:19,580
- Yeah okay so that's what we'll do.
+00:28:34,820 --> 00:28:38,920
+And I did it very much as an undergraduate, as I mentioned on Anna's trip report.
 
 506
-00:32:19,580 --> 00:32:21,140
- Well yeah we can.
+00:28:38,920 --> 00:28:42,920
+But I think my entire month long trip clocked in at something like £1,200.
 
 507
-00:32:21,140 --> 00:32:22,980
- Alright we'll do a virtual guff.
+00:28:43,920 --> 00:28:45,160
+I'm going to spend more than that.
 
 508
-00:32:22,980 --> 00:32:26,580
- I'm not sure what it won't be Sunday though that's my problem it's going to be mid week
+00:28:45,160 --> 00:28:46,920
+Yeah, I should have spent more than that.
 
 509
-00:32:26,580 --> 00:32:27,580
- so.
+00:28:46,920 --> 00:28:49,120
+I was going to say, I might spend more than that.
 
 510
-00:32:27,580 --> 00:32:29,300
- That's fine we will we will cope.
+00:28:49,120 --> 00:28:50,980
+Even virtually.
 
 511
-00:32:29,300 --> 00:32:34,100
- I'll get it to the diary because I think a live octa thought from Thailand.
+00:28:50,980 --> 00:28:52,120
+Ha ha!
 
 512
-00:32:34,100 --> 00:32:40,340
- Now we discuss staying sane in the apocalypse for a few minutes before we clock off.
+00:28:52,120 --> 00:28:53,740
+No, I did it really.
 
 513
-00:32:40,340 --> 00:32:44,620
- We're expecting some slight lockdown reductions today but I don't think they're going to be
+00:28:53,740 --> 00:28:57,120
+I took the absolute cheapest flights I possibly could at every juncture.
 
 514
-00:32:44,620 --> 00:32:48,620
- very specific I think most things are going to be you'll be allowed to go out to exercise
+00:28:57,120 --> 00:28:59,220
+And I was bewilderingly frugal.
 
 515
-00:32:48,620 --> 00:32:52,860
- more than once a day if you're a very enthusiastic jimbani.
+00:28:59,660 --> 00:29:01,360
+We should bully Liz into running for guff.
 
 516
-00:32:52,860 --> 00:32:58,020
- But otherwise it is much of the same we hoped we would have a podcasting studio in our back
+00:29:01,360 --> 00:29:02,700
+Liz, run for guff.
 
 517
-00:32:58,020 --> 00:33:00,780
- room and that's not work quite as well.
+00:29:02,700 --> 00:29:05,180
+Come to England from Thailand.
 
 518
-00:33:00,780 --> 00:33:04,940
- In fact we found that we're struggling to get internet across our whole house and it
+00:29:05,180 --> 00:29:06,860
+Is that a good guff trip?
 
 519
-00:33:04,940 --> 00:33:10,500
- seems to be because our internet provider is struggling to put as much internet as it
+00:29:06,860 --> 00:29:08,200
+Ha ha!
 
 520
-00:33:10,500 --> 00:33:16,060
- is contractually obligated to into the street as everybody in the world uses all of their
+00:29:08,200 --> 00:29:14,080
+I do not think Thailand falls under the remit of guff, John.
 
 521
-00:33:16,060 --> 00:33:21,900
- internet all the time and this has been getting steadily worse over the period as people have
+00:29:14,080 --> 00:29:15,240
+Ha ha ha!
 
 522
-00:33:21,900 --> 00:33:26,980
- managed to train their elderly relatives in using video conferencing and all those years
+00:29:15,580 --> 00:29:21,220
+I'm not sure if I need to send you a map with some scribbles on it to explain where countries are.
 
 523
-00:33:26,980 --> 00:33:31,340
- that they said people don't need as much upload as they have download that turned out to be
+00:29:21,220 --> 00:29:24,540
+But it is not, in fact, in Australia or New Zealand.
 
 524
-00:33:31,340 --> 00:33:36,740
- wrong didn't it boys and girls so but otherwise I'm much less in set because I was quite insane
+00:29:24,540 --> 00:29:27,580
+So I'm torn here because obviously I could just look at a map.
 
 525
-00:33:36,740 --> 00:33:39,500
- last time and I've cheered up quite a bit since then.
+00:29:27,580 --> 00:29:34,500
+But equally, the notion of receiving mail from Thailand that is just Liz annotating maps of the world being like,
 
 526
-00:33:39,500 --> 00:33:40,500
- That's good.
+00:29:34,500 --> 00:29:37,980
+Australia, arrow, not Australia, arrow.
 
 527
-00:33:40,500 --> 00:33:46,980
- England is currently having kind of the world's worst outbreak which is strange and not necessarily
+00:29:37,980 --> 00:29:39,400
+That would be...
 
 528
-00:33:46,980 --> 00:33:51,060
- what we expected so that's quite bad that might improve.
+00:29:39,400 --> 00:29:40,440
+I would not say no, Liz.
 
 529
-00:33:51,060 --> 00:33:58,740
- I am playing a play by post game of the Arkham horror board game where a man who lives not
+00:29:40,440 --> 00:29:42,200
+That would make my friggin' year.
 
 530
-00:33:58,740 --> 00:34:04,460
- far from me has set up a board in the room with his piano in it and he records YouTube
+00:29:43,480 --> 00:29:48,220
+Liz, are you nearer or further from here than you are from Australia?
 
 531
-00:34:04,460 --> 00:34:09,260
- videos every night of what happened and then the next day we tell him what we want our
+00:29:48,220 --> 00:29:51,960
+I am closer to Australia, I believe.
 
 532
-00:34:09,260 --> 00:34:14,380
- characters to do and he does it and then he we sent him photographs of the dice that we
+00:29:51,960 --> 00:29:57,300
+I'm about the same distance between the UK and New Zealand.
 
 533
-00:34:14,380 --> 00:34:18,820
- have rolled and then he does another YouTube video explaining what happened and we continue
+00:29:57,300 --> 00:29:59,880
+I'm not entirely sure on that.
 
 534
-00:34:18,820 --> 00:34:23,620
- on like that which is an incredibly surreal thing that I never would have thought to do
+00:29:59,880 --> 00:30:01,800
+Yeah, so only really halfway.
 
 535
-00:34:23,620 --> 00:34:29,020
- before I wasn't allowed out of my house but it is strangely soothing it is very nice and
+00:30:01,800 --> 00:30:04,420
+Yeah, I am really sort of halfway.
 
 536
-00:34:29,020 --> 00:34:34,180
- relaxing and a wonderful way to play board games so I recommend making friends with someone
+00:30:04,420 --> 00:30:10,360
+I did look up how long it would take me, you know, to go to New Zealand for the Worldcon,
 
 537
-00:34:34,180 --> 00:34:38,300
- who has a board game permanently set up in their house and sends you YouTube videos of
+00:30:10,360 --> 00:30:12,720
+thinking, oh, I must be like most of the way there.
 
 538
-00:34:38,300 --> 00:34:43,420
- how it's going this may not be as broadly applicable as previous episodes have been.
+00:30:12,720 --> 00:30:14,820
+No, it's still a very long trip.
 
 539
-00:34:43,420 --> 00:34:48,420
- Alternatively I can highly recommend playing board games with people on tabletop simulator
+00:30:14,820 --> 00:30:18,520
+So I don't want to be too dramatic about fan funds.
 
 540
-00:34:48,420 --> 00:34:52,660
- as John and I have been playing board games on tabletop simulator and it is extremely
+00:30:18,520 --> 00:30:21,680
+People can run for fan funds if they think they should run for a fan fund.
 
 541
-00:34:52,660 --> 00:34:57,580
- funny because John has played all the scenarios before and so when we have to make a very
+00:30:21,680 --> 00:30:29,500
+But I do think there's something nice about having fan fund delegates who have not otherwise visited the place,
 
 542
-00:34:57,580 --> 00:35:02,740
- important decision like should we read the neponomicon and keep it submittent knowledge
+00:30:29,500 --> 00:30:32,740
+or maybe visited the place once a very long time ago for a short while,
 
 543
-00:35:02,740 --> 00:35:08,180
- or should we destroy it I can see John on the video sitting there trying very hard not
+00:30:32,740 --> 00:30:39,260
+and are now getting to do something that without the fan funds would not be a practical journey for them.
 
 544
-00:35:08,180 --> 00:35:15,500
- to influence us to do the sensible thing you should destroy it and never I mean I think
+00:30:39,720 --> 00:30:43,860
+I don't want to say it's a requirement or anything like that, because it clearly isn't and shouldn't be.
 
 545
-00:35:15,500 --> 00:35:19,700
- I haven't played this game but I'm 99% certain that's the correct answer.
+00:30:43,860 --> 00:30:51,860
+But it's one of the things I think about when voting is how much would I not expect to be able to see this person otherwise.
 
 546
-00:35:19,700 --> 00:35:25,180
- The correct answer was destroy the nekonomicon and we did destroy the nekonomicon.
+00:30:52,260 --> 00:30:56,660
+Yes, I don't think John was entirely serious that I should run for a fan fund.
 
 547
-00:35:25,180 --> 00:35:30,460
- The problem is that there are arguments for and against Liz and I know what those arguments
+00:30:56,660 --> 00:31:02,760
+But I would not consider running for a fan fund unless I was living in one of the places in the fan fund.
 
 548
-00:35:30,460 --> 00:35:37,340
- are I know I know what happens if you pick either one I cannot confirm nor deny that you
+00:31:02,760 --> 00:31:07,960
+Anyone would like to start a fan fund to just send people to come and visit me?
 
 549
-00:35:37,340 --> 00:35:40,060
- picked the right option.
+00:31:07,960 --> 00:31:08,900
+That's fine.
 
 550
-00:35:40,060 --> 00:35:41,940
- Which is good for if you want to play it again.
+00:31:08,960 --> 00:31:10,680
+And I will take them out and show them around.
 
 551
-00:35:41,940 --> 00:35:46,580
- Alright we are pretty sure that destroying an ekonomicon was the correct thing to do.
+00:31:10,680 --> 00:31:14,000
+But I think that's called a holiday fund, probably.
 
 552
-00:35:46,580 --> 00:35:50,820
- But I am also like allowed to leave the house and things because we're in phase one of
+00:31:14,000 --> 00:31:20,460
+When I was still enthusiastic and young, me and Claire talked about doing a fan fund called OOF,
 
 553
-00:35:50,820 --> 00:35:56,060
- lifting restrictions so I mean we never had I think quite such a strict lockdown as the
+00:31:20,460 --> 00:31:26,740
+which would be the out-of-the-ordinary fan fund for conventions which were not in traditionally served countries.
 
 554
-00:35:56,060 --> 00:36:02,140
- UK did but we are sort of back to you can work 50/50 in the office so try and keep the
+00:31:26,740 --> 00:31:32,400
+I don't know if you remember when Chris O'Shea went to Japan, he won Jets, which was a one-off fan fund.
 
 555
-00:36:02,140 --> 00:36:07,460
- office 50% empty restaurants are reopening with quite a lot of restrictions on seating
+00:31:32,400 --> 00:31:35,000
+But I thought it'd be funny to have a fan fund called OOF.
 
 556
-00:36:07,460 --> 00:36:13,180
- distances and things like that handful of other things have opened like parks and golf courses
+00:31:35,000 --> 00:31:36,880
+Was he going to do a trip report?
 
 557
-00:36:13,180 --> 00:36:19,860
- and if all goes well at the end of next week we might go on to the next phase so I may not
+00:31:37,460 --> 00:31:38,260
+No, of course not.
 
 558
-00:36:19,860 --> 00:36:24,020
- need these coping measures for all that long although I'm still working from home pretty
+00:31:38,260 --> 00:31:40,420
+So we've talked about Alison's guff trip.
 
 559
-00:36:24,020 --> 00:36:25,020
- much full time.
+00:31:40,420 --> 00:31:43,200
+Was there anything else either of the rest of you wanted to say about it,
 
 560
-00:36:25,020 --> 00:36:30,580
- I've observed that we start off buying a little bit of cheese the amount of cheese we
+00:31:43,200 --> 00:31:45,360
+apart from come to Thailand and I'll show you around?
 
 561
-00:36:30,580 --> 00:36:32,220
- would normally buy.
+00:31:45,360 --> 00:31:50,820
+Well, I think we should, when you're visiting Liz on your stopover in Asia on your way back.
 
 562
-00:36:32,220 --> 00:36:40,060
- Gradually as the lockdown has extended we've started to buy more and more cheese so each
+00:31:50,820 --> 00:31:56,180
+I could stop over everywhere in Asia on my way back from Australia all in the same day, couldn't I?
 
 563
-00:36:40,060 --> 00:36:45,580
- week a greater proportion of the food we eat is cheese and a greater proportion of the
+00:31:56,180 --> 00:32:02,660
+Yeah, but we should do a live recording of your stopover at Liz's house
 
 564
-00:36:45,580 --> 00:36:50,700
- meals that we eat are formed of going oh nobody really fancies cooking I'll just eat
+00:32:02,660 --> 00:32:06,200
+and we should let people ask questions about your trip and that would be fantastic.
 
 565
-00:36:50,700 --> 00:36:52,180
- some cheese.
+00:32:06,440 --> 00:32:09,200
+And I'll be in Thai time.
 
 566
-00:36:52,180 --> 00:36:57,740
- I have been doing some jigsaw's we still have we have kind of a jigsaw transfer network
+00:32:09,200 --> 00:32:10,320
+So when would suit you, Liz?
 
 567
-00:36:57,740 --> 00:37:04,020
- round the covid mutual aid group now so all the jigsaw's are getting passed around which
+00:32:10,320 --> 00:32:12,360
+Well, now it's fine, it's a thing.
 
 568
-00:37:04,020 --> 00:37:08,860
- is good because the street value of jigsaw's is treble in the last two months.
+00:32:12,360 --> 00:32:13,260
+Oh, OK.
 
 569
-00:37:08,860 --> 00:37:12,820
- If you have any mecholism for selling jigsaw's I would recommend that.
+00:32:13,260 --> 00:32:14,380
+What time is it there?
 
 570
-00:37:12,820 --> 00:37:18,260
- I've also noticed as well as my cheese intake going up my beer intake is going up gradually
+00:32:14,380 --> 00:32:15,900
+Like, tea time?
 
 571
-00:37:18,260 --> 00:37:26,100
- that as I've worked out more and better ways to socialise online I find I'm doing it more
+00:32:15,900 --> 00:32:16,960
+7.30.
 
 572
-00:37:26,100 --> 00:37:31,340
- and therefore I'm it's more effective and therefore I drink more beer.
+00:32:16,960 --> 00:32:17,940
+Yeah, OK.
 
 573
-00:37:31,340 --> 00:37:36,900
- My daughter said sadly yesterday but there's so much theatre we'd never normally go to
+00:32:17,940 --> 00:32:19,320
+So that's what we'll do?
 
 574
-00:37:36,900 --> 00:37:42,940
- the theatre every week and and yet there are all these theatre things they come on every
+00:32:19,320 --> 00:32:21,240
+Well, yeah, we could...
 
 575
-00:37:42,940 --> 00:37:48,700
- week they only last for a few days and so yes lots of theatre lots of highbrow entertainment
+00:32:21,240 --> 00:32:21,560
+All right.
 
 576
-00:37:48,700 --> 00:37:51,220
- is being provided for our enjoyment.
+00:32:21,560 --> 00:32:22,780
+We'll do a virtual guff.
 
 577
-00:37:51,220 --> 00:37:57,260
- My part of my staying stay in the apocalypse is that I have bought a new microphone and
+00:32:22,780 --> 00:32:23,880
+I'm not sure what...
 
 578
-00:37:57,260 --> 00:38:03,020
- the microphone has not appeared I have not been charged for the microphone I don't know
+00:32:23,880 --> 00:32:24,820
+It won't be Sunday, though.
 
 579
-00:38:03,020 --> 00:38:07,420
- what I will be charged for the microphone I don't know how to cancel the microphone it's
+00:32:24,820 --> 00:32:25,420
+That's my problem.
 
 580
-00:38:07,420 --> 00:38:11,300
- all very stressful because I found out that Argos sells this microphone and buying directly
+00:32:25,420 --> 00:32:27,520
+It's going to be midweek, so...
 
 581
-00:38:11,300 --> 00:38:16,780
- from the manufacturer might have been worse than buying from Argos which seems backwards
+00:32:27,520 --> 00:32:28,040
+That's fine.
 
 582
-00:38:16,780 --> 00:38:17,780
- to me.
+00:32:28,040 --> 00:32:29,120
+We will cope.
 
 583
-00:38:17,780 --> 00:38:21,340
- One of the things that people don't always know is that if Argos has the thing in stock
+00:32:29,120 --> 00:32:33,520
+I'll get it to the diary because I think a live Octothorpe from Thailand.
 
 584
-00:38:21,340 --> 00:38:26,660
- and will get it to you they are often the very best option for getting your thing especially
+00:32:33,520 --> 00:32:39,880
+Shall we discuss staying sane in the apocalypse for a few minutes before we clock off?
 
 585
-00:38:26,660 --> 00:38:31,820
- if it's kind of a small electrical thing because they they just kind of bring it right
+00:32:39,880 --> 00:32:44,780
+We're expecting some slight lockdown reductions today, but I don't think they're going to be
 
 586
-00:38:31,820 --> 00:38:36,540
- round and you can also they also do click and collect from Sainsbury's so I would click
+00:32:44,780 --> 00:32:45,400
+very specific.
 
 587
-00:38:36,540 --> 00:38:41,340
- and collect from Sainsbury's I think I assume that still works at the moment.
+00:32:45,400 --> 00:32:47,300
+I think most things are going to be...
 
 588
-00:38:41,340 --> 00:38:45,660
- Yeah it does there has been some discussion about whether it should work.
+00:32:47,300 --> 00:32:51,920
+You'll be allowed to go out to exercise more than once a day if you're a very enthusiastic
 
 589
-00:38:45,660 --> 00:38:49,260
- There is massive tension at the moment between the people who don't want the economy to
+00:32:51,920 --> 00:32:52,400
+gym bunny.
 
 590
-00:38:49,260 --> 00:38:52,860
- collapse and the people who don't want everyone to die of the plague.
+00:32:52,400 --> 00:32:55,480
+But otherwise, it is much of the same.
 
 591
-00:38:52,860 --> 00:38:57,900
- You know fair but the people who don't want the economy to collapse are like Argos has
+00:32:55,480 --> 00:33:00,260
+We hoped we would have a podcasting studio in our back room, and that's not worked quite
 
 592
-00:38:57,900 --> 00:39:02,940
- all these sites in supermarkets which means it got a huge benefit over every other retail
+00:33:00,260 --> 00:33:00,600
+as well.
 
 593
-00:39:02,940 --> 00:39:08,580
- stop because it had to shut its main retail sites but it could continue to operate its
+00:33:00,600 --> 00:33:05,480
+In fact, we found that we're struggling to get internet across our whole house, and it seems
 
 594
-00:39:08,580 --> 00:39:12,780
- entire business through these click and collect sites and says and then the people who wanted
+00:33:05,480 --> 00:33:11,440
+to be because our internet provider is struggling to put as much internet as it is contractually
 
 595
-00:39:12,780 --> 00:39:16,420
- the economy to survive went well actually that's okay we do not want the economy to
+00:33:11,440 --> 00:33:16,900
+obligated to into the street as everybody in the world uses all of their internet all the
 
 596
-00:39:16,420 --> 00:39:20,540
- collapse so letting people making it possible for people to buy manufacturing goods is no
+00:33:16,900 --> 00:33:17,160
+time.
 
 597
-00:39:20,540 --> 00:39:21,540
- bad.
+00:33:17,160 --> 00:33:23,100
+And this has been getting steadily worse over the period as people have managed to train
 
 598
-00:39:21,540 --> 00:39:26,140
- Yeah I think I'm not going mad but I am ordering a lot online.
+00:33:23,100 --> 00:33:25,800
+their elderly relatives in using video conferencing.
 
 599
-00:39:26,140 --> 00:39:30,740
- When you do get your microphone from Sainsbury's you will also have to buy your groceries.
+00:33:25,800 --> 00:33:30,420
+And all those years that they said, oh, people don't need as much upload as they have download,
 
 600
-00:39:30,740 --> 00:39:35,500
- Oh yes sorry I should clarify we have the largest Sainsbury's in my city is a five minute
+00:33:30,420 --> 00:33:32,460
+that turned out to be wrong, didn't it?
 
 601
-00:39:35,500 --> 00:39:40,180
- walk up the road and so I do my grocery shopping there used to do it all the way back from
+00:33:32,460 --> 00:33:33,460
+Boys and girls.
 
 602
-00:39:40,180 --> 00:39:44,900
- work whenever we needed bits now we'll do it every two weeks in Giganto shops which I
+00:33:33,460 --> 00:33:34,220
+So...
 
 603
-00:39:44,900 --> 00:39:49,860
- am still not really used to and the sticker shock of spending two weeks where the groceries
+00:33:34,220 --> 00:33:35,980
+But otherwise, I'm much less...
 
 604
-00:39:49,860 --> 00:39:53,780
- in one go is still a little bit like what is that really how much spending yes it is
+00:33:35,980 --> 00:33:39,080
+Because I was quite insane last time, and I've cheered up quite a bit since then.
 
 605
-00:39:53,780 --> 00:39:55,340
- especially if you call cats.
+00:33:39,080 --> 00:33:39,960
+That's good.
 
 606
-00:39:55,340 --> 00:39:57,740
- You should try having four adults in the house.
+00:33:39,960 --> 00:33:46,500
+England is currently having kind of the world's worst outbreak, which is strange and
 
 607
-00:39:57,740 --> 00:39:59,660
- I don't think I should try that Alison.
+00:33:46,500 --> 00:33:47,820
+not necessarily what we expected.
 
 608
-00:39:59,660 --> 00:40:02,020
- I think I think two adults and two cats.
+00:33:47,820 --> 00:33:48,920
+So that's quite bad.
 
 609
-00:40:02,020 --> 00:40:04,220
- And a very big hang of cheese.
+00:33:48,920 --> 00:33:50,000
+That might improve.
 
 610
-00:40:04,220 --> 00:40:08,300
- On the subject of that we've been drinking much more beer.
+00:33:50,700 --> 00:33:58,920
+I am playing a play-by-post game of the Arkham Horror board game, where a man who lives not
 
 611
-00:40:08,300 --> 00:40:13,420
- We are ordering six pints a week from the pub across the road.
+00:33:58,920 --> 00:34:02,540
+far from me has set up a board in the room with his piano in it.
 
 612
-00:40:13,420 --> 00:40:16,420
- Before lockdown we never used to drink that much beer in the pub across the road but now
+00:34:02,540 --> 00:34:06,740
+And he records YouTube videos every night of what happened.
 
 613
-00:40:16,420 --> 00:40:17,420
- we do.
+00:34:06,740 --> 00:34:11,280
+And then the next day, we tell him what we want our characters to do, and he does it.
 
 614
-00:40:17,420 --> 00:40:21,940
- One of the ways I'm staying sane and the apocalypse is to play board games with members of my
+00:34:11,400 --> 00:34:15,140
+And then we send him photographs of the dice that we have rolled.
 
 615
-00:40:21,940 --> 00:40:23,220
- own household.
+00:34:15,140 --> 00:34:18,000
+And then he does another YouTube video explaining what happened.
 
 616
-00:40:23,220 --> 00:40:25,980
- I have been doing that as well.
+00:34:18,000 --> 00:34:19,700
+And we continue on like that.
 
 617
-00:40:25,980 --> 00:40:32,780
- Because I grew some so that is the upside of having children and then waiting 20 years
+00:34:19,700 --> 00:34:24,380
+Which is an incredibly surreal thing that I never would have thought to do before I wasn't
 
 618
-00:40:32,780 --> 00:40:35,940
- is that you can then play board games with them in lockdown.
+00:34:24,380 --> 00:34:25,180
+allowed out of my house.
 
 619
-00:40:35,940 --> 00:40:43,500
- I actually logged my 800th board game yesterday or my 800th play yesterday which was a game
+00:34:25,180 --> 00:34:27,220
+But it is strangely soothing.
 
 620
-00:40:43,500 --> 00:40:45,820
- of Arkham Horror of the card game with my lovely wife.
+00:34:27,220 --> 00:34:32,080
+It is very nice and relaxing and a wonderful way to play board games.
 
 621
-00:40:45,820 --> 00:40:48,420
- We got our asses handed to us in the carnival in Venice.
+00:34:32,080 --> 00:34:36,380
+So I recommend making friends with someone who has a board game permanently set up in their
 
 622
-00:40:48,420 --> 00:40:49,420
- That was very embarrassing.
+00:34:36,380 --> 00:34:39,020
+house and send you YouTube videos of how it's going.
 
 623
-00:40:49,420 --> 00:40:53,860
- It turns out that I did not have the ability to kill enough cultists and that was a problem.
+00:34:39,020 --> 00:34:42,980
+This may not be as broadly applicable as previous episodes have been.
 
 624
-00:40:53,860 --> 00:40:57,060
- But yes I've also been playing a lot of games with this band yet and also watching a lot
+00:34:42,980 --> 00:34:48,160
+Alternatively, I can highly recommend playing board games with people on Tabletop Simulator,
 
 625
-00:40:57,060 --> 00:40:58,500
- of movies with this band yet.
+00:34:48,160 --> 00:34:51,400
+as John and I have been playing board games on Tabletop Simulator.
 
 626
-00:40:58,500 --> 00:41:04,220
- And also Animal Crossing and I posted a very adorable picture to Facebook of a kitchen.
+00:34:51,400 --> 00:34:55,980
+And it is extremely funny because John has played all the scenarios before.
 
 627
-00:41:04,220 --> 00:41:09,940
- We basically designed an entire Animal Crossing kitchen and then we filled it up with turnips
+00:34:56,580 --> 00:35:01,440
+And so when we have to make a very important decision, like, should we read the Necronomicon
 
 628
-00:41:09,940 --> 00:41:13,140
- because one of the features of Animal Crossing is that you end up with a lot of turnips in
+00:35:01,440 --> 00:35:04,140
+and keep its forbidden knowledge, or should we destroy it?
 
 629
-00:41:13,140 --> 00:41:14,300
- your home.
+00:35:04,140 --> 00:35:10,960
+I can see John on the video sitting there trying very hard not to influence us to do the sensible
 
 630
-00:41:14,300 --> 00:41:18,580
- And said oh I'm having trouble with my veg box does anyone have any ideas on what you can
+00:35:10,960 --> 00:35:11,540
+thing.
 
 631
-00:41:18,580 --> 00:41:19,580
- do with turnips.
+00:35:11,540 --> 00:35:15,080
+You should destroy it and never...
 
 632
-00:41:19,580 --> 00:41:25,820
- And one person accurately identified that the answer was sell them for a fat profit on
+00:35:15,080 --> 00:35:19,240
+I mean, I think I haven't played this game, but I'm 99% certain that's the correct answer.
 
 633
-00:41:25,820 --> 00:41:27,540
- Wednesday afternoons.
+00:35:19,240 --> 00:35:22,340
+The correct answer was destroy the Necronomicon.
 
 634
-00:41:27,540 --> 00:41:32,860
- And everybody else gave me ideas for using turnips.
+00:35:22,340 --> 00:35:24,760
+And we did destroy the Necronomicon.
 
 635
-00:41:32,860 --> 00:41:38,300
- In fact they were obviously cartoon turnips on the floor of a cartoon kitchen.
+00:35:25,200 --> 00:35:30,480
+The problem is that there are arguments for and against Liz, and I know what those arguments
 
 636
-00:41:38,300 --> 00:41:45,060
- Marianne, my daughter is in her final term at Oxford and had a large not quite thesis
+00:35:30,480 --> 00:35:30,920
+are.
 
 637
-00:41:45,060 --> 00:41:46,660
- to hand in.
+00:35:30,920 --> 00:35:32,360
+I know.
 
 638
-00:41:46,660 --> 00:41:51,020
- And this is obviously been a source of stress in her household and it was due at noon on
+00:35:32,360 --> 00:35:35,100
+I know what happens if you pick either one.
 
 639
-00:41:51,020 --> 00:41:52,580
- Thursday.
+00:35:35,100 --> 00:35:38,440
+I cannot confirm nor deny that you picked the right option.
 
 640
-00:41:52,580 --> 00:41:59,260
- And at 11.52 on Thursday she uploaded it and got the confirmation thing to say.
+00:35:38,440 --> 00:35:41,820
+Which is good for if you want to play it again.
 
 641
-00:41:59,260 --> 00:42:03,020
- It was great and we were like oh that's lovely darling, well done you can relax now.
+00:35:41,820 --> 00:35:42,380
+All right.
 
 642
-00:42:03,020 --> 00:42:07,740
- And she was like no we only have eight minutes to sell our turnips because there is a stock
+00:35:42,380 --> 00:35:46,340
+We are pretty sure that destroying an Necronomicon was the correct thing to do.
 
 643
-00:42:07,740 --> 00:42:11,260
- marketed Animal Crossing where you sell turnips at a high price if you don't sell them with
+00:35:46,340 --> 00:35:51,040
+But I am also, like, allowed to leave the house and things because we're in phase one of
 
 644
-00:42:11,260 --> 00:42:15,380
- a week they rot and you have a pile of rotten turnips.
+00:35:51,040 --> 00:35:51,860
+lifting restrictions.
 
 645
-00:42:15,380 --> 00:42:21,860
- So you use turnip price predictor apps on the internet to tell you how much your turnips
+00:35:52,640 --> 00:35:57,020
+So, I mean, we never had, I think, quite such a strict lockdown as the UK did.
 
 646
-00:42:21,860 --> 00:42:23,220
- will sell for.
+00:35:57,020 --> 00:36:01,580
+But we are sort of back to you can work 50-50 in the office.
 
 647
-00:42:23,220 --> 00:42:28,580
- And so the eight minutes after her getting her essay in for the deadline while we were
+00:36:01,580 --> 00:36:03,660
+So try and keep the office 50% empty.
 
 648
-00:42:28,580 --> 00:42:35,700
- trying to get roomfuls of turnips sold before the bell rang at noon was much more stressful
+00:36:03,660 --> 00:36:08,840
+Restaurants are reopening with quite a lot of restrictions on seating distances and things
 
 649
-00:42:35,700 --> 00:42:40,620
- than any part of the preceding two hours of exactly what format does this need to be
+00:36:08,840 --> 00:36:09,480
+like that.
 
 650
-00:42:40,620 --> 00:42:43,220
- and how do the citations need to be.
+00:36:09,880 --> 00:36:13,220
+handful of other things have reopened, like parks and golf courses.
 
 651
-00:42:43,220 --> 00:42:47,300
- But the essay has gone in and I made half a million bells selling turnips.
+00:36:13,220 --> 00:36:17,940
+And if all goes well, at the end of next week, we might go on to the next phase.
 
 652
-00:42:47,300 --> 00:42:50,180
- Yay, excellent.
+00:36:17,940 --> 00:36:22,240
+So I may not need these coping measures for all that long.
 
 653
-00:42:50,180 --> 00:42:52,700
- So that's probably more than you want to know about Animal Crossing.
+00:36:22,240 --> 00:36:24,740
+Although I'm still working from home pretty much full time.
 
 654
-00:42:52,700 --> 00:42:54,740
- The world's an odd place.
+00:36:25,260 --> 00:36:30,940
+I've observed that we started off buying a little bit of cheese, the amount of cheese we would
 
 655
-00:42:54,740 --> 00:43:00,580
- It's not just me the Financial Times had a long article about Animal Crossing and the
+00:36:30,940 --> 00:36:31,780
+normally buy.
 
 656
-00:43:00,580 --> 00:43:07,660
- Bank of Animal Crossing and the steps that have been taken to avoid cheats in Animal Crossing
+00:36:31,780 --> 00:36:38,920
+And gradually, as the lockdown has extended, we've started to buy more and more cheese.
 
 657
-00:43:07,660 --> 00:43:11,780
- and the virtual turnip market that I've just described to you.
+00:36:38,920 --> 00:36:44,160
+So each week, a greater proportion of the food we eat is cheese.
 
 658
-00:43:11,780 --> 00:43:18,100
- And it was played not for laughs at all really it basically said it was obviously a funny
+00:36:44,380 --> 00:36:49,140
+And a greater proportion of the meals that we eat are formed of going, oh, nobody really
 
 659
-00:43:18,100 --> 00:43:21,780
- article but it wasn't April Fools because I checked repeatedly they just thought that
+00:36:49,140 --> 00:36:50,020
+fancies cooking.
 
 660
-00:43:21,780 --> 00:43:26,980
- it would be funny to have an article about turnip trading at Animal Crossing in the middle
+00:36:50,020 --> 00:36:51,940
+I'll just eat some cheese.
 
 661
-00:43:26,980 --> 00:43:30,260
- of the F.T. because people need that sort of thing these days.
+00:36:51,940 --> 00:36:53,900
+I have been doing some jigsaws.
 
 662
-00:43:30,260 --> 00:43:33,220
- Thanks everyone for listening to the fifth episode of the OctaThought podcast.
+00:36:53,900 --> 00:37:00,060
+We still have, we have kind of a jigsaw transfer network around the COVID mutual aid group now.
 
 663
-00:43:33,220 --> 00:43:37,420
- We will see you in a fortnight's time but for now it's goodbye from me.
+00:37:02,140 --> 00:37:06,200
+So all the jigsaws are getting passed around, which is good because the street value of jigsaws
 
 664
-00:43:37,420 --> 00:43:39,060
- And it's goodbye from me.
+00:37:06,200 --> 00:37:08,120
+has trebled in the last two months.
 
 665
-00:43:39,060 --> 00:43:40,340
- And it's goodbye from me.
+00:37:08,120 --> 00:37:12,060
+If you have any mechanism for selling jigsaws, I would recommend that.
 
 666
-00:43:40,340 --> 00:43:46,500
- The music used in this episode was Pamfer for Space by Kevin MacLeod at Incompetech.com
+00:37:12,060 --> 00:37:17,940
+I am, I've also noticed as well as my cheese intake going up, my beer intake is going up
 
 667
-00:43:46,500 --> 00:43:53,500
- licensed under a Creative Commons BY 3.0 license.
+00:37:17,940 --> 00:37:25,560
+gradually that as I've worked out more and better ways to socialize online, I find I'm doing
 
 668
-00:43:53,500 --> 00:44:00,900
- Yeah that's a wrap.
+00:37:25,560 --> 00:37:30,900
+it more and therefore I'm, it's more effective and therefore I drink more beer.
 
 669
-00:44:00,900 --> 00:44:03,860
- Now of course there is the after show thing so...
+00:37:31,400 --> 00:37:35,560
+My daughter said sadly yesterday, but there's so much theatre.
 
 670
-00:44:03,860 --> 00:44:08,740
- I have spent lots on Arkham Horror.
+00:37:35,560 --> 00:37:38,600
+We'd never normally go to the theatre every week.
 
 671
-00:44:08,740 --> 00:44:10,340
- I'd be surprised.
+00:37:38,600 --> 00:37:44,140
+And, and yet there are all these theatre things and they come on every week and they only last
 
 672
-00:44:10,340 --> 00:44:13,780
- It must be about 700 or 800 pounds.
+00:37:44,140 --> 00:37:45,020
+for a few days.
 
 673
-00:44:13,780 --> 00:44:16,460
- Isn't that quite a lot of money?
+00:37:45,020 --> 00:37:50,640
+And so yes, lots of theatre, lots of highbrow entertainment is being provided for our enjoyment.
 
 674
-00:44:16,460 --> 00:44:17,460
- That's alright.
+00:37:50,640 --> 00:37:57,600
+My, part of my staying sane at the apocalypse is that I have bought a new microphone and the
 
 675
-00:44:17,460 --> 00:44:22,100
- That's why I can't go to New Zealand Alison because I've spent it all on board games.
+00:37:57,600 --> 00:37:59,620
+microphone has not appeared.
 
 676
-00:44:22,100 --> 00:44:26,700
- No no no no no it's not quite a lot of money for a board game because I was thinking about
+00:38:00,180 --> 00:38:02,800
+I have not been charged for the microphone.
 
 677
-00:44:26,700 --> 00:44:30,540
- whether we wanted to buy Gloomhaven and it seemed like quite a lot of money for a board
+00:38:02,800 --> 00:38:04,640
+I don't know when I will be charged for the microphone.
 
 678
-00:44:30,540 --> 00:44:31,540
- game.
+00:38:04,640 --> 00:38:06,940
+I don't know how to cancel the microphone.
 
 679
-00:44:31,540 --> 00:44:33,540
- Gloomhaven is quite a lot of money.
+00:38:06,940 --> 00:38:11,480
+It's all very stressful because I found out that Argos sells this microphone and buying directly
 
 680
-00:44:33,540 --> 00:44:38,660
- So my answer is it depends what you think a lot of money is and I don't know whether
+00:38:11,480 --> 00:38:16,820
+from the manufacturer might have been worse than buying from Argos, which seems backwards
 
 681
-00:44:38,660 --> 00:44:40,060
- that makes sense.
+00:38:16,820 --> 00:38:17,460
+to me.
 
 682
-00:44:40,060 --> 00:44:44,220
- How do you manage to spend so Gloomhaven may or may not be value for money.
+00:38:17,460 --> 00:38:21,480
+One of the things that people don't always know is that if Argos has the thing in stock
 
 683
-00:44:44,220 --> 00:44:47,220
- So Gloomhaven is almost certainly value...
+00:38:21,480 --> 00:38:26,720
+and will get it to you, they are often the very best option for getting your thing, especially
 
 684
-00:44:47,220 --> 00:44:50,340
- The differentiation is between expense and value.
+00:38:26,720 --> 00:38:32,360
+if it's kind of a small electrical thing because they, they just kind of bring it right round.
 
 685
-00:44:50,340 --> 00:44:53,620
- So Gloomhaven is 120 quid which is quite a lot of money.
+00:38:32,360 --> 00:38:35,520
+And you can also, they also do click and collect from Sainsbury's.
 
 686
-00:44:53,620 --> 00:44:58,100
- If you buy Gloomhaven you will almost certainly play it for at least 120 hours which means
+00:38:35,520 --> 00:38:37,880
+So I would click and collect from Sainsbury's.
 
 687
-00:44:58,100 --> 00:45:02,940
- it's probably cheaper per hour of entertainment than a book or a movie or a video game.
+00:38:37,920 --> 00:38:41,020
+I think, I assume that still works at the moment.
 
 688
-00:45:02,940 --> 00:45:05,300
- Okay so will we is the question?
+00:38:41,020 --> 00:38:42,240
+Yeah, it does.
 
 689
-00:45:05,300 --> 00:45:08,340
- Will my family actually get a together to play it?
+00:38:42,240 --> 00:38:45,720
+There has been some discussion about whether it should work.
 
 690
-00:45:08,340 --> 00:45:12,380
- That is very much a question for you and your play group.
+00:38:45,720 --> 00:38:49,980
+There's massive tension at the moment between the people who don't want the economy to collapse
 
 691
-00:45:12,380 --> 00:45:15,380
- So we have some other cooperative games and we were going to go well we're going to play
+00:38:49,980 --> 00:38:54,480
+and the people who don't want everyone to die of the plague, which is, you know, fair.
 
 692
-00:45:15,380 --> 00:45:19,460
- some of those and see if we play them enough to make Gloomhaven worthwhile.
+00:38:54,480 --> 00:38:58,980
+But the people who don't want the economy to collapse are like, Argos has all these sites
 
 693
-00:45:19,460 --> 00:45:22,300
- But if Gloomhaven is just majestically better than those.
+00:38:58,980 --> 00:39:04,360
+in supermarkets, which means it got a huge benefit over every other retail stop because
 
 694
-00:45:22,300 --> 00:45:26,020
- I have controversial opinions about Gloomhaven I think it is okay.
+00:39:04,360 --> 00:39:09,700
+it had to shut its main retail sites, but it could continue to operate its entire business
 
 695
-00:45:26,020 --> 00:45:29,260
- I don't understand why it's the top of the board game geek rankings.
+00:39:09,700 --> 00:39:11,200
+through these click and collect sites.
 
 696
-00:45:29,260 --> 00:45:31,100
- It just makes no sense at all to me.
+00:39:11,200 --> 00:39:15,040
+And then the people who wanted the economy to survive went, well, actually, that's okay.
 
 697
-00:45:31,100 --> 00:45:36,020
- It is a competently done dungeon crawler with a relatively minimal layer of narrative on
+00:39:15,040 --> 00:39:16,960
+We do not want the economy to collapse.
 
 698
-00:45:36,020 --> 00:45:37,020
- top.
+00:39:16,960 --> 00:39:20,980
+So letting people, making it possible for people to buy manufactured goods is no bad.
 
 699
-00:45:37,020 --> 00:45:38,020
- So that is your bag.
+00:39:21,340 --> 00:39:25,840
+Yeah, I think I'm not going mad, but I am ordering a lot online.
 
 700
-00:45:38,020 --> 00:45:39,580
- You'll probably really like it.
+00:39:25,840 --> 00:39:30,620
+When you do get your microphone from Sainsbury's, you will also have to buy your groceries.
 
 701
-00:45:39,580 --> 00:45:41,860
- If that is not your bag you might not want.
+00:39:30,620 --> 00:39:31,560
+Oh, yes.
 
 702
-00:45:41,860 --> 00:45:46,900
- It is available on Tabletop Simulator in a version which is sanctioned by the designer.
+00:39:31,560 --> 00:39:32,520
+Sorry, I should clarify.
 
 703
-00:45:46,900 --> 00:45:52,100
- So if you want to know whether it is your cup of tea you could play through the TTS mod.
+00:39:32,520 --> 00:39:33,680
+We have the largest.
 
 704
-00:45:52,100 --> 00:45:57,060
- The only thing I will say is that I personally feel like when you're playing a TTS mod you
+00:39:33,680 --> 00:39:36,420
+Sainsbury's in my city is a five minute walk up the road.
 
 705
-00:45:57,060 --> 00:46:02,300
- have to bear in mind that it is probably more clunky than playing the actual game because
+00:39:36,420 --> 00:39:39,080
+And so I do my grocery shopping there.
 
 706
-00:46:02,300 --> 00:46:06,660
- well just playing board games on virtualids phases tends to be a little bit less tactile
+00:39:39,080 --> 00:39:41,780
+Used to do it all the way back from work whenever we needed bits.
 
 707
-00:46:06,660 --> 00:46:07,660
- and less good.
+00:39:41,780 --> 00:39:46,520
+Now I do it every two weeks in giganto shops, which I am still not really used to.
 
 708
-00:46:07,660 --> 00:46:11,700
- But as long as you bear that in mind it is a good way of trying it out.
+00:39:46,520 --> 00:39:51,320
+And the sticker shock of spending two weeks worth of groceries in one go is still a little
 
 709
-00:46:11,700 --> 00:46:17,580
- In terms of Arkham Horror so buying the base set is the equivalent of the way that it works
+00:39:51,320 --> 00:39:51,900
+bit like, what?
 
 710
-00:46:17,580 --> 00:46:23,440
- is that you can buy expansions which are big ish boxes which cost about 25 quid and then
+00:39:51,900 --> 00:39:53,220
+Is that really how much spending?
 
 711
-00:46:23,440 --> 00:46:27,780
- you can buy smaller packs of cards which are called mythos packs which run you about
+00:39:53,220 --> 00:39:54,040
+Yes, it is.
 
 712
-00:46:27,780 --> 00:46:28,940
- 12 quid.
+00:39:54,040 --> 00:39:55,020
+Especially if you've got cats.
 
 713
-00:46:28,940 --> 00:46:34,700
- And if you buy one of these big boxes and the six associated small boxes that is a single
+00:39:55,020 --> 00:39:57,980
+You should try having four adults in the house.
 
 714
-00:46:34,700 --> 00:46:38,940
- story told over 8 scenarios of a campaign.
+00:39:57,980 --> 00:39:59,480
+I don't think I should try that, Alison.
 
 715
-00:46:38,940 --> 00:46:45,140
- So to do that runs you somewhere in the region of 100 pounds to buy like one 8 scenario campaign.
+00:39:59,480 --> 00:40:01,460
+I think two adults and two cats.
 
 716
-00:46:45,140 --> 00:46:51,060
- What I will say is that is 100 pounds but so far I have with the one that I spent 100
+00:40:01,460 --> 00:40:03,860
+And a very big hang of cheese.
 
 717
-00:46:51,060 --> 00:46:55,020
- pounds on which is the first one they did was the Dunich legacy.
+00:40:03,860 --> 00:40:07,900
+On the subject of that, we've been drinking much more beer.
 
 718
-00:46:55,020 --> 00:46:58,340
- I played that once through with my wife and my friend Michael and playing it once through
+00:40:08,260 --> 00:40:12,960
+Like, we are ordering six pints a week from the pub across the road.
 
 719
-00:46:58,340 --> 00:47:03,500
- with Liz and Hog and Ian and I play it once through my friend Ian.
+00:40:12,960 --> 00:40:16,100
+Before lockdown, we never used to drink that much beer in the pub across the road.
 
 720
-00:47:03,500 --> 00:47:08,420
- So by the time I have gotten my play out of that for the foreseeable future I would
+00:40:16,100 --> 00:40:16,960
+But now we do.
 
 721
-00:47:08,420 --> 00:47:12,580
- play through it three times and if you say each game is somewhere in the region of 90
+00:40:16,960 --> 00:40:22,480
+One of the ways I'm staying sane in the apocalypse is to play board games with members of my own
 
 722
-00:47:12,580 --> 00:47:19,980
- minutes to 2.5 hours that means that I have spent about 60 hours 50 to 60 hours playing
+00:40:22,480 --> 00:40:22,980
+household.
 
 723
-00:47:19,980 --> 00:47:23,700
- it which works out about 2000 hours and that doesn't include the fun my friends have had
+00:40:22,980 --> 00:40:24,840
+I have been doing that as well.
 
 724
-00:47:23,700 --> 00:47:24,700
- with it.
+00:40:24,840 --> 00:40:27,160
+Because I grew some.
 
 725
-00:47:24,700 --> 00:47:30,660
- So that is back to this general question about with any investment purchase will you actually
+00:40:27,160 --> 00:40:33,940
+So that is the upside of having children and then waiting 20 years, is that you can then
 
 726
-00:47:30,660 --> 00:47:31,660
- play it.
+00:40:33,940 --> 00:40:35,600
+play board games with them in lockdown.
 
 727
-00:47:31,660 --> 00:47:34,740
- That is the problem we have with the family because although I say we play board games
+00:40:36,180 --> 00:40:43,720
+I actually logged my 800th board game yesterday, or my 800th play yesterday, which was a game
 
 728
-00:47:34,740 --> 00:47:39,580
- with the family we don't actually do that that much we do play a lot of video games
+00:40:43,720 --> 00:40:45,620
+of Arkham Horror the Card Game with my lovely wife.
 
 729
-00:47:39,580 --> 00:47:45,020
- together but we don't play an enormous number of board games although we all like board games
+00:40:45,620 --> 00:40:48,240
+We got our arses handed to us in the Carnival in Venice.
 
 730
-00:47:45,020 --> 00:47:46,780
- in degree we should do it more.
+00:40:48,240 --> 00:40:49,300
+That was very embarrassing.
 
 731
-00:47:46,780 --> 00:47:51,740
- I think if you are trying to get into playing board games I would set yourself like a there
+00:40:49,300 --> 00:40:53,860
+Turns out that I did not have the ability to kill enough cultists, and that was a problem.
 
 732
-00:47:51,740 --> 00:47:55,820
- is a thing called a 10 by 10 challenge which is when you play 10 board games 10 times over
+00:40:53,860 --> 00:40:56,480
+But yes, I've also been playing a lot of games with the Spanier.
 
 733
-00:47:55,820 --> 00:47:59,660
- the course of a year and if you have got 10 board games in your collection already that
+00:40:56,480 --> 00:40:58,020
+And also watching a lot of movies with the Spanier.
 
 734
-00:47:59,660 --> 00:48:05,300
- you like I would I would set yourself one of those and try to get the habit before splashing
+00:40:58,020 --> 00:40:59,680
+And also Animal Crossing.
 
 735
-00:48:05,300 --> 00:48:09,380
- a huge amount of cash on something that's heavily scenario based.
+00:40:59,680 --> 00:41:04,240
+And I posted a very adorable picture to Facebook of a kitchen.
 
 736
-00:48:09,380 --> 00:48:13,100
- The other thing I would say is if you're looking for a game to play cooperatively over
+00:41:04,460 --> 00:41:07,840
+We basically designed an entire Animal Crossing kitchen.
 
 737
-00:48:13,100 --> 00:48:18,100
- a series of sessions it's my impression the pandemic legacy is a bit more accessible than
+00:41:07,840 --> 00:41:12,120
+And then we'd filled it up with turnips, because one of the features of Animal Crossing is that
 
 738
-00:48:18,100 --> 00:48:23,060
- Gloomhaven it's certainly half the price the only problem is you only get to play it 12
+00:41:12,120 --> 00:41:13,820
+you end up with a lot of turnips in your home.
 
 739
-00:48:23,060 --> 00:48:24,060
- to 24 times.
+00:41:13,820 --> 00:41:17,240
+And said, oh, I'm having trouble with my veg box.
 
 740
-00:48:24,060 --> 00:48:28,340
- Yeah I'm not playing any game on a pandemic theme this year.
+00:41:17,240 --> 00:41:19,520
+Does anyone have any ideas on what you can do with turnips?
 
 741
-00:48:28,340 --> 00:48:29,340
- That's fair.
+00:41:19,640 --> 00:41:26,380
+And one person accurately identified that the answer was, sell them for a fat profit on Wednesday
 
 742
-00:48:29,340 --> 00:48:30,340
- Is that not reasonable?
+00:41:26,380 --> 00:41:27,300
+afternoons.
 
 743
-00:48:30,340 --> 00:48:32,900
- I mean I know I think that's absolutely reasonable.
+00:41:27,300 --> 00:41:32,500
+And everybody else gave me ideas for using turnips.
 
 744
-00:48:32,900 --> 00:48:36,620
- The thing I would say about Arkham is you can buy the base set for the acquit and if
+00:41:32,500 --> 00:41:37,000
+Despite the fact that they were obviously cartoon turnips on the floor of a cartoon kitchen.
 
 745
-00:48:36,620 --> 00:48:40,500
- you hate it you can sell it for 20 quid and then you're 10 quid in the whole and that's
+00:41:37,000 --> 00:41:46,040
+Marianne, my daughter is in her final term at Oxford and had a large, not quite thesis to hand in.
 
 746
-00:48:40,500 --> 00:48:41,500
- not that bad.
+00:41:46,500 --> 00:41:49,980
+And this has obviously been a source of stress in her household.
 
 747
-00:48:41,500 --> 00:48:44,700
- If you buy Gloomhaven you don't like it it's potentially a lot more money that you've
+00:41:49,980 --> 00:41:51,800
+And it was due at noon on Thursday.
 
 748
-00:48:44,700 --> 00:48:46,580
- thrown down a drain.
+00:41:51,800 --> 00:41:58,820
+And at 11.52 on Thursday, she uploaded it and got the confirmation thing to say.
 
 749
-00:48:46,580 --> 00:48:52,180
- Yeah though you can buy a reusable sticker pack so one of the options for Gloomhaven
+00:41:58,820 --> 00:41:59,800
+It was great.
 
 750
-00:48:52,180 --> 00:48:57,940
- is to buy it and it's reusable sticker pack so you do not in fact mark up your game permanently.
+00:41:59,800 --> 00:42:01,620
+And we were like, oh, that's lovely, darling.
 
 751
-00:48:57,940 --> 00:49:00,300
- So I'm not sure how practical that is anyway.
+00:42:01,620 --> 00:42:02,200
+Well done.
 
 752
-00:49:00,300 --> 00:49:05,820
- I'm on hold with the Help Center it's very annoying and I have no Mexican food.
+00:42:02,200 --> 00:42:03,060
+You can relax now.
 
 753
-00:49:05,820 --> 00:49:06,820
- Who?
+00:42:03,100 --> 00:42:06,480
+She was like, no, we only have eight minutes to sell our turnips.
 
 754
-00:49:06,820 --> 00:49:12,740
- Who named three condos in the same area with very similar names?
+00:42:06,480 --> 00:42:10,700
+Because there is a stock market in Animal Crossing where you sell turnips at a high price.
 
 755
-00:49:12,740 --> 00:49:13,740
- Thailand.
+00:42:10,700 --> 00:42:14,980
+If you don't sell them within a week, they rot and you have a pile of rotten turnips.
 
 756
-00:49:13,740 --> 00:49:15,620
- Is that helpful?
+00:42:14,980 --> 00:42:22,780
+So you use turnip price predictor apps on the internet to tell you how much your turnips will sell for.
 
 757
-00:49:15,620 --> 00:49:36,620
- Is that what you needed John?
+00:42:23,320 --> 00:42:42,840
+And so the eight minutes after her getting her essay in for the deadline, while we were trying to get roomfuls of turnips sold before the bell rang at noon, was much more stressful than any part of the preceding two hours of exactly what format does this need to be in and how do the citations need to be.
 
 758
-00:49:36,620 --> 00:49:39,780
- Yeah I could have added that.
+00:42:43,180 --> 00:42:46,800
+But the essay has gone in and I made half a million bells selling turnips.
 
 759
-00:49:39,780 --> 00:49:41,780
- Something hopefully anyway.
+00:42:46,800 --> 00:42:47,740
+Yay!
+
+760
+00:42:47,740 --> 00:42:49,840
+Excellent.
+
+761
+00:42:49,840 --> 00:42:52,320
+So that's probably more than you want to know about Animal Crossing.
+
+762
+00:42:52,320 --> 00:42:54,160
+The world's an odd place.
+
+763
+00:42:54,160 --> 00:42:55,560
+It's not just me.
+
+764
+00:42:55,560 --> 00:43:11,320
+The Financial Times had a long article about Animal Crossing and the bank of Animal Crossing and the steps that have been taken to avoid cheats in Animal Crossing and the virtual turnip market that I've just described to you.
+
+765
+00:43:11,540 --> 00:43:14,560
+And it was played not for laughs at all, really.
+
+766
+00:43:14,560 --> 00:43:21,200
+It basically said it was obviously a funny article, but it wasn't April Fool's because I checked repeatedly.
+
+767
+00:43:21,200 --> 00:43:29,900
+They just thought that it would be funny to have an article about turnip trading and Animal Crossing in the middle of the FT because people need that sort of thing these days.
+
+768
+00:43:29,900 --> 00:43:33,060
+Thanks everyone for listening to the fifth episode of the Octothorpe podcast.
+
+769
+00:43:33,060 --> 00:43:35,040
+We will see you in a fortnight's time.
+
+770
+00:43:35,040 --> 00:43:37,020
+But for now, it's goodbye from me.
+
+771
+00:43:37,020 --> 00:43:38,540
+And it's goodbye from me.
+
+772
+00:43:38,540 --> 00:43:40,080
+And it's goodbye from me.
+
+773
+00:43:40,080 --> 00:43:46,360
+The music used in this episode was Fanfare for Space by Kevin MacLeod at incompetech.com.
+
+774
+00:43:46,360 --> 00:43:50,300
+Licensed under a Creative Commons BY 3.0 license.
+
+775
+00:43:59,660 --> 00:44:00,620
+Yay, that's a wrap.
+
+776
+00:44:00,620 --> 00:44:02,760
+Now, of course, there is the after show thing.
+
+777
+00:44:02,760 --> 00:44:08,640
+So I have spent a lot on Arkham Horror.
+
+778
+00:44:08,640 --> 00:44:09,640
+I'd be surprised.
+
+779
+00:44:09,640 --> 00:44:13,020
+It must be about 700 or 800 pounds.
+
+780
+00:44:13,020 --> 00:44:16,600
+Isn't that quite a lot of money?
+
+781
+00:44:17,100 --> 00:44:17,880
+That's all right.
+
+782
+00:44:17,880 --> 00:44:21,860
+That's why I can't go to New Zealand, Alison, because I've spent it all on board games.
+
+783
+00:44:21,860 --> 00:44:22,920
+No, no, no, no.
+
+784
+00:44:22,920 --> 00:44:25,120
+It's not quite a lot of money for a board game.
+
+785
+00:44:25,120 --> 00:44:28,520
+Because I was kind of like thinking about whether we wanted to buy Gloomhaven.
+
+786
+00:44:28,520 --> 00:44:30,940
+And it seemed like quite a lot of money for a board game.
+
+787
+00:44:30,940 --> 00:44:32,440
+Gloomhaven is quite a lot.
+
+788
+00:44:32,440 --> 00:44:37,500
+So my answer is it depends what you think a lot of money is.
+
+789
+00:44:38,180 --> 00:44:39,600
+And I don't know whether that makes sense.
+
+790
+00:44:39,600 --> 00:44:41,120
+How do you manage to spend?
+
+791
+00:44:41,120 --> 00:44:43,800
+So Gloomhaven may or may not be value for money.
+
+792
+00:44:43,800 --> 00:44:46,760
+So Gloomhaven is almost certainly value.
+
+793
+00:44:46,760 --> 00:44:50,000
+The differentiation is between expense and value.
+
+794
+00:44:50,000 --> 00:44:53,080
+So Gloomhaven is 120 quid, which is quite a lot of money.
+
+795
+00:44:53,080 --> 00:44:57,580
+If you buy Gloomhaven, you will almost certainly play it for at least 120 hours,
+
+796
+00:44:57,580 --> 00:45:02,700
+which means it's probably cheaper per hour of entertainment than a book or a movie or a video game.
+
+797
+00:45:02,700 --> 00:45:05,180
+OK, so will we is the question.
+
+798
+00:45:05,180 --> 00:45:08,040
+Will my family actually get us together to play it?
+
+799
+00:45:08,240 --> 00:45:12,000
+That is very much a question for you and your play group.
+
+800
+00:45:12,000 --> 00:45:14,980
+So we have some other cooperative games and we were going to go,
+
+801
+00:45:14,980 --> 00:45:18,900
+well, we're going to play some of those and see if we play them enough to make Gloomhaven worthwhile.
+
+802
+00:45:18,900 --> 00:45:22,180
+But if Gloomhaven is just majestically better than those.
+
+803
+00:45:22,180 --> 00:45:24,660
+I have controversial opinions about Gloomhaven.
+
+804
+00:45:24,660 --> 00:45:25,820
+I think it is OK.
+
+805
+00:45:25,820 --> 00:45:28,820
+I don't understand why it's the top of the Game Geek rankings.
+
+806
+00:45:28,820 --> 00:45:31,180
+It just makes no sense at all to me.
+
+807
+00:45:31,180 --> 00:45:36,340
+It is a competently done dungeon crawler with a relatively minimal layer of narrative on top.
+
+808
+00:45:36,660 --> 00:45:39,100
+If that is your bag, you'll probably really like it.
+
+809
+00:45:39,100 --> 00:45:41,440
+If that is not your bag, you might not.
+
+810
+00:45:41,440 --> 00:45:46,620
+It is available on Tabletop Simulator in a version which is sanctioned by the designer.
+
+811
+00:45:46,620 --> 00:45:51,980
+So if you want to know whether it is your cup of tea, you could play through the TTS mod.
+
+812
+00:45:51,980 --> 00:45:56,860
+The only thing I will say is that I personally feel like when you're playing a TTS mod,
+
+813
+00:45:56,860 --> 00:46:01,280
+you have to bear in mind that it is probably more clunky than playing the actual game.
+
+814
+00:46:01,280 --> 00:46:07,380
+Because, well, just playing board games on virtual interfaces tends to be a little bit less tactile, less good.
+
+815
+00:46:07,380 --> 00:46:10,480
+But as long as you bear that in mind, it's a good way of trying it out.
+
+816
+00:46:11,480 --> 00:46:15,860
+In terms of Arkham Horror, so buying the base set is £30.
+
+817
+00:46:15,860 --> 00:46:22,880
+The way that it works is that you can buy expansions which are big-ish boxes which cost about £25.
+
+818
+00:46:22,880 --> 00:46:28,240
+And then you can buy smaller packs of cards which are called Mythos packs which run you about £12.
+
+819
+00:46:28,240 --> 00:46:33,360
+And if you buy one of these big boxes and the six associated small boxes,
+
+820
+00:46:33,360 --> 00:46:38,480
+that is a single story told over eight scenarios of a campaign.
+
+821
+00:46:38,480 --> 00:46:44,600
+So to do that runs you somewhere in the region of £100 to buy like one eight-scenario campaign.
+
+822
+00:46:44,600 --> 00:46:46,800
+What I will say is that that is £100.
+
+823
+00:46:46,800 --> 00:46:54,700
+But so far, with the one that I've spent £100 on, which is the first one they did was the Dunwich Legacy.
+
+824
+00:46:54,700 --> 00:46:57,640
+I played that once through with my wife and my friend Michael.
+
+825
+00:46:57,780 --> 00:47:01,180
+I'm playing it once through with Liz and Hogg and Ian.
+
+826
+00:47:01,180 --> 00:47:03,080
+And I'm playing it once through with my friend Ian.
+
+827
+00:47:03,080 --> 00:47:08,280
+So by the time I have gotten my play out of that for the foreseeable future,
+
+828
+00:47:08,280 --> 00:47:09,700
+I would play through it three times.
+
+829
+00:47:09,700 --> 00:47:14,400
+And if you say each game is somewhere in the region of 90 minutes to two and a half hours,
+
+830
+00:47:14,400 --> 00:47:20,380
+that means that I've spent about 60 hours, 50 to 60 hours playing it,
+
+831
+00:47:20,380 --> 00:47:21,860
+which works out to about £2 an hour.
+
+832
+00:47:21,860 --> 00:47:24,220
+And that doesn't include the fun my friends have had with it.
+
+833
+00:47:24,220 --> 00:47:26,780
+So that's back to this general question about,
+
+834
+00:47:27,320 --> 00:47:31,280
+with any investment purchase, will you actually play it?
+
+835
+00:47:31,280 --> 00:47:32,940
+So that's the problem we have with the family.
+
+836
+00:47:32,940 --> 00:47:35,380
+Because although I say, well, we play board games with the family,
+
+837
+00:47:35,380 --> 00:47:37,320
+we don't actually do that that much.
+
+838
+00:47:37,320 --> 00:47:40,440
+We do play a lot of video games together,
+
+839
+00:47:40,440 --> 00:47:43,640
+but we don't play an enormous number of board games.
+
+840
+00:47:43,640 --> 00:47:46,460
+Although we all like board games and agree we should do it more.
+
+841
+00:47:47,160 --> 00:47:49,480
+I think if you're trying to get into playing board games,
+
+842
+00:47:49,480 --> 00:47:53,220
+I would set yourself like a, there's a thing called a 10 by 10 challenge,
+
+843
+00:47:53,220 --> 00:47:56,700
+which is when you play 10 board games 10 times over the course of a year.
+
+844
+00:47:56,700 --> 00:48:00,420
+And if you've got 10 board games in your collection already that you like,
+
+845
+00:48:00,420 --> 00:48:06,480
+I would set yourself one of those and try and get the habit before splashing a huge amount of cash
+
+846
+00:48:06,480 --> 00:48:09,240
+on something that's heavily scenario-based.
+
+847
+00:48:09,380 --> 00:48:14,180
+The other thing I would say is if you're looking for a game to play cooperatively over a series of sessions,
+
+848
+00:48:14,180 --> 00:48:18,800
+it's my impression that Pandemic Legacy is a bit more accessible than Bloomhaven.
+
+849
+00:48:18,800 --> 00:48:20,460
+It's certainly half the price.
+
+850
+00:48:21,180 --> 00:48:24,000
+The only problem is you only get to play it 12 to 24 times.
+
+851
+00:48:24,000 --> 00:48:27,860
+Yeah, I'm not playing any game on a Pandemic theme this year.
+
+852
+00:48:27,860 --> 00:48:28,840
+That's fair.
+
+853
+00:48:28,840 --> 00:48:30,920
+Is that not reasonable?
+
+854
+00:48:30,920 --> 00:48:32,760
+I mean, no, I think that's absolutely reasonable.
+
+855
+00:48:32,760 --> 00:48:36,520
+The thing I would say about Arkham is you can buy the base set for 30 quid.
+
+856
+00:48:36,520 --> 00:48:38,400
+And if you hate it, you can sell it for 20 quid.
+
+857
+00:48:38,400 --> 00:48:39,740
+And then you're 10 quid in the hole.
+
+858
+00:48:39,740 --> 00:48:41,200
+And that's not that bad.
+
+859
+00:48:41,200 --> 00:48:42,880
+If you buy Gloomhaven and you don't like it,
+
+860
+00:48:42,880 --> 00:48:46,280
+it's potentially a lot more money that you've thrown down a drain.
+
+861
+00:48:46,280 --> 00:48:50,880
+Yeah, though you can buy a reusable sticker pack.
+
+862
+00:48:50,880 --> 00:48:54,140
+So one of the options for Gloomhaven is to buy it and its reusable sticker pack.
+
+863
+00:48:54,140 --> 00:48:57,180
+So you do not, in fact, mark up your game permanently.
+
+864
+00:48:57,180 --> 00:48:59,420
+Though I'm not sure how practical that is.
+
+865
+00:48:59,420 --> 00:48:59,840
+Anyway.
+
+866
+00:48:59,840 --> 00:49:02,480
+I'm on hold with the help centre.
+
+867
+00:49:02,480 --> 00:49:03,360
+This is very annoying.
+
+868
+00:49:03,360 --> 00:49:04,800
+And I have no Mexican food.
+
+869
+00:49:04,800 --> 00:49:06,680
+Who?
+
+870
+00:49:06,680 --> 00:49:12,180
+Who named three condos in the same area with very similar names?
+
+871
+00:49:12,180 --> 00:49:13,480
+Thailand.
+
+872
+00:49:13,480 --> 00:49:15,580
+Is that helpful?
+
+873
+00:49:20,580 --> 00:49:36,640
+Is that what you needed, John?
+
+874
+00:49:36,640 --> 00:49:37,940
+Yeah, I could edit that.
+
+875
+00:49:37,940 --> 00:49:38,820
+It's something coherent.
+
+876
+00:49:38,820 --> 00:49:40,680
+Something.
 

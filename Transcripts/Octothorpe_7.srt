@@ -1,2196 +1,2792 @@
 1
-00:00:00,000 --> 00:00:06,480
- Amazingly creating VR social spaces is one of the things that I am particularly interested in. You never get it.
+00:00:00,580 --> 00:00:05,500
+Amazingly, creating VR social spaces is one of the things that I am particularly interested in.
 
 2
-00:00:06,480 --> 00:00:10,800
- It turns out I was born to to run parties without having to tidy up the house
+00:00:05,500 --> 00:00:06,240
+You'd never guess.
 
 3
-00:00:10,800 --> 00:00:13,520
- before or afterwards.
+00:00:06,240 --> 00:00:11,200
+It turns out I was born to run parties without having to tidy up the house.
 
 4
-00:00:13,520 --> 00:00:29,040
- Hello everyone and welcome to the very seventh episode of Octa Thor.
+00:00:11,200 --> 00:00:13,160
+Either before or afterwards.
 
 5
-00:00:29,040 --> 00:00:32,560
- A podcast about science fiction and science fiction fandom.
+00:00:13,160 --> 00:00:29,200
+Hello everyone and welcome to the very seventh episode of Octothorpe,
 
 6
-00:00:32,560 --> 00:00:37,600
- We are sponsored this week by Stow shirts. I'm John Coxon.
+00:00:29,200 --> 00:00:32,400
+a podcast about science fiction and science fiction fandom.
 
 7
-00:00:37,600 --> 00:00:40,240
- I'm Alison Scott and I'm Liz Batty.
+00:00:32,400 --> 00:00:35,840
+We are sponsored this week by Stow Shirts.
 
 8
-00:00:40,240 --> 00:00:46,000
- For those listeners who are reading the news and Twitter and Facebook and sort of generally
+00:00:35,840 --> 00:00:37,380
+I'm John Coxon.
 
 9
-00:00:46,000 --> 00:00:55,200
- staying up to date, there have been widespread protests against police brutality and the treatment
+00:00:37,380 --> 00:00:38,780
+I'm Alison Scott.
 
 10
-00:00:55,200 --> 00:00:59,840
- of black people in the United States of America for most of the last week.
+00:00:38,780 --> 00:00:40,140
+And I'm Liz Batty.
 
 11
-00:00:59,840 --> 00:01:07,520
- Here at Octa Thor we are aware that a lot of you may be listening to us to get away from the
+00:00:40,140 --> 00:00:47,240
+For those listeners who are reading the news and Twitter and Facebook and sort of generally staying up to date,
 
 12
-00:01:07,520 --> 00:01:15,600
- terrible and awful news happening out there in the wider world but equally we as a trio feel
+00:00:47,240 --> 00:00:58,240
+there have been widespread protests against police brutality and the treatment of black people in the United States of America
 
 13
-00:01:15,600 --> 00:01:24,480
- quite strongly about social justice and we are very much standing with the protesters as we are all
+00:00:58,400 --> 00:01:00,120
+for most of the last week.
 
 14
-00:01:24,480 --> 00:01:29,440
- white. We are not necessarily the best people tell you where to go to educate yourself.
+00:01:00,120 --> 00:01:12,740
+Here at Octothorpe, we are aware that a lot of you may be listening to us to get away from the terrible and awful news happening out there in the wider world.
 
 15
-00:01:29,440 --> 00:01:35,360
- So if the listeners of Octa Thorpe have any suggestions for literature or for places to donate
+00:01:12,740 --> 00:01:18,460
+But equally, we as a trio feel quite strongly about social justice.
 
 16
-00:01:35,360 --> 00:01:43,520
- money then please send us locks and tell us where we can donate money and what we can recommend
+00:01:18,460 --> 00:01:23,040
+And we are very much standing with the protesters.
 
 17
-00:01:43,520 --> 00:01:48,480
- to our listeners in order to help them educate themselves about everything that's happening at
+00:01:23,040 --> 00:01:29,380
+As we are all white, we are not necessarily the best people to tell you where to go to educate yourself.
 
 18
-00:01:48,480 --> 00:01:54,320
- the moment. If you want to start educating yourself about black writers of speculative
+00:01:29,720 --> 00:01:36,500
+So if the listeners of Octothorpe have any suggestions for literature or for places to donate money,
 
 19
-00:01:54,320 --> 00:02:00,080
- fiction you could go and look at Fire Magazine and we'll put a link in the show notes to that
+00:01:36,500 --> 00:01:49,180
+then please send us locks and tell us where we can donate money and what we can recommend to our listeners in order to help them educate themselves about everything that's happening at the moment.
 
 20
-00:02:00,080 --> 00:02:07,760
- too and there's also the Black Spec Fic Report which reports on kind of the state of the industry.
+00:01:49,180 --> 00:02:00,300
+If you want to start educating yourself about black writers of speculative fiction, you could go and look at FIRE magazine and we'll put a link in the show notes to that.
 
 21
-00:02:07,760 --> 00:02:13,440
- The writer survey I think is quite American centric. I'm not sure about the contributors to
+00:02:00,300 --> 00:02:07,640
+And there's also the Black Specfic report, which reports on kind of the state of the industry.
 
 22
-00:02:13,440 --> 00:02:18,480
- Fire Mag but I believe it is based in the USA so if anyone knows of any equivalent
+00:02:08,120 --> 00:02:11,060
+The writer's survey, I think, is quite American-centric.
 
 23
-00:02:18,480 --> 00:02:21,760
- initiatives in the UK I'd like to hear about them.
+00:02:11,060 --> 00:02:16,260
+I'm not sure about the contributors to FIRE MAG, but I believe it is based in the USA.
 
 24
-00:02:21,760 --> 00:02:25,520
- And I should say I've had a couple of people as always happens when there's anything trending
+00:02:16,260 --> 00:02:21,660
+So if anyone knows of any equivalent initiatives in the UK, I'd like to hear about them.
 
 25
-00:02:25,520 --> 00:02:30,640
- getting in touch with me and saying have you made this badge or this t-shirt or this thing and I
+00:02:21,660 --> 00:02:26,880
+And I should say I've had a couple of people, as always happens when there's anything trending, getting in touch with me and saying,
 
 26
-00:02:30,640 --> 00:02:36,880
- would suggest that you should go and get your protest gear from black and minority ethnic owned
+00:02:26,880 --> 00:02:30,320
+have you made this badge or this T-shirt or this thing?
 
 27
-00:02:36,880 --> 00:02:49,920
- businesses. In Letter of Comment news we had a conversation of comment with Lillian Edwards
+00:02:30,320 --> 00:02:37,560
+And I would suggest that you should go and get your protest gear from black and minority ethnic owned businesses.
 
 28
-00:02:49,920 --> 00:02:56,800
- at the first Thursday pub meeting in which she told us that Ian Sorenson says that my microphone
+00:02:37,560 --> 00:02:52,160
+In letter of comment news, we had a conversation of comment with Lillian Edwards at the first Thursday pub meeting,
 
 29
-00:02:56,800 --> 00:03:00,080
- is better now which is true it is. Hoorah!
+00:02:52,160 --> 00:02:58,940
+in which she told us that Ian Sorensen says that my microphone is better now, which is true.
 
 30
-00:03:00,080 --> 00:03:11,120
- Last time we recorded was in the middle of Bulticon which was being held virtually. It is the
+00:02:58,940 --> 00:03:00,280
+It is. Hurrah.
 
 31
-00:03:11,120 --> 00:03:18,880
- Baltimore SF Groups Convention it's held every year and they did a variety of programming and
+00:03:05,420 --> 00:03:09,860
+Last time we recorded was in the middle of Balticon, which was being held virtually.
 
 32
-00:03:18,880 --> 00:03:24,720
- social spaces on the internet and we decided not to talk about it last week because it was still
+00:03:09,860 --> 00:03:14,000
+It is the Baltimore SF Group's convention.
 
 33
-00:03:24,720 --> 00:03:30,960
- happening but what did we think of Bulticon? Did we go to Bulticon? Liz it's rather a
+00:03:14,000 --> 00:03:14,960
+It's held every year.
 
 34
-00:03:30,960 --> 00:03:36,960
- wrong time zone for you I understand. Yes really everything is in the wrong time zone for me but see
+00:03:14,960 --> 00:03:20,860
+And they did a variety of programming and social spaces on the internet.
 
 35
-00:03:36,960 --> 00:03:42,560
- many many podcasts previously complaining about this so I didn't it's like I keep meaning to go
+00:03:20,860 --> 00:03:25,300
+We decided not to talk about it last week because it was still happening.
 
 36
-00:03:42,560 --> 00:03:46,480
- to things but it's one that they're in the wrong time zone but also that every time there is a
+00:03:25,300 --> 00:03:28,500
+But what did we think of Balticon?
 
 37
-00:03:46,480 --> 00:03:51,920
- convention I have to then work out what is its local time zone and how does that compare to my
+00:03:28,500 --> 00:03:29,580
+Did we go to Balticon?
 
 38
-00:03:51,920 --> 00:03:59,120
- time zone and what time actually is it and usually I never get to the third stage so I had to say
+00:03:29,580 --> 00:03:33,040
+Liz, it's rather the wrong time zone for you, I understand.
 
 39
-00:03:59,120 --> 00:04:04,320
- one thing I would implore virtual conventions to do is to maybe put somewhere in small letters their
+00:03:33,280 --> 00:03:36,180
+Yes, really everything is in the wrong time zone for me.
 
 40
-00:04:04,320 --> 00:04:10,480
- time in like UTC or something just to make it easy for us all to work out what time it would be
+00:03:36,180 --> 00:03:40,160
+But see, many, many podcasts previous to me complaining about this.
 
 41
-00:04:10,480 --> 00:04:14,640
- in our own time zone. That is a good idea actually that should be a thing that happens.
+00:03:40,160 --> 00:03:41,320
+So I didn't.
 
 42
-00:04:15,600 --> 00:04:19,840
- I'm sure people from Conzil and listening to this podcast I am not sure people from Conzil and
+00:03:41,320 --> 00:03:44,820
+It's like I keep meaning to go to things, but it's one that they're in the wrong time zone.
 
 43
-00:04:19,840 --> 00:04:26,960
- listening to this podcast. I was intending to spend quite a lot of my weekend at those conventions
+00:03:44,820 --> 00:03:50,280
+But also that every time there is a convention, I have to then work out what is its local time zone?
 
 44
-00:04:26,960 --> 00:04:36,560
- both at Wiscan and Bulticon and it mostly didn't happen and I'm not entirely sure why not I kind
+00:03:50,280 --> 00:03:52,720
+And how does that compare to my time zone?
 
 45
-00:04:36,560 --> 00:04:44,640
- of dropped into the discord's a bit and they were fine but I never found like the buzzing zoom party
+00:03:52,720 --> 00:03:55,080
+And what time actually is it?
 
 46
-00:04:44,640 --> 00:04:53,200
- of my dreams or anything of that kind and I didn't go to any program items because I have a problem
+00:03:55,140 --> 00:03:57,920
+And usually I never get to the third stage.
 
 47
-00:04:53,200 --> 00:04:58,160
- with my life at the moment which is that for all the time lockdown and can't do any of the things
+00:03:57,920 --> 00:04:11,540
+So I have to say one thing I would implore virtual conventions to do is to maybe put somewhere in small letters their time in like UTC or something, just to make it easy for us all to work out what time it would be in our own time zone.
 
 48
-00:04:58,160 --> 00:05:04,240
- I would normally do I am incredibly busy all the time. I have no idea how this has happened but it
+00:04:11,820 --> 00:04:13,360
+That is a good idea, actually.
 
 49
-00:05:04,240 --> 00:05:12,080
- clearly has happened and I'm surrounded by things I should be doing all of the time. Yes and so I
+00:04:13,360 --> 00:04:14,880
+That should be a thing that happens.
 
 50
-00:05:12,080 --> 00:05:18,720
- didn't get to a lot of it. I did talk a little I understand that Bulticon was an enormous success
+00:04:14,880 --> 00:04:18,320
+I'm sure people from Con Zealand are listening to this podcast.
 
 51
-00:05:18,720 --> 00:05:23,920
- and I talked a little bit to some people who had had a good time and they really liked lots of
+00:04:18,320 --> 00:04:21,120
+I am not sure people from Con Zealand are listening to this podcast.
 
 52
-00:05:23,920 --> 00:05:29,120
- things about the way that it worked. My wife, Spania, also attended Bulticon and she wrote a
+00:04:21,760 --> 00:04:32,920
+I was intending to spend quite a lot of my weekend at those conventions, both at Wiscon and Balticon, and it mostly didn't happen.
 
 53
-00:05:29,120 --> 00:05:34,720
- very excellent blog post about it and she basically sent me a text message saying I didn't lock but
+00:04:32,920 --> 00:04:36,500
+And I'm not entirely sure why not.
 
 54
-00:05:34,720 --> 00:05:43,360
- here's a blog post so I will include a link to the blog post in the show notes and you can go and
+00:04:36,500 --> 00:04:41,560
+I kind of dropped into the discords a bit and they were fine.
 
 55
-00:05:43,360 --> 00:05:49,040
- read her thoughts on everything. Spania did an awful lot of socialising on this board in the
+00:04:41,560 --> 00:04:48,660
+But I never found like the buzzing Zoom party of my dreams or anything of that kind.
 
 56
-00:05:49,040 --> 00:05:55,760
- text chat so she had quite a different opinion of it than me and Alison did which is interesting.
+00:04:48,660 --> 00:05:01,480
+And I didn't go to any program items because I have a problem with my life at the moment, which is that for all that I'm locked down and can't do any of the things I would normally do, I am incredibly busy all the time.
 
 57
-00:05:55,760 --> 00:05:59,520
- She I think thought it worked very well but she also went to some of the zoom parties and she
+00:05:01,480 --> 00:05:05,580
+I have no idea how this has happened, but it clearly has happened.
 
 58
-00:05:59,520 --> 00:06:11,200
- thought that that was good. Right and I also talked to the Glasgow in 2024 team who said it was a
+00:05:05,580 --> 00:05:11,380
+And I'm surrounded by things I should be doing all of the time.
 
 59
-00:06:11,200 --> 00:06:18,320
- lot of fun but not very many people came to our room party so we're now worried about room parties
+00:05:11,380 --> 00:05:11,940
+Yes.
 
 60
-00:06:18,320 --> 00:06:24,400
- at Conzeland and will you run them all and I said no I would not run them all but I will run one
+00:05:11,940 --> 00:05:13,760
+And so I didn't get to a lot of it.
 
 61
-00:06:24,400 --> 00:06:27,760
- and they said it won't be very difficult because only a very few people will come and I'm like
+00:05:14,960 --> 00:05:16,400
+I did talk a little.
 
 62
-00:06:27,760 --> 00:06:33,840
- not if I'm running it so I'm telling you now I'm going to have an awesome and enormous room party
+00:05:16,400 --> 00:05:25,320
+I understand that Balticon was an enormous success and I talked a little bit to some people who had had a good time and they really liked lots of things about the way that it worked.
 
 63
-00:06:33,840 --> 00:06:39,280
- at Conzeland and it will be timed at like I don't know eight o'clock in the morning UK time but you
+00:05:25,320 --> 00:05:31,240
+My wife, Espania, also attended Balticon and she wrote a very excellent blog post about it.
 
 64
-00:06:39,280 --> 00:06:45,680
- know just day drinking it's the best. I will say that the problem I think the Glasgow in 2024 room
+00:05:31,240 --> 00:05:35,840
+And she basically sent me a text message saying, I didn't lock, but here's a blog post.
 
 65
-00:06:45,680 --> 00:06:51,600
- party at Bulticon had was that I did not know it was on so I did not attend and I feel as someone
+00:05:36,080 --> 00:05:45,640
+So I will include a link to the blog post in the show notes and you can go and read her thoughts on everything.
 
 66
-00:06:51,600 --> 00:06:58,320
- who is a pre-supporter of Glasgow in 2024 and man who was at Bulticon I perhaps should be in the
+00:05:45,640 --> 00:05:49,720
+Espania did an awful lot of socializing on Discord in the text chat.
 
 67
-00:06:58,320 --> 00:07:02,880
- middle of the Venn diagram of people who heard about this room party so I do think there might
+00:05:49,720 --> 00:05:55,640
+So she had quite a different opinion of it than me and Alison did, which is interesting.
 
 68
-00:07:02,880 --> 00:07:06,640
- have made a slight problem with the communication there because I would have been there with bells
+00:05:55,640 --> 00:05:57,640
+She, I think, thought it worked very well.
 
 69
-00:07:06,640 --> 00:07:13,360
- on had I realized it was happening. I think you had to look look down a long chain of information on
+00:05:57,780 --> 00:06:02,120
+But she also went to some of the Zoom parties and she thought that that was that was good.
 
 70
-00:07:13,360 --> 00:07:19,840
- Discord to find the Discord channel that was Glasgow in 2024 and then go to that and I think there was
+00:06:02,120 --> 00:06:03,440
+Right.
 
 71
-00:07:19,840 --> 00:07:26,800
- an issue with multiple nested Discords possibly rather too many of them. I think part of the
+00:06:03,440 --> 00:06:14,240
+And I also talked to the Glasgow in 2024 team who said it was a lot of fun, but not very many people came to our room party.
 
 72
-00:07:26,800 --> 00:07:31,840
- problem is that like I don't know why they didn't advertise it on the Glasgow in 2024 mailing list
+00:06:14,240 --> 00:06:21,220
+So we're now worried about room parties at Con Zealand and will you run them all?
 
 73
-00:07:31,840 --> 00:07:37,760
- for instance which I subscribe to yeah if it's a virtual thing that anyone could come to you can
+00:06:21,320 --> 00:06:24,240
+And I said, no, I would not run them all, but I will run one.
 
 74
-00:07:37,760 --> 00:07:43,040
- make it buzzing by advertising on your mailing list and then people will come. I do think that
+00:06:24,240 --> 00:06:27,460
+And they said it won't be very difficult because only a very few people will come.
 
 75
-00:07:43,040 --> 00:07:48,240
- there should have been and I don't know if there was I suppose I could double check as we record
+00:06:27,460 --> 00:06:29,180
+And I'm like, not if I'm running it.
 
 76
-00:07:48,240 --> 00:07:55,280
- there should have been like a room party/social um notice board equivalent on the Bulticon
+00:06:29,180 --> 00:06:34,820
+So I'm telling you now I'm going to have an awesome and enormous room party at Con Zealand.
 
 77
-00:07:55,280 --> 00:08:02,400
- Discord if there was one of those I'm not sure I really noticed it but that probably should have
+00:06:34,820 --> 00:06:39,240
+And it will be timed at like, I don't know, eight o'clock in the morning UK time.
 
 78
-00:08:02,400 --> 00:08:08,560
- been like quite prominent. I will say so I went to Bulticon I did not go to any Zoom parties because
+00:06:39,240 --> 00:06:40,860
+But, you know, just day drinking.
 
 79
-00:08:08,560 --> 00:08:15,360
- they all started after I went to bed and I am some sort of lame person who goes to bed before 2am
+00:06:40,860 --> 00:06:41,520
+It's the best.
 
 80
-00:08:16,320 --> 00:08:21,680
- but I will say that generally speaking I enjoyed the panels I went to I went to three or four panels
+00:06:41,520 --> 00:06:48,980
+I will say that the problem I think the Glasgow in 2024 room party at Balticon had was that I did not know it was on.
 
 81
-00:08:21,680 --> 00:08:26,880
- I went to a panel on Star Wars the end of the saga which I thought was going to be a super great
+00:06:48,980 --> 00:06:50,100
+So I did not attend.
 
 82
-00:08:26,880 --> 00:08:32,480
- panel like looking at the nine part thing and like how it went and what they should have done
+00:06:50,520 --> 00:06:56,360
+And I feel as someone who is a pre-supporter of Glasgow in 2024 and man who was at Balticon,
 
 83
-00:08:32,480 --> 00:08:36,480
- differently and what they could take away and actually devolved into people just talking about
+00:06:56,360 --> 00:07:01,860
+I perhaps should be in the middle of the Venn diagram of people who heard about this room party.
 
 84
-00:08:36,480 --> 00:08:40,720
- their favourite parts from their past strikes back which if a modest wasn't quite the angle I wanted
+00:07:01,860 --> 00:07:05,260
+So I do think there might have been a slight problem with the communication there,
 
 85
-00:08:40,720 --> 00:08:46,960
- from the panel and I eventually gave up I do wish that panelists would read the panel description
+00:07:05,260 --> 00:07:08,280
+because I would have been there with bells on had I realised it was happening.
 
 86
-00:08:46,960 --> 00:08:52,080
- like it's my biggest bugbear just guys there's a description of what the panel's about please
+00:07:08,440 --> 00:07:18,860
+I think you had to look down a long chain of information on Discord to find the Discord channel that was Glasgow in 2024 and then go to that.
 
 87
-00:08:52,080 --> 00:08:58,880
- discuss that because that's why I clicked um the other two that I went to were both on tabletop
+00:07:18,860 --> 00:07:24,720
+And I think there was an issue with multiple nested Discords and possibly rather too many of them.
 
 88
-00:08:58,880 --> 00:09:03,600
- games and they were actually really really really good um I really enjoyed the way that the Zoom
+00:07:24,720 --> 00:07:33,800
+I think part of the problem is that, like, I don't know why they didn't advertise it on the Glasgow in 2024 mailing list, for instance, which I subscribe to.
 
 89
-00:09:03,600 --> 00:09:08,320
- kind of webinar mode lets you ask questions and stuff and then people from those panels were hanging
+00:07:34,600 --> 00:07:41,700
+If it's a virtual thing that anyone can come to, you can make it buzzing by advertising on your mailing list and then people will come.
 
 90
-00:09:08,320 --> 00:09:13,760
- out in the discord text chat after the panels and you got to talk to them a bit more there
+00:07:42,300 --> 00:07:47,880
+I do think that there should have been, and I don't know if there was, I suppose I could double check as we record.
 
 91
-00:09:13,760 --> 00:09:17,360
- and you also got to see people talking about other gaming panels you might not have been to
+00:07:47,880 --> 00:07:56,360
+There should have been, like, a room party slash social notice board equivalent on the Balticon Discord.
 
 92
-00:09:17,360 --> 00:09:23,120
- and that actually worked really well so I think I think from my perspective I kind of mostly ignored
+00:07:56,580 --> 00:08:03,840
+If there was one of those, I'm not sure I really noticed it, but that probably should have been, like, quite prominent.
 
 93
-00:09:23,120 --> 00:09:28,000
- the dealer's room the artist Sally and the fan tables on the discord but the little gaming segment
+00:08:03,840 --> 00:08:06,760
+I will say, so, I went to Balticon.
 
 94
-00:09:28,000 --> 00:09:35,200
- with the different channels worked quite well I think next time I would probably um I would
+00:08:06,760 --> 00:08:15,520
+I did not go to any Zoom parties because they all started after I went to bed, and I am some sort of lame person who goes to bed before 2am.
 
 95
-00:09:35,200 --> 00:09:40,240
- probably advise condensing the discord channels for the dealers and artists of anti-ables a little
+00:08:15,520 --> 00:08:19,660
+But I will say that, generally speaking, I enjoyed the panels I went to.
 
 96
-00:09:40,240 --> 00:09:45,600
- bit because I think there was just way too much variety there um but I can see why they did that
+00:08:19,660 --> 00:08:21,880
+I went to three or four panels.
 
 97
-00:09:45,600 --> 00:09:51,040
- but I'm not sure it was what they should have done um but I think these things will be things
+00:08:21,880 --> 00:08:34,580
+I went to a panel on Star Wars, the end of the saga, which I thought was going to be a super great panel, like, looking at the nine-part thing and, like, how it went and what they should have done differently and what they could take away.
 
 98
-00:09:51,040 --> 00:09:55,840
- that we get better at over time and I think baltz college the first place I've seen do this with
+00:08:34,580 --> 00:08:42,460
+And actually devolved into people just talking about their favourite parts from Empire Strikes Back, which, if I'm honest, wasn't quite the angle I wanted from the panel, and I eventually gave up.
 
 99
-00:09:55,840 --> 00:10:01,120
- what I would say was quite a high level of success so um I I thought it was quite good I was quite
+00:08:42,460 --> 00:08:46,880
+I do wish that panellists would read the panel description.
 
 100
-00:10:01,120 --> 00:10:08,240
- encouraged I will say harking back uh several minutes at this point Glasgow in 2024 did put it on
+00:08:46,880 --> 00:08:48,640
+Like, it's my biggest bugbear.
 
 101
-00:10:08,240 --> 00:10:13,280
- their twitter feed and I wonder if they're trying to do the sort of thing where they keep their
+00:08:48,640 --> 00:08:51,540
+Just, guys, there's a description of what the panel's about.
 
 102
-00:10:13,280 --> 00:10:19,760
- mailing list low volume announcements and announce things like an upcoming party in two days on
+00:08:51,540 --> 00:08:55,060
+Please discuss that, because that's why I clicked.
 
 103
-00:10:19,760 --> 00:10:24,800
- their twitter feed so that might be part of the issue okay so so twitter's a terrible way to
+00:08:55,060 --> 00:09:01,000
+The other two that I went to were both on Tabletop Games, and they were actually really, really, really good.
 
 104
-00:10:24,800 --> 00:10:30,720
- announce anything unless you announce it every half hour for because how people use twitter is
+00:09:01,000 --> 00:09:06,240
+I really enjoyed the way that the Zoom kind of webinar mode lets you ask questions and stuff.
 
 105
-00:10:30,720 --> 00:10:35,280
- that when they're on twitter they dip in and a twitter stream rushes past them nobody's actually
+00:09:06,240 --> 00:09:13,740
+And then people from those panels were hanging out in the Discord text chat after the panels, and you got to talk to them a bit more there.
 
 106
-00:10:35,280 --> 00:10:42,080
- reading everything that the 9 000 people they follow um posts every single time it's it's even
+00:09:13,740 --> 00:09:17,640
+And you also got to see people talking about other gaming panels you might not have been to.
 
 107
-00:10:42,080 --> 00:10:46,480
- worse than facebook for that um and at least if you put something on facebook and lots of people
+00:09:17,640 --> 00:09:19,540
+And that actually worked really well.
 
 108
-00:10:46,480 --> 00:10:51,200
- say they are going then eventually facebook will go oh yes that's an event I should probably show
+00:09:19,540 --> 00:09:26,720
+So I think from my perspective, I kind of mostly ignored the dealer's room, the artist's alley, and the fan tables on the Discord.
 
 109
-00:10:51,200 --> 00:10:57,040
- you well and the other thing is that I like the Glasgow in 2024 page on facebook so if they had
+00:09:26,720 --> 00:09:31,080
+But the little gaming segment with the different channels worked quite well.
 
 110
-00:10:57,040 --> 00:11:01,760
- made it into a facebook event presumably they could have invited me and I would have seen it that way
+00:09:31,080 --> 00:09:40,700
+I think next time I would probably advise condensing the Discord channels for the dealers and artists of fan tables a little bit,
 
 111
-00:11:01,760 --> 00:11:06,640
- but I will agree that twitter is great and I think it's very good for many things but the thing I
+00:09:40,700 --> 00:09:42,960
+because I think there was just way too much variety there.
 
 112
-00:11:06,640 --> 00:11:12,960
- think it's absolutely awful for is announcements because as as Alison just said like the algorithm
+00:09:42,960 --> 00:09:49,060
+But I could see why they did that, but I'm not sure it was what they should have done.
 
 113
-00:11:12,960 --> 00:11:18,640
- means that I don't see posts in the order they were published anyway and if twitter doesn't show
+00:09:49,740 --> 00:09:52,680
+But I think these things will be things that we get better at over time.
 
 114
-00:11:18,640 --> 00:11:23,760
- me that tweet then I there's no way for me to see it and the thing I love about mailing lists is
+00:09:52,680 --> 00:09:58,280
+And I think Balticol is the first place I've seen do this with what I would say was quite a high level of success.
 
 115
-00:11:23,760 --> 00:11:29,520
- that when someone says me an email I read the email and that is a one-to-one correspondence which
+00:09:58,280 --> 00:10:00,840
+So I thought it was quite good.
 
 116
-00:11:29,520 --> 00:11:36,560
- which facebook and twitter are sadly algorithmically eroding uh which I get I fully understand why
+00:10:00,840 --> 00:10:01,780
+I was quite encouraged.
 
 117
-00:11:36,560 --> 00:11:41,760
- they're doing that but it does it frustrates me when stuff is announced on twitter and I'm like but
+00:10:01,780 --> 00:10:05,420
+I will say, harking back several minutes at this point,
 
 118
-00:11:41,760 --> 00:11:48,080
- I never could have seen that because I have run mailing lists I now know that when you used to
+00:10:05,420 --> 00:10:09,580
+Glasgow in 2024 did put it on their Twitter feed.
 
 119
-00:11:48,080 --> 00:11:52,640
- send things to people in the post you never really understood how many people were reading them
+00:10:10,080 --> 00:10:16,660
+And I wonder if they're trying to do the sort of thing where they keep their mailing list low volume announcements
 
 120
-00:11:52,640 --> 00:11:56,800
- but when you email people you do learn how many people are reading them because mail chimp or
+00:10:16,660 --> 00:10:20,720
+and announce things like an upcoming party in two days on their Twitter feed.
 
 121
-00:11:56,800 --> 00:12:02,240
- whatever you're using will give you a read percentage and if you're doing well that read
+00:10:20,720 --> 00:10:22,480
+So that might be part of the issue.
 
 122
-00:12:02,240 --> 00:12:07,200
- percentage is somewhere in the margin in the order like a convention mail app will probably get a
+00:10:22,480 --> 00:10:28,280
+OK, so Twitter is a terrible way to announce anything unless you announce it every half hour.
 
 123
-00:12:07,200 --> 00:12:15,520
- 40% open rate and that's the reason why conventions are kind of going will mail you less will will
+00:10:28,280 --> 00:10:34,520
+Because how people use Twitter is that when they're on Twitter, they dip in and a Twitter stream rushes past them.
 
 124
-00:12:15,520 --> 00:12:21,680
- not use the mailing list as people just aren't reading their email no I understand I do think
+00:10:34,520 --> 00:10:41,600
+And nobody's actually reading everything that the 9000 people they follow posts every single time.
 
 125
-00:12:21,680 --> 00:12:27,520
- it's probably better not to pepper people with email so I do I understand the tensions but what
+00:10:41,600 --> 00:10:43,740
+It's even worse than Facebook for that.
 
 126
-00:12:27,520 --> 00:12:32,720
- you actually do to announce things is you have multiple channels you get in touch with the people
+00:10:43,740 --> 00:10:47,580
+And at least if you put something on Facebook and lots of people say they are going,
 
 127
-00:12:32,720 --> 00:12:37,520
- that you want to be at your fantastic buzzing party and say will you be there and they go yes of
+00:10:47,580 --> 00:10:51,720
+then eventually Facebook will go, oh, yes, that's an event I should probably show you.
 
 128
-00:12:37,520 --> 00:12:41,280
- course I wouldn't miss it for the world and you go can you tell all your friends on your podcast
+00:10:51,720 --> 00:10:56,580
+Well, and the other thing is that I like the Glasgow in 2024 page on Facebook.
 
 129
-00:12:41,280 --> 00:12:46,560
- or whatever yeah and you actually you know it's like any any other event would be that you do have
+00:10:56,580 --> 00:11:01,880
+So if they had made it into a Facebook event, presumably they could have invited me and I would have seen it that way.
 
 130
-00:12:46,560 --> 00:12:51,520
- to market things a little bit more aggressively than just sticking up your hands saying we are
+00:11:01,880 --> 00:11:06,220
+But I will agree that Twitter is great and I think it's very good for many things.
 
 131
-00:12:51,520 --> 00:12:57,600
- running a room party at bolticon and of course you busy people all over the world who are overwhelmed
+00:11:06,220 --> 00:11:09,200
+But the thing I think it's absolutely awful for is announcements.
 
 132
-00:12:57,600 --> 00:13:03,680
- by the amount of stuff you have to do on the internet at the moment will immediately think of
+00:11:09,200 --> 00:11:16,840
+Because as Alison just said, like the algorithm means that I don't see posts in the order they were published anyway.
 
 133
-00:13:03,680 --> 00:13:10,000
- our party as being the first thing that you want to do it's become clear that that in fact Facebook
+00:11:16,840 --> 00:11:22,120
+And if Twitter doesn't show me that tweet, then there's no way for me to see it.
 
 134
-00:13:10,000 --> 00:13:16,400
- marketing for conventions is quite effective at has been effective at pulling in people who would
+00:11:22,120 --> 00:11:26,100
+And the thing I love about mailing lists is that when someone sends me an email, I read the email.
 
 135
-00:13:16,400 --> 00:13:20,960
- not habitually have got the easter con the easter con the makeup of the easter con has changed
+00:11:26,100 --> 00:11:34,240
+And that is a one to one correspondence, which Facebook and Twitter are sadly algorithmically eroding.
 
 136
-00:13:20,960 --> 00:13:25,440
- extremely dramatically over the last five years and although long con gets some of the credit for
+00:11:34,240 --> 00:11:37,400
+Which I fully understand why they're doing that.
 
 137
-00:13:25,440 --> 00:13:34,960
- that it's also the fact that we accidentally reached out to a broader community by just doing very
+00:11:37,400 --> 00:11:38,100
+But it does.
 
 138
-00:13:34,960 --> 00:13:42,160
- basic social media stuff and and also by the people who go talking about it and and raising
+00:11:38,100 --> 00:11:41,020
+It frustrates me when stuff is announced on Twitter.
 
 139
-00:13:42,160 --> 00:13:48,400
- bells for it and i don't see any reason why you can't do that with the online conventions
+00:11:41,020 --> 00:11:43,080
+And I'm like, but I never could have seen that.
 
 140
-00:13:48,400 --> 00:13:53,680
- as well you just have to make sure that you've got a a value proposition that is compelling at
+00:11:43,540 --> 00:11:52,600
+Because I have run mailing lists, I now know that when you used to send things to people in the post, you never really understood how many people were reading them.
 
 141
-00:13:53,680 --> 00:13:57,680
- times when people have a lot of other things on their plate
+00:11:52,600 --> 00:11:59,840
+But when you email people, you do learn how many people are reading them because MailChimp or whatever you're using will give you a read percentage.
 
 142
-00:13:57,680 --> 00:14:08,080
- on the topic of value propositions consieland have announced that they are also going to use a
+00:12:00,680 --> 00:12:04,940
+And if you're doing well, that read percentage is somewhere in the margin, in the order.
 
 143
-00:14:08,080 --> 00:14:16,240
- mixture of zoom and discord to run their convention and one question we had when we read this is
+00:12:04,940 --> 00:12:08,760
+Like a convention mail app will probably get a 40% open rate.
 
 144
-00:14:16,240 --> 00:14:23,360
- what is the value proposition of this given that bolt con has done this seemingly free at the
+00:12:08,760 --> 00:12:14,480
+And that's the reason why conventions are kind of going, we'll mail you less.
 
 145
-00:14:23,360 --> 00:14:31,120
- point of use so um uh listen did you want to start talking about this and then me and Liz can jump
+00:12:14,480 --> 00:12:17,480
+We'll not use the mailing list.
 
 146
-00:14:31,120 --> 00:14:37,840
- in with our excellent opinions i wanted to 100% make clear that i am pontificating from a
+00:12:17,480 --> 00:12:19,000
+People just aren't reading their email.
 
 147
-00:14:37,840 --> 00:14:44,320
- complete state of ignorance here and i wanted to say that i guess that bolt con probably wasn't
+00:12:19,000 --> 00:12:20,960
+No, and I understand.
 
 148
-00:14:44,320 --> 00:14:51,040
- free um that they will have had there a convention that doesn't that runs every year so they will
+00:12:20,960 --> 00:12:24,520
+I do think it's probably better not to pepper people with emails.
 
 149
-00:14:51,040 --> 00:14:57,840
- have things like a corporate structure and a bank account and a set of and and they would have
+00:12:24,520 --> 00:12:25,120
+So I do.
 
 150
-00:14:57,840 --> 00:15:03,200
- been able to put some money into this in the knowledge that they will have um future physical
+00:12:25,120 --> 00:12:26,840
+I understand the tensions.
 
 151
-00:15:03,200 --> 00:15:09,760
- conventions in a way that conventions that only run once like a world con may not be able to so
+00:12:27,620 --> 00:12:31,140
+But what you actually do to announce things is you have multiple channels.
 
 152
-00:15:09,760 --> 00:15:15,680
- it is possible that it was not as free as all of that um these will all be tied together with a
+00:12:31,140 --> 00:12:36,700
+You get in touch with the people that you want to be at your fantastic buzzing party and say, will you be there?
 
 153
-00:15:15,680 --> 00:15:23,040
- single sign in point for authentication so so i feel like conzeland is planning to wall off its
+00:12:36,700 --> 00:12:37,980
+And they go, yes, of course.
 
 154
-00:15:23,040 --> 00:15:29,440
- garden and i i guess that bolt con because it was free didn't need to wall off its garden and i i
+00:12:37,980 --> 00:12:38,820
+I wouldn't miss it for the world.
 
 155
-00:15:29,440 --> 00:15:35,280
- guess is that the the process of saying only con see on only conzeland members are going to be
+00:12:38,820 --> 00:12:42,060
+And you go, can you tell all your friends on your podcast or whatever?
 
 156
-00:15:35,280 --> 00:15:43,520
- inside the loop here will make this more expensive uh and if you can spot the floor in that reasoning
+00:12:42,060 --> 00:12:42,880
+Yeah.
 
 157
-00:15:43,520 --> 00:15:50,720
- i think you're right i think that bolt con almost certainly as a continuing convention has a reserve
+00:12:42,880 --> 00:12:53,520
+And you actually, you know, it's like any other event would be that you do have to market things a little bit more aggressively than just sticking up your hands saying, we are running a room party at Balticon.
 
 158
-00:15:50,720 --> 00:15:56,400
- that they can probably call upon because they are an established organization that has been going
+00:12:53,520 --> 00:13:06,200
+And of course, you busy people all over the world who are overwhelmed by the amount of stuff you have to do on the Internet at the moment will immediately think of our party as being the first thing that you want to do.
 
 159
-00:15:56,400 --> 00:16:02,320
- for a while and will have a continuity the disadvantage in this sense that world cons have is that each
+00:13:06,660 --> 00:13:18,500
+It's become clear that that in fact, Facebook marketing for conventions is quite effective at has been effective at pulling in people who would not habitually have gone to the Easter con.
 
 160
-00:16:02,320 --> 00:16:09,680
- world con for those who don't know is a separate organization uh and so there is no um continuity
+00:13:18,500 --> 00:13:23,360
+The Easter con, the makeup of the Easter con has changed extremely dramatically over the last five years.
 
 161
-00:16:09,680 --> 00:16:14,800
- in the amount of of money on the organization that you have available to you other than what other
+00:13:23,440 --> 00:13:36,500
+And although Lung Kong gets some of the credit for that, it's also the fact that we accidentally reached out to a broader community by just doing very basic social media stuff.
 
 162
-00:16:14,800 --> 00:16:20,800
- world cons have been able to donate to you and i don't know how much Dublin did in donating to
+00:13:37,780 --> 00:13:43,180
+And also by the people who go talking about it and and raising buzz for it.
 
 163
-00:16:20,800 --> 00:16:25,760
- conzeland but i wouldn't be surprised if it was relatively low because i suspect Dublin spent
+00:13:43,180 --> 00:13:49,060
+And I don't see any reason why you can't do that with the online conventions as well.
 
 164
-00:16:25,760 --> 00:16:30,880
- quite a lot of money on running their convention and so it might well be that this is mostly driven
+00:13:49,060 --> 00:13:55,920
+You just have to make sure that you've got a value proposition that is compelling at times when people have a lot of other things on their plate.
 
 165
-00:16:30,880 --> 00:16:37,280
- by the father bolt con might have a source of stability that conzeland doesn't and so it might
+00:14:01,320 --> 00:14:12,260
+On the topic of value propositions, Con Zealand have announced that they are also going to use a mixture of Zoom and Discord to run their convention.
 
 166
-00:16:37,280 --> 00:16:45,360
- well be a slightly unfair comparison to make in some ways if you look at the easter con easter cons
+00:14:12,260 --> 00:14:24,300
+And one question we had when we read this is what is the value proposition of this, given that Balticon has done this seemingly free at the point of use?
 
 167
-00:16:45,360 --> 00:16:50,000
- pass along money between easter cons and these pass alongs can often be quite large um compared
+00:14:24,900 --> 00:14:32,660
+So, Alison, did you want to start talking about this and then me and Liz can jump in with our excellent opinions?
 
 168
-00:16:50,000 --> 00:16:55,600
- to the relatively small budget of an easter con um and and they've been getting bigger um and we
+00:14:32,660 --> 00:14:39,840
+I wanted to 100% make clear that I am pontificating from a complete state of ignorance here.
 
 169
-00:16:55,760 --> 00:16:59,680
- intended when running fully con to reduce the size of the pass along deliberately because we
+00:14:39,840 --> 00:14:44,800
+And I wanted to say that I guess that Balticon probably wasn't free.
 
 170
-00:16:59,680 --> 00:17:04,560
- thought they were slightly too large um but we we did end up passing along quite a lot of money
+00:14:44,800 --> 00:14:50,720
+That they will have had their convention that doesn't that runs every year.
 
 171
-00:17:04,560 --> 00:17:11,760
- and we will use i think it is likely that most of that money is going to get used up dealing with
+00:14:50,720 --> 00:15:09,780
+So they will have things like a corporate structure and a bank account and a set of and they would have been able to put some money into this in the knowledge that they will have future physical conventions in a way that conventions that only run once like a Worldcon may not be able to.
 
 172
-00:17:11,760 --> 00:17:17,520
- this year's easter con refunding where it needed to and the incurring the expenses it couldn't get
+00:15:09,780 --> 00:15:13,120
+So it is possible that it was not as free as all of that.
 
 173
-00:17:17,520 --> 00:17:22,400
- out of and then next year's easter con coping with what is likely to be a very disrupted
+00:15:13,120 --> 00:15:17,660
+These will all be tied together with a single sign in point for authentication.
 
 174
-00:17:22,960 --> 00:17:27,440
- easter con for a number of ways and i would suspect that between those two we will probably not have
+00:15:17,660 --> 00:15:23,660
+So I feel like Con Zealand is planning to wall off its garden.
 
 175
-00:17:27,440 --> 00:17:32,320
- very much pass along at all left at the end of it um so it's kind of like oh yes easter con has
+00:15:23,660 --> 00:15:29,140
+And I guess that Balticon, because it was free, didn't need to wall off its garden.
 
 176
-00:17:32,320 --> 00:17:38,400
- been saving for a rainy day and that is a thing that that it's done now i imagine that conzeland
+00:15:29,140 --> 00:15:38,720
+And my guess is that the process of saying only Con Zealand members are going to be inside the loop here will make this more expensive.
 
 177
-00:17:38,400 --> 00:17:43,840
- has an enormous amount of incurred expenses that it cannot get out i think there's also one extra
+00:15:38,720 --> 00:15:43,260
+And if you can spot the flaw in that reasoning.
 
 178
-00:17:43,840 --> 00:17:48,560
- aspect that conzeland will have to deal with i think bolticon in a way could have sort of open
+00:15:43,900 --> 00:15:44,500
+I think you're right.
 
 179
-00:17:48,560 --> 00:17:54,800
- zoom and open discord and largely fly under the radar and i didn't hear anything about any problems
+00:15:44,500 --> 00:15:58,700
+I think that Balticon almost certainly as a continuing convention has a reserve that they can probably call upon because they are an established organization that has been going for a while and will have a continuity.
 
 180
-00:17:54,800 --> 00:18:00,640
- they had but i think a world con is a much more visible entity and also the world con has had
+00:15:59,340 --> 00:16:06,180
+The disadvantage in this sense that Worldcons have is that each Worldcon, for those who don't know, is a separate organization.
 
 181
-00:18:00,640 --> 00:18:06,560
- problems in the past well you know will con is a higher profile thing and it has uh you know had
+00:16:06,180 --> 00:16:16,980
+And so there is no continuity in the amount of money on the organization that you have available to you other than what other Worldcons have been able to donate to you.
 
 182
-00:18:06,560 --> 00:18:12,560
- the whole thing with the puppies and the hugo nominations and it's possible they also feel
+00:16:17,340 --> 00:16:27,800
+And I don't know how much Dublin did in donating to Con Zealand, but I wouldn't be surprised if it was relatively low because I suspect Dublin spent quite a lot of money on running their convention.
 
 183
-00:18:12,560 --> 00:18:17,600
- that a they need to be a little bit more of a walled gardener to put some effort into making
+00:16:27,800 --> 00:16:36,600
+And so it might well be that this is mostly driven by the fact that Balticon might have a source of stability that Con Zealand doesn't.
 
 184
-00:18:17,600 --> 00:18:23,680
- sure that no one disrupts their higher profile event and also into more people points to do
+00:16:36,860 --> 00:16:41,660
+And so it might well be a slightly unfair comparison to make in some ways.
 
 185
-00:18:23,680 --> 00:18:32,160
- moderation and to try and keep things as safe as possible um for everyone when they do have the
+00:16:43,040 --> 00:16:51,900
+If you look at the Easter Con, Easter Cons pass along money between Easter Cons and these pass alongs can often be quite large compared to the relatively small budget of an Easter Con.
 
 186
-00:18:32,160 --> 00:18:37,600
- event just because of numbers so i don't think any of these open events have had problems so far
+00:16:51,900 --> 00:16:54,700
+And they've been getting bigger.
 
 187
-00:18:37,600 --> 00:18:42,960
- but it's it's not hard to think of a world in which they could have problems from a bunch of
+00:16:54,700 --> 00:17:01,040
+And we intended when running Folly Con to reduce the size of the pass along deliberately because we thought they were slightly too large.
 
 188
-00:18:42,960 --> 00:18:48,080
- bored people deciding to disrupt proceedings
+00:17:01,680 --> 00:17:04,360
+But we did end up passing along quite a lot of money.
 
 189
-00:18:48,080 --> 00:18:58,320
- i think that segues quite nicely into a discussion about what the relative strengths of zoom and
+00:17:04,360 --> 00:17:18,180
+And we will use, I think, it is likely that most of that money is going to get used up dealing with this year's Easter Con, refunding where it needed to and incurring the expenses it couldn't get out of.
 
 190
-00:18:58,320 --> 00:19:05,280
- discord are in this space my understanding is that one of the reasons discord has gotten more popular
+00:17:18,180 --> 00:17:24,580
+And then next year's Easter Con, coping with what is likely to be a very disrupted Easter Con for a number of ways.
 
 191
-00:19:05,280 --> 00:19:09,760
- recently is because they've recently introduced an awful lot of features to allow for that kind
+00:17:24,580 --> 00:17:29,600
+And I would suspect that between those two, we will probably not have very much pass along at all left at the end of it.
 
 192
-00:19:09,760 --> 00:19:16,160
- of effective moderation to be more easily implemented and i saw that there were to get into the bolt
+00:17:30,160 --> 00:17:33,700
+So it's kind of like, oh, yes, Easter Con has been saving for a rainy day.
 
 193
-00:19:16,160 --> 00:19:23,360
- econ you had to agree to a code of conduct before you were allowed to enter the bolt econ discord
+00:17:33,700 --> 00:17:36,180
+And that is a thing that that it's done now.
 
 194
-00:19:23,360 --> 00:19:29,200
- and there were moderators who were able to step in but i think you're right that cons elend will
+00:17:36,180 --> 00:17:42,180
+I imagine that Con Zealand has an enormous amount of incurred expenses that it cannot get out.
 
 195
-00:19:29,200 --> 00:19:34,240
- have a harder time with that it will be a much bigger enterprise but i think it's interesting
+00:17:42,180 --> 00:17:46,020
+I think there's also one extra aspect that Con Zealand will have to deal with.
 
 196
-00:19:34,240 --> 00:19:40,800
- that the way that do you see the the way that discord can be used to facilitate that kind of
+00:17:46,020 --> 00:17:52,620
+I think Balticon in a way could have sort of open zoom and open discord and largely fly under the radar.
 
 197
-00:19:40,800 --> 00:19:47,200
- code of conduct might be one of the reasons we're seeing that as the like spokes in between the zooms
+00:17:52,620 --> 00:17:55,440
+And I didn't hear anything about any problems they had.
 
 198
-00:19:47,200 --> 00:19:52,160
- which are the kind of panels and room parties um and i think that's a really good use of the two
+00:17:55,440 --> 00:17:58,380
+But I think a World Con is a much more visible entity.
 
 199
-00:19:52,160 --> 00:19:57,600
- technologies really playing both to their strengths while minimizing their weaknesses
+00:17:58,700 --> 00:18:02,260
+And also the World Con has had problems in the past.
 
 200
-00:19:57,600 --> 00:20:01,200
- discourse strength being like the fact it's always there and you can always go and it's got the
+00:18:02,260 --> 00:18:10,840
+Well, you know, World Con is a higher profile thing and it has, you know, had the whole thing with the puppies and the Hugo nominations.
 
 201
-00:20:01,200 --> 00:20:07,120
- moderation and zoom strengths being that the video quality is higher it's a lot easier to get started
+00:18:10,840 --> 00:18:21,100
+And it's possible they also feel that, A, they need to be a little bit more of a walled garden and to put some effort into making sure that no one disrupts their higher profile event.
 
 202
-00:20:07,120 --> 00:20:11,920
- like you just click a link and it appears um and you can do the webinar boat stuff which is all
+00:18:21,100 --> 00:18:33,740
+And also into more people points to do moderation and to try and keep things as safe as possible for everyone when they do have the event just because of numbers.
 
 203
-00:20:11,920 --> 00:20:17,200
- kind of baked in um very much playing to the strengths of both platforms yeah i mean i think
+00:18:33,740 --> 00:18:45,300
+So I don't think any of these open events have had problems.
 
 204
-00:20:17,200 --> 00:20:21,840
- it's quite clear that a combination of zoom and discord is very good for all this stuff i mean i
+00:18:45,300 --> 00:19:01,020
+I think that segues quite nicely into a discussion about what the relative strengths of Zoom and Discord are in this space.
 
 205
-00:20:21,840 --> 00:20:30,960
- haven't i've not thought about running a party in the form of um having the having the actual party
+00:19:01,020 --> 00:19:13,080
+My understanding is that one of the reasons Discord has gotten more popular recently is because they've recently introduced an awful lot of features to allow for that kind of effective moderation to be more easily implemented.
 
 206
-00:20:30,960 --> 00:20:36,880
- going on in discord with a set of video chats but that might be a better way to run big parties i
+00:19:13,080 --> 00:19:23,280
+And I saw that there were to get into the Balticon, you had to agree to a code of conduct before you were allowed to enter the Balticon Discord.
 
 207
-00:20:36,880 --> 00:20:42,240
- don't know um i'm still i'm still amazed that nobody has really solved the problem of running
+00:19:23,280 --> 00:19:27,480
+And there were moderators who were able to step in.
 
 208
-00:20:42,240 --> 00:20:47,280
- big parties it's given that it's been months now and given that big parties are one of the things
+00:19:27,920 --> 00:19:30,860
+But I think you're right that ConZealand will have a harder time with that.
 
 209
-00:20:47,280 --> 00:20:52,640
- that humans like to do a lot i know i just keep talking about parties all the time um when we get
+00:19:30,860 --> 00:19:32,460
+It will be a much bigger enterprise.
 
 210
-00:20:52,640 --> 00:20:55,600
- to what i'm doing to stay set in the pocket it's one of the things i've been looking at is whether
+00:19:32,460 --> 00:19:49,480
+But I think it's interesting that the way that you see the way that Discord can be used to facilitate that kind of code of conduct might be one of the reasons we're seeing that as the like spokes in between the Zooms, which are the kind of panels and room parties.
 
 211
-00:20:55,600 --> 00:21:01,520
- there are any really good vr party apps because it feels like vr parties ought to be totally a thing
+00:19:50,540 --> 00:19:57,360
+And I think that's a really good use of the two technologies, really playing both to their strengths while minimizing their weaknesses.
 
 212
-00:21:01,520 --> 00:21:06,160
- that could solve all of these problems but you know what they're not or at least if they are
+00:19:57,360 --> 00:20:01,900
+Discord strength being like the fact it's always there and you can always go and it's got the moderation.
 
 213
-00:21:06,160 --> 00:21:12,240
- that i haven't found one yet and actually one of the things that we were talking about um i'm
+00:20:01,900 --> 00:20:05,220
+Zoom strengths being that the video quality is higher.
 
 214
-00:21:12,240 --> 00:21:18,320
- almost certain it was on one of allesans in terminable zoom parties um possibly after a tap
+00:20:05,220 --> 00:20:07,280
+It's a lot easier to get started.
 
 215
-00:21:18,880 --> 00:21:25,680
- pop possibly after a tap zoom maybe it's a lot of pop music maybe a thursday uh they're lovely
+00:20:07,280 --> 00:20:13,140
+Like you just click a link and it appears and you can do the webinar mode stuff, which is all kind of baked in.
 
 216
-00:21:25,680 --> 00:21:32,240
- but there are many of them and they all slightly blur into one which i enjoy about them um and also
+00:20:13,140 --> 00:20:16,160
+Very much playing to the strengths of both platforms.
 
 217
-00:21:32,240 --> 00:21:38,080
- i've just googled in terminable and they are endless you are always zooming allison it is 100%
+00:20:16,160 --> 00:20:20,280
+Yeah, I mean, I think it's quite clear that a combination of Zoom and Discord is very good.
 
 218
-00:21:38,080 --> 00:21:44,560
- that i i do not believe you will ever stop partying i am actually slightly less zooming than i would
+00:20:20,280 --> 00:20:21,560
+very good for all this stuff.
 
 219
-00:21:44,560 --> 00:21:52,640
- like to um i feel like i i'm not i'm not running fewer events than i'd like to but i i kind of find
+00:20:21,560 --> 00:20:33,840
+I mean, I haven't, I've not thought about running a party in the form of having the, having the actual party going on in Discord with a set of video chats.
 
 220
-00:21:52,640 --> 00:21:57,360
- i get to the beginning of weekend and goes who's running a party this weekend and they're never
+00:20:33,840 --> 00:20:36,940
+But that might be a better way to run big parties.
 
 221
-00:21:57,360 --> 00:22:02,960
- quite enough of those people so maybe there are great parties going on to which i am not being
+00:20:36,940 --> 00:20:37,620
+I don't know.
 
 222
-00:22:02,960 --> 00:22:08,960
- invited but they probably are but i feel like i mean i never was going to invite me to loads of
+00:20:37,620 --> 00:20:43,100
+I'm still, I'm still amazed that nobody has really solved the problem of running big parties.
 
 223
-00:22:08,960 --> 00:22:12,800
- things now i'm going to have to go no no but i would like that to be more things out there that i could
+00:20:43,100 --> 00:20:48,960
+Given that it's been months now and given that big parties are one of the things that humans like to do a lot.
 
 224
-00:22:12,800 --> 00:22:18,000
- just kind of drop into if i feel like it where people will be having buzz but i will say that
+00:20:49,460 --> 00:20:51,980
+I know I just keep talking about parties all the time.
 
 225
-00:22:18,000 --> 00:22:26,320
- jerry was saying that balticon also had a presence on second life where you could go and interact
+00:20:51,980 --> 00:20:58,220
+When we get to what I'm doing to stay sane in the apocalypse, one of the things I've been looking at is whether there are any really good VR party apps,
 
 226
-00:22:26,320 --> 00:22:33,200
- with people in second life and i was like and it gets better what you were saying about yeah about
+00:20:58,220 --> 00:21:04,340
+because it feels like VR parties ought to be totally a thing that could solve all of these problems.
 
 227
-00:22:33,200 --> 00:22:44,240
- VR like party like it's 1999 Liz do you use second life avid second life user i have never used second
+00:21:04,340 --> 00:21:05,020
+But you know what?
 
 228
-00:22:44,240 --> 00:22:51,360
- life mean either i used it in 1999 i don't know what was it actually 1999 i'm just checking but yeah
+00:21:05,020 --> 00:21:05,380
+They're not.
 
 229
-00:22:51,360 --> 00:22:55,360
- no and i think that gets back to what you're saying about like it would be it sounds like what you
+00:21:05,380 --> 00:21:07,320
+Or at least if they are, I haven't found one yet.
 
 230
-00:22:55,360 --> 00:23:01,840
- want is a VR world where you could go and like more realistically interact and then i heard that
+00:21:07,320 --> 00:21:15,980
+And actually, one of the things that we were talking about, I'm almost certain it was on one of Alison's Interminable Zoom parties.
 
 231
-00:23:01,840 --> 00:23:06,880
- they were doing a second life thing and i'm like oh no because i think that's the attempt to do
+00:21:17,140 --> 00:21:23,320
+Possibly after a taff, possibly after a taff Zoom, maybe at the London Pub meeting, maybe a Thursday.
 
 232
-00:23:06,880 --> 00:23:13,200
- something like that but i just don't think it actually works or provides that experience in any
+00:21:23,320 --> 00:21:30,820
+They're lovely, but there are many of them and they all slightly blur into one, which I enjoy about them.
 
 233
-00:23:13,200 --> 00:23:20,320
- meaningful way and hopefully one day but not not today but kudos to them for trying i don't think
+00:21:31,540 --> 00:21:34,740
+And also, I've just Googled Interminable and they are endless.
 
 234
-00:23:20,320 --> 00:23:26,800
- conzeland has announced their aggressive second life uh home utilization yet and obviously i think
+00:21:34,740 --> 00:21:37,000
+You are always Zooming, Alison.
 
 235
-00:23:26,800 --> 00:23:32,320
- i speak for all three of us when i say i'm waiting with baited breath to see what they plan i am
+00:21:37,000 --> 00:21:38,560
+It is 100%.
 
 236
-00:23:32,320 --> 00:23:37,120
- actually wrong apparently you can party like it's 2003
+00:21:38,560 --> 00:21:41,820
+I do not believe you will ever stop partying.
 
 237
-00:23:37,120 --> 00:23:39,920
- excellent
+00:21:41,820 --> 00:21:45,340
+I am actually slightly less Zooming than I would like to.
 
 238
-00:23:39,920 --> 00:23:50,880
- octa-thorpe is sponsored this week by stow shirts stow shirts makes political,
+00:21:46,060 --> 00:21:54,640
+I feel like I'm not running fewer events than I'd like to, but I kind of find I get to the beginning of weekend and goes,
 
 239
-00:23:50,880 --> 00:23:56,480
- science fictional and nerdy apparel and pin badges for a whole range of different interests
+00:21:54,640 --> 00:21:56,780
+who's running a party this weekend?
 
 240
-00:23:56,480 --> 00:24:00,880
- whether it's a virtual hug badge to tell a loved one you're thinking of them
+00:21:56,780 --> 00:21:59,000
+And there are never quite enough of those people.
 
 241
-00:24:00,880 --> 00:24:07,120
- a shirt with an in-joke for sf fans or nerds a pronoun badge to wear on your work lanyard
+00:21:59,000 --> 00:22:03,520
+So maybe there are great parties going on to which I am not being invited.
 
 242
-00:24:07,120 --> 00:24:11,280
- or a political slogan for your next protest they're likely to have something for you
+00:22:03,520 --> 00:22:05,520
+But there probably are.
 
 243
-00:24:11,280 --> 00:24:16,560
- podcast host should speak here about their personal experience with the sponsor
+00:22:05,520 --> 00:22:09,520
+But I feel like I never was going to invite me to loads of things now.
 
 244
-00:24:16,560 --> 00:24:20,080
- um podcast with her every week she's quite nice
+00:22:09,520 --> 00:22:10,140
+I'm going to have to go.
 
 245
-00:24:20,960 --> 00:24:26,320
- what's more they can do custom badges and shirts amend existing designs to suit your needs and
+00:22:10,140 --> 00:22:10,560
+No, no, no.
 
 246
-00:24:26,320 --> 00:24:30,640
- they're happy to work with sf conventions and fangroups to help organize their merchandise
+00:22:10,640 --> 00:22:16,700
+But I would like there to be more things out there that I could just kind of drop into if I feel like it, where people will be having buzz.
 
 247
-00:24:30,640 --> 00:24:36,240
- offering and reduce stress on the committee visit them today at stow shirts dot com and use the
+00:22:16,700 --> 00:22:28,340
+But I will say that Jerry was saying that Balticon also had a presence on Second Life, where you could go and interact with people in Second Life.
 
 248
-00:24:36,240 --> 00:24:38,400
- code octa-thorpe for a 10 discount
+00:22:28,340 --> 00:22:33,760
+And I was like, and it gets back to what you were saying about, yeah, about VR.
 
 249
-00:24:38,400 --> 00:24:50,640
- we should we should talk briefly about the nebulous and wizcon which we i think i speak for three of
+00:22:33,760 --> 00:22:36,760
+Like, party like it's 1999.
 
 250
-00:24:50,640 --> 00:24:58,000
- us did not attend but allison gosson sleeky gossip before the nebulous happened so um
+00:22:38,440 --> 00:22:42,060
+Liz, do you use Second Life, avid Second Life user?
 
 251
-00:24:58,000 --> 00:25:03,440
- when it wasn't really sneaky gossip steven silvers said he'd been running um zoom parties along
+00:22:42,060 --> 00:22:44,820
+I have never used Second Life.
 
 252
-00:25:03,440 --> 00:25:07,520
- the lines of the ones that i've been running for up to 500 people with a lot of rut of i he'd
+00:22:44,820 --> 00:22:45,980
+Me neither.
 
 253
-00:25:07,520 --> 00:25:12,480
- been running them for up to 150 people with a plan to run for up to 500 on nebula weekend and
+00:22:45,980 --> 00:22:48,280
+I used it in 1999.
 
 254
-00:25:12,480 --> 00:25:18,800
- i've heard nothing i feel like if 500 people are gone to a to the nebula party i would have heard
+00:22:48,280 --> 00:22:49,780
+Was it actually 1999?
 
 255
-00:25:18,800 --> 00:25:23,360
- about it but they were probably all american science fiction authors so maybe not but if you
+00:22:49,780 --> 00:22:50,780
+I'm just checking.
 
 256
-00:25:23,360 --> 00:25:29,600
- were at the nebula zoom party do let us know how it went so he was using the same system as we do
+00:22:50,780 --> 00:22:51,820
+But yeah, no.
 
 257
-00:25:29,600 --> 00:25:34,560
- where you have a lot of breakout rooms people move between them he was doing a thing very cleverly
+00:22:51,820 --> 00:23:01,340
+And I think that gets back to what you were saying about, like, it would be, it sounds like what you want is a VR world where you could go and, like, more realistically interact.
 
 258
-00:25:34,560 --> 00:25:40,480
- where he put everybody into a lobby and then he had moderators in the lobby trying to divide people
+00:23:01,340 --> 00:23:03,240
+And then I heard that they were doing a Second Life thing.
 
 259
-00:25:40,480 --> 00:25:45,360
- up into smaller rooms i slightly worry that that leaves you with hundreds of people in the lobby
+00:23:03,240 --> 00:23:05,140
+And I'm like, oh, no.
 
 260
-00:25:45,360 --> 00:25:50,080
- and he was leaving people in the waiting room until he had a bunch of say six so then he bring them
+00:23:05,140 --> 00:23:08,040
+Because I think that's the attempt to do something like that.
 
 261
-00:25:50,080 --> 00:25:56,480
- all in at once and um give them the spiel about how it was going to work and things like that um
+00:23:08,040 --> 00:23:14,200
+But I just don't think it actually works or provides that experience in any meaningful way.
 
 262
-00:25:56,480 --> 00:26:01,760
- but i don't that was all in the practice which is what we talked about so steven if you're listening
+00:23:14,200 --> 00:23:17,140
+And hopefully one day, but not today.
 
 263
-00:26:01,760 --> 00:26:08,720
- then that would be a great thing to know about how it went and um yeah and if you're not listening
+00:23:17,140 --> 00:23:19,680
+But kudos to them for trying.
 
 264
-00:26:08,720 --> 00:26:13,920
- if anyone was at the nebula zoom party i really really want to know how it went the one thing i
+00:23:19,680 --> 00:23:26,160
+I don't think Con Zealand has announced their aggressive Second Life utilisation yet.
 
 265
-00:26:13,920 --> 00:26:19,840
- must say i really dislike about zoom is the bit where you wait for the host to notice that you
+00:23:26,160 --> 00:23:31,560
+And obviously I think I speak for all three of us when I say I'm waiting with bated breath to see what they plan.
 
 266
-00:26:19,840 --> 00:26:26,640
- want to party and they eventually let you into their party but it's i guess a bit like queuing to get
+00:23:31,820 --> 00:23:33,800
+I am actually wrong.
 
 267
-00:26:26,640 --> 00:26:32,640
- into a room party as a world con so it's a pleasing recreation of a fannish tradition it's replicating
+00:23:33,800 --> 00:23:37,080
+Apparently you can party like it's 2003.
 
 268
-00:26:32,640 --> 00:26:36,400
- that bit of the party where you decide to go to party and you get a drink and you sort of hang
+00:23:37,080 --> 00:23:39,700
+Excellent.
 
 269
-00:26:36,400 --> 00:26:40,480
- around at the edge to want to work out if you know anyone at this party or if you're just gonna stand
+00:23:39,700 --> 00:23:48,580
+Octothorpe is sponsored this week by Stow Shirts.
 
 270
-00:26:40,480 --> 00:26:46,000
- around looking like you are a cool loner it's actually replicating the part where you're
+00:23:49,200 --> 00:23:56,240
+Stow Shirts makes political, science fictional and nerdy apparel and pin badges for a whole range of different interests.
 
 271
-00:26:46,000 --> 00:26:50,960
- standing on the doorstep and your hostess had a has engrossed in conversation and the last thing
+00:23:56,240 --> 00:24:00,720
+Whether it's a virtual hug badge to tell a loved one you're thinking of them.
 
 272
-00:26:50,960 --> 00:26:53,200
- we want to do right now is open the door the second
+00:24:00,720 --> 00:24:04,200
+A shirt with an in-joke for SF fans or nerds.
 
 273
-00:26:53,200 --> 00:27:05,440
- the other thing we did not attend was wizcon do Liz do you know anything about wizcon yes i have
+00:24:04,200 --> 00:24:06,960
+A pronoun badge to wear on your work lanyard.
 
 274
-00:27:05,440 --> 00:27:13,840
- been to wizcon quite a long time ago now uh 2006 and i enjoyed it but i've never managed to go back
+00:24:06,960 --> 00:24:09,580
+Or a political slogan for your next protest.
 
 275
-00:27:13,840 --> 00:27:20,080
- so i was sort of thinking about trying to go back when it was a virtual convention but i completely
+00:24:09,580 --> 00:24:11,580
+They're likely to have something for you.
 
 276
-00:27:20,080 --> 00:27:26,240
- failed to do so because of inertia and time zones but they i think they were paid as well so i would
+00:24:12,320 --> 00:24:16,640
+Podcast host should speak here about their personal experience with the sponsor.
 
 277
-00:27:26,240 --> 00:27:30,240
- have had to make a proper commitment to working out if i could go to things really before you
+00:24:16,640 --> 00:24:19,540
+Erm, podcasts with her every week.
 
 278
-00:27:30,240 --> 00:27:35,200
- couldn't sort of dip in and out um but it is the of the ones that were running on memorial the day
+00:24:19,540 --> 00:24:20,280
+She's quite nice.
 
 279
-00:27:35,200 --> 00:27:42,080
- what that was the one i would quite have liked to go to registration for wizcon cost $10 you could
+00:24:20,280 --> 00:24:23,840
+What's more, they can do custom badges and shirts.
 
 280
-00:27:42,080 --> 00:27:48,480
- pay zero dollars if you could not afford the $10 and they also had membership levels at $25 and
+00:24:23,840 --> 00:24:26,340
+Amend existing designs to suit your needs.
 
 281
-00:27:48,480 --> 00:27:56,480
- $55 for those who felt able to more support the convention so it wasn't um it wasn't sort of
+00:24:26,340 --> 00:24:32,820
+And they're happy to work with SF conventions and fan groups to help organise their merchandise offering and reduce stress on the committee.
 
 282
-00:27:56,480 --> 00:28:02,560
- conziedland levels of money um but it was sort of a small tip i hadn't realized it was only $10
+00:24:32,820 --> 00:24:38,580
+Visit them today at stowshirts.com and use the code Octothorpe for a 10% discount.
 
 283
-00:28:02,560 --> 00:28:06,640
- um i think i must have seen one of the higher numbers and decided i need to think about it if
+00:24:38,580 --> 00:24:48,140
+We should talk briefly about the Nebulas and WhizCon.
 
 284
-00:28:06,640 --> 00:28:12,160
- it's only $10 and that is within my realm of yep i'll just take a plunge on that and if i don't end
+00:24:48,140 --> 00:24:52,140
+Which we, I think I speak for the three of us, did not attend.
 
 285
-00:28:12,160 --> 00:28:18,160
- up going to any of the events well i like wizcon and they can have my $10 yes no that's that is fair
+00:24:52,140 --> 00:24:56,960
+But Alison got some sneaky gossip before the Nebulas happened.
 
 286
-00:28:18,160 --> 00:28:22,880
- i was i don't know whether baltachon had a tip jar but it does occur to me as well that you you
+00:24:56,960 --> 00:24:58,860
+So, erm...
 
 287
-00:28:22,880 --> 00:28:29,280
- really need to have some sort of like paper or or drip or whatever other service um tip jar
+00:24:58,860 --> 00:25:00,220
+Well, it wasn't really sneaky gossip.
 
 288
-00:28:29,840 --> 00:28:36,880
- um on your um on your convention website to allow people to contribute to the costs i think
+00:25:00,220 --> 00:25:06,480
+Stephen Silver said he'd been running Zoom parties along the lines of the ones that I've been running for up to 500 people.
 
 289
-00:28:36,880 --> 00:28:48,320
- i'm still very much looking forward to conziedland i am i think part of the thing about the virtual
+00:25:07,380 --> 00:25:12,580
+Although he'd been running them for up to 150 people with a plan to run for up to 500 on Nebula weekend.
 
 290
-00:28:48,320 --> 00:28:54,640
- trip is trying to get myself into a headspace where i really am focusing when you there's a focus
+00:25:12,580 --> 00:25:13,500
+And I've heard nothing.
 
 291
-00:28:54,640 --> 00:29:00,000
- thing when you decide to go to an actual convention in actual life you go right i am going off
+00:25:13,500 --> 00:25:19,440
+I feel like if 500 people had gone to the Nebula party, I would have heard about it.
 
 292
-00:29:00,000 --> 00:29:04,960
- if we ever have these again i go somewhere for the weekend and i spend my weekend there and i do
+00:25:19,440 --> 00:25:21,640
+But they were probably all American science fiction authors.
 
 293
-00:29:04,960 --> 00:29:10,480
- the convention when a virtual convention comes into your life you're kind of like oh i'm doing
+00:25:21,640 --> 00:25:22,700
+So maybe not.
 
 294
-00:29:10,480 --> 00:29:15,120
- everything else i'm doing else and then also there's this convention going on and i think actually
+00:25:22,700 --> 00:25:27,760
+But if you were at the Nebula Zoom party, do let us know how it went.
 
 295
-00:29:15,120 --> 00:29:20,640
- saying no i'm i'm going to block out three days and the convention is going to be what i do for
+00:25:27,760 --> 00:25:31,280
+So he was using the same system as we do where you have a lot of breakout rooms.
 
 296
-00:29:20,640 --> 00:29:26,160
- those three days is a very different way to think about these and i'm not sure how many of us are
+00:25:31,280 --> 00:25:32,660
+People move between them.
 
 297
-00:29:26,160 --> 00:29:32,080
- doing that just yet did that make any sense that did make sense because i think when i was
+00:25:32,660 --> 00:25:42,480
+He was doing a thing very cleverly where he put everybody into a lobby and then he had moderators in the lobby trying to divide people up into smaller rooms.
 
 298
-00:29:32,080 --> 00:29:37,840
- thinking about oh should i try and get to any of these uh online conventions over the moral day
+00:25:42,480 --> 00:25:45,540
+I slightly worry that that leaves you with hundreds of people in the lobby.
 
 299
-00:29:37,840 --> 00:29:42,400
- weekend i was thinking about it and oh i might dip in and out of some events if they're in the
+00:25:45,540 --> 00:25:49,580
+And he was leaving people in the waiting room until he had a bunch of, say, six.
 
 300
-00:29:42,400 --> 00:29:47,200
- right time so and i wasn't thinking i will take the plunge and commit my weekend to it as i normally
+00:25:49,580 --> 00:25:55,740
+And then he'd bring them all in at once and give them the spiel about how it was going to work and things like that.
 
 301
-00:29:47,200 --> 00:29:51,520
- would for convention yes i think i think that's fair and i think that was very much the
+00:25:56,560 --> 00:25:59,920
+But I don't that was all in the practice, which is what we talked about.
 
 302
-00:29:51,520 --> 00:29:58,320
- thing i did with um bolticon was i signed up for the panels that i was interested in going to and
+00:25:59,920 --> 00:26:05,860
+So, Stephen, if you're listening, then that would be a great thing to know about how it went.
 
 303
-00:29:58,320 --> 00:30:04,240
- were in the right time zone and then i didn't really think i was attending bolticon but i got to go
+00:26:05,860 --> 00:26:07,080
+And yeah.
 
 304
-00:30:04,240 --> 00:30:08,880
- to some cool panels which is the way i was thinking about it but i think if there was going to be
+00:26:07,080 --> 00:26:13,140
+And if you're not listening, if anyone was at the Nebula Zoom party, I really, really want to know how it went.
 
 305
-00:30:08,880 --> 00:30:17,040
- a convention i usually attend happening virtually i would be taking that as a i will block
+00:26:13,140 --> 00:26:21,120
+The one thing I must say I really dislike about Zoom is the bit where you wait for the host to notice that you want to party.
 
 306
-00:30:17,040 --> 00:30:23,520
- the time out and do this as if i am at the convention and the next convention for which that happens
+00:26:21,320 --> 00:26:24,100
+And they eventually let you into their party.
 
 307
-00:30:23,520 --> 00:30:31,440
- is probably going to be the virtual uk games expo which is being held in mid-August they have
+00:26:24,100 --> 00:26:28,620
+But it's, I guess, a bit like queuing to get into a room party at a Worldcon.
 
 308
-00:30:31,440 --> 00:30:39,280
- cancelled the physical one and they are holding a virtual one and i will be thoroughly and enthusiastically
+00:26:28,620 --> 00:26:31,980
+So it's a pleasing recreation of a Fannish tradition.
 
 309
-00:30:39,280 --> 00:30:46,400
- attending oh how much does it cost and what are its dates uh so it's the 21st of august
+00:26:31,980 --> 00:26:43,920
+It's replicating that bit of the party where you decide to go to party and you get a drink and you sort of hang around at the edge trying to work out if you know anyone at this party or if you're just going to stand around looking like you are a cool loner.
 
 310
-00:30:46,400 --> 00:30:54,320
- um to the 23rd of august i have found the part on the website uh we've decided to make virtually
+00:26:44,280 --> 00:26:50,620
+It's actually replicating the part where you're standing on the doorstep and your host has had a, has engrossed in conversation.
 
 311
-00:30:54,320 --> 00:30:59,760
- expo freely available to anyone who wants to join in so there are no entry tickets but there will be
+00:26:50,620 --> 00:26:52,860
+And the last thing they want to do right now is open the door.
 
 312
-00:30:59,760 --> 00:31:04,240
- the option to donate and some activities such as role-playing games and tournaments will still
+00:26:52,860 --> 00:27:01,740
+The other thing we did not attend was WizCon.
 
 313
-00:31:04,240 --> 00:31:10,640
- require individual tickets and will attract a small fee in order to participate so free to attend the
+00:27:01,740 --> 00:27:04,460
+Do, Liz, do you know anything about WizCon?
 
 314
-00:31:10,640 --> 00:31:16,400
- sort of show floor but perhaps small amounts of money to attend some of the events happening
+00:27:04,940 --> 00:27:08,320
+Yes, I have been to WizCon quite a long time ago now.
 
 315
-00:31:16,400 --> 00:31:23,120
- they're using twitch discord zoom youtube um it's being sponsored by paizo and walen games and
+00:27:08,320 --> 00:27:10,460
+2006.
 
 316
-00:31:23,120 --> 00:31:31,200
- wahammer and katann um so big sponsors i i had not heard of uk online games expo and because
+00:27:10,460 --> 00:27:12,180
+And I enjoyed it.
 
 317
-00:31:31,200 --> 00:31:37,200
- gaming conventions are one of the things that i very very much enjoy but have had to decide
+00:27:12,180 --> 00:27:13,760
+But I've never managed to go back.
 
 318
-00:31:37,200 --> 00:31:46,160
- or a piece of life that is too much for me um you know i can't manage to squeeze them into my life
+00:27:13,760 --> 00:27:18,500
+So I was sort of thinking about trying to go back when it was a virtual convention.
 
 319
-00:31:46,160 --> 00:31:52,240
- i'm actually extremely excited about the idea of a virtual one and um i might walk over long to
+00:27:18,500 --> 00:27:23,400
+But I completely failed to do so because of inertia and time zones.
 
 320
-00:31:52,240 --> 00:31:56,400
- that so that's quite exciting it's going to be very interesting to see how some of the tournaments
+00:27:24,220 --> 00:27:26,120
+But they, I think they were paid as well.
 
 321
-00:31:56,400 --> 00:32:01,840
- are run because asthma d which is one of the big big board game companies in the world has been
+00:27:26,120 --> 00:27:30,200
+So I would have had to make a proper commitment to working out if I could go to things really before.
 
 322
-00:32:01,840 --> 00:32:08,080
- clamping down on methods to virtually play their games in recent weeks and it will be interesting
+00:27:30,200 --> 00:27:31,620
+You couldn't sort of dip in and out.
 
 323
-00:32:08,080 --> 00:32:14,080
- to see how you run a tournament for a game that has no official digital client and the parent
+00:27:31,620 --> 00:27:37,820
+But it is the, of the ones that were running on Memorial Day, that was the one I would quite have liked to go to.
 
 324
-00:32:14,080 --> 00:32:19,200
- company of which has been strongly discouraging online play so i don't know whether those will
+00:27:37,820 --> 00:27:41,100
+Registration for WizCon cost $10.
 
 325
-00:32:19,200 --> 00:32:24,640
- actually happen or what they will look like if they do but you know which games are asthma d what
+00:27:41,100 --> 00:27:45,380
+You could pay $0 if you could not afford the $10.
 
 326
-00:32:24,640 --> 00:32:31,440
- are they what games are they famous for john so they do anything with the arkham horror branding is
+00:27:45,380 --> 00:27:53,240
+And they also had membership levels at $25 and $55 for those who felt able to more support the convention.
 
 327
-00:32:31,440 --> 00:32:39,040
- asthma d anything with the star wars branding is asthma d unless it's hasbro but there aren't any
+00:27:53,500 --> 00:27:58,140
+So it wasn't, it wasn't sort of Con Zealand levels of money.
 
 328
-00:32:39,040 --> 00:32:46,240
- tournaments for hasbro games anything with legends of the five rings branding game of thrones branding
+00:27:58,140 --> 00:28:00,460
+But it was sort of a small tip.
 
 329
-00:32:47,200 --> 00:32:54,880
- katan is asthma d like if it's not if it's not hasbro and it's not wizards of the coast
+00:28:00,460 --> 00:28:02,380
+I hadn't realised it was only $10.
 
 330
-00:32:54,880 --> 00:33:03,360
- it's probably aspody it's basically breaks down ticket to ride pandemic uh kakasan small world
+00:28:02,380 --> 00:28:06,760
+I think I must have seen one of the higher numbers and decided I need to think about it.
 
 331
-00:33:03,360 --> 00:33:08,320
- misterium i'm not sure they originally developed all of those but they've sort of swallowed up some
+00:28:06,760 --> 00:28:11,380
+If it was only $10, then that is within my realm of, yep, I'll just take a plunge on that.
 
 332
-00:33:08,320 --> 00:33:15,360
- smaller companies at this point so essentially huge swathes of games are now aspody they've been
+00:28:11,380 --> 00:28:15,940
+And if I don't end up going to any of the events, well, I like WizCon and they can have my $10.
 
 333
-00:33:15,360 --> 00:33:20,160
- eating companies and then they recently got sold to a venture capital company and you know
+00:28:15,940 --> 00:28:16,920
+Yes.
 
 334
-00:33:20,160 --> 00:33:26,640
- capitalism is is great obviously wouldn't hear a word against it but um but yeah slightly sad
+00:28:16,920 --> 00:28:18,180
+No, that is fair.
 
 335
-00:33:26,640 --> 00:33:33,520
- oh so the basis they're basically the electronic arts of board games oh geez that is a particularly
+00:28:18,180 --> 00:28:22,780
+I was, I don't know whether Balticon had a tip jar, but it does occur to me as well that you,
 
 336
-00:33:33,520 --> 00:33:39,920
- good comparison which makes me very very sad Alison so essentially the bit where you're starting
+00:28:22,780 --> 00:28:31,340
+you really need to have some sort of like PayPal or, or drip or whatever other service tip jar on your,
 
 337
-00:33:39,920 --> 00:33:46,480
- to spend too much money on arkam aura you have no idea how that's going for you uh right let's move
+00:28:31,340 --> 00:28:37,140
+on your convention website to allow people to contribute to the costs, I think.
 
 338
-00:33:46,480 --> 00:33:58,640
- on we should talk about the hugo voter packet on the subject of things which are terrific value
+00:28:43,020 --> 00:28:45,380
+I'm still very much looking forward to Con Zealand.
 
 339
-00:33:58,640 --> 00:34:05,040
- um i signed up for a supporting membership to conziland after the last episode of octa thought
+00:28:45,380 --> 00:28:46,420
+I am.
 
 340
-00:34:05,040 --> 00:34:11,520
- and i have downloaded my hugo voter packet Alison and Liz have you downloaded hugo voter packets?
+00:28:46,420 --> 00:28:52,580
+I think part of the thing about the virtual trip is trying to get myself into a headspace where I really am focusing.
 
 341
-00:34:11,520 --> 00:34:16,480
- i have but it took me so long to download my hugo voter packet which is enormous i had to have a
+00:28:52,580 --> 00:28:55,100
+When you, there's a focus thing.
 
 342
-00:34:16,480 --> 00:34:20,800
- little lie down after that so i haven't really looked at it very much but you have told me that
+00:28:55,100 --> 00:29:00,060
+When you decide to go to an actual convention in actual life, you go, right, I am going off.
 
 343
-00:34:20,800 --> 00:34:25,360
- it has the whole of the wicked and the divine in it and i am very excited about that because the
+00:29:00,280 --> 00:29:05,880
+If we ever have these again, I go somewhere for the weekend and I spend my weekend there and I do the convention.
 
 344
-00:34:25,360 --> 00:34:30,640
- wicked and divine is an excellent graphic novel that everyone should read yes it has the entire
+00:29:05,880 --> 00:29:11,780
+When a virtual convention comes into your life, you're kind of like, oh, I'm doing everything else I'm doing else.
 
 345
-00:34:30,640 --> 00:34:36,320
- of wicked and the divine and it also has the entire of monstrous and the entire of paper girls in it
+00:29:11,780 --> 00:29:14,040
+And then also there's this convention going on.
 
 346
-00:34:36,320 --> 00:34:41,680
- so all of the back issues for those comics are available and i think Liz is particularly excited
+00:29:14,220 --> 00:29:24,240
+And I think actually saying, no, I'm going to block out three days and the convention is going to be what I do for those three days is a very different way to think about these.
 
 347
-00:34:41,680 --> 00:34:47,040
- well i have already read all of wicked as well so i do not need that from my
+00:29:24,660 --> 00:29:28,460
+And I'm not sure how many of us are doing that just yet.
 
 348
-00:34:47,040 --> 00:34:54,160
- voter packet i basically haven't signed up to conziland yet but i am considering signing up for
+00:29:28,460 --> 00:29:29,720
+Did that make any sense?
 
 349
-00:34:54,160 --> 00:34:59,120
- supporting membership um basically i will sign up for supporting membership in a very
+00:29:29,720 --> 00:29:30,960
+That did make sense.
 
 350
-00:34:59,120 --> 00:35:03,680
- mercenary way if the amount of stuff i haven't read which is in the voter packet makes it seem
+00:29:30,960 --> 00:29:38,380
+Because I think when I was thinking about, oh, should I try and get to any of these online conventions over the Memorial Day weekend?
 
 351
-00:35:03,680 --> 00:35:10,880
- like a worthwhile proposition and then i basically get to vote in the hughos as a bonus okay i'm
+00:29:38,380 --> 00:29:43,240
+I was thinking about it in, oh, I might dip in and out of some events if they're in the right time zone.
 
 352
-00:35:10,880 --> 00:35:18,960
- i'm going to put my grumpy old fart cap on now and go i believe in the world con community and i
+00:29:43,240 --> 00:29:48,180
+I wasn't thinking I will take the plunge and commit my weekend to it as I normally would for a convention.
 
 353
-00:35:18,960 --> 00:35:24,400
- think that it is worth buying a supporting membership to the world con each year even for years in
+00:29:48,180 --> 00:29:50,600
+Yes, I think, I think that's fair.
 
 354
-00:35:24,400 --> 00:35:30,960
- which you could not possibly travel to it because we are we are one if you can afford it obviously
+00:29:50,600 --> 00:29:59,920
+And I think that was very much the thing I did with Balticon was I signed up for the panels that I was interested in going to and were in the right time zone.
 
 355
-00:35:30,960 --> 00:35:35,280
- because people have to pay that spend their money on different things because we are one community
+00:29:59,920 --> 00:30:07,380
+And then I didn't really think I was attending Balticon, but I got to go to some cool panels, which is the way I was thinking about it.
 
 356
-00:35:35,280 --> 00:35:41,440
- and and having the membership every year and voting in site selection and the hughos and being
+00:30:07,380 --> 00:30:20,560
+But I think if there was going to be a convention I usually attend happening virtually, I would be taking that as a I will block the time out and do this as if I am at the convention.
 
 357
-00:35:41,440 --> 00:35:46,560
- part of the world con community is a bigger thing than any one world con and you understand that
+00:30:20,560 --> 00:30:30,780
+And the next convention for which that happens is probably going to be the Virtual UK Games Expo, which is being held in mid-August.
 
 358
-00:35:46,560 --> 00:35:51,040
- sometimes the world con will go to places that you cannot possibly get to don't go where i can't
+00:30:30,780 --> 00:30:39,900
+They have cancelled the physical one and they are holding a virtual one and I will be thoroughly and enthusiastically attending.
 
 359
-00:35:51,040 --> 00:35:58,080
- follow yeah like that i do by supporting memberships to the world con every year for exactly those
+00:30:39,900 --> 00:30:42,540
+Oh, how much does it cost and what are its dates?
 
 360
-00:35:58,080 --> 00:36:03,840
- reasons the reason i bought the cons unit one very late is because i thought i had voted
+00:30:42,540 --> 00:30:50,320
+So it's the 21st of August to the 23rd of August.
 
 361
-00:36:03,840 --> 00:36:10,080
- in site selection at sam house a but i can find no evidence that this thought was actually based in
+00:30:50,320 --> 00:30:52,120
+I have found the part on the website.
 
 362
-00:36:10,080 --> 00:36:16,160
- fact or anything approaching evidence so um having reluctantly conceded i might not have done
+00:30:52,120 --> 00:30:57,480
+We've decided to make Virtual UK Expo freely available to anyone who wants to join in.
 
 363
-00:36:16,160 --> 00:36:22,800
- that i eventually bought a supporting membership um but yes usually i vote in site selection and
+00:30:57,480 --> 00:31:01,060
+So there are no entry tickets, but there will be the option to donate.
 
 364
-00:36:22,800 --> 00:36:28,320
- that gets me my supporting membership um without me having to do anything else but this time it does
+00:31:01,060 --> 00:31:09,040
+And some activities such as role playing games and tournaments will still require individual tickets and will attract a small fee in order to participate.
 
 365
-00:36:28,320 --> 00:36:34,960
- not appear to have worked which is probably my own stupid fault it's true that sounds so i sound
+00:31:09,540 --> 00:31:16,220
+So free to attend the sort of show floor, but perhaps small amounts of money to attend some of the events happening.
 
 366
-00:36:34,960 --> 00:36:40,000
- overly obsessed with free stuff at this point i have bought quite a lot of supporting memberships
+00:31:16,220 --> 00:31:19,780
+They're using Twitch, Discord, Zoom, YouTube.
 
 367
-00:36:40,000 --> 00:36:45,840
- in various conventions and world cons in the past i don't know why i never got around to buying one
+00:31:19,780 --> 00:31:24,500
+It's being sponsored by Pezo and Weyland Games and Warhammer and Catan.
 
 368
-00:36:46,320 --> 00:36:51,680
- for cons eland i think it is now clear that the that the hugo that putting your things in the
+00:31:24,500 --> 00:31:26,480
+So big sponsors.
 
 369
-00:36:51,680 --> 00:36:58,960
- hugo but voting pack does encourage people to pay attention to them and maybe vote for them and
+00:31:26,820 --> 00:31:42,140
+I had not heard of UK Online Games Expo and because gaming conventions are one of the things that I very, very much enjoy, but have had to decide are a piece of life that is too much for me.
 
 370
-00:36:58,960 --> 00:37:04,240
- certainly increases the chance that they will win the hugo but probably is also quite good advertising
+00:31:42,140 --> 00:31:46,320
+You know, I can't manage to squeeze them into my life.
 
 371
-00:37:04,240 --> 00:37:13,760
- for things generally i worry slightly about the tendency for people to buy a by hug by world
+00:31:46,320 --> 00:31:52,680
+I'm actually extremely excited about the idea of a virtual one and I might well come along to that.
 
 372
-00:37:13,760 --> 00:37:20,640
- con memberships just for the hugo pack because it's not quite that's what gave us the sad puppies
+00:31:52,680 --> 00:31:53,760
+So that's quite exciting.
 
 373
-00:37:20,640 --> 00:37:27,600
- but that's what gives us a group of people who are interested in the world con only for
+00:31:53,900 --> 00:32:06,660
+It's going to be very interesting to see how some of the tournaments are run because Asmodee, which is one of the big, big board game companies in the world, has been clamping down on methods to virtually play their games in recent weeks.
 
 374
-00:37:27,600 --> 00:37:34,480
- what it can provide as a reading service and and that seems a bit of a shame yes i don't want to
+00:32:07,000 --> 00:32:18,000
+And it will be interesting to see how you run a tournament for a game that has no official digital client and the parent company of which has been strongly discouraging online play.
 
 375
-00:37:34,480 --> 00:37:39,600
- suggest that the only reason to support the world con is the hugo voter packet but obviously the hugo
+00:32:18,000 --> 00:32:22,300
+So I don't know whether those will actually happen or what they will look like if they do.
 
 376
-00:37:39,600 --> 00:37:48,960
- voter packet is a pretty fantastic perk that one gets if one is in that community and i will say that
+00:32:22,300 --> 00:32:23,140
+But, you know.
 
 377
-00:37:48,960 --> 00:37:56,240
- i have oftentimes used the hugo voter packet as a way to try to encourage friends who are perhaps
+00:32:23,140 --> 00:32:24,420
+Which games are Asmodee?
 
 378
-00:37:56,240 --> 00:38:02,400
- less in the world con fandom to support the world con and maybe bring them slightly more into the
+00:32:24,420 --> 00:32:26,880
+What games are they famous for, John?
 
 379
-00:38:02,400 --> 00:38:11,120
- fandom which is i think also a kind of good carrot to use if that makes sense it's true i also feel
+00:32:27,880 --> 00:32:32,300
+So they do anything with the Arkham Horror branding is Asmodee.
 
 380
-00:38:11,120 --> 00:38:19,040
- that i am sufficiently embedded in world con fandom and have given quite a lot of my effort in
+00:32:32,300 --> 00:32:37,160
+Anything with the Star Wars branding is Asmodee, unless it's Hasbro.
 
 381
-00:38:19,040 --> 00:38:26,080
- kind to world cons in the past but i don't feel i always need to support them with my money that's
+00:32:37,160 --> 00:32:40,540
+But there aren't any tournaments for Hasbro games.
 
 382
-00:38:26,080 --> 00:38:32,880
- fair for those who don't know liz has deputy department headed or sorry no liz has deputy division
+00:32:40,540 --> 00:32:46,360
+Anything with Legends of the Five Rings branding, Game of Thrones branding.
 
 383
-00:38:32,880 --> 00:38:39,040
- headed at world cons in the past a job which is very difficult allison has also deputy division
+00:32:46,360 --> 00:32:48,860
+Catan is Asmodee.
 
 384
-00:38:39,040 --> 00:38:44,480
- headed in the past a job which was very difficult and i have also deputy division headed in the past
+00:32:50,160 --> 00:32:56,180
+Like, if it's not Hasbro and it's not Wizards of the Coast, it's probably Asmodee.
 
 385
-00:38:44,480 --> 00:38:51,760
- a job which was very difficult so um we are all speaking as deeply entrenched members of world con
+00:32:56,180 --> 00:32:57,720
+It's basically how it breaks down.
 
 386
-00:38:51,760 --> 00:38:57,200
- fandom who have never been quite daft enough to rise to the position of full division head
+00:32:57,720 --> 00:33:04,280
+Ticket to Ride, Pandemic, Carcassonne, Small World, Mysterium.
 
 387
-00:38:57,200 --> 00:39:02,080
- which would be insane this is where allison is like i was division head of something and i'm like oh
+00:33:04,280 --> 00:33:10,000
+I'm not sure they originally developed all of those, but they've sort of swallowed up some smaller companies at this point.
 
 388
-00:39:02,080 --> 00:39:13,120
- no why no no i've been area head i was area head at 1995 and 2005 and i was a ddh at 2014 and have
+00:33:10,000 --> 00:33:14,800
+So essentially, huge swathes of games are now Asmodee.
 
 389
-00:39:13,120 --> 00:39:20,880
- no further intention have no ambitions in that direction at all yes the only one of us who
+00:33:15,100 --> 00:33:19,180
+They've been eating companies and then they recently got sold to a venture capital company.
 
 390
-00:39:20,880 --> 00:39:26,880
- will ever chair a world con is of course liz i've been going down in responsibility i've gone from
+00:33:19,180 --> 00:33:22,580
+And, you know, capitalism is great, obviously.
 
 391
-00:39:26,880 --> 00:39:33,120
- deputy division head to area head to person who hangs around a bit because they know how the
+00:33:22,580 --> 00:33:26,880
+You wouldn't hear a word against it, but yeah, slightly sad.
 
 392
-00:39:33,120 --> 00:39:38,240
- programming database works so clearly my next role will be just hanging around for no reason whatsoever
+00:33:26,880 --> 00:33:30,980
+Oh, so they're basically the electronic arts of board games.
 
 393
-00:39:38,240 --> 00:39:44,320
- excellent i think i should say that it isn't a progress so i have been i did area head jobs
+00:33:30,980 --> 00:33:36,920
+Oh, jeez, that is a particularly good comparison, which makes me very, very sad, Alison.
 
 394
-00:39:44,320 --> 00:39:52,560
- two uk world hogs and then a ddh job but at other world cons i have also taken quite dull staff roles
+00:33:36,920 --> 00:33:44,680
+So essentially, the bit where you're starting to spend too much money on Arkham Horror, you have no idea how that's going for you.
 
 395
-00:39:52,560 --> 00:39:58,320
- like for example the person whose job it was to inject jokes into the newsletter and that sort of
+00:33:45,020 --> 00:33:47,140
+Right, let's move on.
 
 396
-00:39:58,320 --> 00:40:00,240
- thing that's a pretty vital role
+00:33:47,140 --> 00:33:58,940
+We should talk about the Hugo Voter Packet on the subject of things which are terrific value.
 
 397
-00:40:00,240 --> 00:40:10,640
- shall we move on staying sane in the apocalypse aka allison attempts to bring the entire world
+00:33:58,940 --> 00:34:04,980
+I signed up for a supporting membership to Cod Zealand after the last episode of Octothorpe,
 
 398
-00:40:10,640 --> 00:40:15,280
- to her house so what have i done i've run some more to do parties one of the exciting things that
+00:34:04,980 --> 00:34:08,340
+and I have downloaded my Hugo Voter Packet.
 
 399
-00:40:15,280 --> 00:40:22,880
- happened this month is that facebook um included a checkbox on events for this event is happening
+00:34:08,340 --> 00:34:11,740
+Alison and Liz, have you downloaded Hugo Voter Packets?
 
 400
-00:40:22,880 --> 00:40:29,120
- online which has stopped the repeated messages that i and all my attendees were getting saying
+00:34:12,020 --> 00:34:15,620
+I have, but it took me so long to download my Hugo Voter Packet, which is enormous.
 
 401
-00:40:29,120 --> 00:40:33,520
- are you really going to an event with 50 people don't you know that that's not allowed under the
+00:34:15,620 --> 00:34:19,780
+I had to have a little lie down after that, so I haven't really looked at it very much.
 
 402
-00:40:33,520 --> 00:40:38,560
- lockdown rules so now it has a little checkbox where you can say my event is happening online
+00:34:19,780 --> 00:34:24,820
+But you have told me that it has the whole of The Wicked and the Divine in it, and I am very excited about that.
 
 403
-00:40:38,560 --> 00:40:43,840
- but being facebook i slightly worry that what zuckerberg is doing is trying to because now i get
+00:34:24,820 --> 00:34:28,460
+Because The Wicked and the Divine is an excellent graphic novel that everyone should read.
 
 404
-00:40:43,840 --> 00:40:48,240
- a lot of advertising from facebook about how wouldn't i be rather using facebook's social media
+00:34:29,140 --> 00:34:36,600
+Yes, it has the entire of Wickediv, The Wicked and the Divine, and it also has the entire of Monstrous and the entire of Paper Girls in it.
 
 405
-00:40:48,240 --> 00:40:52,320
- facebook's video conferencing tools to which the arts reason though i am still using a combination
+00:34:37,260 --> 00:34:39,900
+So all of the back issues for those comics are available.
 
 406
-00:40:52,320 --> 00:40:56,800
- of zoom and breakout rooms because i've not yet found anything better but i could be persuaded into
+00:34:39,900 --> 00:34:41,780
+And I think Liz is particularly excited.
 
 407
-00:40:56,800 --> 00:41:04,080
- discord instead and yes i'm running big resumes i'm running small zooms i'm i've not gone into
+00:34:42,580 --> 00:34:48,660
+Well, I have already read all of Wickediv as well, so I do not need that from my Voter Packet.
 
 408
-00:41:04,080 --> 00:41:09,040
- the enormous i kind of think once you've got about 20 or 30 people that's probably enough for
+00:34:48,660 --> 00:34:55,080
+I basically haven't signed up to Cod Zealand yet, but I am considering signing up for a supporting membership.
 
 409
-00:41:09,040 --> 00:41:13,280
- for me to have a fantastic time and there's an extent to which i don't necessarily care about
+00:34:55,080 --> 00:35:01,780
+Basically, I will sign up for a supporting membership in a very mercenary way if the amount of stuff I haven't read,
 
 410
-00:41:13,280 --> 00:41:20,880
- anybody else and i have bought a VR rig that's why i bought an ukulex quest i might my child stopped
+00:35:01,780 --> 00:35:05,040
+which is in the Voter Packet, makes it seem like a worthwhile proposition,
 
 411
-00:41:20,880 --> 00:41:28,320
- working for me on the completely spurious excuse that she was studying for her finals and therefore
+00:35:05,400 --> 00:35:09,600
+and then I basically get to vote in the Hugos as a bonus.
 
 412
-00:41:28,320 --> 00:41:33,200
- did not have any time to make badges for minimum wage they'll notice that she does have time to run a
+00:35:09,600 --> 00:35:16,000
+Okay, I'm going to put my grumpy old fart cap on now and go,
 
 413
-00:41:33,200 --> 00:41:38,240
- turnip empire on animal crossing but you know people make their own priorities i mean to be
+00:35:16,000 --> 00:35:23,400
+I believe in the Worldcon community, and I think that it is worth buying a supporting membership to the Worldcon each year,
 
 414
-00:41:38,240 --> 00:41:42,320
- fair allison you're benefiting from the i was about to say i am benefiting from the truth
+00:35:23,400 --> 00:35:26,640
+even for years in which you could not possibly travel to it,
 
 415
-00:41:42,320 --> 00:41:45,840
- from the turnip empire but obviously you're benefiting from the vegetables
+00:35:26,640 --> 00:35:31,140
+because we are one, if you can afford it, obviously,
 
 416
-00:41:45,840 --> 00:41:54,800
- all right that's it stop the podcast episode seven were peaked there's nowhere down there
+00:35:31,140 --> 00:35:33,480
+because people have to spend their money on different things,
 
 417
-00:41:54,800 --> 00:42:01,920
- nowhere but downhill from here right um so instead i basically had to do all the minimum wage batch
+00:35:33,480 --> 00:35:35,300
+because we are one community,
 
 418
-00:42:01,920 --> 00:42:05,840
- making it shipping work last month and at the end of the month i looked at what i thought i would
+00:35:35,300 --> 00:35:38,000
+and having the membership every year,
 
 419
-00:42:05,840 --> 00:42:11,680
- have paid for the number of hours i had spent doing it and i bought an ukulex quest um and also
+00:35:38,000 --> 00:35:40,560
+and voting in site selection and the Hugos,
 
 420
-00:42:11,680 --> 00:42:17,120
- because i i had said when i decided to buy nothing that i would spend my money on experiences rather
+00:35:40,560 --> 00:35:45,840
+and being part of the Worldcon community is a bigger thing than any one Worldcon,
 
 421
-00:42:17,120 --> 00:42:23,200
- than things and if i still can't get out of my house to do anything then clearly sticking a headset
+00:35:45,840 --> 00:35:49,960
+and you understand that sometimes the Worldcon will go to places that you cannot possibly get to.
 
 422
-00:42:23,200 --> 00:42:32,080
- on and and going and swimming with dolphins or or um playing some vr game is is as close as i can
+00:35:49,960 --> 00:35:51,620
+Don't go where I can't follow!
 
 423
-00:42:32,080 --> 00:42:37,440
- get to new experiences and they are new experiences it was like utterly science fictional it was
+00:35:51,620 --> 00:35:53,000
+Yeah, like that.
 
 424
-00:42:37,440 --> 00:42:42,240
- completely sense of wonder for me now i mean i i've obviously used some vr stuff before but
+00:35:53,000 --> 00:35:58,640
+I do buy supporting memberships to the Worldcon every year for exactly those reasons.
 
 425
-00:42:42,240 --> 00:42:48,160
- there's something about the fact it doesn't use wires so it's just wherever you happen to be so
+00:35:58,640 --> 00:36:05,600
+The reason I bought the Con Zealand one very late is because I thought I had voted in site selection at San Jose,
 
 426
-00:42:48,160 --> 00:42:53,520
- you can take a tiny patch of your house from which you've managed to clear clutter and then you put
+00:36:05,600 --> 00:36:12,800
+but I can find no evidence that this thought was actually based in facts or anything approaching evidence.
 
 427
-00:42:53,520 --> 00:42:59,040
- this headset on it suddenly or in a gorgeous geodesic dome that has been tastefully furnished by somebody
+00:36:13,100 --> 00:36:18,760
+So having reluctantly conceded I might not have done that, I eventually bought a supporting membership.
 
 428
-00:42:59,040 --> 00:43:05,840
- else and in you go oh i can see how we might all be doing this um and um it's equal parts of oh my
+00:36:18,760 --> 00:36:27,160
+But yes, usually I vote in site selection, and that gets me my supporting membership without me having to do anything else.
 
 429
-00:43:05,840 --> 00:43:11,520
- god this is a really futuristic feeling and oh my god the world as i know it is going to collapse i
+00:36:27,160 --> 00:36:31,960
+But this time it does not appear to have worked, which is probably my own stupid fault.
 
 430
-00:43:11,520 --> 00:43:20,560
- look at what has happened between when i bought my nintendo game and watch in 1980 and the oculus
+00:36:32,660 --> 00:36:37,980
+It's true. I sound overly obsessed with free stuff at this point.
 
 431
-00:43:20,560 --> 00:43:27,440
- quest and i extrapolate forward and i'm like we are going to get to the point where real life
+00:36:37,980 --> 00:36:43,900
+I have bought quite a lot of supporting memberships in various conventions and Worldcons in the past.
 
 432
-00:43:27,440 --> 00:43:34,640
- does not necessarily have a lot to offer that is better than these systems it is the opinion of
+00:36:43,900 --> 00:36:47,180
+I don't know why I never got round to buying one for Con Zealand.
 
 433
-00:43:34,640 --> 00:43:41,440
- the octa thought podcast that we should all live in small pods plugged into some sort of central
+00:36:47,180 --> 00:36:52,940
+I think it is now clear that putting your things in the Hugo but voting pack
 
 434
-00:43:41,440 --> 00:43:48,560
- computer where we socialize without risk of pandemic and is this how the matrix starts allison
+00:36:52,940 --> 00:37:01,060
+does encourage people to pay attention to them and maybe vote for them and certainly increases the chance that they will win the Hugo,
 
 435
-00:43:48,560 --> 00:43:55,200
- is this how the matrix starts that was literally where i got to i was like i can see a world where
+00:37:01,060 --> 00:37:06,460
+but probably is also quite good advertising for things generally.
 
 436
-00:43:55,200 --> 00:44:02,240
- actually people do this in enormous amount and that's the matrix yeah and that was kind of weird
+00:37:06,860 --> 00:37:17,080
+I worry slightly about the tendency for people to buy Worldcon memberships just for the Hugo pack,
 
 437
-00:44:02,240 --> 00:44:10,080
- it was a very weird feeling and and and yet when you sort of go well if say facebook's creating
+00:37:17,080 --> 00:37:20,800
+because it's not quite that's what gave us the sad puppies,
 
 438
-00:44:10,080 --> 00:44:14,320
- avatars now and you can see that one of the reasons that facebook's creating avatars is if you want
+00:37:20,800 --> 00:37:26,240
+but that's what gives us a group of people who are interested in the Worldcon
 
 439
-00:44:14,320 --> 00:44:19,680
- to do something that's like second life but works getting people to have realistic consistent
+00:37:26,240 --> 00:37:30,180
+only for what it can provide as a reading service.
 
 440
-00:44:19,680 --> 00:44:25,200
- avatars for themselves is one of the ways in which you make that happen so you go into your virtual
+00:37:30,180 --> 00:37:31,980
+And that seems a bit of a shame.
 
 441
-00:44:25,200 --> 00:44:31,360
- space and you go oh yeah that's john because i recognize his avatar and yes and this is all
+00:37:32,440 --> 00:37:38,100
+Yes, I don't want to suggest that the only reason to support the Worldcon is the Hugo voter packet,
 
 442
-00:44:31,360 --> 00:44:38,320
- quite the weird thing and but but you know when you're saying well we can't actually go to see
+00:37:38,100 --> 00:37:47,040
+but obviously the Hugo voter packet is a pretty fantastic perk that one gets if one is in that community.
 
 443
-00:44:38,320 --> 00:44:43,600
- i still can't see my family and i feel like there's a there's going to be attractions this sort of
+00:37:47,040 --> 00:37:55,420
+And I will say that I have oftentimes used the Hugo voter packet as a way to try to encourage friends
 
 444
-00:44:43,600 --> 00:44:50,640
- thing oh also beat saber is a lot of fun beat saber is is fun beat saber is the only vl game i have
+00:37:55,420 --> 00:38:00,480
+who are perhaps less in the Worldcon fandom to support the Worldcon
 
 445
-00:44:50,640 --> 00:44:56,640
- played and i like rhythm games because they're the only games i'm actually any good at every
+00:38:00,480 --> 00:38:02,860
+and maybe bring them slightly more into the fandom,
 
 446
-00:44:56,640 --> 00:45:00,960
- other game i have to put it on easy mode and die a lot and beat saber is just like yep i'm gonna go
+00:38:02,860 --> 00:38:08,840
+which is, I think, also a kind of good carrot to use, if that makes sense.
 
 447
-00:45:00,960 --> 00:45:08,000
- for this and it's it's fine although hard work so beat saber is great have you played any other vl
+00:38:08,840 --> 00:38:15,560
+It's true. I also feel that I am sufficiently embedded in Worldcon fandom
 
 448
-00:45:08,000 --> 00:45:14,800
- games because do they make and someone should have made this a sort of like matrix crossed with half
+00:38:15,560 --> 00:38:21,880
+and have given quite a lot of my effort in kind to Worldcons in the past,
 
 449
-00:45:14,800 --> 00:45:20,160
- live crossed with inception style game where you can do the matrix and run up walls and
+00:38:21,880 --> 00:38:25,660
+but I don't feel I always need to support them with my money.
 
 450
-00:45:20,160 --> 00:45:26,800
- reshift reality i think my feeling about games beat saber is fine but beat saber feels to me like
+00:38:26,040 --> 00:38:30,480
+That's fair. For those who don't know, Liz has deputy department headed,
 
 451
-00:45:26,800 --> 00:45:33,040
- a tech demo rather than a game i feel like we are so there's a set of games that are coming out now
+00:38:30,480 --> 00:38:35,280
+well, sorry, no, Liz has deputy division headed at Worldcons in the past,
 
 452
-00:45:33,040 --> 00:45:38,080
- that are set at the star wars universe where you get to run around with light saber um but i feel
+00:38:35,280 --> 00:38:37,040
+a job which is very difficult.
 
 453
-00:45:38,080 --> 00:45:44,560
- like we are only at the very beginning of of exploring what you can do with this game space
+00:38:37,040 --> 00:38:41,800
+Alison has also deputy division headed in the past, a job which was very difficult.
 
 454
-00:45:44,560 --> 00:45:53,360
- there is a game called super hot VR which people talk about where you only move the the bad guys
+00:38:41,800 --> 00:38:46,020
+And I have also deputy division headed in the past, a job which was very difficult.
 
 455
-00:45:53,360 --> 00:45:59,920
- only move when you do you're in a kind of weird matrix like environment there and you and there
+00:38:46,460 --> 00:38:52,280
+So we are all speaking as deeply entrenched members of Worldcon fandom
 
 456
-00:45:59,920 --> 00:46:04,320
- is bullet time so as long as you're not moving the bullets aren't moving and if you start to move
+00:38:52,280 --> 00:38:57,240
+who have never been quite daft enough to rise to the position of full division head,
 
 457
-00:46:04,320 --> 00:46:11,600
- then the bullets move and that is quite freaky and it also is quite intense when they talk about
+00:38:57,240 --> 00:38:58,740
+which would be insane.
 
 458
-00:46:11,600 --> 00:46:17,280
- intense VR experiences they mean they mean roller coasters they mean things that set off your balance
+00:38:58,740 --> 00:39:01,540
+This is where Alison is like, I was division head of something.
 
 459
-00:46:17,280 --> 00:46:24,960
- so it's not intense in that way at all but i found it intense in a gaming way i am five foot tall
+00:39:01,540 --> 00:39:03,080
+And I'm like, oh, no, why?
 
 460
-00:46:24,960 --> 00:46:29,360
- and it didn't seem to have any height adjustment so these guys that were coming towards me but
+00:39:03,080 --> 00:39:05,080
+No, no, no. I've been area head.
 
 461
-00:46:29,360 --> 00:46:37,360
- only when i moved were much bigger than i was and that was quite freaky i'm not so i've only played
+00:39:05,420 --> 00:39:09,180
+I was area head at 1995 and 2005.
 
 462
-00:46:37,360 --> 00:46:43,120
- the demo and i'm not saying i won't buy it but it felt like and i've heard other people talking
+00:39:09,180 --> 00:39:14,360
+And I was a DDH at 2014 and have no further intention,
 
 463
-00:46:43,120 --> 00:46:49,280
- about VR is saying that some of the really intense first person shooter games are not working for
+00:39:14,360 --> 00:39:19,320
+have no ambitions in that direction at all.
 
 464
-00:46:49,280 --> 00:46:55,440
- them because it is just all too much so other people really like that sort of stuff but it's just
+00:39:19,320 --> 00:39:23,380
+Yes. The only one of us who will ever chair a Worldcon is, of course, Liz.
 
 465
-00:46:55,440 --> 00:47:00,880
- early days early days for all this stuff and and there is a game called star trek bridge command
+00:39:23,380 --> 00:39:26,060
+I've been going down in responsibility.
 
 466
-00:47:00,880 --> 00:47:06,560
- i think that Ming pointed me at Ming has a headset Ming is in New Zealand Ming and i could play this
+00:39:26,060 --> 00:39:32,480
+I've gone from deputy division head to area head to person who hangs around a bit
 
 467
-00:47:06,560 --> 00:47:10,800
- is a cooperative game where you work with other people on the bridge of the enterprise or some
+00:39:32,480 --> 00:39:34,500
+because they know how the programming database works.
 
 468
-00:47:10,800 --> 00:47:15,840
- some federation starship in order to solve problems and i haven't actually played it yet but but
+00:39:34,500 --> 00:39:38,380
+So clearly my next role will be just hanging around for no reason whatsoever.
 
 469
-00:47:15,840 --> 00:47:20,960
- that's something that feels to me the sort of thing that i am actually looking for which is cooperative
+00:39:38,380 --> 00:39:39,380
+Excellent.
 
 470
-00:47:20,960 --> 00:47:28,160
- games in VR between people who are not located in the same space in the real world
+00:39:39,380 --> 00:39:41,620
+I think I should say that it isn't a progress.
 
 471
-00:47:28,160 --> 00:47:34,240
- for your you know to make up for a thing like ballgame like i like cooperative game gaming generally
+00:39:41,620 --> 00:39:46,880
+So I have been, I did area head jobs at two UK Worldcons and then a DDH job.
 
 472
-00:47:34,240 --> 00:47:38,240
- there's apparently a version of keep talking and nobody explodes which is a game which my family
+00:39:46,880 --> 00:39:52,480
+But at other Worldcons, I have also taken quite dull staff roles,
 
 473
-00:47:38,240 --> 00:47:45,600
- has played endlessly to the death we have absolutely run all the love out all the possible joy out of
+00:39:52,480 --> 00:39:57,480
+like, for example, the person whose job it was to inject jokes into the newsletter
 
 474
-00:47:45,600 --> 00:47:50,000
- this game at this point but apparently there's a VR version of that so that one of you is sitting
+00:39:57,480 --> 00:39:58,780
+and that sort of thing.
 
 475
-00:47:50,000 --> 00:47:57,440
- with headphones and the quest and the the the VR set on with the bomb in front of you and actually
+00:39:58,780 --> 00:40:00,440
+That's a pretty vital role.
 
 476
-00:47:57,440 --> 00:48:03,200
- physically manipulating it and the other people are sitting with the decoding the decoding manual
+00:40:00,440 --> 00:40:07,800
+Shall we move on to staying sane in the apocalypse,
 
 477
-00:48:03,200 --> 00:48:07,440
- trying to tell you what to do um so but i'm not playing that either so i've played a bit of
+00:40:07,800 --> 00:40:11,580
+aka Alison attempts to bring the entire world to her house?
 
 478
-00:48:07,440 --> 00:48:15,040
- beat saber and i've done a few i've done some things like i have done some VR um i have played
+00:40:11,580 --> 00:40:12,720
+So what have I done?
 
 479
-00:48:15,040 --> 00:48:22,000
- the star wars VR game on playstation 4 and it made me feel a little bit
+00:40:12,720 --> 00:40:13,840
+I've run some more Zoom parties.
 
 480
-00:48:22,000 --> 00:48:29,200
- queasy i had to spend some time looking very fixiddly at a planet in the distance in order to
+00:40:13,840 --> 00:40:21,780
+One of the exciting things that happened this month is that Facebook included a checkbox on events
 
 481
-00:48:29,200 --> 00:48:36,800
- avoid feeling very queasy um so i am and but i'm very much looking forward to VR becoming a bigger
+00:40:21,780 --> 00:40:23,600
+for this event is happening online,
 
 482
-00:48:36,800 --> 00:48:43,440
- thing because one of the things i really am finding very difficult about the apocalypse is that i
+00:40:23,600 --> 00:40:28,240
+which has stopped the repeated messages that I and all my attendees were getting,
 
 483
-00:48:43,440 --> 00:48:52,480
- have a weekly roleplay in which we do quite a lot of highly cooperative storytelling and part of the
+00:40:28,240 --> 00:40:31,580
+saying, are you really going to an event with 50 people?
 
 484
-00:48:52,480 --> 00:49:00,400
- problem with zoom and discord and all of these things is that it's very difficult to um pick up
+00:40:31,580 --> 00:40:34,720
+Don't you know that that's not allowed under the lockdown rules?
 
 485
-00:49:00,400 --> 00:49:04,960
- on other people's social cues in a week in a way that means that everyone can join in without
+00:40:34,720 --> 00:40:38,480
+So now it has a little checkbox where you can say my event is happening online.
 
 486
-00:49:04,960 --> 00:49:10,000
- having to sort of go around the room pointing at people saying now it's your turn now it's your turn
+00:40:38,480 --> 00:40:43,460
+But being Facebook, I slightly worry that what Zuckerberg is doing is trying to,
 
 487
-00:49:10,000 --> 00:49:15,120
- because louder voices dominate and quieter voices find it difficult to get a look in
+00:40:43,460 --> 00:40:48,220
+because now I get a lot of advertising from Facebook about how wouldn't I be rather using Facebook's social media,
 
 488
-00:49:15,120 --> 00:49:19,840
- and this can really disrupt the dynamic so i'm very much looking forward to VR as a mechanism
+00:40:48,460 --> 00:40:50,840
+Facebook's video conferencing tools, to which the answer is no.
 
 489
-00:49:19,840 --> 00:49:24,800
- for role playing games because i think i hope that VR will be a better way of doing that that
+00:40:50,840 --> 00:40:55,140
+I am still using a combination of Zoom and breakout rooms because I've not yet found anything better.
 
 490
-00:49:24,800 --> 00:49:30,160
- doesn't fall prey to the same problems that video chatting uh falls prey to so i am sort of
+00:40:55,140 --> 00:40:58,820
+But I could be persuaded into Discord instead.
 
 491
-00:49:30,960 --> 00:49:36,160
- optimistic and hopeful about the potential for VR chatting as a replacement for video chatting
+00:40:58,820 --> 00:41:00,100
+And yes, I'm running big Zooms.
 
 492
-00:49:36,160 --> 00:49:44,080
- but i i don't know what timescale that's a realistic um proposition on 20 years like uh
+00:41:00,100 --> 00:41:01,480
+I'm running small Zooms.
 
 493
-00:49:44,080 --> 00:49:50,960
- like nuclear fusion right it's 20 years away no i think it depends really on how pandemic goes
+00:41:01,480 --> 00:41:04,900
+I've not gone into the enormous.
 
 494
-00:49:50,960 --> 00:49:59,760
- because if we are still here in a year um not really going to the pub then i think at that point
+00:41:04,900 --> 00:41:07,800
+I kind of think once you've got about 20 or 30 people,
 
 495
-00:50:00,320 --> 00:50:04,160
- a lot of this stuff will have happened because there will be so infinitely much money in it
+00:41:07,800 --> 00:41:11,300
+that's probably enough for me to have a fantastic time.
 
 496
-00:50:04,160 --> 00:50:08,800
- i also did see and i've been looking for the link for ages which is why i've been super quiet
+00:41:11,300 --> 00:41:14,080
+And there's an extent to which I don't necessarily care about anybody else.
 
 497
-00:50:08,800 --> 00:50:20,400
- uh someone developed a sort of top down 2d chat room idea where you wander about a 2d space and
+00:41:14,280 --> 00:41:16,220
+And I have bought a VR rig.
 
 498
-00:50:20,400 --> 00:50:25,440
- you can talk through your microphone and people who are closer to you can hear what you're saying
+00:41:16,220 --> 00:41:18,200
+That's why I bought an Oculus Quest.
 
 499
-00:50:25,440 --> 00:50:29,360
- more clearly and people who are further away hear you less clearly and you can wander around
+00:41:18,200 --> 00:41:27,320
+My child stopped working for me on the completely spurious excuse that she was studying for her finals
 
 500
-00:50:29,360 --> 00:50:35,280
- an actual kind of physical space talking and it replicates a bar in 2d and i am looking for the
+00:41:27,320 --> 00:41:31,700
+and therefore did not have any time to make badges for minimum wage.
 
 501
-00:50:35,280 --> 00:50:41,200
- link and the name of this and i cannot find it it's very frustrating uh if i do find i'll put a link
+00:41:31,700 --> 00:41:34,900
+So you'll notice that she does have time to run a turnip empire on Animal Crossing.
 
 502
-00:50:41,200 --> 00:50:48,320
- in the show notes um but so they've got to get there's a problem with all of these systems at the
+00:41:34,900 --> 00:41:37,480
+But, you know, people make their own priorities.
 
 503
-00:50:48,320 --> 00:50:54,720
- moment is that they have to get over the the level of adequacy that we've established now with
+00:41:37,480 --> 00:41:40,720
+I mean, to be fair, Alison, you're benefiting from the...
 
 504
-00:50:54,720 --> 00:50:58,800
- with the zoom in the break out which is clearly not that adequate but it's still
+00:41:40,720 --> 00:41:43,440
+I was about to say you're benefiting from the fruits of her labours.
 
 505
-00:50:58,800 --> 00:51:05,280
- a lot better than a lot of these systems are quite managing yet and the other thing about the
+00:41:43,440 --> 00:41:45,880
+But obviously you're benefiting from the vegetables.
 
 506
-00:51:05,280 --> 00:51:10,800
- VR rig that i was going to say is that although my house is not small really it's got five adults
+00:41:45,880 --> 00:41:51,280
+All right, that's it.
 
 507
-00:51:10,800 --> 00:51:19,440
- in it and i've been and i don't think of myself as the world's greatest introvert but when i put
+00:41:51,280 --> 00:41:52,140
+Stop the podcast.
 
 508
-00:51:19,440 --> 00:51:26,000
- on we don't think of the quest introvert either no you're a terrible introvert Alison yeah indeed
+00:41:52,140 --> 00:41:53,600
+Episode 7, we're peaked.
 
 509
-00:51:26,000 --> 00:51:32,160
- but when i put the quest on i'm alone in a way that i never am in my own house at the moment and i
+00:41:53,600 --> 00:41:54,900
+There's nowhere down...
 
 510
-00:51:32,160 --> 00:51:42,800
- quite like that it's quite isolating and i have been missing feeling as odd in a type of self-isolation
+00:41:54,900 --> 00:41:56,060
+Nowhere but downhill from here.
 
 511
-00:51:42,800 --> 00:51:52,320
- i have been missing feeling actual time alone to do things i want to do in comfortable spaces because
+00:41:56,060 --> 00:41:57,500
+Right.
 
 512
-00:51:52,320 --> 00:51:56,720
- my house is not so i've made that many comfortable spaces and they're awful at the name of the service
+00:41:57,500 --> 00:42:03,780
+So instead, I basically had to do all the minimum wage badge making and shipping work last month.
 
 513
-00:51:56,720 --> 00:52:03,680
- i was thinking of is Calla and i will put a link in the show notes it is C-A-L-L-A is this a thing
+00:42:03,780 --> 00:42:08,460
+And at the end of the month, I looked at what I thought I would have paid for the number of hours I had spent doing it.
 
 514
-00:52:03,680 --> 00:52:10,720
- you're planning to use on your virtual guff trip Alison i am hoping that i will be able to do some
+00:42:08,640 --> 00:42:10,660
+And I bought an Oculus Quest.
 
 515
-00:52:10,720 --> 00:52:22,000
- of my tours virtually i have a really whizzy idea that i am going to do VR stuff whilst streaming
+00:42:11,080 --> 00:42:17,840
+And also because I had said when I decided to buy nothing that I would spend my money on experiences rather than things.
 
 516
-00:52:22,000 --> 00:52:27,520
- whilst streaming it to twitch streaming both the VR stuff and me using using twitch streaming tools
+00:42:17,840 --> 00:42:33,620
+And if I still can't get out of my house to do anything, then clearly sticking a headset on and going and swimming with dolphins or playing some VR game is as close as I can get to new experiences.
 
 517
-00:52:27,520 --> 00:52:32,000
- which i already use a little bit and so that people will be able to come along and watch me
+00:42:33,620 --> 00:42:34,780
+And they are new experiences.
 
 518
-00:52:32,720 --> 00:52:38,080
- swimming swim off the great barrier reefing real time or something and that will be hilarious
+00:42:34,780 --> 00:42:36,940
+It was like utterly science fictional.
 
 519
-00:52:38,080 --> 00:52:48,960
- please get in touch for recommendations for ways we can support and learn about the black
+00:42:36,940 --> 00:42:39,380
+It was completely sensor wonder for me.
 
 520
-00:52:48,960 --> 00:52:54,800
- lives matter movement and also b-a-m-e people in the UK and in the community in the UK in general
+00:42:39,380 --> 00:42:44,960
+Now, I mean, I'd obviously used some VR stuff before, but there's something about the fact that it doesn't use wires.
 
 521
-00:52:54,800 --> 00:52:59,360
- and please also write in with your experiences of virtual conventions we would love to hear from
+00:42:45,280 --> 00:42:48,140
+So it's just wherever you happen to be.
 
 522
-00:52:59,360 --> 00:53:06,640
- you thank you to Stow shirts for supporting our podcast this week that was the seventh episode
+00:42:48,140 --> 00:42:59,640
+So you can take a tiny patch of your house from which you've managed to clear clutter and then you put this headset on and suddenly you're in a gorgeous geodesic dome that has been tastefully furnished by somebody else.
 
 523
-00:53:06,640 --> 00:53:13,120
- of the octa thought podcast so it's goodbye from me and it's goodbye from me it's goodbye from me
+00:42:59,640 --> 00:43:03,160
+And you go, oh, I can see how we might all be doing this.
 
 524
-00:53:13,120 --> 00:53:19,120
- the theme music for this episode was fanfare for space by kevin mccloud at incompatec.com
+00:43:03,840 --> 00:43:07,880
+And it's equal parts of, oh, my God, this is a really futuristic feeling.
 
 525
-00:53:19,120 --> 00:53:29,200
- used under a creative commons attribution 3.0 license
+00:43:07,880 --> 00:43:11,400
+And, oh, my God, the world as I know it is going to collapse.
 
 526
-00:53:29,360 --> 00:53:37,920
- is this the point where i can say that lillian and christina are hoping to do a podcast and
+00:43:11,400 --> 00:43:21,240
+I look at what has happened between when I bought my Nintendo Game & Watch in 1980 and the Oculus Quest.
 
 527
-00:53:37,920 --> 00:53:42,160
- when they first told me about this or rather when lillian first told me about this i said
+00:43:21,240 --> 00:43:32,800
+And I extrapolate forward and I'm like, we are going to get to the point where real life does not necessarily have a lot to offer that is better than these systems.
 
 528
-00:53:42,160 --> 00:53:48,800
- but you'll have to find someone to do all the work and they have now found in sorenson i believe
+00:43:32,960 --> 00:43:38,080
+It is the opinion of the Octothorpe podcast that we should all live in.
 
 529
-00:53:48,800 --> 00:53:54,560
- so he is investigating other podcasts which is how he's paying attention to john's microphone
+00:43:38,080 --> 00:43:45,320
+Small pods plugged into some sort of central computer where we socialise without risk of pandemic.
 
 530
-00:53:54,560 --> 00:54:00,160
- so i'm very much looking forward i am waiting with baited breath for that podcast to appear
+00:43:45,320 --> 00:43:48,260
+And is this how the Matrix starts, Alison?
 
 531
-00:54:00,160 --> 00:54:07,360
- in my podcast feed i will be listening avidly yes no no pressure obviously the fact that we've
+00:43:48,260 --> 00:43:51,040
+Is this how the Matrix starts?
 
 532
-00:54:07,360 --> 00:54:13,360
- announced it doesn't have any ramifications for whether it has to happen uh and allison's decision
+00:43:51,040 --> 00:43:53,280
+That was literally where I got to.
 
 533
-00:54:13,360 --> 00:54:26,000
- to do that was entirely her own uh well i mean i think you know one of the things i always liked
+00:43:53,280 --> 00:43:57,300
+I was like, I can see a world where actually people do this an enormous amount.
 
 534
-00:54:26,000 --> 00:54:32,800
- about fanzines back in the day was that they could be relentless pis takes you know a little bit
+00:43:57,300 --> 00:43:59,040
+And that's the Matrix.
 
 535
-00:54:32,800 --> 00:54:38,320
- edgy about the the community and the things the community we're getting up to
+00:43:59,040 --> 00:44:00,280
+Yeah.
 
 536
-00:54:40,000 --> 00:54:43,600
- and i feel like we should capture some of that flavor in apocos
+00:44:00,280 --> 00:44:02,340
+And that was kind of weird.
 
 537
-00:54:43,600 --> 00:54:50,720
- more antagonism um i do feel if i was going to pick some adjectives to describe our podcast
+00:44:02,340 --> 00:44:04,040
+That was a very weird feeling.
 
 538
-00:54:50,720 --> 00:55:00,960
- edgy would be quite a long way down the list oh okay now i maybe don't mean edgy are you
+00:44:04,040 --> 00:44:24,040
+And yet, when you sort of go, well, if, say, Facebook's creating avatars now, and you can see that one of the reasons that Facebook's creating avatars is if you want to do something that's like Second Life but works, getting people to have realistic, consistent avatars for themselves is one of the ways in which you make that happen.
 
 539
-00:55:00,960 --> 00:55:07,200
- are you indicating that you think three middle class white people during a podcast are not at the
+00:44:24,160 --> 00:44:25,580
+So you go into your virtual space.
 
 540
-00:55:07,200 --> 00:55:12,800
- forefront of edge we talk about things we like liz what could be more edgy than this
+00:44:25,580 --> 00:44:29,060
+And you go, oh, yeah, that's John, because I recognise his avatar.
 
 541
-00:55:12,800 --> 00:55:18,560
- my 19 year old son did call me an edgelord this week
+00:44:29,060 --> 00:44:34,180
+And this is all quite the weird thing.
 
 542
-00:55:18,560 --> 00:55:26,960
- right well we're going to come back to that later 100 and i was like what do you mean by edgelord
+00:44:34,180 --> 00:44:39,920
+But, you know, when you're saying, well, we can't actually go to see, I still can't see my family.
 
 543
-00:55:26,960 --> 00:55:33,760
- dear and he explained and i said and i said you mean like kylo ren and he said yes oh dear
+00:44:40,400 --> 00:44:44,100
+And I feel like there's going to be attractions to this sort of thing.
 
 544
-00:55:33,760 --> 00:55:40,800
- oh allison i i i said that that's that's unfair i said what i actually said was that's unfair
+00:44:44,100 --> 00:44:46,360
+Also, Beat Saber is a lot of fun.
 
 545
-00:55:40,800 --> 00:55:44,400
- quash quash quash quash quash quash quash quash quash but we'll come back to that
+00:44:46,360 --> 00:44:48,180
+Beat Saber is fun.
 
 546
-00:55:44,400 --> 00:55:50,080
- i would like to reassure people that allison was miming uh destroying a control console with a
+00:44:48,180 --> 00:44:51,280
+Beat Saber is the only VR game I have played.
 
 547
-00:55:50,080 --> 00:55:56,640
- lightsaber and not miming beating her children uh that's important to note the context of the video
+00:44:51,940 --> 00:44:56,500
+And I like rhythm games because they're the only games I'm actually any good at.
 
 548
-00:55:56,640 --> 00:56:03,280
- was uh key in that particular direction um before we descend the noise is a terrible
+00:44:56,500 --> 00:44:59,480
+Every other game, I have to put it on easy mode and die a lot.
 
 549
-00:56:03,280 --> 00:56:08,880
- yeah everyone knows it goes warm exactly
+00:44:59,480 --> 00:45:01,540
+And Beat Saber is just like, yeah, I'm going to go for this.
+
+550
+00:45:01,540 --> 00:45:03,340
+And it's fine, although hard work.
+
+551
+00:45:03,340 --> 00:45:04,840
+So Beat Saber is great.
+
+552
+00:45:05,900 --> 00:45:08,660
+Have you played any other VR games?
+
+553
+00:45:08,660 --> 00:45:22,120
+Because do they make, and someone should have made this, a sort of like Matrix crossed with Half-Life, crossed with Inception style game where you can do the Matrix and run up walls and re-shift reality?
+
+554
+00:45:22,120 --> 00:45:28,820
+I think my feeling about games, Beat Saber is fine, but Beat Saber feels to me like a tech demo rather than a game.
+
+555
+00:45:29,140 --> 00:45:36,280
+I feel like we are, so there's a set of games that are coming out now that are set of the Star Wars universe where you get to run around with a lightsaber.
+
+556
+00:45:36,280 --> 00:45:44,800
+But I feel like we are only at the very beginning of exploring what you can do with this game space.
+
+557
+00:45:44,800 --> 00:45:54,840
+There is a game called Superhot VR, which people talk about where you only move, the bad guys only move when you do.
+
+558
+00:45:54,980 --> 00:46:00,900
+You're in a kind of weird Matrix-like environment there, and there is bullet time.
+
+559
+00:46:00,900 --> 00:46:03,580
+So as long as you're not moving, the bullets aren't moving.
+
+560
+00:46:03,580 --> 00:46:05,540
+And if you start to move, then the bullets move.
+
+561
+00:46:05,540 --> 00:46:08,240
+And that is quite freaky.
+
+562
+00:46:08,240 --> 00:46:11,240
+And it also is quite intense.
+
+563
+00:46:11,240 --> 00:46:14,860
+When they talk about intense VR experiences, they mean roller coasters.
+
+564
+00:46:14,860 --> 00:46:17,480
+They mean things that set off your balance.
+
+565
+00:46:17,480 --> 00:46:20,680
+So it's not intense in that way at all.
+
+566
+00:46:20,680 --> 00:46:23,220
+But I found it intense in a gaming way.
+
+567
+00:46:23,820 --> 00:46:26,940
+I am five foot tall, and it didn't seem to have any height adjustment.
+
+568
+00:46:26,940 --> 00:46:32,020
+So these guys that were coming towards me, but only when I moved, were much bigger than I was.
+
+569
+00:46:32,020 --> 00:46:36,560
+And that was quite freaky.
+
+570
+00:46:36,560 --> 00:46:39,620
+I've only played the demo, and I'm not saying I won't buy it.
+
+571
+00:46:39,620 --> 00:46:52,160
+But it felt like, and I've heard other people talking about VR and saying that some of the really intense first-person shooter games are not working for them because it is just all too much.
+
+572
+00:46:52,760 --> 00:46:54,560
+So other people really like that sort of stuff.
+
+573
+00:46:54,560 --> 00:46:56,300
+But it's just early days.
+
+574
+00:46:56,300 --> 00:46:57,340
+Early days for all this stuff.
+
+575
+00:46:57,340 --> 00:47:02,640
+And there is a game called Star Trek Bridge Command, I think, that Ming pointed me at.
+
+576
+00:47:02,640 --> 00:47:03,520
+Ming has a headset.
+
+577
+00:47:03,520 --> 00:47:05,160
+Ming is in New Zealand.
+
+578
+00:47:05,160 --> 00:47:06,600
+Ming and I could play.
+
+579
+00:47:06,600 --> 00:47:13,660
+This is a cooperative game where you work with other people on the bridge of the Enterprise or some Federation starship in order to solve problems.
+
+580
+00:47:13,780 --> 00:47:15,520
+And I haven't actually played it yet.
+
+581
+00:47:15,520 --> 00:47:28,460
+But that's something that feels to me the sort of thing that I am actually looking for, which is cooperative games in VR between people who are not located in the same space in the real world.
+
+582
+00:47:29,500 --> 00:47:31,500
+To make up for a thing like board game.
+
+583
+00:47:31,500 --> 00:47:34,120
+I like cooperative gaming generally.
+
+584
+00:47:34,120 --> 00:47:41,180
+There's apparently a version of Keep Talking and Nobody Explodes, which is a game which my family has played endlessly to the death.
+
+585
+00:47:41,300 --> 00:47:46,820
+We have absolutely wrung all the love out, all the possible joy out of this game at this point.
+
+586
+00:47:46,820 --> 00:47:48,500
+But apparently there's a VR version of that.
+
+587
+00:47:48,500 --> 00:47:58,980
+So that one of you is sitting with headphones and the quest and the VR set on with the bomb in front of you and actually physically manipulating it.
+
+588
+00:47:59,040 --> 00:48:04,840
+And the other people are sitting with the decoding manual trying to tell you what to do.
+
+589
+00:48:04,840 --> 00:48:06,880
+But I have not played that either.
+
+590
+00:48:06,880 --> 00:48:09,000
+So I've played a bit of Beat Saber and I've done a few.
+
+591
+00:48:09,000 --> 00:48:10,040
+I've done some things like.
+
+592
+00:48:10,040 --> 00:48:12,160
+I have done some VR.
+
+593
+00:48:12,160 --> 00:48:18,420
+I have played the Star Wars VR game on PlayStation 4.
+
+594
+00:48:18,420 --> 00:48:22,620
+And it made me feel a little bit queasy.
+
+595
+00:48:22,620 --> 00:48:31,120
+I had to spend some time looking very fixedly at a planet in the distance in order to avoid feeling very queasy.
+
+596
+00:48:31,120 --> 00:48:32,640
+So I am.
+
+597
+00:48:32,640 --> 00:48:37,300
+But I'm very much looking forward to VR becoming a bigger thing.
+
+598
+00:48:37,300 --> 00:48:51,260
+Because one of the things I really am finding very difficult about the apocalypse is that I have a weekly role play in which we do quite a lot of highly cooperative storytelling.
+
+599
+00:48:51,580 --> 00:49:08,340
+And part of the problem with Zoom and Discord and all of these things is that it's very difficult to pick up on other people's social queues in a way that means that everyone can join in without having to sort of go round the room pointing at people saying,
+
+600
+00:49:08,340 --> 00:49:09,240
+Now it's your turn.
+
+601
+00:49:09,240 --> 00:49:09,980
+Now it's your turn.
+
+602
+00:49:09,980 --> 00:49:15,400
+Because louder voices dominate and quieter voices find it difficult to get a look in.
+
+603
+00:49:15,400 --> 00:49:17,280
+And this can really disrupt the dynamic.
+
+604
+00:49:17,340 --> 00:49:21,060
+So I'm very much looking forward to VR as a mechanism for role playing games.
+
+605
+00:49:21,060 --> 00:49:29,340
+Because I think, I hope, that VR will be a better way of doing that that doesn't fall prey to the same problems that video chatting falls prey to.
+
+606
+00:49:29,340 --> 00:49:36,320
+So I am sort of optimistic and hopeful about the potential for VR chatting as a replacement for video chatting.
+
+607
+00:49:36,640 --> 00:49:42,000
+But I don't know what time scale that's a realistic proposition on.
+
+608
+00:49:42,000 --> 00:49:43,340
+20 years.
+
+609
+00:49:43,340 --> 00:49:45,360
+Like nuclear fusion, right?
+
+610
+00:49:45,360 --> 00:49:46,040
+It's 20 years away.
+
+611
+00:49:46,460 --> 00:49:50,780
+No, I think it depends really on how pandemic goes.
+
+612
+00:49:50,780 --> 00:50:04,500
+Because if we are still here in a year, not really going to the pub, then I think at that point, a lot of this stuff will have happened because there will be so infinitely much money in it.
+
+613
+00:50:04,740 --> 00:50:22,420
+I also did see, and I've been looking for the link for ages, which is why I've been super quiet, someone developed a sort of top-down 2D chat room idea where you wander about a 2D space and you can talk through your microphone.
+
+614
+00:50:23,160 --> 00:50:28,560
+And people who are closer to you can hear what you're saying more clearly and people who are further away hear you less clearly.
+
+615
+00:50:28,560 --> 00:50:34,340
+And you can wander around an actual kind of physical space talking and it replicates a bar in 2D.
+
+616
+00:50:34,340 --> 00:50:37,960
+And I am looking for the link and the name of this and I cannot find it.
+
+617
+00:50:37,960 --> 00:50:38,900
+It's very frustrating.
+
+618
+00:50:38,900 --> 00:50:42,680
+If I do find it, I'll put a link in the show notes.
+
+619
+00:50:42,680 --> 00:50:45,480
+But...
+
+620
+00:50:45,480 --> 00:50:46,980
+So they've got to get...
+
+621
+00:50:46,980 --> 00:50:52,780
+The problem with all of these systems at the moment is that they have to get over the level of adequacy
+
+622
+00:50:52,780 --> 00:50:58,100
+that we've established now with the Zoom and the breakout rooms, which is clearly not that adequate,
+
+623
+00:50:58,100 --> 00:51:03,580
+but it's still a lot better than a lot of these systems are quite managing yet.
+
+624
+00:51:03,580 --> 00:51:09,140
+And the other thing about the VR rig that I was going to say is that although my house is not small, really,
+
+625
+00:51:09,140 --> 00:51:11,500
+it's got five adults in it.
+
+626
+00:51:11,500 --> 00:51:14,100
+And I've been...
+
+627
+00:51:14,100 --> 00:51:17,260
+And I don't think of myself as the world's greatest introvert.
+
+628
+00:51:17,260 --> 00:51:20,060
+But when I put on the quest...
+
+629
+00:51:20,060 --> 00:51:22,340
+We don't think of you as the world's greatest introvert either.
+
+630
+00:51:22,400 --> 00:51:24,620
+No, you're a terrible introvert, Alison.
+
+631
+00:51:24,620 --> 00:51:25,920
+Yeah, indeed.
+
+632
+00:51:25,920 --> 00:51:31,840
+But when I put the quest on, I'm alone in a way that I never am in my own house at the moment.
+
+633
+00:51:31,840 --> 00:51:34,240
+And I quite like that.
+
+634
+00:51:34,240 --> 00:51:36,740
+It's quite isolating.
+
+635
+00:51:36,740 --> 00:51:39,720
+And I have been missing feeling...
+
+636
+00:51:39,720 --> 00:51:42,720
+It's odd in a time of self-isolation.
+
+637
+00:51:42,720 --> 00:51:53,260
+I have been missing feeling actual time alone to do things I want to do in comfortable spaces because my house is lost.
+
+638
+00:51:53,260 --> 00:51:55,660
+I've made that many comfortable spaces and they're awful.
+
+639
+00:51:55,660 --> 00:51:58,300
+The name of the service I was thinking of is Calla.
+
+640
+00:51:58,300 --> 00:52:00,080
+And I will put a link in the show notes.
+
+641
+00:52:00,080 --> 00:52:01,460
+It is C-A-L-L-A.
+
+642
+00:52:01,940 --> 00:52:06,960
+Is this a thing you're planning to use on your virtual guff trip, Alison?
+
+643
+00:52:06,960 --> 00:52:12,800
+I am hoping that I will be able to do some of my tours virtually.
+
+644
+00:52:12,960 --> 00:52:23,600
+I have a really whizzy idea that I am going to do VR stuff whilst streaming it to Twitch.
+
+645
+00:52:23,600 --> 00:52:29,100
+Streaming both the VR stuff and me using Twitch streaming tools, which I already use a little bit.
+
+646
+00:52:29,500 --> 00:52:36,400
+And so that people will be able to come along and watch me swim off the Great Barrier Reef in real time or something.
+
+647
+00:52:36,400 --> 00:52:38,180
+And that will be hilarious.
+
+648
+00:52:38,180 --> 00:52:50,160
+Please get in touch for recommendations for ways we can support and learn about the Black Lives Matter movement
+
+649
+00:52:50,160 --> 00:52:54,760
+and also BAME people in the UK and in the community in the UK in general.
+
+650
+00:52:54,760 --> 00:52:58,540
+And please also write in with your experiences of virtual conventions.
+
+651
+00:52:58,680 --> 00:52:59,860
+We would love to hear from you.
+
+652
+00:52:59,860 --> 00:53:03,800
+Thank you to Stow Shirts for supporting our podcast this week.
+
+653
+00:53:03,800 --> 00:53:08,360
+That was the seventh episode of the Octothorpe podcast.
+
+654
+00:53:08,360 --> 00:53:09,840
+So it's goodbye from me.
+
+655
+00:53:09,840 --> 00:53:11,460
+And it's goodbye from me.
+
+656
+00:53:11,460 --> 00:53:13,060
+It's goodbye from me.
+
+657
+00:53:13,060 --> 00:53:19,000
+The theme music for this episode was Fanfare for Space by Kevin MacLeod at incompetech.com
+
+658
+00:53:19,000 --> 00:53:22,780
+used under a Creative Commons Attribution 3.0 licence.
+
+659
+00:53:27,860 --> 00:53:37,540
+Is this the point where I can say that Lillian and Christina are hoping to do a podcast?
+
+660
+00:53:37,540 --> 00:53:42,400
+And when they first told me about this, or rather when Lillian first told me about this, I said,
+
+661
+00:53:42,400 --> 00:53:46,000
+but you'll have to find someone to do all the work.
+
+662
+00:53:46,000 --> 00:53:49,080
+And they have now found Ian Sorensen, I believe.
+
+663
+00:53:49,540 --> 00:53:54,240
+So he is investigating other podcasts, which is how he's paying attention to John's microphone.
+
+664
+00:53:54,240 --> 00:53:56,400
+So I'm very much looking forward.
+
+665
+00:53:56,400 --> 00:54:02,220
+I am waiting with bated breath for that podcast to appear in my podcast feed.
+
+666
+00:54:02,220 --> 00:54:04,020
+I will be listening avidly.
+
+667
+00:54:04,560 --> 00:54:06,800
+Yes, no pressure, obviously.
+
+668
+00:54:06,800 --> 00:54:11,420
+The fact that we've announced it doesn't have any ramifications for whether it has to happen.
+
+669
+00:54:11,420 --> 00:54:15,460
+And Alison's decision to do that was entirely her own.
+
+670
+00:54:20,740 --> 00:54:30,420
+One of the things I always liked about fanzines back in the day was that they could be...
+
+671
+00:54:30,420 --> 00:54:31,420
+Relentless piss takes.
+
+672
+00:54:31,420 --> 00:54:38,560
+You know, a little bit edgy about the community and the things the community were getting up to.
+
+673
+00:54:39,960 --> 00:54:43,840
+And I feel like we should capture some of that flavour in our podcast.
+
+674
+00:54:43,840 --> 00:54:46,420
+More antagonism.
+
+675
+00:54:46,420 --> 00:54:54,160
+I do feel if I was going to pick some adjectives to describe our podcast, edgy would be quite a long way down the list.
+
+676
+00:54:54,160 --> 00:54:58,500
+Oh, okay.
+
+677
+00:54:58,500 --> 00:55:00,360
+No, I maybe don't mean edgy.
+
+678
+00:55:00,360 --> 00:55:08,780
+Are you indicating that you think three middle class white people during a podcast are not at the forefront of edge?
+
+679
+00:55:09,260 --> 00:55:11,240
+We talk about things we like, Liz.
+
+680
+00:55:11,240 --> 00:55:13,160
+What could be more edgy than this?
+
+681
+00:55:13,160 --> 00:55:18,860
+My 19-year-old son did call me an edgelord this week.
+
+682
+00:55:18,860 --> 00:55:24,260
+Right, well, we're going to come back to that later, 100%.
+
+683
+00:55:24,260 --> 00:55:27,600
+And I was like, what do you mean by edgelord, dear?
+
+684
+00:55:27,600 --> 00:55:29,100
+And he explained.
+
+685
+00:55:29,100 --> 00:55:32,360
+And I said, you mean like Kylo Ren?
+
+686
+00:55:32,360 --> 00:55:33,160
+And he said, yes.
+
+687
+00:55:33,160 --> 00:55:33,580
+Oh, dear.
+
+688
+00:55:33,580 --> 00:55:34,660
+Oh, Alison.
+
+689
+00:55:34,660 --> 00:55:38,020
+And I said, that's unfair.
+
+690
+00:55:38,580 --> 00:55:40,780
+I said, what I actually said was, that's unfair.
+
+691
+00:55:40,780 --> 00:55:43,300
+Whash, whash, whash, whash, whash.
+
+692
+00:55:43,300 --> 00:55:44,720
+But we'll come back to that.
+
+693
+00:55:44,720 --> 00:55:52,700
+I would like to reassure people that Alison was miming destroying a control console with a lightsaber and not miming beating her children.
+
+694
+00:55:52,700 --> 00:55:54,800
+That's important to note.
+
+695
+00:55:54,800 --> 00:55:59,700
+The context of the video was key in that particular interaction.
+
+696
+00:55:59,700 --> 00:56:02,140
+Before we descend...
+
+697
+00:56:02,140 --> 00:56:03,480
+Also, your lightsaber noises are terrible.
+
+698
+00:56:04,560 --> 00:56:06,100
+Yeah, everyone knows it goes vwom.
 

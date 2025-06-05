@@ -1,2288 +1,3296 @@
 1
-00:00:00,000 --> 00:00:02,800
- Can you turn off your virtual background just because I like to see the cat?
+00:00:00,001 --> 00:00:02,820
+Can you turn off your virtual background just because I like to see the cat?
 
 2
-00:00:02,800 --> 00:00:05,880
- 1, 2, 3...
+00:00:02,820 --> 00:00:05,780
+One, two, three.
 
 3
-00:00:05,880 --> 00:00:06,720
- *clap*
+00:00:05,780 --> 00:00:07,980
+Okay, that'll do.
 
 4
-00:00:06,720 --> 00:00:07,960
- Okay, that'll do.
+00:00:07,980 --> 00:00:09,400
+Right.
 
 5
-00:00:07,960 --> 00:00:08,840
- *laughs*
+00:00:09,400 --> 00:00:15,500
+John, the cat behind you, whichever one it is, like when you did the clap, the little head came up.
 
 6
-00:00:08,840 --> 00:00:09,680
- Right.
+00:00:15,500 --> 00:00:18,760
+And then they were like, oh, nothing's going on. I'll put my head back down again.
 
 7
-00:00:09,680 --> 00:00:15,520
- John, the cat behind you, which everyone is, like, when we did the clap, the little head came up.
+00:00:29,520 --> 00:00:37,520
+Hello, everyone, and welcome to the ninth episode of the Octothorpe podcast, a podcast about science fiction and SF fandom.
 
 8
-00:00:15,520 --> 00:00:18,800
- And then they were like, "Oh, nothing's going on, I'll put my head back down again."
+00:00:37,520 --> 00:00:38,480
+I'm John Coxon.
 
 9
-00:00:18,800 --> 00:00:29,440
- *music*
+00:00:38,480 --> 00:00:39,540
+I'm Alison Scott.
 
 10
-00:00:29,440 --> 00:00:37,440
- Hello everyone, and welcome to the ninth episode of the OgtThought Podcast, a podcast about science fiction and SF fandom.
+00:00:39,540 --> 00:00:40,840
+And I'm Liz Batty.
 
 11
-00:00:37,440 --> 00:00:38,440
- I'm John Coxson.
+00:00:40,840 --> 00:00:46,580
+And this week we have letters of comment that have arrived since the previous episode.
 
 12
-00:00:38,440 --> 00:00:40,960
- I'm Alison Scott, and I'm Liz Batty.
+00:00:46,580 --> 00:00:55,600
+And we actually have three letters of comment, a comment of comment and a reciprocal letter of comment, sort of.
 
 13
-00:00:40,960 --> 00:00:46,960
- And this week we have letters of comment that have arrived since the previous episode.
+00:00:55,840 --> 00:01:01,760
+So, firstly, Helena McCallum writes in to say that you can send locks if you're not called Mark or Andrew.
 
 14
-00:00:46,960 --> 00:00:55,600
- And we actually have three letters of comment, a comment of comment, and a reciprocal letter of comment sort of.
+00:01:01,760 --> 00:01:08,800
+I like this is a sort of meta letter of comment in that it's telling us a thing and also doing that thing at the same time.
 
 15
-00:00:55,600 --> 00:01:02,000
- So, firstly, Helena McCallum writes in to say that you can set locks if you're not called Mark Orandrew.
+00:01:08,800 --> 00:01:09,360
+So I approve.
 
 16
-00:01:02,000 --> 00:01:08,600
- I like this as in it's a sort of meta letter of comment, in that it's telling us a thing and also doing that thing at the same time.
+00:01:09,360 --> 00:01:12,840
+But we had, in fact, already had letters of comment from Claire.
 
 17
-00:01:08,600 --> 00:01:09,520
- So I prove.
+00:01:12,840 --> 00:01:15,040
+Yes, that is true.
 
 18
-00:01:09,520 --> 00:01:13,040
- But we had in fact already had letters of comment from Claire.
+00:01:15,040 --> 00:01:17,700
+Who is not called Andrew or Mark.
 
 19
-00:01:13,040 --> 00:01:15,120
- Yes, that is true.
+00:01:17,700 --> 00:01:19,840
+But we had a lot of Marks and a lot of Andrews.
 
 20
-00:01:15,120 --> 00:01:17,600
- Who is not called Andrew or Mark.
+00:01:19,840 --> 00:01:27,820
+I think there are now an equal number of letters of comment from people called Mark, people called Andrew and women.
 
 21
-00:01:17,600 --> 00:01:20,000
- But we had a lot of marks and a lot of Andries.
+00:01:27,820 --> 00:01:30,740
+And that may be something we want to address at some point.
 
 22
-00:01:20,000 --> 00:01:28,000
- I think there are now an equal number of letters of comment from people called Mark, people called Andrew, and women.
+00:01:30,740 --> 00:01:33,760
+Maybe we need to be diversifying our listenership.
 
 23
-00:01:28,000 --> 00:01:30,800
- And that may be something we want to address at some point.
+00:01:33,760 --> 00:01:36,740
+We're like the board of directors of a company, aren't we?
 
 24
-00:01:30,800 --> 00:01:34,000
- Maybe we need to be diversifying our relationship.
+00:01:36,740 --> 00:01:37,360
+Yeah.
 
 25
-00:01:34,000 --> 00:01:36,880
- We're like the board of directors of accompanying, aren't we?
+00:01:37,840 --> 00:01:47,660
+Graham Charnock used to berate his female readers every episode about their inability to write letters of comment to his fanzine vibrator.
 
 26
-00:01:36,880 --> 00:01:37,600
- Yeah.
+00:01:47,660 --> 00:01:50,220
+Yeah, that seems...
 
 27
-00:01:37,600 --> 00:01:47,840
- Graham Chanuk used to braid his female readers every episode about their inability to write letters of comment to his fanzine vibrator.
+00:01:50,220 --> 00:01:52,940
+I tell you what, there are some coolest people out there in the world.
 
 28
-00:01:47,840 --> 00:01:50,000
- Yeah, that seems.
+00:01:52,940 --> 00:01:55,240
+I think we will be coming on to that later.
 
 29
-00:01:50,000 --> 00:01:52,880
- I tell you what, there are some clueless people out there in the world.
+00:01:55,240 --> 00:02:02,700
+Mark, someone called Mark, did also send us a letter of comment to keep us in letters of comment from people called Mark.
 
 30
-00:01:52,880 --> 00:01:55,680
- I think we will be coming on to that later.
+00:02:03,840 --> 00:02:11,620
+And he says that he is most disappointed that we had omitted letters of comment from people called Mark.
 
 31
-00:01:55,680 --> 00:02:02,840
- Mark, someone called Mark did also set us a letter of comment to keep us in letters of comment from people called Mark.
+00:02:11,620 --> 00:02:17,480
+And he accuses me of having transitioned from the Mark Protection Committee to the Mark Neglection League.
 
 32
-00:02:02,840 --> 00:02:11,520
- And he says that he is most disappointed that we had omitted letters of comment from people called Mark.
+00:02:17,480 --> 00:02:26,040
+So I would like to publicly apologise to all Marks and to admit that I have not done a good enough job of protecting their feelings and their opinions.
 
 33
-00:02:11,520 --> 00:02:17,440
- And he accuses me of having transitioned from the Mark Protection Committee to the Mark Neglection League.
+00:02:26,040 --> 00:02:31,020
+And I will rededicate myself to the Mark Protection Committee from this day forth.
 
 34
-00:02:17,440 --> 00:02:26,240
- So I would like to publicly apologise to all marks and to admit that I have not done a good enough job of protecting their feelings and their opinions.
+00:02:31,020 --> 00:02:32,400
+Well said.
 
 35
-00:02:26,240 --> 00:02:30,640
- And I will rededicate myself to the Mark Protection Committee from this day forth.
+00:02:32,400 --> 00:02:40,180
+He also says that he thinks I'm wrong about the Worcester's business meeting and perhaps a bare minimum business meeting is the right way to go,
 
 36
-00:02:30,640 --> 00:02:32,000
- Well said.
+00:02:40,180 --> 00:02:46,680
+given the state of the world at the moment and the amount of work the Con Zealand Committee are probably doing to make Con Zealand happen.
 
 37
-00:02:32,000 --> 00:02:35,840
- He also says that he thinks I'm wrong about the Wussfuss Business Meeting.
+00:02:46,680 --> 00:02:48,220
+And that is a good point.
 
 38
-00:02:35,840 --> 00:02:46,640
- And perhaps a bare minimum business meeting is the right way to go given the state of the world at the moment and the amount of work the Conzeland Committee are probably doing to make Conzeland happen.
+00:02:48,220 --> 00:02:49,780
+Yes.
 
 39
-00:02:46,640 --> 00:02:48,400
- And that is a good point.
+00:02:49,780 --> 00:02:51,920
+So basically he agrees with me on that.
 
 40
-00:02:48,400 --> 00:02:49,840
- Um, yes.
+00:02:51,920 --> 00:02:52,940
+Yes.
 
 41
-00:02:49,840 --> 00:02:51,840
- So basically he agrees with me on that.
+00:02:52,940 --> 00:02:54,200
+He says,
 
 42
-00:02:51,840 --> 00:02:52,840
- Yes.
+00:02:54,300 --> 00:02:55,020
+He says,
 
 43
-00:02:52,840 --> 00:02:59,040
- He says, he says, "Allison and Liz, I don't mean to neglect you, but you seemed pretty clear that you're holding.
+00:02:55,020 --> 00:02:55,800
+Alison and Liz,
 
 44
-00:02:59,040 --> 00:03:05,040
- Doctor Hugo Award finalist Mark neglecting the boy Cox and responsible here keep on casting.
+00:02:55,800 --> 00:02:56,940
+I don't mean to neglect you,
 
 45
-00:03:05,040 --> 00:03:09,240
- So props to you to all of the criticism directed in my direction.
+00:02:56,940 --> 00:02:59,140
+but you seemed pretty clear that you're holding.
 
 46
-00:03:09,240 --> 00:03:10,240
- Correctly.
+00:02:59,140 --> 00:02:59,620
+Dr.
 
 47
-00:03:10,240 --> 00:03:11,240
- Yes.
+00:02:59,620 --> 00:03:03,720
+Hugo Award finalist Mark neglecting the boy coxswain responsible here.
 
 48
-00:03:11,240 --> 00:03:14,240
- I mean, I can't say it. I can't say it's not reasonable.
+00:03:03,720 --> 00:03:04,740
+Keep on casting.
 
 49
-00:03:14,240 --> 00:03:28,240
- However, I had some vitriolic criticism directed this, my way, this fortnight from one Lillian Edwards who accused me of accused all three of us of not mentioning her new podcast.
+00:03:04,740 --> 00:03:07,060
+So props to you two.
 
 50
-00:03:28,240 --> 00:03:32,240
- This never happens, which she is doing with Christina, Lakerdy and Sorenson.
+00:03:07,060 --> 00:03:09,400
+All of the criticism directed in my direction.
 
 51
-00:03:32,240 --> 00:03:34,240
- And there will be a link in the show notes.
+00:03:09,400 --> 00:03:10,100
+Correctly.
 
 52
-00:03:34,240 --> 00:03:36,240
- It's very good. You should go and listen to it.
+00:03:10,100 --> 00:03:10,860
+Yes.
 
 53
-00:03:36,240 --> 00:03:44,040
- And we are not, we are completely unapologetic about the fact that we did not mention this podcast last time because we recorded our previous.
+00:03:10,860 --> 00:03:11,440
+I mean,
 
 54
-00:03:44,040 --> 00:03:52,040
- Episode on the 17th of June and she released the podcast of the world on the 18th of June.
+00:03:11,440 --> 00:03:12,760
+I can't say it.
 
 55
-00:03:52,040 --> 00:03:57,040
- So we would have to have been more than usually prescient to have mentioned it.
+00:03:12,760 --> 00:03:14,080
+I can't say it's not reasonable.
 
 56
-00:03:57,040 --> 00:04:03,040
- So Lillian, tough. We are mentioning it now. Is that good enough? I claim my five pounds.
+00:03:14,660 --> 00:03:15,060
+However,
 
 57
-00:04:03,040 --> 00:04:16,040
- I mean, what I like about that is that you address her criticism with tact and kindness in a way that definitely won't stoke any fires.
+00:03:15,060 --> 00:03:21,940
+I had some vitriolic criticism directed this my way this fortnight from one Lillian Edwards,
 
 58
-00:04:16,040 --> 00:04:17,040
- So that's good.
+00:03:22,660 --> 00:03:28,080
+who accused me of accused all three of us of not mentioning her new podcast.
 
 59
-00:04:17,040 --> 00:04:20,040
- Isn't Stoking Fars what it's all about?
+00:03:28,080 --> 00:03:29,480
+This never happens,
 
 60
-00:04:20,040 --> 00:04:23,040
- It could well be. It could well be.
+00:03:29,480 --> 00:03:32,080
+which she is doing with Christina Laker and Ian Sorenson.
 
 61
-00:04:23,040 --> 00:04:27,040
- So, and also, I think the other mark asked us to say when we're recording it.
+00:03:32,080 --> 00:03:34,200
+And there will be a link in the show notes.
 
 62
-00:04:27,040 --> 00:04:34,040
- We're recording this one on Sunday the 5th of July and it'll go out on Wednesday the 8th of July unless it doesn't.
+00:03:34,200 --> 00:03:34,960
+It's very good.
 
 63
-00:04:34,040 --> 00:04:36,040
- Yes, all being well unless it doesn't.
+00:03:34,960 --> 00:03:36,080
+You should go and listen to it.
 
 64
-00:04:36,040 --> 00:04:43,040
- Why this podcast is not late? It turns out to be easier to get podcasts out on time than Fansies, which is something I had not realised.
+00:03:36,080 --> 00:03:37,900
+And we are not.
 
 65
-00:04:43,040 --> 00:04:55,040
- I mean, so I'm just going to say, and obviously this comes from a place of love, but I suspect it is also easier to get podcasts out when you have your co-host do the editing of the podcast.
+00:03:37,900 --> 00:03:47,660
+We are completely unapologetic about the fact that we did not mention this podcast last time because we recorded our previous episode on the 17th of June.
 
 66
-00:04:55,040 --> 00:04:56,040
- On time.
+00:03:48,360 --> 00:03:51,920
+And she released the podcast to the world on the 18th of June.
 
 67
-00:04:56,040 --> 00:04:57,040
- On time.
+00:03:51,920 --> 00:03:57,360
+So we would have to have been more than usually prescient to have mentioned it.
 
 68
-00:04:57,040 --> 00:05:01,040
- How many podcasts? How many Fansies have you done? Professor the boy, Coxon?
+00:03:57,360 --> 00:03:58,460
+So Lillian,
 
 69
-00:05:01,040 --> 00:05:02,040
- Me?
+00:03:58,460 --> 00:03:59,100
+tough.
 
 70
-00:05:02,040 --> 00:05:04,040
- Of the top of my head.
+00:03:59,100 --> 00:04:00,280
+We are mentioning it now.
 
 71
-00:05:04,040 --> 00:05:05,040
- On time.
+00:04:00,280 --> 00:04:01,160
+Is that good enough?
 
 72
-00:05:05,040 --> 00:05:06,040
- Twenty.
+00:04:01,160 --> 00:04:02,780
+I claim my five pounds.
 
 73
-00:05:06,040 --> 00:05:07,040
- Maybe on time.
+00:04:02,780 --> 00:04:07,140
+I mean,
 
 74
-00:05:07,040 --> 00:05:09,040
- What is time?
+00:04:07,140 --> 00:04:16,220
+what I like about that is that you addressed her criticism with tact and kindness in a way that definitely won't stoke any fires.
 
 75
-00:05:09,040 --> 00:05:10,040
- Time is an illusion.
+00:04:16,220 --> 00:04:17,400
+So that's good.
 
 76
-00:05:10,040 --> 00:05:12,040
- Fansies is doubly so.
+00:04:17,680 --> 00:04:20,160
+Isn't stoking fires what it's all about?
 
 77
-00:05:12,040 --> 00:05:14,040
- Time is fleeting.
+00:04:20,160 --> 00:04:21,660
+It could well be.
 
 78
-00:05:14,040 --> 00:05:17,040
- So Claire wrote us a letter of comment.
+00:04:21,660 --> 00:04:22,740
+It could well be.
 
 79
-00:05:17,040 --> 00:05:23,040
- Claire Broily wrote us a letter of comment to commend us for pronouncing her surname correctly.
+00:04:22,740 --> 00:04:24,700
+So and also,
 
 80
-00:05:23,040 --> 00:05:27,040
- And said she was going to be quieted this week also.
+00:04:24,700 --> 00:04:29,700
+I think the other Mark asked us to say when we're recording and we're recording this one on Sunday,
 
 81
-00:05:27,040 --> 00:05:30,040
- So yes, thank you, Claire.
+00:04:29,700 --> 00:04:30,440
+the 5th of July,
 
 82
-00:05:30,040 --> 00:05:37,040
- Please send your Claire Hughes on the topic of Claire Broily to octathookast@gmail.com.
+00:04:30,440 --> 00:04:32,600
+and it'll go out on Wednesday,
 
 83
-00:05:37,040 --> 00:05:41,040
- Oh no, that's such a terrible joke.
+00:04:32,600 --> 00:04:33,320
+the 8th of July.
 
 84
-00:05:41,040 --> 00:05:46,040
- Or in fact, any other regular correspondent.
+00:04:33,320 --> 00:04:34,320
+Unless it doesn't.
 
 85
-00:05:46,040 --> 00:05:52,440
- Finally, two of us were at the first Thursday meeting on the first Thursday and Crazy Dave
+00:04:34,320 --> 00:04:34,640
+Yes.
 
 86
-00:05:52,440 --> 00:05:56,440
- told us that he listens to this podcast at two and a half time speed.
+00:04:34,640 --> 00:04:35,520
+All being well.
 
 87
-00:05:56,440 --> 00:06:01,760
- So we are curious to know whether he is the fastest podcast listener in our audience.
+00:04:35,520 --> 00:04:36,920
+Unless it doesn't.
 
 88
-00:06:01,760 --> 00:06:06,160
- So if you are listening at greater than two and a half time speed, please write in and
+00:04:36,920 --> 00:04:38,560
+Why this podcast is not late.
 
 89
-00:06:06,160 --> 00:06:07,160
- let us know.
+00:04:38,560 --> 00:04:41,760
+It turns out to be easier to get podcasts out on time than fanzines,
 
 90
-00:06:07,160 --> 00:06:10,720
- And also tell us how an earth you managed to make sense of what's going on because I
+00:04:41,760 --> 00:04:43,360
+which is something I had not realised.
 
 91
-00:06:10,720 --> 00:06:11,720
- tried it.
+00:04:44,280 --> 00:04:44,920
+I mean,
 
 92
-00:06:11,720 --> 00:06:14,160
- I just, I know what we're saying and I can't hear it.
+00:04:44,920 --> 00:04:46,340
+so I'm just going to say,
 
 93
-00:06:14,160 --> 00:06:15,160
- So.
+00:04:46,340 --> 00:04:49,200
+and obviously this comes from a place of love,
 
 94
-00:06:15,160 --> 00:06:20,400
- Whenever I listen to podcasts, I listen at normal speed or sometimes 1.1, but normally
+00:04:49,200 --> 00:04:55,200
+but I suspect it is also easier to get podcasts out when you have your co-host do the editing of the podcast.
 
 95
-00:06:20,400 --> 00:06:24,280
- normal speed because I feel that podcasts are designed to entertain it.
+00:04:55,200 --> 00:04:56,220
+On time.
 
 96
-00:06:24,280 --> 00:06:27,520
- If they're not entertaining at regular speed, I'll go off and find what it is.
+00:04:56,220 --> 00:04:57,380
+On time.
 
 97
-00:06:27,520 --> 00:06:28,760
- Don't tell people that.
+00:04:57,380 --> 00:04:57,580
+Yes.
 
 98
-00:06:28,760 --> 00:06:31,280
- They'll stop listening to our podcast, Alison.
+00:04:57,580 --> 00:04:58,380
+How many podcasts,
 
 99
-00:06:31,280 --> 00:06:32,280
- They could listen.
+00:04:58,380 --> 00:04:59,860
+how many fanzines have you done,
 
 100
-00:06:32,280 --> 00:06:33,280
- You're very welcome to listen to this podcast.
+00:04:59,860 --> 00:05:01,460
+Professor the Boycoxon?
 
 101
-00:06:33,280 --> 00:06:34,280
- It's good though.
+00:05:01,460 --> 00:05:02,320
+Me?
 
 102
-00:06:34,280 --> 00:06:41,880
- Imagine if you could listen to like rambling chats in the bar at 2.5 times speed.
+00:05:02,320 --> 00:05:03,200
+A few.
 
 103
-00:06:41,880 --> 00:06:44,920
- There would no longer be sort of like four hours of rambling chat over a point.
+00:05:03,200 --> 00:05:04,780
+Off the top of my head.
 
 104
-00:06:44,920 --> 00:06:46,920
- It would be like a breezy one hour discussion.
+00:05:04,780 --> 00:05:05,360
+On time.
 
 105
-00:06:46,920 --> 00:06:52,040
- Yes, and you would be taking shots of vodka to replicate.
+00:05:05,480 --> 00:05:05,920
+On time.
 
 106
-00:06:52,040 --> 00:06:54,400
- I feel that Zoom is Mr. Trick here.
+00:05:05,920 --> 00:05:06,200
+On time.
 
 107
-00:06:54,400 --> 00:06:56,400
- Well, because it doesn't come with vodka.
+00:05:06,200 --> 00:05:06,800
+On time.
 
 108
-00:06:56,400 --> 00:06:57,400
- No, no.
+00:05:06,800 --> 00:05:07,660
+On time.
 
 109
-00:06:57,400 --> 00:06:58,400
- Zoom needs smart speed.
+00:05:07,660 --> 00:05:09,560
+What is time?
 
 110
-00:06:58,400 --> 00:07:01,080
- I'm in this zoom chat, but it's really a bit boring.
+00:05:09,560 --> 00:05:10,800
+Time is an illusion.
 
 111
-00:07:01,080 --> 00:07:09,520
- Let's speed it up a bit.
+00:05:10,800 --> 00:05:12,040
+Fanzines doubly so.
 
 112
-00:07:09,520 --> 00:07:16,400
- The details for my guff-tripper all taking shape, and I will be on it next time.
+00:05:12,040 --> 00:05:14,100
+Time is fleeting.
 
 113
-00:07:16,400 --> 00:07:25,720
- So we may have to organise when to record in a way that ties in with my virtually swimming
+00:05:14,100 --> 00:05:17,700
+So Claire wrote us a letter of comment.
 
 114
-00:07:25,720 --> 00:07:28,800
- off the Great Barrier Reef or something like that.
+00:05:17,700 --> 00:05:22,920
+Claire Briarley wrote us a letter of comment to commend us for pronouncing her surname correctly,
 
 115
-00:07:28,800 --> 00:07:35,320
- I've got lots of plans to go spend time in bars with people who are not socially, not
+00:05:22,920 --> 00:05:27,200
+and said she was going to be quieter this week also.
 
 116
-00:07:35,320 --> 00:07:36,800
- required to social distance.
+00:05:27,200 --> 00:05:28,680
+So, yes.
 
 117
-00:07:36,800 --> 00:07:41,080
- So I don't know to what extent things are really back to normal in Australia and New
+00:05:28,680 --> 00:05:29,760
+Thank you, Claire.
 
 118
-00:07:41,080 --> 00:07:42,080
- Zealand.
+00:05:30,260 --> 00:05:36,980
+Please send your Clara Hughes on the topic of Claire Briarley to octothorpecast at gmail.com.
 
 119
-00:07:42,080 --> 00:07:45,040
- I think they are more back to normal, except in Melbourne, which is one of the main places
+00:05:36,980 --> 00:05:38,660
+Oh, no.
 
 120
-00:07:45,040 --> 00:07:47,960
- I'm going, which has had another outbreak.
+00:05:38,660 --> 00:05:41,240
+That's such a terrible joke.
 
 121
-00:07:47,960 --> 00:07:50,000
- So who knows what's going to happen?
+00:05:41,240 --> 00:05:45,940
+Or, in fact, any other regular correspondent.
 
 122
-00:07:50,000 --> 00:07:55,640
- And anyway, you see, we'll get my next report from not Australia, but virtually Australia.
+00:05:45,940 --> 00:05:50,500
+Finally, two of us were at the first Thursday meeting on the first Thursday,
 
 123
-00:07:55,640 --> 00:07:59,560
- And I will tell you all about the exciting things I'm doing there as part of the first
+00:05:50,500 --> 00:05:56,040
+and Crazy Dave told us that he listens to this podcast at two and a half times speed.
 
 124
-00:07:59,560 --> 00:08:02,120
- part of reporting on a virtual guff trip.
+00:05:56,380 --> 00:06:01,680
+So, we are curious to know whether he is the fastest podcast listener in our audience.
 
 125
-00:08:02,120 --> 00:08:05,920
- So when does your virtual guff-tripper begin, Alison?
+00:06:01,680 --> 00:06:05,280
+So, if you are listening at greater than two and a half times speed,
 
 126
-00:08:05,920 --> 00:08:10,120
- It starts on the 11th, which is really not very long.
+00:06:05,280 --> 00:06:06,860
+please write in and let us know.
 
 127
-00:08:10,120 --> 00:08:12,200
- Oh, wow, that's the week.
+00:06:06,860 --> 00:06:10,340
+And also tell us how on earth you managed to make sense of what's going on,
 
 128
-00:08:12,200 --> 00:08:13,520
- I've got, yeah, less than a week.
+00:06:10,340 --> 00:06:11,500
+because I tried it.
 
 129
-00:08:13,520 --> 00:08:17,800
- And normally I'd be like panicking and packing at this point, but in fact I'm actually doing
+00:06:11,500 --> 00:06:14,200
+I just, I know what we're saying, and I can't hear it.
 
 130
-00:08:17,800 --> 00:08:22,200
- all the stuff I didn't get around to earlier because as it's virtual, it's easier.
+00:06:14,200 --> 00:06:14,540
+So.
 
 131
-00:08:22,200 --> 00:08:24,080
- I hope to get it all sorted.
+00:06:14,540 --> 00:06:20,200
+Whenever I listen to podcasts, I listen at normal speed, or sometimes 1.1,
 
 132
-00:08:24,080 --> 00:08:25,080
- Fair enough.
+00:06:20,240 --> 00:06:24,180
+but normally normal speed, because I feel that podcasts are designed to entertain,
 
 133
-00:08:25,080 --> 00:08:26,560
- And on your...
+00:06:24,180 --> 00:06:27,400
+and if they're not entertaining at regular speed, I'll go off and find one that is.
 
 134
-00:08:26,560 --> 00:08:28,360
- So you're starting on the 11th.
+00:06:27,400 --> 00:06:28,840
+Don't tell people that.
 
 135
-00:08:28,360 --> 00:08:32,080
- When does your virtual trip come to a close?
+00:06:28,840 --> 00:06:30,840
+They'll stop listening to our podcast, Alison.
 
 136
-00:08:32,080 --> 00:08:40,160
- Well, I finish with Conzeland and then I will be not flying home.
+00:06:30,840 --> 00:06:31,820
+They can listen.
 
 137
-00:08:40,160 --> 00:08:44,280
- And I think that's the time we actually have to sort out a recording because I think I'm
+00:06:31,820 --> 00:06:33,520
+You're very welcome to listen to this podcast.
 
 138
-00:08:44,280 --> 00:08:51,760
- going to not stay with this on my way home and we're going to record Octa Thorpe as if
+00:06:33,520 --> 00:06:37,480
+It's good, though.
 
 139
-00:08:51,760 --> 00:08:53,600
- I was in this living room.
+00:06:37,480 --> 00:06:41,880
+Imagine if you could listen to, like, rambling chats in the bar at 2.5 times speed.
 
 140
-00:08:53,600 --> 00:08:54,600
- So that won't be the next one.
+00:06:41,880 --> 00:06:44,960
+There would no longer be sort of, like, four hours of rambling chat over a pint.
 
 141
-00:08:54,600 --> 00:08:59,480
- It'll be the one after, I think, after Conzeland and you'll be going, "What were your impressions
+00:06:45,060 --> 00:06:46,720
+It would be like a breezy one-hour discussion.
 
 142
-00:08:59,480 --> 00:09:00,480
- of virtual Conzeland?"
+00:06:46,720 --> 00:06:51,060
+Yes, and you would be taking shots of vodka to replicate.
 
 143
-00:09:00,480 --> 00:09:01,960
- And I'll be going, "I am completely connected.
+00:06:51,060 --> 00:06:54,440
+I feel that Zoom has missed a trick here.
 
 144
-00:09:01,960 --> 00:09:04,480
- I'm completely knackered in my eyes square now."
+00:06:54,440 --> 00:06:56,140
+What, because it doesn't come with vodka?
 
 145
-00:09:04,480 --> 00:09:05,960
- Yes, that's fair.
+00:06:56,140 --> 00:06:58,420
+No, no, Zoom needs smart speed.
 
 146
-00:09:05,960 --> 00:09:15,960
- So there will be more firm details about our live from Alison's trip home recording in
+00:06:58,420 --> 00:07:01,120
+I'm in this Zoom chat, but it's really a bit boring.
 
 147
-00:09:15,960 --> 00:09:16,960
- the next episode.
+00:07:01,120 --> 00:07:02,280
+Let's speed it up a bit.
 
 148
-00:09:16,960 --> 00:09:25,160
- So keep your eyes peeled for that.
+00:07:02,280 --> 00:07:13,520
+The details for my guff trip are all taking shape,
 
 149
-00:09:25,160 --> 00:09:27,440
- Shall we talk about Conzeland?
+00:07:13,720 --> 00:07:16,360
+and I will be on it next time,
 
 150
-00:09:27,440 --> 00:09:30,360
- We often do, but yes, let's do it again.
+00:07:16,360 --> 00:07:20,240
+so we may have to organise when to record
 
 151
-00:09:30,360 --> 00:09:36,800
- I saw a tweet several weeks ago, which I have now lost, but it was that Conzeland were looking
+00:07:20,240 --> 00:07:27,580
+in a way that ties in with my virtually swimming off the Great Barrier Reef
 
 152
-00:09:36,800 --> 00:09:39,320
- for people to help with access.
+00:07:27,580 --> 00:07:28,540
+or something like that.
 
 153
-00:09:39,320 --> 00:09:45,320
- And specifically, the issues of access which would come up when you are a virtual convention,
+00:07:28,540 --> 00:07:32,040
+I've got lots of plans to go spend time in bars
 
 154
-00:09:45,320 --> 00:09:48,800
- which I think is quite interesting because it feels like we're starting to get a handle
+00:07:32,040 --> 00:07:36,800
+with people who are not required to social distance,
 
 155
-00:09:48,800 --> 00:09:53,640
- on what conventions can do to make themselves more accessible to people who are actually
+00:07:36,800 --> 00:07:39,520
+though I don't know to what extent things are really back to normal
 
 156
-00:09:53,640 --> 00:09:54,800
- at the convention.
+00:07:39,520 --> 00:07:41,580
+in Australia and New Zealand.
 
 157
-00:09:54,800 --> 00:09:59,600
- But obviously moving online is going to bring a whole new set of issues.
+00:07:41,580 --> 00:07:43,920
+I think they are more back to normal, except in Melbourne,
 
 158
-00:09:59,600 --> 00:10:01,800
- And I'd be interested to know if you have any thoughts on them.
+00:07:43,920 --> 00:07:45,660
+which is one of the main places I'm going,
 
 159
-00:10:01,800 --> 00:10:07,080
- If you've been to any virtual conventions or meetups, which did think about ways to make
+00:07:45,660 --> 00:07:47,900
+which has had another outbreak,
 
 160
-00:10:07,080 --> 00:10:13,400
- them more accessible to people who find it difficult to access virtual conventions and
+00:07:48,100 --> 00:07:49,460
+so who knows what's going to happen.
 
 161
-00:10:13,400 --> 00:10:15,000
- any other thoughts on the matter.
+00:07:49,460 --> 00:07:53,360
+And anyway, so you will get my next report from not Australia,
 
 162
-00:10:15,000 --> 00:10:17,440
- Well, it's funny you should say this.
+00:07:53,360 --> 00:07:54,620
+but virtually Australia.
 
 163
-00:10:17,440 --> 00:10:23,480
- So I've been doing first Thursday meetups for London fans.
+00:07:54,620 --> 00:07:57,920
+And I will tell you all about the exciting things I'm doing there
 
 164
-00:10:23,480 --> 00:10:30,840
- When we started, we very quickly noticed that we were getting quite a lot of people attending
+00:07:57,920 --> 00:08:01,760
+as part of the first part of reporting on a virtual guff trip.
 
 165
-00:10:30,840 --> 00:10:38,400
- who could not attend the first Thursday in person, sometimes for reasons of distance,
+00:08:02,320 --> 00:08:05,020
+So when does your virtual guff trip begin, Alison?
 
 166
-00:10:38,400 --> 00:10:45,080
- which is not actually a primary accessibility issue for what we think of as being a local
+00:08:05,020 --> 00:08:09,900
+It starts on the 11th, which is really not very long.
 
 167
-00:10:45,080 --> 00:10:47,000
- London pub meeting.
+00:08:09,900 --> 00:08:11,960
+Oh, wow, less than a week.
 
 168
-00:10:47,000 --> 00:10:51,040
- So it's nice that these people can now come, but it's not what I think of as the most important
+00:08:11,960 --> 00:08:13,360
+I've got, yeah, less than a week.
 
 169
-00:10:51,040 --> 00:10:53,400
- accessibility issue for the thing.
+00:08:13,360 --> 00:08:16,340
+And normally I'd be like panicking and packing at this point,
 
 170
-00:10:53,400 --> 00:10:58,080
- But we also have had people visiting who cannot normally attend the meeting either because
+00:08:16,340 --> 00:08:19,420
+but in fact I'm actually doing all the stuff I didn't get around to earlier
 
 171
-00:10:58,080 --> 00:11:02,080
- they do not like crowded pubs or they cannot get up the stairs.
+00:08:19,420 --> 00:08:23,560
+because as it's virtual it's easier, I hope, to get it all sorted.
 
 172
-00:11:02,080 --> 00:11:05,920
- And so having those people there is very welcome.
+00:08:23,560 --> 00:08:24,600
+Fair enough.
 
 173
-00:11:05,920 --> 00:11:09,920
- We have then, since then, been trying to do outreach, and we've done this on a very
+00:08:24,600 --> 00:08:28,320
+And on your, so when, so you're starting on the 11th,
 
 174
-00:11:09,920 --> 00:11:16,600
- individual basis, and we've done outreach to the people who we know normally attend
+00:08:28,320 --> 00:08:31,760
+when does your virtual trip come to a close?
 
 175
-00:11:16,600 --> 00:11:21,040
- the first Thursday meetings, but have not been attending the Zoom meetings.
+00:08:31,760 --> 00:08:39,760
+Well, I'm, I finish with Con Zealand and then I will be not flying home.
 
 176
-00:11:21,040 --> 00:11:22,240
- We've had a range of responses.
+00:08:39,760 --> 00:08:43,060
+And I think that's, that's the time we actually have to sort out a recording
 
 177
-00:11:22,240 --> 00:11:27,120
- So some of them have come and tried it, and some of them quite like it.
+00:08:43,060 --> 00:08:48,200
+because I think I'm, I'm going to not stay with Liz on my way home
 
 178
-00:11:27,120 --> 00:11:32,000
- Some of them have tried Zoom, but concluded that they don't like large zooms, even if
+00:08:48,200 --> 00:08:51,700
+and we're going to not, we're going to record Octothorpe
 
 179
-00:11:32,000 --> 00:11:38,080
- we do the breakout room thing, that they are preferring there, even though they might quite
+00:08:51,700 --> 00:08:53,320
+as if I was in Liz's living room.
 
 180
-00:11:38,080 --> 00:11:39,400
- enjoy conventions.
+00:08:53,700 --> 00:08:54,600
+So that won't be the next one.
 
 181
-00:11:39,400 --> 00:11:45,480
- They are preferring to do the interactive meetups in smaller groups.
+00:08:54,600 --> 00:08:56,600
+It'll be the one after, I think, after Con Zealand.
 
 182
-00:11:45,480 --> 00:11:53,200
- People are still struggling with technology.
+00:08:56,600 --> 00:08:58,660
+And you'll be going, how, what was your,
 
 183
-00:11:53,200 --> 00:11:58,840
- Most of this virtual life that we are living now, it is much worse than a regular pub
+00:08:58,660 --> 00:09:00,600
+what were your impressions of virtual Con Zealand?
 
 184
-00:11:58,840 --> 00:12:05,840
- meeting would be, and often also than the formal panels and presentations at conventions,
+00:09:00,600 --> 00:09:04,340
+And I'll be going, I am completely knackered and my eyes are square now.
 
 185
-00:12:05,840 --> 00:12:07,360
- they are finding it harder.
+00:09:04,340 --> 00:09:05,800
+Yes, that's fair.
 
 186
-00:12:07,360 --> 00:12:08,880
- It is harder to lip read.
+00:09:05,800 --> 00:09:15,160
+So there will be more firm details about our live from Alison's trip home recording
 
 187
-00:12:08,880 --> 00:12:14,440
- It is harder to manage the complexity of conversation where several people are in a
+00:09:15,160 --> 00:09:16,980
+in the next episode.
 
 188
-00:12:14,440 --> 00:12:15,440
- room.
+00:09:16,980 --> 00:09:19,280
+So keep your eyes peeled for that.
 
 189
-00:12:15,440 --> 00:12:23,560
- Some people don't like Zoom, some people can't manage Zoom, some people have disabilities
+00:09:22,800 --> 00:09:26,560
+Shall we talk about Con Zealand?
 
 190
-00:12:23,560 --> 00:12:28,640
- that are more or differently disabling in a Zoom environment.
+00:09:26,560 --> 00:09:29,080
+We often do, but yes, let's do it again.
 
 191
-00:12:28,640 --> 00:12:30,800
- But you know, it is something we've given some thought to.
+00:09:29,080 --> 00:09:34,320
+I saw a tweet several weeks ago, which I have now lost,
 
 192
-00:12:30,800 --> 00:12:38,240
- And actually for a lot of the older people, just helping them individually get into this
+00:09:34,320 --> 00:09:38,780
+but it was that Con Zealand were looking for people to help with access
 
 193
-00:12:38,240 --> 00:12:41,200
- way of working is the thing that is most useful.
+00:09:38,780 --> 00:09:41,240
+and specifically the issues of access,
 
 194
-00:12:41,200 --> 00:12:48,320
- So the thing that popped into my head immediately was the problem that you would have if you
+00:09:41,240 --> 00:09:43,700
+which would come up when you are a virtual convention,
 
 195
-00:12:48,320 --> 00:12:52,760
- were hard of hearing with this kind of technology.
+00:09:43,700 --> 00:09:48,880
+which I think is quite interesting because it feels like we're starting to get a handle
 
 196
-00:12:52,760 --> 00:13:00,000
- And I think one of the reasons I got quite annoyed at the Hugo ceremony in Dublin because
+00:09:48,880 --> 00:09:54,620
+on what conventions can do to make themselves more accessible to people who are actually at the convention.
 
 197
-00:13:00,000 --> 00:13:03,920
- they had the automatic subtitles people were laughing when they got it wrong.
+00:09:54,620 --> 00:09:59,140
+But obviously moving online is going to bring a whole new set of issues.
 
 198
-00:13:03,920 --> 00:13:08,520
- But the problem with that is that it means that they said, "Oh, we should not have used
+00:09:59,140 --> 00:10:01,820
+And I'd be interested to know if you have any thoughts on them,
 
 199
-00:13:08,520 --> 00:13:14,440
- automatic subtitles because they were inviting people to find them funny."
+00:10:01,820 --> 00:10:04,580
+if you've been to any virtual conventions or meetups,
 
 200
-00:13:14,440 --> 00:13:19,920
- And I kind of thought that maybe when we see automatic subtitles that are inadvertently
+00:10:04,580 --> 00:10:09,980
+which did think about ways to make them more accessible to people who find it difficult
 
 201
-00:13:19,920 --> 00:13:24,160
- saying the wrong things, we need to shut the hell up and remember that these subtitles
+00:10:09,980 --> 00:10:12,260
+to access virtual conventions.
 
 202
-00:13:24,160 --> 00:13:29,840
- are there as an accessibility feature for deaf people and not laugh in a way that means
+00:10:12,900 --> 00:10:14,580
+And any other thoughts on the matter?
 
 203
-00:13:29,840 --> 00:13:34,320
- that convention committees want to take that away for the deaf community.
+00:10:14,580 --> 00:10:16,900
+Well, it's funny you should say this.
 
 204
-00:13:34,320 --> 00:13:39,440
- So my thought, Sisson, is that one, you are quite right, that if we see something on automatic
+00:10:16,900 --> 00:10:21,920
+So I've been doing First Thursday meetups for London fans.
 
 205
-00:13:39,440 --> 00:13:43,160
- subtitles, we do need to remember, look, these are here for a purpose there to help
+00:10:22,760 --> 00:10:30,140
+When we started, we very quickly noticed that we were getting quite a lot of people attending
 
 206
-00:13:43,160 --> 00:13:49,120
- people and we shouldn't, you know, we should try not to react in that way because it's
+00:10:30,140 --> 00:10:34,360
+who could not attend the first Thursday in person,
 
 207
-00:13:49,120 --> 00:13:50,600
- not helpful.
+00:10:34,360 --> 00:10:37,680
+sometimes for reasons of distance,
 
 208
-00:13:50,600 --> 00:13:56,240
- And that I can see that when you're doing an all online convention, there are auto-subtitling
+00:10:37,680 --> 00:10:46,940
+which is not actually a primary accessibility issue for what we think of as being a local London pub meeting.
 
 209
-00:13:56,240 --> 00:13:57,880
- options that might help.
+00:10:46,940 --> 00:10:48,840
+So it's nice that these people can now come,
 
 210
-00:13:57,880 --> 00:14:02,840
- But my second thought is that for big events like the Hugo's, you should really be paying
+00:10:48,840 --> 00:10:53,400
+but it's not what I think of as the most important accessibility issue for the thing.
 
 211
-00:14:02,840 --> 00:14:06,440
- for a live captioner because these problems will not happen.
+00:10:53,400 --> 00:10:57,800
+But we also have had people visiting who cannot normally attend the meeting,
 
 212
-00:14:06,440 --> 00:14:09,000
- And we know that is possible.
+00:10:57,800 --> 00:11:01,580
+either because they do not like crowded pubs or they cannot get up the stairs.
 
 213
-00:14:09,000 --> 00:14:14,240
- It takes money, but it doesn't take enormous vast amounts of money that world comes, cannot
+00:11:01,580 --> 00:11:05,480
+And so that is so having those people there is very welcome.
 
 214
-00:14:14,240 --> 00:14:15,560
- allocate to it.
+00:11:05,480 --> 00:11:09,000
+We have then since then been trying to do outreach.
 
 215
-00:14:15,560 --> 00:14:17,760
- And that would have solved that particular problem.
+00:11:09,000 --> 00:11:11,360
+And we've done this on a very individual basis.
 
 216
-00:14:17,760 --> 00:14:22,080
- I think in smaller groups, that is less of a problem because I think the problem with
+00:11:11,800 --> 00:11:17,920
+And we are and we've done outreach to the people who we know normally attend the first Thursday meetings,
 
 217
-00:14:22,080 --> 00:14:26,440
- the Hugo's is one person finds it a bit funny and then everyone around them starts to realize
+00:11:17,920 --> 00:11:20,100
+but have not been attending the Zoom meetings.
 
 218
-00:14:26,440 --> 00:14:28,600
- what they're laughing about and that spreads.
+00:11:20,100 --> 00:11:22,240
+We've had a range of responses.
 
 219
-00:14:28,600 --> 00:14:33,000
- So maybe that's not a problem if it's only 30 people watching live captioning of a panel
+00:11:22,240 --> 00:11:25,600
+So some of them have come and tried it and some of them quite like it.
 
 220
-00:14:33,000 --> 00:14:34,000
- or so on.
+00:11:25,600 --> 00:11:29,000
+Some of them have tried Zoom,
 
 221
-00:14:34,000 --> 00:14:39,960
- But I was slightly surprised that they use the auto-subtitling option for the Hugo's
+00:11:29,000 --> 00:11:31,520
+but concluded that they don't like large Zooms,
 
 222
-00:14:39,960 --> 00:14:44,600
- instead of going with a person in the auditorium or else we're doing it for them.
+00:11:31,520 --> 00:11:33,740
+even if we do the breakout room thing,
 
 223
-00:14:44,600 --> 00:14:45,600
- That's fair.
+00:11:33,740 --> 00:11:35,900
+that they are preferring their,
 
 224
-00:14:45,600 --> 00:14:46,960
- I think that's a good point.
+00:11:35,900 --> 00:11:39,280
+even though they might quite enjoy conventions,
 
 225
-00:14:46,960 --> 00:14:51,440
- I think that's less relevant to a virtual thing because the people who need automatic
+00:11:39,280 --> 00:11:44,240
+they are preferring to do the interactive meetups in smaller groups.
 
 226
-00:14:51,440 --> 00:14:53,280
- subtitling will use it.
+00:11:44,240 --> 00:11:47,220
+Some people are still struggling with the technology.
 
 227
-00:14:53,280 --> 00:14:59,920
- I also feel that laughing at automatic subtitling is the equivalent of laughing at a presenter
+00:11:47,220 --> 00:11:56,080
+People who are deaf are highly disenfranchised from most of this virtual life that we are living now.
 
 228
-00:14:59,920 --> 00:15:07,800
- whose first language is not English or who has a spasticity that means that they can't
+00:11:56,080 --> 00:11:59,820
+It is much worse than a regular pub meeting would be.
 
 229
-00:15:07,800 --> 00:15:12,480
- form words or move in a normal way and it's completely reprehensible.
+00:11:59,820 --> 00:12:05,740
+And often also than the formal panels and presentations at conventions.
 
 230
-00:15:12,480 --> 00:15:18,840
- And if all you need to do to stop it happening is to say we're having these captions to help
+00:12:05,740 --> 00:12:07,000
+They are finding it harder.
 
 231
-00:15:18,840 --> 00:15:25,520
- people who have poor hearing hear the thing and I understand that some of you are finding
+00:12:07,000 --> 00:12:08,580
+It is harder to lip read.
 
 232
-00:15:25,520 --> 00:15:29,000
- it funny but please keep that to yourselves and people would have shut up.
+00:12:08,900 --> 00:12:13,400
+It is harder to manage the complexity of conversation where several people are in a room.
 
 233
-00:15:29,000 --> 00:15:36,600
- I think your argument, I think the problem is that if you laugh at someone on stage who
+00:12:13,400 --> 00:12:16,440
+And that's about all I have on it.
 
 234
-00:15:36,600 --> 00:15:42,840
- has a problem speaking or problem communicating, you're clearly laughing at someone who has
+00:12:16,440 --> 00:12:17,740
+So some people don't like Zoom.
 
 235
-00:15:42,840 --> 00:15:50,520
- feelings whereas laughing at an automatic transcription doesn't have a victim and doesn't have as
+00:12:17,740 --> 00:12:20,340
+Some people can't manage Zoom.
 
 236
-00:15:50,520 --> 00:15:54,960
- obvious a victim and so I think it is much easier to laugh at that because it doesn't
+00:12:20,340 --> 00:12:28,260
+Some people have disabilities that are more or differently disabling in a Zoom environment.
 
 237
-00:15:54,960 --> 00:15:57,880
- feel like you're being cruel.
+00:12:28,740 --> 00:12:30,780
+But, you know, it's something that we've given some thought to.
 
 238
-00:15:57,880 --> 00:16:03,200
- I see why people might laugh at one or not the other but yeah and I think Liz's point
+00:12:30,780 --> 00:12:33,140
+And actually, for a lot of the older people,
 
 239
-00:16:03,200 --> 00:16:09,680
- about the hugos especially being able to afford a person to do it which would not necessarily
+00:12:33,140 --> 00:12:40,440
+just helping them individually get into this way of working is the thing that's most useful.
 
 240
-00:16:09,680 --> 00:16:11,520
- run into the same problems.
+00:12:41,300 --> 00:12:42,200
+So, yeah.
 
 241
-00:16:11,520 --> 00:16:17,880
- Especially as a word ceremonies often have a lot of text which is pre-written and can
+00:12:42,200 --> 00:12:51,820
+So the thing that popped into my head immediately was the problem that you'd have if you were hard of hearing with this kind of technology.
 
 242
-00:16:17,880 --> 00:16:23,520
- just be spewed out, you don't have to live caption anything except the acceptance speeches.
+00:12:52,480 --> 00:13:01,520
+And I think one of the reasons I got quite annoyed at the Hugo ceremony in Dublin because they had the automatic subtitles.
 
 243
-00:16:23,520 --> 00:16:28,680
- Yes and it means you can send them the names of all the finalists in advance.
+00:13:01,860 --> 00:13:03,400
+People were laughing when they got it wrong.
 
 244
-00:16:28,680 --> 00:16:34,120
- They could have put that into the automatic transcription software too just saying.
+00:13:03,400 --> 00:13:13,700
+But the problem with that is that it means that they said, oh, we should not have used automatic subtitles because they were inviting people to find them funny.
 
 245
-00:16:34,120 --> 00:16:39,240
- I actually had another subsidiary point about the other thing Alice has said.
+00:13:14,080 --> 00:13:20,840
+And I kind of thought that maybe when we see automatic subtitles that are inadvertently saying the wrong things,
 
 246
-00:16:39,240 --> 00:16:45,520
- I was just going to say that obviously the first Thursday mechanism of individually contacting
+00:13:20,840 --> 00:13:27,180
+we need to shut the hell up and remember that these subtitles are there as an accessibility feature for deaf people
 
 247
-00:16:45,520 --> 00:16:51,000
- members who are having trouble and helping them in a one to one setting scales poorly
+00:13:27,180 --> 00:13:33,760
+and not laugh in a way that means that convention committees want to take that away for the deaf community.
 
 248
-00:16:51,000 --> 00:16:54,120
- to world's cotton levels of attendance.
+00:13:33,760 --> 00:13:40,100
+So my thought, Susan, is that one, you are quite right that if we see something on automatic subtitles,
 
 249
-00:16:54,120 --> 00:16:56,920
- Okay here's how you do it.
+00:13:40,100 --> 00:13:42,620
+we do need to remember, look, these are here for a purpose.
 
 250
-00:16:56,920 --> 00:17:03,520
- You ask people to talk to their friends who are having trouble and you also encourage local
+00:13:42,620 --> 00:13:43,740
+It's there to help people.
 
 251
-00:17:03,520 --> 00:17:08,160
- things like the first Thursday to happen because if those things are happening in lots of
+00:13:43,740 --> 00:13:49,880
+And we shouldn't, you know, we should try not to react in that way because it's not helpful.
 
 252
-00:17:08,160 --> 00:17:13,760
- different places that is a way to preload lots of people.
+00:13:49,880 --> 00:13:57,560
+And that I can see that when you're doing an all online convention, there are auto subtitling options that might help.
 
 253
-00:17:13,760 --> 00:17:17,080
- So you encourage the grassroots activities that's required.
+00:13:57,560 --> 00:14:06,420
+But my second thought is that for big events like the Hugos, you should really be paying for a live captioner because these problems will not happen.
 
 254
-00:17:17,080 --> 00:17:21,880
- In fact Conziel and I think are doing training sessions to get people familiar with their
+00:14:06,420 --> 00:14:07,940
+And we know that is possible.
 
 255
-00:17:21,880 --> 00:17:27,400
- platforms before the com which I think is a great way of doing it and that is also going
+00:14:08,880 --> 00:14:15,260
+It takes money, but it doesn't take enormous, vast amounts of money that WorldCom's cannot allocate to it.
 
 256
-00:17:27,400 --> 00:17:31,160
- to open up access so you can log in, you'll be able to log in I think to their Discord
+00:14:15,260 --> 00:14:17,540
+And that would have solved that particular problem.
 
 257
-00:17:31,160 --> 00:17:35,480
- and things and check them out ahead of time to make sure your chosen device is going to
+00:14:17,540 --> 00:14:24,280
+I think in smaller groups, that is less of a problem because I think the problem with the Hugos is one person finds it a bit funny
 
 258
-00:17:35,480 --> 00:17:39,360
- work nicely with everything and so you don't spend the first day of your convention trying
+00:14:24,280 --> 00:14:28,380
+and then everyone around them starts to realise what they're laughing about and that spreads.
 
 259
-00:17:39,360 --> 00:17:41,360
- to fiddle with Zoom I guess.
+00:14:28,380 --> 00:14:33,840
+So maybe that's not a problem if it's only 30 people watching live captioning of a panel or so on.
 
 260
-00:17:41,360 --> 00:17:46,240
- Have they announced this or have they just, is this just one of these we are intending
+00:14:33,840 --> 00:14:44,220
+But I was slightly surprised that they used the auto subtitling option for the Hugos instead of going with a person in the auditorium or elsewhere doing it for them.
 
 261
-00:17:46,240 --> 00:17:50,240
- to do this stuff because I've just, I've finally got around to filling in my program
+00:14:44,220 --> 00:14:45,260
+That's fair.
 
 262
-00:17:50,240 --> 00:17:51,720
- participant form.
+00:14:45,260 --> 00:14:46,500
+I think that's a good point.
 
 263
-00:17:51,720 --> 00:17:56,040
- Sorry Jenny, you had said it to me and I am just terrible.
+00:14:47,080 --> 00:14:52,960
+I think that's less relevant to a virtual thing because the people who need automatic subtitling will use it.
 
 264
-00:17:56,040 --> 00:18:00,880
- You are the bane of program, you are the bane of program heads everywhere Alice and
+00:14:52,960 --> 00:15:10,140
+I also feel that laughing at automatic subtitling is the equivalent of laughing at a presenter whose first language is not English or who has a spasticity that means that they can't form words or move in a normal way.
 
 265
-00:18:00,880 --> 00:18:07,480
- it has a thing saying would you like to moderate a panel and I said if you insist because I
+00:15:10,140 --> 00:15:40,120
+And it's completely reprehensible.
 
 266
-00:18:07,480 --> 00:18:11,760
- know that although I'm not the world's best moderator there's always a shortage of female
+00:15:40,120 --> 00:15:40,600
+communicating.
 
 267
-00:18:11,760 --> 00:18:16,800
- moderators and I think that it is better to have less good female moderators than better
+00:15:40,600 --> 00:15:48,040
+You're clearly laughing at someone who has feelings, whereas laughing at an automatic transcription doesn't have a victim in quite the way.
 
 268
-00:18:16,800 --> 00:18:24,400
- male moderators controversial opinion and so and then they said would you be happy to
+00:15:48,040 --> 00:15:51,880
+It doesn't have as obvious a victim.
 
 269
-00:18:24,400 --> 00:18:29,120
- attend a training session and I'm kind of like yes of course but they do have to fit that
+00:15:51,880 --> 00:15:57,200
+And so I think it is much easier to laugh at that because it doesn't feel like you're being cruel.
 
 270
-00:18:29,120 --> 00:18:34,560
- training session in around my virtual guff trip and so time is getting tight, touch the
+00:15:57,200 --> 00:16:01,200
+So I see why people might laugh at one and not the other.
 
 271
-00:18:34,560 --> 00:18:37,400
- unusual I feel for the world con.
+00:16:01,680 --> 00:16:11,100
+But yeah, I think Liz's point about the Hugos, especially being able to afford a person to do it, which would not necessarily run into the same problems.
 
 272
-00:18:37,400 --> 00:18:41,160
- There are a few things where I'm kind of like oh you're cutting it a bit fine now.
+00:16:11,100 --> 00:16:19,700
+Especially as award ceremonies often have a lot of text, which is pre-written and can just be spewed out.
 
 273
-00:18:41,160 --> 00:18:45,880
- I thought they had said this but now I mention it of course I cannot actually find any of
+00:16:19,700 --> 00:16:22,980
+You don't have to live caption anything except the acceptance speeches.
 
 274
-00:18:45,880 --> 00:18:48,920
- the information on it or did they email it to me that might be it.
+00:16:24,240 --> 00:16:28,480
+Yes, and it means you can send them the names of all the finalists in advance.
 
 275
-00:18:48,920 --> 00:18:54,120
- It is interesting since we have started podcasting I have become much more interested in conventions
+00:16:28,480 --> 00:16:32,760
+They could have put that into the automatic transcription software too, just saying.
 
 276
-00:18:54,120 --> 00:18:58,000
- official lines of communication because that is how I try and find out what conventions
+00:16:33,940 --> 00:16:38,240
+I actually had another subsidiary point about the other thing Alison said.
 
 277
-00:18:58,000 --> 00:19:02,200
- are doing and so whenever there is something I know about a convention that is not in their
+00:16:38,240 --> 00:16:53,500
+I was just going to say that obviously the first Thursday mechanism of individually contacting members who are having trouble and helping them in a one-to-one setting scales poorly to Worldcon levels of attendance.
 
 278
-00:19:02,200 --> 00:19:06,120
- official line of communication I'm like why have you not put this on your website in a
+00:16:53,860 --> 00:16:56,420
+OK, here's how you do it.
 
 279
-00:19:06,120 --> 00:19:09,280
- place that it is easy to find?
+00:16:56,420 --> 00:17:13,440
+You ask people to talk to their friends who are having trouble and you also encourage local things like the first Thursday to happen because if those things are happening in lots of different places, that is a way to preload lots of people.
 
 280
-00:19:09,280 --> 00:19:16,880
- Conventions often put quite a lot of control over their official communication routes in
+00:17:13,440 --> 00:17:16,660
+So you encourage the grassroots activity that's required.
 
 281
-00:19:16,880 --> 00:19:23,680
- a way that makes it hard for say area heads to actually get in there and amend the things
+00:17:16,760 --> 00:17:26,220
+In fact, Con Zealand, I think, are doing training sessions to get people familiar with their platforms before the con, which I think is a great way of doing it.
 
 282
-00:19:23,680 --> 00:19:30,040
- for their own area rapidly so you can often have a area heads who are very happy to keep
+00:17:26,220 --> 00:17:28,420
+And that is also going to open up access.
 
 283
-00:19:30,040 --> 00:19:36,960
- the information for their area up to date who are prevented from doing so by the broader
+00:17:28,420 --> 00:17:29,360
+So you can log in.
 
 284
-00:19:36,960 --> 00:19:42,120
- controls over what goes on the website and that is not it is not a stupid thing to do
+00:17:29,360 --> 00:17:36,920
+You'll be able to log in, I think, to their Discord and things and check them out ahead of time to make sure your chosen device is going to work nicely with everything.
 
 285
-00:19:42,120 --> 00:19:47,200
- there are arguments on both sides of this but my view is that if you trust somebody to
+00:17:36,920 --> 00:17:40,840
+And so you don't spend the first day of your convention trying to fiddle with Zoom, I guess.
 
 286
-00:19:47,200 --> 00:19:50,800
- be an area head you should probably trust them to update their webpage too.
+00:17:41,160 --> 00:17:42,640
+Have they announced this?
 
 287
-00:19:50,800 --> 00:19:53,960
- I have now found the announcement and it was in my email and it probably says something
+00:17:42,640 --> 00:17:47,200
+Or have they just, is this just one of these, we are intending to do this stuff?
 
 288
-00:19:53,960 --> 00:19:57,640
- about me that I immediately tried to find it on Facebook and Twitter and their official
+00:17:47,200 --> 00:17:51,260
+Because I've just, I finally got around to filling in my programme participant form.
 
 289
-00:19:57,640 --> 00:20:02,360
- page before I just went and read the email which I read this afternoon but yes it does
+00:17:51,260 --> 00:17:52,440
+Sorry, Jenny.
 
 290
-00:20:02,360 --> 00:20:07,480
- say you can ask if there's a form to fill in if you would like to have some live training
+00:17:52,440 --> 00:17:54,920
+You had sent it to me and I am just terrible.
 
 291
-00:20:07,480 --> 00:20:09,800
- on Discord which I think is a great initiative.
+00:17:54,920 --> 00:17:57,740
+You are the bane of programme.
 
 292
-00:20:09,800 --> 00:20:15,720
- I think it is a great initiative I will point out that anyone who has not joined New Zealand
+00:17:57,740 --> 00:18:00,400
+You are the bane of programme heads everywhere, Alison.
 
 293
-00:20:15,720 --> 00:20:21,120
- because they feel they cannot use the technology is perhaps in need of this being announced
+00:18:00,400 --> 00:18:04,040
+And it has a thing saying, would you like to moderate a panel?
 
 294
-00:20:21,120 --> 00:20:24,400
- more widely than emails to people who have joined Conzeland.
+00:18:04,040 --> 00:18:12,640
+And I said, if you insist, because I know that although I'm not the world's best moderator, there's always a shortage of female moderators.
 
 295
-00:20:24,400 --> 00:20:30,040
- I'm not technically a Conzeland member I'm just on their mailing list of people who have
+00:18:12,640 --> 00:18:18,000
+And I think that it is better to have less good female moderators than better male moderators.
 
 296
-00:20:30,040 --> 00:20:34,720
- expressed interest at some point so it may be is going to a wider group there.
+00:18:18,000 --> 00:18:20,800
+Controversial opinion.
 
 297
-00:20:34,720 --> 00:20:43,120
- Yeah and I'm well taken I'm actually interestingly as a Conzeland member why does it not get
+00:18:20,800 --> 00:18:26,860
+And so and then they said, would you be happy to attend a training session?
 
 298
-00:20:43,120 --> 00:20:45,040
- that email.
+00:18:26,860 --> 00:18:28,120
+And I was kind of like, yes, of course.
 
 299
-00:20:45,040 --> 00:20:52,440
- So you know I think that all of these things make sense in terms of how World Con divisions
+00:18:28,120 --> 00:18:31,280
+But they do have to fit that training session in around my virtual guff trip.
 
 300
-00:20:52,440 --> 00:20:58,120
- are put together and they are all volunteers doing these jobs and like you know I completely
+00:18:31,280 --> 00:18:33,860
+And so time is getting tight.
 
 301
-00:20:58,120 --> 00:21:02,800
- see how all of this has happened but I do think at some point that needs to be a little
+00:18:33,860 --> 00:18:37,240
+Tighter than usual, I feel, for the Worldcon.
 
 302
-00:21:02,800 --> 00:21:07,200
- bit of a thought about whether or not these are sensible structures and whether or not
+00:18:37,240 --> 00:18:40,880
+There are a few things where I'm kind of like, oh, you're cutting it a bit fine now.
 
 303
-00:21:07,200 --> 00:21:10,400
- there is a better way to structure these things.
+00:18:40,880 --> 00:18:43,920
+I thought they had said this, but now I mention it.
 
 304
-00:21:10,400 --> 00:21:15,880
- I realise that as someone who is identifying this problem and not volunteering for a World
+00:18:43,920 --> 00:18:46,900
+Of course, I cannot actually find any of the information on it.
 
 305
-00:21:15,880 --> 00:21:19,960
- Con not that I definitely part of the precipitate in this regard in that I am not part of the
+00:18:46,900 --> 00:18:48,100
+Or did they email it to me?
 
 306
-00:21:19,960 --> 00:21:21,440
- solution but.
+00:18:48,100 --> 00:18:48,680
+That might be it.
 
 307
-00:21:21,440 --> 00:21:29,440
- Shall we talk about Hugo voting?
+00:18:48,680 --> 00:18:49,740
+It is interesting.
 
 308
-00:21:29,440 --> 00:21:31,240
- Yeah it hasn't started yet.
+00:18:49,740 --> 00:18:55,800
+Since we have started podcasting, I have become much more interested in conventions, official lines of communication,
 
 309
-00:21:31,240 --> 00:21:37,040
- I have had informal conversations with people who may not be connected with the people who
+00:18:55,800 --> 00:18:58,580
+because that is how I try and find out what conventions are doing.
 
 310
-00:21:37,040 --> 00:21:41,200
- have to actually count up the hugas who are like we think the time is now getting quite
+00:18:58,580 --> 00:19:03,580
+And so whenever there is something I know about a convention that is not in their official line of communication,
 
 311
-00:21:41,200 --> 00:21:44,400
- tight for the management of the Hugo vote.
+00:19:03,580 --> 00:19:07,960
+I'm like, why have you not put this on your website in a place that it is easy to find?
 
 312
-00:21:44,400 --> 00:21:49,200
- So this is my question because I well I agree that the time is getting very tight for Hugo
+00:19:07,960 --> 00:19:19,520
+Conventions often put quite a lot of control over their official communication routes in a way that makes it hard for, say,
 
 313
-00:21:49,200 --> 00:21:54,960
- voting since it is not open yet and they are going to present them at the end of the month.
+00:19:19,660 --> 00:19:25,820
+area heads to actually get in there and amend the things for their own area rapidly.
 
 314
-00:21:54,960 --> 00:21:59,360
- But also I do not know how many people actually vote throughout the voting process and how
+00:19:25,820 --> 00:19:32,840
+So you can often have area heads who are very happy to keep the information for their area up to date,
 
 315
-00:21:59,360 --> 00:22:03,280
- many people try and log in 10 minutes before they end the voting and frantically vote for
+00:19:32,840 --> 00:19:39,400
+who are prevented from doing so by the broader controls over what goes on the website.
 
 316
-00:22:03,280 --> 00:22:09,600
- everything. So I don't know whether this delay will actually be lowering the number of Hugo
+00:19:39,820 --> 00:19:42,400
+And it is not a stupid thing to do.
 
 317
-00:22:09,600 --> 00:22:13,360
- votes or just compressing everything into a two week window when it would probably be compressed
+00:19:42,400 --> 00:19:44,180
+There are arguments on both sides of this.
 
 318
-00:22:13,360 --> 00:22:15,000
- into anyway.
+00:19:44,180 --> 00:19:48,120
+But my view is that if you trust somebody to be an area head,
 
 319
-00:22:15,000 --> 00:22:21,040
- This is my question because when people were discussing this I was like I can see that having
+00:19:48,120 --> 00:19:50,520
+you should probably trust them to update their web page too.
 
 320
-00:22:21,040 --> 00:22:26,520
- fewer votes is a problem but it was less clear to me whether or not this would end up in there
+00:19:50,520 --> 00:19:52,980
+I have now found the announcement and it was in my email.
 
 321
-00:22:26,520 --> 00:22:29,280
- being less votes if that makes sense.
+00:19:52,980 --> 00:19:57,080
+And it probably says something about me that I immediately tried to find it on Facebook and Twitter
 
 322
-00:22:29,280 --> 00:22:32,160
- So yeah I completely see your point.
+00:19:57,080 --> 00:20:01,100
+and their official page before I just went and read the email, which I read this afternoon.
 
 323
-00:22:32,160 --> 00:22:37,520
- It also prevents you from doing neat little things like having the best novel Hugo presented
+00:20:01,100 --> 00:20:08,120
+But yes, it does say you can ask if there's a form to fill in if you would like to have some live training on Discord,
 
 324
-00:22:37,520 --> 00:22:40,840
- by a female astronaut and other tricks like this.
+00:20:08,120 --> 00:20:09,540
+which I think is a great initiative.
 
 325
-00:22:40,840 --> 00:22:45,280
- It's quite useful to have the hugas in the bag well before the welcome.
+00:20:09,540 --> 00:20:11,440
+I think it is a great initiative.
 
 326
-00:22:45,280 --> 00:22:49,360
- It used to be that this would have been completely impossible because the process of Hugo voting
+00:20:11,440 --> 00:20:18,080
+I will point out that anyone who has not joined New Zealand because they feel they cannot use the technology
 
 327
-00:22:49,360 --> 00:22:55,120
- involved a voting phase and then a counting phase that was long and extremely complicated
+00:20:18,080 --> 00:20:23,820
+is perhaps in need of this being announced more widely than emails to people who have joined God Zealand.
 
 328
-00:22:55,120 --> 00:23:02,880
- and I believe that now that we have very few postal votes the counting phase is very quick
+00:20:23,820 --> 00:20:26,860
+I'm not technically a God Zealand member.
 
 329
-00:23:02,880 --> 00:23:08,880
- but people are still entitled to vote by poster they cannot do that so they can.
+00:20:26,860 --> 00:20:31,880
+I'm just on their mailing list of people who have expressed interest at some point.
 
 330
-00:23:08,880 --> 00:23:14,640
- They can. The paper ballots have been up since the nominees were announced.
+00:20:31,880 --> 00:20:34,140
+So it maybe is going to a wider group there.
 
 331
-00:23:14,640 --> 00:23:17,200
- It is only the online voting that is not available.
+00:20:34,480 --> 00:20:38,340
+Yeah, and point well taken.
 
 332
-00:23:17,200 --> 00:23:19,680
- Sorry that that ruins the run.
+00:20:38,340 --> 00:20:43,820
+Actually, interestingly, as a Con Zealand member, I did not get this email.
 
 333
-00:23:19,680 --> 00:23:23,200
- In that case ignore me I'm talking about but it's still impossible because you can't actually
+00:20:43,820 --> 00:20:53,380
+So, you know, I think that all of these things make sense in terms of how Worldcon divisions are put together.
 
 334
-00:23:23,200 --> 00:23:28,720
- post anything to New Zealand with any confidence it will arrive at the moment so you know.
+00:20:53,980 --> 00:20:56,780
+And they are all volunteers doing these jobs.
 
 335
-00:23:28,720 --> 00:23:33,680
- Oh yeah I do I do sort of think that if you're casting a postal vote across the Pacific Ocean
+00:20:56,780 --> 00:20:59,480
+And like it all I completely see how all of this has happened.
 
 336
-00:23:33,680 --> 00:23:41,200
- during Covid-19 that may not be the most reliable mechanism but yes.
+00:20:59,480 --> 00:21:06,480
+But I do think at some point there needs to be a little bit of a thought about whether or not these are sensible structures
 
 337
-00:23:41,200 --> 00:23:46,320
- I like that Covid-19 is this kind of like the 2019 Hugo's in the Tits voted in
+00:21:06,480 --> 00:21:09,940
+and whether or not there is a better way to structure these things.
 
 338
-00:23:46,880 --> 00:23:50,560
- awarded in 2020. Okay.
+00:21:10,180 --> 00:21:16,360
+I realise that as someone who is identifying this problem and not volunteering for a Worldcon,
 
 339
-00:23:50,560 --> 00:23:57,760
- So this is an interesting this is an ecumenical matter. The 2020 Hugo's are awarded in 2020 for
+00:21:16,360 --> 00:21:20,560
+not that I'm definitely part of the precipitate in this regard in that I am not part of the solution.
 
 340
-00:23:57,760 --> 00:24:02,720
- works in 2019. That's right sorry these things vary quite a lot but I think it's 2019 Oscars isn't
+00:21:20,560 --> 00:21:21,320
+But.
 
 341
-00:24:02,720 --> 00:24:07,360
- it? I never know these things. Everyone does it differently there is no consensus.
+00:21:26,880 --> 00:21:29,300
+Shall we talk about Hugo voting?
 
 342
-00:24:07,360 --> 00:24:14,640
- It is it is quite interesting in that it is it is clear that they will get it together
+00:21:29,300 --> 00:21:30,980
+Yeah, it hasn't started yet.
 
 343
-00:24:14,640 --> 00:24:18,880
- we think but if they don't get it together it's going to be spectacular. I think there's
+00:21:30,980 --> 00:21:39,420
+I have had informal conversations with people who may not may or may not be connected with the people who have to actually count up the Hugos who are like,
 
 344
-00:24:18,880 --> 00:24:23,120
- quite a big risk that they get it together in in between when we record this and when the
+00:21:39,420 --> 00:21:44,040
+we think the time is now getting quite tight for for the management of the Hugo voting.
 
 345
-00:24:23,120 --> 00:24:29,120
- show is released so well done guys that was that was well timed mess up our podcast.
+00:21:44,420 --> 00:21:51,340
+So this is my question, because I well, I agree that the time is getting very tight for the Hugo voting since it is not open yet.
 
 346
-00:24:29,120 --> 00:24:32,720
- They have announced the voting will open no later than Wednesday the 8th of July so it should be
+00:21:51,340 --> 00:21:53,800
+And they're going to present them at the end of the month.
 
 347
-00:24:32,720 --> 00:24:38,560
- open by the time this podcast is released. I'm not sure it's um it's going to be a problem in
+00:21:53,800 --> 00:22:03,700
+But also, I do not know how many people actually vote throughout the voting process and how many people try and log in 10 minutes before the end of voting and frantically vote for everything.
 
 348
-00:24:38,560 --> 00:24:43,200
- practice because I don't think really you need a 13 period that's longer than a week um it'll be
+00:22:03,700 --> 00:22:07,700
+So I don't know whether this delay will actually be, you know,
 
 349
-00:24:43,200 --> 00:24:48,080
- fine they'll develop all the hugos. I do feel a bit sorry for the guys who have to engrave the
+00:22:08,400 --> 00:22:14,560
+lowering the number of Hugo votes or just compressing everything into a two week window when it would probably be compressed into anyway.
 
 350
-00:24:48,080 --> 00:24:54,000
- days on the basis as well but they're probably used to this sort of thing. But that's actually fine
+00:22:14,560 --> 00:22:19,020
+This is this is my question, because when people were discussing this, I was like,
 
 351
-00:24:54,000 --> 00:24:59,280
- because all the hugos will be being shipped around the world and so they don't necessarily
+00:22:19,020 --> 00:22:28,340
+I can see that having fewer votes is a problem, but it was less clear to me whether or not this would end up in there being less votes, if that makes sense.
 
 352
-00:24:59,280 --> 00:25:03,760
- have to be ready and engraved on the day of the Hugo ceremony. The introduction of the
+00:22:28,340 --> 00:22:31,240
+So, yeah, I completely see your point.
 
 353
-00:25:03,760 --> 00:25:12,160
- e pluribus Hugo um let's make the Hugo voting quite complicated uh amendment also means that
+00:22:31,760 --> 00:22:40,860
+It also prevents you from doing neat little things like having the best Hugo, best novel Hugo presented by a female astronaut and other tricks like this.
 
 354
-00:25:12,160 --> 00:25:16,960
- you absolutely have to do the whole thing digitally anyway and like have software that you've run
+00:22:40,860 --> 00:22:44,640
+It's quite useful to have the Hugos in the bag well before the World Cup.
 
 355
-00:25:16,960 --> 00:25:22,320
- seven or eight times to check it actually works. So I assume that when you just close your
+00:22:44,640 --> 00:22:55,140
+It used to be that this would have been completely impossible because the process of Hugo voting involved a voting phase and then a counting phase that was long and extremely complicated.
 
 356
-00:25:22,320 --> 00:25:26,400
- go voting and then you push a button and then ten minutes later you have the results but maybe
+00:22:55,140 --> 00:23:02,760
+And I believe that now that we have very few postal votes, the counting phase is very quick.
 
 357
-00:25:26,400 --> 00:25:31,680
- that's hopefully optimistic. Fingers crossed. That also presumably means that the paper votes are
+00:23:02,760 --> 00:23:07,520
+But people are still entitled to vote by post and they cannot do that.
 
 358
-00:25:31,680 --> 00:25:39,280
- transmitted uh our data entry into the digital system. I'm pretty sure that's certainly how I
+00:23:07,520 --> 00:23:08,740
+So they can.
 
 359
-00:25:39,280 --> 00:25:45,520
- would do it if I were on the Hugo um a missed a group of Hugo administrators and that is not in
+00:23:08,740 --> 00:23:09,900
+They can.
 
 360
-00:25:45,520 --> 00:25:50,880
- any way a job application guys. Um I've I've now listened to all the best fan cast so that I can
+00:23:09,900 --> 00:23:14,740
+The paper ballots have been up since the nominees were announced.
 
 361
-00:25:50,880 --> 00:26:01,280
- write an article for um for um the Glasgow 2024 bid is running some articles on um on hugo slates
+00:23:14,740 --> 00:23:16,940
+It is only the online voting that is not available.
 
 362
-00:26:01,280 --> 00:26:05,440
- and one of them is Best Fan Cast and I'm writing about it um so we can talk about that next time
+00:23:16,940 --> 00:23:19,460
+Sorry that that ruins the rant.
 
 363
-00:26:05,440 --> 00:26:10,960
- if you like a crossover but I will I will be plugging this podcast there obviously and I
+00:23:19,460 --> 00:23:20,880
+In that case, ignore me.
 
 364
-00:26:10,960 --> 00:26:16,160
- I can plug Glasgow 2024 they're going to be a great convention. Glasgow's a wonderful place to go
+00:23:20,880 --> 00:23:27,760
+I'm talking rot, but it's still impossible because you can't actually post anything to New Zealand with any confidence it will arrive at the moment.
 
 365
-00:26:16,160 --> 00:26:21,360
- to for the Worldcon you should vote for them. Does that mean I should listen to all the best
+00:23:27,760 --> 00:23:28,440
+So, you know.
 
 366
-00:26:21,360 --> 00:26:30,880
- fan casts? At 2.5 speed obviously. Yes it does make me laugh that next episode will be the only
+00:23:28,440 --> 00:23:29,320
+Oh, yeah.
 
 367
-00:26:30,880 --> 00:26:36,560
- episode we record um other than this one before the close of voting so we gave an hour
+00:23:29,320 --> 00:23:30,380
+I do.
 
 368
-00:26:36,560 --> 00:26:43,360
- to Best Mac presentation log form and then we're going to give an hour to all other
+00:23:30,380 --> 00:23:39,060
+I do sort of think that if you're casting a postal vote across the Pacific Ocean during COVID-19, that may not be the most reliable mechanism.
 
 369
-00:26:43,360 --> 00:26:52,000
- Hugo categories which is yes that's our topic for next time all the hugos in an hour starting
+00:23:39,060 --> 00:23:41,460
+But yes.
 
 370
-00:26:52,000 --> 00:26:59,040
- from here yeah all of them we can probably do it we just do like a minute per categories over a
+00:23:41,460 --> 00:23:48,040
+I like that COVID-19 is quite like the 2019 Hugos and that it's voted and awarded in 2020.
 
 371
-00:26:59,040 --> 00:27:03,680
- minute per finalist or we could have like an extra or we could have an extra log episode
+00:23:50,660 --> 00:23:54,680
+Tim, this is an interesting, this is an ecumenical matter.
 
 372
-00:27:03,680 --> 00:27:08,080
- where we talk about all of the categories and people have to add crazy Dave has to run it at
+00:23:54,680 --> 00:23:58,940
+The 2020 Hugos are awarded in 2020 for works in 2019.
 
 373
-00:27:08,080 --> 00:27:15,120
- 4.6 speed how much of our like uh Star Wars Marvel debate did you go out of the episode jump
+00:23:58,940 --> 00:23:59,960
+That's right.
 
 374
-00:27:15,120 --> 00:27:20,000
- because if you think about it I don't think the rest will be as contentious I think we all agree
+00:23:59,960 --> 00:24:01,400
+Sorry, these things vary quite a lot.
 
 375
-00:27:20,000 --> 00:27:26,720
- no if you can find a topic on which we all agree we have failed in our podcast setting up a rage
+00:24:01,400 --> 00:24:03,100
+I think it's the 2019 Oscars, isn't it?
 
 376
-00:27:26,720 --> 00:27:37,280
- with the other thing we need to talk about with regard to New Zealand is the colonized marginalized
+00:24:03,100 --> 00:24:04,360
+I never know these things.
 
 377
-00:27:37,280 --> 00:27:42,400
- and historically underrepresented people inclusion initiative which Liz knows about
+00:24:04,360 --> 00:24:05,860
+Everyone does it differently.
 
 378
-00:27:42,400 --> 00:27:49,680
- so Conzeland had a previous scholarship which was for people from marginalized communities to tend
+00:24:05,860 --> 00:24:07,040
+There is no consensus.
 
 379
-00:27:49,680 --> 00:27:56,480
- Conzeland in person and so it was aimed at people who were in New Zealand specifically those who
+00:24:07,040 --> 00:24:15,440
+It is quite interesting in that it is clear that they will get it together, we think.
 
 380
-00:27:56,480 --> 00:28:03,920
- identified as Maori, Pacifica, people of color um LGBTQI or disabled and I I'm wondering if this is
+00:24:15,440 --> 00:24:18,580
+But if they don't get it together, it's going to be spectacular.
 
 381
-00:28:03,920 --> 00:28:09,600
- now an initiative to expand that given that they're now an online and an online convention where you
+00:24:18,580 --> 00:24:24,880
+I think there's quite a big risk that they get it together in between when we record this and when the show is released.
 
 382
-00:28:09,600 --> 00:28:16,160
- don't need to be there in person so presumably adding people to the virtual convention um is
+00:24:24,880 --> 00:24:25,920
+So, well done, guys.
 
 383
-00:28:16,160 --> 00:28:22,560
- less of an issue because you don't have uh limits on your venue capacity and also your your kind of
+00:24:25,920 --> 00:24:28,900
+That was well-timed to mess up our podcast.
 
 384
-00:28:22,560 --> 00:28:27,200
- marginal costs are minimal it's just kind of expanding your online activities and making sure you have
+00:24:28,900 --> 00:24:32,220
+They have announced that voting will open no later than Wednesday, the 8th of July.
 
 385
-00:28:27,200 --> 00:28:33,360
- the people's support for them um and so they have a new membership upgrade initiative to include
+00:24:32,220 --> 00:24:35,260
+So, it should be open by the time this podcast is released.
 
 386
-00:28:33,360 --> 00:28:37,040
- support the inclusion of colonized marginalized and historically underrepresented people are at
+00:24:35,680 --> 00:24:41,900
+I'm not sure it's going to be a problem in practice because I don't think really you need a voting period that's longer than a week.
 
 387
-00:28:37,040 --> 00:28:44,160
- welcome uh which I think is great because that will hopefully allow a lot more people to attend
+00:24:41,900 --> 00:24:43,700
+It'll be fine.
 
 388
-00:28:44,160 --> 00:28:49,120
- virtually um from a lot more different places even more so than when it was actually going to be
+00:24:43,700 --> 00:24:45,200
+They'll award the Hugos.
 
 389
-00:28:49,120 --> 00:28:54,720
- physically in uh New Zealand so I think this is a great initiative it sounds like a good initiative
+00:24:45,980 --> 00:24:49,520
+I do feel a bit sorry for the guys who have to engrave the names on the bases as well.
 
 390
-00:28:54,720 --> 00:29:03,760
- um like obviously um I think inclusion in conventions is a thing that um is it really important and
+00:24:49,520 --> 00:24:51,460
+But they're probably used to this sort of thing.
 
 391
-00:29:03,760 --> 00:29:09,280
- we've talked before about how virtual conventions can be a way to achieve that and it sounds like
+00:24:51,460 --> 00:24:57,800
+But that's actually fine because all the Hugos will be being shipped around the world.
 
 392
-00:29:09,280 --> 00:29:14,800
- this initiative is kind of putting putting that into practice in a in a way which I think is really
+00:24:58,400 --> 00:25:01,920
+And so, they don't necessarily have to be ready and engraved on the day of the Hugo ceremony.
 
 393
-00:29:14,800 --> 00:29:21,360
- good um it's pretty exciting actually and as I've had numerous conversations with people who are
+00:25:01,920 --> 00:25:11,180
+The introduction of the E Pluribus Hugo, let's make the Hugo voting quite complicated amendment,
 
 394
-00:29:21,360 --> 00:29:29,120
- unable to attend Conziland because of the cost of doing it um some of those people are marginalized
+00:25:11,180 --> 00:25:19,220
+also means that you absolutely have to do the whole thing digitally anyway and have software that you've run seven or eight times to check it actually works.
 
 395
-00:29:29,120 --> 00:29:34,080
- or from groups that will probably be represented by this and we should put a link in the show notes
+00:25:19,220 --> 00:25:26,160
+So, I assume that when you just close Hugo voting and then you push a button and then ten minutes later you have the results.
 
 396
-00:29:34,080 --> 00:29:38,240
- and we should let everyone know that it's happening because this might be you is there a is there a
+00:25:26,160 --> 00:25:27,540
+But maybe that's hopefully optimistic.
 
 397
-00:29:38,240 --> 00:29:43,680
- deadline for applying for these scholarships nope they're going to say at least weekly as long as
+00:25:27,540 --> 00:25:28,720
+Fingers crossed.
 
 398
-00:29:43,680 --> 00:29:47,760
- upgrades last I don't know how long upgrades last but there you go
+00:25:28,720 --> 00:25:36,760
+That also perceivably means that the paper votes are transmitted, are data entried into the digital system.
 
 399
-00:29:47,760 --> 00:29:59,760
- recently there has been a new wave of stories concerning abuse and harassment in the community
+00:25:36,760 --> 00:25:38,380
+I'm pretty sure.
 
 400
-00:29:59,760 --> 00:30:06,160
- and a common thread between many of these is the need to be aware of two factors um firstly the
+00:25:38,380 --> 00:25:44,780
+That's certainly how I would do it if I were a group of Hugo administrators.
 
 401
-00:30:06,160 --> 00:30:11,360
- power dynamic that can exist between more established and less established members of the community
+00:25:44,780 --> 00:25:47,220
+And that is not in any way a job application, guys.
 
 402
-00:30:11,360 --> 00:30:16,560
- and uh secondly the fact that conventions are professional environments for professional members
+00:25:47,940 --> 00:26:01,340
+I've now listened to all the best fancasts so that I can write an article for the Glasgow 2024 bid is running some articles on Hugo slates.
 
 403
-00:30:16,560 --> 00:30:22,960
- of the community and there needs to be more awareness of that so this has been on twitter I think
+00:26:01,340 --> 00:26:03,920
+And one of them is best fancast and I'm writing about it.
 
 404
-00:30:22,960 --> 00:30:30,800
- mostly although obviously it has bled into other discussion venues um and I don't think we're going
+00:26:03,920 --> 00:26:06,080
+So, we can talk about that next time if you like.
 
 405
-00:30:30,800 --> 00:30:37,280
- to try and link to much because it's very widely distributed and it's very difficult to keep track
+00:26:06,080 --> 00:26:07,560
+A crossover.
 
 406
-00:30:37,280 --> 00:30:44,880
- of um but we have thoughts I thought this was interesting because I don't have this mindset of
+00:26:07,560 --> 00:26:10,700
+But I will be plugging this podcast there, obviously.
 
 407
-00:30:44,880 --> 00:30:48,800
- thinking about conventions as professional spaces because for me the conventions are not
+00:26:10,700 --> 00:26:12,500
+And I can plug Glasgow 2024.
 
 408
-00:30:48,800 --> 00:30:53,600
- professional spaces and I do have you know I do there are professional spaces that I go into
+00:26:12,500 --> 00:26:14,120
+They're going to be a great convention.
 
 409
-00:30:53,600 --> 00:30:58,320
- that are conferences in my own field and for me they feel sufficiently different from science
+00:26:14,120 --> 00:26:17,060
+Glasgow is a wonderful place to go to for the Worldcon.
 
 410
-00:30:58,320 --> 00:31:02,720
- fiction conventions that I don't really think of conventions in that professional way and so
+00:26:17,060 --> 00:26:18,000
+You should vote for them.
 
 411
-00:31:02,720 --> 00:31:08,960
- I've been thinking about where this might give me um blind spots in particular I think because I
+00:26:18,000 --> 00:26:22,240
+Does that mean I should listen to all the best fancasts?
 
 412
-00:31:08,960 --> 00:31:13,360
- don't think of them as being professional events for me I don't think of myself as really having
+00:26:22,240 --> 00:26:24,000
+At 2.5 speed, obviously.
 
 413
-00:31:13,360 --> 00:31:20,000
- any power in them when maybe I should because if I am say working on program convention and I
+00:26:24,000 --> 00:26:35,020
+Yes, it does make me laugh that next episode will be the only episode we record other than this one before the close of voting.
 
 414
-00:31:20,000 --> 00:31:26,400
- have a lot of power over who does and who doesn't get lots of panels lots of readings lots for
+00:26:35,020 --> 00:26:39,780
+So, we gave an hour to Best Dramatical Log Form.
 
 415
-00:31:26,400 --> 00:31:33,520
- cafe clutches how much am I projecting my own biases on there and kind of rewarding professional
+00:26:39,780 --> 00:26:46,320
+And then we're going to give an hour to all other Hugo categories, which is...
 
 416
-00:31:33,520 --> 00:31:40,320
- names I know and not rewarding professional names I don't know things like that um is what I think
+00:26:46,320 --> 00:26:48,620
+Yes, that's our topic for next time.
 
 417
-00:31:40,320 --> 00:31:45,440
- of as just being a hobby of setting these things up actually something which can make a difference to
+00:26:48,620 --> 00:26:51,160
+All the Hugos in an hour.
 
 418
-00:31:45,440 --> 00:31:51,760
- maybe to the careers of quite junior people who would really like the platform that they can get
+00:26:51,160 --> 00:26:52,760
+Starting from here.
 
 419
-00:31:51,760 --> 00:31:58,960
- at a convention to try and develop their professional careers and also in that a lot of the issues
+00:26:52,760 --> 00:26:53,240
+Yeah.
 
 420
-00:31:58,960 --> 00:32:05,360
- that have been talked about seem to involve interactions in convention bars this gets us back to the I
+00:26:53,600 --> 00:26:54,460
+All of them.
 
 421
-00:32:05,360 --> 00:32:10,160
- think well discussed previously a problem that a lot of interaction does take places in bars and
+00:26:54,460 --> 00:26:54,940
+All of them.
 
 422
-00:32:10,160 --> 00:32:16,480
- in particular places with alcohol consumption which obviously is fun for a lot of us but may lead to
+00:26:54,940 --> 00:26:56,960
+We could probably do it.
 
 423
-00:32:17,440 --> 00:32:22,800
- extra problems of how do you keep things professional if you are drinking in the bar with people who
+00:26:56,960 --> 00:27:00,520
+We just do like a minute per category instead of a minute per finalist.
 
 424
-00:32:22,800 --> 00:32:30,320
- may have the power to help or hinder your career that seems remarkably reasonable I think I want
+00:27:00,520 --> 00:27:02,420
+Or we could have like an extra...
 
 425
-00:32:30,320 --> 00:32:37,920
- to go slightly further obviously conventions are for some people a professional space they are not
+00:27:02,420 --> 00:27:05,240
+Or we could have an extra long episode where we talk about all of the categories.
 
 426
-00:32:37,920 --> 00:32:44,160
- I think primarily a professional space um we I think we would probably most say that the most
+00:27:05,240 --> 00:27:06,700
+And people have to...
 
 427
-00:32:44,800 --> 00:32:49,680
- most possible degree that the most successful conventions um certainly the most successful
+00:27:06,700 --> 00:27:09,200
+And Crazy Dave has to run it at 4.6 speed.
 
 428
-00:32:49,680 --> 00:32:56,160
- larger conventions are a weird hybrid between personal professional space in that although they
+00:27:09,620 --> 00:27:15,240
+How much of our, like, Star Wars, Marvel debate did you cut out of that episode, John?
 
 429
-00:32:56,160 --> 00:33:04,080
- were originally set up by fans as a way to spend social time and they are almost exclusively run
+00:27:15,240 --> 00:27:17,080
+Because if you think about it...
 
 430
-00:33:04,080 --> 00:33:10,800
- by fans um volunteering to do the organizing it is certainly true that professionals who
+00:27:17,080 --> 00:27:19,380
+I don't think the rest will be as contentious.
 
 431
-00:33:10,800 --> 00:33:16,240
- are attending the convention professionally enhance the convention in many ways and as I've just kind
+00:27:19,380 --> 00:27:20,260
+I think we all agree.
 
 432
-00:33:16,240 --> 00:33:22,960
- of started in a tiny little way attending a conventions professional is valid as well as personally
+00:27:20,260 --> 00:27:22,040
+No, I'm not going to start the argument.
 
 433
-00:33:22,960 --> 00:33:31,040
- that I do feel that kind of strange the edge of well I would do this but I will not do this because
+00:27:22,040 --> 00:27:26,980
+If you can find a topic on which we all agree we have failed in our podcast setting up arrangements.
 
 434
-00:33:31,040 --> 00:33:37,680
- it is a it is a professional barrier from your or here is this thing that I can I may be able to
+00:27:32,040 --> 00:27:42,640
+The other thing we need to talk about with regard to New Zealand is the colonised, marginalised and historically underrepresented people inclusion initiative, which Liz knows about.
 
 435
-00:33:37,680 --> 00:33:41,440
- provide a professional service to a convention but is it right for me to provide a professional
+00:27:42,640 --> 00:27:51,940
+So Con Zealand had a previous scholarship, which was for people from marginalised communities to attend Con Zealand in person.
 
 436
-00:33:41,440 --> 00:33:48,480
- service to that convention while I am also a fan attending the convention um I I feel that it is
+00:27:51,940 --> 00:28:01,660
+And so it was aimed at people who were in New Zealand, particularly those who identified as Maori, Pacifica, people of Kura, LGBTQI or disabled.
 
 437
-00:33:48,480 --> 00:33:54,960
- not reasonable to expect everybody in a convention bar in the evening to behave as if they were
+00:28:01,660 --> 00:28:11,260
+And I'm wondering if this is now an initiative to expand that, given that they're now an online convention where you don't need to be there in person.
 
 438
-00:33:54,960 --> 00:34:00,320
- at a professional event and and you would not necessarily want that to happen I think that
+00:28:11,260 --> 00:28:21,100
+So presumably adding people to the virtual convention is less of an issue because you don't have limits on your venue capacity.
 
 439
-00:34:00,320 --> 00:34:09,760
- I've seen some calls for alcohol and bars at conventions to be um but banned or relegated and I do feel
+00:28:21,100 --> 00:28:23,960
+And also your kind of marginal costs are minimal.
 
 440
-00:34:09,760 --> 00:34:18,000
- that that those people are missing the point or certainly the point for me because I am although
+00:28:23,960 --> 00:28:28,720
+It's just kind of expanding your online activities and making sure you have the people support for them.
 
 441
-00:34:18,000 --> 00:34:25,680
- I do do some professional work at cons I am primarily there to um have fun with my mates um I feel
+00:28:29,280 --> 00:28:46,980
+And so they have a new membership upgrade initiative to support the inclusion of colonised, marginalised and historically underrepresented people at Wellcome, which I think is great because that will hopefully allow a lot more people to attend virtually from a lot more different places.
 
 442
-00:34:25,680 --> 00:34:30,800
- that at least one of the stories that I've read has arisen out of somebody believing that they
+00:28:46,980 --> 00:28:51,300
+Even more so than when it was actually going to be physically in New Zealand.
 
 443
-00:34:30,800 --> 00:34:35,760
- were engaging in a professional relationship where it's quite possible that the other people involved
+00:28:51,300 --> 00:28:52,980
+So I think this is a great initiative.
 
 444
-00:34:35,760 --> 00:34:40,320
- in this primarily saw the relationship as a personal one that didn't contain a professional
+00:28:53,520 --> 00:28:54,860
+It sounds like a good initiative.
 
 445
-00:34:40,320 --> 00:34:47,600
- component and I think there is the issue the one where the issue of how much power as a as a
+00:28:54,860 --> 00:29:03,660
+Like, obviously, I think inclusion in conventions is a thing that is really important.
 
 446
-00:34:47,600 --> 00:34:53,280
- and a very established writer or he did even as a quote big name fowl I am putting big name fan in
+00:29:03,660 --> 00:29:08,500
+And we've talked before about how virtual conventions can be a way to achieve that.
 
 447
-00:34:53,280 --> 00:35:00,240
- actual scarecoats because these things do not actually exist and and it has always been a joke
+00:29:08,500 --> 00:29:15,200
+And it sounds like this initiative is kind of putting that into practice in a way, which I think is really good.
 
 448
-00:35:00,240 --> 00:35:05,440
- I think except obviously it isn't a joke in some ways so and whether people like that do have more
+00:29:16,200 --> 00:29:17,740
+It's pretty exciting, actually.
 
 449
-00:35:05,440 --> 00:35:12,240
- power than they realize you say about big name fans being a joke and and and I see where you're
+00:29:17,740 --> 00:29:32,380
+And as I've had numerous conversations with people who are unable to attend Con Zealand because of the cost of doing it, some of those people are marginalised or from groups that will probably be represented by this.
 
 450
-00:35:12,240 --> 00:35:19,040
- coming from I I don't feel um I don't feel that the fact that I have been in fandom for longer
+00:29:32,380 --> 00:29:37,260
+And we should put a link in the show notes and we should also let everyone know that it's happening because this might be you.
 
 451
-00:35:19,040 --> 00:35:24,400
- than some people gives me any power but it might be that that's because I haven't thought properly
+00:29:37,660 --> 00:29:40,160
+Is there a deadline for applying for these scholarships?
 
 452
-00:35:24,400 --> 00:35:34,480
- about it what professor hugo nominated mark protector or neglector um the boy um major podcast
+00:29:40,160 --> 00:29:41,600
+Nope.
 
 453
-00:35:34,480 --> 00:35:41,760
- editor the coxern yes this this neatly encapsulates the problem which is if you asked me are you
+00:29:41,600 --> 00:29:44,660
+They're going to say at least weekly as long as upgrades last.
 
 454
-00:35:41,760 --> 00:35:48,880
- powerful I would probably not immediately rush to say yes and I think that means that I
+00:29:44,660 --> 00:29:47,960
+I don't know how long upgrades last, but there you go.
 
 455
-00:35:48,880 --> 00:35:54,960
- haven't thought properly about it because I think I do have a I have obviously acutely aware of many
+00:29:47,960 --> 00:29:59,580
+Recently, there has been a new wave of stories concerning abuse and harassment in the community.
 
 456
-00:35:54,960 --> 00:36:00,640
- of my axes of privilege um but I think that is an axis of privilege I have not properly thought
+00:29:59,580 --> 00:30:04,820
+And a common thread between many of these is the need to be aware of two factors.
 
 457
-00:36:00,640 --> 00:36:04,880
- about and I think the problem with saying oh you know there's not really any such thing as a big
+00:30:05,800 --> 00:30:11,040
+Firstly, the power dynamic that can exist between more established and less established members of the community.
 
 458
-00:36:04,880 --> 00:36:09,520
- name fad like I do completely understand where you're coming from but I do wonder whether that is
+00:30:11,040 --> 00:30:17,380
+And secondly, the fact that conventions are professional environments for professional members of the community.
 
 459
-00:36:09,520 --> 00:36:16,160
- because we don't properly think about how those power dynamics are actually um in effect in fandom
+00:30:17,380 --> 00:30:19,720
+And there needs to be more awareness of that.
 
 460
-00:36:16,960 --> 00:36:22,160
- because I think if you meet someone I remember the first time you know meeting some fans I
+00:30:19,720 --> 00:30:27,640
+So this has been on Twitter, I think, mostly, although obviously it has bled into other discussion venues.
 
 461
-00:36:22,160 --> 00:36:26,960
- don't really heard about you do I remember being scared to meet Greg Pickers Gill right you were
+00:30:28,640 --> 00:30:37,700
+And I don't think we're going to try and link to much because it's very widely distributed and it's very difficult to keep track of.
 
 462
-00:36:26,960 --> 00:36:33,040
- right I'm not necessarily saying he is powerful uh but in some ways he definitely is he had a
+00:30:37,700 --> 00:30:39,240
+But we have thoughts.
 
 463
-00:36:33,040 --> 00:36:37,680
- power over me when I was a new fan and it's also very easy for me to forget that I've been fandom
+00:30:39,240 --> 00:30:47,480
+I thought this was interesting because I don't have this mindset of thinking about conventions as professional spaces,
 
 464
-00:36:37,680 --> 00:36:44,240
- for 15 years now so I'm not new anymore and I think it's double easy to forget that because there
+00:30:47,480 --> 00:30:49,820
+because for me, the conventions are not professional spaces.
 
 465
-00:36:44,240 --> 00:36:48,560
- are people who have been in fandom a lot longer than me who think I am still new so these are all
+00:30:50,060 --> 00:30:55,520
+And I do have, you know, I do, there are professional spaces that I go into that are conferences in my own field.
 
 466
-00:36:48,560 --> 00:36:56,800
- really interesting um overlapping power dynamics which are I think quite easy not to think about
+00:30:56,000 --> 00:31:02,280
+And for me, they feel sufficiently different from science fiction conventions that I don't really think of conventions in that professional way.
 
 467
-00:36:56,800 --> 00:37:02,240
- which is bad but you know but there are people there are people there are quite a lot of people
+00:31:02,280 --> 00:31:07,420
+And so I've been thinking about where this might give me blind spots.
 
 468
-00:37:02,240 --> 00:37:08,480
- at the EasterCon who are not very established in their careers who believe very strongly that
+00:31:07,720 --> 00:31:11,580
+In particular, I think because I don't think of them as being professional events for me,
 
 469
-00:37:08,480 --> 00:37:14,160
- it's very important to be there and I've been on panels with people who I I think were very
+00:31:11,580 --> 00:31:14,680
+I don't think of myself as really having any power in them.
 
 470
-00:37:14,160 --> 00:37:22,480
- introverted writers who almost certainly write very well but who who honestly I think would rather
+00:31:14,680 --> 00:31:25,420
+When maybe I should, because if I am, say, working on program convention and I have a lot of power over who does and who doesn't get slots for panels,
 
 471
-00:37:22,480 --> 00:37:30,800
- have been in a bucket of of live crabs for an hour than on an EasterCon panel having to say
+00:31:25,420 --> 00:31:27,300
+slots for readings, slots for cafe clutches,
 
 472
-00:37:30,800 --> 00:37:35,760
- things about things and I did feel very sorry for these people and then again who felt that that
+00:31:27,300 --> 00:31:34,820
+how much am I projecting my own biases on there and kind of rewarding professional names I know
 
 473
-00:37:35,760 --> 00:37:41,680
- was part of professional development for a writer yes I mean what I would hope actually is that
+00:31:34,820 --> 00:31:37,200
+and not rewarding professional names I don't know?
 
 474
-00:37:42,960 --> 00:37:47,760
- going to EasterCons and other conventions is fun but I would like it if it didn't have that much
+00:31:37,200 --> 00:31:38,320
+Things like that.
 
 475
-00:37:47,760 --> 00:37:54,080
- impact on careers yes I would agree with that because I do think it I think it is a bunch of
+00:31:38,320 --> 00:31:43,360
+Is what I think of as just being a hobby of setting these things up,
 
 476
-00:37:54,080 --> 00:37:59,920
- the underrepresented people even further because they're not the people who may feel that they are
+00:31:43,360 --> 00:31:48,520
+actually something which can make a difference to maybe to the careers of quite junior people
 
 477
-00:37:59,920 --> 00:38:05,520
- able or feel safe in going into a convention bar and you know having a few pints and trying to
+00:31:48,520 --> 00:31:55,840
+who would really like the platform that they can get at a convention to try and develop their professional careers.
 
 478
-00:38:05,520 --> 00:38:11,280
- just moves with publishing professionals because also as we've seen it's those people who are
+00:31:55,840 --> 00:32:03,240
+And also in that a lot of the issues that have been talked about seem to involve interactions in convention bars.
 
 479
-00:38:12,240 --> 00:38:19,520
- taking the bulk of the harassment in situations where it does go wrong and it is not all kind of
+00:32:03,240 --> 00:32:12,940
+This gets us back to the, I think, well discussed previously problem that a lot of interaction does take places in bars and in particular places with alcohol consumption,
 
 480
-00:38:19,520 --> 00:38:24,160
- nice fun and games and there are power imbalances and and the question there is whether the harassment
+00:32:12,940 --> 00:32:15,440
+which obviously is fun for a lot of us,
 
 481
-00:38:24,160 --> 00:38:29,920
- or not seriously harassment but whether the unfortunate some of the unfortunate outcomes arise
+00:32:15,440 --> 00:32:26,280
+but may lead to extra problems of how do you keep things professional if you are drinking in the bar with people who may have the power to help or hinder your career.
 
 482
-00:38:29,920 --> 00:38:36,880
- from a situation where people who are marginalized to begin with feel that they have to go outside
+00:32:26,520 --> 00:32:29,080
+That seems remarkably reasonable.
 
 483
-00:38:36,880 --> 00:38:43,120
- their comfort zone in order to gain acceptance in in the community and as a result
+00:32:29,080 --> 00:32:31,940
+I think I want to go slightly further.
 
 484
-00:38:43,120 --> 00:38:48,480
- do things that that they probably wouldn't do if they weren't doing them for professional
+00:32:31,940 --> 00:32:36,900
+Obviously conventions are for some people a professional space.
 
 485
-00:38:48,480 --> 00:38:53,920
- reasons and at that point you're into a very difficult situation very difficult situations that
+00:32:36,900 --> 00:32:41,020
+They are not, I think, primarily a professional space.
 
 486
-00:38:53,920 --> 00:38:59,280
- you know as we know from other industries lead to terrible abuses and I think it's we should be
+00:32:42,460 --> 00:32:47,480
+I think we would probably most say that the most, most of us would agree that the most successful conventions,
 
 487
-00:38:59,280 --> 00:39:05,520
- clear that convention should be aware of the potential for problems and try and have
+00:32:47,480 --> 00:32:55,560
+certainly the most successful larger conventions, are a weird hybrid between personal and professional space in that,
 
 488
-00:39:06,080 --> 00:39:12,080
- good codes of conduct good harassment policies and things to try and mitigate against all these
+00:32:55,560 --> 00:33:01,920
+although they were originally set up by fans as a way to spend social time,
 
 489
-00:39:12,080 --> 00:39:19,040
- problems and and obviously listener services and systems so that people who are finding something
+00:33:01,920 --> 00:33:08,980
+and they are almost exclusively run by fans volunteering to do the organising.
 
 490
-00:39:19,040 --> 00:39:27,920
- is is amiss but at least one of these things that's come out the the incident may happen now and it
+00:33:08,980 --> 00:33:15,740
+It is certainly true that professionals who are attending the convention professionally enhance the convention in many ways.
 
 491
-00:39:27,920 --> 00:39:36,640
- may only be years down the line that the ramifications of that come to light I think that's that the
+00:33:15,740 --> 00:33:18,780
+And as I've just kind of started in a tiny little way,
 
 492
-00:39:36,640 --> 00:39:41,760
- sort of thing and there's only so much the conventions could do there you know if you're in a position
+00:33:18,780 --> 00:33:22,580
+attending conventions professionally as well as personally,
 
 493
-00:39:41,760 --> 00:39:47,200
- of power try not to abuse it try to realize that the person may be talking to you not because they
+00:33:23,300 --> 00:33:26,680
+that I do feel that kind of strange,
 
 494
-00:39:47,200 --> 00:39:51,840
- like you and think you're marvelous but because they think you may be able to help your career
+00:33:26,680 --> 00:33:28,400
+the edge of, well,
 
 495
-00:39:51,840 --> 00:39:58,400
- adapt accordingly that has been the ninth episode of octa thought thank you very much
+00:33:28,400 --> 00:33:29,840
+I would do this,
 
 496
-00:39:58,400 --> 00:40:04,640
- for listening and it is goodbye from me it's goodbye from me and it's goodbye from me the theme music
+00:33:29,840 --> 00:33:31,880
+but I will not do this because it is a,
 
 497
-00:40:04,640 --> 00:40:11,520
- for this episode was spamfare for space by kevin mccloud at ncompetech.com used under a creative commons
+00:33:31,880 --> 00:33:34,680
+it is a professional barrier for me.
 
 498
-00:40:11,520 --> 00:40:19,680
- attribution 3.0 license
+00:33:34,680 --> 00:33:36,780
+Or here is this thing that I can,
 
 499
-00:40:20,160 --> 00:40:29,280
- so before we leave you we're going to talk a little bit about staying sane in the apocalypse
+00:33:36,780 --> 00:33:39,700
+I may be able to provide a professional service to a convention,
 
 500
-00:40:29,280 --> 00:40:34,640
- so allison what have you been doing to stay sane in the apocalypse the the country seems to have
+00:33:39,700 --> 00:33:42,780
+but is it right for me to provide a professional service to that convention?
 
 501
-00:40:34,640 --> 00:40:39,840
- decided that we all have to go out to pubs and restaurants and i have not been doing that but i
+00:33:43,140 --> 00:33:45,860
+While I am also a fan attending the convention.
 
 502
-00:40:39,840 --> 00:40:45,840
- have come to visit my parents which is legal as of yesterday so we're here for two nights which i
+00:33:45,860 --> 00:33:56,360
+I feel that it is not reasonable to expect everybody in a convention bar in the evening to behave as if they were at a professional event.
 
 503
-00:40:45,840 --> 00:40:50,800
- believe is allowed within the law and obviously they are getting on so it's quite nice to be
+00:33:56,360 --> 00:33:56,800
+And,
 
 504
-00:40:50,800 --> 00:40:56,080
- able to come up and help them with symptoms most of which involve operating systems and i feel like
+00:33:56,800 --> 00:33:58,820
+and you would not necessarily want that to happen.
 
 505
-00:40:56,080 --> 00:41:02,800
- it's back to being it's the first time i felt that i've done anything that's felt like my normal life
+00:33:58,820 --> 00:34:08,940
+I think that I've seen some calls for alcohol and bars at conventions to be banned or relegated.
 
 506
-00:41:02,800 --> 00:41:11,120
- for months on end so that's quite nice but i still think in general i'm not that sane and we are
+00:34:09,040 --> 00:34:09,280
+And I,
 
 507
-00:41:11,120 --> 00:41:17,440
- still in an apocalypse oh and if we're greetings to all our american listeners who are really just
+00:34:09,280 --> 00:34:10,260
+I do feel that,
 
 508
-00:41:17,440 --> 00:41:21,200
- kind of at the beginning of an apocalypse right now so i'm very worried for america
+00:34:10,260 --> 00:34:16,760
+that those people are missing the point or certainly the point for me,
 
 509
-00:41:21,200 --> 00:41:28,720
- i mean i think we're actually in several apocalypse is simultaneously but there is one main one but
+00:34:16,760 --> 00:34:17,520
+because I am,
 
 510
-00:41:28,720 --> 00:41:33,200
- personally this week i went to work for two days i worked for my coffee shop one day because all
+00:34:17,520 --> 00:34:19,840
+although I do do some professional work at cons,
 
 511
-00:41:33,200 --> 00:41:38,000
- the power was going off for the annual electrical check in my apartment and i forgot about this
+00:34:19,840 --> 00:34:24,040
+I am primarily there to have fun with my mates.
 
 512
-00:41:38,000 --> 00:41:45,120
- until the air conditioning went off one morning um i have also been to a bar although all the bars
+00:34:24,040 --> 00:34:39,020
+I feel that at least one of the stories that I've read has arisen out of somebody believing that they were engaging in a professional relationship where it's quite possible that the other people involved in this primarily saw the relationship as a personal relationship.
 
 513
-00:41:45,120 --> 00:41:49,920
- here are already like table service and someone brings you your drinks so i did not like have to go
+00:34:39,020 --> 00:34:41,020
+one that didn't contain a professional component.
 
 514
-00:41:49,920 --> 00:41:54,480
- and cram up at the bar trying to retrieve my pipes they bring them to you it's obviously civilised
+00:34:41,020 --> 00:34:42,600
+And I think there is the issue,
 
 515
-00:41:54,480 --> 00:42:01,520
- so it it does feel more like i am doing the normal everyday things i would do them before but i am
+00:34:42,600 --> 00:34:46,660
+the one where the issue of how much power as a,
 
 516
-00:42:01,520 --> 00:42:07,680
- doing them all while wearing a mask so that's obviously a kind of reminder of what's going on
+00:34:46,660 --> 00:34:47,800
+as a,
 
 517
-00:42:07,680 --> 00:42:14,160
- oh my other thing is that um i happened to be reading the anthology new suns original
+00:34:47,800 --> 00:34:51,220
+and a very established writer or indeed even as a quote,
 
 518
-00:42:14,160 --> 00:42:19,600
- speculative fiction by people of color but edited by niecesheull i haven't reading that this week and
+00:34:51,220 --> 00:34:52,020
+big name fan.
 
 519
-00:42:19,600 --> 00:42:26,240
- it is very good it's it's it's not a themed anthology it's just an anthology of like excellent speculative
+00:34:52,020 --> 00:34:57,020
+I am putting big name fan in actual scarecoats because these things do not actually exist.
 
 520
-00:42:26,240 --> 00:42:33,360
- fiction and it it's got a very high hit rate for me and while i was reading it happened to win the
+00:34:57,020 --> 00:34:58,120
+And,
 
 521
-00:42:33,360 --> 00:42:37,920
- local award for best anthology so it you should go out and get that i have this day saying in the
+00:34:58,120 --> 00:35:00,160
+and it has always been a joke,
 
 522
-00:42:37,920 --> 00:42:45,680
- apocalypse um by uh it will not surprise anyone to learn playing board games um i recently discovered
+00:35:00,160 --> 00:35:00,960
+I think,
 
 523
-00:42:45,680 --> 00:42:53,040
- the joys of print and play board games i have found a website called docs direct dot com
+00:35:00,960 --> 00:35:03,060
+except obviously it isn't a joke in some ways.
 
 524
-00:42:53,040 --> 00:42:58,800
- you could put your beautiful game cards in the show notes john because they really are a thing
+00:35:03,060 --> 00:35:03,340
+So,
 
 525
-00:42:58,800 --> 00:43:08,640
- of beauty i was very impressed i purchased i purchased several 300 gsm satin prince various board game
+00:35:03,340 --> 00:35:07,020
+and whether people like that do have more power than they realize.
 
 526
-00:43:08,640 --> 00:43:15,840
- print and play stuff and i bought a corner cutter which makes square corners round and i got my
+00:35:07,520 --> 00:35:10,160
+You say about big name fans being a joke and,
 
 527
-00:43:15,840 --> 00:43:22,560
- craft knife and my i would i would say cutting board but i actually use a cardboard envelope
+00:35:10,160 --> 00:35:10,380
+and,
 
 528
-00:43:22,560 --> 00:43:29,040
- because i am pro and i got on with it and now i have print-a-play board games to play even more
+00:35:10,380 --> 00:35:13,000
+and I see where you're coming from.
 
 529
-00:43:29,040 --> 00:43:34,720
- board games um also it's like kia like kia's still there had to cute again wasn't that bad
+00:35:13,000 --> 00:35:13,240
+I,
 
 530
-00:43:34,720 --> 00:43:40,080
- social distancing was fine um most are very good well like kia's always had to go all the way
+00:35:13,240 --> 00:35:14,340
+I don't feel,
 
 531
-00:43:40,080 --> 00:43:44,560
- around the shop on a one-way system hasn't it yes actually this is one of the things that really
+00:35:14,340 --> 00:35:15,240
+um,
 
 532
-00:43:44,560 --> 00:43:49,920
- made it difficult which is the bit immediately upon getting in was very crowded but as soon as you
+00:35:15,240 --> 00:35:21,060
+I don't feel that the fact that I have been in fandom for longer than some people gives me any power,
 
 533
-00:43:49,920 --> 00:43:54,640
- got through that bit it was all fine um and the other thing is that my parents are coming to visit
+00:35:21,060 --> 00:35:25,280
+but it might be that that's because I haven't thought properly about it.
 
 534
-00:43:54,640 --> 00:43:58,000
- next week which i am very much looking forward to and there's day in a hotel they're not staying
+00:35:25,280 --> 00:35:26,240
+What?
 
 535
-00:43:58,000 --> 00:44:05,600
- with us because our house is small enough that it might be difficult um to do social distancing
+00:35:26,240 --> 00:35:27,720
+Professor Hugo nominated,
 
 536
-00:44:05,600 --> 00:44:09,600
- in our house um but yes uh looking forward to that very much
+00:35:27,720 --> 00:35:29,660
+Mark Protector or Neglector,
 
 537
-00:44:09,600 --> 00:44:15,840
- hurrah for people i haven't seen people in so long i'm still not going as far as going to iKEA
+00:35:29,660 --> 00:35:30,440
+um,
 
 538
-00:44:15,840 --> 00:44:20,480
- iKEA can still bring stuff to me on a truck as far as i'm concerned yeah i'm only going into
+00:35:30,440 --> 00:35:31,340
+the boy,
 
 539
-00:44:20,480 --> 00:44:23,840
- shops when it's absolutely essential which means when they sell almond croissants
+00:35:31,340 --> 00:35:32,380
+um,
 
 540
-00:44:23,840 --> 00:44:32,560
- that's fair no i mean so i would have gotten we have been mostly getting delivery um i will say
+00:35:32,380 --> 00:35:35,160
+major podcast editor,
 
 541
-00:44:32,560 --> 00:44:39,520
- the problem is that iKEA's delivery is not um priced if you're just buying like a couple of
+00:35:35,160 --> 00:35:36,440
+the coxswain,
 
 542
-00:44:39,520 --> 00:44:44,240
- odds and ends for your bathroom the delivery costs are exorbitant if we would be getting like you
+00:35:36,500 --> 00:35:36,820
+yes.
 
 543
-00:44:44,240 --> 00:44:48,640
- know several bits of furniture i probably would have done that but i just needed like a toilet roll
+00:35:36,820 --> 00:35:37,580
+This,
 
 544
-00:44:48,640 --> 00:44:55,920
- holder and a mirror and other things like that so so yeah oh it's a good point because iKEA here
+00:35:37,580 --> 00:35:39,760
+this neatly encapsulates the problem,
 
 545
-00:44:55,920 --> 00:45:00,960
- will deliver mine a bit some pieces for about three quid so yeah they just put them in the post
+00:35:39,760 --> 00:35:41,300
+which is if you asked me,
 
 546
-00:45:00,960 --> 00:45:06,400
- i've certainly got odd things delivered from iKEA without i think there was one thing we tried
+00:35:41,300 --> 00:35:42,360
+are you powerful?
 
 547
-00:45:06,400 --> 00:45:12,720
- that they wanted to deliver for the full whack and that's the problem it's if you're bigger than
+00:35:42,360 --> 00:35:45,660
+I would probably not immediately rush to say yes.
 
 548
-00:45:12,720 --> 00:45:17,760
- whatever could go it it like it's but it'll be your towel rail or something yeah well like it
+00:35:45,660 --> 00:35:52,580
+And I think that means that I haven't thought properly about it because I think I do have a,
 
 549
-00:45:17,760 --> 00:45:23,200
- might have been the bin oh yeah bins i'll get you the bin might have been too big but yeah like
+00:35:52,580 --> 00:35:53,300
+I,
 
 550
-00:45:23,200 --> 00:45:29,360
- but it was fine i wore my mask um i walked didn't didn't use public transport um so yeah it was fine
+00:35:53,300 --> 00:35:56,500
+I am obviously acutely aware of many of my axes of privilege.
 
 551
-00:45:29,360 --> 00:45:36,000
- i am not sympathetic um oh and i'm taking part in a University of Southampton um
+00:35:56,500 --> 00:35:57,120
+Um,
 
 552
-00:45:36,560 --> 00:45:45,600
- southlinson NHS uh covid 19 testing pilot program where i spit in a small vial and they tell me if
+00:35:57,120 --> 00:35:58,680
+but I think that is an axis of privilege.
 
 553
-00:45:45,600 --> 00:45:51,200
- i have coronavirus they don't tell me if i have had coronavirus they tell me if i currently have
+00:35:58,920 --> 00:36:01,200
+I have not properly thought about,
 
 554
-00:45:51,200 --> 00:45:57,600
- coronavirus and i think this is part of them trying to get set up for city-wide testing and
+00:36:01,200 --> 00:36:03,260
+and I think the problem with saying,
 
 555
-00:45:57,600 --> 00:46:02,320
- kind of instantaneous timescales or as near as you can get when you're doing this kind of thing
+00:36:03,260 --> 00:36:03,440
+oh,
 
 556
-00:46:03,200 --> 00:46:07,840
- so yeah i'm helping yeah we cannot tell you if you have had coronavirus from your saliva we need
+00:36:03,440 --> 00:36:03,660
+you know,
 
 557
-00:46:07,840 --> 00:46:13,520
- your blood for that john so so we can actually so i can't do blood tests at home i pass out so
+00:36:03,660 --> 00:36:05,520
+there's not really any such thing as a big name fan.
 
 558
-00:46:13,520 --> 00:46:19,200
- spit test is good enough then because an awful lot of people have been stuffing things up their noses
+00:36:05,520 --> 00:36:05,780
+Like,
 
 559
-00:46:19,200 --> 00:46:25,440
- and and it seems like if a spit test was adequate for this wouldn't they just be spitting so there
+00:36:05,780 --> 00:36:07,840
+I do completely understand where you're coming from,
 
 560
-00:46:25,440 --> 00:46:32,560
- are various papers comparing the utility of uh an asiparangial swab to saliva and saliva does
+00:36:07,840 --> 00:36:14,120
+but I do wonder whether that is because we don't properly think about how those power dynamics are actually,
 
 561
-00:46:32,560 --> 00:46:36,240
- seem to come out quite well but i think there's some slightly contradictory results and the other
+00:36:14,120 --> 00:36:14,960
+um,
 
 562
-00:46:36,240 --> 00:46:41,040
- problem is that i think trying to get people to swap their own noses and throat successfully at home
+00:36:14,960 --> 00:36:16,240
+in effect in fandom.
 
 563
-00:46:41,040 --> 00:46:44,960
- is quite difficult because really needs a swab you know that you need to like swab your tonsils without
+00:36:16,240 --> 00:36:17,160
+Um,
 
 564
-00:46:44,960 --> 00:46:48,960
- like touching the rest of your mouth which is quite complicated and possibly just spitting in a tube
+00:36:17,160 --> 00:36:18,720
+because I think if you meet someone,
 
 565
-00:46:48,960 --> 00:46:55,520
- is better i can spit in a tube successfully but i cannot do any of the other things and i got i
+00:36:18,720 --> 00:36:20,320
+I remember the first time,
 
 566
-00:46:55,520 --> 00:46:59,520
- got a blood test at home once and it was like prick your prick your thumb and put blood in the thing
+00:36:20,320 --> 00:36:20,740
+you know,
 
 567
-00:46:59,520 --> 00:47:05,040
- and i have a phobia blood but i was like i could just prick my thumb i can't i can't as it turns out
+00:36:20,740 --> 00:36:23,300
+meeting some fans I'd only heard about,
 
 568
-00:47:05,040 --> 00:47:09,840
- much easier to get the trained with different city to have the blood test that is to do at home
+00:36:23,300 --> 00:36:23,820
+you do.
 
 569
-00:47:09,840 --> 00:47:16,480
- for john i'll just come around with like a diamond pen and write blue on it for you john and i will
+00:36:23,820 --> 00:36:26,740
+I remember being scared to meet Greg Pickersgill.
 
 570
-00:47:16,480 --> 00:47:23,040
- charge you only 20 quid i didn't say like in what time slot i would come and visit you john yeah in
+00:36:26,940 --> 00:36:27,480
+You were right.
 
 571
-00:47:23,040 --> 00:47:31,040
- fact john if if i promise to do that will you quarantine me for 14 days in your house oh hello
+00:36:27,480 --> 00:36:30,160
+I'm not necessarily saying he is powerful.
 
 572
-00:47:31,040 --> 00:47:38,960
- hello uh why is she unhappy
+00:36:30,160 --> 00:36:31,240
+Uh,
+
+573
+00:36:31,240 --> 00:36:33,060
+but in some ways he definitely is.
+
+574
+00:36:33,060 --> 00:36:34,600
+He had a power over me when I was a new fan.
+
+575
+00:36:34,600 --> 00:36:39,640
+And it's also very easy for me to forget that I've been in fandom for 15 years now.
+
+576
+00:36:39,640 --> 00:36:41,720
+So I'm not new anymore.
+
+577
+00:36:41,720 --> 00:36:47,780
+And I think it's double easy to forget that because there are people who have been in fandom a lot longer than me who think I am still new.
+
+578
+00:36:47,780 --> 00:36:50,080
+So these are all really interesting,
+
+579
+00:36:50,080 --> 00:36:51,260
+um,
+
+580
+00:36:51,260 --> 00:36:53,340
+overlapping power dynamics,
+
+581
+00:36:53,340 --> 00:36:54,060
+which are,
+
+582
+00:36:54,060 --> 00:36:54,800
+I think,
+
+583
+00:36:54,800 --> 00:36:56,700
+quite easy not to think about.
+
+584
+00:36:56,700 --> 00:36:57,620
+which is bad.
+
+585
+00:36:57,620 --> 00:36:58,180
+But,
+
+586
+00:36:58,180 --> 00:36:58,460
+you know,
+
+587
+00:36:58,460 --> 00:36:59,700
+but there are people there,
+
+588
+00:36:59,700 --> 00:37:00,680
+but there are people,
+
+589
+00:37:00,680 --> 00:37:05,720
+there are quite a lot of people at the Eastercon who are not very established in their careers,
+
+590
+00:37:05,720 --> 00:37:10,160
+who believe very strongly that it's very important to be there.
+
+591
+00:37:10,160 --> 00:37:13,040
+And I've been on panels with people who I,
+
+592
+00:37:13,040 --> 00:37:18,660
+I think were very introverted writers who almost certainly write very well,
+
+593
+00:37:18,660 --> 00:37:19,640
+but who,
+
+594
+00:37:19,640 --> 00:37:21,520
+who honestly,
+
+595
+00:37:21,520 --> 00:37:25,100
+I think would rather have been in a bucket of,
+
+596
+00:37:25,100 --> 00:37:31,940
+of live crabs for an hour than on an Eastercon panel having to say things about things.
+
+597
+00:37:31,940 --> 00:37:33,960
+And I did feel very sorry for these people.
+
+598
+00:37:33,960 --> 00:37:34,860
+And then again,
+
+599
+00:37:34,860 --> 00:37:38,640
+who felt that that was part of professional development for a writer.
+
+600
+00:37:38,640 --> 00:37:39,560
+Yes.
+
+601
+00:37:39,560 --> 00:37:39,820
+I mean,
+
+602
+00:37:39,820 --> 00:37:45,780
+what I would hope actually is that going to Eastercons and other conventions is fun,
+
+603
+00:37:45,780 --> 00:37:49,680
+but I would like it if it didn't have that much impact on careers.
+
+604
+00:37:49,680 --> 00:37:50,460
+Yes,
+
+605
+00:37:50,460 --> 00:37:51,240
+I would agree with that.
+
+606
+00:37:51,240 --> 00:37:52,720
+Because I do think it,
+
+607
+00:37:52,720 --> 00:37:53,360
+I think it,
+
+608
+00:37:53,360 --> 00:37:56,380
+it is advantageous that underrepresented people even further,
+
+609
+00:37:56,380 --> 00:38:03,840
+because they're not the people who may feel that they are able or feel safe in going into a convention bar and,
+
+610
+00:38:04,020 --> 00:38:04,260
+you know,
+
+611
+00:38:04,260 --> 00:38:07,400
+having a few pints and trying to schmooze with publishing professionals.
+
+612
+00:38:07,400 --> 00:38:08,640
+Because also,
+
+613
+00:38:08,640 --> 00:38:09,480
+as we've seen,
+
+614
+00:38:09,480 --> 00:38:18,380
+it's those people who are taking the bulk of the harassment in situations where it does go wrong.
+
+615
+00:38:18,380 --> 00:38:20,560
+And it is not all kind of nice fun and games.
+
+616
+00:38:20,560 --> 00:38:21,640
+And there are power imbalances.
+
+617
+00:38:21,800 --> 00:38:24,400
+And the question there is whether the harassment,
+
+618
+00:38:24,400 --> 00:38:25,520
+not necessarily harassment,
+
+619
+00:38:25,520 --> 00:38:26,760
+but whether the unfortunate,
+
+620
+00:38:26,760 --> 00:38:33,720
+some of the unfortunate outcomes arise from a situation where people who are marginalized to begin with,
+
+621
+00:38:33,720 --> 00:38:41,740
+feel that they have to go outside their comfort zone in order to gain acceptance in the community.
+
+622
+00:38:41,740 --> 00:38:43,340
+And as a result,
+
+623
+00:38:43,340 --> 00:38:49,120
+do things that they probably wouldn't do if they weren't doing them for professional reasons.
+
+624
+00:38:49,120 --> 00:38:50,080
+And at that point,
+
+625
+00:38:50,080 --> 00:38:52,180
+you're into a very difficult situation,
+
+626
+00:38:52,180 --> 00:38:53,820
+very difficult situations that,
+
+627
+00:38:53,820 --> 00:38:54,440
+you know,
+
+628
+00:38:54,440 --> 00:38:55,880
+as we know from other industries,
+
+629
+00:38:55,880 --> 00:38:57,740
+lead to terrible abuses.
+
+630
+00:38:57,740 --> 00:38:59,020
+I think it's,
+
+631
+00:38:59,020 --> 00:39:08,060
+we should be clear that convention should be aware of the potential for problems and try and have good codes of conduct,
+
+632
+00:39:08,060 --> 00:39:12,720
+good harassment policies and things to try and mitigate against all these problems.
+
+633
+00:39:13,500 --> 00:39:20,760
+And obviously listener services and systems so that people who are finding something is amiss.
+
+634
+00:39:20,760 --> 00:39:24,800
+But at least one of these things that's come out,
+
+635
+00:39:24,800 --> 00:39:27,760
+the incident may happen now,
+
+636
+00:39:27,760 --> 00:39:35,140
+and it may only be years down the line that the ramifications of that come to light.
+
+637
+00:39:35,140 --> 00:39:37,480
+I think that's the sort of thing.
+
+638
+00:39:37,800 --> 00:39:39,960
+And there's only so much that conventions can do there.
+
+639
+00:39:39,960 --> 00:39:40,660
+You know,
+
+640
+00:39:40,660 --> 00:39:42,480
+if you're in a position of power,
+
+641
+00:39:42,480 --> 00:39:43,820
+try not to abuse it.
+
+642
+00:39:43,820 --> 00:39:46,560
+Try to realize that the person may be talking to you,
+
+643
+00:39:46,560 --> 00:39:48,680
+not because they like you and think you're marvelous,
+
+644
+00:39:48,680 --> 00:39:52,880
+but because they think you may be able to help their career and act accordingly.
+
+645
+00:39:52,960 --> 00:39:57,380
+That has been the ninth episode of Octothorpe.
+
+646
+00:39:57,380 --> 00:39:59,100
+Thank you very much for listening.
+
+647
+00:39:59,100 --> 00:40:00,780
+And it is goodbye from me.
+
+648
+00:40:00,780 --> 00:40:02,320
+It's goodbye from me.
+
+649
+00:40:02,320 --> 00:40:03,860
+And it's goodbye from me.
+
+650
+00:40:03,860 --> 00:40:09,780
+The theme music for this episode was Fanfare for Space by Kevin MacLeod at incompetech.com.
+
+651
+00:40:09,780 --> 00:40:13,360
+Used under a Creative Commons Attribution 3.0 license.
+
+652
+00:40:17,360 --> 00:40:25,660
+So, before we leave you,
+
+653
+00:40:25,660 --> 00:40:29,040
+we're going to talk a little bit about staying sane in the apocalypse.
+
+654
+00:40:29,040 --> 00:40:32,780
+So, Alison, what have you been doing to stay sane in the apocalypse?
+
+655
+00:40:32,780 --> 00:40:38,440
+The country seems to have decided that we all have to go out to pubs and restaurants,
+
+656
+00:40:38,440 --> 00:40:39,740
+and I have not been doing that,
+
+657
+00:40:39,740 --> 00:40:41,800
+but I have come to visit my parents,
+
+658
+00:40:41,800 --> 00:40:44,720
+which is legal as of yesterday.
+
+659
+00:40:44,900 --> 00:40:47,520
+So, we're here for two nights, which I believe is allowed within the law.
+
+660
+00:40:47,520 --> 00:40:50,200
+And, obviously, they are getting on,
+
+661
+00:40:50,200 --> 00:40:52,980
+so it's quite nice to be able to come up and help them with symptoms,
+
+662
+00:40:52,980 --> 00:40:54,840
+most of which involve operating systems.
+
+663
+00:40:54,840 --> 00:40:58,460
+And I feel like it's back to being...
+
+664
+00:40:58,460 --> 00:41:01,040
+It's the first time I've felt that I've done anything
+
+665
+00:41:01,040 --> 00:41:04,640
+that's felt like my normal life for months on end.
+
+666
+00:41:04,640 --> 00:41:07,580
+So, that's quite nice.
+
+667
+00:41:07,580 --> 00:41:09,080
+But I still think, in general,
+
+668
+00:41:09,080 --> 00:41:10,800
+I'm not that sane,
+
+669
+00:41:10,800 --> 00:41:12,360
+and we are still in an apocalypse.
+
+670
+00:41:12,680 --> 00:41:15,700
+Oh, and greetings to all our American listeners,
+
+671
+00:41:15,700 --> 00:41:19,860
+who are really just kind of at the beginning of an apocalypse right now.
+
+672
+00:41:19,860 --> 00:41:21,280
+So, I'm very worried for America.
+
+673
+00:41:21,280 --> 00:41:26,140
+I mean, I think we're actually in several apocalypses simultaneously,
+
+674
+00:41:26,140 --> 00:41:27,600
+but there is one main one.
+
+675
+00:41:27,600 --> 00:41:31,260
+But, personally, this week, I went to work for two days.
+
+676
+00:41:31,260 --> 00:41:32,640
+I worked from a coffee shop one day
+
+677
+00:41:32,640 --> 00:41:34,420
+because all the power was going off
+
+678
+00:41:34,420 --> 00:41:36,760
+for the annual electrical check in my apartment,
+
+679
+00:41:36,760 --> 00:41:39,980
+and I forgot about this until the air conditioning went off one morning.
+
+680
+00:41:39,980 --> 00:41:44,100
+I have also been to a bar,
+
+681
+00:41:44,100 --> 00:41:47,280
+although all the bars here are already, like, table service
+
+682
+00:41:47,280 --> 00:41:48,580
+and someone brings you your drinks.
+
+683
+00:41:48,580 --> 00:41:51,160
+So, I did not, like, have to go and cram up at the bar
+
+684
+00:41:51,160 --> 00:41:52,540
+trying to retrieve my pints.
+
+685
+00:41:52,540 --> 00:41:53,340
+They bring them to you.
+
+686
+00:41:53,340 --> 00:41:54,280
+It's all very civilised.
+
+687
+00:41:54,720 --> 00:41:59,820
+So, it does feel more like I am doing the normal, everyday things
+
+688
+00:41:59,820 --> 00:42:01,320
+I would do than before,
+
+689
+00:42:01,320 --> 00:42:03,380
+but I am doing them all while wearing a mask.
+
+690
+00:42:03,380 --> 00:42:07,480
+So, that's obviously a kind of reminder of what's going on.
+
+691
+00:42:07,480 --> 00:42:09,520
+Oh, my other thing is that
+
+692
+00:42:09,520 --> 00:42:13,260
+I happened to be reading the anthology
+
+693
+00:42:13,260 --> 00:42:16,000
+New Suns, original speculative fiction by people of colour,
+
+694
+00:42:16,000 --> 00:42:17,460
+edited by Nisi Scholl.
+
+695
+00:42:17,960 --> 00:42:19,400
+I happened to be reading that this week
+
+696
+00:42:19,400 --> 00:42:21,520
+and it is very good.
+
+697
+00:42:21,520 --> 00:42:23,720
+It's not a themed anthology.
+
+698
+00:42:23,720 --> 00:42:26,780
+It's just an anthology of, like, excellent speculative fiction
+
+699
+00:42:26,780 --> 00:42:30,780
+and it's got a very high hit rate for me.
+
+700
+00:42:30,780 --> 00:42:33,020
+And while I was reading it,
+
+701
+00:42:33,020 --> 00:42:34,880
+I happened to win the Locus Award for Best Anthology.
+
+702
+00:42:34,880 --> 00:42:36,500
+So, you should go out and get that.
+
+703
+00:42:36,500 --> 00:42:38,640
+I have this day, say, in the apocalypse
+
+704
+00:42:38,640 --> 00:42:41,780
+by, it will not surprise anyone to learn,
+
+705
+00:42:41,780 --> 00:42:43,140
+playing board games.
+
+706
+00:42:44,140 --> 00:42:49,460
+I recently discovered the joys of print and play board games.
+
+707
+00:42:49,460 --> 00:42:53,340
+I have found a website called docsdirect.com.
+
+708
+00:42:53,340 --> 00:42:57,700
+You could put your beautiful game cards in the show notes, John,
+
+709
+00:42:57,700 --> 00:42:59,640
+because they really are a thing of beauty.
+
+710
+00:42:59,640 --> 00:43:01,220
+I was very impressed.
+
+711
+00:43:01,220 --> 00:43:07,800
+I purchased several 300 GSM satin prints
+
+712
+00:43:07,800 --> 00:43:10,960
+of various board game print and play stuff
+
+713
+00:43:10,960 --> 00:43:12,580
+and I bought a corner cutter,
+
+714
+00:43:12,720 --> 00:43:14,480
+which makes square corners round
+
+715
+00:43:14,480 --> 00:43:17,280
+and I got my craft knife and my,
+
+716
+00:43:17,280 --> 00:43:19,220
+I was about to say cutting board,
+
+717
+00:43:19,220 --> 00:43:22,340
+but I actually use a cardboard envelope
+
+718
+00:43:22,340 --> 00:43:24,240
+because I am pro.
+
+719
+00:43:24,240 --> 00:43:26,340
+And I got on with it
+
+720
+00:43:26,340 --> 00:43:28,560
+and now I have print-to-play board games to play.
+
+721
+00:43:28,560 --> 00:43:29,720
+Even more board games.
+
+722
+00:43:29,720 --> 00:43:31,520
+Also went to Ikea.
+
+723
+00:43:31,520 --> 00:43:32,700
+Ikea's still there.
+
+724
+00:43:32,700 --> 00:43:33,720
+Had to queue to get in.
+
+725
+00:43:33,720 --> 00:43:34,660
+Wasn't that bad.
+
+726
+00:43:34,660 --> 00:43:36,300
+Social distancing was fine.
+
+727
+00:43:36,300 --> 00:43:37,900
+Mostly very good.
+
+728
+00:43:37,900 --> 00:43:40,840
+Well, Ikea's always had you go all the way around the shop
+
+729
+00:43:40,840 --> 00:43:42,240
+on a one-way system, hasn't it?
+
+730
+00:43:42,600 --> 00:43:43,000
+Yes.
+
+731
+00:43:43,000 --> 00:43:45,400
+Actually, this is one of the things that really made it difficult,
+
+732
+00:43:45,400 --> 00:43:49,040
+which is the bit immediately upon getting in was very crowded,
+
+733
+00:43:49,040 --> 00:43:51,860
+but as soon as you got through that bit, it was all fine.
+
+734
+00:43:51,860 --> 00:43:55,240
+And the other thing is that my parents are coming to visit next week,
+
+735
+00:43:55,240 --> 00:43:56,580
+which I'm very much looking forward to.
+
+736
+00:43:56,580 --> 00:43:57,740
+They're staying in a hotel.
+
+737
+00:43:57,740 --> 00:44:01,620
+They're not staying with us because our house is small enough
+
+738
+00:44:01,620 --> 00:44:06,540
+that it might be difficult to do social distancing in our house.
+
+739
+00:44:07,020 --> 00:44:09,900
+But yes, looking forward to that very much.
+
+740
+00:44:09,900 --> 00:44:11,640
+Hurrah for people.
+
+741
+00:44:11,640 --> 00:44:13,580
+I haven't seen people in so long.
+
+742
+00:44:13,580 --> 00:44:15,980
+I'm still not going as far as going to Ikea.
+
+743
+00:44:15,980 --> 00:44:18,920
+Ikea can still bring stuff to me in a truck, as far as I'm concerned.
+
+744
+00:44:19,280 --> 00:44:22,120
+Yeah, I'm only going into shops when it's absolutely essential,
+
+745
+00:44:22,120 --> 00:44:24,000
+which means when they sell almond croissants.
+
+746
+00:44:24,000 --> 00:44:26,520
+That's fair.
+
+747
+00:44:26,520 --> 00:44:29,460
+No, I mean, so I would have gotten...
+
+748
+00:44:29,460 --> 00:44:32,340
+We have been mostly getting delivery, I will say.
+
+749
+00:44:32,720 --> 00:44:37,420
+The problem is that Ikea's delivery is not priced.
+
+750
+00:44:37,420 --> 00:44:40,860
+If you're just buying a couple of odd lens for your bathroom,
+
+751
+00:44:40,860 --> 00:44:42,940
+the delivery costs are exorbitant.
+
+752
+00:44:42,940 --> 00:44:45,540
+If we had been getting several bits of furniture,
+
+753
+00:44:45,540 --> 00:44:46,680
+I probably would have done that,
+
+754
+00:44:46,680 --> 00:44:50,200
+but I just needed a toilet roll holder and a mirror
+
+755
+00:44:50,200 --> 00:44:52,460
+and other things like that.
+
+756
+00:44:52,460 --> 00:44:53,820
+So, yeah.
+
+757
+00:44:53,820 --> 00:44:55,440
+It's a good point,
+
+758
+00:44:55,440 --> 00:44:57,540
+because Ikea here will deliver minor bits and pieces
+
+759
+00:44:57,540 --> 00:44:58,720
+for about three quid.
+
+760
+00:44:58,720 --> 00:45:00,800
+Yeah, they just put them in the post.
+
+761
+00:45:01,140 --> 00:45:04,520
+I've certainly got odd things delivered from Ikea without...
+
+762
+00:45:04,520 --> 00:45:06,580
+I think there was one thing we tried
+
+763
+00:45:06,580 --> 00:45:10,560
+that they wanted to deliver for the full whack.
+
+764
+00:45:10,560 --> 00:45:11,860
+That's the problem.
+
+765
+00:45:11,860 --> 00:45:13,960
+It's if you're bigger than whatever could go...
+
+766
+00:45:13,960 --> 00:45:16,800
+It'll have been your towel rail or something.
+
+767
+00:45:16,800 --> 00:45:18,820
+Yeah, or, like, it might have been the bin.
+
+768
+00:45:18,820 --> 00:45:20,420
+Oh, yeah, bins will get you.
+
+769
+00:45:20,420 --> 00:45:22,160
+The bin might have been too big.
+
+770
+00:45:22,160 --> 00:45:24,080
+But, yeah, like, it was fine.
+
+771
+00:45:24,080 --> 00:45:25,040
+I wore my mask.
+
+772
+00:45:25,040 --> 00:45:26,140
+I walked.
+
+773
+00:45:26,140 --> 00:45:27,780
+Didn't use public transport.
+
+774
+00:45:27,780 --> 00:45:29,240
+So, yeah, it was fine.
+
+775
+00:45:29,640 --> 00:45:31,540
+I am not symptomatic.
+
+776
+00:45:31,540 --> 00:45:35,300
+Oh, and I'm taking part in a University of Southampton,
+
+777
+00:45:35,300 --> 00:45:37,640
+Southampton NHS,
+
+778
+00:45:37,640 --> 00:45:42,720
+COVID-19 testing pilot program,
+
+779
+00:45:42,720 --> 00:45:44,800
+where I spit in a small vial,
+
+780
+00:45:44,800 --> 00:45:46,480
+and they tell me if I have coronavirus.
+
+781
+00:45:46,480 --> 00:45:49,140
+They don't tell me if I have had coronavirus.
+
+782
+00:45:49,140 --> 00:45:51,780
+They tell me if I currently have coronavirus.
+
+783
+00:45:52,380 --> 00:45:59,640
+I think this is part of them trying to get set up for citywide testing and kind of instantaneous timescales,
+
+784
+00:45:59,640 --> 00:46:02,520
+or as near as you can get when you're doing this kind of thing.
+
+785
+00:46:02,520 --> 00:46:04,100
+So, yeah, I'm helping.
+
+786
+00:46:04,100 --> 00:46:07,380
+Yeah, we cannot tell you if you have had coronavirus from your saliva.
+
+787
+00:46:07,380 --> 00:46:09,320
+We need your blood for that, John.
+
+788
+00:46:09,320 --> 00:46:10,900
+So, we can actually...
+
+789
+00:46:10,900 --> 00:46:13,060
+I can't do blood tests at home.
+
+790
+00:46:13,060 --> 00:46:13,560
+I pass out.
+
+791
+00:46:13,560 --> 00:46:15,280
+So, a spit test is good enough, then?
+
+792
+00:46:15,280 --> 00:46:19,280
+Because an awful lot of people have been stuffing things up their noses,
+
+793
+00:46:19,280 --> 00:46:22,840
+and it seems like if a spit test was adequate for this,
+
+794
+00:46:22,840 --> 00:46:24,240
+wouldn't they just have been spitting?
+
+795
+00:46:24,860 --> 00:46:31,340
+So, there are various papers comparing the utility of an asopharyngeal swab to saliva,
+
+796
+00:46:31,340 --> 00:46:33,620
+and saliva does seem to come out quite well,
+
+797
+00:46:33,620 --> 00:46:35,440
+but I think there's some slightly contradictory results.
+
+798
+00:46:35,440 --> 00:46:40,340
+The other problem is that I think trying to get people to swab their own noses and throats
+
+799
+00:46:40,340 --> 00:46:41,980
+successfully at home is quite difficult,
+
+800
+00:46:41,980 --> 00:46:43,100
+because when you need to swab your nose,
+
+801
+00:46:43,100 --> 00:46:46,380
+you need to swab your tonsils without touching the rest of your mouth,
+
+802
+00:46:46,380 --> 00:46:47,520
+which is quite complicated,
+
+803
+00:46:47,520 --> 00:46:50,400
+and possibly just spitting in a tube is better.
+
+804
+00:46:50,400 --> 00:46:52,580
+I can spit in a tube successfully,
+
+805
+00:46:52,580 --> 00:46:54,780
+but I cannot do any of the other things.
+
+806
+00:46:55,180 --> 00:46:56,840
+And I got a blood test at home once,
+
+807
+00:46:56,840 --> 00:46:59,440
+and it was like, prick your thumb and put blood in the thing.
+
+808
+00:46:59,440 --> 00:47:00,760
+And I have a phobia of blood,
+
+809
+00:47:00,760 --> 00:47:02,200
+but I was like, I could just prick my thumb.
+
+810
+00:47:02,200 --> 00:47:03,260
+I can't.
+
+811
+00:47:03,260 --> 00:47:04,280
+I can't.
+
+812
+00:47:04,280 --> 00:47:05,240
+As it turns out,
+
+813
+00:47:05,240 --> 00:47:08,020
+much easier to get the train to a different city
+
+814
+00:47:08,020 --> 00:47:10,440
+to have the blood test than it is to do at home for John.
+
+815
+00:47:10,440 --> 00:47:14,860
+I'll just come around with, like, a diamond pen
+
+816
+00:47:14,860 --> 00:47:16,320
+and write blue on it for you, John,
+
+817
+00:47:16,320 --> 00:47:18,500
+and I will charge you only 20 quid.
+
+818
+00:47:18,500 --> 00:47:22,020
+I didn't say, like, in what time slot I would come and visit you, John.
+
+819
+00:47:22,020 --> 00:47:24,180
+Yeah, in fact, John,
+
+820
+00:47:24,360 --> 00:47:25,960
+if I promise to do that,
+
+821
+00:47:25,960 --> 00:47:28,140
+will you quarantine me for 14 days in your house?
+
+822
+00:47:28,140 --> 00:47:30,880
+Oh, hello.
+
+823
+00:47:30,880 --> 00:47:31,580
+Hello.
+
+824
+00:47:31,580 --> 00:47:33,620
+Why is she unhappy?
 

@@ -1,2760 +1,4644 @@
 1
-00:00:00,000 --> 00:00:05,080
- What's talking about science fiction? Anyway, shall we talk about the Hugo
+00:00:00,960 --> 00:00:05,220
+Who wants to talk about science fiction? Anyway, shall we talk about the Hugo Finalists?
 
 2
-00:00:05,080 --> 00:00:20,720
- Vollist? We want to talk about science fiction, John.
+00:00:05,220 --> 00:00:09,740
+We want to talk about science fiction, John.
 
 3
-00:00:20,720 --> 00:00:28,580
- Hello everyone. Welcome to episode six of the OctaThorp podcast, a podcast about science
+00:00:09,740 --> 00:00:26,260
+Hello everyone, welcome to episode 6 of the Octothorpe podcast,
 
 4
-00:00:28,580 --> 00:00:34,260
- fiction and SF fandom. I'm John Coxon. I'm Alison Scott and I'm Liz Batty.
+00:00:26,260 --> 00:00:31,320
+a podcast about science fiction and SF fandom. I'm John Coxon.
 
 5
-00:00:34,260 --> 00:00:45,740
- And we have a letter of comment from Ispania Sheriff, my wife, who attended a one-day
+00:00:31,320 --> 00:00:32,720
+I'm Alison Scott.
 
 6
-00:00:45,740 --> 00:00:50,260
- convention called Wifi Sci-Fi, which was hosted by Anne Colette and it was a
+00:00:32,720 --> 00:00:34,100
+And I'm Liz Batty.
 
 7
-00:00:50,260 --> 00:00:54,700
- minicon consisting of a single Zoom panel in two parts followed by breakout
+00:00:34,100 --> 00:00:42,540
+And we have a letter of comment from Espania Sheriff, my wife,
 
 8
-00:00:54,700 --> 00:00:59,440
- room cabbie clutches. The panel had the topic SF and the pandemic tackled by
+00:00:42,540 --> 00:00:49,920
+who attended a one-day convention called Wi-Fi Sci-Fi, which was hosted by Anne Collette,
 
 9
-00:00:59,440 --> 00:01:03,840
- five panelists and then the second half of the panel was on the same topic but
+00:00:49,920 --> 00:00:53,540
+and it was a mini-con consisting of a single Zoom panel in two parts,
 
 10
-00:01:03,840 --> 00:01:07,420
- with different panelists and then afterwards you were assigned randomly
+00:00:53,540 --> 00:00:58,580
+followed by breakout room cavi-clatches. The panel had the topic SF and the pandemic,
 
 11
-00:01:07,420 --> 00:01:10,780
- to a breakout room with one of the panelists and in Ispania's case she
+00:00:58,580 --> 00:01:03,680
+tackled by five panelists, and then the second half of the panel was on the same topic,
 
 12
-00:01:10,780 --> 00:01:15,460
- talked to Corey L. Lee who was charming and then suddenly switched out to Adrian
+00:01:03,680 --> 00:01:08,300
+but with different panelists. And then afterwards, you were assigned randomly to a breakout room with
 
 13
-00:01:15,460 --> 00:01:19,980
- J. Walker who was also lots of fun. This is the second Wifi Sci-Fi event that has
+00:01:08,300 --> 00:01:13,240
+one of the panelists. And in Espania's case, she talked to Corrie L. Lee, who was charming,
 
 14
-00:01:19,980 --> 00:01:24,500
- been run and you can find more details at ancolettes.co.uk/wificell
+00:01:13,240 --> 00:01:17,760
+and then suddenly switched out to Adrian J. Walker, who was also lots of fun.
 
 15
-00:01:24,500 --> 00:01:28,740
- I did not go but I heard Ispania having a lot of fun. I believe I was playing
+00:01:17,760 --> 00:01:22,500
+This is the second Wi-Fi Sci-Fi event that has been run, and you can find more details at
 
 16
-00:01:28,740 --> 00:01:32,180
- board games on the internet while that was happening. Is that because you are
+00:01:22,500 --> 00:01:27,840
+annecollettes.co.uk slash Wi-Fi Sci-Fi. I did not go, but I heard Espania having a lot of fun.
 
 17
-00:01:32,180 --> 00:01:35,980
- playing board games on the internet roughly 50% of the time you are awake?
+00:01:27,840 --> 00:01:31,200
+I believe I was playing board games on the internet while that was happening.
 
 18
-00:01:35,980 --> 00:01:42,340
- No that is a that is a vicious lie. At least 25th of the time that I am awake I
+00:01:31,200 --> 00:01:36,480
+Is that because you are playing board games on the internet roughly 50% of the time you are awake, Tom?
 
 19
-00:01:42,340 --> 00:01:48,540
- am playing them in real life so there you go. I think this is the second Wifi
+00:01:36,820 --> 00:01:43,800
+No, that is a vicious lie. At least 25% of the time that I am awake, I am playing them in real life.
 
 20
-00:01:48,540 --> 00:01:52,900
- Sci-Fi event isn't it? Yes. Clearly the first one went well if they've done a
+00:01:43,800 --> 00:01:45,860
+So there you go.
 
 21
-00:01:52,900 --> 00:01:57,540
- second one and it seems like a kind of nice way to spend three hours on a
+00:01:47,200 --> 00:01:50,180
+I think this is the second Wi-Fi Sci-Fi event, isn't it?
 
 22
-00:01:57,540 --> 00:02:02,220
- Saturday afternoon. And it sounds like they've got the social aspects down a bit
+00:01:50,180 --> 00:01:55,160
+Yes. Clearly the first one went well if they've done a second one, and it seems like a kind of
 
 23
-00:02:02,220 --> 00:02:06,460
- by just like randomly allocating you to a room and you have a chat which is
+00:01:55,160 --> 00:01:59,140
+nice way to spend three hours on a Saturday afternoon.
 
 24
-00:02:06,460 --> 00:02:13,660
- yeah. Yeah I am wondering whether this kind of mini convention will turn out to
+00:01:59,140 --> 00:02:05,180
+And it sounds like they've got the social aspects down a bit by just like randomly allocating you to
 
 25
-00:02:13,660 --> 00:02:18,620
- be a really viable way of doing programming in the kind of current
+00:02:05,180 --> 00:02:07,240
+a room and you have a chat, which is, yeah.
 
 26
-00:02:18,620 --> 00:02:23,300
- virtual age because it means you can really pick and choose what panels you
+00:02:07,620 --> 00:02:14,640
+Yeah, I am wondering whether this kind of mini convention will turn out to be a really viable
 
 27
-00:02:23,300 --> 00:02:28,060
- want to go to. If like three people a weekend run a panel with some socialising
+00:02:14,640 --> 00:02:22,000
+way of doing programming in the kind of current virtual age, because it means you can really
 
 28
-00:02:28,060 --> 00:02:32,060
- afterwards you can massively split the amount of effort between a lot of
+00:02:22,000 --> 00:02:27,480
+pick and choose what panels you want to go to. If like three people a weekend run a panel with
 
 29
-00:02:32,060 --> 00:02:36,540
- different people you don't have to have a centralised effort and you can pick
+00:02:27,480 --> 00:02:32,260
+some socializing afterwards, you can massively split the amount of effort between a lot of
 
 30
-00:02:36,540 --> 00:02:40,980
- and choose what events you want to go to which is potentially very cool. I've
+00:02:32,260 --> 00:02:37,540
+different people. You don't have to have a centralized effort, and you can pick and choose what events
 
 31
-00:02:40,980 --> 00:02:46,780
- done a lot of Zoom parties now and I'm coming to the conclusion that for kind
+00:02:37,540 --> 00:02:40,480
+you want to go to, which is potentially very cool.
 
 32
-00:02:46,780 --> 00:02:53,740
- of just having a good time a number at around 30 to 40 is well maybe probably
+00:02:40,480 --> 00:02:47,860
+I've done a lot of Zoom parties now, and I'm coming to the conclusion that for kind of just
 
 33
-00:02:53,740 --> 00:02:59,020
- less than that say invite 30 so that 25 or 20 turn up is really quite good
+00:02:47,860 --> 00:02:55,660
+having a good time, a number at around 30 to 40 is, well, maybe probably less than that, say invite 30
 
 34
-00:02:59,020 --> 00:03:02,620
- because that's enough for three different solid conversations which is
+00:02:55,660 --> 00:03:01,440
+so that 25 or 20 turn up is really quite good, because that's enough for three different solid
 
 35
-00:03:02,620 --> 00:03:06,820
- all anyone's really going to get into anyway and and when you have more people
+00:03:01,440 --> 00:03:06,940
+conversations, which is all anyone's really going to get into anyway. And when you have more people,
 
 36
-00:03:06,820 --> 00:03:12,340
- you just up the level of complexity of keeping everyone organised and it doesn't
+00:03:07,460 --> 00:03:12,900
+you just up the level of complexity of keeping everyone organized, and it doesn't necessarily
 
 37
-00:03:12,340 --> 00:03:18,220
- necessarily do any better for people so so larger meetings aren't necessarily
+00:03:12,900 --> 00:03:20,660
+do any better for people. So larger meetings aren't necessarily better. The advantage of great big
 
 38
-00:03:18,220 --> 00:03:23,260
- better the advantage of great big conventions or great big gatherings
+00:03:20,660 --> 00:03:27,240
+conventions or great big gatherings generally is that more of the people you want to see will be there,
 
 39
-00:03:23,260 --> 00:03:27,940
- generally is that more of the people you want to see will be there but you can
+00:03:27,240 --> 00:03:33,040
+but you can actually set up a virtual event with just the people you want to see on a particular topic.
 
 40
-00:03:27,940 --> 00:03:32,060
- actually set up a virtual event with just the people you want to see on a
+00:03:33,040 --> 00:03:44,320
+I think for Zoom parties, it's also not quite the size of the room, but the people in the room. You need a certain amount of people in the room who are reasonably happy to sit there and chat on Zoom.
 
 41
-00:03:32,060 --> 00:03:37,500
- particular topic. I think for Zoom parties it's also not quite the size of
+00:03:44,320 --> 00:04:02,580
+And you probably have some people who are sitting and chatting a little bit, but mostly sort of happy to listen. Like you need to replicate the dynamics of the conversation in the Zoom. If you have a quite full Zoom room, but no one kind of knows each other well, and they're not actually chatting, then that's not going to work either.
 
 42
-00:03:37,500 --> 00:03:40,900
- the room but the people in the room you need a certain amount of people in the
+00:04:02,580 --> 00:04:14,520
+So the Wi-Fi sci-fi approach of having, all right, the author is in this room, and you can chat to the author, gives a sort of focus to them in a way that a general Zoom room party does not.
 
 43
-00:03:40,900 --> 00:03:45,340
- room who are reasonably happy to sit there and chat on Zoom and you probably
+00:04:15,060 --> 00:04:21,400
+I have just realised that I have never personally had the experience of being in a Zoom room and having nobody in the room being willing to chat.
 
 44
-00:03:45,340 --> 00:03:49,540
- have some people who are sitting and chatting a little bit but mostly sort of
+00:04:21,400 --> 00:04:23,200
+I didn't want to name names.
 
 45
-00:03:49,540 --> 00:03:53,540
- happy to listen like you need to replicate the dynamics of the conversation
+00:04:23,200 --> 00:04:27,720
+It may be that not everyone's experience is equivalent.
 
 46
-00:03:53,540 --> 00:03:58,180
- in the Zoom if you have a quite full Zoom room but no one kind of knows each
+00:04:28,860 --> 00:04:43,960
+Because I have like, however much endless management training from years and years and years being tried to become a corporate clone and failing, I know I never find it difficult to start conversations in empty rooms.
 
 47
-00:03:58,180 --> 00:04:02,300
- other well and then not actually chatting then that's not going to work either
+00:04:43,960 --> 00:04:53,660
+It's also true that you will never be in the, you know, when you have Zoom parties and put people into breakout rooms, you are never in the room you are not in.
 
 48
-00:04:02,300 --> 00:04:06,820
- so the Wi-Fi sci-fi approach of having all right the author is in this room and
+00:04:53,660 --> 00:04:54,420
+Yes.
 
 49
-00:04:06,820 --> 00:04:11,540
- you can chat to the author it gives us all focus to them in a way that a
+00:04:54,420 --> 00:04:55,700
+If that makes sense.
 
 50
-00:04:11,540 --> 00:04:16,220
- general Zoom room party does not. I have just realised that I have never
+00:04:55,700 --> 00:04:56,400
+Yes.
 
 51
-00:04:16,220 --> 00:04:19,980
- personally had the experience of being in a Zoom room and having nobody in the
+00:04:56,600 --> 00:04:58,800
+Like, you never know what's going on in the other room.
 
 52
-00:04:19,980 --> 00:04:25,140
- room being willing to chat. I didn't want to name names it may be that not
+00:04:58,800 --> 00:05:01,920
+So you probably assume that all rooms are kind of chatting away happily.
 
 53
-00:04:25,140 --> 00:04:31,460
- everyone's experience is equivalent because I have like however much
+00:05:01,920 --> 00:05:05,840
+Whereas I have been in Zoom breakout rooms, which are a little bit quieter.
 
 54
-00:04:31,460 --> 00:04:37,380
- endless management training from years and years and years being tried to
+00:05:05,840 --> 00:05:08,460
+And you're sort of waiting for someone to get things going.
 
 55
-00:04:37,380 --> 00:04:42,380
- become a corporate cloud and failing I know I never find it difficult to start
+00:05:08,460 --> 00:05:19,920
+The problem, the problem with a Zoom party, I think, no, actually, the problem with a party is when you invite all of your friends and you're the only person that everyone knows.
 
 56
-00:04:42,380 --> 00:04:47,780
- conversations in empty rooms. It's also true that you will never be in the you
+00:05:19,920 --> 00:05:22,160
+And so that means that you get the clicks.
 
 57
-00:04:47,780 --> 00:04:51,180
- know when you when you have Zoom parties and put people into breakout rooms you
+00:05:22,160 --> 00:05:29,480
+And if you've got like a couple of people who you're great mates with, but don't really know the rest of your friends at all, they're going to find it very difficult to interact.
 
 58
-00:04:51,180 --> 00:04:56,980
- are never in the room you are not in. Yes if that makes sense. Yes. Like you
+00:05:29,480 --> 00:05:30,860
+And that's true at any party.
 
 59
-00:04:56,980 --> 00:04:59,940
- never know what's going on in the other rooms so you probably assume that all
+00:05:31,240 --> 00:05:41,620
+But I think it's also true in Zoom parties where if you've got a group of people, all of whom don't really know each other and only really know the host and the host is in a different breakout room, that will obviously be a problem.
 
 60
-00:04:59,940 --> 00:05:03,540
- rooms are kind of chatting away happily whereas I have been in Zoom breakout
+00:05:41,620 --> 00:05:57,160
+OK, so my most recent Zoom party was credited as specifically a chance for European and Australian and New Zealand fans to get together at a time which was more or less convenient for both of them, but not convenient for Americans.
 
 61
-00:05:03,540 --> 00:05:07,580
- rooms which are a little bit quieter and you're sort of waiting for someone to
+00:05:57,160 --> 00:06:01,820
+Because it had a structure, I think that helps somewhat with the thing.
 
 62
-00:05:07,580 --> 00:05:14,420
- get things going. The problem with a Zoom party I think no actually the problem
+00:06:01,860 --> 00:06:06,060
+And I kind of pretended that they were there to help me plan my guff trip, which they weren't.
 
 63
-00:05:14,420 --> 00:05:18,500
- with a party is when you invite all of your friends and you're the only person
+00:06:06,060 --> 00:06:06,820
+They were just there to.
 
 64
-00:05:18,500 --> 00:05:22,580
- that everyone knows and so that means that you get the clicks and if you've got
+00:06:06,820 --> 00:06:17,720
+It was just to foster relations between European and Australian and New Zealand fans, which I think it did, though we didn't actually get any New Zealand fans except for Ming and Smitty, who don't count.
 
 65
-00:05:22,580 --> 00:05:26,380
- like a couple of people who you're great mates with but I really know the rest of
+00:06:17,720 --> 00:06:22,400
+For those who don't know, Ming and Smitty both used to live in the UK before emigrating to New Zealand.
 
 66
-00:05:26,380 --> 00:05:29,460
- your friends at all they're going to find a very difficult to interact and
+00:06:22,400 --> 00:06:31,560
+And so counting them as New Zealand fans is obviously fine, but may not be the New Zealand fans you're trying to reach out to in this particular case.
 
 67
-00:05:29,460 --> 00:05:33,660
- that's true at any party but I think it's also true in Zoom parties where if
+00:06:31,560 --> 00:06:52,800
+I will also say on the topic of Australian and New Zealand fandom, we were recommended by Claire Briley a podcast called the Two Chairs Talking Podcast, which is hosted by David Grigg and Perry Middlemiss, who are ex-chairs of previous Australian Worldcons.
 
 68
-00:05:33,660 --> 00:05:36,740
- you've got a group of people all of whom don't really know each other and only
+00:06:52,800 --> 00:06:57,360
+And I gave that a listen in between last episode and this episode, and it's quite good.
 
 69
-00:05:36,740 --> 00:05:39,860
- really know the host and the host is in a different breakout room that will
+00:06:57,360 --> 00:06:58,240
+They talk about books.
 
 70
-00:05:39,860 --> 00:05:44,660
- obviously be a problem. Okay so my most recent Zoom party was credited as
+00:06:58,240 --> 00:07:01,940
+If you like Australian people talking about books, you may also enjoy it.
 
 71
-00:05:44,660 --> 00:05:50,260
- specifically a chance for European and Australian and New Zealand fans to get
+00:07:01,940 --> 00:07:02,840
+So give it a look.
 
 72
-00:05:50,260 --> 00:05:55,980
- together at a time which was more or less convenient for both of them but not
+00:07:02,840 --> 00:07:03,580
+Yes.
 
 73
-00:05:55,980 --> 00:06:00,460
- convenient for Americans because it had a structure I think that helped somewhat
+00:07:03,580 --> 00:07:12,460
+And they also, I think, record on a fortnightly schedule, as we do, and they have quite a lot, 27 episodes so far.
 
 74
-00:06:00,460 --> 00:06:04,900
- with the thing and I kind of pretended that they were there to help me plan my
+00:07:12,460 --> 00:07:13,920
+So they're a bit ahead of us.
 
 75
-00:06:04,900 --> 00:06:08,820
- guff trip which they weren't they were just there to foster relations
+00:07:13,920 --> 00:07:24,280
+On the topic of things that have happened in recent times, the Hugo finalists came out.
 
 76
-00:06:08,820 --> 00:06:12,980
- between European and Australian and New Zealand fans which I think it did though
+00:07:24,280 --> 00:07:28,220
+We touched on this in a previous episode, but we haven't really talked about it in any great detail.
 
 77
-00:06:12,980 --> 00:06:16,980
- we did actually get any New Zealand fans except for Ming and Smitty who don't
+00:07:28,220 --> 00:07:31,660
+So we're going to talk a little bit about that today.
 
 78
-00:06:16,980 --> 00:06:21,220
- count. For those who don't know Ming and Smitty both used to live in the UK before
+00:07:32,060 --> 00:07:38,100
+And also, the BSFA awards were announced in a glittering ceremony on Zoom.
 
 79
-00:06:21,220 --> 00:06:25,180
- emigrating to New Zealand and so counting them as New Zealand fans is
+00:07:38,100 --> 00:07:50,080
+I think three hours late because they timed their awards ceremony to coincide with Zoom's first major outage since the start of lockdown, which is a tiny bit unfortunate, but I think they recovered quite well.
 
 80
-00:06:25,180 --> 00:06:29,820
- obviously fine but may not be the New Zealand fans you're trying to reach out
+00:07:50,080 --> 00:07:51,200
+Oh, that's unfortunate.
 
 81
-00:06:29,820 --> 00:06:34,420
- to in this particular case. I will also say on the topic of Australian and New
+00:07:51,200 --> 00:07:54,020
+Did you actually virtually attend?
 
 82
-00:06:34,420 --> 00:06:40,860
- Zealand fandom we were recommended by Claire Breyerley a podcast called the
+00:07:54,320 --> 00:07:57,560
+I did not because of the whole middle of the night issue.
 
 83
-00:06:40,860 --> 00:06:46,180
- two chairs talking podcast which is hosted by David Greek and Perry Middle
+00:07:57,560 --> 00:07:58,480
+I did not.
 
 84
-00:06:46,180 --> 00:06:53,820
- Miss who are ex-chairs of the of of previous Australian World Cons and I gave
+00:07:58,720 --> 00:08:19,180
+I did not because of the whole not being a member of the BSFA issue, which I become, I'm feeling increasingly embarrassed about, actually, because one of the things I have been doing in lockdown is that they've been running author readings to compensate for not being able to do their regular pub meetings on a Wednesday in the middle of the month.
 
 85
-00:06:53,820 --> 00:06:57,460
- that lesson in between last episode and this episode and it's quite good they
+00:08:19,440 --> 00:08:22,420
+And I've gone to a couple of these and they've been jolly good.
 
 86
-00:06:57,460 --> 00:07:01,100
- talk about books if you like Australian people talking about books you may also
+00:08:22,420 --> 00:08:26,600
+So it turns out that author readings are one of the things I quite like in lockdown.
 
 87
-00:07:01,100 --> 00:07:08,220
- enjoy it so give it a look. Yes and they also I think record on a fortnightly
+00:08:26,600 --> 00:08:30,940
+I like to be able to put on an author reading while I'm working with my hands.
 
 88
-00:07:08,220 --> 00:07:13,220
- schedule as we do and they have quite a lot 27 episodes so far so they're a bit
+00:08:31,440 --> 00:08:42,100
+Which is also good because when I was more involved in the BSFA, one of the things people would generally say is the London meetings are great, but I live outside London and can't get to them.
 
 89
-00:07:13,220 --> 00:07:15,740
- ahead of us.
+00:08:42,100 --> 00:08:48,100
+And so in lockdown, if they're now doing things broadcast by Zoom, again, they can have a slightly wider audience.
 
 90
-00:07:15,740 --> 00:07:23,660
- On the topic of things that have happened in recent times the Hugo finalist's
+00:08:48,100 --> 00:08:52,300
+Yeah, I think I say Zoom there, but I think it's actually Facebook Live.
 
 91
-00:07:23,660 --> 00:07:26,780
- came out and we touched on this in a previous episode but we haven't really
+00:08:52,300 --> 00:08:57,800
+So now they will only get criticisms from people who are outside London and hate Facebook.
 
 92
-00:07:26,780 --> 00:07:30,620
- talked about it in any great detail yet so we're going to talk a little bit about
+00:08:58,000 --> 00:09:00,900
+It's the BSFA Vector Reading Series.
 
 93
-00:07:30,620 --> 00:07:37,620
- that today. And also the BSFA Awards were announced in a glittering ceremony on
+00:09:00,900 --> 00:09:05,300
+And we should probably put a link in the show notes.
 
 94
-00:07:37,620 --> 00:07:42,220
- Zoom. I think three hours late because they timed their award ceremony to
+00:09:05,300 --> 00:09:07,200
+We shall do that.
 
 95
-00:07:42,220 --> 00:07:46,660
- coincide with Zoom's first major outage since the start of lockdown which is a
+00:09:07,200 --> 00:09:10,660
+So the BSFA Awards this year are great.
 
 96
-00:07:46,660 --> 00:07:50,660
- tiny bit unfortunate but I think they recovered quite well. Oh that's
+00:09:10,660 --> 00:09:11,680
+All of them, I think.
 
 97
-00:07:50,660 --> 00:07:56,180
- unfortunate. Did you actually virtually attend? I did not because of the whole
+00:09:11,680 --> 00:09:16,280
+The winner of the best novel was Children of Ruin by Adrian Tchaikovsky.
 
 98
-00:07:56,180 --> 00:08:00,660
- middle of the night issue. I did not. I did not because of the whole not being a
+00:09:16,280 --> 00:09:17,960
+Best short of fiction.
 
 99
-00:08:00,660 --> 00:08:05,340
- member of the BSFA issue which I I've become I'm feeling increasingly embarrassed
+00:09:17,960 --> 00:09:22,180
+This is How You Lose the Time War by Amal El-Matar and Max Gladstone.
 
 100
-00:08:05,340 --> 00:08:08,820
- about actually because one of the things I have been doing in lockdown is that
+00:09:22,180 --> 00:09:27,020
+Best nonfiction was The Pleasant Professor of Robert A. Heinlein, Farah Mendelssohn.
 
 101
-00:08:08,820 --> 00:08:15,500
- they've been running author readings to compensate for not being able to do
+00:09:27,280 --> 00:09:34,740
+And best artwork was the cover for Warism and Other Stories by Ian Waits, by Chris Baker, who's obviously better known as Fangorn.
 
 102
-00:08:15,500 --> 00:08:19,860
- their regular pub meetings on a Wednesday in the middle of the month and I've
+00:09:34,740 --> 00:09:37,580
+Yeah, and they streamed it on Zoom, as we mentioned.
 
 103
-00:08:19,860 --> 00:08:24,740
- gone to a couple of these and they've been jolly good. So I turns out that author
+00:09:37,580 --> 00:09:39,260
+It seemed to go well.
 
 104
-00:08:24,740 --> 00:08:28,260
- readings are one of the things I quite like in lockdown. I like to be able to
+00:09:39,260 --> 00:09:41,100
+I saw people talking about it on Twitter.
 
 105
-00:08:28,260 --> 00:08:32,380
- put on an author reading while I'm working with my hands. Which is also good
+00:09:41,100 --> 00:09:44,500
+I must admit, I didn't watch because I am also not a member of the BSFA.
 
 106
-00:08:32,380 --> 00:08:36,500
- because when I was more involved in the BSFA one of the things people would
+00:09:45,360 --> 00:09:47,620
+Although I am on the BSFA Discord.
 
 107
-00:08:36,500 --> 00:08:40,420
- generally say is the London meetings are great but I live outside London and
+00:09:47,620 --> 00:09:50,360
+So, you know, maybe I should join up.
 
 108
-00:08:40,420 --> 00:08:45,500
- can't get to them and so in lockdown if they're now doing things broadcast by
+00:09:50,360 --> 00:09:52,540
+And it does seem like they're doing some cool stuff at the moment.
 
 109
-00:08:45,500 --> 00:08:49,700
- Zoom again they can have a slightly wider audience. Yeah I think I say Zoom
+00:09:52,540 --> 00:09:55,680
+I should probably be on the BSFA Discord, for that matter.
 
 110
-00:08:49,700 --> 00:08:54,500
- there but I think it's actually Facebook Live so now they will only get
+00:09:55,680 --> 00:09:58,820
+That sounds like good people doing good things on it.
 
 111
-00:08:54,500 --> 00:08:59,140
- criticisms from people who are outside London and hate Facebook. It's the BSFA
+00:09:58,820 --> 00:10:02,880
+I think they need to plug it slightly more because I think at the moment it is rather quiet.
 
 112
-00:08:59,140 --> 00:09:04,940
- vector reading series and we should probably put a link in the show notes.
+00:10:02,880 --> 00:10:05,520
+I get the impression they're using it for their committee meetings.
 
 113
-00:09:04,940 --> 00:09:12,340
- We shall do that. So the BSFA Awards this year are great all of them I think. The
+00:10:05,520 --> 00:10:12,700
+So I think it is being used internally by the BSFA and is therefore at least somewhat active.
 
 114
-00:09:12,340 --> 00:09:16,420
- winner was of the best novel was Children of Ruin by Adrian Shikovsky.
+00:10:12,700 --> 00:10:15,140
+We shall put a link in the show notes.
 
 115
-00:09:16,420 --> 00:09:21,980
- Best shorter fiction. This is How You Lose the Time War by Amal Al-Matar and Max Gladstone.
+00:10:15,620 --> 00:10:22,520
+Sorry, yes, I have read most of Tharra's book, which I found pretty interesting.
 
 116
-00:09:21,980 --> 00:09:26,780
- Best nonfiction was the pleasant professor of Robert A. Highline, Farah Mendelssohn
+00:10:22,520 --> 00:10:25,680
+People keep thinking it's a biography, which it's not.
 
 117
-00:09:26,780 --> 00:09:31,700
- and Best Art work was the cover for Warism and Other Stories by Ian Waits
+00:10:25,680 --> 00:10:26,620
+It's a close reading.
 
 118
-00:09:31,700 --> 00:09:36,260
- by Chris Baker who's obviously better known as Fangorn. Yeah and they streamed
+00:10:26,620 --> 00:10:34,180
+So it's probably of most interest to people who have read all of Heinlein's books, but quite a long time ago,
 
 119
-00:09:36,260 --> 00:09:40,580
- it on Zoom as we mentioned. It seemed to go well I saw people talking about it on
+00:10:34,180 --> 00:10:41,820
+because I think actually Tharra coming to it with a fresh eye here in the 21st century is quite interesting.
 
 120
-00:09:40,580 --> 00:09:44,380
- Twitter. I must admit I didn't watch because I am also not a member of the BSFA
+00:10:41,820 --> 00:10:44,680
+I have read only This Is How You Lose a Time War,
 
 121
-00:09:44,380 --> 00:09:50,980
- although I am on the BSFA discord so you know maybe I should join up. It does seem
+00:10:44,980 --> 00:10:47,300
+which I definitely enjoyed.
 
 122
-00:09:50,980 --> 00:09:53,540
- like they're doing some cool stuff for the machine. I should probably be on the
+00:10:47,300 --> 00:10:53,060
+But I think I enjoyed it, but it didn't kind of speak to me in my heart the way it has to a lot of people.
 
 123
-00:09:53,540 --> 00:09:58,460
- BSFA discord for that matter. That sounds like good people doing good things on it.
+00:10:53,060 --> 00:11:00,340
+I know it is one of those books that comes along occasionally and a lot of people really, really love it.
 
 124
-00:09:58,460 --> 00:10:01,980
- Yes I think they need to plug it slightly more because I think at the moment it is
+00:11:00,340 --> 00:11:05,160
+And I merely liked it and really enjoyed it and admired it and think it's quite well done.
 
 125
-00:10:01,980 --> 00:10:04,900
- rather quiet. I get the impression they're using it for their committee
+00:11:05,160 --> 00:11:11,540
+I will read This Is How You Lose the Time War because it is on the Hugo finalists this year.
 
 126
-00:10:04,900 --> 00:10:10,940
- meetings so I think it is being used internally by the BSFA and is therefore
+00:11:11,540 --> 00:11:13,960
+So I will be reading it as part of my Hugo reading.
 
 127
-00:10:10,940 --> 00:10:15,300
- at least somewhat active. We should put a link in the show notes.
+00:11:14,340 --> 00:11:19,460
+I will read Children of Ruin because I read the previous book in that series,
 
 128
-00:10:15,300 --> 00:10:22,420
- Sorry yes I have read most of Thora's book which I found pretty interesting.
+00:11:19,460 --> 00:11:26,420
+which I thoroughly enjoyed after a colleague in my research group recommended it,
 
 129
-00:10:22,420 --> 00:10:26,980
- People keep thinking it's a biography which it's not it's a close reading so
+00:11:26,420 --> 00:11:28,760
+which was called Children of Time.
 
 130
-00:10:26,980 --> 00:10:32,860
- it's probably of most interest to people who have read all of Highline's books
+00:11:28,760 --> 00:11:30,760
+And that was that was an amazing read.
 
 131
-00:10:32,860 --> 00:10:36,820
- but quite a long time ago because I think actually Thora coming to it with a
+00:11:31,060 --> 00:11:34,360
+So I do really want to read Children of Ruin, but I haven't got around to it yet.
 
 132
-00:10:36,820 --> 00:10:41,860
- fresh eye here in the 21st century is quite interesting.
+00:11:34,360 --> 00:11:43,040
+But I have been reading the Hugo finalists.
 
 133
-00:10:41,860 --> 00:10:47,140
- I have read only this is how you lose the time war which I definitely enjoyed
+00:11:43,040 --> 00:11:46,340
+I've made a start on chewing through some of those.
 
 134
-00:10:47,140 --> 00:10:51,780
- but I think I enjoyed it but it didn't kind of speak to me in my heart the way
+00:11:46,980 --> 00:11:55,280
+And I've also obviously kind of watched and read various bits of the Hugo finalists over the last year when they were actually coming out.
 
 135
-00:10:51,780 --> 00:10:55,180
- it has to a lot of people. I know it is one of those books that comes along
+00:11:55,280 --> 00:12:01,580
+And so we're going to talk a little bit about what on the ballot that we have read, what we're planning to read,
 
 136
-00:10:55,180 --> 00:11:02,740
- occasionally and a lot of people really really love it and I merely liked it and
+00:12:01,580 --> 00:12:04,900
+what we enjoyed and what we didn't enjoy out of the stuff we know about.
 
 137
-00:11:02,740 --> 00:11:05,140
- really enjoyed it and admired it and think it's quite well done.
+00:12:04,900 --> 00:12:12,080
+And so the thing we're probably the most well up to date with is the best dramatic presentation categories,
 
 138
-00:11:05,140 --> 00:11:10,900
- I will read this is how you lose the time war because it is on the Hugo finalists
+00:12:12,080 --> 00:12:16,080
+which I think the three of us have watched most of.
 
 139
-00:11:10,900 --> 00:11:14,740
- this year so I will be reading it as part of my Hugo reading. I will read
+00:12:16,080 --> 00:12:19,120
+So should we start with long form?
 
 140
-00:11:14,740 --> 00:11:20,140
- Children of Ruin because I read the previous book in that series which I
+00:12:19,460 --> 00:12:25,140
+Yeah, I've seen everything on BDP long form apart from Star Wars, which I did mean to go and see.
 
 141
-00:11:20,140 --> 00:11:27,300
- thoroughly enjoyed after a colleague in my research group recommended it which
+00:12:25,140 --> 00:12:34,580
+But it came out at the point when I was about to go off on a long holiday back in the times when I was allowed to get on planes for a long period of time.
 
 142
-00:11:27,300 --> 00:11:31,700
- was called Children of Time and that was that was an amazing read so I do really
+00:12:34,580 --> 00:12:39,340
+And the reviews came out and everyone said, oh, it's fine.
 
 143
-00:11:31,700 --> 00:11:36,180
- want to read Children of Ruin but I haven't got run to it yet.
+00:12:39,340 --> 00:12:41,360
+Oh, it's all right.
 
 144
-00:11:36,180 --> 00:11:45,180
- But I have been reading the Hugo finalists I've made a start on chewing
+00:12:41,360 --> 00:12:42,920
+Oh, it's not that great, really.
 
 145
-00:11:45,180 --> 00:11:50,460
- through some of those and I've also obviously kind of watched and read
+00:12:42,920 --> 00:12:45,800
+And I thought, fine, I'll just go and see it later.
 
 146
-00:11:50,460 --> 00:11:54,300
- various bits of the Hugo finalists over the last year when they were
+00:12:45,800 --> 00:12:47,900
+And then I never got around to it.
 
 147
-00:11:54,300 --> 00:11:58,860
- actually coming out and so we're going to talk a little bit about what on the
+00:12:47,900 --> 00:12:48,840
+So I haven't seen it.
 
 148
-00:11:58,860 --> 00:12:02,580
- ballot that we have read what we're planning to read what we enjoyed and what
+00:12:48,840 --> 00:12:51,080
+I understand it's fine to bad.
 
 149
-00:12:02,580 --> 00:12:06,500
- we didn't enjoy out of the stuff we know about and so the thing we're
+00:12:51,080 --> 00:12:52,340
+I really liked it.
 
 150
-00:12:06,500 --> 00:12:11,500
- probably the most well up to date with is the best dramatic presentation
+00:12:52,340 --> 00:12:55,920
+It made me laugh and grin and clap and do all of those things.
 
 151
-00:12:11,500 --> 00:12:17,460
- categories which I think the three of us have have watched most of so shall we
+00:12:55,920 --> 00:12:58,480
+I can entirely understand why people might not have liked it.
 
 152
-00:12:17,460 --> 00:12:22,500
- start with long form. Yeah I've seen everything on BDP long form apart from
+00:12:58,480 --> 00:13:03,280
+I think it is not a well-made movie, but it is a fun movie.
 
 153
-00:12:22,500 --> 00:12:27,140
- Star Wars which I did mean to go and see but it came out at the point when I was
+00:13:03,280 --> 00:13:05,500
+And I thoroughly enjoyed myself when I watched it.
 
 154
-00:12:27,140 --> 00:12:32,580
- about to go off on a long holiday back at the times when I was allowed to get
+00:13:05,500 --> 00:13:07,560
+I enjoyed it more than I enjoyed Endgame.
 
 155
-00:12:32,580 --> 00:12:37,340
- on planes for a long period of time and the reviews came out and everyone said
+00:13:07,560 --> 00:13:08,880
+And that might be controversial.
 
 156
-00:12:37,340 --> 00:12:44,620
- oh it's fine oh it's alright oh it's not that great really and I thought fine I'll
+00:13:08,880 --> 00:13:11,940
+Endgame's plot fundamentally made no sense to me.
 
 157
-00:12:44,620 --> 00:12:48,660
- just go and see it later and then I forgot around to it so I haven't seen it
+00:13:11,940 --> 00:13:14,240
+And no one else seems to have this problem,
 
 158
-00:12:48,660 --> 00:12:54,060
- I understand it's fine to bad. I really liked it it made me laugh and grin and
+00:13:14,240 --> 00:13:17,800
+which is weird given the number of people that had a problem that Last Jedi had a hyperspace
 
 159
-00:12:54,060 --> 00:12:57,780
- clap and do all of those things I can entirely understand why people might not
+00:13:17,800 --> 00:13:18,380
+jump in it.
 
 160
-00:12:57,780 --> 00:13:03,660
- have liked it. I think it is not a well-made movie but it is a fun movie and I
+00:13:18,380 --> 00:13:22,340
+But like, I don't know, the time travel in Endgame was just nonsense.
 
 161
-00:13:03,660 --> 00:13:06,820
- thoroughly enjoyed myself when I watched it. I enjoyed it more than I enjoyed
+00:13:22,340 --> 00:13:24,400
+And I don't, I liked it.
 
 162
-00:13:06,820 --> 00:13:10,980
- Endgame and that might be controversial. Endgame's plot fundamentally made no
+00:13:24,400 --> 00:13:24,880
+It was fun.
 
 163
-00:13:10,980 --> 00:13:15,340
- sense to me and no one else seems to have this problem which is weird given
+00:13:24,880 --> 00:13:25,780
+It was a good ride.
 
 164
-00:13:15,340 --> 00:13:17,660
- the number of people that had a problem that last year and I had a hyperspace
+00:13:25,780 --> 00:13:29,300
+Time travel is nonsense in all films apart from Looper, basically.
 
 165
-00:13:17,660 --> 00:13:22,300
- jump in it but like I don't know the time travel the Endgame was just nonsense
+00:13:29,300 --> 00:13:30,900
+So I just...
 
 166
-00:13:22,300 --> 00:13:27,260
- I don't I liked it it was fun it was a good ride time travel is nonsense in all
+00:13:30,900 --> 00:13:31,960
+Whoa, 12 monkeys?
 
 167
-00:13:27,260 --> 00:13:33,300
- films apart from Luper basically so I just oh 12 monkeys sorry yes I did mean
+00:13:31,960 --> 00:13:32,860
+Sorry, yes.
 
 168
-00:13:33,300 --> 00:13:37,540
- primer not Luper. Time travel in the first Terminator movie holds up very well
+00:13:32,860 --> 00:13:34,340
+I did mean Prime and not Looper.
 
 169
-00:13:37,540 --> 00:13:42,180
- it's just that Terminator 2 went back and ruined it shall I go back and do sorry
+00:13:34,340 --> 00:13:37,700
+Time travel in the first Terminator movie holds up very well.
 
 170
-00:13:42,180 --> 00:13:46,780
- no we're not gonna let you undo your mistakes Liz this is all going straight
+00:13:37,700 --> 00:13:40,220
+It's just that Terminator 2 went back and ruined it.
 
 171
-00:13:46,780 --> 00:13:53,740
- I had the same reaction every time I see a JJ Abrams film which is that I leave
+00:13:40,220 --> 00:13:42,180
+Shall I go back and do...
 
 172
-00:13:53,740 --> 00:13:59,060
- the cinema going I thoroughly enjoyed that he did justice to the franchise
+00:13:42,180 --> 00:13:42,600
+Sorry, so I could...
 
 173
-00:13:59,060 --> 00:14:07,260
- that he is working in and then over the next few hours or days or weeks the
+00:13:42,600 --> 00:13:45,420
+No, we're not going to let you undo your mistakes, Liz.
 
 174
-00:14:07,260 --> 00:14:14,700
- critical part of my brain goes well did he really all he has done is parrot and
+00:13:45,420 --> 00:13:47,340
+This is all going straight in.
 
 175
-00:14:14,700 --> 00:14:20,700
- eight bits of it without adding to or extending them in a way that is clever
+00:13:47,340 --> 00:13:54,620
+I have the same reaction every time I see a J.J. Abrams film, which is that I leave the cinema
 
 176
-00:14:20,700 --> 00:14:28,620
- or interesting he just serves up fan service that is the cinematic equivalent
+00:13:54,620 --> 00:13:56,380
+going, I thoroughly enjoyed that.
 
 177
-00:14:28,620 --> 00:14:34,580
- of a shoe bun and I'm not saying I don't like shoe buns but I feel that this was
+00:13:56,500 --> 00:14:00,640
+He did justice to the franchise that he is working in.
 
 178
-00:14:34,580 --> 00:14:38,380
- the culmination of a series that I've been watching since I was 12 years old
+00:14:00,640 --> 00:14:11,060
+And then over the next few hours or days or weeks, the critical part of my brain goes,
 
 179
-00:14:38,380 --> 00:14:44,420
- and we deserved a little bit more than that especially given the second episode
+00:14:11,060 --> 00:14:12,740
+well, did he really...
 
 180
-00:14:44,420 --> 00:14:50,660
- had done quite a lot to say we are taking this in a direction that isn't just
+00:14:12,740 --> 00:14:21,720
+All he has done is parrot and ape bits of it without adding to or extending them in a way that is clever or interesting.
 
 181
-00:14:50,660 --> 00:14:57,140
- giving adolescent men in America what they want so I've got two reactions to
+00:14:21,720 --> 00:14:29,580
+He just serves up fan service that is the cinematic equivalent of a shoe bun.
 
 182
-00:14:57,140 --> 00:15:01,420
- that which is firstly I think that take on the two Abrams Star Wars movies
+00:14:29,740 --> 00:14:36,260
+And I'm not saying I don't like shoe buns, but I feel that this was the culmination of a series
 
 183
-00:15:01,420 --> 00:15:05,020
- fundamentally ignores one of their greatest strengths which is I think the
+00:14:36,260 --> 00:14:38,660
+that I've been watching since I was 12 years old.
 
 184
-00:15:05,020 --> 00:15:08,300
- characterization in both of them is the best characterization in any of the
+00:14:38,660 --> 00:14:44,740
+And we deserved a little bit more than that, especially given that the second episode had
 
 185
-00:15:08,300 --> 00:15:12,260
- Star Wars movies I especially think that's clear in the first act of rise of
+00:14:44,740 --> 00:14:52,660
+done quite a lot to say we are taking this in a direction that isn't just giving adolescent
 
 186
-00:15:12,260 --> 00:15:18,420
- Skywalker where the interaction between Rey and Poe and Finn does an awful lot to
+00:14:52,660 --> 00:14:54,600
+men in America what they want.
 
 187
-00:15:18,420 --> 00:15:22,700
- tell you how much time has passed and how much they've gone through in between
+00:14:55,060 --> 00:15:00,780
+So I've got two reactions to that, which is firstly, I think that take on the two Abrams'
 
 188
-00:15:22,700 --> 00:15:26,180
- last Jedi and rise of Skywalker in a way that doesn't need to be written down
+00:15:00,780 --> 00:15:05,200
+Star Wars movies fundamentally ignores one of their greatest strengths, which is I think the
 
 189
-00:15:26,180 --> 00:15:29,700
- because it's all there in the direction and the acting and I actually think
+00:15:05,200 --> 00:15:09,320
+characterisation in both of them is the best characterisation in any of the Star Wars movies.
 
 190
-00:15:29,700 --> 00:15:34,540
- Abrams is the best director that has ever directed a Star Wars movie which
+00:15:09,700 --> 00:15:16,220
+I especially think that's clear in the first act of Rise of Skywalker, where the interaction between Rey and Poe and Finn
 
 191
-00:15:34,540 --> 00:15:40,340
- may be controversial I think last Jedi was fantastic I do enjoy last Jedi I do
+00:15:16,220 --> 00:15:22,860
+does an awful lot to tell you how much time has passed and how much they've gone through in between
 
 192
-00:15:40,340 --> 00:15:44,620
- wish that they hadn't decided to fundamentally reanalyze what it is to be
+00:15:22,860 --> 00:15:28,360
+Last Jedi and Rise of Skywalker in a way that doesn't need to be written down because it's all there in the direction and the acting.
 
 193
-00:15:44,620 --> 00:15:50,180
- Star Wars in the eighth part of a nine part series because I think that made it
+00:15:28,480 --> 00:15:35,560
+And I actually think Abrams is the best director that has ever directed a Star Wars movie, which may be controversial.
 
 194
-00:15:50,180 --> 00:15:53,980
- very difficult to tell a coherent story I think if the eighth part of your series
+00:15:35,560 --> 00:15:38,300
+And I think Last Jedi was fantastic.
 
 195
-00:15:53,980 --> 00:15:56,580
- is something like but now what about something completely different there are
+00:15:38,300 --> 00:15:39,680
+I do enjoy Last Jedi.
 
 196
-00:15:56,580 --> 00:16:00,180
- problems there and I think the other half of what's wrong with rise of Skywalker
+00:15:39,680 --> 00:15:48,360
+I do wish that they hadn't decided to fundamentally reanalyse what it is to be Star Wars in the eighth part of a nine part series,
 
 197
-00:16:00,180 --> 00:16:03,500
- is that it is very difficult to work out how you get from the end of the last
+00:15:48,360 --> 00:15:52,220
+because I think that made it very difficult to tell a coherent story.
 
 198
-00:16:03,500 --> 00:16:08,580
- Jedi to the end of the nine part saga in a way that's anything approaching
+00:15:52,420 --> 00:15:56,260
+I think if the eighth part of your series is suddenly like, but now what about something completely different?
 
 199
-00:16:08,580 --> 00:16:13,940
- narratively satisfying I do think that rise of Skywalker has some absolute
+00:15:56,260 --> 00:15:57,580
+There are problems there.
 
 200
-00:16:13,940 --> 00:16:17,420
- bobbins in it and it reminds me a little bit of some of the Rossel T. Davis
+00:15:57,580 --> 00:16:03,860
+And I think the other half of what's wrong with Rise of Skywalker is that it is very difficult to work out how you get from the end of The Last Jedi
 
 201
-00:16:17,420 --> 00:16:21,100
- work on Doctor Who where you've got the bit at the end spoilers for those who
+00:16:03,860 --> 00:16:10,500
+to the end of the nine part saga in a way that's anything approaching narratively satisfying.
 
 202
-00:16:21,100 --> 00:16:24,380
- haven't seen rise of Skywalker there's a bit at the end Liz do you mind if I
+00:16:10,500 --> 00:16:14,860
+I do think that Rise of Skywalker has some absolute bobbins in it.
 
 203
-00:16:24,380 --> 00:16:28,740
- spoil rise of Skywalker no go for it go for it go for it there's a bit at the
+00:16:14,860 --> 00:16:20,220
+And it reminds me a little bit of some of the Russell T. Davis work on Doctor Who, where you've got the bit at the end.
 
 204
-00:16:28,740 --> 00:16:31,900
- end where the Emperor basically uses force lightning on an entire solar
+00:16:20,220 --> 00:16:22,040
+Spoilers for those who haven't seen Rise of Skywalker.
 
 205
-00:16:31,900 --> 00:16:36,540
- system and it's a bit like did we need that no if we did did that did we need a
+00:16:22,040 --> 00:16:23,600
+But there's a bit at the end.
 
 206
-00:16:36,540 --> 00:16:41,100
- little bit of text they explained why that was okay probably I didn't mind it
+00:16:23,600 --> 00:16:25,460
+Liz, do you mind if I spoil Rise of Skywalker?
 
 207
-00:16:41,100 --> 00:16:45,860
- it wasn't great it's but Abrams does this he does the infinitely ratcheting up
+00:16:25,460 --> 00:16:27,080
+No, go for it.
 
 208
-00:16:45,860 --> 00:16:50,260
- the stakes which does cheapen the stakes in the earlier movies which is a shame
+00:16:27,080 --> 00:16:27,560
+Go for it.
 
 209
-00:16:50,260 --> 00:16:54,300
- but generally speaking I thought it had flaws but I did genuinely generally
+00:16:27,560 --> 00:16:28,000
+Go for it.
 
 210
-00:16:54,300 --> 00:16:58,500
- really enjoy it I still think the best of the three pre the best of the three
+00:16:28,000 --> 00:16:32,400
+There's a bit at the end where the Emperor basically uses force lightning on an entire solar system.
 
 211
-00:16:58,500 --> 00:17:02,220
- sequel movies is The Force Awakens which I thought in many ways was almost
+00:16:32,400 --> 00:16:34,480
+And it's a bit like, did we need that?
 
 212
-00:17:02,220 --> 00:17:07,980
- perfect and I thoroughly enjoyed but that is by tape can we agree that you
+00:16:34,480 --> 00:16:35,000
+No.
 
 213
-00:17:07,980 --> 00:17:13,500
- should not give the Hugo to it I was suggested at the end of this segment we
+00:16:35,000 --> 00:16:38,720
+If we did need that, did we need a little bit of text that explained why that was OK?
 
 214
-00:17:13,500 --> 00:17:17,900
- decide who we should give the Hugo to I have ideas neither of them are rise of
+00:16:38,720 --> 00:16:39,400
+Probably.
 
 215
-00:17:17,900 --> 00:17:22,740
- Skywalker so I am not arguing that it should be Hugo Victor haha the Hugo
+00:16:39,400 --> 00:16:41,300
+I didn't mind it.
 
 216
-00:17:22,740 --> 00:17:26,540
- Victor Hugo it was a pun
+00:16:41,300 --> 00:16:42,200
+It wasn't great.
 
 217
-00:17:29,340 --> 00:17:36,180
- I have not seen the two episodes of the Marvel Cinematic Universe extruded
+00:16:42,200 --> 00:16:43,540
+But Abrams does this.
 
 218
-00:17:36,180 --> 00:17:42,580
- product because it is getting very large and life is too short you only need to
+00:16:43,540 --> 00:16:50,440
+He does the infinitely ratcheting up the stakes, which does cheapen the stakes in the earlier movies, which is a shame.
 
 219
-00:17:42,580 --> 00:17:47,620
- watch two movies and two television series a year or something and you're
+00:16:50,860 --> 00:16:55,460
+But generally speaking, I thought it had flaws, but I did generally really enjoy it.
 
 220
-00:17:47,620 --> 00:17:54,780
- all right but that I genuinely enjoy the MCU I enjoyed Captain Marvel although in
+00:16:55,460 --> 00:17:02,800
+I still think the best of the three sequel movies is The Force Awakens, which I thought in many ways was almost perfect.
 
 221
-00:17:54,780 --> 00:18:00,660
- a way it was like okay this is maybe the 10th or 12th superhero origin story in
+00:17:02,800 --> 00:17:04,380
+And I thoroughly enjoyed.
 
 222
-00:18:00,660 --> 00:18:05,580
- the MCU I have seen and the exciting bit is now they keep setting them in
+00:17:04,380 --> 00:17:06,360
+But that is my take.
 
 223
-00:18:05,580 --> 00:18:09,740
- different random decades so they can have a different soundtrack and you can go
+00:17:06,920 --> 00:17:10,160
+Can we agree that you should not give the Hugo to it?
 
 224
-00:18:09,740 --> 00:18:13,900
- oh it's got some 90s things in but I did I did still enjoy it I would probably
+00:17:10,160 --> 00:17:15,640
+I would suggest at the end of this segment, we decide who we should give the Hugo to.
 
 225
-00:18:13,900 --> 00:18:18,060
- go and watch another one I was thoroughly entertained for two and a half
+00:17:15,640 --> 00:17:16,720
+I have ideas.
 
 226
-00:18:18,060 --> 00:18:24,660
- hours or whatever it is and it is nice to see a female lead yes Brie Larson
+00:17:16,720 --> 00:17:18,440
+Neither of them are Rise of Skywalker.
 
 227
-00:18:24,660 --> 00:18:30,900
- is someone I really like and so I liked her in it I will say so I think I think
+00:17:18,440 --> 00:17:21,800
+So I am not arguing that it should be the Hugo Victor.
 
 228
-00:18:30,900 --> 00:18:35,020
- Alison's point about it being the extruded Marvel Cinematic product which
+00:17:21,800 --> 00:17:22,540
+Ha ha!
 
 229
-00:18:35,020 --> 00:18:40,540
- is a very evocative metaphor which I love I think it's true and I think it's
+00:17:22,540 --> 00:17:23,240
+The Hugo Victor.
 
 230
-00:18:40,540 --> 00:18:44,300
- difficult because I think one of the really shining things the MCU has done
+00:17:23,240 --> 00:17:23,920
+Victor Hugo.
 
 231
-00:18:44,300 --> 00:18:49,060
- and whether or not you like the way it's done it it's really interesting that
+00:17:23,920 --> 00:17:24,740
+It was a pun.
 
 232
-00:18:49,060 --> 00:18:54,860
- they've taken a story and told it over a series of 20 movies with ancillary
+00:17:25,700 --> 00:17:41,500
+I have not seen the two episodes of the Marvel Cinematic Universe extruded product because it is getting very large and life is too short.
 
 233
-00:18:54,860 --> 00:18:58,580
- material because I don't think that's really ever been done before and in the
+00:17:41,500 --> 00:17:48,200
+Actually, you only need to watch two movies and two television series a year or something and you're all right.
 
 234
-00:18:58,580 --> 00:19:02,380
- closest you've probably got is James Bond but that doesn't tell anything near a
+00:17:48,200 --> 00:17:49,100
+But that.
 
 235
-00:19:02,380 --> 00:19:08,620
- single story and so I think I think in some ways the MCU is actually really
+00:17:49,580 --> 00:17:51,240
+I genuinely enjoy the MCU.
 
 236
-00:19:08,620 --> 00:19:12,220
- revolutionary in a way that people aren't really talking about but I think
+00:17:51,240 --> 00:18:02,200
+I enjoyed Captain Marvel, although in a way it was like, OK, this is maybe the 10th or 12th superhero origin story in the MCU I have seen.
 
 237
-00:19:12,220 --> 00:19:16,420
- part of that is because it is really revolutionary at telling a story where a
+00:18:02,920 --> 00:18:11,380
+And the exciting bit is now that they keep setting them in different random decades so they can have a different soundtrack and you can go, oh, it's got some 90s things in.
 
 238
-00:19:16,420 --> 00:19:19,980
- lot of the beats are repeated and I could definitely see why there are people
+00:18:11,380 --> 00:18:12,220
+But I did.
 
 239
-00:19:19,980 --> 00:19:24,100
- who are getting to the point where they're like this is a bit I have gotten to
+00:18:12,220 --> 00:18:13,480
+I did still enjoy it.
 
 240
-00:19:24,100 --> 00:19:29,180
- the end of my patience with this compared with most people I know I have very
+00:18:13,480 --> 00:18:15,220
+I would probably go and watch another one.
 
 241
-00:19:29,180 --> 00:19:34,620
- low tolerance for the same story being told over and over with bigger bits over
+00:18:15,220 --> 00:18:19,660
+I was thoroughly entertained for two and a half hours or whatever it is.
 
 242
-00:19:34,620 --> 00:19:39,580
- series I'm television series as well I also struggle with this and we will get
+00:18:19,660 --> 00:18:23,280
+And it is nice to see a female lead.
 
 243
-00:19:39,580 --> 00:19:43,220
- to why I think the two short television series are my favorite things of what I
+00:18:23,280 --> 00:18:23,960
+Yes.
 
 244
-00:19:43,220 --> 00:19:53,300
- have so far seen I thought Good Omens was rather good I wasn't particularly
+00:18:23,960 --> 00:18:27,100
+Brie Larson is someone I really like.
 
 245
-00:19:53,300 --> 00:19:59,140
- expecting it I mean I kind of knew it was in production I think that they did
+00:18:27,100 --> 00:18:29,400
+And so I liked her in it.
 
 246
-00:19:59,140 --> 00:20:04,820
- it in a way that did not overstay its welcome I think that the fact that gaming
+00:18:29,480 --> 00:18:38,380
+I will say, so I think I think Alison's point about it being the extruded Marvel Cinematic product, which is a very evocative metaphor, which I love.
 
 247
-00:20:04,820 --> 00:20:11,700
- was on board probably helped sharpen the script to match modern sensibilities
+00:18:38,380 --> 00:18:39,720
+I think it's true.
 
 248
-00:20:11,700 --> 00:20:16,180
- because Good Omens is 30 years old now and there are there is a lot of subtext
+00:18:39,720 --> 00:18:55,640
+And I think it's difficult because I think one of the really shining things the MCU has done and whether or not you like the way it's done it, it's really interesting that they've taken a story and told it over a series of 20 movies with ancillary material.
 
 249
-00:20:16,180 --> 00:20:20,940
- in that novel that is not made anything like as clear as it was made in the
+00:18:55,760 --> 00:18:58,180
+Because I don't think that's really ever been done before.
 
 250
-00:20:20,940 --> 00:20:26,300
- series I thought a lot of ways that they used animation and time travel and
+00:18:58,180 --> 00:19:03,640
+And the closest you've probably got is James Bond, but that doesn't tell anything near a single story.
 
 251
-00:20:26,300 --> 00:20:29,340
- all of that sort of thing were very clever and I thoroughly enjoyed it and
+00:19:03,640 --> 00:19:11,660
+And so I think I think in some ways the MCU is actually really revolutionary in a way that people aren't really talking about.
 
 252
-00:20:29,340 --> 00:20:34,380
- of the ones I've seen on this list which as you know is not very many it's my
+00:19:12,020 --> 00:19:17,660
+But I think part of that is because it is really revolutionary telling a story where a lot of the beats are repeated.
 
 253
-00:20:34,380 --> 00:20:40,980
- second best I also enjoyed Good Omens I think I first read Good Omens when I was
+00:19:17,660 --> 00:19:25,840
+And I can definitely see why there are people who are getting to the point where they're like, this is a bit I have gotten to the end of my patience with this.
 
 254
-00:20:40,980 --> 00:20:45,500
- 10 or 11 years old and I loved it and it remains you know a book I have reread
+00:19:25,840 --> 00:19:35,260
+Compared with most people I know, I have very low tolerance for the same story being told over and over with bigger bits over series.
 
 255
-00:20:45,500 --> 00:20:49,860
- many times of the year and still really enjoy and while I like the TV
+00:19:35,580 --> 00:19:38,140
+From television series as well, I also struggle with this.
 
 256
-00:20:49,860 --> 00:20:55,540
- adaptation it is almost too faithful to the books it felt to me like there was
+00:19:38,140 --> 00:19:44,060
+And we will get to why I think the two short television series are my favourite things of what I have so far seen.
 
 257
-00:20:55,540 --> 00:21:00,060
- too much trying to keep a lot of the actual wording of the books in by having
+00:19:49,340 --> 00:19:51,660
+I thought Good Omens was rather good.
 
 258
-00:21:00,060 --> 00:21:06,700
- some pretty unnecessary narration narration from God and some of the bits
+00:19:51,660 --> 00:19:54,660
+I wasn't particularly expecting it.
 
 259
-00:21:06,700 --> 00:21:10,940
- they kept in I think you could have cut entirely and also I think some of the
+00:19:54,660 --> 00:19:56,760
+I mean, I kind of knew it was in production.
 
 260
-00:21:10,940 --> 00:21:16,940
- bits with yes I think some of the stuff with Sergeant Shadwell and Madam Tracy
+00:19:56,760 --> 00:20:02,320
+I think that they did it in a way that did not overstay its welcome.
 
 261
-00:21:16,940 --> 00:21:22,620
- has not aged particularly well and it's really noticeable in the show minus
+00:20:02,540 --> 00:20:14,080
+I think that the fact that Gaiman was on board probably helped sharpen the script to match modern sensibilities because Good Omens is 30 years old now.
 
 262
-00:21:22,620 --> 00:21:27,140
- spoiler the bit where Aziraphale sort of takes over Madam Tracy's body works
+00:20:14,080 --> 00:20:21,900
+And there are there is a lot of subtext in that novel that is not made anything like as clear as it was made in the series.
 
 263
-00:21:27,140 --> 00:21:30,980
- much much better in the books because in the TV show it just puts Michael Sheen
+00:20:22,600 --> 00:20:29,360
+I thought a lot of ways that they used animation and time travel and all of that sort of thing were very clever and I thoroughly enjoyed it.
 
 264
-00:21:30,980 --> 00:21:35,120
- out of action for an episode so I would really like to actually if they've
+00:20:29,360 --> 00:20:36,140
+And of the ones I've seen on this list, which, as you know, is not very many, it's my second best.
 
 265
-00:21:35,120 --> 00:21:40,020
- trimmed it more maybe trimmed out some of the bikers of the apocalypse trimmed
+00:20:36,140 --> 00:20:38,360
+I also enjoyed Good Omens.
 
 266
-00:21:40,020 --> 00:21:43,500
- out these bits that I think don't work as well on screen and it was almost too
+00:20:38,840 --> 00:20:43,480
+I think I first read Good Omens when I was 10 or 11 years old and I loved it.
 
 267
-00:21:43,500 --> 00:21:48,580
- faithful but it was way way better than what I feared we might get so I can't
+00:20:43,480 --> 00:20:47,820
+And it remains, you know, a book I have reread many times over the years and still really enjoy.
 
 268
-00:21:48,580 --> 00:21:53,460
- complain too much so I will say I think I agree with you I think it was too
+00:20:47,820 --> 00:20:54,160
+And while I like the TV adaptation, it is almost too faithful to the books.
 
 269
-00:21:53,460 --> 00:21:57,140
- faithful I think they should have taken more liberties with it and I am also
+00:20:54,160 --> 00:21:03,080
+It felt to me like there was too much trying to keep a lot of the actual wording of the books in by having some pretty unnecessary narration.
 
 270
-00:21:57,140 --> 00:22:00,980
- in the same boat that I think I read Good Omens when I was 10 or 11 and it
+00:21:03,080 --> 00:21:04,900
+Narration from God.
 
 271
-00:22:00,980 --> 00:22:04,180
- remains a very very fond memory it was the book that introduced me to both
+00:21:05,580 --> 00:21:09,300
+And some of the bits they kept in, I think you could have cut entirely.
 
 272
-00:22:04,180 --> 00:22:09,300
- Pratchett and Gaiman's writing so it will always have a place in my heart I
+00:21:09,300 --> 00:21:18,980
+And also, I think some of the bits with, yes, I think some of the stuff with Sergeant Shadwell and Madam Tracy has not aged particularly well.
 
 273
-00:22:09,300 --> 00:22:13,900
- think I agree with you that they needed to do more to make it into a TV show
+00:21:18,980 --> 00:21:26,540
+And it's really noticeable in the show, minor spoiler, the bit where Aziraphale sort of takes over Madam Tracy's body.
 
 274
-00:22:13,900 --> 00:22:19,700
- rather than into a TV version of a book I will say that I thought the
+00:21:26,540 --> 00:21:32,900
+Works much, much better in the books because in the TV show, it just puts Michael Sheen out of action for an episode.
 
 275
-00:22:19,700 --> 00:22:24,340
- chemistry between most of the characters was amazing and I thought the actors did
+00:21:33,380 --> 00:21:42,280
+So I would really have liked to actually, if they trimmed it more, maybe trimmed out some of the bikers of the apocalypse, trimmed out these bits that I think don't work as well on screen.
 
 276
-00:22:24,340 --> 00:22:28,460
- a tremendous job I am happy that Michael Sheen and David Tennant are getting a
+00:21:42,280 --> 00:21:44,160
+And it was almost too faithful.
 
 277
-00:22:28,460 --> 00:22:32,580
- lockdown TV show together as far as I could tell off the back of the fact that
+00:21:44,160 --> 00:21:48,300
+But it was way, way better than what I feared we might get.
 
 278
-00:22:32,580 --> 00:22:37,220
- they were good together in Good Omens which is Chef's Kiss I thought Jack White
+00:21:48,300 --> 00:21:49,420
+So I can't complain too much.
 
 279
-00:22:37,220 --> 00:22:40,180
- Hall was very good which surprised me because I was expecting not to think
+00:21:50,020 --> 00:21:52,720
+So I will say, I think I agree with you.
 
 280
-00:22:40,180 --> 00:22:42,260
- he was very good the thing you said about the bikers of the
+00:21:52,720 --> 00:21:53,880
+I think it was too faithful.
 
 281
-00:22:42,260 --> 00:22:45,700
- pocket is really interesting because my main problem with that is that they
+00:21:53,880 --> 00:21:56,060
+I think they should have taken more liberties with it.
 
 282
-00:22:45,700 --> 00:22:49,380
- cut out all of the funny bits are left in all of the other bits and I think
+00:21:56,060 --> 00:22:00,480
+And I am also in the same boat that I think I read Good Omens when I was 10 or 11.
 
 283
-00:22:49,380 --> 00:22:52,660
- they really needed to decide whether they were going to keep the hilarious
+00:22:00,480 --> 00:22:02,940
+And it remains a very, very fond memory.
 
 284
-00:22:52,660 --> 00:22:57,060
- other four bikers which made it work or whether they were going to really slim
+00:22:02,940 --> 00:22:05,880
+It was the book that introduced me to both Pratchett and Gaiman's writing.
 
 285
-00:22:57,060 --> 00:23:00,100
- down that whole thing but they sort of went for a middle road where they took
+00:22:05,880 --> 00:22:08,620
+So it will always have a place in my heart.
 
 286
-00:23:00,100 --> 00:23:05,700
- the funny bit out and that I'm not sure I do wonder whether that's because it
+00:22:09,520 --> 00:22:17,140
+I think I agree with you that they needed to do more to make it into a TV show rather than into a TV version of a book.
 
 287
-00:23:05,700 --> 00:23:09,220
- was Neil Gaiman that was overseeing the adaptation and not Terry Pratchett
+00:22:18,060 --> 00:22:23,400
+I will say that I thought the chemistry between most of the characters was amazing.
 
 288
-00:23:09,220 --> 00:23:15,060
- because I wonder whether some of the more out there funny bits of Good Omens were
+00:22:23,400 --> 00:22:25,400
+And I thought the actors did a tremendous job.
 
 289
-00:23:15,060 --> 00:23:18,740
- more on Pratchett's side than Gaiman's shall we say but generally speaking I
+00:22:25,400 --> 00:22:30,600
+I am happy that Michael Sheen and David Tennant are getting a lockdown TV show together.
 
 290
-00:23:18,740 --> 00:23:20,980
- thought it was very good I'm not sure it's my favorite of the
+00:22:30,600 --> 00:22:35,520
+As far as I can tell off the back of the fact that they were good together in Good Omens, which is Chef's Kiss.
 
 291
-00:23:20,980 --> 00:23:26,420
- roster but I really liked it. Gaiman is very good at whimsy but he is not a
+00:22:35,520 --> 00:22:40,980
+I thought Jack Whitehall was very good, which surprised me because I was expecting not to think he was very good.
 
 292
-00:23:26,420 --> 00:23:32,260
- humorist in the way that Pratchett was and very little of Gaiman's solo output
+00:22:41,280 --> 00:22:48,940
+The thing you said about the Bikers of the Apocalypse is really interesting because my main problem with that is that they cut out all of the funny bits and left in all of the other bits.
 
 293
-00:23:32,260 --> 00:23:36,900
- is not out loud hilarious so I think you can reasonably assume that everything
+00:22:48,940 --> 00:22:58,340
+And I think they really needed to decide whether they were going to keep the hilarious other four bikers, which made it work, or whether they were going to really slim down that whole thing.
 
 294
-00:23:36,900 --> 00:23:40,180
- properly funny in Good Omens comes from Pratchett. Everything that's
+00:22:58,340 --> 00:23:00,980
+But they sort of went for a middle road where they took the funny bit out.
 
 295
-00:23:40,180 --> 00:23:43,700
- properly funny and I think properly sort of sharp
+00:23:00,980 --> 00:23:02,580
+And that I'm not sure.
 
 296
-00:23:43,700 --> 00:23:49,540
- humor as well seems to be me to be more of a Pratchett thing than a Gaiman thing.
+00:23:02,580 --> 00:23:09,140
+And I do wonder whether that's because it was Neil Gaiman that was overseeing the adaptation and not Terry Pratchett.
 
 297
-00:23:49,540 --> 00:23:52,260
- I mean obviously this is all speculation and we may be entirely wrong but it
+00:23:09,280 --> 00:23:17,760
+Because I wonder whether some of the more out there funny bits of Good Omens were more on Pratchett's side than Gaiman's, shall we say.
 
 298
-00:23:52,260 --> 00:23:55,940
- seems reasonable for more we know about the two authors.
+00:23:17,760 --> 00:23:19,560
+But generally speaking, I thought it was very good.
 
 299
-00:23:55,940 --> 00:23:59,860
- With a bit of luck we'll get a lock from Neil Gaiman telling us how we're going.
+00:23:19,560 --> 00:23:22,700
+I'm not sure it's my favourite of the roster, but I really liked it.
 
 300
-00:23:59,860 --> 00:24:04,740
- Ha ha yes Neil please write in and tell us how we've gotten all this wrong we
+00:23:22,700 --> 00:23:28,800
+Gaiman is very good at whimsy, but he is not a humorist in the way that Pratchett was.
 
 301
-00:24:04,740 --> 00:24:06,100
- would love to hear from you.
+00:23:28,800 --> 00:23:34,100
+And very little of Gaiman's solo output is laugh out loud hilarious.
 
 302
-00:24:06,100 --> 00:24:15,300
- I really liked Russian doll I like lots of things it did and I like the fact that
+00:23:34,100 --> 00:23:39,260
+So I think you can reasonably assume that everything properly funny in Good Omens comes from Pratchett.
 
 303
-00:24:15,300 --> 00:24:19,780
- just I think I hadn't noticed when it came out that Netflix was in the habit
+00:23:39,260 --> 00:23:49,460
+Everything that's properly funny and I think properly sort of sharp humor as well seems to me to be more of a Pratchett thing than a Gaiman thing.
 
 304
-00:24:19,780 --> 00:24:24,020
- of just sticking up some stuff that was quite out there
+00:23:49,460 --> 00:23:55,660
+I mean, obviously, this is all speculation and we may be entirely wrong, but it seems reasonable from what we know about the two authors.
 
 305
-00:24:24,020 --> 00:24:29,060
- and I like that Russian doll is I don't think it's like hugely original
+00:23:55,660 --> 00:23:59,500
+With a bit of luck, we'll get a lock from Neil Gaiman telling us how we're going.
 
 306
-00:24:29,060 --> 00:24:36,180
- but I like the fact it was clearly quite cheap to make and so therefore
+00:23:59,500 --> 00:24:04,800
+Yes, Neil, please write in and tell us how we've gotten all this wrong.
 
 307
-00:24:36,180 --> 00:24:39,620
- it doesn't have when you reap novels and they're
+00:24:04,800 --> 00:24:05,900
+We would love to hear from you.
 
 308
-00:24:39,620 --> 00:24:44,180
- great and interesting and weird you think well if this had been made into a
+00:24:05,900 --> 00:24:12,700
+I really like Russian Doll.
 
 309
-00:24:44,180 --> 00:24:46,580
- film or a television series people would have
+00:24:12,700 --> 00:24:14,140
+I like lots of things it did.
 
 310
-00:24:46,580 --> 00:24:52,180
- shaved bits off the edges to make them fit more tightly into a mold of what
+00:24:14,140 --> 00:24:23,880
+And I like the fact that just I think I hadn't noticed when it came out that Netflix was in the habit of just sticking up some stuff that was quite out there.
 
 311
-00:24:52,180 --> 00:24:56,100
- they think extruded cinematic products should be like
+00:24:23,880 --> 00:24:34,540
+And I like that Russian Doll is I don't think it's like hugely original, but I like the fact it was clearly quite cheap to make.
 
 312
-00:24:56,100 --> 00:25:00,020
- and Russian doll absolutely doesn't do that it's got a load of characters
+00:24:34,540 --> 00:24:41,960
+And so therefore it doesn't have when you read novels and they're great and interesting and weird.
 
 313
-00:25:00,020 --> 00:25:03,620
- and they're quite wild and they do a load of things you know a heroine is
+00:24:42,200 --> 00:24:55,900
+You think, well, if this had been made into a film or a television series, people would have shaved bits off the edges to make them fit more tightly into a mold of what they think extruded cinematic product should be like.
 
 314
-00:25:03,620 --> 00:25:06,660
- actually spectacularly not particularly nice in a way that
+00:24:55,900 --> 00:24:58,780
+And Russian Doll absolutely doesn't do that.
 
 315
-00:25:06,660 --> 00:25:12,980
- is not that common even in the more elaborately very television that we get
+00:24:58,780 --> 00:25:02,640
+It's got a load of characters and they're quite wild and they do a load of things.
 
 316
-00:25:12,980 --> 00:25:16,820
- now and it's short so they made quite a short amount of it
+00:25:02,640 --> 00:25:13,400
+You know, a harrowing is actually spectacularly not particularly nice in a way that is not that common, even in the more elaborately varied television that we get now.
 
 317
-00:25:16,820 --> 00:25:19,780
- and it tells a whole story and then it's done and I don't know if their plan is
+00:25:13,400 --> 00:25:14,200
+And it's short.
 
 318
-00:25:19,780 --> 00:25:23,620
- to do anymore obviously when things are a big success on Netflix they tend to do a
+00:25:14,200 --> 00:25:18,920
+So they made quite a short amount of it and it tells a whole story and then it's done.
 
 319
-00:25:23,620 --> 00:25:26,820
- second series oh that's a little bit of a shame but it feels like it told a whole
+00:25:18,920 --> 00:25:20,580
+And I don't know if they're planning to do any more.
 
 320
-00:25:26,820 --> 00:25:30,420
- story and it was done and it was and it had lots of
+00:25:20,580 --> 00:25:24,460
+Obviously, when things are a big success on Netflix, they tend to do a second series.
 
 321
-00:25:30,420 --> 00:25:33,940
- proper science fictional content which even now even with all the science
+00:25:24,460 --> 00:25:25,540
+That's a little bit of a shame.
 
 322
-00:25:33,940 --> 00:25:37,620
- fictionters around us all the time we don't get as much of that as we
+00:25:25,540 --> 00:25:38,400
+But it feels like it told a whole story and it was done and it had lots of proper science fictional content, which even now, even with all the science fiction around us all the time, we don't get as much of that as we maybe should.
 
 323
-00:25:37,620 --> 00:25:41,620
- maybe should and I thought it was funny and entertaining
+00:25:38,400 --> 00:25:41,200
+And I thought it was funny and entertaining.
 
 324
-00:25:41,620 --> 00:25:46,740
- and I that's what I want from my long-form dramatic presentations thank you
+00:25:41,200 --> 00:25:46,500
+And that's what I want from my long form dramatic presentation.
 
 325
-00:25:46,740 --> 00:25:49,460
- very much and don't necessarily get it though it was
+00:25:46,500 --> 00:25:47,480
+Thank you very much.
 
 326
-00:25:49,460 --> 00:25:52,900
- kind of it's kind of eight short-form dramatic presentations so
+00:25:47,480 --> 00:25:49,240
+And don't necessarily get it, though.
 
 327
-00:25:52,900 --> 00:25:57,700
- it once again demonstrated that the hugo categories are very complicated
+00:25:49,240 --> 00:25:52,400
+It's kind of eight short form dramatic presentations.
 
 328
-00:25:57,700 --> 00:26:02,900
- I think I would say that it feels like something which fits much better in
+00:25:52,760 --> 00:25:57,320
+So it once again demonstrated that the Hugo categories are very complicated.
 
 329
-00:26:02,900 --> 00:26:06,100
- long-form than many series which have been nominated
+00:25:57,320 --> 00:26:10,380
+I think I would say that it feels like something which fits much better in long form than many series which have been nominated in long form, because I think it does tell one complete story over eight episodes.
 
 330
-00:26:06,100 --> 00:26:10,580
- long-form because I think it does tell one complete story over eight episodes
+00:26:10,380 --> 00:26:13,180
+And that's one reason why it's so satisfying to watch.
 
 331
-00:26:10,580 --> 00:26:13,380
- and that's one reason why it's so satisfying to watch
+00:26:13,180 --> 00:26:17,500
+Without spoiling it, it is not a concept that is entirely new.
 
 332
-00:26:13,380 --> 00:26:17,780
- without spoiling it it is not a concept that is entirely new
+00:26:17,500 --> 00:26:29,940
+I did think that it is quite innovative in that it is a very dark comedy in a way that you don't often see US kind of situation comedies do.
 
 333
-00:26:17,780 --> 00:26:23,620
- I did think that it is quite innovative in that it is a very
+00:26:29,940 --> 00:26:36,480
+And the bleakness of it and the humour of it was really refreshing.
 
 334
-00:26:23,620 --> 00:26:26,580
- dark comedy in a way that you don't often see
+00:26:36,480 --> 00:26:37,740
+I really liked that.
 
 335
-00:26:26,580 --> 00:26:33,300
- US kind of situation comedies do and the he bleakness of it
+00:26:37,740 --> 00:26:40,600
+I think it's relatively unusual for comedy to be taken seriously.
 
 336
-00:26:33,300 --> 00:26:37,780
- and the humor of it was really refreshing I really liked that
+00:26:40,600 --> 00:26:42,800
+It's relatively unusual for genre to be taken seriously.
 
 337
-00:26:37,780 --> 00:26:40,660
- I think it's relatively unusual for comedy to be taken seriously it's
+00:26:42,800 --> 00:26:47,020
+So the fact that this was a genre comedy that was taken seriously was really pleasing.
 
 338
-00:26:40,660 --> 00:26:43,700
- relatively unusual for genre to be taken seriously so the fact that this was a
+00:26:47,020 --> 00:26:56,780
+And I think stands in opposition to The Good Place, which is another genre comedy that was taken seriously, but has a very different feel in terms of its optimism to Russian Doll.
 
 339
-00:26:43,700 --> 00:26:47,220
- genre comedy that was taken seriously was really pleasing
+00:26:56,780 --> 00:26:59,680
+And so I'm really happy that Russian Doll is on the roster.
 
 340
-00:26:47,220 --> 00:26:50,340
- and I think stands in opposition to the good place
+00:26:59,680 --> 00:27:03,780
+And I think it's one of the two that I would be the happiest to see win.
 
 341
-00:26:50,340 --> 00:26:54,020
- which is another genre comedy that was taken seriously but has a very different
+00:27:04,260 --> 00:27:05,920
+And what is the other one, John?
 
 342
-00:26:54,020 --> 00:26:57,940
- feel in terms of its optimism to russian doll and so I'm really happy
+00:27:05,920 --> 00:27:10,840
+The other one I would be happy to see win is US, directed by Jordan Peele.
 
 343
-00:26:57,940 --> 00:27:01,700
- that russian doll is on the roster and I think it's one of the two
+00:27:10,840 --> 00:27:13,440
+I have not seen US, but I do want to.
 
 344
-00:27:01,700 --> 00:27:06,420
- that I would be the happiest to see win and what is the other one john
+00:27:13,440 --> 00:27:17,480
+And I suspect it's quite good just because everything Jordan Peele has ever done is good.
 
 345
-00:27:06,420 --> 00:27:11,220
- the other one I would be happy to see win is us directed by Jordan Peele
+00:27:17,480 --> 00:27:26,060
+So we will not be spoiling so that Alison does not have to put her fingers in her ears and shout la la la, because I do not want to have to edit around that.
 
 346
-00:27:11,220 --> 00:27:14,980
- I have not seen us but I do want to and I suspect it's quite good just because
+00:27:26,060 --> 00:27:31,200
+So, Liz, can you spoiler free discuss what you liked about US?
 
 347
-00:27:14,980 --> 00:27:19,460
- everything Jordan Peele has ever done is good so we will not be spoiling so the
+00:27:31,200 --> 00:27:42,920
+I think what might be funnier is if I did it with spoilers and elaborate hand gestures and Alison had to put it on mute and just watch me, you know, mime the entire film.
 
 348
-00:27:19,460 --> 00:27:23,620
- allison does not have to put her fingers in her ears and shout la la la
+00:27:42,920 --> 00:27:45,500
+But that would probably not be much fun for the listeners.
 
 349
-00:27:23,620 --> 00:27:29,300
- because I do not want to have to edit around that so Liz can you spoiler free
+00:27:45,500 --> 00:27:51,480
+I will not be doing that.
 
 350
-00:27:29,300 --> 00:27:33,700
- discuss what you liked about us I think what might be funnier is if I did
+00:27:51,480 --> 00:27:53,160
+Alison, you can put them back in.
 
 351
-00:27:33,700 --> 00:27:36,340
- it with spoilers and elaborate hand gestures and
+00:27:53,160 --> 00:27:56,040
+I feel that would be too boring for the listeners.
 
 352
-00:27:36,340 --> 00:27:39,300
- allison had to put it on mute and just watch me you know
+00:27:56,040 --> 00:27:59,200
+I think the best part about us was when the Hoff turned up.
 
 353
-00:27:39,300 --> 00:27:43,460
- ha ha ha mime the entire film but that would
+00:27:59,200 --> 00:27:59,500
+No.
 
 354
-00:27:43,460 --> 00:27:47,380
- probably not be much fun for the listeners
+00:27:59,500 --> 00:28:02,820
+I liked it.
 
 355
-00:27:47,380 --> 00:27:53,780
- I will not be doing that as you can put the back in
+00:28:02,820 --> 00:28:14,800
+I don't watch a lot of horror films, but I did find this one to be scary, but in a really sort of plot and character driven way, if that makes sense.
 
 356
-00:27:53,780 --> 00:27:56,260
- I feel that would be too boring for the listeners
+00:28:14,800 --> 00:28:21,560
+Like it felt like a slasher film, but with something really deep going on under it.
 
 357
-00:27:56,260 --> 00:28:00,180
- I think the best part about us was when the hoff turned up no um
+00:28:21,560 --> 00:28:23,960
+I think that acting is fantastic.
 
 358
-00:28:00,180 --> 00:28:08,500
- I liked I don't watch a lot of horror films but I did find this one to be
+00:28:24,180 --> 00:28:30,080
+I don't think it's really spoiling anything because it's in the trailer to say that there are lots of doppelgangers involved.
 
 359
-00:28:08,500 --> 00:28:15,140
- scary but in a really sort of plot and character driven way if that makes sense
+00:28:30,080 --> 00:28:33,800
+And I think all the acting of the people with their doppelgangers is amazing.
 
 360
-00:28:15,140 --> 00:28:20,980
- like it felt like a slasher film but with something really deep going on
+00:28:33,800 --> 00:28:37,900
+You can always tell who is who, even if they're not speaking.
 
 361
-00:28:20,980 --> 00:28:25,860
- under it I think that acting is fantastic I don't think it's really spoiling
+00:28:38,000 --> 00:28:41,320
+The acting in it is phenomenal and the direction is phenomenal.
 
 362
-00:28:25,860 --> 00:28:29,540
- anything because it's in the trailer to say that there are lots of doppelgangers
+00:28:41,320 --> 00:28:49,300
+But I also think it is creepy in a way that I find most horror movies are not.
 
 363
-00:28:29,540 --> 00:28:33,060
- involved and I think all the acting of the people with their doppelgangers
+00:28:49,300 --> 00:28:58,300
+But I think both Us and Get Out are incredibly creepy movies that made me feel really uncomfortable in a really nice way.
 
 364
-00:28:33,060 --> 00:28:38,180
- is amazing you can always tell who is who even if they're not speaking
+00:28:58,380 --> 00:29:03,320
+That's going to sound weird, but like I enjoyed the feeling of uncomfort I had while I was watching them.
 
 365
-00:28:38,180 --> 00:28:41,540
- the acting in it is phenomenal and the direction is phenomenal
+00:29:03,320 --> 00:29:06,660
+They really got under my skin and I really enjoyed them.
 
 366
-00:28:41,540 --> 00:28:49,380
- but I also think it is creepy in a way that I find most horror movies are not
+00:29:06,660 --> 00:29:09,680
+I think Us is really, really great.
 
 367
-00:28:49,380 --> 00:28:54,660
- but I think both us and get out are incredibly creepy movies that made me
+00:29:09,680 --> 00:29:17,440
+And I think you can see that Jordan Peele's background in comedy is helping a lot with his ability to do the timing.
 
 368
-00:28:54,660 --> 00:28:59,060
- feel really uncomfortable in a really nice way that's gonna sound weird but
+00:29:17,700 --> 00:29:23,480
+I think his sense of comic timing is helping him a lot with the pacing and the way he can make you feel uncomfortable through the film.
 
 369
-00:28:59,060 --> 00:29:03,300
- like I enjoyed the feeling of uncomfortable I had while I was watching them
+00:29:23,480 --> 00:29:24,920
+I really liked it.
 
 370
-00:29:03,300 --> 00:29:08,580
- they really got under my skin and I really enjoyed them I think us is
+00:29:24,920 --> 00:29:26,460
+I would be very happy to see it win.
 
 371
-00:29:08,580 --> 00:29:13,860
- really really great and I think you can see that Jordan Peele's background in
+00:29:26,460 --> 00:29:28,240
+I would highly recommend watching it.
 
 372
-00:29:13,860 --> 00:29:16,820
- comedy is helping a lot with his ability to do the
+00:29:28,240 --> 00:29:33,520
+Me and Espania bought Us and Get Out on iTunes for 15 quid because they've got a bundle at the moment.
 
 373
-00:29:16,820 --> 00:29:20,420
- timing I think his sense of comic timing is helping him a lot with the pacing
+00:29:33,520 --> 00:29:36,960
+We thoroughly enjoyed watching Us the other week.
 
 374
-00:29:20,420 --> 00:29:23,540
- and the way he can make you feel uncomfortable through the film
+00:29:36,960 --> 00:29:46,580
+So what do you feel should win based on the ones you've seen anyway?
 
 375
-00:29:23,540 --> 00:29:26,500
- I really liked it I would be very happy to see it when
+00:29:46,880 --> 00:29:49,860
+Of the ones I've seen, I'd be voting for Russian Doll.
 
 376
-00:29:26,500 --> 00:29:30,900
- I would highly recommend watching it me and a spaniel bought us and get out on
+00:29:49,860 --> 00:29:56,500
+For all the reasons about things not overstaying their welcome and telling a story in the right amount of space that I've seen.
 
 377
-00:29:30,900 --> 00:29:33,780
- iTunes for 15 quid because they've got a bundle at the moment
+00:29:56,500 --> 00:29:59,960
+But I mean, I'm sure that Us is well up there as well.
 
 378
-00:29:33,780 --> 00:29:40,740
- we thoroughly enjoyed watching us the other week
+00:29:59,960 --> 00:30:01,620
+And I also like Good Omens.
 
 379
-00:29:40,740 --> 00:29:46,820
- so what do you feel should win based on the ones you've seen anyway
+00:30:01,620 --> 00:30:05,360
+Do you want to rank them in order, Alison?
 
 380
-00:29:46,820 --> 00:29:49,860
- of the ones I've seen I've seen I've been voting for russia doll
+00:30:05,360 --> 00:30:07,580
+Like, as you would on your ballot?
 
 381
-00:29:49,860 --> 00:29:53,380
- for all the reasons about things not overstaying they're welcome and and
+00:30:07,580 --> 00:30:10,960
+Of the ones I've seen, I've only seen three of these, haven't I?
 
 382
-00:29:53,380 --> 00:29:57,380
- telling a story in the right amount of space that I've seen but I mean I'm
+00:30:10,960 --> 00:30:13,220
+She has ranked the three she's seen, I think.
 
 383
-00:29:57,380 --> 00:30:02,500
- sure that us is well up there as well and I also like good omens
+00:30:13,220 --> 00:30:16,860
+Which are Russian Doll, Good Omens.
 
 384
-00:30:02,500 --> 00:30:07,940
- do you want to rank them in in order Alison like as you would on your ballot
+00:30:16,860 --> 00:30:18,040
+Rise of Skywalker.
 
 385
-00:30:07,940 --> 00:30:11,780
- of the ones I've seen I've only seen three of these haven't I she has ranked
+00:30:18,040 --> 00:30:20,260
+Sorry, I should say more clearly.
 
 386
-00:30:11,780 --> 00:30:17,060
- the three she's seen I think which are um russia doll good omens
+00:30:20,260 --> 00:30:21,620
+Russian Doll, Good Omens.
 
 387
-00:30:17,060 --> 00:30:21,700
- rise of Skywalker sorry I should say more clearly russia doll good omens no
+00:30:21,620 --> 00:30:23,020
+Noah Ward, Rise of Skywalker.
 
 388
-00:30:21,700 --> 00:30:25,620
- award rises guy fair fair what will you be
+00:30:23,020 --> 00:30:24,140
+Fair, fair.
 
 389
-00:30:25,620 --> 00:30:28,500
- ranking them liz
+00:30:24,140 --> 00:30:26,760
+What will you be ranking them, Liz?
 
 390
-00:30:28,500 --> 00:30:31,540
- you've put me on the spot now because I hadn't thought about my lower
+00:30:28,580 --> 00:30:33,100
+You've put me on the spot now because I hadn't thought about my lower ranked choice voting.
 
 391
-00:30:31,540 --> 00:30:36,340
- ranked choice voting I think number one is us
+00:30:33,100 --> 00:30:35,980
+I think number one is Us.
 
 392
-00:30:36,340 --> 00:30:42,500
- and probably russian doll I'm gonna have to think about it some more
+00:30:35,980 --> 00:30:40,500
+Probably Russian Doll.
 
 393
-00:30:42,500 --> 00:30:46,660
- there's things I love about good omens and captain marvel and avengers end
+00:30:40,500 --> 00:30:42,680
+I'm going to have to think about it some more.
 
 394
-00:30:46,660 --> 00:30:50,500
- game but I really need to think about it some more and how much of it is
+00:30:42,680 --> 00:30:47,140
+There's things I love about Good Omens and Captain Marvel and Avengers Endgame.
 
 395
-00:30:50,500 --> 00:30:54,580
- are my judging avengers endgame as a film or am I judging avengers endgame off
+00:30:47,460 --> 00:30:49,300
+But I really need to think about it some more.
 
 396
-00:30:54,580 --> 00:30:58,260
- the 20th in a series of 20 films I think this is actually a really
+00:30:49,300 --> 00:30:52,880
+And how much of it is, am I judging Avengers Endgame as a film?
 
 397
-00:30:58,260 --> 00:31:02,740
- interesting question because I kind of wish
+00:30:52,880 --> 00:30:56,780
+Or am I judging Avengers Endgame of the 20th in a series of 20 films?
 
 398
-00:31:02,740 --> 00:31:07,060
- that the marvel cinematic universe had been nominated as a single dramatic
+00:30:56,780 --> 00:30:59,840
+I think this is actually a really interesting question.
 
 399
-00:31:07,060 --> 00:31:10,020
- presentation long for like the whole thing from my end
+00:31:00,060 --> 00:31:08,340
+Because I kind of wish that the Marvel Cinematic Universe had been nominated as a single dramatic presentation long for.
 
 400
-00:31:10,020 --> 00:31:13,620
- endgame because if that happened I would have ranked it one
+00:31:08,340 --> 00:31:11,040
+Like the whole thing from Iron Man to Endgame.
 
 401
-00:31:13,620 --> 00:31:18,980
- but as it is I'm gonna put russian doll then I'm gonna put us then I'm gonna put
+00:31:11,040 --> 00:31:13,300
+Because if that happened, I would have ranked it one.
 
 402
-00:31:18,980 --> 00:31:22,180
- good omens then I'm gonna put captain marvel then I'm gonna put rise of sky
+00:31:13,860 --> 00:31:16,660
+But as it is, I'm going to put Russian Doll.
 
 403
-00:31:22,180 --> 00:31:24,420
- walker and then I'm gonna put end game because I
+00:31:16,660 --> 00:31:17,920
+Then I'm going to put Us.
 
 404
-00:31:24,420 --> 00:31:28,180
- fundamentally didn't feel like endgame did a good job of wrapping up
+00:31:17,920 --> 00:31:19,760
+Then I'm going to put Good Omens.
 
 405
-00:31:28,180 --> 00:31:31,700
- the mcu I think a lot of people liked it because it had a lot of fan service in
+00:31:19,760 --> 00:31:21,040
+Then I'm going to put Captain Marvel.
 
 406
-00:31:31,700 --> 00:31:34,820
- it but I just didn't think it held together as a movie
+00:31:21,040 --> 00:31:22,480
+Then I'm going to put Rise of Skywalker.
 
 407
-00:31:34,820 --> 00:31:38,340
- very well at all but did enjoy seeing it in the cinema
+00:31:22,480 --> 00:31:23,780
+And then I'm going to put Endgame.
 
 408
-00:31:38,340 --> 00:31:42,260
- and there are some really good bits I enjoyed all of them is the problem I
+00:31:23,780 --> 00:31:28,920
+Because I fundamentally didn't feel like Endgame did a good job of wrapping up the MCU.
 
 409
-00:31:42,260 --> 00:31:46,100
- wouldn't pay any of them below no award we may we may get on to
+00:31:28,920 --> 00:31:32,060
+I think a lot of people liked it because it had a lot of fan service in it.
 
 410
-00:31:46,100 --> 00:31:49,220
- discussions of when you would put something below no award
+00:31:32,060 --> 00:31:35,860
+But I just didn't think it held together as a movie very well at all.
 
 411
-00:31:49,220 --> 00:31:53,860
- but this is not the category where I would yes okay I'm probably being a bit harsh
+00:31:35,860 --> 00:31:38,200
+But I did enjoy seeing it in the cinema.
 
 412
-00:31:53,860 --> 00:31:57,380
- I just would be so sad if it if we got to virtual
+00:31:38,200 --> 00:31:39,680
+And there are some really good bits.
 
 413
-00:31:57,380 --> 00:32:02,180
- conzeland and they gave the hugator rise of sky walker and I do think it's a
+00:31:39,680 --> 00:31:42,240
+I enjoyed all of them is the problem.
 
 414
-00:32:02,180 --> 00:32:04,660
- very significant risk because I think there are a lot of people at the
+00:31:42,240 --> 00:31:44,020
+I wouldn't put any of them below no award.
 
 415
-00:32:04,660 --> 00:32:07,780
- wilcon who've been watching star wars movies for
+00:31:44,020 --> 00:31:49,020
+We may get on to discussions of when you would put something below no award.
 
 416
-00:32:07,780 --> 00:32:11,700
- 40 years and would like to see an award for that I think that's a good point
+00:31:49,020 --> 00:31:51,380
+But this is not the category where I would.
 
 417
-00:32:11,700 --> 00:32:15,780
- because I think if star wars and endgame are going to get ranked on
+00:31:51,380 --> 00:31:52,720
+Yes, okay.
 
 418
-00:32:15,780 --> 00:32:19,860
- the entirety of the sagas they belong to instead of as individual works it
+00:31:52,720 --> 00:31:53,980
+I'm probably being a bit harsh.
 
 419
-00:32:19,860 --> 00:32:23,620
- becomes much harder to predict what the fandom is going to give the hugo to
+00:31:53,980 --> 00:32:01,240
+I just would be so sad if we got to Virtual Con Zealand and they gave the Hugo to Rise of Skywalker.
 
 420
-00:32:23,620 --> 00:32:27,620
- so I think if people don't do that it will go to either russian dollar
+00:32:01,240 --> 00:32:05,320
+And I do think it's a very significant risk because I think there are a lot of people at the World Con
 
 421
-00:32:27,620 --> 00:32:32,180
- us I think if they do do that then endgame's got a really good chance of
+00:32:05,320 --> 00:32:10,920
+who've been watching Star Wars movies for 40 years and would like to see an award for that.
 
 422
-00:32:32,180 --> 00:32:34,740
- winning it's my thought although good omen's has a
+00:32:10,920 --> 00:32:19,920
+I think that's a good point because I think if Star Wars and Endgame are going to get ranked on the entirety of the sagas they belong to instead of as individual works,
 
 423
-00:32:34,740 --> 00:32:38,260
- lot of fans so maybe i'm wrong maybe good omens could steal it
+00:32:19,920 --> 00:32:23,380
+it becomes much harder to predict what the fandom is going to give the Hugo to.
 
 424
-00:32:38,260 --> 00:32:42,180
- I wouldn't want a bit money oh good omens really does have a lot of
+00:32:23,380 --> 00:32:28,180
+So I think if people don't do that, it will go to either Russian Doll or us.
 
 425
-00:32:42,180 --> 00:32:46,340
- fans it really does okay so we were going to discuss best
+00:32:28,440 --> 00:32:33,980
+I think if they do do that, then Endgame's got a really good chance of winning, is my thought.
 
 426
-00:32:46,340 --> 00:32:49,540
- dramatic presentation short form but it turns out we had a lot of thoughts
+00:32:33,980 --> 00:32:36,660
+Although Good Omens has a lot of fans, so maybe I'm wrong.
 
 427
-00:32:49,540 --> 00:32:53,780
- and so we're going to leave that for a future episode
+00:32:36,660 --> 00:32:37,900
+Maybe Good Omens could steal it.
 
 428
-00:32:53,780 --> 00:33:00,100
- do we want to touch on staying sane in the apocalypse
+00:32:37,900 --> 00:32:39,500
+I wouldn't want to bet money.
 
 429
-00:33:00,100 --> 00:33:03,300
- my method of staying sane in the apocalypse is having discussions with
+00:32:39,500 --> 00:32:42,720
+Oh, Good Omens really does have a lot of fans.
 
 430
-00:33:03,300 --> 00:33:07,380
- youtube about the minutiae of disney based marketing schedules
+00:32:42,720 --> 00:32:43,820
+It really does.
 
 431
-00:33:07,380 --> 00:33:11,940
- how are you both coping? covid 19
+00:32:44,300 --> 00:32:49,600
+Okay, so we were going to discuss best dramatic presentation short form, but it turns out we had a lot of thoughts.
 
 432
-00:33:11,940 --> 00:33:17,540
- i do find that making sure that i'm having chats with my friends and not only that
+00:32:49,600 --> 00:32:51,940
+And so we're going to leave that for a future episode.
 
 433
-00:33:17,540 --> 00:33:21,940
- that i'm making sure that those chats go in different directions so that i'm
+00:32:51,940 --> 00:32:59,700
+Do we want to touch on staying sane in the apocalypse?
 
 434
-00:33:21,940 --> 00:33:25,140
- talking to different friends about different things on different
+00:32:59,700 --> 00:33:07,060
+My method of staying sane in the apocalypse is having discussions with you two about the minutiae of Disney-based marketing schedules.
 
 435
-00:33:25,140 --> 00:33:29,060
- occasions is really important for me and that i do set up
+00:33:07,300 --> 00:33:10,600
+How are you both coping with COVID-19?
 
 436
-00:33:29,060 --> 00:33:32,100
- zoom chats where unexpected people are talking to each other because i think
+00:33:10,600 --> 00:33:17,780
+I do find that making sure that I'm having chats with my friends, and not only that,
 
 437
-00:33:32,100 --> 00:33:35,220
- you get if you're always talking to the same people
+00:33:17,780 --> 00:33:21,520
+that I'm making sure that those chats go in different directions,
 
 438
-00:33:35,220 --> 00:33:39,220
- even if you frame it around a board game or a quiz night or whatever
+00:33:21,520 --> 00:33:25,900
+so that I'm talking to different friends about different things on different occasions,
 
 439
-00:33:39,220 --> 00:33:43,700
- you would inevitably get to the point where somebody goes
+00:33:25,900 --> 00:33:27,840
+is really important for me.
 
 440
-00:33:43,700 --> 00:33:46,900
- have you ever have you been anywhere nice recently and the other person goes
+00:33:27,840 --> 00:33:31,760
+And that I do set up Zoom chats where unexpected people are talking to each other,
 
 441
-00:33:46,900 --> 00:33:50,340
- well i went for a nice walk in bluebell woods at castle barnard
+00:33:31,760 --> 00:33:32,540
+because I think you get...
 
 442
-00:33:50,340 --> 00:33:53,700
- and then you realize there's only so much you can say about walking in bluebell
+00:33:32,540 --> 00:33:35,360
+If you're always talking to the same people,
 
 443
-00:33:53,700 --> 00:33:57,140
- woods it's not true but you actually run out very
+00:33:35,420 --> 00:33:37,400
+even if you frame it around a board game,
 
 444
-00:33:57,140 --> 00:34:00,100
- quickly of things to talk about even though we've all been watching things
+00:33:37,400 --> 00:33:38,260
+or a quiz night,
 
 445
-00:34:00,100 --> 00:34:02,820
- and doing things whereas if you actually get some different people
+00:33:38,260 --> 00:33:38,820
+or whatever,
 
 446
-00:34:02,820 --> 00:34:06,820
- together you can actually start to have the
+00:33:38,820 --> 00:33:43,400
+you inevitably get to the point where somebody goes,
 
 447
-00:34:06,820 --> 00:34:10,420
- meaty conversations about you know everything else in the world
+00:33:43,400 --> 00:33:45,860
+have you been anywhere nice recently?
 
 448
-00:34:10,420 --> 00:34:13,620
- because people from different countries and people in
+00:33:45,860 --> 00:33:47,100
+And the other person goes,
 
 449
-00:34:13,620 --> 00:34:17,140
- different situations do have different experiences and they're good
+00:33:47,100 --> 00:33:49,940
+well, I went for a nice walk in Bluebell Woods at Castle Barnard.
 
 450
-00:34:17,140 --> 00:34:20,580
- i think i've been doing much the same have you been
+00:33:49,940 --> 00:33:54,220
+And then you realise that there's only so much you can say about walking in Bluebell Woods.
 
 451
-00:34:20,580 --> 00:34:25,220
- talking to a plethora of people liz i mean i have but that's because i also
+00:33:54,220 --> 00:33:55,240
+It's not true.
 
 452
-00:34:25,220 --> 00:34:29,540
- went out and had socially distanced outdoor coffee with some people yesterday
+00:33:55,240 --> 00:33:58,700
+But you actually run out very quickly of things to talk about,
 
 453
-00:34:29,540 --> 00:34:33,060
- because we are on a much freer schedule i think
+00:33:58,700 --> 00:34:01,000
+even though we've all been watching things and doing things.
 
 454
-00:34:33,060 --> 00:34:37,140
- then you guys are at this point caroline came around and had a coffee at my
+00:34:01,000 --> 00:34:03,340
+Whereas if you actually get some different people together,
 
 455
-00:34:37,140 --> 00:34:39,300
- house and i did not think we had broken any rules but it
+00:34:03,620 --> 00:34:08,520
+you can actually start to have the meaty conversations about,
 
 456
-00:34:39,300 --> 00:34:42,820
- turns out that we did she came to my house and put six
+00:34:08,520 --> 00:34:10,420
+you know, everything else in the world.
 
 457
-00:34:42,820 --> 00:34:47,060
- georgettea novels on my doorstep whilst in the process of doing other
+00:34:10,420 --> 00:34:16,040
+Because people from different countries and people in different situations do have different experiences,
 
 458
-00:34:47,060 --> 00:34:51,300
- errands which are legal and then she went and sat in my front garden
+00:34:16,040 --> 00:34:16,820
+and they're good.
 
 459
-00:34:51,300 --> 00:34:54,900
- some distance away from the house and i came out with a polypin of beer which
+00:34:16,820 --> 00:34:19,400
+I think I've been doing much the same.
 
 460
-00:34:54,900 --> 00:34:58,980
- i was selling her and put it on my recycling bin and then we
+00:34:19,400 --> 00:34:22,720
+Have you been talking to a plethora of people, Liz?
 
 461
-00:34:58,980 --> 00:35:03,220
- had a cup of coffee together um at about three meters apart which i
+00:34:22,960 --> 00:34:29,260
+I mean, I have, but that's because I also went out and had socially distanced outdoor coffee with some people yesterday,
 
 462
-00:35:03,220 --> 00:35:06,260
- thought was completely legal and fine now but it turns out
+00:34:29,260 --> 00:34:34,860
+because we are on a much freer schedule, I think, than you guys are at this point.
 
 463
-00:35:06,260 --> 00:35:08,980
- we needed to actually walk into the street because you could only do it at
+00:34:34,860 --> 00:34:37,520
+Caroline came round and had a coffee at my house,
 
 464
-00:35:08,980 --> 00:35:12,660
- this in an outdoor public place so if we'd had done exactly the same thing but
+00:34:37,520 --> 00:34:40,620
+and I did not think we had broken any rules, but it turns out that we did.
 
 465
-00:35:12,660 --> 00:35:16,180
- i'd start off by putting two chairs in the middle of the road
+00:34:40,880 --> 00:34:44,900
+She came to my house and put six Georgettea novels on my doorstep,
 
 466
-00:35:16,180 --> 00:35:20,180
- we'd have been good fair enough but as it was it was legal it was a great
+00:34:44,900 --> 00:34:48,240
+whilst in the process of doing other errands which are legal.
 
 467
-00:35:20,180 --> 00:35:23,620
- fun though i've got to the stage where every time you see another human being
+00:34:48,240 --> 00:34:52,900
+And then she went and sat in my front garden, some distance away from the house.
 
 468
-00:35:23,620 --> 00:35:27,620
- you're like oh this is amazing it's a person we can drink coffee we can
+00:34:52,900 --> 00:34:55,920
+And I came out with a polypin of beer, which I was selling her,
 
 469
-00:35:27,620 --> 00:35:33,460
- have a conversation yeah we we have in our garden we have a fence which is
+00:34:55,920 --> 00:34:58,860
+and put it on my recycling bin.
 
 470
-00:35:33,460 --> 00:35:36,740
- short enough that if we sit in the middle of our garden
+00:34:58,860 --> 00:35:03,160
+And then we had a cup of coffee together at about three metres apart,
 
 471
-00:35:36,740 --> 00:35:39,540
- and our neighbors sit in the middle of their garden
+00:35:03,160 --> 00:35:05,120
+which I thought was completely legal and fine now.
 
 472
-00:35:39,540 --> 00:35:42,020
- we can shout at each other while having lunch
+00:35:05,120 --> 00:35:08,100
+But it turns out we needed to actually walk into the street,
 
 473
-00:35:42,020 --> 00:35:47,380
- and that is quite good for conversation it does it does need you to shout you
+00:35:08,100 --> 00:35:10,700
+because you could only do it at this in an outdoor public place.
 
 474
-00:35:47,380 --> 00:35:50,340
- can't talk normally but it works quite well actually
+00:35:10,700 --> 00:35:12,680
+So if we'd had done exactly the same thing,
 
 475
-00:35:50,340 --> 00:35:53,220
- we're probably about three or four meters apart i would say
+00:35:12,680 --> 00:35:15,860
+but I'd started off by putting two chairs in the middle of the road,
 
 476
-00:35:53,220 --> 00:35:57,220
- but yeah it's not bad and then i've also been having
+00:35:15,860 --> 00:35:17,180
+we'd have been good.
 
 477
-00:35:57,220 --> 00:36:01,140
- Spanish lessons from my sister-in-law which has been fun
+00:35:17,180 --> 00:35:18,040
+Fair enough.
 
 478
-00:36:01,140 --> 00:36:05,780
- keeps you occupied and i really really hate talking in Spanish not because i
+00:35:18,040 --> 00:35:19,700
+But as it was, it was legal.
 
 479
-00:36:05,780 --> 00:36:09,620
- don't like Spanish but because as listeners will have noted i talk
+00:35:19,700 --> 00:35:20,720
+It was great fun, though.
 
 480
-00:36:09,620 --> 00:36:14,100
- quite a lot and talking and being unable to say the thing you want to say
+00:35:20,720 --> 00:35:23,780
+I've got to the stage where every time you see another human being,
 
 481
-00:36:14,100 --> 00:36:17,060
- because you don't know how to is a very frustrating thing
+00:35:23,780 --> 00:35:25,160
+you're like, oh, this is amazing.
 
 482
-00:36:17,060 --> 00:36:20,100
- i think if you talk a lot i'm finding it really difficult but i am
+00:35:25,160 --> 00:35:26,400
+It's a person.
 
 483
-00:36:20,100 --> 00:36:23,300
- persevering and it is quite good so far this is why
+00:35:26,400 --> 00:35:27,280
+We can drink coffee.
 
 484
-00:36:23,300 --> 00:36:26,660
- extroverts struggle with language learning because you know you have all
+00:35:27,280 --> 00:35:28,620
+We can have a conversation.
 
 485
-00:36:26,660 --> 00:36:29,220
- these things to say and it's incredibly hard to say them
+00:35:29,300 --> 00:35:34,300
+Yeah, we have in our garden, we have a fence which is short enough
 
 486
-00:36:29,220 --> 00:36:32,260
- and then you do language learning and i've got to the stage where i can read
+00:35:34,300 --> 00:35:36,580
+that if we sit in the middle of our garden
 
 487
-00:36:32,260 --> 00:36:35,860
- quite a lot of Japanese now but cannot say anything in Japanese and that's
+00:35:36,580 --> 00:35:39,240
+and our neighbours sit in the middle of their garden,
 
 488
-00:36:35,860 --> 00:36:38,500
- good and that's really embarrassing
+00:35:39,240 --> 00:35:41,820
+we can shout at each other while having lunch.
 
 489
-00:36:38,500 --> 00:36:44,020
- you're learning tai-liz i am yes i'm i'm having online language lessons and one
+00:35:41,820 --> 00:35:44,820
+And that is quite good for conversation.
 
 490
-00:36:44,020 --> 00:36:48,500
- of the problems is that it can sometimes be quite hard to hear
+00:35:44,820 --> 00:35:47,240
+It does need you to shout.
 
 491
-00:36:48,500 --> 00:36:52,260
- and one of the key things that we are supposed to be learning right now
+00:35:47,240 --> 00:35:48,380
+You can't talk normally.
 
 492
-00:36:52,260 --> 00:36:56,020
- is how to read the different tones from the different combinations of
+00:35:48,380 --> 00:35:50,220
+But it works quite well, actually.
 
 493
-00:36:56,020 --> 00:36:58,820
- consonants of vowels and so what it actually needs to
+00:35:50,220 --> 00:35:53,040
+We're probably about three or four metres apart, I would say.
 
 494
-00:36:58,820 --> 00:37:02,820
- is me saying something and then doing a hand motion to prove that i do know
+00:35:53,040 --> 00:35:55,460
+But yeah, it's not bad.
 
 495
-00:37:02,820 --> 00:37:06,420
- what tone it's supposed to be in even if it's not possible to hear over zoom
+00:35:55,920 --> 00:35:59,280
+And then I've also been having Spanish lessons from my sister-in-law,
 
 496
-00:37:06,420 --> 00:37:10,180
- exactly what tone i'm using so there's a lot of like hands going up and hands
+00:35:59,280 --> 00:36:01,040
+which has been fun.
 
 497
-00:37:10,180 --> 00:37:13,700
- going down and hands representing rising and falling tones
+00:36:01,040 --> 00:36:02,360
+It keeps you occupied.
 
 498
-00:37:13,700 --> 00:37:18,580
- it's quite funny excellent and we can have a octa thought where i speak in
+00:36:02,360 --> 00:36:05,300
+And I really, really hate talking in Spanish.
 
 499
-00:37:18,580 --> 00:37:22,020
- Spanish list speaks in tai and alison is the only one anyone can understand
+00:36:05,300 --> 00:36:06,680
+Not because I don't like Spanish,
 
 500
-00:37:22,020 --> 00:37:25,380
- and that will be fun absolutely because you do need my hand
+00:36:06,680 --> 00:36:09,280
+but because, as listeners will have noted,
 
 501
-00:37:25,380 --> 00:37:29,140
- just to tell what tone i'm supposed to be attempting
+00:36:09,280 --> 00:36:10,420
+I talk quite a lot.
 
 502
-00:37:29,140 --> 00:37:34,100
- i can embed pictures if you're doing them in the podcast art so i don't know
+00:36:10,420 --> 00:36:14,360
+And talking and being unable to say the thing you want to say
 
 503
-00:37:34,100 --> 00:37:37,140
- whether listeners have picked up on this but i put
+00:36:14,600 --> 00:36:16,920
+is a very frustrating thing.
 
 504
-00:37:37,140 --> 00:37:41,140
- i put pictures in the podcast so if you're looking at your podcast player
+00:36:16,920 --> 00:36:19,480
+I think if you talk a lot, I'm finding it really difficult.
 
 505
-00:37:41,140 --> 00:37:44,980
- when a certain part of the podcast plays their picture will change sometimes
+00:36:19,480 --> 00:36:20,980
+But I am persevering.
 
 506
-00:37:44,980 --> 00:37:46,900
- you know if there's a relevant picture to the
+00:36:20,980 --> 00:36:22,680
+And it is quite good so far.
 
 507
-00:37:46,900 --> 00:37:52,100
- discussion and i could i could do second long chapters with liz
+00:36:22,680 --> 00:36:25,300
+This is why extroverts struggle with language learning.
 
 508
-00:37:52,100 --> 00:37:56,260
- gesturing to indicate where her tone should be and that would be
+00:36:25,300 --> 00:36:27,600
+Because, you know, you have all these things to say
 
 509
-00:37:56,260 --> 00:38:00,580
- a delightfully hacky way of solving the problem i think
+00:36:27,600 --> 00:36:29,000
+and it's incredibly hard to say them.
 
 510
-00:38:00,580 --> 00:38:03,860
- thank you everyone for listening to the sixth episode of the octa thought
+00:36:29,000 --> 00:36:30,740
+And then you do language learning.
 
 511
-00:38:03,860 --> 00:38:06,900
- podcast we will see you in a fortnight time
+00:36:30,740 --> 00:36:33,600
+And I've got to the stage where I can read quite a lot of Japanese now,
 
 512
-00:38:06,900 --> 00:38:11,060
- but for now i have been john coxen and it's goodbye from me
+00:36:33,600 --> 00:36:35,680
+but cannot say anything in Japanese.
 
 513
-00:38:11,060 --> 00:38:13,940
- and i have been alison scott and it's goodbye from me
+00:36:35,680 --> 00:36:36,340
+And that's it.
 
 514
-00:38:13,940 --> 00:38:18,580
- and i have been a still amblest batty and it's goodbye from me
+00:36:36,340 --> 00:36:37,660
+And that's really embarrassing.
 
 515
-00:38:18,580 --> 00:38:25,060
- yay yeah that's six episodes that's amazing
+00:36:38,540 --> 00:36:40,100
+You're learning Thai, Liz.
 
 516
-00:38:25,060 --> 00:38:29,060
- are we not are we eligible for hugo yet the theme music for this episode was
+00:36:40,100 --> 00:36:41,080
+I am.
 
 517
-00:38:29,060 --> 00:38:33,220
- fanfare for space by kevin mccloud at ncompetech.com
+00:36:41,080 --> 00:36:43,840
+Yes, I'm having online language lessons.
 
 518
-00:38:33,220 --> 00:38:45,220
- used under a creative commons attribution 3.0 license
+00:36:43,840 --> 00:36:45,620
+And one of the problems is that
 
 519
-00:38:46,100 --> 00:38:48,100
- you
+00:36:45,620 --> 00:36:48,400
+it can sometimes be quite hard to hear.
 
 520
-00:38:48,100 --> 00:38:58,580
- okay so i think one of the really interesting things about the mcu is that
+00:36:48,400 --> 00:36:50,460
+And one of the key things that we are
 
 521
-00:38:58,580 --> 00:39:01,620
- they're doing this kind of two or three movie a year
+00:36:50,460 --> 00:36:52,200
+supposed to be learning right now
 
 522
-00:39:01,620 --> 00:39:06,980
- product where they're doing um movies which are in some ways very similar to
+00:36:52,200 --> 00:36:54,340
+is how to read the different tones
 
 523
-00:39:06,980 --> 00:39:10,020
- each other and then occasionally there's a movie which is quite different
+00:36:54,340 --> 00:36:57,140
+from the different combinations of consonants and vowels.
 
 524
-00:39:10,020 --> 00:39:13,220
- like for instance the first card is the galaxy felt quite different or
+00:36:57,140 --> 00:36:58,760
+And so what it actually leads to
 
 525
-00:39:13,220 --> 00:39:17,300
- the ant man films feel quite different but then other films feel quite similar
+00:36:58,760 --> 00:37:00,040
+is me saying something
 
 526
-00:39:17,300 --> 00:39:20,740
- um and one of the really interesting things is that they did try that with
+00:37:00,040 --> 00:37:01,520
+and then doing a hand motion
 
 527
-00:39:20,740 --> 00:39:24,580
- star wars they released solo which was an attempt to
+00:37:01,520 --> 00:37:02,900
+to prove that I do know
 
 528
-00:39:24,580 --> 00:39:27,860
- do a heist movie that felt different from the saga
+00:37:02,900 --> 00:37:04,360
+what tone it's supposed to be in,
 
 529
-00:39:27,860 --> 00:39:33,060
- and it was relatively poorly received by the fandom and and financially
+00:37:04,360 --> 00:37:06,540
+even if it's not possible to hear over Zoom
 
 530
-00:39:33,060 --> 00:39:38,260
- and i think they have have almost decided to retreat from doing
+00:37:06,540 --> 00:37:08,060
+exactly what tone I'm using.
 
 531
-00:39:38,260 --> 00:39:42,420
- um a lot of movies into the realm of tv so they've announced
+00:37:08,440 --> 00:37:09,960
+So there's a lot of like hands going up
 
 532
-00:39:42,420 --> 00:39:46,580
- um they're doing the obi wan Kenobi tv series they're doing the mandelorian
+00:37:09,960 --> 00:37:10,820
+and hands going down
 
 533
-00:39:46,580 --> 00:39:50,260
- and they've brought the clone wars back um i'm sure they've announced something
+00:37:10,820 --> 00:37:13,640
+and hands representing rising and falling tones.
 
 534
-00:39:50,260 --> 00:39:53,540
- else that i'm forgetting um but a lot of what they're doing is star wars seems
+00:37:13,640 --> 00:37:14,500
+It's quite funny.
 
 535
-00:39:53,540 --> 00:39:56,820
- to be more on the television slash book slash comic side
+00:37:14,500 --> 00:37:15,300
+Excellent.
 
 536
-00:39:56,820 --> 00:40:01,460
- and they seem to be really hesitant to try and make a star wars
+00:37:15,300 --> 00:37:17,900
+And we can have a octothor
 
 537
-00:40:01,460 --> 00:40:04,820
- cinematic universe and i think it's really interesting
+00:37:17,900 --> 00:37:19,080
+where I speak in Spanish,
 
 538
-00:40:04,820 --> 00:40:08,740
- the way that marvel has been able to tell this multi-movie story
+00:37:19,080 --> 00:37:20,080
+Liz speaks in Thai
 
 539
-00:40:08,740 --> 00:40:11,540
- but when star wars tried something similar i think it was quite poorly
+00:37:20,080 --> 00:37:22,000
+and Alison is the only one anyone can understand.
 
 540
-00:40:11,540 --> 00:40:15,060
- received and i am wondering how that's going to impact
+00:37:22,000 --> 00:37:23,620
+And that will be fun.
 
 541
-00:40:15,060 --> 00:40:19,460
- Lucasfilm and marvel's decisions going forward from here because
+00:37:23,620 --> 00:37:24,400
+Absolutely.
 
 542
-00:40:19,460 --> 00:40:23,140
- for whatever reason i think they're in quite different situations with
+00:37:24,400 --> 00:37:25,780
+Because you do need my hand gestures
 
 543
-00:40:23,140 --> 00:40:27,380
- regards to their fan bases and i'm not entirely sure why
+00:37:25,780 --> 00:37:28,640
+to tell what tone I'm supposed to be attempting.
 
 544
-00:40:27,380 --> 00:40:32,900
- well i i think part of that is that basically the film landscape is just too
+00:37:28,640 --> 00:37:31,860
+I can embed pictures of you doing them
 
 545
-00:40:32,900 --> 00:40:35,860
- crowded for disney right now because they have
+00:37:31,860 --> 00:37:33,860
+in the podcast art.
 
 546
-00:40:35,860 --> 00:40:39,060
- marvel films they have star wars films they have
+00:37:33,860 --> 00:37:36,080
+So I don't know whether listeners have picked up on this,
 
 547
-00:40:39,060 --> 00:40:43,700
- Pixar they have disney animation they have their live action remakes of disney
+00:37:36,080 --> 00:37:38,740
+but I put pictures in the podcast.
 
 548
-00:40:43,700 --> 00:40:47,140
- animation and they're in a position where if they're not careful they will
+00:37:38,740 --> 00:37:41,140
+So if you're looking at your podcast player
 
 549
-00:40:47,140 --> 00:40:52,500
- start cannibalizing their own audience but in a way i think it's also just that
+00:37:41,140 --> 00:37:43,020
+when a certain part of the podcast plays,
 
 550
-00:40:52,500 --> 00:40:59,380
- solo was highly anticipated and not that great i think i would also cite
+00:37:43,020 --> 00:37:44,700
+the picture will change sometimes,
 
 551
-00:40:59,380 --> 00:41:03,860
- rogue one here which is also a chance to tell a different sort of story
+00:37:44,700 --> 00:37:47,500
+you know, if there's a relevant picture to the discussion.
 
 552
-00:41:03,860 --> 00:41:07,700
- in the star wars cinematic universe and i think which worked
+00:37:47,500 --> 00:37:51,520
+And I could do second long chapters
 
 553
-00:41:07,700 --> 00:41:12,100
- completely on its own terms and was great
+00:37:51,520 --> 00:37:55,340
+with Liz gesturing to indicate where her tone should be.
 
 554
-00:41:12,100 --> 00:41:16,020
- um so you know i think there is still there is more they can do here
+00:37:55,340 --> 00:37:58,540
+And that would be a delightfully hacky way
 
 555
-00:41:16,020 --> 00:41:19,300
- i think i think i will push back a little bit on solo being hotly
+00:37:58,540 --> 00:38:00,220
+of solving the problem, I think.
 
 556
-00:41:19,300 --> 00:41:23,540
- anticipated i i i quite you may surprise you to learn
+00:38:00,600 --> 00:38:03,300
+Thank you everyone for listening to the sixth episode
 
 557
-00:41:23,540 --> 00:41:26,580
- i followed quite a few people who have fans of star wars on the twitters
+00:38:03,300 --> 00:38:04,360
+of the Octothorpe podcast.
 
 558
-00:41:26,580 --> 00:41:30,740
- um but i didn't see a lot of excitement for solo
+00:38:04,360 --> 00:38:06,660
+We will see you in a four nights time.
 
 559
-00:41:30,740 --> 00:41:33,620
- and a lot of people i follow were very skeptical
+00:38:06,660 --> 00:38:09,440
+But for now, I have been John Coxon
 
 560
-00:41:33,620 --> 00:41:36,420
- that it was a story that needed to be told and i think
+00:38:09,440 --> 00:38:10,820
+and it's goodbye from me.
 
 561
-00:41:36,420 --> 00:41:39,540
- part of the problem with solo is that it was a prequel
+00:38:10,820 --> 00:38:12,600
+And I have been Alison Scott
 
 562
-00:41:39,540 --> 00:41:43,300
- and i think star wars fans are very skeptical of prequels
+00:38:12,600 --> 00:38:13,780
+and it's goodbye from me.
 
 563
-00:41:43,300 --> 00:41:48,260
- um i can't think why um but and i think one of the really interesting things
+00:38:13,780 --> 00:38:17,060
+And I have been and still am Liz Batty
 
 564
-00:41:48,260 --> 00:41:53,140
- as well was that because it came out five months after the last jedi
+00:38:17,060 --> 00:38:18,160
+and it's goodbye from me.
 
 565
-00:41:53,140 --> 00:41:56,660
- the last jedi had only been out of cinemas for about six weeks when solo
+00:38:18,160 --> 00:38:19,220
+Yay!
 
 566
-00:41:56,660 --> 00:41:59,860
- was in cinemas i just wonder whether they should have pushed it back to
+00:38:19,220 --> 00:38:19,540
+Yay!
 
 567
-00:41:59,860 --> 00:42:02,820
- there because because they had been trying to release all of these movies
+00:38:19,540 --> 00:38:23,800
+Yay, that's six episodes.
 
 568
-00:42:02,820 --> 00:42:05,380
- at summer and they had all been pushed back to christmas
+00:38:23,800 --> 00:38:24,680
+That's amazing.
 
 569
-00:42:05,380 --> 00:42:08,500
- and solo was the first one of the new disney era
+00:38:24,680 --> 00:38:27,160
+Are we eligible for Hugo yet?
 
 570
-00:42:08,500 --> 00:42:12,020
- where they managed to release it on time but i actually think releasing on time
+00:38:27,380 --> 00:38:30,360
+The theme music for this episode was Fanfare for Space
 
 571
-00:42:12,020 --> 00:42:14,980
- was a huge mistake because it meant you didn't have enough time to build up
+00:38:30,360 --> 00:38:33,100
+by Kevin MacLeod and Compotech.com
 
 572
-00:42:14,980 --> 00:42:18,740
- that anticipation in between the last jedi and solo
+00:38:33,100 --> 00:38:36,860
+used under a Creative Commons Attribution 3.0 license.
 
 573
-00:42:18,740 --> 00:42:21,780
- um it felt like the last jedi had only just come out really
+00:38:36,860 --> 00:38:55,440
+Okay.
 
 574
-00:42:21,780 --> 00:42:25,860
- um and so i think i think there were a large number of missteps made
+00:38:55,720 --> 00:38:57,660
+So I think one of the really interesting things
 
 575
-00:42:25,860 --> 00:42:31,220
- and i but and i agree that i think and i don't know whether i'm right
+00:38:57,660 --> 00:38:59,700
+about the MCU is that they're doing this kind of
 
 576
-00:42:31,220 --> 00:42:34,260
- i think the reaction to solo was much more because
+00:38:59,700 --> 00:39:02,240
+two or three movie a year product
 
 577
-00:42:34,260 --> 00:42:37,540
- of the lack of marketing and the lack of thought about when to release it
+00:39:02,240 --> 00:39:05,640
+where they're doing movies which are
 
 578
-00:42:37,540 --> 00:42:40,580
- than it was about the quality of the movie because i think
+00:39:05,640 --> 00:39:07,700
+in some ways very similar to each other.
 
 579
-00:42:40,580 --> 00:42:43,140
- quality is almost irrelevant when it comes to blockbusters
+00:39:07,700 --> 00:39:09,300
+And then occasionally there's a movie
 
 580
-00:42:43,140 --> 00:42:46,180
- and that's not just Star Wars it's like there's a very pessimistic view of all
+00:39:09,300 --> 00:39:10,180
+which is quite different.
 
 581
-00:42:46,180 --> 00:42:49,620
- movies yeah they had a very serious not Harrison Ford
+00:39:10,180 --> 00:39:10,820
+Like for instance,
 
 582
-00:42:49,620 --> 00:42:53,460
- problem too i watched the Star Wars movies when i was very young in like the
+00:39:10,820 --> 00:39:12,760
+the first Guardians of the Galaxy felt quite different
 
 583
-00:42:53,460 --> 00:42:57,220
- 90s and i am not as attached to Harrison Ford as my parents are
+00:39:12,760 --> 00:39:15,180
+or the Ant-Man films feel quite different.
 
 584
-00:42:57,220 --> 00:43:00,020
- who were very appalled that Harrison Ford was not in it
+00:39:15,180 --> 00:39:17,060
+But then other films feel quite similar.
 
 585
-00:43:00,020 --> 00:43:03,220
- um but i do wonder whether that's the other part it's like a film
+00:39:17,060 --> 00:39:19,060
+And one of the really interesting things
 
 586
-00:43:03,220 --> 00:43:07,700
- that's designed to appeal to original trilogy fans but it's a film that
+00:39:19,060 --> 00:39:21,460
+is that they did try that with Star Wars.
 
 587
-00:43:07,700 --> 00:43:12,580
- treads on the old trilogy's toes in some ways um Liz did you have any
+00:39:21,460 --> 00:39:22,360
+They released Solo,
 
 588
-00:43:12,580 --> 00:43:19,620
- i do have several things can i say the several things i was going to say
+00:39:22,800 --> 00:39:25,960
+which was an attempt to do a heist movie
 
 589
-00:43:19,620 --> 00:43:24,100
- yes say the several things so one thing i would push back on that is
+00:39:25,960 --> 00:39:27,660
+that felt different from the saga.
 
 590
-00:43:24,100 --> 00:43:27,620
- Marvel released Captain Marvel and Avengers Endgame
+00:39:27,660 --> 00:39:30,540
+And it was relatively poorly received
 
 591
-00:43:27,620 --> 00:43:31,860
- two months apart um so i don't think there's a reason you can't release
+00:39:30,540 --> 00:39:32,680
+by the fandom and financially.
 
 592
-00:43:31,860 --> 00:43:34,740
- these things in quick succession if you think the
+00:39:32,680 --> 00:39:36,080
+And I think they have almost decided
 
 593
-00:43:34,740 --> 00:43:37,540
- you know obviously there is an audience there for some of them i mean
+00:39:36,080 --> 00:39:39,800
+to retreat from doing a lot of movies
 
 594
-00:43:37,540 --> 00:43:41,700
- Avengers Endgame is kind of a special case but it didn't seem to hurt Captain
+00:39:39,800 --> 00:39:41,060
+into the realm of TV.
 
 595
-00:43:41,700 --> 00:43:44,580
- Marvel people were not staying away thinking oh i'll go and see the next one
+00:39:41,060 --> 00:39:42,160
+So they've announced
 
 596
-00:43:44,580 --> 00:43:50,420
- or i've just seen one um and my main issue with solo is i don't
+00:39:42,160 --> 00:39:45,120
+they're doing the Obi-Wan Kenobi TV series.
 
 597
-00:43:50,420 --> 00:43:53,860
- think old and error right does a particularly great job and i just found
+00:39:45,120 --> 00:39:46,220
+They're doing the Mandalorian.
 
 598
-00:43:53,860 --> 00:43:57,380
- it to be not that entertaining to be honest
+00:39:46,220 --> 00:39:48,540
+They've brought the Clone Wars back.
 
 599
-00:43:57,380 --> 00:44:01,300
- so just to push back on that solo has a higher tomato meter score than rise of
+00:39:48,880 --> 00:39:50,700
+I'm sure they've announced something else
 
 600
-00:44:01,300 --> 00:44:04,420
- Skywalker and a higher audience score than last Jedi
+00:39:50,700 --> 00:39:51,360
+that I'm forgetting.
 
 601
-00:44:04,420 --> 00:44:07,460
- so if we're going to say it's about the quality of the movies i would have thought
+00:39:51,360 --> 00:39:53,480
+But a lot of what they're doing in Star Wars
 
 602
-00:44:07,460 --> 00:44:10,820
- i either rise of Skywalker or last Jedi should have been much worse
+00:39:53,480 --> 00:39:54,860
+seems to be more on the television
 
 603
-00:44:10,820 --> 00:44:15,460
- in terms of box office and solo i am and i appreciate
+00:39:54,860 --> 00:39:56,660
+slash book slash comic side.
 
 604
-00:44:15,460 --> 00:44:18,260
- that the Marvel movies have been much closer together
+00:39:56,660 --> 00:39:58,800
+And they seem to be really hesitant
 
 605
-00:44:18,260 --> 00:44:23,540
- and i don't know why i think the Marvel movies don't have this problem
+00:39:58,800 --> 00:40:02,680
+to try and make a Star Wars cinematic universe.
 
 606
-00:44:23,540 --> 00:44:28,260
- but i definitely feel like there was a large reaction in the Star Wars fandom
+00:40:02,680 --> 00:40:04,240
+And I think it's really interesting
 
 607
-00:44:28,260 --> 00:44:33,220
- which was we don't need this movie and a large a large lack of anticipation
+00:40:04,240 --> 00:40:06,420
+the way that Marvel has been able
 
 608
-00:44:33,220 --> 00:44:36,260
- in a way that there isn't for Marvel and so i agree on the face of it
+00:40:06,420 --> 00:40:08,540
+to tell this multi-movie story.
 
 609
-00:44:36,260 --> 00:44:39,060
- i think it seems like you should be able to release solo five months after
+00:40:08,540 --> 00:40:10,700
+But when Star Wars tried something similar,
 
 610
-00:44:39,060 --> 00:44:42,820
- last Jedi it should be fine but i am i'm just deeply
+00:40:10,700 --> 00:40:12,120
+I think it was quite poorly received.
 
 611
-00:44:42,820 --> 00:44:45,380
- unconvinced that i think it was anything to do with the quality of the movie
+00:40:12,120 --> 00:40:14,960
+And I am wondering how that's going to impact
 
 612
-00:44:45,380 --> 00:44:48,980
- because like i say in some ways solo was better received than episode eight and
+00:40:14,960 --> 00:40:17,180
+Lucasfilm and Marvel's decisions
 
 613
-00:44:48,980 --> 00:44:52,580
- episode nine and it and it did far worse in the box office
+00:40:17,180 --> 00:40:18,920
+going forward from here.
 
 614
-00:44:52,580 --> 00:44:55,860
- like far worse i miss what you were saying about last Jedi were you saying
+00:40:18,920 --> 00:40:20,340
+Because for whatever reason,
 
 615
-00:44:55,860 --> 00:45:00,500
- about is what were you run rate rating lost Jedi by
+00:40:20,340 --> 00:40:22,920
+I think they're in quite different situations
 
 616
-00:45:00,500 --> 00:45:08,900
- so if you look at the last Jedi um like audience reviews last Jedi got 90
+00:40:22,920 --> 00:40:25,240
+with regards to their fan bases.
 
 617
-00:45:08,900 --> 00:45:13,060
- percent from critics and got like 40 percent from the audience
+00:40:25,240 --> 00:40:26,940
+And I'm not entirely sure why.
 
 618
-00:45:13,060 --> 00:45:17,460
- uh riser skywalker got about 40 percent from critics and about 90 percent
+00:40:26,940 --> 00:40:30,160
+Well, I think part of that is that
 
 619
-00:45:17,460 --> 00:45:20,340
- from the audience if i recall correctly or it might have been lower on the
+00:40:30,160 --> 00:40:32,340
+basically the film landscape
 
 620
-00:45:20,340 --> 00:45:23,860
- audience side and then solo got about 70 percent on both
+00:40:32,340 --> 00:40:34,620
+is just too crowded for Disney right now
 
 621
-00:45:23,860 --> 00:45:26,980
- and so if solo is worse and that's why it did worse
+00:40:34,620 --> 00:40:36,740
+because they have Marvel films.
 
 622
-00:45:26,980 --> 00:45:30,100
- then either last Jedi or riser skywalker should have done even worse
+00:40:36,740 --> 00:40:38,300
+They have Star Wars films.
 
 623
-00:45:30,100 --> 00:45:33,540
- and the fact they didn't i think is difficult to explain
+00:40:38,300 --> 00:40:39,620
+They have Pixar.
 
 624
-00:45:33,540 --> 00:45:36,980
- i think there is a quality based explanation which is that marvel at this
+00:40:39,620 --> 00:40:41,420
+They have Disney animation.
 
 625
-00:45:36,980 --> 00:45:40,900
- point is an extremely solid reliable brand and they very rarely
+00:40:41,420 --> 00:40:43,500
+They have their live action remakes
 
 626
-00:45:40,900 --> 00:45:45,060
- drop films people feel at duds so people are now
+00:40:43,500 --> 00:40:44,280
+of Disney animation.
 
 627
-00:45:45,060 --> 00:45:48,580
- reassured that if they go and see a marvel film it will probably meet
+00:40:44,280 --> 00:40:45,900
+And they're in a position
 
 628
-00:45:48,580 --> 00:45:53,060
- at least a particular uh high watermark and probably go higher
+00:40:45,900 --> 00:40:46,940
+where if they're not careful,
 
 629
-00:45:53,060 --> 00:45:56,660
- i don't think people are convinced of that for star wars films yet
+00:40:46,940 --> 00:40:48,340
+they will start cannibalizing
 
 630
-00:45:56,660 --> 00:45:59,780
- and i think there's also the obvious problem with looking at the last Jedi's
+00:40:48,340 --> 00:40:49,940
+their own audience.
 
 631
-00:45:59,780 --> 00:46:03,300
- audience rankings in that we know the last Jedi
+00:40:49,940 --> 00:40:51,100
+But in a way,
 
 632
-00:46:03,300 --> 00:46:06,900
- is really not liked in a particular subset of fandom who are probably more
+00:40:51,100 --> 00:40:52,640
+I think it's also just that
 
 633
-00:46:06,900 --> 00:46:09,220
- likely to have gone and written reviews of it
+00:40:52,640 --> 00:40:54,560
+Solo was highly anticipated
 
 634
-00:46:09,220 --> 00:46:13,300
- we may be going too far into star wars versus marvel
+00:40:54,560 --> 00:40:56,100
+and not that great.
 
 635
-00:46:13,300 --> 00:46:17,860
- and we do have one tiny more thing to say about marvel
+00:40:56,100 --> 00:41:00,460
+I think I would also cite Rogue One here,
 
 636
-00:46:17,860 --> 00:46:22,260
- yeah which is that one of the reasons i think that
+00:41:00,460 --> 00:41:02,480
+which is also a chance to tell
 
 637
-00:46:22,260 --> 00:46:25,700
- marvel the whole marvel cinematic universe with all its
+00:41:02,480 --> 00:41:03,620
+a different sort of story
 
 638
-00:46:25,700 --> 00:46:33,140
- entrails and tendrils is accepted and even loved for that
+00:41:03,620 --> 00:41:05,880
+in the Star Wars cinematic universe.
 
 639
-00:46:33,140 --> 00:46:36,580
- by its audience is that it's actually coming from
+00:41:05,880 --> 00:41:07,420
+And I think which worked
 
 640
-00:46:36,580 --> 00:46:39,780
- a source which is its comics which because
+00:41:07,420 --> 00:41:09,860
+completely on its own terms
 
 641
-00:46:39,780 --> 00:46:45,220
- Than Lee invented the system of getting people to buy more product
+00:41:09,860 --> 00:41:11,620
+and was great.
 
 642
-00:46:45,220 --> 00:46:49,860
- in comics by having all of these crossovers this is what this is it's
+00:41:12,660 --> 00:41:13,460
+So, you know,
 
 643
-00:46:49,860 --> 00:46:53,940
- always been doing this it is the thing that is unique about marvel
+00:41:13,460 --> 00:41:14,340
+I think there is still,
 
 644
-00:46:53,940 --> 00:46:57,940
- and so to some extent they have just encapsulated
+00:41:14,340 --> 00:41:15,560
+there is more they can do here.
 
 645
-00:46:57,940 --> 00:47:01,460
- the marvel unique selling point which is they don't just sell you stuff they sell
+00:41:15,560 --> 00:41:16,640
+I think,
 
 646
-00:47:01,460 --> 00:47:04,580
- you a very large amount of stuff and you like it
+00:41:16,640 --> 00:41:18,620
+I think I will push back a little bit
 
 647
-00:47:04,580 --> 00:47:07,700
- that's actually that's actually a really good point i think um
+00:41:18,620 --> 00:41:20,100
+on Solo being hotly anticipated.
 
 648
-00:47:07,700 --> 00:47:11,780
- i think the fact that marvel has source material that is tried and tested may
+00:41:20,100 --> 00:41:22,120
+I, I, I, I'm quite,
 
 649
-00:47:11,780 --> 00:47:16,980
- also massively help um and it's very but i think i didn't
+00:41:22,120 --> 00:41:23,580
+it may surprise you to learn
 
 650
-00:47:16,980 --> 00:47:20,020
- sorry i didn't intend to derail this into the discussion it's become
+00:41:23,580 --> 00:41:24,800
+I follow quite a few people
 
 651
-00:47:20,020 --> 00:47:26,100
- but i just i'm not i'm not sure i'm right but i'm not sure
+00:41:24,800 --> 00:41:25,600
+who are fans of Star Wars
 
 652
-00:47:26,100 --> 00:47:30,580
- it's obvious why star wars can't sustain the same level of movie releases as
+00:41:25,600 --> 00:41:26,280
+on the Twitters.
 
 653
-00:47:30,580 --> 00:47:33,940
- marvel and it could just be that solo was empirically bad
+00:41:27,280 --> 00:41:30,160
+But I didn't see a lot of excitement
 
 654
-00:47:33,940 --> 00:47:37,540
- but i am skeptical that's the whole story but i don't know
+00:41:30,160 --> 00:41:30,740
+for Solo.
 
 655
-00:47:37,540 --> 00:47:42,580
- um and so that was all i was trying to um and so that was welcome to octa thought
+00:41:30,740 --> 00:41:32,340
+And a lot of people I follow
 
 656
-00:47:42,580 --> 00:47:47,300
- where this week in the absence of new news from science fiction and fandom
+00:41:32,340 --> 00:41:33,320
+were very skeptical
 
 657
-00:47:47,300 --> 00:47:52,900
- we are having a two-hour animated discussion of star wars versus marvel
+00:41:33,320 --> 00:41:34,620
+that it was a story
 
 658
-00:47:52,900 --> 00:47:59,220
- it's definitely on topic guys i think you're correct i don't think it
+00:41:34,620 --> 00:41:35,660
+that needed to be told.
 
 659
-00:47:59,220 --> 00:48:02,260
- that solo is it's not a bad film i just didn't
+00:41:35,660 --> 00:41:37,820
+And I think part of the problem
 
 660
-00:48:02,260 --> 00:48:05,780
- enjoy it that much but i think had solo it turned out to be
+00:41:37,820 --> 00:41:39,380
+with Solo is that it was a prequel.
 
 661
-00:48:05,780 --> 00:48:09,780
- a really really good film like a guardians of the galaxy
+00:41:39,380 --> 00:41:41,020
+And I think Star Wars fans
 
 662
-00:48:09,780 --> 00:48:13,460
- level of quality or something like that then people might have gone ah they can
+00:41:41,020 --> 00:41:43,200
+are very skeptical of prequels.
 
 663
-00:48:13,460 --> 00:48:17,380
- make good films that are entertaining in between the
+00:41:43,200 --> 00:41:45,000
+I can't think why.
 
 664
-00:48:17,380 --> 00:48:21,860
- the big trilogy films oh i was not expecting a close reading of
+00:41:45,000 --> 00:41:47,860
+But, and I think one of the really
 
 665
-00:48:21,860 --> 00:48:26,820
- the marvel of marvel v stores that was not where i thought this was going
+00:41:47,860 --> 00:41:49,020
+interesting things as well
 
 666
-00:48:26,820 --> 00:48:32,900
- not sure it was that closer reading ha ha oh fighting talk let's fight and
+00:41:49,020 --> 00:41:50,660
+was that because it came out
 
 667
-00:48:32,900 --> 00:48:37,140
- talk
+00:41:50,660 --> 00:41:52,600
+five months after The Last Jedi,
 
 668
-00:48:37,140 --> 00:48:43,220
- jonnie you know to definitely like screen sharing with us deliberately
+00:41:52,600 --> 00:41:54,580
+The Last Jedi had only been out
 
 669
-00:48:43,220 --> 00:48:49,380
- yes look at this graph oh i see okay this is the lockdown spike in
+00:41:54,580 --> 00:41:56,300
+of cinemas for about six weeks
 
 670
-00:48:49,380 --> 00:48:53,300
- dex published per month on tv.com which i thought was interesting
+00:41:56,300 --> 00:41:57,620
+when Solo was in cinemas.
 
 671
-00:48:53,300 --> 00:49:01,220
- because it just rockets what's the graph oh yes i've been you know how people say
+00:41:57,620 --> 00:41:58,960
+I just wonder whether
 
 672
-00:49:01,220 --> 00:49:04,260
- you should not extrapolate from your personal experience
+00:41:58,960 --> 00:41:59,880
+they should have pushed it back
 
 673
-00:49:04,260 --> 00:49:09,780
- to to the world in general i've been extrapolating from the things my
+00:41:59,880 --> 00:42:00,860
+to the, because,
 
 674
-00:49:09,780 --> 00:49:13,940
- um facebook friends talk about i have a fairly diverse large
+00:42:00,860 --> 00:42:01,740
+because they had been trying
 
 675
-00:49:13,940 --> 00:49:18,260
- i mean they're all middle class obviously but i have a fairly diverse large
+00:42:01,740 --> 00:42:02,940
+to release all of these movies
 
 676
-00:49:18,260 --> 00:49:22,420
- group of facebook friends and i've been extrapolating like mad from my facebook
+00:42:02,940 --> 00:42:04,280
+at summer and they had all
 
 677
-00:49:22,420 --> 00:49:25,380
- friends what they've been doing and it seems to work out and i have now noticed
+00:42:04,280 --> 00:42:05,220
+been pushed back to Christmas.
 
 678
-00:49:25,380 --> 00:49:28,740
- that it also works on gaming i think people are gaming about three times as
+00:42:05,220 --> 00:42:06,960
+And Solo was the first one
 
 679
-00:49:28,740 --> 00:49:32,580
- much as they did before lockdown i guess but
+00:42:06,960 --> 00:42:08,360
+of the new Disney era
 
 680
-00:49:32,580 --> 00:49:36,500
- the thing you have to bear in mind alison is that i am responsible for
+00:42:08,360 --> 00:42:09,840
+where they managed to release it
 
 681
-00:49:36,500 --> 00:49:40,180
- how many alcom horodex have you made jonner how many of those that spike is
+00:42:09,840 --> 00:42:10,520
+on time.
 
 682
-00:49:40,180 --> 00:49:45,540
- just you coming up with alcom horodex uh actually no so okay so that is
+00:42:10,520 --> 00:42:11,820
+But I actually think releasing
 
 683
-00:49:45,540 --> 00:49:50,180
- actually a very good question i will count it is not a trivial question
+00:42:11,820 --> 00:42:13,120
+it on time was a huge mistake
 
 684
-00:49:50,180 --> 00:49:56,900
- shall we finish the podcast and then and then get onto the more fun like
+00:42:13,120 --> 00:42:14,000
+because it meant you didn't
 
 685
-00:49:56,900 --> 00:50:03,220
- post podcast fit yeah 13 oh that's just you is it
+00:42:14,000 --> 00:42:15,200
+have enough time to build up
 
 686
-00:50:03,220 --> 00:50:09,380
- oh sorry sorry i had not gathered jon is responsible for the global
+00:42:15,200 --> 00:42:16,020
+that anticipation
 
 687
-00:50:09,380 --> 00:50:12,260
- spike in ocarom horodex probably
+00:42:16,020 --> 00:42:17,680
+in between The Last Jedi
 
 688
-00:50:12,260 --> 00:50:19,940
- the after show how many so yes so three times as much gaming i reckon and that's
+00:42:17,680 --> 00:42:18,360
+and Solo.
 
 689
-00:50:19,940 --> 00:50:25,540
- based on how many of my half stone friends are online at any given time
+00:42:18,360 --> 00:42:20,300
+It felt like The Last Jedi
 
 690
-00:50:25,620 --> 00:50:30,660
- [Music]
+00:42:20,300 --> 00:42:21,580
+had only just come out really.
+
+691
+00:42:21,580 --> 00:42:22,940
+And so I think,
+
+692
+00:42:22,940 --> 00:42:24,500
+I think there were a large number
+
+693
+00:42:24,500 --> 00:42:25,760
+of missteps made.
+
+694
+00:42:25,760 --> 00:42:27,400
+And I, but, and I agree
+
+695
+00:42:27,400 --> 00:42:28,380
+that I think,
+
+696
+00:42:28,380 --> 00:42:30,320
+and I don't know
+
+697
+00:42:30,320 --> 00:42:30,940
+whether I'm right.
+
+698
+00:42:30,940 --> 00:42:32,960
+I think the reaction to Solo
+
+699
+00:42:32,960 --> 00:42:34,040
+was much more because
+
+700
+00:42:34,040 --> 00:42:35,720
+of the lack of marketing
+
+701
+00:42:35,720 --> 00:42:36,540
+and the lack of thought
+
+702
+00:42:36,540 --> 00:42:37,620
+about when to release it
+
+703
+00:42:37,620 --> 00:42:38,740
+than it was about the quality
+
+704
+00:42:38,740 --> 00:42:39,300
+of the movie.
+
+705
+00:42:39,300 --> 00:42:41,120
+Because I think quality
+
+706
+00:42:41,120 --> 00:42:41,880
+is almost irrelevant
+
+707
+00:42:41,880 --> 00:42:43,040
+when it comes to blockbusters.
+
+708
+00:42:43,040 --> 00:42:44,420
+And that's not just Star Wars.
+
+709
+00:42:44,420 --> 00:42:45,240
+It's like, there's a very
+
+710
+00:42:45,240 --> 00:42:46,780
+pessimistic view of all movies.
+
+711
+00:42:46,780 --> 00:42:48,740
+Yeah, they had a very serious
+
+712
+00:42:48,740 --> 00:42:50,400
+not Harrison Ford problem too.
+
+713
+00:42:50,400 --> 00:42:52,440
+I watched the Star Wars movies
+
+714
+00:42:52,440 --> 00:42:53,200
+when I was very young
+
+715
+00:42:53,200 --> 00:42:54,180
+in like the 90s
+
+716
+00:42:54,180 --> 00:42:55,160
+and I am not as attached
+
+717
+00:42:55,160 --> 00:42:55,800
+to Harrison Ford
+
+718
+00:42:55,800 --> 00:42:57,220
+as my parents are
+
+719
+00:42:57,220 --> 00:42:58,580
+who were very appalled
+
+720
+00:42:58,580 --> 00:42:59,280
+that Harrison Ford
+
+721
+00:42:59,280 --> 00:42:59,900
+was not in it.
+
+722
+00:42:59,900 --> 00:43:01,300
+But I do wonder
+
+723
+00:43:01,300 --> 00:43:02,460
+whether that's the other part.
+
+724
+00:43:02,460 --> 00:43:03,200
+It's like a film
+
+725
+00:43:03,200 --> 00:43:04,540
+that's designed to appeal
+
+726
+00:43:04,540 --> 00:43:06,620
+to original trilogy fans,
+
+727
+00:43:06,620 --> 00:43:07,560
+but it's a film that
+
+728
+00:43:07,560 --> 00:43:09,540
+treads on the old trilogy's
+
+729
+00:43:09,540 --> 00:43:10,600
+toes in some ways.
+
+730
+00:43:10,600 --> 00:43:12,340
+Liz, did you have any?
+
+731
+00:43:12,340 --> 00:43:14,460
+I did have several things.
+
+732
+00:43:14,460 --> 00:43:17,200
+Can I say the several things
+
+733
+00:43:17,200 --> 00:43:18,660
+I was going to say?
+
+734
+00:43:19,760 --> 00:43:21,600
+Yes, say the several things.
+
+735
+00:43:21,600 --> 00:43:23,420
+So one thing I would push back
+
+736
+00:43:23,420 --> 00:43:25,220
+on that is Marvel released
+
+737
+00:43:25,220 --> 00:43:26,860
+Captain Marvel and Avengers
+
+738
+00:43:26,860 --> 00:43:28,700
+Endgame two months apart.
+
+739
+00:43:28,700 --> 00:43:31,140
+So I don't think there's a reason
+
+740
+00:43:31,140 --> 00:43:32,520
+you can't release these things
+
+741
+00:43:32,520 --> 00:43:33,560
+in quick succession
+
+742
+00:43:33,560 --> 00:43:35,260
+if you think the audience,
+
+743
+00:43:35,260 --> 00:43:36,260
+you know, obviously there is
+
+744
+00:43:36,260 --> 00:43:36,860
+an audience there
+
+745
+00:43:36,860 --> 00:43:37,520
+for some of them.
+
+746
+00:43:37,520 --> 00:43:38,380
+I mean, Avengers Endgame
+
+747
+00:43:38,380 --> 00:43:39,960
+is kind of a special case,
+
+748
+00:43:39,960 --> 00:43:41,540
+but it didn't seem to hurt
+
+749
+00:43:41,540 --> 00:43:42,140
+Captain Marvel.
+
+750
+00:43:42,140 --> 00:43:43,200
+People were not staying away
+
+751
+00:43:43,200 --> 00:43:44,020
+thinking, oh, I'll go
+
+752
+00:43:44,020 --> 00:43:44,760
+and see the next one
+
+753
+00:43:44,760 --> 00:43:45,940
+or I've just seen one.
+
+754
+00:43:45,940 --> 00:43:49,820
+And my main issue with Solo
+
+755
+00:43:49,820 --> 00:43:51,100
+is I don't think
+
+756
+00:43:51,100 --> 00:43:52,260
+Alden Ehrenreich does
+
+757
+00:43:52,260 --> 00:43:53,460
+a particularly great job
+
+758
+00:43:53,460 --> 00:43:54,460
+and I just found it to be
+
+759
+00:43:54,460 --> 00:43:56,220
+not that entertaining,
+
+760
+00:43:56,220 --> 00:43:57,000
+to be honest.
+
+761
+00:43:57,000 --> 00:43:59,060
+So just to push back on that,
+
+762
+00:43:59,060 --> 00:43:59,980
+Solo has a higher
+
+763
+00:43:59,980 --> 00:44:01,060
+Tomatometer score
+
+764
+00:44:01,060 --> 00:44:01,900
+than Rise of Skywalker
+
+765
+00:44:01,900 --> 00:44:03,360
+and a higher audience score
+
+766
+00:44:03,360 --> 00:44:03,960
+than Last Jedi.
+
+767
+00:44:03,960 --> 00:44:05,400
+So if we're going to say
+
+768
+00:44:05,400 --> 00:44:06,060
+it's about the quality
+
+769
+00:44:06,060 --> 00:44:06,680
+of the movies,
+
+770
+00:44:06,680 --> 00:44:07,600
+I would have thought
+
+771
+00:44:07,600 --> 00:44:08,560
+either Rise of Skywalker
+
+772
+00:44:08,560 --> 00:44:09,520
+or Last Jedi
+
+773
+00:44:09,520 --> 00:44:10,640
+should have been much worse
+
+774
+00:44:10,640 --> 00:44:11,820
+in terms of box office
+
+775
+00:44:11,820 --> 00:44:12,220
+than Solo.
+
+776
+00:44:12,940 --> 00:44:15,020
+and I appreciate
+
+777
+00:44:15,020 --> 00:44:16,820
+that the Marvel movies
+
+778
+00:44:16,820 --> 00:44:17,860
+have been much closer together
+
+779
+00:44:17,860 --> 00:44:19,820
+and I don't know why
+
+780
+00:44:19,820 --> 00:44:21,840
+I think the Marvel movies
+
+781
+00:44:21,840 --> 00:44:22,940
+don't have this problem,
+
+782
+00:44:22,940 --> 00:44:25,660
+but I definitely feel like
+
+783
+00:44:25,660 --> 00:44:27,640
+there was a large reaction
+
+784
+00:44:27,640 --> 00:44:28,360
+in the Star Wars fandom
+
+785
+00:44:28,360 --> 00:44:28,940
+which was
+
+786
+00:44:28,940 --> 00:44:30,480
+we don't need this movie
+
+787
+00:44:30,480 --> 00:44:32,060
+and a large lack
+
+788
+00:44:32,060 --> 00:44:32,840
+of anticipation
+
+789
+00:44:32,840 --> 00:44:34,200
+in a way that there isn't
+
+790
+00:44:34,200 --> 00:44:34,560
+for Marvel.
+
+791
+00:44:34,560 --> 00:44:35,320
+And so I agree
+
+792
+00:44:35,320 --> 00:44:36,280
+on the face of it,
+
+793
+00:44:36,280 --> 00:44:37,280
+I think it seems like
+
+794
+00:44:37,280 --> 00:44:37,820
+you should be able
+
+795
+00:44:37,820 --> 00:44:38,320
+to release Solo
+
+796
+00:44:38,320 --> 00:44:39,300
+five months after
+
+797
+00:44:39,300 --> 00:44:39,640
+Last Jedi.
+
+798
+00:44:39,640 --> 00:44:40,360
+It should be fine.
+
+799
+00:44:40,940 --> 00:44:42,360
+But I am just
+
+800
+00:44:42,360 --> 00:44:43,560
+deeply unconvinced
+
+801
+00:44:43,560 --> 00:44:44,240
+that I think it was
+
+802
+00:44:44,240 --> 00:44:44,740
+anything to do
+
+803
+00:44:44,740 --> 00:44:45,400
+with the quality of the movie.
+
+804
+00:44:45,400 --> 00:44:46,460
+Because like I say,
+
+805
+00:44:46,460 --> 00:44:47,620
+in some ways Solo
+
+806
+00:44:47,620 --> 00:44:48,480
+was better received
+
+807
+00:44:48,480 --> 00:44:49,060
+than Episode 8
+
+808
+00:44:49,060 --> 00:44:49,660
+and Episode 9
+
+809
+00:44:49,660 --> 00:44:51,840
+and it did far worse
+
+810
+00:44:51,840 --> 00:44:52,480
+than the box office.
+
+811
+00:44:52,480 --> 00:44:53,620
+Like far worse.
+
+812
+00:44:53,620 --> 00:44:54,920
+I miss what you were saying
+
+813
+00:44:54,920 --> 00:44:55,620
+about Last Jedi.
+
+814
+00:44:55,620 --> 00:44:56,240
+Were you saying about
+
+815
+00:44:56,240 --> 00:44:57,200
+what were you
+
+816
+00:44:57,200 --> 00:45:00,140
+rating Last Jedi by?
+
+817
+00:45:00,580 --> 00:45:01,440
+So if you look at
+
+818
+00:45:01,440 --> 00:45:02,000
+the Last Jedi
+
+819
+00:45:02,000 --> 00:45:07,860
+audience reviews,
+
+820
+00:45:07,860 --> 00:45:09,340
+Last Jedi got 90%
+
+821
+00:45:09,340 --> 00:45:10,180
+from critics
+
+822
+00:45:10,180 --> 00:45:11,840
+and got like 40%
+
+823
+00:45:11,840 --> 00:45:12,760
+from the audience.
+
+824
+00:45:12,760 --> 00:45:14,400
+Rise of Skywalker
+
+825
+00:45:14,400 --> 00:45:15,740
+got about 40%
+
+826
+00:45:15,740 --> 00:45:16,260
+from critics
+
+827
+00:45:16,260 --> 00:45:17,300
+and about 90%
+
+828
+00:45:17,300 --> 00:45:18,280
+from the audience
+
+829
+00:45:18,280 --> 00:45:19,020
+if I recall correctly
+
+830
+00:45:19,020 --> 00:45:19,640
+or it might have been
+
+831
+00:45:19,640 --> 00:45:21,200
+lower on the audience side.
+
+832
+00:45:21,200 --> 00:45:22,180
+And then Solo
+
+833
+00:45:22,180 --> 00:45:23,200
+got about 70%
+
+834
+00:45:23,200 --> 00:45:23,740
+on both.
+
+835
+00:45:23,740 --> 00:45:24,820
+And so if Solo
+
+836
+00:45:24,820 --> 00:45:25,540
+is worse
+
+837
+00:45:25,540 --> 00:45:26,100
+and that's why
+
+838
+00:45:26,100 --> 00:45:26,900
+it did worse,
+
+839
+00:45:26,900 --> 00:45:28,260
+then either Last Jedi
+
+840
+00:45:28,260 --> 00:45:29,040
+or Rise of Skywalker
+
+841
+00:45:29,040 --> 00:45:29,500
+should have done
+
+842
+00:45:29,500 --> 00:45:30,160
+even worse.
+
+843
+00:45:30,160 --> 00:45:31,680
+And the fact they didn't
+
+844
+00:45:31,680 --> 00:45:32,400
+I think is difficult
+
+845
+00:45:32,400 --> 00:45:33,020
+to explain.
+
+846
+00:45:33,020 --> 00:45:34,340
+I think there is
+
+847
+00:45:34,340 --> 00:45:35,300
+a quality-based explanation
+
+848
+00:45:35,300 --> 00:45:36,580
+which is that Marvel
+
+849
+00:45:36,580 --> 00:45:37,440
+at this point
+
+850
+00:45:37,440 --> 00:45:38,620
+is an extremely solid,
+
+851
+00:45:38,620 --> 00:45:39,600
+reliable brand
+
+852
+00:45:39,600 --> 00:45:40,840
+and they very rarely
+
+853
+00:45:40,840 --> 00:45:42,240
+drop films
+
+854
+00:45:42,240 --> 00:45:43,420
+people feel are duds.
+
+855
+00:45:43,420 --> 00:45:44,740
+So people are now
+
+856
+00:45:44,740 --> 00:45:46,220
+reassured that if they
+
+857
+00:45:46,220 --> 00:45:47,500
+go and see a Marvel film
+
+858
+00:45:47,500 --> 00:45:48,580
+it will probably meet
+
+859
+00:45:48,580 --> 00:45:50,120
+at least a particular
+
+860
+00:45:50,120 --> 00:45:51,860
+high-water mark
+
+861
+00:45:51,860 --> 00:45:52,980
+and probably go higher.
+
+862
+00:45:52,980 --> 00:45:54,060
+I don't think people
+
+863
+00:45:54,060 --> 00:45:54,840
+are convinced of that
+
+864
+00:45:54,840 --> 00:45:56,260
+for Star Wars films yet.
+
+865
+00:45:56,260 --> 00:45:57,560
+And I think there's also
+
+866
+00:45:57,560 --> 00:45:58,240
+the obvious problem
+
+867
+00:45:58,240 --> 00:45:59,020
+with looking at
+
+868
+00:45:59,020 --> 00:45:59,880
+The Last Jedi's
+
+869
+00:45:59,880 --> 00:46:01,340
+audience rankings
+
+870
+00:46:01,340 --> 00:46:02,380
+and that we know
+
+871
+00:46:02,380 --> 00:46:03,020
+The Last Jedi
+
+872
+00:46:03,020 --> 00:46:04,560
+is really not liked
+
+873
+00:46:04,560 --> 00:46:05,340
+in a particular
+
+874
+00:46:05,340 --> 00:46:06,380
+subset of fandom
+
+875
+00:46:06,380 --> 00:46:06,860
+who are probably
+
+876
+00:46:06,860 --> 00:46:07,740
+more likely to have
+
+877
+00:46:07,740 --> 00:46:08,180
+gone and written
+
+878
+00:46:08,180 --> 00:46:08,840
+reviews of it.
+
+879
+00:46:08,840 --> 00:46:10,620
+We may be going
+
+880
+00:46:10,620 --> 00:46:11,440
+too far into
+
+881
+00:46:11,440 --> 00:46:12,440
+Star Wars versus
+
+882
+00:46:12,440 --> 00:46:12,860
+Marvel.
+
+883
+00:46:12,860 --> 00:46:15,080
+I have one tiny
+
+884
+00:46:15,080 --> 00:46:16,420
+more thing to say
+
+885
+00:46:16,420 --> 00:46:17,540
+about Marvel
+
+886
+00:46:17,540 --> 00:46:19,220
+which is that
+
+887
+00:46:19,220 --> 00:46:20,760
+one of the reasons
+
+888
+00:46:20,760 --> 00:46:22,140
+I think that
+
+889
+00:46:22,140 --> 00:46:22,920
+Marvel,
+
+890
+00:46:22,920 --> 00:46:23,720
+the whole Marvel
+
+891
+00:46:23,720 --> 00:46:24,900
+cinematic universe
+
+892
+00:46:24,900 --> 00:46:25,580
+with all its
+
+893
+00:46:25,580 --> 00:46:27,280
+entrails and tendrils
+
+894
+00:46:27,280 --> 00:46:29,760
+is accepted
+
+895
+00:46:29,760 --> 00:46:31,140
+and even loved
+
+896
+00:46:31,140 --> 00:46:32,680
+for that
+
+897
+00:46:32,680 --> 00:46:34,260
+by its audience
+
+898
+00:46:34,260 --> 00:46:34,920
+is that it's
+
+899
+00:46:34,920 --> 00:46:35,680
+actually coming
+
+900
+00:46:35,680 --> 00:46:37,360
+from a source
+
+901
+00:46:37,360 --> 00:46:37,920
+which is its
+
+902
+00:46:37,920 --> 00:46:38,780
+comics which
+
+903
+00:46:38,780 --> 00:46:40,420
+because Stan Lee
+
+904
+00:46:40,420 --> 00:46:40,940
+invented
+
+905
+00:46:40,940 --> 00:46:42,660
+the system
+
+906
+00:46:42,660 --> 00:46:43,420
+of getting people
+
+907
+00:46:43,420 --> 00:46:44,100
+to buy more
+
+908
+00:46:44,100 --> 00:46:44,680
+product
+
+909
+00:46:44,680 --> 00:46:46,120
+in comics
+
+910
+00:46:46,120 --> 00:46:47,400
+by having
+
+911
+00:46:47,400 --> 00:46:48,040
+all of these
+
+912
+00:46:48,040 --> 00:46:48,600
+crossovers
+
+913
+00:46:48,600 --> 00:46:49,320
+this is what
+
+914
+00:46:49,320 --> 00:46:49,820
+this is
+
+915
+00:46:49,820 --> 00:46:50,460
+it's always
+
+916
+00:46:50,460 --> 00:46:51,020
+been doing
+
+917
+00:46:51,020 --> 00:46:51,420
+this.
+
+918
+00:46:51,900 --> 00:46:52,260
+it's the
+
+919
+00:46:52,260 --> 00:46:52,620
+thing that
+
+920
+00:46:52,620 --> 00:46:53,060
+is unique
+
+921
+00:46:53,060 --> 00:46:53,800
+about Marvel
+
+922
+00:46:53,800 --> 00:46:54,600
+and so
+
+923
+00:46:54,600 --> 00:46:56,020
+to some extent
+
+924
+00:46:56,020 --> 00:46:56,600
+they have just
+
+925
+00:46:56,600 --> 00:46:58,320
+encapsulated the
+
+926
+00:46:58,320 --> 00:46:59,180
+Marvel unique
+
+927
+00:46:59,180 --> 00:46:59,880
+selling point
+
+928
+00:46:59,880 --> 00:47:00,420
+which is they
+
+929
+00:47:00,420 --> 00:47:01,040
+don't just sell
+
+930
+00:47:01,040 --> 00:47:01,380
+you stuff
+
+931
+00:47:01,380 --> 00:47:01,840
+they sell you
+
+932
+00:47:01,840 --> 00:47:02,580
+a very large
+
+933
+00:47:02,580 --> 00:47:03,040
+amount of
+
+934
+00:47:03,040 --> 00:47:03,520
+stuff and
+
+935
+00:47:03,520 --> 00:47:04,280
+you like it.
+
+936
+00:47:04,280 --> 00:47:05,300
+That's actually
+
+937
+00:47:05,300 --> 00:47:06,260
+a really good
+
+938
+00:47:06,260 --> 00:47:06,500
+point.
+
+939
+00:47:06,500 --> 00:47:06,980
+I think
+
+940
+00:47:06,980 --> 00:47:09,720
+the fact that
+
+941
+00:47:09,720 --> 00:47:10,200
+Marvel has
+
+942
+00:47:10,200 --> 00:47:10,720
+source material
+
+943
+00:47:10,720 --> 00:47:11,240
+that is tried
+
+944
+00:47:11,240 --> 00:47:11,680
+and tested
+
+945
+00:47:11,680 --> 00:47:12,260
+may also
+
+946
+00:47:12,260 --> 00:47:13,060
+massively help
+
+947
+00:47:13,060 --> 00:47:14,580
+and I
+
+948
+00:47:14,580 --> 00:47:15,360
+it's very
+
+949
+00:47:15,360 --> 00:47:16,240
+but I think
+
+950
+00:47:16,240 --> 00:47:17,180
+I didn't
+
+951
+00:47:17,180 --> 00:47:17,760
+sorry I didn't
+
+952
+00:47:17,760 --> 00:47:18,300
+intend to
+
+953
+00:47:18,300 --> 00:47:18,900
+derail this
+
+954
+00:47:18,900 --> 00:47:19,200
+into the
+
+955
+00:47:19,200 --> 00:47:19,480
+discussion
+
+956
+00:47:19,480 --> 00:47:19,980
+it's become
+
+957
+00:47:19,980 --> 00:47:20,640
+but I just
+
+958
+00:47:20,640 --> 00:47:21,380
+I'm not
+
+959
+00:47:21,380 --> 00:47:22,400
+I'm not
+
+960
+00:47:22,400 --> 00:47:23,960
+sure I'm
+
+961
+00:47:23,960 --> 00:47:24,840
+right but
+
+962
+00:47:24,840 --> 00:47:25,240
+I'm not
+
+963
+00:47:25,240 --> 00:47:26,660
+sure it's
+
+964
+00:47:26,660 --> 00:47:27,600
+obvious why
+
+965
+00:47:27,600 --> 00:47:28,240
+Star Wars
+
+966
+00:47:28,240 --> 00:47:29,000
+can't sustain
+
+967
+00:47:29,000 --> 00:47:29,740
+the same level
+
+968
+00:47:29,740 --> 00:47:30,180
+of movie
+
+969
+00:47:30,180 --> 00:47:30,780
+releases as
+
+970
+00:47:30,780 --> 00:47:31,500
+Marvel and
+
+971
+00:47:31,500 --> 00:47:32,060
+it could just
+
+972
+00:47:32,060 --> 00:47:32,620
+be that Solo
+
+973
+00:47:32,620 --> 00:47:33,520
+was empirically
+
+974
+00:47:33,520 --> 00:47:34,480
+bad but I
+
+975
+00:47:34,480 --> 00:47:35,420
+am sceptical
+
+976
+00:47:35,420 --> 00:47:35,860
+that that's the
+
+977
+00:47:35,860 --> 00:47:36,720
+whole story but
+
+978
+00:47:36,720 --> 00:47:37,240
+I don't know
+
+979
+00:47:37,240 --> 00:47:38,760
+and so that was
+
+980
+00:47:38,760 --> 00:47:39,360
+all I was trying
+
+981
+00:47:39,360 --> 00:47:39,600
+to
+
+982
+00:47:39,600 --> 00:47:41,560
+welcome to
+
+983
+00:47:41,560 --> 00:47:42,720
+Octothorpe
+
+984
+00:47:42,720 --> 00:47:43,360
+where this
+
+985
+00:47:43,360 --> 00:47:44,140
+week in the
+
+986
+00:47:44,140 --> 00:47:44,780
+absence of
+
+987
+00:47:44,780 --> 00:47:45,580
+new news
+
+988
+00:47:45,580 --> 00:47:46,320
+from science
+
+989
+00:47:46,320 --> 00:47:46,780
+fiction and
+
+990
+00:47:46,780 --> 00:47:47,780
+fandom we are
+
+991
+00:47:47,780 --> 00:47:48,420
+having a two
+
+992
+00:47:48,420 --> 00:47:49,660
+hour animated
+
+993
+00:47:49,660 --> 00:47:50,620
+discussion on
+
+994
+00:47:50,620 --> 00:47:51,620
+Star Wars
+
+995
+00:47:51,620 --> 00:47:52,540
+versus Marvel
+
+996
+00:47:52,540 --> 00:47:53,760
+it's definitely
+
+997
+00:47:53,760 --> 00:47:54,820
+on topic guys
+
+998
+00:47:54,820 --> 00:47:58,100
+I think you're
+
+999
+00:47:58,100 --> 00:47:59,000
+correct I don't
+
+1000
+00:47:59,000 --> 00:47:59,700
+think it that
+
+1001
+00:47:59,700 --> 00:48:00,580
+Solo is it's
+
+1002
+00:48:00,580 --> 00:48:01,220
+not a bad
+
+1003
+00:48:01,220 --> 00:48:01,860
+film I just
+
+1004
+00:48:01,860 --> 00:48:02,940
+didn't enjoy it
+
+1005
+00:48:02,940 --> 00:48:03,460
+that much but
+
+1006
+00:48:03,460 --> 00:48:04,040
+I think had
+
+1007
+00:48:04,040 --> 00:48:05,220
+Solo turned out
+
+1008
+00:48:05,220 --> 00:48:06,180
+to be a
+
+1009
+00:48:06,180 --> 00:48:06,780
+really really
+
+1010
+00:48:06,780 --> 00:48:07,960
+good film like
+
+1011
+00:48:07,960 --> 00:48:08,680
+a Guardians of
+
+1012
+00:48:08,680 --> 00:48:09,140
+the Galaxy
+
+1013
+00:48:09,140 --> 00:48:10,840
+level of quality
+
+1014
+00:48:10,840 --> 00:48:11,620
+or something like
+
+1015
+00:48:11,620 --> 00:48:12,360
+that then people
+
+1016
+00:48:12,360 --> 00:48:12,700
+might have
+
+1017
+00:48:12,700 --> 00:48:13,460
+gone ah they
+
+1018
+00:48:13,460 --> 00:48:14,160
+can make good
+
+1019
+00:48:14,160 --> 00:48:15,500
+films that are
+
+1020
+00:48:15,500 --> 00:48:16,360
+entertaining in
+
+1021
+00:48:16,360 --> 00:48:17,160
+between the
+
+1022
+00:48:17,160 --> 00:48:18,760
+big trilogy films
+
+1023
+00:48:18,760 --> 00:48:20,220
+oh I was not
+
+1024
+00:48:20,220 --> 00:48:21,440
+expecting a close
+
+1025
+00:48:21,440 --> 00:48:22,260
+reading of the
+
+1026
+00:48:22,260 --> 00:48:24,320
+Marvel v Star Wars
+
+1027
+00:48:24,320 --> 00:48:25,480
+that was not where
+
+1028
+00:48:25,480 --> 00:48:26,220
+I thought this was
+
+1029
+00:48:26,220 --> 00:48:26,620
+going
+
+1030
+00:48:26,620 --> 00:48:27,660
+not sure it was
+
+1031
+00:48:27,660 --> 00:48:28,360
+that close a
+
+1032
+00:48:28,360 --> 00:48:28,780
+reading
+
+1033
+00:48:28,780 --> 00:48:32,420
+fighting talk
+
+1034
+00:48:32,420 --> 00:48:33,000
+let's fighting
+
+1035
+00:48:33,000 --> 00:48:33,780
+talk
+
+1036
+00:48:33,780 --> 00:48:39,680
+Johnny you know
+
+1037
+00:48:39,680 --> 00:48:41,080
+definitely like
+
+1038
+00:48:41,080 --> 00:48:42,200
+screen sharing
+
+1039
+00:48:42,200 --> 00:48:42,560
+with us
+
+1040
+00:48:42,560 --> 00:48:42,920
+deliberately
+
+1041
+00:48:42,920 --> 00:48:44,180
+yes look at
+
+1042
+00:48:44,180 --> 00:48:44,720
+this graph
+
+1043
+00:48:44,720 --> 00:48:46,280
+oh I see
+
+1044
+00:48:46,280 --> 00:48:47,120
+okay
+
+1045
+00:48:47,120 --> 00:48:48,060
+this is the
+
+1046
+00:48:48,060 --> 00:48:49,240
+lockdown spike
+
+1047
+00:48:49,240 --> 00:48:50,240
+index published
+
+1048
+00:48:50,240 --> 00:48:50,920
+per month on
+
+1049
+00:48:50,920 --> 00:48:51,980
+arcumtv.com
+
+1050
+00:48:51,980 --> 00:48:52,680
+which I thought
+
+1051
+00:48:52,680 --> 00:48:53,220
+was interesting
+
+1052
+00:48:53,220 --> 00:48:54,640
+because it just
+
+1053
+00:48:54,640 --> 00:48:55,200
+rockets
+
+1054
+00:48:55,200 --> 00:48:56,180
+what's the
+
+1055
+00:48:56,180 --> 00:48:56,540
+graph
+
+1056
+00:48:56,540 --> 00:48:58,900
+oh yes
+
+1057
+00:48:58,900 --> 00:48:59,920
+I've been
+
+1058
+00:48:59,920 --> 00:49:00,640
+you know how
+
+1059
+00:49:00,640 --> 00:49:01,560
+people say you
+
+1060
+00:49:01,560 --> 00:49:02,060
+should not
+
+1061
+00:49:02,060 --> 00:49:02,940
+extrapolate from
+
+1062
+00:49:02,940 --> 00:49:03,500
+your personal
+
+1063
+00:49:03,500 --> 00:49:04,820
+experience to
+
+1064
+00:49:04,820 --> 00:49:05,420
+to the world
+
+1065
+00:49:05,420 --> 00:49:06,000
+in general
+
+1066
+00:49:06,000 --> 00:49:06,920
+I've been
+
+1067
+00:49:06,920 --> 00:49:08,320
+extrapolating from
+
+1068
+00:49:08,320 --> 00:49:09,540
+the things my
+
+1069
+00:49:09,540 --> 00:49:11,100
+Facebook friends
+
+1070
+00:49:11,100 --> 00:49:11,560
+talk about
+
+1071
+00:49:11,560 --> 00:49:12,300
+I have a fairly
+
+1072
+00:49:12,300 --> 00:49:13,620
+diverse large
+
+1073
+00:49:13,620 --> 00:49:14,720
+I mean they're all
+
+1074
+00:49:14,720 --> 00:49:15,660
+middle class obviously
+
+1075
+00:49:15,660 --> 00:49:17,520
+but I have a fairly
+
+1076
+00:49:17,520 --> 00:49:18,700
+diverse large group
+
+1077
+00:49:18,700 --> 00:49:19,420
+of Facebook friends
+
+1078
+00:49:19,420 --> 00:49:19,960
+and I've been
+
+1079
+00:49:19,960 --> 00:49:21,140
+extrapolating like
+
+1080
+00:49:21,140 --> 00:49:21,860
+mad from my
+
+1081
+00:49:21,860 --> 00:49:22,920
+Facebook friends
+
+1082
+00:49:22,920 --> 00:49:23,580
+what they've been
+
+1083
+00:49:23,580 --> 00:49:24,140
+doing and it seems
+
+1084
+00:49:24,140 --> 00:49:24,740
+to work out
+
+1085
+00:49:24,740 --> 00:49:25,320
+and I have now
+
+1086
+00:49:25,320 --> 00:49:25,900
+noticed that it
+
+1087
+00:49:25,900 --> 00:49:26,540
+also works on
+
+1088
+00:49:26,540 --> 00:49:27,260
+gaming I think
+
+1089
+00:49:27,260 --> 00:49:27,840
+people are gaming
+
+1090
+00:49:27,840 --> 00:49:28,740
+about three times
+
+1091
+00:49:28,740 --> 00:49:30,360
+as much as
+
+1092
+00:49:30,360 --> 00:49:30,980
+they did before
+
+1093
+00:49:30,980 --> 00:49:31,480
+lockdown
+
+1094
+00:49:31,480 --> 00:49:32,540
+I guess but
+
+1095
+00:49:32,540 --> 00:49:33,340
+the thing you
+
+1096
+00:49:33,340 --> 00:49:34,000
+have to bear in
+
+1097
+00:49:34,000 --> 00:49:34,700
+mind Alison is
+
+1098
+00:49:34,700 --> 00:49:35,280
+that I am
+
+1099
+00:49:35,280 --> 00:49:36,380
+responsible for
+
+1100
+00:49:36,380 --> 00:49:37,100
+how many
+
+1101
+00:49:37,100 --> 00:49:37,760
+arcum horror decks
+
+1102
+00:49:37,760 --> 00:49:38,240
+have you made
+
+1103
+00:49:38,240 --> 00:49:38,660
+John now how
+
+1104
+00:49:38,660 --> 00:49:39,340
+many of those
+
+1105
+00:49:39,340 --> 00:49:40,300
+that spike is
+
+1106
+00:49:40,300 --> 00:49:41,080
+just you
+
+1107
+00:49:41,080 --> 00:49:41,900
+coming up with
+
+1108
+00:49:41,900 --> 00:49:42,640
+arcum horror decks
+
+1109
+00:49:42,640 --> 00:49:44,580
+uh actually no
+
+1110
+00:49:44,580 --> 00:49:45,560
+so okay so that
+
+1111
+00:49:45,560 --> 00:49:46,220
+is actually a very
+
+1112
+00:49:46,220 --> 00:49:46,900
+good question
+
+1113
+00:49:46,900 --> 00:49:47,860
+I will count
+
+1114
+00:49:47,860 --> 00:49:48,880
+it is not a
+
+1115
+00:49:48,880 --> 00:49:49,800
+trivial question
+
+1116
+00:49:49,800 --> 00:49:50,820
+shall we
+
+1117
+00:49:50,820 --> 00:49:52,060
+finish the podcast
+
+1118
+00:49:52,060 --> 00:49:54,780
+and then
+
+1119
+00:49:54,780 --> 00:49:55,740
+and then get
+
+1120
+00:49:55,740 --> 00:49:56,460
+onto the more
+
+1121
+00:49:56,460 --> 00:49:57,380
+fun like post
+
+1122
+00:49:57,380 --> 00:49:58,580
+podcast bit
+
+1123
+00:49:58,580 --> 00:49:59,000
+yeah
+
+1124
+00:49:59,000 --> 00:50:01,000
+13
+
+1125
+00:50:01,000 --> 00:50:02,120
+oh no it's
+
+1126
+00:50:02,120 --> 00:50:03,100
+just you is it
+
+1127
+00:50:03,100 --> 00:50:04,060
+oh shit
+
+1128
+00:50:04,060 --> 00:50:04,920
+sorry
+
+1129
+00:50:04,920 --> 00:50:06,680
+sorry I had
+
+1130
+00:50:06,680 --> 00:50:07,300
+not gathered
+
+1131
+00:50:07,300 --> 00:50:07,980
+John is
+
+1132
+00:50:07,980 --> 00:50:08,800
+responsible for
+
+1133
+00:50:08,800 --> 00:50:09,440
+the global
+
+1134
+00:50:09,440 --> 00:50:10,240
+spike in
+
+1135
+00:50:10,240 --> 00:50:11,420
+arcum horror
+
+1136
+00:50:11,420 --> 00:50:11,920
+decks
+
+1137
+00:50:11,920 --> 00:50:12,380
+public
+
+1138
+00:50:12,380 --> 00:50:16,260
+the after
+
+1139
+00:50:16,260 --> 00:50:17,220
+show how
+
+1140
+00:50:17,220 --> 00:50:17,760
+many so
+
+1141
+00:50:17,760 --> 00:50:18,060
+yeah so
+
+1142
+00:50:18,060 --> 00:50:18,880
+three times as
+
+1143
+00:50:18,880 --> 00:50:19,380
+much gaming
+
+1144
+00:50:19,380 --> 00:50:19,800
+I reckon
+
+1145
+00:50:19,800 --> 00:50:20,200
+and that's
+
+1146
+00:50:20,200 --> 00:50:21,060
+based on how
+
+1147
+00:50:21,060 --> 00:50:21,660
+many of my
+
+1148
+00:50:21,660 --> 00:50:22,160
+hearthstone
+
+1149
+00:50:22,160 --> 00:50:22,680
+friends are
+
+1150
+00:50:22,680 --> 00:50:23,200
+online at
+
+1151
+00:50:23,200 --> 00:50:23,680
+any given
+
+1152
+00:50:23,680 --> 00:50:24,240
+time
+
+1153
+00:50:24,240 --> 00:50:25,680
+um
+
+1154
+00:50:25,680 --> 00:50:25,700
+um
+
+1155
+00:50:25,700 --> 00:50:25,740
+um
+
+1156
+00:50:25,740 --> 00:50:26,240
+you
+
+1157
+00:50:26,240 --> 00:50:26,240
+you
+
+1158
+00:50:26,240 --> 00:50:26,240
+you
+
+1159
+00:50:26,240 --> 00:50:26,780
+you
+
+1160
+00:50:26,780 --> 00:50:28,840
+you
+
+1161
+00:50:28,840 --> 00:50:30,900
+you
 
