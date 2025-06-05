@@ -1,1568 +1,2088 @@
 1
-00:00:00,000 --> 00:00:07,120
- Hello everyone, welcome to Octo Thought Episode 1, a new podcast brought to you by Boredom
+00:00:00,001 --> 00:00:08,420
+Hello everyone, welcome to Octothorpe episode 1, a new podcast brought to you by boredom and self-isolation.
 
 2
-00:00:07,120 --> 00:00:12,600
- and Self-Isolation. I'm John Coxon, I'm a fan from the UK and I am joined by…
+00:00:08,420 --> 00:00:12,960
+I'm John Coxon, I'm a fan from the UK and I am joined by...
 
 3
-00:00:12,600 --> 00:00:16,440
- Hi, I'm Alison Scott, I'm also a fan from the UK.
+00:00:12,960 --> 00:00:16,100
+Hi, I'm Alison Scott, I'm also a fan from the UK.
 
 4
-00:00:16,440 --> 00:00:22,080
- Hello, I'm Liz, I'm also a fan from the UK but I currently live in Thailand.
+00:00:16,100 --> 00:00:21,940
+Hello, I'm Liz, I'm also a fan from the UK but I currently live in Thailand.
 
 5
-00:00:22,080 --> 00:00:28,640
- We decided to do a podcast about fandom from a British perspective and we're going to
+00:00:22,120 --> 00:00:36,080
+We've decided to do a podcast about fandom from a British perspective and we're going to be talking about a few topics today in a kind of first episode stab at podcasting.
 
 6
-00:00:28,640 --> 00:00:36,320
- be talking about a few topics today in a kind of first episode stab at podcasting.
+00:00:36,080 --> 00:00:42,520
+On the morning we record, it's the day after the Eastercon cancelled.
 
 7
-00:00:36,320 --> 00:00:44,040
- On the morning we record, it's the day after the EasterCon cancel, so EasterCon is the
+00:00:42,520 --> 00:00:51,340
+So Eastercon is the British National Science Fiction Convention and Concentric 2020 was to be held in Birmingham this year.
 
 8
-00:00:44,040 --> 00:00:50,680
- British National Science Fiction Convention and concentric 2020 was to be held in Birmingham
+00:00:51,480 --> 00:00:55,040
+But it has been cancelled as a result of COVID-19.
 
 9
-00:00:50,680 --> 00:00:55,280
- this year but it has been cancelled as a result of COVID-19.
+00:00:55,040 --> 00:01:01,660
+Now Alison was the fan guest of honour and I think all three of us are keen Eastercon fans.
 
 10
-00:00:55,280 --> 00:01:00,960
- Now Alison was the fan guest of honour and I think all three of us are keen EasterCon
+00:01:01,660 --> 00:01:04,780
+How are you guys reacting to the cancellation?
 
 11
-00:01:00,960 --> 00:01:05,600
- fans. How are you guys reacting to the cancellation?
+00:01:04,780 --> 00:01:08,320
+Well, I am, as they say, gutted.
 
 12
-00:01:05,600 --> 00:01:12,680
- Well, I am as they say gutted. I was obviously hugely looking forward to EasterCon anyway
+00:01:08,320 --> 00:01:17,320
+I was obviously hugely looking forward to Eastercon anyway because it was the Eastercon and it's my favourite convention of the whole year.
 
 13
-00:01:12,680 --> 00:01:17,760
- because it was the EasterCon and it's my favourite convention of the whole year but
+00:01:17,780 --> 00:01:22,520
+But also because I was going to be fan guest and I was very much looking forward to that.
 
 14
-00:01:17,760 --> 00:01:22,760
- also because I was going to be fan guest and I was very much looking forward to that and
+00:01:22,520 --> 00:01:25,640
+And I had a lot of ideas about fun things we could do.
 
 15
-00:01:22,760 --> 00:01:27,920
- I had a lot of ideas about fun things we could do and so now I guess we're going to spend
+00:01:25,640 --> 00:01:31,200
+And so now I guess we're going to spend our spring doing fun things indoors instead.
 
 16
-00:01:27,920 --> 00:01:31,520
- our spring doing fun things indoors instead.
+00:01:31,200 --> 00:01:36,660
+And I'm also, I think, worried because it makes me wonder, will we have an Eastercon next year?
 
 17
-00:01:31,520 --> 00:01:36,340
- And I'm also, I think, worried because it makes me wonder, will we have an EasterCon next
+00:01:36,660 --> 00:01:38,060
+Will we have more conventions?
 
 18
-00:01:36,340 --> 00:01:40,780
- year? Will we have more conventions? Is this it for the practice of travelling around the
+00:01:38,060 --> 00:01:42,220
+Is this it for the practice of travelling around the world and meeting our friends?
 
 19
-00:01:40,780 --> 00:01:42,600
- world and meeting our friends?
+00:01:42,220 --> 00:01:46,360
+So I've been assuming it was going to be cancelled for at least two or three weeks.
 
 20
-00:01:42,600 --> 00:01:46,320
- So I've been assuming it was going to be cancelled for at least two or three weeks.
+00:01:46,360 --> 00:01:54,700
+We were just waiting on the final, you know, legal coverage so that it could be cancelled without the committee being at a huge financial loss.
 
 21
-00:01:46,320 --> 00:01:52,520
- We were just waiting on the final legal coverage so it could be cancelled without the committee
+00:01:54,700 --> 00:02:00,160
+I mean, I'm selfishly a little bit glad because I wasn't going to make it this year.
 
 22
-00:01:52,520 --> 00:01:59,000
- being at a huge financial loss. I mean, I'm selfishly a little bit glad because I wasn't
+00:02:00,160 --> 00:02:06,660
+And I really wanted to go in the year that Alison was fan guest of honour because I think it would be hilarious and fun.
 
 23
-00:01:59,000 --> 00:02:02,720
- going to make it this year and I really wanted to go in the year that Alison was fan guest
+00:02:06,660 --> 00:02:08,680
+May never happen again.
 
 24
-00:02:02,720 --> 00:02:07,320
- of honour because I think it would be hilarious and fun.
+00:02:08,680 --> 00:02:12,220
+I like hanging out with Alison because she's such a ray of sunshine.
 
 25
-00:02:07,320 --> 00:02:09,040
- May never happen again.
+00:02:12,220 --> 00:02:16,080
+I'm assuming that there will be future Eastercons.
 
 26
-00:02:09,040 --> 00:02:14,280
- I like hanging out with Alison because she's such a ray of sunshine. I'm assuming that
+00:02:16,080 --> 00:02:22,840
+Although, of course, I have, you know, something of a vested interest in global aviation still existing.
 
 27
-00:02:14,280 --> 00:02:20,000
- there will be future EasterCons although of course I have something of a vested interest
+00:02:22,840 --> 00:02:28,660
+Because I would at some point like to return to the UK and not live the rest of my life in Thailand.
 
 28
-00:02:20,000 --> 00:02:25,600
- in global aviation that's still existing because I would at some point like to return
+00:02:28,660 --> 00:02:34,260
+But that may be a deeper question than the cancellation of Eastercons, I feel.
 
 29
-00:02:25,600 --> 00:02:29,440
- to the UK and not live the rest of my life in Thailand.
+00:02:34,260 --> 00:02:46,620
+I think Alison's point about whether this will presage the changing of how we do travel and socialising is a really interesting question.
 
 30
-00:02:29,440 --> 00:02:35,200
- But that may be a deeper question than the cancellation of EasterCons, I feel.
+00:02:46,620 --> 00:02:52,040
+And probably would take longer than we have on this podcast to properly answer.
 
 31
-00:02:35,200 --> 00:02:43,520
- I think Alison's point about whether this will presage the changing of how we do travel
+00:02:52,040 --> 00:03:04,400
+But one of the things I have seen a lot in my professional capacity as someone who goes to science conferences is people discussing whether or not conferences are still a viable thing to do.
 
 32
-00:02:43,520 --> 00:02:49,840
- and socialising is a really interesting question and probably would take longer than we have
+00:03:04,620 --> 00:03:20,320
+But from my perspective, conventions are so much about the social aspect that I kind of feel like after all this has gone away again, we're going to be even more keen to go and see our friends because we're going to have missed out on that for so long.
 
 33
-00:02:49,840 --> 00:02:52,280
- on this podcast to properly answer.
+00:03:20,320 --> 00:03:26,920
+So do you two think that this will be a portent of the end of conventions?
 
 34
-00:02:52,280 --> 00:02:58,760
- But one of the things I have seen a lot in my professional capacity as someone who goes
+00:03:26,920 --> 00:03:34,040
+Or do you think it's going to be a reason to continue conventioning with even more vim and vigour?
 
 35
-00:02:58,760 --> 00:03:03,480
- to science conferences is people discussing whether or not conferences are still a viable
+00:03:34,320 --> 00:03:40,500
+I think I should clarify that when I said may never happen again, I was referring to my never being guest of honour again.
 
 36
-00:03:03,480 --> 00:03:10,360
- thing to do. But from my perspective, conventions are so much about the social aspect that I
+00:03:40,500 --> 00:03:52,820
+But I promise to do everything like being guest of honour, like staying up too late and drinking in the bar and meeting everyone at the Eastercon and all of that stuff anyway.
 
 37
-00:03:10,360 --> 00:03:16,080
- kind of feel like after all this has gone away again, we're going to be even more keen
+00:03:52,820 --> 00:03:55,620
+I'm sure we're going to have more conventions.
 
 38
-00:03:16,080 --> 00:03:20,760
- to go and see our friends because we're going to have missed out on that so long.
+00:03:55,620 --> 00:03:57,280
+I'm certain of it.
 
 39
-00:03:20,760 --> 00:03:27,920
- So do you do you two think that this will be a portent of the end of conventions or do
+00:03:57,280 --> 00:04:03,860
+I think that everyone will be well ready for a convention once we're all vaccinated against this pandemic.
 
 40
-00:03:27,920 --> 00:03:34,120
- you think it's going to be a reason to continue conventioning with even more women vigor?
+00:04:04,020 --> 00:04:06,420
+And I'm sure there won't ever be another pandemic.
 
 41
-00:03:34,120 --> 00:03:38,520
- I think I should clarify that when I said may never happen again, I was referring to
+00:04:06,420 --> 00:04:07,260
+Isn't that right, Liz?
 
 42
-00:03:38,520 --> 00:03:44,880
- my never being guest of honour again. But I promise to do everything like being guest
+00:04:07,260 --> 00:04:08,720
+Oh, yeah, absolutely.
 
 43
-00:03:44,880 --> 00:03:51,040
- of honour, staying up too late and drinking in the bar and meeting everyone at the East
+00:04:08,720 --> 00:04:09,980
+This is this is the only one.
 
 44
-00:03:51,040 --> 00:03:56,320
- Con and all of that stuff anyway. I'm sure we're going to have more conventions. I'm
+00:04:09,980 --> 00:04:11,280
+This is never going to happen again.
 
 45
-00:03:56,320 --> 00:04:02,120
- certain of it. I think that everyone will be well ready for a convention once we're all
+00:04:11,280 --> 00:04:16,780
+Viruses, you know, don't jump over from, you know, animals on a regular basis or anything like that.
 
 46
-00:04:02,120 --> 00:04:06,520
- vaccinated against this pandemic. And I'm sure there won't ever be another pandemic, isn't
+00:04:18,120 --> 00:04:27,540
+Is this the point where I, you know, inform our listeners that I work on tropical infectious diseases and so I might have a slightly skewed view on global pandemics?
 
 47
-00:04:06,520 --> 00:04:07,520
- that right Liz?
+00:04:28,020 --> 00:04:33,660
+Yeah, I think I think I think of the three of us, you are the one that is most similar to an expert.
 
 48
-00:04:07,520 --> 00:04:11,800
- Oh yeah, absolutely. This is the only one. This is never going to happen again, viruses.
+00:04:33,660 --> 00:04:37,060
+So that's probably relevant information.
 
 49
-00:04:11,800 --> 00:04:19,120
- Don't jump over from animals on a regular basis or anything like that. Is this the point
+00:04:37,060 --> 00:04:43,540
+I think because we've been having conversations about Eastercon up to the cancellation.
 
 50
-00:04:19,120 --> 00:04:23,760
- where I inform our listeners that I work on tropical infectious diseases and so I might
+00:04:43,540 --> 00:04:54,840
+And I think most people assumed that it would eventually be cancelled once the government announced that mass gatherings and pubs and restaurants were no longer going to be allowed.
 
 51
-00:04:23,760 --> 00:04:27,880
- have a slightly skewed view on global pandemics?
+00:04:54,980 --> 00:05:00,700
+It was just a question of when they would do that and therefore when the cancellation would come.
 
 52
-00:04:27,880 --> 00:04:33,960
- Yeah, I think of the three of us, you are the one that is most similar to an expert.
+00:05:00,700 --> 00:05:04,920
+I think to go back to your point earlier, Liz, I was also expecting this to happen.
 
 53
-00:04:33,960 --> 00:04:40,800
- So that's probably relevant information. I think because we've been having conversations
+00:05:04,920 --> 00:05:14,080
+I'm very relieved that the government has come out and taken steps that allow pubs and restaurants and places like that to close.
 
 54
-00:04:40,800 --> 00:04:46,600
- about EasterCon up to the cancellation and I think most people assumed that it would
+00:05:14,080 --> 00:05:20,300
+Because I think until a couple of days ago, that was something that was very difficult for a small business like that to countenance.
 
 55
-00:04:46,600 --> 00:04:52,120
- eventually be cancelled once the government announced that mass gatherings and pubs and
+00:05:20,300 --> 00:05:23,720
+And obviously the Hilton being a small business, that's important.
 
 56
-00:04:52,120 --> 00:04:57,520
- restaurants were no longer going to be allowed. It was just a question of when they would
+00:05:23,720 --> 00:05:24,520
+Yes. Yes.
 
 57
-00:04:57,520 --> 00:05:02,360
- do that and therefore when the cancellation would come. I think to go back to your point
+00:05:24,520 --> 00:05:27,500
+All my sympathies are definitely with the Hilton on this one.
 
 58
-00:05:02,360 --> 00:05:07,440
- earlier Liz, I was also expecting this to happen. I'm very relieved that the government
+00:05:27,820 --> 00:05:33,800
+My sympathies rest with the committee and with the management of this hotel.
 
 59
-00:05:07,440 --> 00:05:13,880
- has come out and taken steps that allow pubs and restaurants and places like that to close
+00:05:33,800 --> 00:05:39,300
+It's clear that the hotel didn't feel they were in a position to cancel for some time.
 
 60
-00:05:13,880 --> 00:05:18,360
- because I think until a couple of days ago that was something that was very difficult
+00:05:39,300 --> 00:05:43,080
+And I'm not privileged to any particular information here.
 
 61
-00:05:18,360 --> 00:05:23,120
- for a small business like that to countenance and obviously the Hilton being a small business.
+00:05:43,080 --> 00:05:51,040
+The committee did say, please don't talk about what might happen as if you were a member of the committee.
 
 62
-00:05:23,120 --> 00:05:24,120
- That's important.
+00:05:51,320 --> 00:06:00,580
+So I think we could talk about what might happen with absolutely no knowledge whatsoever and making it completely clear we have nothing to do with the committee.
 
 63
-00:05:24,120 --> 00:05:27,880
- Yes, yes, I'm going to be definitely with the Hilton on this one.
+00:06:00,580 --> 00:06:16,500
+And I would like to see us spend part of our Easter weekend getting together, having some online discussion groups and Zoom chats and Zoom parties, which are just like room parties, except with social distancing.
 
 64
-00:05:27,880 --> 00:05:34,400
- My sympathies rest with the committee and with the management of this hotel. It's clear
+00:06:17,100 --> 00:06:47,080
+With a pun.
 
 65
-00:05:34,400 --> 00:05:39,840
- that the hotel didn't feel they were in a position to cancel for some time and I'm
+00:06:47,080 --> 00:06:50,380
+Do you think that will be something that gets organised as a grassroots thing?
 
 66
-00:05:39,840 --> 00:05:47,560
- not privileged to any particular information here. The committee did say, please don't
+00:06:50,380 --> 00:06:52,740
+Or have you seen people start to talk about that?
 
 67
-00:05:47,560 --> 00:05:52,320
- talk about what might happen as if you were a member of the committee. So I think we could
+00:06:53,060 --> 00:06:57,900
+I've seen people on Twitter starting to discuss it, but nothing concrete yet.
 
 68
-00:05:52,320 --> 00:05:58,880
- talk about what might happen with absolutely no knowledge whatsoever and making it completely
+00:06:58,040 --> 00:07:05,020
+I think there's also a feeling that maybe we need to give the committee a few days to kind of process that, yes, the convention is actually cancelled.
 
 69
-00:05:58,880 --> 00:06:03,480
- clear we have nothing to do with the committee and I would like to see us spend part of our
+00:07:05,020 --> 00:07:08,780
+All their effort is not going to result in an event.
 
 70
-00:06:03,480 --> 00:06:11,800
- Easter weekend getting together, having some online discussion groups and Zoom chats and
+00:07:08,780 --> 00:07:10,440
+And to decide whether they're going to have a few days to do something.
 
 71
-00:06:11,800 --> 00:06:16,920
- Zoom parties which are just like room parties except with social distancing.
+00:07:10,440 --> 00:07:16,280
+And to decide whether they feel like they can redirect that into trying to do something online involving some of what they had planned for the actual event.
 
 72
-00:06:16,920 --> 00:06:21,960
- And with a pun, can't be a good pun. I think I agree with you, Alison. I would like to see
+00:07:16,280 --> 00:07:26,920
+Or whether they'd rather sort of hand it over to fandom and say, sorry, we cannot do anything in person this weekend, but we give you our blessing to organise your own social gatherings online.
 
 73
-00:06:21,960 --> 00:06:26,960
- British fandom kind of rally around on Easter weekend and put some online stuff on whether
+00:07:27,160 --> 00:07:37,820
+I have one more thought about Eastercon, which is that I'm very glad that in the great game of Pass the Parcel that is running the Eastercon, the parcel didn't land when I was chair.
 
 74
-00:06:26,960 --> 00:06:30,360
- that's the convention committee or whether it's just a kind of a grassroots effort. I
+00:07:38,040 --> 00:07:44,020
+So I have nothing but sympathy for this committee and what they're having to put up with now and deal with.
 
 75
-00:06:30,360 --> 00:06:35,920
- don't know because I haven't had a free Easter weekend since 2006 and I've forgotten how
+00:07:44,020 --> 00:07:47,420
+And I just, all my heart goes out to them, really.
 
 76
-00:06:35,920 --> 00:06:36,920
- they work.
+00:07:47,420 --> 00:07:56,000
+I think that as a fandom, we need to give the ConCom the space to do what they want to do.
 
 77
-00:06:36,920 --> 00:06:37,920
- They're boring.
+00:07:56,000 --> 00:08:05,620
+If they still see the Easter weekend as something they want to head up and organise, even in an online capacity, then I'm thrilled and I'll be super behind them.
 
 78
-00:06:37,920 --> 00:06:42,640
- Yeah, exactly. I'm just, I'm not sure I'm going to appreciate a double bank holiday
+00:08:05,940 --> 00:08:16,980
+But if they are super crushed by the fact that all this has happened and they just want to go and kind of have some time, then I think that's another thing we have to be super supportive of, like in either direction.
 
 79
-00:06:42,640 --> 00:06:47,400
- weekend in a time when I've not been allowed out of the house for three weeks. So do you
+00:08:16,980 --> 00:08:21,620
+Because I can't imagine how stressful the last month must have been for that convention committee.
 
 80
-00:06:47,400 --> 00:06:51,440
- think that will be something that gets organised as a grassroots thing or have you seen people
+00:08:21,620 --> 00:08:22,540
+It must have been awful.
 
 81
-00:06:51,440 --> 00:06:52,880
- start to talk about that?
+00:08:22,540 --> 00:08:35,800
+Alison, as a former Eastercon chair, can you give us a little bit of an idea of what the Eastercon committee is financially on the hook for every year and the sort of risks that you take when you do commit to running one?
 
 82
-00:06:52,880 --> 00:06:58,600
- I've seen people on Twitter starting to discuss it but nothing concrete yet. I think it's
+00:08:35,800 --> 00:08:41,440
+Well, I think that the primary problem here will be twofold.
 
 83
-00:06:58,600 --> 00:07:03,280
- also feeling that maybe we need to give the committee a few days to kind of process that
+00:08:41,440 --> 00:08:53,880
+The first is that they will have given a commitment to the hotel that, pending disasters of which this is clearly one, they will have taken a number of rooms in the hotel, quite a large number of rooms.
 
 84
-00:07:03,280 --> 00:07:08,160
- yes, the convention is actually cancelled. All their effort is not going to result in
+00:08:54,660 --> 00:08:59,160
+And then the second thing is that they will have guaranteed a food and drink spend for the hotel.
 
 85
-00:07:08,160 --> 00:07:12,880
- an event and to decide whether they feel like they can redirect that into trying to do something
+00:09:00,560 --> 00:09:10,500
+So you say, not only we will bring in soever many people to your hotel this weekend, but also they will eat and drink a lot of food and drink.
 
 86
-00:07:12,880 --> 00:07:17,120
- online involving some of what they had planned for the actual event or whether they'd rather
+00:09:10,500 --> 00:09:17,960
+And that's how you get the rate on the conference space is by promising to spend a very large amount of money on food and drink.
 
 87
-00:07:17,120 --> 00:07:22,840
- sort of hand it over to fandom and say, "Sorry, we cannot do anything in person this weekend
+00:09:19,240 --> 00:09:23,120
+That will have been considerably more than the cost of the cost of the hotel.
 
 88
-00:07:22,840 --> 00:07:27,240
- but we give you our blessing to organise your own social gatherings online."
+00:09:23,120 --> 00:09:30,640
+The government mandating that restaurants and bars close was the, I think, final straw.
 
 89
-00:07:27,240 --> 00:07:32,120
- I have one more thought about EasterCon which is that I'm very glad that in the great game
+00:09:30,640 --> 00:09:39,500
+The impression I get from the convention announcement is that the hotel would have been unable to let people eat or drink in the hotel common areas.
 
 90
-00:07:32,120 --> 00:07:38,240
- of past the parcel that is running the EasterCon, the parcel didn't land when I was chair.
+00:09:40,140 --> 00:09:49,920
+And so as soon as that happens, you have real trouble with your ability as a hotel to fulfill your contract from that kind of holding a big event perspective.
 
 91
-00:07:38,240 --> 00:07:42,840
- So I have nothing but sympathy for this committee and what they're having to put up with now
+00:09:49,920 --> 00:09:58,760
+So I think that's why the cancellation happened now, because it was that that meant it became completely unworkable.
 
 92
-00:07:42,840 --> 00:07:48,080
- and deal with and I just, all my heart goes out to them really.
+00:09:58,760 --> 00:10:07,680
+I can't remember what the typical food and drink spend for an Easter con is, but I know it's usually five figures.
 
 93
-00:07:48,080 --> 00:07:56,000
- I think that as a fandom we need to give the con-con space to do what they want to do if
+00:10:08,520 --> 00:10:14,520
+I'd expect them to have a figure for a guarantee for food and drink in the high five figures.
 
 94
-00:07:56,000 --> 00:08:01,120
- they still see the Easter weekend as something they want to head up and organise even in
+00:10:14,520 --> 00:10:17,240
+Which is a mad amount of money.
 
 95
-00:08:01,120 --> 00:08:06,720
- an online capacity that I am thrilled and I'll be super behind them. But if they are
+00:10:17,240 --> 00:10:19,560
+So there's not...
 
 96
-00:08:06,720 --> 00:08:10,360
- super crushed by the fact that all this has happened and they just want to go and kind
+00:10:19,560 --> 00:10:21,300
+Have you seen how much beer costs?
 
 97
-00:08:10,360 --> 00:08:15,880
- of have some time, then I think that's another thing we have to be super supportive of like
+00:10:21,300 --> 00:10:22,700
+Yes.
 
 98
-00:08:15,880 --> 00:08:20,360
- in either direction because I can't imagine how stressful the last month must have been
+00:10:22,700 --> 00:10:25,340
+At five pounds a pint, it doesn't take a lot.
 
 99
-00:08:20,360 --> 00:08:22,800
- for that convention committee, it must have been awful.
+00:10:25,340 --> 00:10:26,020
+That's true.
 
 100
-00:08:22,800 --> 00:08:28,320
- Alison, as a former EasterCon chair, can you give us a little bit of an idea of what the
+00:10:26,020 --> 00:10:26,700
+That's true.
 
 101
-00:08:28,320 --> 00:08:33,520
- EasterCon committee is financially on the hook for every year and the sort of risks
+00:10:26,700 --> 00:10:30,860
+When I was an undergraduate, I used to complain about that very vocally.
 
 102
-00:08:33,520 --> 00:08:35,920
- that you take when you do commit to running one?
+00:10:30,860 --> 00:10:34,240
+Strangely, now I earn more money, I complain less.
 
 103
-00:08:35,920 --> 00:08:42,440
- I think that the primary problem here will be twofold. The first is that they will have
+00:10:34,240 --> 00:10:37,440
+There's no seated Easter con for 2021.
 
 104
-00:08:42,440 --> 00:08:50,080
- given a commitment to the hotel that pending disasters of which this is clearly won, they
+00:10:38,020 --> 00:10:39,660
+There's not an Easter con constitution.
 
 105
-00:08:50,080 --> 00:08:54,840
- will have taken a number of rooms in the hotel, quite a large number of rooms. And then the
+00:10:39,660 --> 00:10:46,600
+If we've got any US listeners who are used to Robert's Rules of Order and Worcester's Constitutions and all of these things,
 
 106
-00:08:54,840 --> 00:09:01,600
- second thing is that they will have guaranteed a food and drink spend for the hotel. So you
+00:10:46,600 --> 00:10:56,860
+the Easter con is an anarchic collective of like-minded fans who sort of run conventions by gentleman's agreement as much as by anything else.
 
 107
-00:09:01,600 --> 00:09:07,440
- say not only we will bring in so ever many people to your hotel this weekend, but also
+00:10:56,860 --> 00:11:01,700
+And so there's not any provision in any written document for what happens now.
 
 108
-00:09:07,440 --> 00:09:12,600
- they will eat and drink a lot of food and drink. And that's how you get the rate on
+00:11:02,120 --> 00:11:06,800
+So how do we select the next Easter con and how does all that work?
 
 109
-00:09:12,600 --> 00:09:19,520
- the conference space is by promising to spend a very large amount of money on food and drink.
+00:11:06,800 --> 00:11:17,620
+When you say that Easter con is run by a collective of like-minded fans, if enough former chairs of Easter con put their weight behind a proposal that comes forward,
 
 110
-00:09:19,520 --> 00:09:23,000
- That will have been considerably more than the cost of hiring space.
+00:11:17,620 --> 00:11:20,060
+it will just be agreed by a claim.
 
 111
-00:09:23,000 --> 00:09:31,080
- The government mandating that restaurants and bars closed was the, I think, final straw.
+00:11:20,060 --> 00:11:21,720
+I just don't think there's a...
 
 112
-00:09:31,080 --> 00:09:35,960
- The impression I get from the convention announcement is that the hotel would have been unable to
+00:11:21,720 --> 00:11:27,060
+I think this is much more of a problem in the minds of rules nerds than it is in practice.
 
 113
-00:09:35,960 --> 00:09:41,720
- let people eat or drink in the hotel common areas. And so as soon as that happens, you
+00:11:27,060 --> 00:11:30,140
+I also don't think people are going to be lining up to run the Easter con.
 
 114
-00:09:41,720 --> 00:09:48,280
- have real trouble with your ability as a hotel to fulfill your contract from that, kind of
+00:11:30,480 --> 00:11:33,400
+You know, it would be a problem if you had a lot of contested bids.
 
 115
-00:09:48,280 --> 00:09:54,920
- holding a big event perspective. So I think that's why the cancellation happened now,
+00:11:35,340 --> 00:11:46,280
+No, I think it's going to be very difficult for whoever does step up and decide they want to run one next year because they really won't be able to make any concrete plans for quite a while at this point.
 
 116
-00:09:54,920 --> 00:10:00,680
- because it was that that meant it became completely unworkable. I can't remember what
+00:11:46,280 --> 00:11:49,800
+They can try and find a hotel, but they can't go and visit a hotel.
 
 117
-00:10:00,680 --> 00:10:08,120
- the typical food and drink spend for an Easter con is, but I know it's usually five figures.
+00:11:49,800 --> 00:11:53,520
+They can't really make any commitments to guests or anything like that.
 
 118
-00:10:08,120 --> 00:10:15,400
- I'd expect them to have a figure for a guarantee for food and drink in the high five figures.
+00:11:53,520 --> 00:12:01,580
+I mean, I think you're probably looking at least the summer, if not early autumn, before we even know if we'll be able to go and have an Easter con next year.
 
 119
-00:10:15,400 --> 00:10:19,080
- Which is a mad amount of money. So there's not...
+00:12:01,820 --> 00:12:03,420
+So I think it's going to be a very difficult task.
 
 120
-00:10:19,080 --> 00:10:25,480
- Have you seen how much beer costs? Yes. At five pounds of height, it doesn't take a lot.
+00:12:03,420 --> 00:12:09,340
+And frankly, if someone steps up to do it, then I will vote for them wholeheartedly.
 
 121
-00:10:25,480 --> 00:10:31,440
- That's true. That's true. When I was an undergraduate, I used to complain about that very vocally.
+00:12:09,340 --> 00:12:18,180
+The most recent analogue is probably the 2007 Easter con, which was held in Chester after the Liverpool Easter con folded.
 
 122
-00:10:31,440 --> 00:10:38,040
- Strangely, now I earn more money. I've complained less. There's no seated Easter con for 2021.
+00:12:18,180 --> 00:12:27,240
+And that, I think, was a case where the convention was organised on about six months' notice, if I recall correctly.
 
 123
-00:10:38,040 --> 00:10:42,680
- There's not an Easter con constitution. If we've got any US listeners who are used to
+00:12:27,360 --> 00:12:32,740
+I think convoy folded in the summer and the convention was in March 2007.
 
 124
-00:10:42,680 --> 00:10:48,520
- Roberts rules of order and Wussfuss constitutions and all of these things, the Easter con is an
+00:12:32,740 --> 00:12:34,800
+And so it can be done.
 
 125
-00:10:48,520 --> 00:10:55,480
- anarchic collective of like-minded fans who sort of run conventions by gentlemen's agreement
+00:12:34,800 --> 00:12:41,800
+I don't know whether it will be the size of Easter con you would expect, because obviously Chester was very small for an Easter con.
 
 126
-00:10:55,480 --> 00:11:00,360
- as much as by anything else. And so there's not any provision in any written document for
+00:12:41,800 --> 00:12:46,680
+And it might be that if there's only a six-month lead-up, you do get a hit to attendance.
 
 127
-00:11:00,360 --> 00:11:06,920
- what happens now. So how do we select the next Easter con and how does all that work?
+00:12:47,100 --> 00:12:53,220
+But last time something even remotely similar to this happened, we still had an Easter con, even if it was a much smaller one.
 
 128
-00:11:06,920 --> 00:11:13,880
- When you say that Easter con is run by a collective of like-minded fans, if enough former chairs of
+00:12:53,220 --> 00:12:55,520
+So I'm hopeful that this is all resolved.
 
 129
-00:11:13,880 --> 00:11:19,880
- Easter con put their weight behind a proposal that comes forward, it will just be agreed by a claim.
+00:12:55,520 --> 00:13:02,840
+And I think Alison's point is right, that this is much more a problem in the minds of rules nerds than it is in real life.
 
 130
-00:11:19,880 --> 00:11:24,280
- I just don't think there's a... I think this is much more of a problem in the minds of
+00:13:02,940 --> 00:13:08,860
+Because if enough people want there to be an Easter con, there'll be an Easter con, regardless of any other considerations.
 
 131
-00:11:24,280 --> 00:11:29,320
- rules and urge than it is in practice. I also don't think people are going to be lining up to run
+00:13:08,860 --> 00:13:10,440
+I think that's true.
 
 132
-00:11:29,320 --> 00:11:33,160
- the Easter con. You know, it would be a problem if you had a lot of contested bids.
+00:13:10,440 --> 00:13:18,480
+I mean, I wonder how much of the 2020 Easter con the committee might want to try and roll forward into 2021.
 
 133
-00:11:35,160 --> 00:11:38,200
- No, I think it's going to be very difficult,
+00:13:18,480 --> 00:13:22,100
+Because presumably there's been a lot of planning done already.
 
 134
-00:11:38,200 --> 00:11:42,440
- if whoever does step up and decide they want to run one next year, because they really won't be
+00:13:22,100 --> 00:13:24,460
+A lot of organisations have been done.
 
 135
-00:11:42,440 --> 00:11:48,120
- able to make any concrete plans for quite a while at this point. They can try and find a hotel,
+00:13:24,460 --> 00:13:29,880
+It's possible that some of it can just be sort of jumped forward a year if they wanted to go again for next year.
 
 136
-00:11:48,120 --> 00:11:52,680
- but they can't go and visit a hotel. They can't really make any commitments to guests or anything
+00:13:29,880 --> 00:13:33,440
+But I would also understand if they really want to take a break.
 
 137
-00:11:52,680 --> 00:11:57,960
- like that. I mean, I think you're probably looking at least the somewhere, if not early
+00:13:33,440 --> 00:13:46,220
+I think my question would be that we compare this to 2007, but it's not really the same situation as 2007, I think, because, you know, it's a completely different background.
 
 138
-00:11:57,960 --> 00:12:01,960
- or before we even know if we'll be able to go and have an Easter con next year. So I think it's
+00:13:46,220 --> 00:13:46,700
+Yeah.
 
 139
-00:12:01,960 --> 00:12:07,880
- going to be a very difficult task. And frankly, if someone steps up to do it, then I will vote
+00:13:46,700 --> 00:13:57,120
+But the question is, it seems like Easter con has rolled along as a sort of very loose collective gentleman's agreement, different from year to year, for a long time.
 
 140
-00:12:07,880 --> 00:12:14,280
- for them wholeheartedly. The most recent analogue is probably the 2007 Easter con,
+00:13:57,120 --> 00:14:03,380
+And possibly, actually, it's a ticking time bomb we have been passing along for a while and happens to explode in 2020.
 
 141
-00:12:14,280 --> 00:12:21,240
- which was held in Chester after the Liverpool Easter con, folded. And that, I think, was a case where
+00:14:03,380 --> 00:14:08,520
+Do you think this will lead to a long term change in how we organise them?
 
 142
-00:12:21,240 --> 00:12:28,280
- the convention was organized on about six months notice, if I recall correctly. I think convoy
+00:14:08,520 --> 00:14:12,580
+I think this is a great topic for another episode of Octothorpe.
 
 143
-00:12:28,280 --> 00:12:35,320
- folded in the summer and the convention was in March 2007. And so it can be done. I don't know
+00:14:12,580 --> 00:14:16,360
+Tune in next time when we talk about Wither Easter con.
 
 144
-00:12:35,320 --> 00:12:40,360
- whether it will be the size of Easter con you would expect, because obviously Chester was very
+00:14:16,360 --> 00:14:20,380
+I think that is a long discussion and I think it's a good question.
 
 145
-00:12:40,360 --> 00:12:45,800
- small for an Easter con. And it might be that if there's only a six-month lead-up, you do get a hit
+00:14:20,380 --> 00:14:24,200
+And I think we will come back to it in future episodes.
 
 146
-00:12:45,800 --> 00:12:51,400
- to attendance. But last time something even remotely similar to this happened, we still had an Easter
+00:14:24,200 --> 00:14:27,680
+And we would love our listeners to write in with their thoughts.
 
 147
-00:12:51,400 --> 00:12:55,640
- con even if it was a much smaller one. So I'm hopeful that this is all resolved. And I think
+00:14:27,680 --> 00:14:37,220
+So on the subject of Easter con being cancelled, on the topic of the fan funds, Michael Lowry, who is this year's TAF delegate, has cancelled his trip.
 
 148
-00:12:55,640 --> 00:13:01,000
- Alison's point is right that this is much more a problem in the minds of rules nerds than it is
+00:14:38,160 --> 00:14:45,480
+Unfortunately, TAF, which is the transatlantic fan fund, has enough money in the bank that it can run another trip next year.
 
 149
-00:13:01,000 --> 00:13:06,200
- in real life. Because if enough people want their to be an Easter con, they'll be an Easter con
+00:14:45,480 --> 00:14:49,380
+And this shouldn't be too much of a problem in the perspective of the fund.
 
 150
-00:13:06,200 --> 00:13:13,560
- regardless of any other considerations. I think that's true. I mean, I wonder how much of the 2020
+00:14:49,380 --> 00:14:55,900
+But obviously, the other fan funds, such as the Down Under fan fund and the Going Under fan fund, will be affected.
 
 151
-00:13:13,560 --> 00:13:19,400
- Easter con the committee might want to try and roll forward into 2021. Because presumably there's
+00:14:55,900 --> 00:15:02,820
+And projects like Con or Bust, which gets people of colour to conventions, may also be impacted.
 
 152
-00:13:19,400 --> 00:13:24,760
- been a lot of planning done already. A lot of organization has been done. It's possible that
+00:15:02,820 --> 00:15:08,020
+Do you two have any thoughts about how this is going to affect that kind of thing?
 
 153
-00:13:24,760 --> 00:13:29,640
- some of it can just be sort of jumped forward a year if they wanted to go again for next year.
+00:15:08,020 --> 00:15:11,200
+Fair, full disclosure, I am one of this year's guff candidates.
 
 154
-00:13:29,640 --> 00:13:38,280
- But I would also understand if they really want to take a break. I think my question would be that
+00:15:11,200 --> 00:15:18,520
+So I am running to be the fan who goes from Europe to New Zealand for the New Zealand Worldcon.
 
 155
-00:13:38,280 --> 00:13:43,960
- we compare this to 2007, but it's not really the same situation as 2007, I think, because
+00:15:18,520 --> 00:15:22,020
+I think at this point, the New Zealand Worldcon must be in doubt.
 
 156
-00:13:43,960 --> 00:13:50,440
- it's a completely different background. But question is, it seems like Easter con has rolled
+00:15:22,020 --> 00:15:26,740
+July time, I don't see how it's going to happen, but it might do.
 
 157
-00:13:50,440 --> 00:13:56,520
- along as a sort of very loose collective gentlemen's agreement different from year to year for a long
+00:15:27,080 --> 00:15:34,080
+And I particularly wanted to run this year because it's the first year after my youngest child turned 18.
 
 158
-00:13:56,520 --> 00:14:01,480
- time. And possibly actually it's a ticking time bomb we have been passing along for a while and
+00:15:34,080 --> 00:15:42,240
+So I can actually go off and party in New Zealand and Australia for weeks on end without having family responsibilities.
 
 159
-00:14:01,480 --> 00:14:08,600
- happens to explode in 2020. Do you think this will lead to a long term change in how we organize them?
+00:15:42,980 --> 00:15:46,400
+But I'd be very happy to run for guff at some future date.
 
 160
-00:14:08,600 --> 00:14:14,120
- I think this is a great topic for another episode of Octas thought. Tune in next time
+00:15:46,400 --> 00:15:54,660
+The guff has always found it harder to raise money than taff has, just because the expense of a trip is very much greater.
 
 161
-00:14:14,120 --> 00:14:19,720
- when we talk about Withery's to go. I think that is a long discussion. And I think it's a good
+00:15:54,660 --> 00:15:59,680
+And the number of fans in Australia and New Zealand is slightly smaller.
 
 162
-00:14:19,720 --> 00:14:25,960
- question. And I think we will come back to it in future episodes. And we would love our listeners
+00:16:00,440 --> 00:16:09,080
+I think guff this year, I think it's going to be cancelled because we won't be sure if there is a Worldcon in time for anyone to seriously plan.
 
 163
-00:14:25,960 --> 00:14:31,880
- to write in with their thoughts. So on the subject of Easter con being cancelled on the topic of the
+00:16:09,080 --> 00:16:18,720
+And also, I think the finances are so difficult, especially given that there are a lot of teams wanting to run for guff this year,
 
 164
-00:14:31,880 --> 00:14:38,840
- fan funds, Michael Larry, who is this year's TAFtelegger has cancelled his trip. Fortunately,
+00:16:18,720 --> 00:16:24,440
+that it might be reckless to make any kind of concrete reservations that can't be cancelled for full refunds,
 
 165
-00:14:38,840 --> 00:14:44,360
- TAF, which is the transatlantic fan fund, has enough money in the bank that it can run another
+00:16:24,440 --> 00:16:29,720
+because you might just sort of take out all of the guff reserves and then you won't be able to run again.
 
 166
-00:14:44,360 --> 00:14:50,040
- trip next year. And this shouldn't be too much of a problem of speculative of the fund. But
+00:16:29,720 --> 00:16:36,080
+I also think, speaking as someone, you know, in a country I live in, which I'm not a citizen of,
 
 167
-00:14:50,040 --> 00:14:55,080
- obviously the other fan funds such as the Down Under Fan Fund and the Going Under Fan Fund will
+00:16:36,080 --> 00:16:40,860
+and where it's obviously becoming increasingly difficult to leave,
 
 168
-00:14:55,080 --> 00:15:02,120
- be affected. And projects like Connel Bust, which gets people of color to conventions, may also be
+00:16:40,860 --> 00:16:46,240
+I think people might be quite reluctant to go to New Zealand or Australia this year,
 
 169
-00:15:02,120 --> 00:15:07,960
- impacted due to have any thoughts about how this is going to affect that kind of thing.
+00:16:46,240 --> 00:16:50,680
+because at any point we might have more lockdowns,
 
 170
-00:15:07,960 --> 00:15:13,880
- Fair full disclosure. I am one of this year's Gough candidate. So I am running to be the fan
+00:16:50,680 --> 00:16:55,120
+and you might find that you can travel there, but may find it very difficult to travel back again.
 
 171
-00:15:13,880 --> 00:15:19,800
- who goes from Europe to New Zealand for the New Zealand Worldcon. I think at this point,
+00:16:55,120 --> 00:16:58,240
+So for this year, I think it's a non-starter.
 
 172
-00:15:19,800 --> 00:15:25,080
- the New Zealand Worldcon must be in doubt. July time, I don't see how it's going to happen,
+00:16:58,240 --> 00:17:01,660
+In the future, I'd like to see it continue.
 
 173
-00:15:25,080 --> 00:15:30,920
- but it might do. And I particularly wanted to run this year because it's the first year
+00:17:01,660 --> 00:17:05,920
+It's a huge shame that we're going to miss having a race when there is a Worldcon,
 
 174
-00:15:31,640 --> 00:15:38,200
- after my youngest child turned 18. So I can actually go off and party in New Zealand for
+00:17:05,920 --> 00:17:08,420
+potentially in Australia and New Zealand.
 
 175
-00:15:38,200 --> 00:15:44,040
- and Australia for weeks on end without having family responsibilities. But I'd be very happy to
+00:17:08,420 --> 00:17:12,920
+But hopefully it can continue in some form in future years.
 
 176
-00:15:44,040 --> 00:15:50,920
- run for Gough at some future date. The Gough has always found it harder to raise money than
+00:17:12,920 --> 00:17:16,340
+I do feel sorry for New Zealand 2020,
 
 177
-00:15:50,920 --> 00:15:57,560
- TAF has, just because the expense of a trip is very much greater. And the number of fans in
+00:17:16,340 --> 00:17:24,720
+because even if we completely eradicate the coronavirus before that convention goes ahead,
 
 178
-00:15:57,560 --> 00:16:03,560
- Australia and New Zealand are slightly smaller. I think Gough this year, I think it's going to
+00:17:24,720 --> 00:17:28,400
+I can't imagine this is going to do good things to their membership curve.
 
 179
-00:16:03,560 --> 00:16:08,840
- be cancelled because we won't be sure if there is a Worldcon in time for anyone to seriously plan.
+00:17:28,400 --> 00:17:33,660
+And as the first Worldcon in New Zealand, I think that is a huge shame.
 
 180
-00:16:08,840 --> 00:16:15,560
- And also, I think the finances are so difficult, especially given that there are a lot of
+00:17:33,660 --> 00:17:40,540
+And I think your point about guff running to Australasia is another facet to that being a huge shame.
 
 181
-00:16:15,560 --> 00:16:21,880
- teams wanting to run for Gough this year, that it might be reckless to make any kind of concrete
+00:17:40,540 --> 00:17:42,860
+But I think hopefully we can,
 
 182
-00:16:21,880 --> 00:16:27,000
- reservations that can't be cancelled for full refunds, because you might just sort of take out
+00:17:42,860 --> 00:17:46,440
+keep the Fannish connections going online.
 
 183
-00:16:27,000 --> 00:16:32,200
- all of the Gough reserves and then you won't be able to run again. I also think, speaking as someone,
+00:17:46,440 --> 00:17:50,100
+So should we talk about Consolation?
 
 184
-00:16:32,200 --> 00:16:38,600
- you know, in a country I live in which I am not a citizen of and where it's obviously becoming
+00:17:50,100 --> 00:17:53,880
+Are both of you on the Consolation Facebook group?
 
 185
-00:16:38,600 --> 00:16:45,000
- increasingly difficult to leave, I think people might be quite reluctant to go to New Zealand or
+00:17:53,880 --> 00:17:56,760
+So I am, but I'm not really reading it.
 
 186
-00:16:45,000 --> 00:16:51,400
- Australia this year because at any point we might have more lockdowns and you might find that you
+00:17:56,760 --> 00:17:57,480
+That's fair.
 
 187
-00:16:51,400 --> 00:16:56,840
- can travel there but make it very difficult to travel back again. So for this year, I think
+00:17:57,480 --> 00:17:59,040
+Because I had the look.
 
 188
-00:16:56,840 --> 00:17:03,400
- it's a non-starter. In the future, I'd like to see it continue. It's a huge shame that we're going
+00:17:59,040 --> 00:18:02,540
+And I don't know,
 
 189
-00:17:03,400 --> 00:17:08,280
- to miss having a race when there is a Worldcon, potentially in Australia and New Zealand,
+00:18:02,540 --> 00:18:05,800
+I think I must have just been in completely the wrong frame of mind.
 
 190
-00:17:08,280 --> 00:17:13,160
- but hopefully it can continue in some form in future years.
+00:18:05,800 --> 00:18:07,940
+But I didn't find it very funny.
 
 191
-00:17:13,160 --> 00:17:21,480
- I do feel sorry for New Zealand 2020 because even if we completely eradicate the coronavirus
+00:18:08,320 --> 00:18:10,680
+It started off quite funny,
 
 192
-00:17:22,280 --> 00:17:27,720
- before that convention goes ahead, I can't imagine this is going to do good things to their membership
+00:18:10,680 --> 00:18:13,220
+because it was all full of conrunners.
 
 193
-00:17:27,720 --> 00:17:34,200
- curve. And as the first Worldcon in New Zealand, I think that is a huge shame. And I think your
+00:18:13,220 --> 00:18:14,760
+And conrunners,
 
 194
-00:17:34,200 --> 00:17:40,600
- point about Gough running to Australasia is another facet to that being a huge shame.
+00:18:14,760 --> 00:18:18,180
+the group of people are on like Journeymen of Fandom,
 
 195
-00:17:40,600 --> 00:17:48,840
- But I think hopefully we can keep the fanist connections going online. So should we talk about
+00:18:18,180 --> 00:18:21,480
+which is the primary Facebook conrunning group,
 
 196
-00:17:48,840 --> 00:17:54,040
- consolation? Are both of you on the consolation Facebook group?
+00:18:21,480 --> 00:18:23,320
+have a certain mindset.
 
 197
-00:17:54,040 --> 00:17:57,320
- So I am but I'm not really reading it. That's fair.
+00:18:23,320 --> 00:18:25,820
+And they have a lot in common with each other,
 
 198
-00:17:57,320 --> 00:18:04,680
- Because I have a look and I don't know. I think I must have just been in completely the wrong
+00:18:25,820 --> 00:18:28,640
+even if the sorts of conventions they're running are very different.
 
 199
-00:18:04,680 --> 00:18:11,880
- frame of mind but I didn't find it very funny. It started off quite funny because it was all full
+00:18:29,180 --> 00:18:33,300
+But now Consolation has bloomed to about 20,000 people.
 
 200
-00:18:11,880 --> 00:18:18,520
- of con runners and con runners that the group of people are on like journeymen of fandom which is
+00:18:33,300 --> 00:18:37,520
+And a lot of those people aren't,
 
 201
-00:18:19,080 --> 00:18:24,920
- the primary Facebook con running group have a certain mindset and they have a lot in common
+00:18:37,520 --> 00:18:43,040
+they don't share the same context and experiences as,
 
 202
-00:18:24,920 --> 00:18:29,000
- with each other even if the sorts of conventions they're running are very different.
+00:18:43,040 --> 00:18:43,460
+say,
 
 203
-00:18:29,000 --> 00:18:35,080
- But now consolation is bloomed to about 20,000 people and a lot of those people
+00:18:43,460 --> 00:18:44,700
+Eastercon fans do.
 
 204
-00:18:35,080 --> 00:18:44,440
- aren't, they don't share the same context and experiences as say Easter con fans do.
+00:18:44,820 --> 00:18:44,980
+I mean,
 
 205
-00:18:44,440 --> 00:18:48,840
- I mean there's a reason why we're saying this is a podcast from a British fan
+00:18:44,980 --> 00:18:48,800
+there's a reason why we're saying this is a podcast from a British fan,
 
 206
-00:18:48,840 --> 00:18:55,240
- fanish point of view that we know that the people that we are speaking to are going to have much of
+00:18:48,800 --> 00:18:50,320
+fanish point of view,
 
 207
-00:18:55,240 --> 00:19:00,360
- the same interests and influences as we do. Consolation is now beyond that point.
+00:18:50,320 --> 00:18:55,540
+that we know that the people that we are speaking to are going to have much of
 
 208
-00:19:00,360 --> 00:19:05,560
- It's covering a lot of different fandoms not all of which are my fandom.
+00:18:55,540 --> 00:18:58,540
+the same interests and influences as we do.
 
 209
-00:19:05,560 --> 00:19:09,560
- I still find it's got some quite funny things in it from time to time.
+00:18:58,540 --> 00:19:00,380
+Consolation is now beyond that point.
 
 210
-00:19:09,560 --> 00:19:15,080
- It's an incredibly difficult thing to balance when you get to 20,000 people you can't all share a
+00:19:00,380 --> 00:19:02,780
+It's covering a lot of different fandoms,
 
 211
-00:19:15,080 --> 00:19:22,760
- sensibility and in a venue like well in a real convention where you can have different programming
+00:19:02,780 --> 00:19:05,300
+not all of which are my fandom.
 
 212
-00:19:22,760 --> 00:19:27,000
- streams and different rooms and different corners of the bar that works fine because
+00:19:05,300 --> 00:19:09,300
+I still find it's got some quite funny things in it from time to time.
 
 213
-00:19:27,000 --> 00:19:33,160
- not everyone has to share a sensibility but a Facebook group with no separate channels and no
+00:19:09,960 --> 00:19:14,020
+It's an incredibly difficult thing to balance when you get to 20,000 people.
 
 214
-00:19:33,160 --> 00:19:40,440
- kind of different corners can't replicate that. Although I will say the last few posts on that
+00:19:14,020 --> 00:19:16,060
+You can't all share a sensibility.
 
 215
-00:19:40,440 --> 00:19:45,400
- group from my perspective have been from British con runners so I have been appreciating those
+00:19:16,060 --> 00:19:19,660
+And in a venue like,
 
 216
-00:19:45,400 --> 00:19:52,440
- quite a lot but I don't know what the main oofra is. I mean it's at times like this I really miss
+00:19:19,660 --> 00:19:20,200
+well,
 
 217
-00:19:52,440 --> 00:19:58,680
- live journal. I know live journal is still there but in terms of its fanish presence it hasn't been
+00:19:20,200 --> 00:19:23,660
+in a real convention where you can have different programming streams and
 
 218
-00:19:58,680 --> 00:20:04,520
- for years and years now but the communities and the different people's blogs were a very good
+00:19:23,660 --> 00:19:25,720
+different rooms and different corners of the bar,
 
 219
-00:20:04,520 --> 00:20:11,480
- way of emulating that kind of series of corners. Facebook just doesn't seem to do quite the same
+00:19:25,720 --> 00:19:29,000
+that works fine because not everyone has to share a sensibility.
 
 220
-00:20:11,480 --> 00:20:17,000
- things. I think that's going to be a problem for ending attempts to kind of have fanish
+00:19:29,000 --> 00:19:34,820
+But a Facebook group with no separate channels and no kind of different
 
 221
-00:20:17,000 --> 00:20:23,880
- activity online while we can't have face-to-face conventions. Seems like Facebook is not really
+00:19:34,820 --> 00:19:37,540
+corners can't replicate that.
 
 222
-00:20:23,880 --> 00:20:30,840
- the best space for it just because you can't scale to that many people and also it's so hard to see
+00:19:37,540 --> 00:19:38,040
+Well,
 
 223
-00:20:30,840 --> 00:20:36,680
- what's new, what you've read, what you've already seen before but someone's posted lol again and
+00:19:38,040 --> 00:19:42,360
+I will say the last few posts on that group from my perspective have been from
 
 224
-00:20:36,680 --> 00:20:42,760
- so it's popped up to the back you know the top of your feed again. I think it was obviously a great
+00:19:42,360 --> 00:19:43,320
+British comrunners.
 
 225
-00:20:42,760 --> 00:20:49,160
- thing to start at the time but I think it's going to be a useful lesson in how we do and don't run
+00:19:43,320 --> 00:19:46,240
+So I have been appreciating those quite a lot,
 
 226
-00:20:49,160 --> 00:20:54,040
- these things over the next six or twelve months while we can't have face-to-face meetings any
+00:19:46,240 --> 00:19:47,100
+but I don't know.
 
 227
-00:20:54,040 --> 00:21:02,040
- time. I know a lot of fanish activity happens over on Twitter as well but I think Twitter falls
+00:19:47,100 --> 00:19:50,220
+I don't know what the main oeuvre is.
 
 228
-00:21:02,040 --> 00:21:07,960
- into a lot of the same problems where if you if you follow mostly people in fandom you can
+00:19:50,220 --> 00:19:50,900
+I mean,
 
 229
-00:21:07,960 --> 00:21:12,920
- replicate that kind of fanish experience but if you've got quite a very Twitter timeline it doesn't
+00:19:50,900 --> 00:19:52,000
+it's at times like this,
 
 230
-00:21:13,560 --> 00:21:19,640
- do a good job of clumping everything together into coherent structures as it were.
+00:19:52,000 --> 00:19:53,220
+I really miss LiveJournal.
 
 231
-00:21:19,640 --> 00:21:26,440
- I also I really value longer form writing and although you can do this on Facebook to some
+00:19:53,220 --> 00:19:54,980
+I know LiveJournal is still there,
 
 232
-00:21:26,440 --> 00:21:30,280
- extent and you get quite good feedback don't get me wrong when you write in a longer form
+00:19:54,980 --> 00:19:57,760
+but in terms of its fanish presence,
 
 233
-00:21:30,280 --> 00:21:40,360
- it's not the same as fanzines or even the the longer form writing on live journal and Twitter is
+00:19:57,760 --> 00:20:00,500
+it hasn't been for years and years now,
 
 234
-00:21:40,360 --> 00:21:47,720
- really hopeless for this even though this whole I am now going to write a thread one of 48.
+00:20:00,500 --> 00:20:05,920
+but the communities and the different people's blogs were a very good way of
 
 235
-00:21:47,720 --> 00:21:54,520
- I think a lot of the efforts to long form writing on Twitter are putting a plaster over
+00:20:05,920 --> 00:20:08,580
+emulating that kind of series of corners.
 
 236
-00:21:54,520 --> 00:22:03,160
- some pretty big hurdles and I guess the size like Tumblr are not widely adopted enough.
+00:20:08,580 --> 00:20:12,160
+Facebook just doesn't seem to do quite the same things.
 
 237
-00:22:03,160 --> 00:22:08,840
- Well that's not true of of many fandoms but certainly the kind of Easter ongoing fandom has
+00:20:12,160 --> 00:20:16,780
+I think that's going to be a problem for any attempts to kind of have
 
 238
-00:22:08,840 --> 00:22:14,040
- never coalesced around Tumblr in the same way it did around live journal and so I think
+00:20:16,780 --> 00:20:21,260
+fanish activity online while we can't have face-to-face conventions.
 
 239
-00:22:14,040 --> 00:22:20,200
- I think you're right that the difficulty of doing long form discussions especially on Twitter but
+00:20:21,260 --> 00:20:25,500
+Seems like Facebook is not really the best space for it.
 
 240
-00:22:20,200 --> 00:22:27,640
- on Facebook as well is a real problem and I am wondering whether this will encourage fandom
+00:20:25,500 --> 00:20:29,180
+Just because you can't scale to that many people.
 
 241
-00:22:27,640 --> 00:22:33,000
- to discover better venues for that kind of interaction than we currently have but I don't
+00:20:29,180 --> 00:20:31,800
+And also it's so hard to see what's new,
 
 242
-00:22:33,000 --> 00:22:37,000
- I don't know because I don't know what options there are and how easy those venues are to find.
+00:20:31,800 --> 00:20:32,720
+what you've read,
 
 243
-00:22:37,800 --> 00:22:42,760
- I would say that Tumblr also is quite difficult for this kind of interaction
+00:20:32,720 --> 00:20:34,760
+what you've already seen before,
 
 244
-00:22:42,760 --> 00:22:47,080
- not because you can't post quite long post but the only way to really interact is to sort of
+00:20:34,760 --> 00:20:36,820
+but someone's posted lol again.
 
 245
-00:22:47,080 --> 00:22:51,960
- repost it with your own comments on and then the discussion just forks into a million different
+00:20:36,820 --> 00:20:38,000
+And so it's popped up to the back,
 
 246
-00:22:51,960 --> 00:22:56,440
- pathways and you can never follow them all. I think it's a good broadcast medium but not a
+00:20:38,000 --> 00:20:38,360
+you know,
 
 247
-00:22:56,440 --> 00:23:02,680
- good conversational one so I think that the choice is going to be do we find a medium which is
+00:20:38,360 --> 00:20:39,520
+the top of your feed again.
 
 248
-00:23:02,680 --> 00:23:07,800
- better suited to how we want to communicate or do we continue sort of lodging communication
+00:20:39,520 --> 00:20:45,020
+I think it was obviously a great thing to start at the time,
 
 249
-00:23:07,800 --> 00:23:13,800
- in the platforms that people are already on even though it doesn't work that well but I guess in
+00:20:45,020 --> 00:20:49,620
+but I think it's going to be a useful lesson in how we do and don't run these
 
 250
-00:23:13,800 --> 00:23:18,360
- the early days Twitter didn't even have @realise and hashtags people sort of came up with those
+00:20:49,620 --> 00:20:50,860
+things over the next,
 
 251
-00:23:18,360 --> 00:23:22,760
- on the fly and got them incorporated into the system so maybe someone will come up with a
+00:20:50,860 --> 00:20:51,360
+you know,
 
 252
-00:23:22,760 --> 00:23:28,040
- much better way of doing things on the platforms we already have. That is true and I should say
+00:20:51,360 --> 00:20:54,600
+six to 12 months while we can't have face-to-face meetings of any kind.
 
 253
-00:23:28,040 --> 00:23:34,200
- there are many people who do use Facebook and Twitter to engage in an awful lot of fan activity
+00:20:55,000 --> 00:21:00,060
+And I know a lot of fanish activity happens over on Twitter as well,
 
 254
-00:23:34,200 --> 00:23:39,480
- and I suppose it's entirely possible we will get letters of comments from those people
+00:21:00,060 --> 00:21:04,900
+but I think Twitter falls into a lot of the same problems where if you,
 
 255
-00:23:39,480 --> 00:23:46,200
- criticizing our take because I am aware that I'm on Twitter but I'm nowhere near as engaged as
+00:21:04,900 --> 00:21:07,640
+if you follow mostly people in fandom,
 
 256
-00:23:46,200 --> 00:23:51,320
- as some of the people on my timeline are and the same with Facebook. I think you Facebook a lot
+00:21:07,640 --> 00:21:10,160
+you can replicate that kind of fanish experience.
 
 257
-00:23:51,320 --> 00:23:56,600
- more than me Alison especially in terms of long form writing. I'm we're about to move on to how to
+00:21:10,160 --> 00:21:12,580
+But if you've got quite a varied Twitter timeline,
 
 258
-00:23:56,600 --> 00:24:01,320
- keep sane during an apocalypse. I think I may have noticed we were going to have an apocalypse
+00:21:12,580 --> 00:21:18,940
+it doesn't do a good job of clumping everything together into coherent structures,
 
 259
-00:24:01,320 --> 00:24:08,200
- likely before average and I started doing a lot of things around self-care. I'm a very
+00:21:18,940 --> 00:21:19,600
+as it were.
 
 260
-00:24:08,200 --> 00:24:15,560
- atheist person but I think spiritual self-care is incredibly important for people which is odd if
+00:21:19,600 --> 00:21:20,520
+I also,
 
 261
-00:24:15,560 --> 00:24:22,760
- you believe that we're all basically animals who will go into the dust so I've been doing a lot of
+00:21:20,520 --> 00:21:23,280
+I really value longer form writing.
 
 262
-00:24:22,760 --> 00:24:30,920
- meditating and a lot of journaling and a lot of that then becomes journaling on Facebook because
+00:21:23,760 --> 00:21:27,000
+And although you can do this on Facebook to some extent,
 
 263
-00:24:30,920 --> 00:24:35,640
- I write things that I can then share to a public audience or a near public audience.
+00:21:27,000 --> 00:21:28,120
+and you get quite good feedback.
 
 264
-00:24:35,640 --> 00:24:42,200
- Yeah because you've been trying to whittle away all of your earthly possessions or at the very least
+00:21:28,120 --> 00:21:30,540
+Don't get me wrong when you write in a longer form.
 
 265
-00:24:42,200 --> 00:24:48,200
- carefully examining what earthly possessions you need. Yeah that's just gone so wrong I've
+00:21:30,540 --> 00:21:39,980
+It's not the same as fanzines or even the longer form writing on LiveJournal.
 
 266
-00:24:48,200 --> 00:24:54,520
- just bought a pair of Joy-Cons but that's that's staying sane in the apocalypse that seems entirely
+00:21:39,980 --> 00:21:42,400
+And Twitter is really hopeless for this,
 
 267
-00:24:54,520 --> 00:25:01,480
- fair to me maybe this is why this does not work well for my personality type which is more things
+00:21:42,400 --> 00:21:43,960
+even though there's this whole,
 
 268
-00:25:01,480 --> 00:25:09,160
- loved things. And I ask what Joy-Cons are because they sound quite like sex toy. Switch controllers.
+00:21:43,960 --> 00:21:45,760
+I am now going to write a thread,
 
 269
-00:25:09,160 --> 00:25:15,320
- They are a sex toy they're the things that fit onto your switch two days ago Nintendo released
+00:21:45,760 --> 00:21:47,400
+one of 48.
 
 270
-00:25:15,320 --> 00:25:22,280
- Animal Crossing New Horizons which is the video game for our time you and your friends can build
+00:21:47,400 --> 00:21:52,520
+I think a lot of the efforts to do long form writing on Twitter are
 
 271
-00:25:22,280 --> 00:25:31,800
- a lovely island paradise where you pick fruit go for long walks do not observe social
+00:21:52,520 --> 00:21:57,240
+putting a plaster over some pretty big hurdles.
 
 272
-00:25:31,800 --> 00:25:37,320
- distance and conventions I started to play it using my son's switch and I was like but this is
+00:21:57,240 --> 00:22:03,060
+And I guess the sites like Tumblr are not widely adopted enough.
 
 273
-00:25:37,320 --> 00:25:43,400
- hopeless and he said this is Joy-Con drift which is a thing apparently and I was like well
+00:22:03,060 --> 00:22:03,640
+Well,
 
 274
-00:25:43,400 --> 00:25:49,640
- your joysticks don't work and he was like no I need new ones but I can't afford 62.99 so.
+00:22:03,640 --> 00:22:05,060
+that's not true of,
 
 275
-00:25:49,640 --> 00:25:55,480
- So to stay sane you have bought switch controllers and Liz you have purchased a PlayStation 4
+00:22:05,060 --> 00:22:06,460
+of many fandoms,
 
 276
-00:25:55,480 --> 00:26:02,760
- and acquired a much larger television. Yes I should say it was actually coincidental that my
+00:22:06,460 --> 00:22:10,880
+but certainly the kind of Easter Kong going fandom has never coalesced around
 
 277
-00:26:02,760 --> 00:26:07,560
- television which is in my rented flat and so I don't own it basically went tits up at the same
+00:22:10,880 --> 00:22:13,080
+Tumblr in the same way it did around LiveJournal.
 
 278
-00:26:07,560 --> 00:26:12,440
- time I bought a PlayStation and it got instantly replaced with one about twice the size.
+00:22:13,080 --> 00:22:14,020
+And so I think,
 
 279
-00:26:12,440 --> 00:26:18,920
- It was quite fortuitous really I think it's about 55 inches kind of my sex tape obviously.
+00:22:14,020 --> 00:22:18,460
+I think you're right that the difficulty of doing long form discussions,
 
 280
-00:26:18,920 --> 00:26:25,960
- Family show Liz family show and that is what as mathematicians call exponential growth.
+00:22:18,460 --> 00:22:20,240
+especially on Twitter,
 
 281
-00:26:25,960 --> 00:26:33,320
- No I look greatly in which my life where I spend most of it you know sitting in between the same
+00:22:20,240 --> 00:22:21,440
+but on Facebook as well,
 
 282
-00:26:33,320 --> 00:26:38,840
- four walls because I don't know the fact that people are almost people sized on it seems to
+00:22:21,440 --> 00:22:22,340
+is a real,
 
 283
-00:26:38,840 --> 00:26:44,280
- make a huge difference. I hadn't thought of that but that is interesting if you buy a
+00:22:22,340 --> 00:22:22,900
+problem.
 
 284
-00:26:44,280 --> 00:26:51,080
- television large enough to have people sized people on it does that make you subconsciously feel
+00:22:22,900 --> 00:22:30,060
+And I am wondering whether this will encourage fandom to discover better venues for that kind
 
 285
-00:26:51,080 --> 00:26:58,520
- less lonely I don't know. When my daughter started at university we got into the habit of just
+00:22:30,060 --> 00:22:32,580
+of interaction than we currently have.
 
 286
-00:26:58,520 --> 00:27:05,640
- leaving Skype video on for hours on end and I thought about the future this is back when I
+00:22:32,580 --> 00:22:33,280
+But I don't,
 
 287
-00:27:05,640 --> 00:27:11,720
- thought that the future would be good and I assumed we'd all have essentially video walls and you just
+00:22:33,280 --> 00:22:37,240
+I don't know because I don't know what options there are and how easy those venues are to find.
 
 288
-00:27:11,720 --> 00:27:17,320
- set up permanent video links to all of the people that you care about on your video.
+00:22:37,720 --> 00:22:42,500
+I would say that Tumblr also is quite difficult for this kind of interaction.
 
 289
-00:27:17,320 --> 00:27:22,200
- I should say we have been in lockdown for about 24 hours here so I'm not quite as
+00:22:42,500 --> 00:22:43,000
+discussion.
 
 290
-00:27:22,200 --> 00:27:25,400
- starved as human contact as I will be in 12 weeks time.
+00:22:43,000 --> 00:22:44,940
+Not because you can't post quite long posts,
 
 291
-00:27:25,400 --> 00:27:32,280
- That's fair my work advised us to work from home from and they just gone so I'm at the end of my
+00:22:44,940 --> 00:22:49,180
+but the only way to really interact is to sort of repost it with your own comments on.
 
 292
-00:27:32,280 --> 00:27:37,880
- first week of lockdown and I don't know how long you've been
+00:22:49,180 --> 00:22:53,980
+And then the discussion just forks into a million different pathways and you can never follow them all.
 
 293
-00:27:37,880 --> 00:27:42,520
- locked down for Alison at the moment. I've been working from home for about four years
+00:22:54,420 --> 00:22:55,980
+I think it's a good broadcast medium,
 
 294
-00:27:42,520 --> 00:27:50,280
- but my family are also working from home and my house turns out to be quite small
+00:22:55,980 --> 00:22:56,300
+I think it's a good broadcast medium,
 
 295
-00:27:50,280 --> 00:27:55,720
- if everyone's trying to work from home and it wants that's a real problem for us so my
+00:22:56,300 --> 00:22:58,000
+but not a good conversational one.
 
 296
-00:27:55,720 --> 00:28:00,760
- my week has been having much about home much more if you can contact them normal.
+00:22:58,000 --> 00:23:00,720
+So I think that the choice is going to be,
 
 297
-00:28:00,760 --> 00:28:04,680
- We're still also walking out every day at the moment we can go to parks we can go
+00:23:00,720 --> 00:23:05,020
+do we find a medium which is better suited to how we want to communicate?
 
 298
-00:28:04,680 --> 00:28:10,920
- anywhere but that's I think isn't that by next Friday that will have stopped I'm sure.
+00:23:05,280 --> 00:23:09,880
+Or do we continue sort of bobging communication in the platforms that people are already on,
 
 299
-00:28:10,920 --> 00:28:17,320
- I stopped doing main social interaction from Wednesday last week because it was obvious that
+00:23:09,880 --> 00:23:12,460
+even though it doesn't work that well?
 
 300
-00:28:17,320 --> 00:28:22,440
- it was going to be necessary. Yeah that's fair. This is very depressing John we need less depressing
+00:23:12,460 --> 00:23:14,720
+But I guess in the early days,
 
 301
-00:28:22,440 --> 00:28:28,600
- death stuff in our podcast and more jokes. That's fair that works. Lots of people are putting
+00:23:14,720 --> 00:23:16,820
+Twitter didn't even have at replies and hashtags.
 
 302
-00:28:28,600 --> 00:28:35,800
- entertainment online. Yes yes. So lots of games are free. The metropolitan opera and the royal opera
+00:23:16,820 --> 00:23:21,120
+People sort of came up with those on the fly and got them incorporated into the system.
 
 303
-00:28:35,800 --> 00:28:43,640
- house have an opera every night. You can go and stream there's loads of television. I'm already
+00:23:21,520 --> 00:23:25,720
+So maybe someone will come up with a much better way of doing things on the platforms we already have.
 
 304
-00:28:43,640 --> 00:28:50,760
- in television bankruptcy so Disney+ launches in two days time in the UK. It's a lot large in two
+00:23:25,720 --> 00:23:27,160
+That is true.
 
 305
-00:28:50,760 --> 00:28:55,960
- days time for the Asia region. I'm very grumpy about that. How long do you have to wait?
+00:23:27,160 --> 00:23:34,320
+And I should say there are many people who do use Facebook and Twitter to engage in an awful lot of fan activity.
 
 306
-00:28:55,960 --> 00:29:02,440
- We don't have a firm day. I think they said spring 2021 or maybe it was pulled forward to autumn 2020.
+00:23:34,320 --> 00:23:39,780
+And I suppose it's entirely possible we will get letters of comments from those people
 
 307
-00:29:02,440 --> 00:29:07,400
- Maybe they will pull it forward now all the theme parks are closed and no one's going to
+00:23:39,780 --> 00:23:44,200
+criticising our take, because I am aware that I'm on Twitter,
 
 308
-00:29:07,400 --> 00:29:12,920
- the cinema because that will get them more cash but it will have to wait and see.
+00:23:44,200 --> 00:23:48,360
+but I'm nowhere near as engaged as some of the people on my timeline are.
 
 309
-00:29:12,920 --> 00:29:18,600
- All of the streaming services are reducing bandwidth so they're reducing quality on the service
+00:23:48,360 --> 00:23:49,900
+And the same with Facebook.
 
 310
-00:29:18,600 --> 00:29:25,800
- which seems fine to me. Because you're about to have a huge uptick in the amount of streaming so that
+00:23:50,200 --> 00:23:54,360
+I think you Facebook a lot more than me, Alison, especially in terms of long form writing.
 
 311
-00:29:25,800 --> 00:29:32,200
- I think makes a lot of sense. I'm also a child of the video age. I remember VHS. I remember
+00:23:54,360 --> 00:23:58,200
+We're about to move on to how to keep sane during an apocalypse.
 
 312
-00:29:32,200 --> 00:29:39,560
- long play recording on VHS. I remember long play recording on VHS. It's not that ancient.
+00:23:58,200 --> 00:24:03,280
+I think I may have noticed we were going to have an apocalypse slightly before average.
 
 313
-00:29:39,560 --> 00:29:44,920
- Yeah so the quality was not that good but we coped right? We did cope but I also remember
+00:24:03,280 --> 00:24:07,740
+And I started doing a lot of things around self-care.
 
 314
-00:29:44,920 --> 00:29:51,960
- bit torrenting TV in the smallest possible files. Actually not bit torrent. Probably before bit torrent.
+00:24:07,740 --> 00:24:15,020
+I'm a very atheist person, but I think spiritual self-care is incredibly important for people,
 
 315
-00:29:51,960 --> 00:29:56,440
- Downloading TV in the smallest possible files so I can get away with them on my back.
+00:24:15,020 --> 00:24:19,360
+which is hard if you believe that we're all basically animals who will
 
 316
-00:29:56,440 --> 00:30:06,440
- And you know we just live with it. Okay boomers. These people today. Obviously I have never
+00:24:19,360 --> 00:24:20,880
+go into the dust.
 
 317
-00:30:06,440 --> 00:30:13,640
- bit torrented or downloaded anything. I have no idea at all what you're talking about obviously.
+00:24:20,880 --> 00:24:24,960
+So I've been doing a lot of meditating and a lot of journaling.
 
 318
-00:30:13,640 --> 00:30:18,520
- This is a golden opportunity to catch up with all of the TV shows that I have been letting.
+00:24:24,960 --> 00:24:30,300
+And a lot of that then becomes journaling on Facebook,
 
 319
-00:30:18,520 --> 00:30:24,120
- Lacking. I am approaching the season three finale of Buffy which gives you an idea of how
+00:24:30,300 --> 00:24:35,520
+because I write things that I can then share to a public audience or a near public audience.
 
 320
-00:30:24,120 --> 00:30:32,600
- behind I am. And I've also been playing a lot of board games. A bunch of print and play board games
+00:24:35,520 --> 00:24:46,040
+Yeah, because you've been trying to whittle away all of your earthly possessions or at the very least carefully examining what earthly possessions you need.
 
 321
-00:30:32,600 --> 00:30:40,120
- have been made available for free online. I contributed to a GoFundMe for a gaming podcast I
+00:24:46,040 --> 00:24:48,280
+Yeah, that's just gone so wrong.
 
 322
-00:30:40,120 --> 00:30:44,440
- listened to who has some contributors who are struggling to stay afloat at the moment.
+00:24:48,280 --> 00:24:50,240
+I've just bought a pair of Joy-Cons.
 
 323
-00:30:44,440 --> 00:30:50,360
- And they've been giving free games to people who donate. And so I put a couple of links in the
+00:24:50,240 --> 00:24:53,040
+But that's staying sane in the apocalypse.
 
 324
-00:30:50,360 --> 00:30:55,480
- show notes to a couple of free games I've been thoroughly enjoying over the last few days.
+00:24:53,040 --> 00:24:55,340
+That seems entirely fair to me.
 
 325
-00:30:55,480 --> 00:31:01,960
- And I also spent most of this weekend playing the DLC for Horizon Zero Dawn on PS4 which I
+00:24:55,580 --> 00:25:02,800
+Maybe this is why this does not work well for my personality type, which is more things love things.
 
 326
-00:31:01,960 --> 00:31:08,120
- had no idea got around to and I am thoroughly enjoying. Have you started playing your PlayStation
+00:25:02,800 --> 00:25:07,400
+And I ask what Joy-Cons are because they sound quite like a sex toy.
 
 327
-00:31:08,120 --> 00:31:15,240
- Atlas? I have. It came with a free copy of The Last of Us which obviously is a near future
+00:25:07,400 --> 00:25:08,940
+Switch controllers.
 
 328
-00:31:15,240 --> 00:31:22,680
- dystopia after a pandemic has taken hold. And then as a chain from that I got a game with no
+00:25:09,420 --> 00:25:10,740
+They are a sex toy.
 
 329
-00:31:22,680 --> 00:31:27,960
- shooting involved. So I bought everybody's gone to the Rapture which is a game about wandering
+00:25:10,740 --> 00:25:12,880
+They're the things that fit onto your Switch.
 
 330
-00:31:27,960 --> 00:31:33,960
- around a structure village in the 1980s after everyone has been raptured in some way after that
+00:25:12,880 --> 00:25:20,360
+Two days ago, Nintendo released Animal Crossing New Horizons, which is the video game for our time.
 
 331
-00:31:33,960 --> 00:31:38,120
- and they've closed all the roads because they're saying it was a flu pandemic. So I picked really
+00:25:20,360 --> 00:25:29,920
+You and your friends can build a lovely island paradise where you pick fruit, go for long walks,
 
 332
-00:31:38,120 --> 00:31:44,280
- the worst possible games to start my PS4 gaming experience with. I've got to try something more
+00:25:29,920 --> 00:25:33,080
+do not observe social distancing conventions.
 
 333
-00:31:44,280 --> 00:31:50,840
- jolly for next week. So obviously reading's also an option and I'm currently reading The Journal of
+00:25:33,580 --> 00:25:37,960
+I started to play it using my son's Switch and I was like, but this is hopeless.
 
 334
-00:31:50,840 --> 00:31:57,640
- the Plague Year by Daniel DeFoe which turns out to be very it has a lot of messages for our times.
+00:25:37,960 --> 00:25:42,180
+And he said, this is Joy-Con drift, which is a thing, apparently.
 
 335
-00:31:58,200 --> 00:32:05,320
- Is everyone buying toilet paper in Thailand? So not so far. I mean there were stacks and stacks of it
+00:25:42,180 --> 00:25:44,920
+And I was like, but your joysticks don't work.
 
 336
-00:32:05,320 --> 00:32:10,680
- when I went to shops today but also my supermarket has not been hit by shortages. Really the buying
+00:25:44,920 --> 00:25:49,000
+And he was like, no, I need new ones, but I can't afford £62.99.
 
 337
-00:32:10,680 --> 00:32:16,600
- has just started because they've closed all the restaurants out of this weekend. But also I've
+00:25:49,000 --> 00:25:53,020
+So to stay sane, you have bought Switch controllers.
 
 338
-00:32:16,600 --> 00:32:22,440
- got a B-day sprayer and every toilet in Thailand has a B-day sprayer. Are you aware of these?
+00:25:53,020 --> 00:25:59,420
+And Liz, you have purchased a PlayStation 4 and acquired a much larger television.
 
 339
-00:32:22,440 --> 00:32:29,160
- Do you want to describe them for the listeners who aren't? So the best description I've heard of
+00:25:59,640 --> 00:26:05,100
+Yes, I should say it was actually coincidental that my television, which is in my rented flat,
 
 340
-00:32:29,160 --> 00:32:37,240
- these is that your toilet pees back. So it's not a B-day seat but basically it's just like
+00:26:05,100 --> 00:26:08,840
+and so I don't own it, basically went tits up at the same time I bought a PlayStation
 
 341
-00:32:37,240 --> 00:32:43,800
- a sort of showers break on on a hose with the idea being that you can like wash things up a bit
+00:26:08,840 --> 00:26:12,360
+and it got instantly replaced with one about twice the size.
 
 342
-00:32:43,800 --> 00:32:49,480
- and then usually like wipe and so on but in an emergency you'd probably be okay.
+00:26:12,360 --> 00:26:13,900
+It was quite fortuitous, really.
 
 343
-00:32:50,600 --> 00:32:56,520
- So that may be behind the lack of panic buying of lural so far. I'll keep you updated on the
+00:26:13,900 --> 00:26:16,300
+I think it's about 55 inches.
 
 344
-00:32:56,520 --> 00:33:03,480
- lural status as we go along. Thank you very much. On the subject of books I am reading The
+00:26:16,300 --> 00:26:19,060
+Title of my sex tape, obviously.
 
 345
-00:33:03,480 --> 00:33:11,720
- Laundry Files by Charlie Stross. I am reading the most recent I think which takes place in a UK
+00:26:19,060 --> 00:26:21,360
+Family show, Liz.
 
 346
-00:33:11,720 --> 00:33:20,520
- after the government has been supplanted by a literal elder one. So it's not quite as relevant
+00:26:21,360 --> 00:26:22,240
+Family show.
 
 347
-00:33:20,520 --> 00:33:27,400
- as the reading material you two are reading but it's still not a barrel of laughs. I'm also not
+00:26:22,240 --> 00:26:25,960
+And that is what, as mathematicians call, exponential growth.
 
 348
-00:33:27,400 --> 00:33:31,640
- sure whether I'm going to be able to return it to the library anytime soon because it is now over to
+00:26:26,220 --> 00:26:31,980
+No, I think it would greatly enrich my life where I spend most of it, you know,
 
 349
-00:33:31,640 --> 00:33:37,560
- you. My library has automatically extended return dates till the end of April so you should check.
+00:26:31,980 --> 00:26:34,200
+sitting in between the same four walls.
 
 350
-00:33:37,560 --> 00:33:43,560
- Oh that's really good. From the library I have the audiobook of Hillary Mantell's The Mirror and
+00:26:34,200 --> 00:26:39,240
+Because, I don't know, the fact that people are almost people-sized on it seems to make
 
 351
-00:33:43,560 --> 00:33:52,040
- The Light all 78 hours of it so that's keeping me busy and also from the library I have Europe
+00:26:39,240 --> 00:26:39,880
+a huge difference.
 
 352
-00:33:52,040 --> 00:33:57,800
- in Autumn by Dave Hutchison which apparently there was a pandemic in that one as well but people
+00:26:39,880 --> 00:26:43,580
+I hadn't thought of that, but that is interesting.
 
 353
-00:33:57,800 --> 00:34:03,560
- have been recommending the Europe books to me for years so I'm quite pleased to finally be getting to
+00:26:43,580 --> 00:26:47,980
+If you buy a television large enough to have people-sized people on it,
 
 354
-00:34:03,560 --> 00:34:08,840
- read them. I have bought a book on the Great Flu pandemic of 1918 but I have not brought myself
+00:26:47,980 --> 00:26:52,040
+does that make you subconsciously feel less lonely?
 
 355
-00:34:08,840 --> 00:34:14,200
- to start that one yet and maybe I shouldn't while I am home alone I might stick to more
+00:26:52,040 --> 00:26:52,840
+I don't know.
 
 356
-00:34:14,200 --> 00:34:21,640
- theory reading. I said I'm reading Bare Face Messiah which is the biography of Elrond Hubbard.
+00:26:53,360 --> 00:27:00,120
+When my daughter started at university, we got into the habit of just leaving Skype video
 
 357
-00:34:21,640 --> 00:34:28,600
- Oh okay. Which I believe got its author followed about by Scientology for many many years.
+00:27:00,120 --> 00:27:01,960
+on for hours on end.
 
 358
-00:34:28,600 --> 00:34:35,720
- I have no opinions on Scientology while I'm on this podcast. I also have no opinions on Scientology
+00:27:01,960 --> 00:27:04,600
+And I thought about the future.
 
 359
-00:34:35,720 --> 00:34:41,000
- and opinions on obviously bit torrenting. I just have strong feelings on B-day sprayers.
+00:27:04,600 --> 00:27:07,440
+This is back when I thought that the future would be good.
 
 360
-00:34:41,000 --> 00:34:48,440
- I have just checked and my library has extended my book reservation. I can exclusively reveal
+00:27:07,440 --> 00:27:11,340
+And I assumed we'd all have, essentially, video walls.
 
 361
-00:34:48,440 --> 00:34:54,840
- I am reading The Labyrinth Index and yes I have until the 17th of June to read it now so they've
+00:27:11,340 --> 00:27:17,460
+And you'd just set up permanent video links to all of the people that you care about on your video wall.
 
 362
-00:34:54,840 --> 00:35:01,640
- extended that by three months. Hopefully that is pessimistic but we shall see. I am very lucky
+00:27:17,460 --> 00:27:21,220
+I should say we have been in lockdown for about 24 hours here.
 
 363
-00:35:01,640 --> 00:35:08,360
- my local library does a very good genre selection. I was able to borrow some of the Hugo finalists
+00:27:21,220 --> 00:27:25,400
+So I'm not quite as starved as human contact as I will be in 12 weeks' time.
 
 364
-00:35:08,360 --> 00:35:16,920
- last year. So just before we wrap up what would you say your one top tip for surviving the apocalypse
+00:27:25,400 --> 00:27:26,260
+That's fair.
 
 365
-00:35:16,920 --> 00:35:23,160
- is? I don't know yet honestly I think I need more time in isolation to develop those habits.
+00:27:26,260 --> 00:27:31,080
+My work advised us to work from home from Monday just gone.
 
 366
-00:35:23,160 --> 00:35:29,800
- I have started doing online YouTube workouts in which a cheery guy tells me you know to push it
+00:27:31,080 --> 00:27:34,780
+So I'm at the end of my first week of lockdown.
 
 367
-00:35:29,800 --> 00:35:35,400
- to the max and we're going to push through this and every workout is a step towards your goal
+00:27:34,780 --> 00:27:40,040
+And I don't know how long you've been locked down for, Alison, at the moment.
 
 368
-00:35:35,400 --> 00:35:41,640
- and it turns out I quite like that at this point in time. At the moment my life is very much
+00:27:40,300 --> 00:27:42,780
+I've been working from home for about four years.
 
 369
-00:35:41,640 --> 00:35:47,400
- I think if you do live with other people spending time working out how you're going to
+00:27:42,780 --> 00:27:46,720
+But my family are also working from home.
 
 370
-00:35:47,400 --> 00:35:53,480
- share your space differently I think is going to be very key to staying sane and has been a very
+00:27:46,720 --> 00:27:53,840
+And my house turns out to be quite small if everyone's trying to work from home in it at once.
 
 371
-00:35:53,480 --> 00:35:59,560
- big part of our week. While I can I'm getting out every day because I'm fairly sure I will not be
+00:27:53,840 --> 00:27:55,540
+That's a real problem for us.
 
 372
-00:35:59,560 --> 00:36:05,880
- able to get out every day in another week or so I'm thinking of taking up gardening.
+00:27:55,540 --> 00:28:00,720
+So my week has been about having much more human contact than normal.
 
 373
-00:36:05,880 --> 00:36:13,160
- What sort of world are we in where things like walks and gardening and jigsaw seem like sensible
+00:28:01,000 --> 00:28:03,360
+We're still also walking out every day at the moment.
 
 374
-00:36:13,160 --> 00:36:21,320
- uses of anyone's time? My wife has in fact mostly been gardening and doing jigsaw puzzles both of
+00:28:03,360 --> 00:28:04,420
+We can go to parks.
 
 375
-00:36:21,320 --> 00:36:27,720
- which are activities she loves so she has been very happy. I do think the siloing of personal space
+00:28:04,420 --> 00:28:06,360
+We can go anywhere.
 
 376
-00:36:27,720 --> 00:36:32,680
- and being very strict about that has helped me in a span near a lot over the last week.
+00:28:06,360 --> 00:28:09,040
+But that, I think, isn't...
 
 377
-00:36:32,680 --> 00:36:39,160
- So that brings us to the end of the first episode of the Octa Thor podcast. Thank you very much
+00:28:09,040 --> 00:28:10,840
+By next Friday, that'll have stopped, I'm sure.
 
 378
-00:36:39,160 --> 00:36:45,640
- for listening to episode one. I think the lifeblood of a podcast is the interaction with our listeners
+00:28:10,840 --> 00:28:18,540
+I stopped doing main social interaction from Wednesday last week because it was obvious that it was going to be necessary.
 
 379
-00:36:45,640 --> 00:36:50,360
- and obviously we don't actually have any listeners so if you're listening to this we really want
+00:28:18,540 --> 00:28:19,740
+Yeah, that's fair.
 
 380
-00:36:50,360 --> 00:36:56,600
- you to know what you think of the podcast and what we should be doing better and what you think
+00:28:19,740 --> 00:28:21,300
+This is very depressing, John.
 
 381
-00:36:56,600 --> 00:37:00,520
- about the topics we've covered and what topics we ought to be covering next time.
+00:28:21,300 --> 00:28:25,380
+We need less depressing death stuff in our podcast and more jokes.
 
 382
-00:37:00,520 --> 00:37:05,480
- And you know get another ground floor before we become a big deal and we won't pay any attention
+00:28:25,380 --> 00:28:26,280
+That's fair.
 
 383
-00:37:05,480 --> 00:37:10,440
- to your feedback obviously now is the best time to send a selector. No cut there that's a line.
+00:28:26,280 --> 00:28:27,140
+That works.
 
 384
-00:37:10,440 --> 00:37:17,560
- Oh and if you're interested in sponsoring the podcast we have sponsorship spots right.
+00:28:27,140 --> 00:28:30,000
+Lots of people are putting entertainment online.
 
 385
-00:37:17,560 --> 00:37:26,200
- Oh wow okay yeah so we're super keen to hear what people think what people think we
+00:28:30,000 --> 00:28:31,240
+Yes, yes.
 
 386
-00:37:26,200 --> 00:37:30,840
- can do better what people think about the topics we've covered what people think we're doing well.
+00:28:31,240 --> 00:28:33,580
+So lots of games are free.
 
 387
-00:37:30,840 --> 00:37:37,720
- So please send us letters and clips of comment. That brings us to the end of episode one of the
+00:28:33,580 --> 00:28:37,500
+The Metropolitan Opera and the Royal Opera House have an opera every night.
 
 388
-00:37:37,720 --> 00:37:42,760
- Octa Thor podcast. I'd like to thank my co-host Liz Matty and I as a Scott for joining me. If you'd
+00:28:37,500 --> 00:28:39,620
+You can go and stream.
 
 389
-00:37:42,760 --> 00:37:50,200
- like to send letters or clips of comment to us please email OctaThorpcast@gmail.com. If you'd like to
+00:28:39,620 --> 00:28:42,320
+There's loads of television.
 
 390
-00:37:50,200 --> 00:37:57,400
- tweet about us or use other social media then hashtag OctaThorpcast and we will see you in episode two.
+00:28:42,320 --> 00:28:45,080
+I'm already in television bankruptcy.
 
 391
-00:37:57,400 --> 00:38:01,720
- So for now it's bye from me and it's goodbye from me and it's goodbye from me.
+00:28:45,080 --> 00:28:49,800
+So Disney Plus launches in two days' time in the UK.
 
 392
-00:38:01,720 --> 00:38:05,480
- Nailed it.
+00:28:49,800 --> 00:28:52,500
+There's a lot launch in two days' time for the Asia region.
+
+393
+00:28:52,500 --> 00:28:54,200
+I'm very grumpy about that.
+
+394
+00:28:54,200 --> 00:28:55,800
+How long do you have to wait?
+
+395
+00:28:55,800 --> 00:28:57,860
+We don't have a firm day.
+
+396
+00:28:57,860 --> 00:28:59,860
+I think they said spring 2021.
+
+397
+00:28:59,860 --> 00:29:02,360
+Or maybe it was pulled forward to autumn 2020.
+
+398
+00:29:02,360 --> 00:29:10,280
+Maybe they will pull it forward now all the theme parks are closed and no one's going to the cinema because that will get them more cash.
+
+399
+00:29:10,280 --> 00:29:12,840
+But we'll have to wait and see.
+
+400
+00:29:13,260 --> 00:29:16,120
+All of the streaming services are reducing bandwidth.
+
+401
+00:29:16,120 --> 00:29:20,760
+So they're reducing quality on the service, which seems fine to me.
+
+402
+00:29:20,760 --> 00:29:25,280
+Because you're about to have a huge uptick in the amount of streaming.
+
+403
+00:29:25,280 --> 00:29:27,540
+So that, I think, makes a lot of sense.
+
+404
+00:29:27,540 --> 00:29:30,080
+I'm also a child of the video age.
+
+405
+00:29:30,080 --> 00:29:31,440
+I remember VHS.
+
+406
+00:29:31,680 --> 00:29:34,540
+I remember long play recording on VHS.
+
+407
+00:29:34,540 --> 00:29:37,800
+I remember long play recording on VHS, Alison.
+
+408
+00:29:37,800 --> 00:29:39,420
+It's not that ancient.
+
+409
+00:29:39,420 --> 00:29:40,060
+Yeah.
+
+410
+00:29:40,060 --> 00:29:42,860
+So the quality was not that good, but we coped, right?
+
+411
+00:29:42,860 --> 00:29:43,940
+We did cope.
+
+412
+00:29:43,940 --> 00:29:49,360
+But I also remember BitTorrenting TV in the smallest possible files.
+
+413
+00:29:49,360 --> 00:29:50,400
+Actually, not BitTorrent.
+
+414
+00:29:50,400 --> 00:29:51,820
+Probably before BitTorrent.
+
+415
+00:29:51,820 --> 00:29:56,720
+Downloading TV in the smallest possible files so that I could get away with them on my band.
+
+416
+00:29:57,520 --> 00:29:59,860
+And, you know, we just live with it.
+
+417
+00:29:59,860 --> 00:30:01,320
+Okay, boomers.
+
+418
+00:30:01,320 --> 00:30:03,800
+These people today.
+
+419
+00:30:03,800 --> 00:30:09,500
+Obviously, I have never BitTorrented or downloaded anything.
+
+420
+00:30:09,500 --> 00:30:13,440
+I have no idea at all what you're talking about, obviously.
+
+421
+00:30:13,440 --> 00:30:18,720
+This is a golden opportunity to catch up with all of the TV shows that I have been lacking.
+
+422
+00:30:18,720 --> 00:30:26,540
+I'm approaching the season three finale of Buffy, which gives you an idea of how behind I am.
+
+423
+00:30:26,800 --> 00:30:29,900
+And I've also been playing a lot of board games.
+
+424
+00:30:29,900 --> 00:30:35,020
+A bunch of print and play board games have been made available for free online.
+
+425
+00:30:35,020 --> 00:30:44,340
+I contributed to a GoFundMe for a gaming podcast I listen to who has some contributors who are struggling to stay afloat at the moment.
+
+426
+00:30:44,340 --> 00:30:47,820
+And they've been giving free games to people who donate.
+
+427
+00:30:48,240 --> 00:30:55,700
+And so I put a couple of links in the show notes to a couple of free games I've been thoroughly enjoying over the last few days.
+
+428
+00:30:55,700 --> 00:31:03,700
+And I also spent most of this weekend playing the DLC for Horizon Zero Dawn on PS4, which I had not yet got round to.
+
+429
+00:31:03,700 --> 00:31:05,760
+And I am thoroughly enjoying it.
+
+430
+00:31:05,760 --> 00:31:08,860
+Have you started playing your PlayStation yet, Liz?
+
+431
+00:31:09,100 --> 00:31:09,600
+I have.
+
+432
+00:31:09,600 --> 00:31:19,200
+It came with a free copy of The Last of Us, which obviously is a near future dystopia after a pandemic has taken hold.
+
+433
+00:31:19,200 --> 00:31:23,880
+And then as a change from that, I got a game with no shooting involved.
+
+434
+00:31:24,360 --> 00:31:33,720
+So I bought Everybody's Gone to the Rapture, which is a game about wandering around a Shropshire village in the 1980s after everyone has been raptured in some way.
+
+435
+00:31:33,720 --> 00:31:36,980
+And they've closed all the roads because they're saying it was a flu pandemic.
+
+436
+00:31:37,420 --> 00:31:42,540
+So I picked really the worst possible games to start my PS4 gaming experience with.
+
+437
+00:31:42,540 --> 00:31:45,540
+I've got to try something more jolly for next week.
+
+438
+00:31:45,540 --> 00:31:48,340
+So obviously reading's also an option.
+
+439
+00:31:48,340 --> 00:31:55,700
+And I'm currently reading The Journal of the Plague Year by Daniel Defoe, which turns out to be very...
+
+440
+00:31:55,700 --> 00:31:57,940
+It has a lot of messages for our times.
+
+441
+00:31:57,940 --> 00:32:01,560
+Is everyone buying toilet paper in Thailand, Liz?
+
+442
+00:32:01,560 --> 00:32:03,600
+So not so far.
+
+443
+00:32:03,600 --> 00:32:09,240
+I mean, there were stacks and stacks of it when I went to the shops today, but also my supermarket has not been hit by shortages.
+
+444
+00:32:09,240 --> 00:32:14,360
+Really, the buying has just started because they've closed all the restaurants as of this weekend.
+
+445
+00:32:14,360 --> 00:32:18,120
+But also, I've got a bidet sprayer.
+
+446
+00:32:18,120 --> 00:32:21,000
+And every toilet in Thailand has a bidet sprayer.
+
+447
+00:32:21,000 --> 00:32:22,280
+Are you aware of these?
+
+448
+00:32:22,280 --> 00:32:26,120
+Do you want to describe them for the listeners who aren't?
+
+449
+00:32:26,120 --> 00:32:32,020
+So the best description I've heard of these is that your toilet pees back.
+
+450
+00:32:32,020 --> 00:32:44,000
+So it's not a bidet seat, but basically it's just like a sort of shower spray gun on a hose with the idea being that you can wash things up a bit.
+
+451
+00:32:44,000 --> 00:32:45,980
+And then usually wipe and so on.
+
+452
+00:32:45,980 --> 00:32:49,780
+But in an emergency, you'd probably be okay.
+
+453
+00:32:49,780 --> 00:32:55,580
+So that may be behind the lack of panic buying of Lurol so far.
+
+454
+00:32:55,580 --> 00:32:58,760
+I'll keep you updated on the Lurol status as we go along.
+
+455
+00:32:58,980 --> 00:32:59,860
+Thank you very much.
+
+456
+00:32:59,860 --> 00:33:05,840
+So on the subject of books, I am reading The Laundry Files by Charlie Strauss.
+
+457
+00:33:05,840 --> 00:33:17,180
+I'm reading the most recent, I think, which takes place in a UK after the government has been supplanted by a literal elder one.
+
+458
+00:33:17,180 --> 00:33:22,700
+So it's not quite as relevant as the reading material you two are reading.
+
+459
+00:33:22,920 --> 00:33:25,980
+But it's still not a barrel of laughs.
+
+460
+00:33:25,980 --> 00:33:32,100
+I'm also not sure whether I'm going to be able to return it to the library anytime soon because it is now overdue.
+
+461
+00:33:32,100 --> 00:33:36,420
+My library has automatically extended return dates till the end of April.
+
+462
+00:33:36,420 --> 00:33:37,640
+So you should check.
+
+463
+00:33:37,640 --> 00:33:38,940
+Oh, that's really good.
+
+464
+00:33:38,940 --> 00:33:46,880
+From the library, I have the audio book of Hilary Mantel's The Mirror and the Light, all 78 hours of it.
+
+465
+00:33:47,760 --> 00:33:49,460
+So that's keeping me busy.
+
+466
+00:33:49,460 --> 00:33:57,220
+And also from the library, I have Europe in Autumn by Dave Hutcherson, which apparently there was a pandemic in that one as well.
+
+467
+00:33:57,220 --> 00:34:01,280
+But people have been recommending the Europe books to me for years.
+
+468
+00:34:01,280 --> 00:34:04,180
+So I'm quite pleased to finally be getting to read them.
+
+469
+00:34:04,780 --> 00:34:10,320
+I have bought a book on the great flu pandemic of 1918, but I have not brought myself to start that one yet.
+
+470
+00:34:10,320 --> 00:34:13,340
+And maybe I shouldn't while I am, you know, home alone.
+
+471
+00:34:13,340 --> 00:34:15,060
+I might stick to more cheery reading.
+
+472
+00:34:15,060 --> 00:34:21,540
+Instead, I'm reading Barefaced Messiah, which is the biography of L. Ron Hubbard.
+
+473
+00:34:21,540 --> 00:34:22,820
+Oh, OK.
+
+474
+00:34:22,820 --> 00:34:28,460
+Which I believe got its author followed about by Scientology for many, many years.
+
+475
+00:34:28,460 --> 00:34:32,980
+I have no opinions on Scientology while I'm on this podcast.
+
+476
+00:34:33,680 --> 00:34:38,220
+I also have no opinions on Scientology and no opinions on obviously bit torrenting.
+
+477
+00:34:38,220 --> 00:34:41,300
+I just have strong feelings on bidet sprayers.
+
+478
+00:34:41,300 --> 00:34:46,820
+I have just checked and my library has extended my book reservation.
+
+479
+00:34:46,820 --> 00:34:50,640
+I can exclusively reveal I am reading the Labyrinth Index.
+
+480
+00:34:50,640 --> 00:34:54,580
+And yes, I have until the 17th of June to read it now.
+
+481
+00:34:54,580 --> 00:34:56,880
+So they've extended that by three months.
+
+482
+00:34:56,880 --> 00:35:00,720
+Hopefully that is pessimistic, but we shall see.
+
+483
+00:35:00,720 --> 00:35:05,260
+I am very lucky my local library does a very good genre selection.
+
+484
+00:35:05,260 --> 00:35:09,320
+I was able to borrow some of the Hugo finalists last year.
+
+485
+00:35:09,320 --> 00:35:17,400
+So just before we wrap up, what would you say your one top tip for surviving the apocalypse is?
+
+486
+00:35:17,400 --> 00:35:18,740
+I don't know yet.
+
+487
+00:35:18,740 --> 00:35:22,980
+Honestly, I think I need more time in isolation to develop those habits.
+
+488
+00:35:23,060 --> 00:35:32,040
+I have started doing online YouTube workouts in which a cheery guy tells me, you know, to push it to the max and we're going to push through this.
+
+489
+00:35:32,040 --> 00:35:35,560
+And it's every every workout is a step towards your goal.
+
+490
+00:35:35,560 --> 00:35:37,820
+And it turns out I quite like that at this point in time.
+
+491
+00:35:38,320 --> 00:35:54,760
+I mean, at the moment, my my life is very much I think if you do live with other people, make spending time working out how you're going to share your space differently, I think is going to be very key to staying sane and has been a very big part of our week.
+
+492
+00:35:54,760 --> 00:35:55,580
+Yeah.
+
+493
+00:35:55,960 --> 00:36:02,600
+While I can, I'm getting out every day because I'm fairly sure I will not be able to get out every day in another week or so.
+
+494
+00:36:02,600 --> 00:36:06,000
+I'm thinking of taking up gardening.
+
+495
+00:36:06,000 --> 00:36:14,660
+How can what sort of world are we in where things like walks and gardening and jigsaws seem like sensible uses of anyone's time?
+
+496
+00:36:14,660 --> 00:36:23,020
+My wife has, in fact, mostly been gardening and doing jigsaw puzzles, both of which are activities she loves.
+
+497
+00:36:23,020 --> 00:36:24,980
+So she has been very happy.
+
+498
+00:36:24,980 --> 00:36:33,000
+I do think the siloing of personal space and being very strict about that has helped me in Espanya a lot over the last week.
+
+499
+00:36:33,000 --> 00:36:37,860
+So that brings us to the end of the first episode of the Octothor podcast.
+
+500
+00:36:37,860 --> 00:36:40,880
+Thank you very much for listening to episode one.
+
+501
+00:36:40,880 --> 00:36:45,880
+I think the lifeblood of a podcast is the interaction with our listeners.
+
+502
+00:36:45,880 --> 00:36:47,680
+And obviously, we don't actually have any listeners.
+
+503
+00:36:47,680 --> 00:37:00,380
+So if you're listening to this, we really want you to know what you think of the podcast and what we should be doing better and what you think about the topics we've covered and what topics we ought to be covering next time.
+
+504
+00:37:00,380 --> 00:37:06,480
+And, you know, get in at the ground floor before we become a big deal and we won't pay any attention to your feedback.
+
+505
+00:37:06,480 --> 00:37:08,580
+Obviously, now is the best time to send us a letter.
+
+506
+00:37:08,580 --> 00:37:09,920
+No, cut that.
+
+507
+00:37:09,920 --> 00:37:10,760
+That's a lie.
+
+508
+00:37:10,760 --> 00:37:17,800
+Oh, and if you're interested in sponsoring the podcast, we have sponsorship slots, right?
+
+509
+00:37:17,800 --> 00:37:19,480
+Oh, wow.
+
+510
+00:37:19,480 --> 00:37:20,200
+Okay.
+
+511
+00:37:20,200 --> 00:37:21,580
+Yeah.
+
+512
+00:37:21,580 --> 00:37:31,180
+So we're super keen to hear what people think, what people think we could do better, what people think about the topics we've covered, what people think we're doing well.
+
+513
+00:37:31,180 --> 00:37:34,440
+So please send us letters and clips of comment.
+
+514
+00:37:34,820 --> 00:37:39,060
+That brings us to the end of episode one of the Octothorpe podcast.
+
+515
+00:37:39,060 --> 00:37:42,580
+I'd like to thank my co-hosts, Liz Batty and Alison Scott for joining me.
+
+516
+00:37:42,580 --> 00:37:49,660
+If you'd like to send letters or clips of comment to us, please email octothorpecast at gmail.com.
+
+517
+00:37:49,780 --> 00:37:54,460
+If you'd like to tweet about us or use other social media, then hashtag octothorpecast.
+
+518
+00:37:54,460 --> 00:37:57,580
+And we will see you in episode two.
+
+519
+00:37:57,760 --> 00:37:59,080
+So for now, it's bye from me.
+
+520
+00:37:59,080 --> 00:38:00,640
+And it's goodbye from me.
+
+521
+00:38:00,640 --> 00:38:02,180
+And it's goodbye from me.
+
+522
+00:38:02,180 --> 00:38:05,460
+Nailed it.
 
