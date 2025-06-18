@@ -1,0 +1,8332 @@
+1
+00:00:00,001 --> 00:00:05,820
+Please continue while I retrieve my Allen keys and fix this sagging microphone stand.
+
+2
+00:00:05,820 --> 00:00:08,240
+Fair enough.
+
+3
+00:00:08,240 --> 00:00:17,340
+That was the wrong size Allen key and it's now dropped down a bit more.
+
+4
+00:00:17,340 --> 00:00:21,220
+So I'll be back in one minute with a bigger Allen key.
+
+5
+00:00:21,220 --> 00:00:42,900
+Hello everyone and welcome to the very 137th episode of Octothorpe, a podcast for science fiction and science fiction fandom,
+
+6
+00:00:42,900 --> 00:00:52,260
+which is arriving in the club to a susurrus as people note its return and will be coming to you on the 19th of June 2025.
+
+7
+00:00:52,260 --> 00:00:54,460
+I am John Coxon.
+
+8
+00:00:54,460 --> 00:00:56,020
+I'm Alison Scott.
+
+9
+00:00:56,020 --> 00:00:57,200
+And I'm Liz Batty.
+
+10
+00:00:57,200 --> 00:01:01,440
+John, can you play a bit of the and or club mix under that intro or will we get done for copyright?
+
+11
+00:01:01,440 --> 00:01:03,280
+Let me consult the lawyers.
+
+12
+00:01:03,280 --> 00:01:08,440
+The lawyers say they don't exist and we'll definitely lose to Disney.
+
+13
+00:01:08,440 --> 00:01:10,640
+Hmm. Fair, fair.
+
+14
+00:01:10,640 --> 00:01:12,420
+Yeah, yeah. Don't mess with the mouse.
+
+15
+00:01:12,420 --> 00:01:19,320
+We will put in the club mix or the hour of more mothma dancing because it is a certified banger.
+
+16
+00:01:19,320 --> 00:01:22,860
+And just imagine that's playing or play it yourself through your headphones while you listen.
+
+17
+00:01:22,860 --> 00:01:25,360
+Yes, that is our recommendation for this episode.
+
+18
+00:01:25,360 --> 00:01:29,480
+It will lead to this feeling much more high octane than usual.
+
+19
+00:01:29,480 --> 00:01:31,540
+And we have some layers of comment, listeners.
+
+20
+00:01:31,540 --> 00:01:41,620
+We heard from Jake Sellabrookins who sent us a lovely little mp3 with some ruminations on the pronunciation of wussfuss.
+
+21
+00:01:41,940 --> 00:01:44,520
+And, well, I'll let Casella take it away.
+
+22
+00:01:44,520 --> 00:01:46,740
+John, Alison, Liz, hello.
+
+23
+00:01:46,740 --> 00:01:49,600
+This is Casella from A Meal of Thorns and the Ancillary Review.
+
+24
+00:01:49,600 --> 00:01:52,480
+I've been enjoying all eight of your thorps lately.
+
+25
+00:01:53,040 --> 00:01:56,860
+I thought I knew how to pronounce the acronym for the World Science Fiction Society.
+
+26
+00:01:56,860 --> 00:02:01,280
+But after saying it a few dozen times, I'm less and less sure.
+
+27
+00:02:01,280 --> 00:02:14,200
+There are regional vowel dialect choices warring invisibly within me.
+
+28
+00:02:14,700 --> 00:02:15,280
+Wissfuss.
+
+29
+00:02:15,280 --> 00:02:16,300
+Wissfuss.
+
+30
+00:02:16,300 --> 00:02:17,160
+Wissfuss.
+
+31
+00:02:17,160 --> 00:02:18,100
+I think Wissfuss.
+
+32
+00:02:18,100 --> 00:02:18,820
+Wissfuss.
+
+33
+00:02:18,820 --> 00:02:19,960
+Yeah, Wiss...
+
+34
+00:02:19,960 --> 00:02:20,360
+Wiss...
+
+35
+00:02:20,360 --> 00:02:21,160
+No, Wissfuss.
+
+36
+00:02:21,160 --> 00:02:21,780
+Mm.
+
+37
+00:02:21,780 --> 00:02:26,160
+And then we also heard from Ange who gave us the Scouse version.
+
+38
+00:02:26,160 --> 00:02:27,860
+Here's your Scouse pronunciation.
+
+39
+00:02:27,860 --> 00:02:29,800
+Wissfuss.
+
+40
+00:02:30,280 --> 00:02:32,900
+And what I want to know is where were all the rest of you?
+
+41
+00:02:32,900 --> 00:02:35,300
+But well done to those two for writing in.
+
+42
+00:02:35,300 --> 00:02:36,200
+We appreciate it.
+
+43
+00:02:36,200 --> 00:02:38,840
+It's actually quite nice to hear the voices of the listeners.
+
+44
+00:02:38,840 --> 00:02:39,660
+Yes.
+
+45
+00:02:40,080 --> 00:02:42,360
+I don't think I want you to send us MP3s all the time.
+
+46
+00:02:42,360 --> 00:02:45,940
+Otherwise, well, I mean, maybe we should get everyone to send us MP3s.
+
+47
+00:02:45,940 --> 00:02:48,900
+And one week we'll just put together an episode which is listen to MP3s.
+
+48
+00:02:48,900 --> 00:02:49,780
+And we won't have to do anything.
+
+49
+00:02:49,780 --> 00:02:52,100
+But it is nice to hear from people occasionally.
+
+50
+00:02:52,100 --> 00:02:56,520
+We also had Neil Harrison record Andy Openshaw saying Wissfuss.
+
+51
+00:02:56,520 --> 00:02:58,240
+And I will insert that recording here.
+
+52
+00:02:58,240 --> 00:03:00,440
+Wissfuss.
+
+53
+00:03:00,440 --> 00:03:05,540
+But Andy messaged me the day after.
+
+54
+00:03:05,540 --> 00:03:07,820
+So Andy hadn't listened to the podcast at this point.
+
+55
+00:03:07,940 --> 00:03:10,160
+So he thought Neil was just being very extra.
+
+56
+00:03:10,160 --> 00:03:12,080
+And that was very funny to watch.
+
+57
+00:03:12,080 --> 00:03:18,940
+But also Andy writes, please note, I'm from County Durham and I'm not a Geordie.
+
+58
+00:03:18,940 --> 00:03:20,040
+We regret the error.
+
+59
+00:03:20,040 --> 00:03:20,880
+Oh.
+
+60
+00:03:20,880 --> 00:03:28,360
+I just I have a very I have a very favourite folk singer who's called Jeslow, who is from
+
+61
+00:03:28,360 --> 00:03:33,940
+County Durham and actually talks about himself as a Geordie all of the time and is kind of.
+
+62
+00:03:33,940 --> 00:03:35,200
+Does he live in London?
+
+63
+00:03:35,200 --> 00:03:36,560
+Very much not.
+
+64
+00:03:36,560 --> 00:03:37,400
+Where does he live?
+
+65
+00:03:37,740 --> 00:03:39,340
+Well, in a bus.
+
+66
+00:03:39,340 --> 00:03:40,840
+He's a or in a van.
+
+67
+00:03:40,840 --> 00:03:42,320
+He's a working folk musician.
+
+68
+00:03:42,320 --> 00:03:43,880
+He's a folk singer.
+
+69
+00:03:43,880 --> 00:03:45,120
+He's not earning the big bucks, John.
+
+70
+00:03:45,120 --> 00:03:46,340
+Oh, no.
+
+71
+00:03:46,340 --> 00:03:46,940
+I mean, he lives.
+
+72
+00:03:46,940 --> 00:03:48,620
+I don't know where he lives exactly.
+
+73
+00:03:48,620 --> 00:03:50,200
+But you should look out for him because he's amazing.
+
+74
+00:03:50,200 --> 00:03:51,780
+I mean, he's really, really, really good.
+
+75
+00:03:51,780 --> 00:03:52,860
+I wonder.
+
+76
+00:03:52,860 --> 00:03:56,700
+I guess the reason I asked was because I wonder whether there's a thing where if you don't
+
+77
+00:03:56,700 --> 00:04:00,000
+live in Newcastle and you're from County Durham, you might call yourself a Geordie.
+
+78
+00:04:00,000 --> 00:04:04,000
+But if you live in Newcastle or you're from County Durham, you might draw the line differently.
+
+79
+00:04:05,120 --> 00:04:05,460
+Yeah, yeah, yeah.
+
+80
+00:04:05,460 --> 00:04:06,900
+So I think that might be.
+
+81
+00:04:06,900 --> 00:04:08,960
+I think he may be a Geordie on stage.
+
+82
+00:04:08,960 --> 00:04:10,580
+He's certainly a professional Geordie, right?
+
+83
+00:04:10,580 --> 00:04:14,400
+Brilliant episode title.
+
+84
+00:04:15,120 --> 00:04:18,840
+I will put a link to the music of Jez Lowe because I love it.
+
+85
+00:04:18,840 --> 00:04:19,440
+All right.
+
+86
+00:04:19,440 --> 00:04:23,920
+I have also seen Jez Lowe, weirdly, where mine and Alison's musical taste have overlapped and
+
+87
+00:04:23,920 --> 00:04:24,380
+he is extremely.
+
+88
+00:04:24,380 --> 00:04:27,660
+I would have said he was extremely Geordie, but now I don't want to get into the whole minefield.
+
+89
+00:04:27,660 --> 00:04:31,940
+I think I've recommended that John go and see Jez Lowe before because, I mean, I'm sure
+
+90
+00:04:31,940 --> 00:04:34,040
+he does gigs in your area quite a lot.
+
+91
+00:04:34,040 --> 00:04:35,480
+And he's so good.
+
+92
+00:04:35,480 --> 00:04:40,320
+But yeah, we saw him at the Chroma Folk on the Pier Festival that we went to with his band.
+
+93
+00:04:40,760 --> 00:04:44,540
+We're going to start with some letters of comment on almond croissants and we're going
+
+94
+00:04:44,540 --> 00:04:47,600
+to let Alison loose on the relevant Facebook thread.
+
+95
+00:04:47,600 --> 00:04:49,860
+Alison, do you want to pick some things out?
+
+96
+00:04:49,860 --> 00:04:53,260
+I think, in case you make clear, we're starting with some comments on almond croissants.
+
+97
+00:04:53,680 --> 00:05:01,300
+And we'll start with Nola, who said, I'd like Alison to know that I did laugh at her almond
+
+98
+00:05:01,300 --> 00:05:04,140
+croissant fantasy hero joke, despite only hearing it.
+
+99
+00:05:04,140 --> 00:05:04,680
+Goodo.
+
+100
+00:05:04,680 --> 00:05:11,540
+And also on almond croissants, David Bamford wrote to say, they listened to the episode on
+
+101
+00:05:11,540 --> 00:05:15,680
+a drive down to Androsen that if there are no almond croissants to be found when we get
+
+102
+00:05:15,680 --> 00:05:16,760
+there, we will be most upset.
+
+103
+00:05:17,140 --> 00:05:20,140
+I lived quite close to Androsen for four years.
+
+104
+00:05:20,140 --> 00:05:28,420
+And when I lived there, which was from 1974 to 1978, I think I can state with almost absolute
+
+105
+00:05:28,420 --> 00:05:33,000
+certainty that there was no almond croissant to be found for a considerable radius.
+
+106
+00:05:33,000 --> 00:05:35,260
+I mean, probably could have got one in Glasgow.
+
+107
+00:05:35,260 --> 00:05:42,000
+Andreas de Vaux wrote to say, two Mastodon posts saying they became hungry and now crave an
+
+108
+00:05:42,000 --> 00:05:45,660
+episode about banoffee pie in the same detail and engagement.
+
+109
+00:05:46,260 --> 00:05:49,780
+If we ever have Stephen on the podcast as a stunt Alison, you should ask him about banoffee
+
+110
+00:05:49,780 --> 00:05:50,100
+pie.
+
+111
+00:05:50,100 --> 00:05:50,940
+Yes.
+
+112
+00:05:50,940 --> 00:05:57,400
+And also said, I did in the process find a recipe for apple pie with frangipan, which seems
+
+113
+00:05:57,400 --> 00:06:00,180
+to be the fancy French word for a tasty nutty paste.
+
+114
+00:06:00,180 --> 00:06:01,440
+Yes, it is.
+
+115
+00:06:01,440 --> 00:06:05,460
+And almond croissants have to have frangipan in the middle of them, which is part of what I
+
+116
+00:06:05,460 --> 00:06:07,620
+talked about on the episode.
+
+117
+00:06:07,620 --> 00:06:13,720
+So yes, if you are one of today's 10,000 on frangipan, Andreas, I salute you.
+
+118
+00:06:14,120 --> 00:06:18,440
+Various people bought almond croissants or lamented the fact that they could not eat at
+
+119
+00:06:18,440 --> 00:06:19,460
+almond croissants on Facebook.
+
+120
+00:06:19,460 --> 00:06:25,320
+Sheila last said the best almond croissant she's had is from Pret at Waverly Station.
+
+121
+00:06:25,320 --> 00:06:30,980
+And I'm here to say that there is a world of wonder out there for you because although
+
+122
+00:06:30,980 --> 00:06:36,220
+Pret's almond croissants are, I think, pretty good for chain coffee shops croissants, and
+
+123
+00:06:36,220 --> 00:06:41,480
+I will definitely have one if I am in a Pret, there are a lot better almond croissants out
+
+124
+00:06:41,480 --> 00:06:42,360
+there to be found.
+
+125
+00:06:42,360 --> 00:06:43,480
+So off you go.
+
+126
+00:06:43,480 --> 00:06:45,480
+I think that is that everything on almond croissants?
+
+127
+00:06:45,480 --> 00:06:46,240
+Maybe not quite.
+
+128
+00:06:46,240 --> 00:06:54,600
+There's one thing on almond croissants which is not in the show notes, but Andy Openshaw messaged
+
+129
+00:06:54,600 --> 00:07:01,880
+me to point out that Pink Lane Bakery, which didn't used to have a location that had seating,
+
+130
+00:07:01,880 --> 00:07:05,540
+has now opened a location with seating in Jesmond.
+
+131
+00:07:05,540 --> 00:07:07,320
+So yeah.
+
+132
+00:07:07,320 --> 00:07:08,520
+Thank you very much, Andy.
+
+133
+00:07:08,900 --> 00:07:13,320
+Oh, isn't Pink Lane the one we went to by the station in Newcastle?
+
+134
+00:07:13,320 --> 00:07:14,680
+No, that's Pink Lane Coffee.
+
+135
+00:07:14,680 --> 00:07:15,420
+Oh.
+
+136
+00:07:15,420 --> 00:07:19,640
+Pink Lane Coffee and Pink Lane Bakery are a coffee shop and a bakery on Pink Lane.
+
+137
+00:07:19,640 --> 00:07:20,640
+Ah!
+
+138
+00:07:20,640 --> 00:07:22,980
+They are geographically coincident.
+
+139
+00:07:22,980 --> 00:07:25,660
+They are not, like, corporately coincident.
+
+140
+00:07:25,660 --> 00:07:26,120
+No.
+
+141
+00:07:26,120 --> 00:07:27,920
+Ah, they are not a brand.
+
+142
+00:07:27,920 --> 00:07:32,960
+Okay, so we went to Pink Lane Coffee, which does have seating, and as I recall, did a perfectly
+
+143
+00:07:32,960 --> 00:07:34,040
+adequate almond croissant.
+
+144
+00:07:34,700 --> 00:07:39,780
+But I was too, we were travelling by train along with Claire and Mark, so obviously Claire
+
+145
+00:07:39,780 --> 00:07:44,200
+had that, I must be, I must be on the train good and early.
+
+146
+00:07:44,200 --> 00:07:50,560
+I took Liz to Pink Lane Coffee and she departed for her train 15 minutes early and exited the
+
+147
+00:07:50,560 --> 00:07:54,300
+coffee shop, saw the station across the road and thought, and said to me, I may have left
+
+148
+00:07:54,300 --> 00:07:55,660
+too much time for my train, John.
+
+149
+00:07:55,660 --> 00:07:58,920
+And I was like, well, no judging, no judging.
+
+150
+00:07:58,920 --> 00:08:00,780
+That's the sort of thing we'd have done.
+
+151
+00:08:01,060 --> 00:08:05,540
+I was being picked up at the other end and so I did not want to disrupt things by getting
+
+152
+00:08:05,540 --> 00:08:06,540
+on the wrong train.
+
+153
+00:08:06,540 --> 00:08:07,180
+Yes.
+
+154
+00:08:07,180 --> 00:08:08,200
+No, it was very fair.
+
+155
+00:08:08,200 --> 00:08:10,180
+Also, I was jet-lagged.
+
+156
+00:08:10,180 --> 00:08:14,640
+It is where I usually recommend people go if they are about to get a train from Newcastle
+
+157
+00:08:14,640 --> 00:08:16,860
+on account of how it's extremely close.
+
+158
+00:08:16,860 --> 00:08:23,720
+We did also get some letters of comment that were not from, not based around almond croissants.
+
+159
+00:08:25,720 --> 00:08:30,740
+I will pick out one from Blue Sky to get us rolling.
+
+160
+00:08:30,740 --> 00:08:37,260
+Ed Morland writes in to say, on the subject of Magic Maze, which I mentioned last episode,
+
+161
+00:08:37,260 --> 00:08:41,300
+the red dobber of passive aggression may be the single greatest board game component in
+
+162
+00:08:41,300 --> 00:08:42,460
+the history of board game.
+
+163
+00:08:42,460 --> 00:08:45,680
+Yeah, no, I think that is a defensible statement.
+
+164
+00:08:45,680 --> 00:08:51,920
+I did watch two people trade the dobber back and forth angrily in complete silence once and
+
+165
+00:08:51,920 --> 00:08:53,300
+it was delightful.
+
+166
+00:08:53,300 --> 00:08:58,140
+You may need to explain how the dobber works in Magic Maze because I think I worked it out
+
+167
+00:08:58,140 --> 00:08:58,980
+from context.
+
+168
+00:08:58,980 --> 00:09:00,560
+Or not, if it's funnier.
+
+169
+00:09:00,560 --> 00:09:05,700
+Basically, if someone needs to do a thing and they haven't noticed they need to do a thing,
+
+170
+00:09:05,700 --> 00:09:10,540
+you put a red thing in front of them to tell them that they're fucking up and then they
+
+171
+00:09:10,540 --> 00:09:12,420
+have to work out what it is you mean by that.
+
+172
+00:09:12,420 --> 00:09:13,920
+Shit, I need that for Hannaby.
+
+173
+00:09:14,260 --> 00:09:19,740
+And then if two people, if two people are just trading it back and forth, it just gets
+
+174
+00:09:19,740 --> 00:09:23,020
+incredibly funny as they both get more and more frustrated.
+
+175
+00:09:23,020 --> 00:09:25,220
+And I have seen this and it is great.
+
+176
+00:09:25,220 --> 00:09:30,140
+Magic Maze is on my list of things I'm hoping to pick up in a charity shop at some point.
+
+177
+00:09:30,140 --> 00:09:32,140
+I think we should play Magic Maze.
+
+178
+00:09:32,140 --> 00:09:34,660
+I mean, it'd be a terrible podcast, but it'd be very funny.
+
+179
+00:09:36,340 --> 00:09:37,900
+Is it one of those silent ones?
+
+180
+00:09:37,900 --> 00:09:38,580
+Yeah.
+
+181
+00:09:38,580 --> 00:09:42,000
+Well, next time we're in the same place, we could just record a video and stick it on YouTube.
+
+182
+00:09:42,000 --> 00:09:42,980
+Yeah.
+
+183
+00:09:42,980 --> 00:09:48,400
+So we have podcasts with no video and then we have video with no sound.
+
+184
+00:09:48,400 --> 00:09:50,480
+So there probably would be some sound, I think.
+
+185
+00:09:50,480 --> 00:09:51,520
+Yes.
+
+186
+00:09:51,520 --> 00:09:52,280
+Right.
+
+187
+00:09:52,280 --> 00:09:54,340
+But yes, thank you very much for writing in, Ed.
+
+188
+00:09:54,340 --> 00:09:56,360
+Should I talk about Hinkley?
+
+189
+00:09:57,060 --> 00:09:57,460
+Yes.
+
+190
+00:09:57,460 --> 00:10:03,860
+So last episode, I think we were talking about most remote Eastercon venues we'd had recently.
+
+191
+00:10:03,860 --> 00:10:08,920
+And we mentioned the Hinkley Eastercons, which were in the Hinkley Island Hotel, which is no
+
+192
+00:10:08,920 --> 00:10:09,980
+longer the Hinkley Island Hotel.
+
+193
+00:10:09,980 --> 00:10:10,980
+It's a jury's in or something.
+
+194
+00:10:10,980 --> 00:10:14,960
+But anyway, and Rosanna Pendleby wrote to us to say, very weird to hear Hinkley mentioned.
+
+195
+00:10:14,960 --> 00:10:16,780
+I wasn't expecting it on Octop.
+
+196
+00:10:16,780 --> 00:10:22,720
+Ah, well, you should because it's stuck in everyone's memory because of the weirdness of
+
+197
+00:10:22,720 --> 00:10:24,100
+the Hinkley Island Hotel.
+
+198
+00:10:25,480 --> 00:10:30,140
+Did have a little sort of, a little like row of shops inside the hotel.
+
+199
+00:10:30,140 --> 00:10:36,080
+I once saw a stand-up comic do a set and he described Hinkley as the sort of place where
+
+200
+00:10:36,080 --> 00:10:37,720
+people still point their aeroplanes.
+
+201
+00:10:37,720 --> 00:10:39,440
+Ooh.
+
+202
+00:10:39,440 --> 00:10:42,800
+Yeah.
+
+203
+00:10:42,800 --> 00:10:43,880
+Never been.
+
+204
+00:10:43,880 --> 00:10:45,320
+I'm sure it's lovely.
+
+205
+00:10:45,320 --> 00:10:48,940
+We also got some comments this week on Facebook.
+
+206
+00:10:48,940 --> 00:10:53,440
+We heard from Tammy Coxon, who says the 2008 site selection vote is used as a cautionary tale
+
+207
+00:10:53,440 --> 00:10:57,000
+because apparently there were more than 12 people on the Chicago Bid Committee who failed
+
+208
+00:10:57,000 --> 00:11:01,780
+to vote, which I did not know and makes it even more ouch, basically.
+
+209
+00:11:01,780 --> 00:11:02,660
+Yes.
+
+210
+00:11:02,660 --> 00:11:04,320
+That was great.
+
+211
+00:11:04,320 --> 00:11:12,440
+Tammy also leaves some comments about the evolution of the fan art and pro art Hugo categories and
+
+212
+00:11:12,440 --> 00:11:14,420
+links to her piece on File 770 on it.
+
+213
+00:11:15,100 --> 00:11:20,500
+We will link to that and I note that there may be more discussion of the art Hugos later
+
+214
+00:11:20,500 --> 00:11:21,920
+in the episode foreshadowing.
+
+215
+00:11:21,920 --> 00:11:22,400
+Yeah.
+
+216
+00:11:22,400 --> 00:11:27,100
+I think the point that she made is that some professional artists are grumpy about being
+
+217
+00:11:27,100 --> 00:11:35,400
+relegated to the fan artist category because the sort of way they make money from art isn't
+
+218
+00:11:35,400 --> 00:11:41,380
+the sort of way that the professional artist Hugo reflects because it is very focused on
+
+219
+00:11:41,380 --> 00:11:42,320
+art for publication.
+
+220
+00:11:42,320 --> 00:11:45,800
+And there are lots of other ways to make art these days and make money with it.
+
+221
+00:11:45,800 --> 00:11:48,760
+And I think that's a good point that I hadn't considered properly.
+
+222
+00:11:48,760 --> 00:11:55,040
+I still don't think it makes up for saying that all that fan artists have to only work in
+
+223
+00:11:55,040 --> 00:11:59,140
+an amateur basis, which obviously rules out many of the previous fan artist Hugos.
+
+224
+00:12:00,140 --> 00:12:07,240
+Presumably the thing we said last time about 25% of your income coming from your art would
+
+225
+00:12:07,240 --> 00:12:07,860
+fix this.
+
+226
+00:12:07,860 --> 00:12:15,580
+But Mike Scott also wrote on Facebook to point out that the early fan artist Hugos were often
+
+227
+00:12:15,580 --> 00:12:20,640
+won by pro artists for fan art they were doing in their spare time.
+
+228
+00:12:20,640 --> 00:12:23,820
+But obviously that's happened in fan writer as well.
+
+229
+00:12:23,980 --> 00:12:30,060
+So I assume that you could word the thing to be like if you're not getting 25% of your
+
+230
+00:12:30,060 --> 00:12:35,420
+income from the art you win for, which would probably work, but you'd need to workshop it
+
+231
+00:12:35,420 --> 00:12:35,860
+a little bit.
+
+232
+00:12:35,860 --> 00:12:38,000
+I think it would be better than this tack anyway.
+
+233
+00:12:38,000 --> 00:12:43,660
+I mean, I think there must be something around saying that fan art is open to people who've
+
+234
+00:12:43,660 --> 00:12:48,700
+done a body of unpaid work for fan art purposes.
+
+235
+00:12:48,700 --> 00:12:49,540
+Yeah.
+
+236
+00:12:49,540 --> 00:12:51,140
+But I don't know.
+
+237
+00:12:51,140 --> 00:12:53,720
+People have been arguing about this for a very long time.
+
+238
+00:12:53,860 --> 00:12:54,360
+Mm hmm.
+
+239
+00:12:54,360 --> 00:12:54,780
+Mm hmm.
+
+240
+00:12:54,780 --> 00:12:56,840
+And we're going to continue arguing about it.
+
+241
+00:12:56,840 --> 00:12:57,220
+Yeah.
+
+242
+00:12:57,220 --> 00:12:58,000
+Yes.
+
+243
+00:12:58,000 --> 00:12:59,280
+Yes, we are.
+
+244
+00:12:59,280 --> 00:13:05,260
+We also heard on Facebook from Farrah who pointed out that our discussion of food last
+
+245
+00:13:05,260 --> 00:13:10,620
+week about food at Reconnect, the Eastercon, did talk about sandwiches a lot, which does
+
+246
+00:13:10,620 --> 00:13:15,180
+exclude people who are going to have dietary restrictions, which restrict them from eating
+
+247
+00:13:15,180 --> 00:13:17,660
+anything with gluten, which is very true.
+
+248
+00:13:17,660 --> 00:13:21,940
+I think this is partly because I really like sandwiches and I don't eat a lot of sandwiches
+
+249
+00:13:21,940 --> 00:13:22,540
+right now.
+
+250
+00:13:22,540 --> 00:13:24,260
+And so my brain automatically goes to sandwiches.
+
+251
+00:13:24,260 --> 00:13:29,020
+And also because it's what my brain thinks of as easy to move, portable food.
+
+252
+00:13:29,020 --> 00:13:33,280
+And I feel that the hotel was quite good at food you could sit down and eat, but maybe not
+
+253
+00:13:33,280 --> 00:13:34,480
+that stuff you could grab and go.
+
+254
+00:13:35,160 --> 00:13:39,120
+So we do need to have options that you can grab and go that are not based around bread.
+
+255
+00:13:39,120 --> 00:13:39,800
+Yeah.
+
+256
+00:13:39,800 --> 00:13:46,560
+I think I will say like I assume gluten free bread sandwiches would be OK for people with
+
+257
+00:13:46,560 --> 00:13:46,900
+celiac.
+
+258
+00:13:46,900 --> 00:13:51,960
+But there are not that many portable forms of food that are not wrapped in something that
+
+259
+00:13:51,960 --> 00:13:53,100
+you would have to make gluten free.
+
+260
+00:13:53,100 --> 00:13:53,940
+I think.
+
+261
+00:13:54,480 --> 00:13:57,120
+You could have like sushi rolls or something.
+
+262
+00:13:57,120 --> 00:13:57,660
+Yeah.
+
+263
+00:13:57,660 --> 00:13:57,960
+Sushi.
+
+264
+00:13:57,960 --> 00:13:58,760
+Great example.
+
+265
+00:13:58,760 --> 00:13:59,500
+Yes.
+
+266
+00:13:59,500 --> 00:13:59,940
+True.
+
+267
+00:13:59,940 --> 00:14:01,040
+That is.
+
+268
+00:14:01,040 --> 00:14:02,580
+I think there are counter examples.
+
+269
+00:14:02,580 --> 00:14:05,640
+I guess my point being there are not lots.
+
+270
+00:14:05,640 --> 00:14:07,320
+No, there are not.
+
+271
+00:14:07,320 --> 00:14:12,120
+But I think I would like to see more like gluten free sausage rolls, gluten free sandwiches, gluten
+
+272
+00:14:12,120 --> 00:14:13,140
+free tortilla wraps.
+
+273
+00:14:13,140 --> 00:14:16,620
+All of these things I fully think should be gluten free.
+
+274
+00:14:16,620 --> 00:14:18,020
+100%.
+
+275
+00:14:18,020 --> 00:14:22,500
+I guess what I mean is when I say there should be a wide variety of sandwiches, I mean there
+
+276
+00:14:22,500 --> 00:14:25,880
+should be a wide variety of sandwiches that can be eaten by people with a range of dietary
+
+277
+00:14:25,880 --> 00:14:28,200
+preferences, not just by people who are not celiac.
+
+278
+00:14:28,200 --> 00:14:29,100
+Does that make sense?
+
+279
+00:14:29,100 --> 00:14:30,860
+But I don't think I said that last time.
+
+280
+00:14:30,860 --> 00:14:31,720
+So it's fair cop.
+
+281
+00:14:31,720 --> 00:14:33,000
+It does make sense.
+
+282
+00:14:33,000 --> 00:14:37,240
+But as someone who does not regularly eat the gluten free options, I have no idea if hotels
+
+283
+00:14:37,240 --> 00:14:42,120
+always provide really terrible gluten free sandwiches and therefore you prefer them to do something
+
+284
+00:14:42,120 --> 00:14:43,580
+that wasn't a sandwich.
+
+285
+00:14:43,580 --> 00:14:48,000
+So I guess I guess the question I would ask, I think would be really useful to ask.
+
+286
+00:14:48,000 --> 00:14:51,400
+is what conventions have done this well?
+
+287
+00:14:51,400 --> 00:14:52,980
+And what did they do?
+
+288
+00:14:52,980 --> 00:14:56,480
+Because that was a point I tried to make last time, which is I'm not sure whether Belfast
+
+289
+00:14:56,480 --> 00:14:59,860
+was uniquely bad or whether conventions are just very bad at this.
+
+290
+00:14:59,860 --> 00:15:04,000
+So please tell us about the conventions that did food requirements well.
+
+291
+00:15:04,000 --> 00:15:06,520
+And please tell us what it was that they did.
+
+292
+00:15:06,520 --> 00:15:08,160
+Like, what is the actual answer?
+
+293
+00:15:08,160 --> 00:15:12,780
+Because I'd be fascinated to know as someone who does not have any of these dietary requirements.
+
+294
+00:15:12,780 --> 00:15:17,380
+As somebody who's worked on quite a lot of conventions, I think the answer may be
+
+295
+00:15:17,380 --> 00:15:20,880
+that it's not so much anything the convention does.
+
+296
+00:15:20,880 --> 00:15:22,220
+It's the thing the venue does.
+
+297
+00:15:22,220 --> 00:15:29,680
+So that no matter how much you tell and work with the venue in advance, they can still mess
+
+298
+00:15:29,680 --> 00:15:31,660
+it up on the day quite substantially.
+
+299
+00:15:31,660 --> 00:15:36,640
+I think Inominate had an excellent range of food that catered to almost everybody by having
+
+300
+00:15:36,640 --> 00:15:40,200
+indoor food court, an indoor food court system.
+
+301
+00:15:41,040 --> 00:15:45,380
+And we went back to the same hotel not that long later, and they just couldn't do it for
+
+302
+00:15:45,380 --> 00:15:45,640
+us.
+
+303
+00:15:45,640 --> 00:15:48,480
+I have no idea.
+
+304
+00:15:48,480 --> 00:15:53,600
+So Inominate was the 2017 Eastcon in Birmingham.
+
+305
+00:15:53,600 --> 00:15:57,040
+Birmingham also has the advantage that it has the food trucks outside.
+
+306
+00:15:57,040 --> 00:16:01,620
+But I think we discussed last time, Belfast probably couldn't have done either a food court
+
+307
+00:16:01,620 --> 00:16:02,540
+or food trucks.
+
+308
+00:16:03,000 --> 00:16:09,940
+Well, the food court was just the hotel's internal catering putting stalls in a conference room.
+
+309
+00:16:09,940 --> 00:16:10,840
+Yeah, it was great.
+
+310
+00:16:10,840 --> 00:16:13,340
+So any hotel could do that if they wanted to.
+
+311
+00:16:13,340 --> 00:16:17,760
+They made a packet because obviously lots of people bought food and liked it.
+
+312
+00:16:17,760 --> 00:16:21,260
+The hotel sold a lot of food profitably.
+
+313
+00:16:21,380 --> 00:16:23,500
+That's what hotels should want to do.
+
+314
+00:16:23,500 --> 00:16:24,480
+You would think.
+
+315
+00:16:24,480 --> 00:16:30,200
+I think I would also still peg 2017 as being the recent high watermark of confit.
+
+316
+00:16:30,200 --> 00:16:31,220
+It was really good.
+
+317
+00:16:31,220 --> 00:16:32,220
+And it was varied.
+
+318
+00:16:32,220 --> 00:16:35,160
+And it wasn't just, you know, a jacket potato with beans.
+
+319
+00:16:35,160 --> 00:16:36,860
+I think I had like a goat curry.
+
+320
+00:16:36,860 --> 00:16:37,880
+It was super spicy.
+
+321
+00:16:37,880 --> 00:16:38,640
+It was really good.
+
+322
+00:16:38,640 --> 00:16:40,020
+Goat curry was...
+
+323
+00:16:40,020 --> 00:16:41,000
+It wasn't even that spicy.
+
+324
+00:16:41,000 --> 00:16:42,140
+I mean, this also...
+
+325
+00:16:42,140 --> 00:16:46,420
+Also in 2017, this was more important because they hadn't built that giant resort world thing.
+
+326
+00:16:46,420 --> 00:16:49,060
+So you couldn't easily pop out to Nando's or whatever.
+
+327
+00:16:49,060 --> 00:16:50,440
+No, they had.
+
+328
+00:16:50,860 --> 00:16:52,000
+Yeah, we had resort world.
+
+329
+00:16:52,000 --> 00:16:57,440
+We just didn't realise we had resort world until we got there because the previous time we hadn't.
+
+330
+00:16:57,440 --> 00:17:04,060
+Because I had a really good meal in 2017 and I wanted to go back to the restaurant, which is no longer there.
+
+331
+00:17:04,060 --> 00:17:04,840
+All right.
+
+332
+00:17:04,840 --> 00:17:06,520
+Well, we just hadn't realised it was there then.
+
+333
+00:17:06,520 --> 00:17:08,360
+Or maybe it didn't have as much stuff.
+
+334
+00:17:08,360 --> 00:17:09,560
+That's probably right.
+
+335
+00:17:09,560 --> 00:17:10,500
+I think it's very new.
+
+336
+00:17:10,500 --> 00:17:13,420
+Shall we leave that for the listeners and move on?
+
+337
+00:17:13,420 --> 00:17:15,300
+Yes.
+
+338
+00:17:15,300 --> 00:17:17,560
+Raj wrote in.
+
+339
+00:17:17,560 --> 00:17:23,760
+He kept looking for us in the bar at Reconnect and it was his own fault for not checking which bar we meant.
+
+340
+00:17:23,760 --> 00:17:24,980
+Sorry, Raj.
+
+341
+00:17:24,980 --> 00:17:29,420
+I think this is brought to you by the fact that we were all in Rattlebag for a lot of the time.
+
+342
+00:17:29,420 --> 00:17:31,080
+And...
+
+343
+00:17:31,080 --> 00:17:32,640
+Raj wasn't in Rattlebag.
+
+344
+00:17:32,640 --> 00:17:33,580
+And we missed you, Raj.
+
+345
+00:17:33,580 --> 00:17:36,820
+But we couldn't actually have had the entire convention at Rattlebag.
+
+346
+00:17:36,960 --> 00:17:40,060
+We did meet Raj at the Octothop meetup.
+
+347
+00:17:40,060 --> 00:17:40,500
+We did.
+
+348
+00:17:40,500 --> 00:17:41,220
+I don't know.
+
+349
+00:17:41,220 --> 00:17:46,080
+To be fair, we met Raj at least once when he was coming back from a bar somewhere else.
+
+350
+00:17:46,080 --> 00:17:46,980
+So...
+
+351
+00:17:46,980 --> 00:17:51,540
+I did watch several EastCon catch-up items and the BSFA lecture on DEI and Tolkien was his favourite.
+
+352
+00:17:51,540 --> 00:17:54,100
+He didn't love the zoom UI on phone though.
+
+353
+00:17:54,100 --> 00:17:57,560
+And he said he would like it to...
+
+354
+00:17:57,560 --> 00:18:01,120
+So, he discovered that Firefox would continue to play when the screen was off so he could listen like a podcast.
+
+355
+00:18:01,120 --> 00:18:03,880
+And he would love for just the audio to be extracted to listen like a podcast.
+
+356
+00:18:03,880 --> 00:18:06,420
+I do wonder whether...
+
+357
+00:18:06,420 --> 00:18:12,520
+I thought this for punctuation and actually because I had all of the files, I was able to do it just for me.
+
+358
+00:18:12,520 --> 00:18:16,760
+And it was really good because it meant I could just listen to them like a podcast.
+
+359
+00:18:16,760 --> 00:18:24,520
+Which I think is the way to listen to panels because the video very rarely adds much context, I find.
+
+360
+00:18:24,520 --> 00:18:26,120
+So, yes.
+
+361
+00:18:26,120 --> 00:18:26,620
+I don't know.
+
+362
+00:18:26,620 --> 00:18:27,460
+I think...
+
+363
+00:18:27,460 --> 00:18:33,060
+But I think I want to applaud Belfast for their excellent approach to the online components.
+
+364
+00:18:33,060 --> 00:18:41,920
+And I think I'm happy that EastCon's are trying to get this bit of the catch-up right before branching out.
+
+365
+00:18:41,920 --> 00:18:45,220
+I will say, in the UK, it is EDI.
+
+366
+00:18:45,860 --> 00:18:51,580
+And I am getting progressively more frustrated with the fact that everyone's calling it DEI because the US version's been in the news a lot.
+
+367
+00:18:51,580 --> 00:18:52,600
+So, yes.
+
+368
+00:18:52,600 --> 00:18:53,400
+EDI.
+
+369
+00:18:53,400 --> 00:18:54,800
+It's a very small rant.
+
+370
+00:18:54,800 --> 00:18:55,840
+But it is a rant.
+
+371
+00:18:55,840 --> 00:19:07,780
+So, we thought we would alert you to a couple of online events which are happening this weekend.
+
+372
+00:19:07,780 --> 00:19:10,260
+Assuming you are listening to the podcast right after it comes out.
+
+373
+00:19:10,260 --> 00:19:12,520
+And I assume you all do listen to the podcast right after it comes out.
+
+374
+00:19:13,040 --> 00:19:21,020
+The British Fantasy Society are holding basically a one-day showcase for the World Fantasy Con, which will be happening in the UK later this year.
+
+375
+00:19:21,020 --> 00:19:25,020
+And so, they have, I think, a free one-day online...
+
+376
+00:19:25,020 --> 00:19:29,040
+Oh, it's free for BFS members and a fiver if you are a non-member.
+
+377
+00:19:30,180 --> 00:19:32,100
+And you can sign up and attend online.
+
+378
+00:19:32,100 --> 00:19:36,240
+And they've got panels and readings and discussions with their guests.
+
+379
+00:19:36,240 --> 00:19:39,280
+And it will give you an idea of what you're going to get at World Fantasy Con.
+
+380
+00:19:39,740 --> 00:19:42,240
+So, that is happening on Saturday, the 21st of June.
+
+381
+00:19:42,240 --> 00:19:50,940
+And on Sunday, the 22nd of June, the BSFA and the Science Fiction Foundation are holding their joint online AGM as they usually do.
+
+382
+00:19:50,940 --> 00:19:52,460
+And that is on the 22nd of June.
+
+383
+00:19:52,460 --> 00:19:55,620
+I don't have all the details about that.
+
+384
+00:19:55,620 --> 00:20:02,620
+But I think if you're a BSFA or SFF member, you will have been emailed or will be about to be emailed details of how you join that.
+
+385
+00:20:02,720 --> 00:20:03,960
+Thank you very much, Liz.
+
+386
+00:20:03,960 --> 00:20:05,480
+Are you going to go to either of those things?
+
+387
+00:20:05,480 --> 00:20:06,360
+No.
+
+388
+00:20:06,360 --> 00:20:08,240
+On account of time zones.
+
+389
+00:20:08,240 --> 00:20:12,040
+The Read Our Latest News page, yes.
+
+390
+00:20:12,040 --> 00:20:13,560
+So, we'll put a link...
+
+391
+00:20:13,560 --> 00:20:18,860
+I'll put a link in the show notes to the Science Fiction Foundation one, which does give you an idea of the timings and what's going on.
+
+392
+00:20:18,860 --> 00:20:21,080
+But again, I think you have to be remembered to be linked.
+
+393
+00:20:21,080 --> 00:20:25,300
+I've got all the information in my BSFA newsletter.
+
+394
+00:20:25,300 --> 00:20:25,960
+Ah.
+
+395
+00:20:25,960 --> 00:20:28,440
+Yeah, so there's lots of interesting things going on.
+
+396
+00:20:28,440 --> 00:20:31,400
+Would you like to tell us about any of them, Alison?
+
+397
+00:20:31,640 --> 00:20:35,460
+Yeah, I mean, I thought you'd said that there was a link and it had everything.
+
+398
+00:20:35,460 --> 00:20:38,800
+So, Paul March Russell in conversation with EJ Swift.
+
+399
+00:20:38,800 --> 00:20:40,720
+A Fish and Five panel.
+
+400
+00:20:40,720 --> 00:20:44,800
+Writers from the forthcoming Fish and Five anthology discuss their work with Eugene Bacon.
+
+401
+00:20:44,800 --> 00:20:47,300
+The SFF AGM.
+
+402
+00:20:47,300 --> 00:20:50,400
+The BSFA Applied Science Fiction panel.
+
+403
+00:20:50,400 --> 00:20:57,600
+Alan Stroud, Anna Sun, Christina Carley, Fiona Moore and Stephen Oram discussing about how science fiction can be used in different fields.
+
+404
+00:20:57,600 --> 00:21:01,360
+Reflections on the 2025 Clark shortlist.
+
+405
+00:21:01,360 --> 00:21:04,760
+I don't know who is responsible for that because no name is mentioned.
+
+406
+00:21:04,760 --> 00:21:06,420
+And then the BSFA AGM.
+
+407
+00:21:06,420 --> 00:21:09,420
+And then perhaps a bonus final feature.
+
+408
+00:21:09,420 --> 00:21:10,660
+Oh.
+
+409
+00:21:10,660 --> 00:21:13,060
+So that's quite a full day, actually.
+
+410
+00:21:13,060 --> 00:21:14,500
+That's the 22nd of June.
+
+411
+00:21:14,500 --> 00:21:16,500
+It's not impossible.
+
+412
+00:21:16,500 --> 00:21:20,560
+So that's quite clever that they're on two adjacent days.
+
+413
+00:21:20,560 --> 00:21:24,900
+So you can have an entire virtual weekend doing science fiction conventions if you want.
+
+414
+00:21:25,420 --> 00:21:25,740
+Yes.
+
+415
+00:21:25,740 --> 00:21:27,700
+Do we think it was on purpose?
+
+416
+00:21:27,700 --> 00:21:28,460
+I guess.
+
+417
+00:21:28,460 --> 00:21:29,720
+Actually, I suppose it probably was.
+
+418
+00:21:29,720 --> 00:21:33,260
+You would like to think so.
+
+419
+00:21:33,260 --> 00:21:34,820
+And it actually might have been.
+
+420
+00:21:34,820 --> 00:21:35,560
+Nice.
+
+421
+00:21:36,200 --> 00:21:36,880
+So yeah.
+
+422
+00:21:36,880 --> 00:21:39,300
+I probably won't be going to either of those.
+
+423
+00:21:39,300 --> 00:21:41,040
+But they do look cool.
+
+424
+00:21:42,160 --> 00:21:49,680
+And the British Fantasy Society's event has some interesting people present.
+
+425
+00:21:50,320 --> 00:21:52,760
+And sort of the program looks pretty cool.
+
+426
+00:21:52,760 --> 00:21:57,760
+It's got readings by various people, including Russell Smith, who is good.
+
+427
+00:21:57,760 --> 00:21:59,240
+And yeah.
+
+428
+00:21:59,240 --> 00:22:01,200
+Just some interesting looking panels as well.
+
+429
+00:22:01,200 --> 00:22:02,200
+So hurrah.
+
+430
+00:22:02,720 --> 00:22:09,800
+At the time of recording, there are 29 non-member tickets for the online convention.
+
+431
+00:22:09,800 --> 00:22:12,880
+And there are 34 BFS member tickets left.
+
+432
+00:22:12,880 --> 00:22:17,680
+I assume that this is due to Zoom number caps.
+
+433
+00:22:17,680 --> 00:22:18,800
+But I don't know.
+
+434
+00:22:18,800 --> 00:22:21,980
+So hopefully there are tickets by the time we drop the episode, listeners.
+
+435
+00:22:21,980 --> 00:22:23,840
+Our apologies if there are not.
+
+436
+00:22:30,540 --> 00:22:38,180
+Casella over at Ancillary Review of Books, who sent us a audio snippet earlier this very episode,
+
+437
+00:22:38,180 --> 00:22:48,440
+has written a very sort of detailed and very well thought out article arguing that there should be a Hugo Award for best translated work.
+
+438
+00:22:48,440 --> 00:22:52,360
+And effectively, we will link in the show notes, listeners.
+
+439
+00:22:52,360 --> 00:22:59,360
+And I recommend everyone go and read it because I'm sure that there will be nuances in that article that we elide.
+
+440
+00:22:59,360 --> 00:23:00,820
+Elide on the pod.
+
+441
+00:23:00,820 --> 00:23:10,180
+But effectively argues that a best translated work is necessary to recognize global speculative fiction.
+
+442
+00:23:10,180 --> 00:23:14,240
+And that's something we should do if we want to put the world into WorldCom.
+
+443
+00:23:14,240 --> 00:23:17,300
+And in general, I think it is very well argued.
+
+444
+00:23:17,300 --> 00:23:22,460
+I would love to see WorldCom recognize more works in translation.
+
+445
+00:23:22,460 --> 00:23:24,260
+I think that's very good.
+
+446
+00:23:24,560 --> 00:23:30,120
+I think I would want to see the translator and the author win whatever the award was,
+
+447
+00:23:30,120 --> 00:23:39,400
+because I think you'd want to make sure that you are recognizing the skill in the translation as well as the skill in the original text.
+
+448
+00:23:40,740 --> 00:23:50,580
+Casella does say basically he can see one pitfall, which is that because Hugo rules say that work can only show up in one category.
+
+449
+00:23:50,580 --> 00:23:55,980
+So he can imagine, for instance, translated novels only winning the best translated award.
+
+450
+00:23:56,920 --> 00:24:02,420
+And sort of people thinking, oh, well, you know, they won that because it's best translated, but they wouldn't have won if they were in novel.
+
+451
+00:24:02,420 --> 00:24:14,800
+Or the reverse, kind of a translated book being put into novel instead of into best translated work and then losing in novel where it might have won in best translated
+work.
+
+452
+00:24:15,260 --> 00:24:25,960
+I think the obvious solution here is to make it more in the vein of the Lodestar, where it is an award that is awarded sort of coincident with the Hugos, but is not a Hugo.
+
+453
+00:24:25,960 --> 00:24:30,320
+And because that means that all of those books are still eligible in the Hugo categories.
+
+454
+00:24:30,320 --> 00:24:42,240
+I don't think the presence of the Lodestar indicates that Waspurs cares less about young adult fiction in much the same way that I don't think the fact that the
+Astounding is the Astounding indicates that Waspurs cares less about upcoming authors.
+
+455
+00:24:42,480 --> 00:24:56,580
+I think it's just a recognition that these things seek to award on a slightly different set of criteria than the Hugos, which is very much kind of hard number based
+definitions of things, mostly ish.
+
+456
+00:24:56,580 --> 00:24:58,720
+What do we think about this idea, peeps?
+
+457
+00:24:58,720 --> 00:25:07,260
+So I think you've covered the main issue, which is that we tend to try not to award Hugos for the same thing in two categories.
+
+458
+00:25:07,260 --> 00:25:09,960
+And you're going to have an uneasy split whichever way you do it.
+
+459
+00:25:09,960 --> 00:25:11,980
+So yes, it could be an extra award.
+
+460
+00:25:11,980 --> 00:25:20,760
+I think the other thing is whether we think there are enough Hugo voters who read sufficient fiction in translation to do a good short list.
+
+461
+00:25:20,760 --> 00:25:24,500
+I am not 100% convinced of that one.
+
+462
+00:25:24,620 --> 00:25:34,960
+I think just because you can list quite a lot of potential contenders in translation doesn't necessarily mean any of them will have enough critical mass or readership
+to get on there.
+
+463
+00:25:34,960 --> 00:25:40,780
+I think basically this is just where Casella is more optimistic than I am about what the readership is reading.
+
+464
+00:25:41,320 --> 00:25:45,820
+I mean, I think one issue is that we know translations can get on the Hugo ballots and have got on the Hugo ballots and won.
+
+465
+00:25:45,820 --> 00:25:56,360
+So if these novels are not currently getting on the Hugo short list or long list at all, does that indicate that there's just not quite enough there that the readership
+are reading to get on?
+
+466
+00:25:56,360 --> 00:26:05,280
+I mean, the solution here would be to run it as a like a trial balloon category, like best poetry and best game for a year or two years and see what you get.
+
+467
+00:26:05,280 --> 00:26:15,060
+I think my other objection, which is not really specific about best translation is more philosophical, is that we are never getting rid of any Hugos and we're just
+getting more and more.
+
+468
+00:26:15,060 --> 00:26:24,600
+And I don't believe we will ever get rid of Hugo because I think as soon as anyone proposes to get rid of a Hugo, there will be enough people who really care about it that
+they will show up and vote to not get rid of it.
+
+469
+00:26:24,600 --> 00:26:33,920
+So I think it is becoming an issue of how many awards we have and how long the award ceremonies are and how much overhead this is for conventions to manage.
+
+470
+00:26:33,920 --> 00:26:36,520
+And I just don't see us ever going down.
+
+471
+00:26:36,520 --> 00:26:40,280
+But that's not really specific to any of the actual proposed Hugos.
+
+472
+00:26:40,280 --> 00:26:43,840
+It's just my feeling that we've got a lot and I don't know what we do about that.
+
+473
+00:26:44,160 --> 00:26:45,380
+Maybe we just have lots and it's fine.
+
+474
+00:26:45,380 --> 00:26:49,700
+Yeah, I think you've basically covered all of my points between you.
+
+475
+00:26:49,700 --> 00:26:54,020
+It's really the overlap and how many Hugos do we need anyway.
+
+476
+00:26:54,020 --> 00:27:00,560
+Are there other ways that we could recognise translated fiction that aren't having a special Hugo?
+
+477
+00:27:00,560 --> 00:27:04,720
+Do you mean as Worldcon or as the field in general?
+
+478
+00:27:04,720 --> 00:27:06,520
+As the field in general, I think.
+
+479
+00:27:06,520 --> 00:27:13,040
+And partly some of this is about having publishers looking out for the best books in other languages.
+
+480
+00:27:13,260 --> 00:27:15,440
+And it doesn't even need to be other languages.
+
+481
+00:27:15,440 --> 00:27:26,260
+There are plenty of great books written in English in countries other than the US and the UK that don't actually ever make it to US and UK publishers.
+
+482
+00:27:26,260 --> 00:27:27,980
+Though that is better than it used to be.
+
+483
+00:27:27,980 --> 00:27:33,320
+And I think just looking more widely for your science fiction is a good thing.
+
+484
+00:27:33,600 --> 00:27:34,300
+I agree.
+
+485
+00:27:34,300 --> 00:27:36,700
+I think so.
+
+486
+00:27:36,700 --> 00:27:39,340
+I think Casella is making a specific argument about translation.
+
+487
+00:27:39,340 --> 00:27:44,840
+I think because there are lots of books written outside Anglophone countries.
+
+488
+00:27:45,300 --> 00:27:52,940
+I'm reluctant to say just the US and the UK because I am reminded, for instance, that Canada also has quite a big impact on Anglophone fiction.
+
+489
+00:27:52,940 --> 00:27:56,460
+And I'm sure that Ireland, Australia and New Zealand would also want to have a vote.
+
+490
+00:27:56,980 --> 00:28:11,400
+I think the thing is that if you seek to recognise books written in English outside Anglophone countries, are you encouraging the sort of dynamics of that global
+hegemony in the same way the Worldcon already does?
+
+491
+00:28:11,540 --> 00:28:18,120
+And might Casella be suggesting this because he thinks actually disrupting that dynamic might be a good thing?
+
+492
+00:28:18,120 --> 00:28:20,560
+And so I do take the point.
+
+493
+00:28:20,560 --> 00:28:26,600
+I don't think I want to see an award for best science fiction from outside an Anglophone country.
+
+494
+00:28:26,600 --> 00:28:30,780
+But I do think having an award for translated work would be cool.
+
+495
+00:28:30,780 --> 00:28:33,280
+I am curious and I have not done the research.
+
+496
+00:28:33,760 --> 00:28:44,900
+But I would be very curious to see how many translated works make it onto the short lists or not the short lists or the long lists for the Hugo Awards.
+
+497
+00:28:44,900 --> 00:28:57,020
+Like Casella gives the the numbers of non-English works that have made it to finalists for their three for best novel, two for novella, three for novelette, one for
+short story, one for related work.
+
+498
+00:28:57,020 --> 00:29:02,480
+And so like, you know, clearly that says there's not a critical mass to get them into the traditional Hugo categories.
+
+499
+00:29:02,840 --> 00:29:06,760
+But do people like are people reading these enough that they make it onto the long lists?
+
+500
+00:29:06,760 --> 00:29:09,900
+Because if they are, then this award could work.
+
+501
+00:29:09,900 --> 00:29:18,280
+But if they're not, I think that the constituency might be so uneducated in this sector that it ends up not being viable at all.
+
+502
+00:29:18,280 --> 00:29:20,280
+And I think I'd be interested to see whether.
+
+503
+00:29:20,280 --> 00:29:23,060
+Yeah, I'd be just interested to see what that data says, basically.
+
+504
+00:29:23,060 --> 00:29:26,320
+But I think Liz's point about trial balloon is also very good.
+
+505
+00:29:26,320 --> 00:29:29,740
+Like run it for a year and see what the numbers are and see what happens.
+
+506
+00:29:29,740 --> 00:29:31,680
+You don't necessarily have to run it as a Hugo.
+
+507
+00:29:31,680 --> 00:29:35,780
+I don't know whether any Worldcon can obviously award a special award.
+
+508
+00:29:35,780 --> 00:29:40,360
+But I guess running it as a Hugo would make the point better than running it as not a Hugo.
+
+509
+00:29:40,360 --> 00:29:45,080
+Even if you thought in the long run running it as a Hugo was not the right way to do it.
+
+510
+00:29:45,080 --> 00:29:46,720
+That was a very convoluted point.
+
+511
+00:29:46,720 --> 00:29:48,080
+But hopefully it made sense, listeners.
+
+512
+00:29:48,480 --> 00:29:52,580
+Okay, so I know I should have made this point earlier.
+
+513
+00:29:52,580 --> 00:29:55,160
+And in my defence, I'm tired.
+
+514
+00:29:55,160 --> 00:29:58,780
+But something triggered something in my brain.
+
+515
+00:29:58,780 --> 00:30:05,840
+And I was reminded that the BSFA has introduced an award for best translated short work.
+
+516
+00:30:05,920 --> 00:30:10,200
+And they have done it as a juried award rather than as a public award.
+
+517
+00:30:10,200 --> 00:30:19,260
+And so there's nothing stopping the Worldcon having a juried award for best translated work.
+
+518
+00:30:19,260 --> 00:30:22,200
+And a juried award is probably a much better way to do it because...
+
+519
+00:30:22,200 --> 00:30:25,660
+Yeah, so how much work are juried awards, John?
+
+520
+00:30:25,660 --> 00:30:26,860
+Ah, they're fine.
+
+521
+00:30:26,860 --> 00:30:29,160
+You just read books.
+
+522
+00:30:29,160 --> 00:30:29,620
+It's great.
+
+523
+00:30:30,160 --> 00:30:34,000
+I think I would also say that there was a science fiction and fantasy translation award,
+
+524
+00:30:34,000 --> 00:30:36,280
+which I believe was juried.
+
+525
+00:30:36,280 --> 00:30:38,580
+It only lasted a few years.
+
+526
+00:30:38,580 --> 00:30:41,580
+And I'm not sure what led it to close.
+
+527
+00:30:41,580 --> 00:30:44,980
+But maybe that would be something that could be revived.
+
+528
+00:30:44,980 --> 00:30:46,800
+The problem...
+
+529
+00:30:46,800 --> 00:30:49,020
+The problem with the juried...
+
+530
+00:30:49,020 --> 00:30:51,780
+So, in order to submit a book to the Arthur C. Clarke Award,
+
+531
+00:30:51,780 --> 00:30:53,880
+you have to pay £250 to submit your book.
+
+532
+00:30:53,880 --> 00:30:56,560
+And that makes a lot of sense because the Arthur C. Clarke Award
+
+533
+00:30:56,560 --> 00:31:01,820
+firstly has a cash prize of the number of pounds equals to year.
+
+534
+00:31:01,820 --> 00:31:06,280
+And also the Arthur C. Clarke Award has been around long enough
+
+535
+00:31:06,280 --> 00:31:08,560
+that it has a cultural cachet that means you want to win one.
+
+536
+00:31:08,560 --> 00:31:10,760
+The problem with spinning up a new juried award
+
+537
+00:31:10,760 --> 00:31:13,840
+is how do you get the books to your jury?
+
+538
+00:31:13,840 --> 00:31:17,900
+And do you make them all by them themselves?
+
+539
+00:31:17,900 --> 00:31:22,000
+Which disenfranchises anyone on the jury who cannot afford to do that.
+
+540
+00:31:22,000 --> 00:31:24,360
+Do you give it some endowment?
+
+541
+00:31:24,620 --> 00:31:27,200
+And if you do, where does that come from?
+
+542
+00:31:27,200 --> 00:31:28,460
+Does it come from the Worldcon?
+
+543
+00:31:28,460 --> 00:31:29,400
+Can you persuade...
+
+544
+00:31:29,400 --> 00:31:32,720
+You might be able to persuade one Worldcon committee to do that.
+
+545
+00:31:32,720 --> 00:31:35,400
+Can you persuade enough that you get the critical mass
+
+546
+00:31:35,400 --> 00:31:38,500
+to have a juried award go forward for a long enough time?
+
+547
+00:31:38,500 --> 00:31:42,580
+You might be able to persuade our authors to submit for free.
+
+548
+00:31:42,580 --> 00:31:45,340
+Like, give us free books, we might give you an award.
+
+549
+00:31:45,340 --> 00:31:47,120
+That could work.
+
+550
+00:31:47,120 --> 00:31:48,720
+Might be the best option.
+
+551
+00:31:48,720 --> 00:31:51,460
+But there are considerations with a juried award
+
+552
+00:31:51,460 --> 00:31:53,500
+which the Hugos don't really have to think about
+
+553
+00:31:53,500 --> 00:31:55,380
+because the Hugos don't...
+
+554
+00:31:55,380 --> 00:31:57,100
+Firstly, the Hugos have the cachet already.
+
+555
+00:31:57,100 --> 00:32:00,120
+But secondly, the Hugos rely on people reading
+
+556
+00:32:00,120 --> 00:32:01,900
+sort of nominating books they've already read.
+
+557
+00:32:01,900 --> 00:32:04,600
+So you don't need to try and give everyone all of the books.
+
+558
+00:32:04,600 --> 00:32:06,480
+The Clarke...
+
+559
+00:32:06,480 --> 00:32:07,140
+Yeah, like I say,
+
+560
+00:32:07,140 --> 00:32:09,380
+you have to pay £250 and also give
+
+561
+00:32:09,380 --> 00:32:14,400
+seven hard copies of your book to the award.
+
+562
+00:32:14,920 --> 00:32:16,440
+And there will be...
+
+563
+00:32:16,440 --> 00:32:18,380
+For a new award, there will be lots of people who think,
+
+564
+00:32:18,380 --> 00:32:19,200
+I'm not going to do that.
+
+565
+00:32:19,200 --> 00:32:21,700
+And that might impact how viable it is.
+
+566
+00:32:21,700 --> 00:32:23,040
+I wonder whether it would.
+
+567
+00:32:23,040 --> 00:32:26,060
+I'd be interested in hearing about other sort of newer,
+
+568
+00:32:26,060 --> 00:32:27,480
+more junior juried awards,
+
+569
+00:32:27,480 --> 00:32:29,100
+how they do submissions and stuff.
+
+570
+00:32:29,100 --> 00:32:31,060
+Because I don't have a good view of that.
+
+571
+00:32:31,060 --> 00:32:32,900
+So if any listeners know, please write in.
+
+572
+00:32:32,900 --> 00:32:34,760
+A couple of other things to add is,
+
+573
+00:32:34,760 --> 00:32:36,840
+I did go back for the past few years
+
+574
+00:32:36,840 --> 00:32:39,040
+and do what John suggests and look in the long list
+
+575
+00:32:39,040 --> 00:32:40,280
+to see what is there in translation.
+
+576
+00:32:40,280 --> 00:32:41,400
+Love you, Les.
+
+577
+00:32:41,520 --> 00:32:44,860
+But basically everything since about 2021 is skewed
+
+578
+00:32:44,860 --> 00:32:48,460
+because of the 2023 Worldcon in China.
+
+579
+00:32:48,460 --> 00:32:50,660
+There are non-English language stories
+
+580
+00:32:50,660 --> 00:32:52,100
+and translated stories on those lists,
+
+581
+00:32:52,100 --> 00:32:52,760
+but they're almost,
+
+582
+00:32:52,760 --> 00:32:54,860
+I think they're all exclusively Chinese
+
+583
+00:32:54,860 --> 00:32:55,740
+or Chinese translations.
+
+584
+00:32:55,740 --> 00:32:57,100
+And the other thing is,
+
+585
+00:32:57,100 --> 00:32:59,000
+I had a quick look at the World Fantasy Award,
+
+586
+00:32:59,000 --> 00:33:00,680
+which has this kind of hybrid
+
+587
+00:33:00,680 --> 00:33:03,060
+voted by attendees of the World Fantasy Award
+
+588
+00:33:03,060 --> 00:33:06,320
+and also judges who can add extra nominees
+
+589
+00:33:06,320 --> 00:33:07,160
+before they vote,
+
+590
+00:33:07,160 --> 00:33:10,000
+has occasionally nominated and awarded
+
+591
+00:33:10,000 --> 00:33:12,020
+translated novels.
+
+592
+00:33:12,020 --> 00:33:13,840
+In particular, in 2006,
+
+593
+00:33:13,840 --> 00:33:16,060
+they gave it to Murakami for Kafka on the Shore.
+
+594
+00:33:16,060 --> 00:33:17,440
+They've also nominated,
+
+595
+00:33:17,440 --> 00:33:18,460
+I think, Perfume
+
+596
+00:33:18,460 --> 00:33:20,380
+and The Memory Police
+
+597
+00:33:20,380 --> 00:33:21,300
+are both in translation.
+
+598
+00:33:21,300 --> 00:33:24,120
+So they are occasionally picking out translations,
+
+599
+00:33:24,120 --> 00:33:25,680
+although I think those are all
+
+600
+00:33:25,680 --> 00:33:26,960
+kind of very popular translations
+
+601
+00:33:26,960 --> 00:33:28,220
+that a lot of people will have heard of.
+
+602
+00:33:28,220 --> 00:33:30,380
+I'd be really interested to know
+
+603
+00:33:30,380 --> 00:33:32,560
+if they came from the voters
+
+604
+00:33:32,560 --> 00:33:33,520
+or from the jury.
+
+605
+00:33:33,520 --> 00:33:34,680
+And I don't think there's any way
+
+606
+00:33:34,680 --> 00:33:35,580
+you ever find out
+
+607
+00:33:35,580 --> 00:33:37,300
+which ones kind of are jury editions
+
+608
+00:33:37,300 --> 00:33:39,320
+and which ones are voted ones.
+
+609
+00:33:39,320 --> 00:33:40,340
+But that would be really interesting.
+
+610
+00:33:40,340 --> 00:33:42,440
+So they do occasionally award that.
+
+611
+00:33:42,440 --> 00:33:44,960
+I had a quick look at the Nebulas
+
+612
+00:33:44,960 --> 00:33:47,660
+and I think there was like one
+
+613
+00:33:47,660 --> 00:33:48,780
+that I spotted.
+
+614
+00:33:48,780 --> 00:33:50,600
+This is not a very systematic,
+
+615
+00:33:50,600 --> 00:33:53,500
+I've not done a very systematic survey though.
+
+616
+00:33:53,500 --> 00:33:55,720
+So there's probably more that I don't know.
+
+617
+00:33:55,720 --> 00:33:56,480
+And sometimes in,
+
+618
+00:33:56,480 --> 00:33:57,380
+I was looking at Wikipedia
+
+619
+00:33:57,380 --> 00:33:59,420
+and they don't always credit the translators.
+
+620
+00:33:59,420 --> 00:34:00,820
+It's hard to know if there are translations,
+
+621
+00:34:00,820 --> 00:34:02,080
+but I think they,
+
+622
+00:34:02,080 --> 00:34:05,480
+yeah, they have nominated like Calvino way back.
+
+623
+00:34:05,800 --> 00:34:06,880
+Although that is in 1975
+
+624
+00:34:06,880 --> 00:34:08,480
+when apparently the best novel shortlist
+
+625
+00:34:08,480 --> 00:34:09,480
+was about 20 novels.
+
+626
+00:34:09,480 --> 00:34:11,960
+So do not remember
+
+627
+00:34:11,960 --> 00:34:14,180
+or know what was going on there.
+
+628
+00:34:14,180 --> 00:34:14,980
+But yeah,
+
+629
+00:34:14,980 --> 00:34:16,760
+I just did also want to add
+
+630
+00:34:16,760 --> 00:34:17,540
+that the Science Fiction
+
+631
+00:34:17,540 --> 00:34:18,500
+and Fantasy Translation Awards,
+
+632
+00:34:18,500 --> 00:34:19,960
+I think had some sponsorship
+
+633
+00:34:19,960 --> 00:34:21,760
+from various foundations and things.
+
+634
+00:34:21,760 --> 00:34:22,460
+They closed them
+
+635
+00:34:22,460 --> 00:34:24,480
+because they didn't have the time and energy
+
+636
+00:34:24,480 --> 00:34:26,340
+for all the people involved to run them.
+
+637
+00:34:26,340 --> 00:34:27,140
+So it wasn't financial.
+
+638
+00:34:27,140 --> 00:34:28,160
+Okay, interesting.
+
+639
+00:34:28,160 --> 00:34:28,940
+That's good to know.
+
+640
+00:34:28,940 --> 00:34:31,240
+So I'm just looking through,
+
+641
+00:34:31,240 --> 00:34:33,620
+I have just read a lot of books
+
+642
+00:34:33,620 --> 00:34:34,320
+for the Clark Award.
+
+643
+00:34:34,320 --> 00:34:36,060
+Far more, you know,
+
+644
+00:34:36,060 --> 00:34:39,260
+far more books from the wider genre
+
+645
+00:34:39,260 --> 00:34:40,380
+than I would usually read.
+
+646
+00:34:40,380 --> 00:34:41,960
+And as part of that,
+
+647
+00:34:41,960 --> 00:34:43,700
+I have read three books in translation,
+
+648
+00:34:43,700 --> 00:34:46,660
+which were Nomadland by Francesco Verso,
+
+649
+00:34:46,660 --> 00:34:48,120
+Jump Noughts by Hao Jing Fang,
+
+650
+00:34:48,120 --> 00:34:49,700
+and The Mark by Frieda Eisberg,
+
+651
+00:34:49,700 --> 00:34:51,180
+which was my pick last episode
+
+652
+00:34:51,180 --> 00:34:51,800
+or the episode before,
+
+653
+00:34:51,800 --> 00:34:52,240
+can't remember.
+
+654
+00:34:52,240 --> 00:34:54,360
+And so I have not read enough
+
+655
+00:34:54,360 --> 00:34:55,580
+works in translation
+
+656
+00:34:55,580 --> 00:34:58,980
+to fill my Hugo nomination ballot
+
+657
+00:34:58,980 --> 00:34:59,880
+this year.
+
+658
+00:35:00,200 --> 00:35:01,580
+and I am a Clark Award judge.
+
+659
+00:35:01,580 --> 00:35:03,660
+So I suspect I'm towards
+
+660
+00:35:03,660 --> 00:35:04,980
+one end of the bell curve
+
+661
+00:35:04,980 --> 00:35:06,640
+on how well read I am.
+
+662
+00:35:06,640 --> 00:35:09,320
+And so if I don't have enough
+
+663
+00:35:09,320 --> 00:35:11,380
+to put a bunch in
+
+664
+00:35:11,380 --> 00:35:13,040
+to other people,
+
+665
+00:35:13,040 --> 00:35:16,340
+I would say probably not.
+
+666
+00:35:16,340 --> 00:35:18,480
+And so I don't think this works
+
+667
+00:35:18,480 --> 00:35:19,440
+as a Hugo Award
+
+668
+00:35:19,440 --> 00:35:20,760
+that isn't juried
+
+669
+00:35:20,760 --> 00:35:22,920
+because I don't think people
+
+670
+00:35:22,920 --> 00:35:24,500
+have the breadth of reading.
+
+671
+00:35:24,500 --> 00:35:26,800
+But I think to test this,
+
+672
+00:35:26,800 --> 00:35:28,780
+we would need to do a trial balloon
+
+673
+00:35:28,780 --> 00:35:30,380
+because it might be that I'm wrong.
+
+674
+00:35:30,380 --> 00:35:31,480
+I would like,
+
+675
+00:35:31,480 --> 00:35:31,860
+I would,
+
+676
+00:35:31,860 --> 00:35:32,900
+and to be clear,
+
+677
+00:35:32,900 --> 00:35:34,600
+I would very much like to be wrong.
+
+678
+00:35:34,600 --> 00:35:35,940
+I would very much like it
+
+679
+00:35:35,940 --> 00:35:36,740
+if Wasfus generally
+
+680
+00:35:36,740 --> 00:35:37,740
+was reading lots of works
+
+681
+00:35:37,740 --> 00:35:38,340
+in translation.
+
+682
+00:35:38,340 --> 00:35:39,740
+And I think that would be great.
+
+683
+00:35:39,740 --> 00:35:41,440
+But for much the same reason
+
+684
+00:35:41,440 --> 00:35:42,440
+that when the first time,
+
+685
+00:35:42,440 --> 00:35:43,120
+what was the year
+
+686
+00:35:43,120 --> 00:35:44,580
+they first run the game,
+
+687
+00:35:44,580 --> 00:35:44,820
+Hugo?
+
+688
+00:35:44,820 --> 00:35:46,280
+It was LA Con 4, right?
+
+689
+00:35:46,280 --> 00:35:47,560
+Yeah, 2006.
+
+690
+00:35:47,560 --> 00:35:48,760
+And it didn't go.
+
+691
+00:35:48,760 --> 00:35:49,100
+Yeah.
+
+692
+00:35:49,100 --> 00:35:51,240
+And so like in 2006,
+
+693
+00:35:51,240 --> 00:35:52,920
+the Hugo Award
+
+694
+00:35:52,920 --> 00:35:55,060
+was awarded for?
+
+695
+00:35:55,060 --> 00:35:56,940
+They didn't award one in 2006
+
+696
+00:35:56,940 --> 00:35:57,940
+for best game.
+
+697
+00:35:58,340 --> 00:35:59,760
+Or did they try it
+
+698
+00:35:59,760 --> 00:36:00,520
+and it didn't work?
+
+699
+00:36:00,520 --> 00:36:01,640
+They trialed it.
+
+700
+00:36:01,640 --> 00:36:02,760
+I'm pretty sure they trialed it
+
+701
+00:36:02,760 --> 00:36:03,800
+and there weren't enough nominations.
+
+702
+00:36:03,800 --> 00:36:04,640
+Okay.
+
+703
+00:36:04,640 --> 00:36:06,120
+And like I was,
+
+704
+00:36:06,120 --> 00:36:07,580
+as everyone who listens to this knows,
+
+705
+00:36:07,580 --> 00:36:08,660
+I was a big booster
+
+706
+00:36:08,660 --> 00:36:09,640
+of the best game Hugo.
+
+707
+00:36:09,640 --> 00:36:11,160
+I was part of the team
+
+708
+00:36:11,160 --> 00:36:11,680
+that wrote
+
+709
+00:36:11,680 --> 00:36:13,180
+the best game Hugo proposal,
+
+710
+00:36:13,180 --> 00:36:15,200
+a relatively minor part,
+
+711
+00:36:15,200 --> 00:36:16,380
+but I did help.
+
+712
+00:36:16,380 --> 00:36:18,520
+I voted enthusiastically for it
+
+713
+00:36:18,520 --> 00:36:19,740
+every time I could vote
+
+714
+00:36:19,740 --> 00:36:21,440
+and I have nominated for it.
+
+715
+00:36:21,440 --> 00:36:21,920
+I mean,
+
+716
+00:36:21,920 --> 00:36:23,060
+obviously I've mostly nominated
+
+717
+00:36:23,060 --> 00:36:23,500
+board games,
+
+718
+00:36:23,500 --> 00:36:24,020
+which have made it
+
+719
+00:36:24,020 --> 00:36:24,700
+nowhere near the ballot,
+
+720
+00:36:24,700 --> 00:36:25,500
+but I've nominated,
+
+721
+00:36:25,500 --> 00:36:25,960
+damn it.
+
+722
+00:36:26,480 --> 00:36:27,440
+And so I'm a big fan
+
+723
+00:36:27,440 --> 00:36:27,660
+of that,
+
+724
+00:36:27,660 --> 00:36:27,880
+Hugo.
+
+725
+00:36:27,880 --> 00:36:28,980
+But in 2006,
+
+726
+00:36:28,980 --> 00:36:29,640
+it wasn't ready
+
+727
+00:36:29,640 --> 00:36:31,000
+because we hadn't done
+
+728
+00:36:31,000 --> 00:36:32,760
+the work of the intervening
+
+729
+00:36:32,760 --> 00:36:34,120
+15 to 20 years
+
+730
+00:36:34,120 --> 00:36:35,000
+of building up
+
+731
+00:36:35,000 --> 00:36:36,680
+the Worldcon's awareness
+
+732
+00:36:36,680 --> 00:36:38,140
+of games.
+
+733
+00:36:38,140 --> 00:36:39,140
+And Era,
+
+734
+00:36:39,140 --> 00:36:41,740
+who did that work,
+
+735
+00:36:41,740 --> 00:36:44,120
+spent years on it,
+
+736
+00:36:44,120 --> 00:36:45,060
+years and years,
+
+737
+00:36:45,060 --> 00:36:46,480
+building up that literacy
+
+738
+00:36:46,480 --> 00:36:47,360
+in the community
+
+739
+00:36:47,360 --> 00:36:49,180
+and also games developed
+
+740
+00:36:49,180 --> 00:36:49,960
+in parallel,
+
+741
+00:36:49,960 --> 00:36:51,120
+which helped a lot.
+
+742
+00:36:51,520 --> 00:36:52,240
+And so I think this is
+
+743
+00:36:52,240 --> 00:36:53,020
+a really good idea,
+
+744
+00:36:53,020 --> 00:36:53,940
+but I think it's the sort
+
+745
+00:36:53,940 --> 00:36:55,520
+of thing where I would
+
+746
+00:36:55,520 --> 00:36:56,720
+imagine it might end up
+
+747
+00:36:56,720 --> 00:36:57,220
+an award,
+
+748
+00:36:57,220 --> 00:36:58,860
+I would say the earliest
+
+749
+00:36:58,860 --> 00:36:59,720
+this is going to end up
+
+750
+00:36:59,720 --> 00:37:00,400
+being an actual award
+
+751
+00:37:00,400 --> 00:37:01,080
+is 2035,
+
+752
+00:37:01,080 --> 00:37:02,520
+because I don't think
+
+753
+00:37:02,520 --> 00:37:03,280
+it's cooked yet.
+
+754
+00:37:03,280 --> 00:37:04,340
+And I might be wrong.
+
+755
+00:37:04,340 --> 00:37:05,280
+I'd love to be wrong.
+
+756
+00:37:05,280 --> 00:37:06,780
+But if I'm not wrong,
+
+757
+00:37:06,780 --> 00:37:08,480
+the next step is to build
+
+758
+00:37:08,480 --> 00:37:10,540
+the capacity to support
+
+759
+00:37:10,540 --> 00:37:11,120
+the award.
+
+760
+00:37:11,120 --> 00:37:12,140
+And that's going to take
+
+761
+00:37:12,140 --> 00:37:12,880
+a very long time
+
+762
+00:37:12,880 --> 00:37:13,380
+and be very,
+
+763
+00:37:13,380 --> 00:37:14,140
+very arduous.
+
+764
+00:37:14,140 --> 00:37:15,260
+But I think it's work
+
+765
+00:37:15,260 --> 00:37:15,920
+worth doing.
+
+766
+00:37:15,920 --> 00:37:16,560
+Yeah.
+
+767
+00:37:16,560 --> 00:37:17,620
+I think that's,
+
+768
+00:37:17,620 --> 00:37:18,020
+yeah,
+
+769
+00:37:18,020 --> 00:37:18,680
+there might be a slightly
+
+770
+00:37:18,680 --> 00:37:19,520
+pessimistic take.
+
+771
+00:37:19,640 --> 00:37:21,020
+It's a long term optimism.
+
+772
+00:37:21,020 --> 00:37:21,960
+What do we reckon?
+
+773
+00:37:21,960 --> 00:37:23,080
+I will just say that
+
+774
+00:37:23,080 --> 00:37:26,020
+having looked up the 2006 stats,
+
+775
+00:37:26,020 --> 00:37:28,180
+it was also a very different era
+
+776
+00:37:28,180 --> 00:37:29,740
+in terms of the number of people
+
+777
+00:37:29,740 --> 00:37:30,540
+who were nominating
+
+778
+00:37:30,540 --> 00:37:31,060
+for the Hugos,
+
+779
+00:37:31,060 --> 00:37:32,640
+because it is much smaller
+
+780
+00:37:32,640 --> 00:37:33,940
+than it is even now
+
+781
+00:37:33,940 --> 00:37:35,140
+after we've had a bit of a drop off
+
+782
+00:37:35,140 --> 00:37:35,920
+in the past few years.
+
+783
+00:37:35,920 --> 00:37:38,680
+And so that could also be one reason.
+
+784
+00:37:38,680 --> 00:37:40,120
+There just wasn't the population
+
+785
+00:37:40,120 --> 00:37:40,760
+of people there
+
+786
+00:37:40,760 --> 00:37:41,960
+who were nominating in the Hugos
+
+787
+00:37:41,960 --> 00:37:43,240
+who were playing enough games.
+
+788
+00:37:43,240 --> 00:37:44,380
+Oh, you weren't saying anything.
+
+789
+00:37:44,380 --> 00:37:44,720
+Okay.
+
+790
+00:37:44,720 --> 00:37:48,020
+I will also say that I do think
+
+791
+00:37:48,020 --> 00:37:49,160
+that when we talk about novels
+
+792
+00:37:49,160 --> 00:37:49,840
+in translation,
+
+793
+00:37:49,840 --> 00:37:50,820
+there's kind of almost
+
+794
+00:37:50,820 --> 00:37:51,560
+two different things
+
+795
+00:37:51,560 --> 00:37:52,740
+we are talking about sometimes
+
+796
+00:37:52,740 --> 00:37:54,900
+because looking at the debate
+
+797
+00:37:54,900 --> 00:37:55,840
+around Casella's post,
+
+798
+00:37:55,840 --> 00:37:56,500
+it was kind of about
+
+799
+00:37:56,500 --> 00:37:58,020
+the very sort of literary side
+
+800
+00:37:58,020 --> 00:37:58,620
+of translation,
+
+801
+00:37:58,620 --> 00:37:59,360
+that they're coming from
+
+802
+00:37:59,360 --> 00:38:00,520
+small literary presses
+
+803
+00:38:00,520 --> 00:38:01,580
+and the things that were mentioned
+
+804
+00:38:01,580 --> 00:38:02,060
+were books from
+
+805
+00:38:02,060 --> 00:38:02,820
+small literary presses.
+
+806
+00:38:02,820 --> 00:38:04,480
+But I think we're also overlooking
+
+807
+00:38:04,480 --> 00:38:05,320
+that there is like
+
+808
+00:38:05,320 --> 00:38:06,620
+huge readership
+
+809
+00:38:06,620 --> 00:38:07,560
+for some of the sort of
+
+810
+00:38:07,560 --> 00:38:08,260
+translated,
+
+811
+00:38:08,260 --> 00:38:11,580
+like recent Chinese
+
+812
+00:38:11,580 --> 00:38:12,940
+and Japanese novels.
+
+813
+00:38:12,940 --> 00:38:14,060
+And I'm pretty sure
+
+814
+00:38:14,060 --> 00:38:15,040
+like if you'd run this
+
+815
+00:38:15,040 --> 00:38:16,280
+in the past few years,
+
+816
+00:38:16,280 --> 00:38:17,240
+it would have been
+
+817
+00:38:17,240 --> 00:38:19,060
+like a lot of the
+
+818
+00:38:19,060 --> 00:38:20,280
+translated Chinese web novels,
+
+819
+00:38:20,280 --> 00:38:21,080
+like probably
+
+820
+00:38:21,080 --> 00:38:23,160
+Grandmaster of Demonic Cultivation
+
+821
+00:38:23,160 --> 00:38:23,980
+that everyone was reading
+
+822
+00:38:23,980 --> 00:38:25,600
+during COVID times.
+
+823
+00:38:25,600 --> 00:38:27,020
+So you might get
+
+824
+00:38:27,020 --> 00:38:28,320
+a very unexpected shortlist.
+
+825
+00:38:28,320 --> 00:38:30,040
+I don't think there's a way
+
+826
+00:38:30,040 --> 00:38:30,780
+you could change this.
+
+827
+00:38:30,780 --> 00:38:32,380
+If you have a juried award
+
+828
+00:38:32,380 --> 00:38:33,420
+for translated works,
+
+829
+00:38:33,420 --> 00:38:36,220
+I assume you're doing works
+
+830
+00:38:36,220 --> 00:38:36,800
+that have been translated
+
+831
+00:38:36,800 --> 00:38:37,380
+into English.
+
+832
+00:38:37,380 --> 00:38:38,380
+Hmm.
+
+833
+00:38:39,820 --> 00:38:40,980
+I think that's the way
+
+834
+00:38:40,980 --> 00:38:41,920
+you'd have to do it.
+
+835
+00:38:41,920 --> 00:38:43,440
+If someone reads the
+
+836
+00:38:43,440 --> 00:38:44,740
+Ukrainian translation
+
+837
+00:38:44,740 --> 00:38:45,560
+of Lord of the Rings,
+
+838
+00:38:45,560 --> 00:38:47,000
+which is a new translation,
+
+839
+00:38:47,000 --> 00:38:48,480
+and like,
+
+840
+00:38:48,480 --> 00:38:49,360
+what is that?
+
+841
+00:38:49,360 --> 00:38:50,080
+Does that count?
+
+842
+00:38:50,080 --> 00:38:51,360
+Probably not.
+
+843
+00:38:51,360 --> 00:38:52,960
+But like...
+
+844
+00:38:52,960 --> 00:38:53,960
+Well, also,
+
+845
+00:38:53,960 --> 00:38:56,680
+we had the new translation
+
+846
+00:38:56,680 --> 00:38:57,560
+of Beowulf
+
+847
+00:38:57,560 --> 00:38:59,280
+on the Hugo Ballot
+
+848
+00:38:59,280 --> 00:39:01,000
+in Best Related Work
+
+849
+00:39:01,000 --> 00:39:01,660
+a few years ago,
+
+850
+00:39:01,660 --> 00:39:02,140
+which won.
+
+851
+00:39:02,140 --> 00:39:03,040
+I mean, it was amazing.
+
+852
+00:39:03,040 --> 00:39:04,640
+It's a fantastic translation.
+
+853
+00:39:05,500 --> 00:39:06,720
+But that is a translation
+
+854
+00:39:06,720 --> 00:39:08,080
+from Old English
+
+855
+00:39:08,080 --> 00:39:09,040
+into English.
+
+856
+00:39:09,040 --> 00:39:10,460
+I wonder if Casella
+
+857
+00:39:10,460 --> 00:39:11,300
+included that
+
+858
+00:39:11,300 --> 00:39:12,060
+in his stats
+
+859
+00:39:12,060 --> 00:39:12,900
+about translations
+
+860
+00:39:12,900 --> 00:39:14,540
+reaching the finalists.
+
+861
+00:39:14,540 --> 00:39:15,460
+Yes.
+
+862
+00:39:15,460 --> 00:39:16,140
+Did he?
+
+863
+00:39:16,140 --> 00:39:16,740
+Excellent.
+
+864
+00:39:16,740 --> 00:39:17,640
+And yeah,
+
+865
+00:39:17,640 --> 00:39:19,200
+the proposal is
+
+866
+00:39:19,200 --> 00:39:21,460
+specifically for
+
+867
+00:39:21,460 --> 00:39:22,400
+translated English.
+
+868
+00:39:22,400 --> 00:39:23,340
+That makes sense.
+
+869
+00:39:23,340 --> 00:39:24,620
+I think that's the only way
+
+870
+00:39:24,620 --> 00:39:25,140
+you can do it.
+
+871
+00:39:25,140 --> 00:39:26,060
+Like, it just occurred
+
+872
+00:39:26,060 --> 00:39:26,880
+to me as a thing.
+
+873
+00:39:26,880 --> 00:39:27,520
+Yes.
+
+874
+00:39:27,520 --> 00:39:28,660
+I think...
+
+875
+00:39:28,660 --> 00:39:30,060
+I don't think we have
+
+876
+00:39:30,060 --> 00:39:31,420
+a fully educated
+
+877
+00:39:31,420 --> 00:39:32,800
+body of voters,
+
+878
+00:39:32,800 --> 00:39:33,720
+but then that's probably
+
+879
+00:39:33,720 --> 00:39:35,020
+true for some Hugos
+
+880
+00:39:35,020 --> 00:39:35,700
+we've already got.
+
+881
+00:39:35,700 --> 00:39:36,420
+So, you know.
+
+882
+00:39:36,420 --> 00:39:37,460
+Certainly Best Editor.
+
+883
+00:39:37,460 --> 00:39:38,700
+I still don't know
+
+884
+00:39:38,700 --> 00:39:39,440
+what editors do.
+
+885
+00:39:39,440 --> 00:39:40,960
+I do know they edit,
+
+886
+00:39:40,960 --> 00:39:43,160
+but I do still think
+
+887
+00:39:43,160 --> 00:39:43,920
+the best way to do it
+
+888
+00:39:43,920 --> 00:39:44,480
+would be to give
+
+889
+00:39:44,480 --> 00:39:45,560
+the editor on all
+
+890
+00:39:45,560 --> 00:39:47,360
+of the fiction awards
+
+891
+00:39:47,360 --> 00:39:48,320
+a Hugo as well
+
+892
+00:39:48,320 --> 00:39:48,840
+as the author
+
+893
+00:39:48,840 --> 00:39:49,840
+and recognise
+
+894
+00:39:49,840 --> 00:39:50,640
+the editors that way
+
+895
+00:39:50,640 --> 00:39:51,100
+because I think
+
+896
+00:39:51,100 --> 00:39:52,020
+it would be so much easier.
+
+897
+00:39:52,020 --> 00:39:53,000
+Yeah, anyway.
+
+898
+00:39:53,000 --> 00:39:53,940
+That's kind of why
+
+899
+00:39:53,940 --> 00:39:54,520
+I don't want to have
+
+900
+00:39:54,520 --> 00:39:55,820
+a Hugo for Best Translator.
+
+901
+00:39:55,820 --> 00:39:56,620
+Well, I mean,
+
+902
+00:39:56,620 --> 00:39:58,260
+that's...
+
+903
+00:39:58,260 --> 00:39:59,500
+We do have a lot of things
+
+904
+00:39:59,500 --> 00:40:00,320
+to say about translation
+
+905
+00:40:00,320 --> 00:40:01,120
+because that actually
+
+906
+00:40:01,120 --> 00:40:02,000
+reflects the fact
+
+907
+00:40:02,000 --> 00:40:03,300
+that science fiction
+
+908
+00:40:03,300 --> 00:40:04,400
+translation is a
+
+909
+00:40:04,400 --> 00:40:05,740
+specialised job
+
+910
+00:40:05,740 --> 00:40:06,460
+for something
+
+911
+00:40:06,460 --> 00:40:07,100
+which is already
+
+912
+00:40:07,100 --> 00:40:08,220
+a specialised job.
+
+913
+00:40:08,220 --> 00:40:10,560
+And there was...
+
+914
+00:40:10,560 --> 00:40:11,580
+There's been...
+
+915
+00:40:11,580 --> 00:40:12,740
+In regular translations,
+
+916
+00:40:12,740 --> 00:40:13,460
+there's definitely
+
+917
+00:40:13,460 --> 00:40:14,520
+examples where
+
+918
+00:40:14,520 --> 00:40:16,360
+a particular translator
+
+919
+00:40:16,360 --> 00:40:17,540
+from a language
+
+920
+00:40:17,540 --> 00:40:20,020
+has been so good
+
+921
+00:40:20,020 --> 00:40:21,440
+at rendering books
+
+922
+00:40:21,440 --> 00:40:22,140
+into English
+
+923
+00:40:22,140 --> 00:40:24,380
+that the novels
+
+924
+00:40:24,380 --> 00:40:25,340
+of that country
+
+925
+00:40:25,340 --> 00:40:25,900
+have become
+
+926
+00:40:25,900 --> 00:40:27,000
+much more prominent
+
+927
+00:40:27,000 --> 00:40:28,580
+for a while
+
+928
+00:40:28,580 --> 00:40:29,920
+because the translator
+
+929
+00:40:29,920 --> 00:40:30,340
+was doing
+
+930
+00:40:30,340 --> 00:40:31,060
+all the translations.
+
+931
+00:40:31,060 --> 00:40:32,220
+I don't think
+
+932
+00:40:32,220 --> 00:40:32,840
+we've had
+
+933
+00:40:32,840 --> 00:40:33,580
+a translator
+
+934
+00:40:33,580 --> 00:40:34,820
+of that quality
+
+935
+00:40:34,820 --> 00:40:36,540
+working in science fiction
+
+936
+00:40:36,540 --> 00:40:37,040
+ever.
+
+937
+00:40:37,040 --> 00:40:37,780
+And I think
+
+938
+00:40:37,780 --> 00:40:38,720
+it would be very interesting
+
+939
+00:40:38,720 --> 00:40:39,500
+if we got one.
+
+940
+00:40:39,500 --> 00:40:40,860
+Who are you thinking of
+
+941
+00:40:40,860 --> 00:40:41,740
+as the sort of
+
+942
+00:40:41,740 --> 00:40:42,920
+almost celebrity translators?
+
+943
+00:40:42,920 --> 00:40:44,420
+The two examples
+
+944
+00:40:44,420 --> 00:40:45,980
+are the people who...
+
+945
+00:40:45,980 --> 00:40:46,560
+The couple
+
+946
+00:40:46,560 --> 00:40:47,640
+whose names I forget
+
+947
+00:40:47,640 --> 00:40:49,080
+who translate
+
+948
+00:40:49,080 --> 00:40:50,280
+great Russian novels
+
+949
+00:40:50,280 --> 00:40:53,360
+and William Weaver
+
+950
+00:40:53,360 --> 00:40:54,520
+who translated
+
+951
+00:40:54,520 --> 00:40:55,340
+Umberto Eco
+
+952
+00:40:55,340 --> 00:40:56,320
+and Italo Calvino.
+
+953
+00:40:56,320 --> 00:40:57,760
+But there are more.
+
+954
+00:40:57,760 --> 00:40:59,340
+I think magical realism
+
+955
+00:40:59,340 --> 00:41:00,020
+was probably
+
+956
+00:41:00,020 --> 00:41:01,620
+significantly improved
+
+957
+00:41:01,620 --> 00:41:02,240
+by translation.
+
+958
+00:41:02,240 --> 00:41:03,180
+Do you not think
+
+959
+00:41:03,180 --> 00:41:04,260
+Ken Liu is an example?
+
+960
+00:41:04,260 --> 00:41:05,640
+I think he certainly is
+
+961
+00:41:05,640 --> 00:41:06,400
+in the science fiction
+
+962
+00:41:06,400 --> 00:41:07,140
+field.
+
+963
+00:41:07,140 --> 00:41:08,620
+He's probably the closest
+
+964
+00:41:08,620 --> 00:41:09,280
+that we have got
+
+965
+00:41:09,280 --> 00:41:09,940
+in the science fiction
+
+966
+00:41:09,940 --> 00:41:10,520
+field, yes.
+
+967
+00:41:10,520 --> 00:41:11,620
+The names that come to mind
+
+968
+00:41:11,620 --> 00:41:12,620
+are him and Anton Herr.
+
+969
+00:41:12,620 --> 00:41:13,780
+So if you want to end
+
+970
+00:41:13,780 --> 00:41:14,440
+on a quick plug,
+
+971
+00:41:14,440 --> 00:41:15,940
+Anton Herr's translation
+
+972
+00:41:15,940 --> 00:41:17,260
+of Bora Chung's
+
+973
+00:41:17,260 --> 00:41:17,720
+Red Sword
+
+974
+00:41:17,720 --> 00:41:19,060
+is a good book.
+
+975
+00:41:19,060 --> 00:41:20,240
+OK, readers,
+
+976
+00:41:20,240 --> 00:41:21,480
+you may know some examples
+
+977
+00:41:21,480 --> 00:41:22,000
+right in.
+
+978
+00:41:22,000 --> 00:41:23,140
+I mean listeners,
+
+979
+00:41:23,140 --> 00:41:23,780
+obviously.
+
+980
+00:41:23,780 --> 00:41:24,640
+You know.
+
+981
+00:41:24,640 --> 00:41:25,380
+But our listeners
+
+982
+00:41:25,380 --> 00:41:26,120
+are also readers.
+
+983
+00:41:26,120 --> 00:41:27,680
+Listening and reading
+
+984
+00:41:27,680 --> 00:41:28,500
+can be the same.
+
+985
+00:41:28,500 --> 00:41:30,040
+If you read an audiobook
+
+986
+00:41:30,040 --> 00:41:30,580
+you're listening.
+
+987
+00:41:30,580 --> 00:41:32,720
+We're nearly an audiobook.
+
+988
+00:41:32,720 --> 00:41:33,840
+Do you read an audiobook
+
+989
+00:41:33,840 --> 00:41:34,480
+or do you listen
+
+990
+00:41:34,480 --> 00:41:34,960
+to an audiobook?
+
+991
+00:41:34,960 --> 00:41:36,140
+I have heard people
+
+992
+00:41:36,140 --> 00:41:36,860
+say they read them.
+
+993
+00:41:36,860 --> 00:41:38,020
+I think that's
+
+994
+00:41:38,020 --> 00:41:39,500
+a response to the
+
+995
+00:41:39,500 --> 00:41:41,000
+audiobooks aren't real
+
+996
+00:41:41,000 --> 00:41:41,660
+book...
+
+997
+00:41:41,660 --> 00:41:43,380
+Listening to audiobooks
+
+998
+00:41:43,380 --> 00:41:44,240
+isn't real reading
+
+999
+00:41:44,240 --> 00:41:45,080
+brigade,
+
+1000
+00:41:45,220 --> 00:41:46,140
+which I have no truck
+
+1001
+00:41:46,140 --> 00:41:47,220
+with but that is
+
+1002
+00:41:47,220 --> 00:41:48,040
+why people say
+
+1003
+00:41:48,040 --> 00:41:48,540
+they are reading
+
+1004
+00:41:48,540 --> 00:41:49,440
+their audiobooks.
+
+1005
+00:41:49,440 --> 00:41:50,400
+Well it's also like
+
+1006
+00:41:50,400 --> 00:41:50,800
+if someone says
+
+1007
+00:41:50,800 --> 00:41:51,500
+what are you reading
+
+1008
+00:41:51,500 --> 00:41:51,860
+now,
+
+1009
+00:41:51,860 --> 00:41:53,320
+they don't...
+
+1010
+00:41:53,320 --> 00:41:54,220
+They're not making
+
+1011
+00:41:54,220 --> 00:41:55,100
+a value judgment
+
+1012
+00:41:55,100 --> 00:41:56,600
+on the mode in which
+
+1013
+00:41:56,600 --> 00:41:57,300
+the words are entering
+
+1014
+00:41:57,300 --> 00:41:58,100
+your brain, right?
+
+1015
+00:41:58,100 --> 00:41:59,440
+You'd think!
+
+1016
+00:41:59,440 --> 00:42:02,680
+I think that's
+
+1017
+00:42:02,680 --> 00:42:03,160
+the other thing.
+
+1018
+00:42:03,160 --> 00:42:04,140
+We don't want to have
+
+1019
+00:42:04,140 --> 00:42:05,100
+two words for
+
+1020
+00:42:05,100 --> 00:42:06,020
+ingesting book.
+
+1021
+00:42:06,020 --> 00:42:07,080
+This segues
+
+1022
+00:42:07,080 --> 00:42:07,760
+very neatly
+
+1023
+00:42:07,760 --> 00:42:09,480
+into a discussion
+
+1024
+00:42:09,480 --> 00:42:11,620
+of if we think
+
+1025
+00:42:11,620 --> 00:42:12,500
+that the Hugo Wars
+
+1026
+00:42:12,500 --> 00:42:13,280
+do not currently
+
+1027
+00:42:13,280 --> 00:42:14,280
+recognise
+
+1028
+00:42:14,280 --> 00:42:15,320
+the sort of
+
+1029
+00:42:15,320 --> 00:42:16,000
+beating heart
+
+1030
+00:42:16,000 --> 00:42:16,520
+of the genre
+
+1031
+00:42:16,520 --> 00:42:17,300
+and that there
+
+1032
+00:42:17,300 --> 00:42:17,980
+are obvious holes.
+
+1033
+00:42:17,980 --> 00:42:18,940
+Do we think
+
+1034
+00:42:18,940 --> 00:42:19,820
+best translated work
+
+1035
+00:42:19,820 --> 00:42:21,480
+is the biggest hole?
+
+1036
+00:42:21,480 --> 00:42:22,700
+That is to say
+
+1037
+00:42:22,700 --> 00:42:23,380
+I would argue
+
+1038
+00:42:23,380 --> 00:42:24,920
+before the best game
+
+1039
+00:42:24,920 --> 00:42:25,220
+Hugo,
+
+1040
+00:42:25,220 --> 00:42:26,620
+games were the
+
+1041
+00:42:26,620 --> 00:42:27,660
+biggest part
+
+1042
+00:42:27,660 --> 00:42:28,180
+of the genre
+
+1043
+00:42:28,180 --> 00:42:28,820
+that the Hugos
+
+1044
+00:42:28,820 --> 00:42:29,560
+were ignoring.
+
+1045
+00:42:29,560 --> 00:42:31,140
+Is it true
+
+1046
+00:42:31,140 --> 00:42:31,780
+that the next
+
+1047
+00:42:31,780 --> 00:42:32,460
+biggest hole
+
+1048
+00:42:32,460 --> 00:42:33,560
+is translated work
+
+1049
+00:42:33,560 --> 00:42:34,220
+or do we think
+
+1050
+00:42:34,220 --> 00:42:34,820
+there are others?
+
+1051
+00:42:34,820 --> 00:42:35,420
+For example,
+
+1052
+00:42:35,420 --> 00:42:36,180
+audiobooks?
+
+1053
+00:42:36,640 --> 00:42:37,280
+Well, I was
+
+1054
+00:42:37,280 --> 00:42:38,100
+looking at
+
+1055
+00:42:38,100 --> 00:42:40,480
+the proposal
+
+1056
+00:42:40,480 --> 00:42:41,260
+for an audiobook
+
+1057
+00:42:41,260 --> 00:42:42,140
+Hugo for which
+
+1058
+00:42:42,140 --> 00:42:43,080
+there is not
+
+1059
+00:42:43,080 --> 00:42:43,960
+a lot of support.
+
+1060
+00:42:43,960 --> 00:42:45,520
+I'm interested
+
+1061
+00:42:45,520 --> 00:42:46,620
+in audio formats
+
+1062
+00:42:46,620 --> 00:42:47,240
+in general
+
+1063
+00:42:47,240 --> 00:42:47,740
+because I think
+
+1064
+00:42:47,740 --> 00:42:48,540
+they're underrepresented
+
+1065
+00:42:48,540 --> 00:42:49,180
+in the Hugos
+
+1066
+00:42:49,180 --> 00:42:49,720
+but again,
+
+1067
+00:42:49,720 --> 00:42:50,780
+I take the point
+
+1068
+00:42:50,780 --> 00:42:51,140
+that we have
+
+1069
+00:42:51,140 --> 00:42:51,580
+quite a lot of
+
+1070
+00:42:51,580 --> 00:42:52,260
+Hugos already.
+
+1071
+00:42:52,260 --> 00:42:53,720
+At the time
+
+1072
+00:42:53,720 --> 00:42:54,300
+the argument
+
+1073
+00:42:54,300 --> 00:42:55,200
+was, well,
+
+1074
+00:42:55,200 --> 00:42:56,440
+actually you've
+
+1075
+00:42:56,440 --> 00:42:57,560
+got a real
+
+1076
+00:42:57,560 --> 00:42:58,320
+overlap problem
+
+1077
+00:42:58,320 --> 00:42:58,920
+with best novel
+
+1078
+00:42:58,920 --> 00:43:00,000
+here and if
+
+1079
+00:43:00,000 --> 00:43:00,500
+the thing that
+
+1080
+00:43:00,500 --> 00:43:01,500
+you're awarding
+
+1081
+00:43:01,500 --> 00:43:04,000
+is best audio
+
+1082
+00:43:04,000 --> 00:43:04,660
+performance,
+
+1083
+00:43:05,020 --> 00:43:05,500
+then actually
+
+1084
+00:43:05,500 --> 00:43:06,000
+you've already
+
+1085
+00:43:06,000 --> 00:43:07,540
+got space
+
+1086
+00:43:07,540 --> 00:43:08,040
+in the dramatic
+
+1087
+00:43:08,040 --> 00:43:09,280
+presentation categories
+
+1088
+00:43:09,280 --> 00:43:10,460
+for the performance.
+
+1089
+00:43:10,460 --> 00:43:11,100
+I mean,
+
+1090
+00:43:11,100 --> 00:43:12,360
+there is an implicit
+
+1091
+00:43:12,360 --> 00:43:13,740
+problem there,
+
+1092
+00:43:13,740 --> 00:43:14,120
+isn't there,
+
+1093
+00:43:14,120 --> 00:43:14,880
+that audio
+
+1094
+00:43:14,880 --> 00:43:15,340
+performances
+
+1095
+00:43:15,340 --> 00:43:16,140
+almost never,
+
+1096
+00:43:16,140 --> 00:43:17,300
+if not never,
+
+1097
+00:43:17,300 --> 00:43:19,640
+get nominated
+
+1098
+00:43:19,640 --> 00:43:20,300
+in best dramatic.
+
+1099
+00:43:20,300 --> 00:43:21,160
+Yes,
+
+1100
+00:43:21,160 --> 00:43:22,960
+and so there
+
+1101
+00:43:22,960 --> 00:43:23,520
+is an argument
+
+1102
+00:43:23,520 --> 00:43:23,920
+that it would
+
+1103
+00:43:23,920 --> 00:43:24,380
+be quite good
+
+1104
+00:43:24,380 --> 00:43:24,840
+to have something
+
+1105
+00:43:24,840 --> 00:43:25,640
+for best audio
+
+1106
+00:43:25,640 --> 00:43:26,800
+and although
+
+1107
+00:43:26,800 --> 00:43:27,940
+audiobooks were
+
+1108
+00:43:27,940 --> 00:43:28,480
+one of the things
+
+1109
+00:43:28,480 --> 00:43:28,920
+that triggered
+
+1110
+00:43:28,920 --> 00:43:29,640
+the discussion
+
+1111
+00:43:29,640 --> 00:43:30,780
+but I'm really
+
+1112
+00:43:30,780 --> 00:43:31,860
+interested in the,
+
+1113
+00:43:31,860 --> 00:43:33,080
+there's an awful
+
+1114
+00:43:33,080 --> 00:43:33,960
+lot of audio
+
+1115
+00:43:33,960 --> 00:43:34,820
+fiction out there.
+
+1116
+00:43:34,880 --> 00:43:35,280
+some of it
+
+1117
+00:43:35,280 --> 00:43:35,940
+is turning up
+
+1118
+00:43:35,940 --> 00:43:36,980
+in editor
+
+1119
+00:43:36,980 --> 00:43:37,880
+awards for
+
+1120
+00:43:37,880 --> 00:43:38,440
+best short
+
+1121
+00:43:38,440 --> 00:43:39,820
+form for
+
+1122
+00:43:39,820 --> 00:43:40,380
+things that
+
+1123
+00:43:40,380 --> 00:43:40,860
+are in fact
+
+1124
+00:43:40,860 --> 00:43:42,200
+edited for
+
+1125
+00:43:42,200 --> 00:43:44,420
+podcasts but
+
+1126
+00:43:44,420 --> 00:43:45,380
+professional ones.
+
+1127
+00:43:45,380 --> 00:43:46,740
+Fan casts have
+
+1128
+00:43:46,740 --> 00:43:47,480
+a space in
+
+1129
+00:43:47,480 --> 00:43:48,500
+fan casts but
+
+1130
+00:43:48,500 --> 00:43:48,940
+a lot of these
+
+1131
+00:43:48,940 --> 00:43:49,380
+things are not
+
+1132
+00:43:49,380 --> 00:43:50,620
+fan casts but
+
+1133
+00:43:50,620 --> 00:43:50,840
+you know,
+
+1134
+00:43:50,840 --> 00:43:51,760
+there's a lot
+
+1135
+00:43:51,760 --> 00:43:52,420
+of fiction being
+
+1136
+00:43:52,420 --> 00:43:53,360
+produced in audio
+
+1137
+00:43:53,360 --> 00:43:54,540
+form in our
+
+1138
+00:43:54,540 --> 00:43:55,160
+genre that is
+
+1139
+00:43:55,160 --> 00:43:55,860
+very interesting
+
+1140
+00:43:55,860 --> 00:43:56,920
+and it's just
+
+1141
+00:43:56,920 --> 00:43:58,280
+not being picked
+
+1142
+00:43:58,280 --> 00:43:58,760
+up anywhere.
+
+1143
+00:43:58,760 --> 00:43:59,320
+It's a great
+
+1144
+00:43:59,320 --> 00:44:00,100
+example of,
+
+1145
+00:44:00,100 --> 00:44:00,700
+you know,
+
+1146
+00:44:00,700 --> 00:44:01,040
+there doesn't
+
+1147
+00:44:01,040 --> 00:44:01,440
+have to be a
+
+1148
+00:44:01,440 --> 00:44:01,840
+Hugo for
+
+1149
+00:44:01,840 --> 00:44:02,300
+everything and
+
+1150
+00:44:02,300 --> 00:44:02,680
+indeed there are
+
+1151
+00:44:02,680 --> 00:44:03,180
+lots of gaps
+
+1152
+00:44:03,180 --> 00:44:03,620
+where there isn't
+
+1153
+00:44:03,620 --> 00:44:04,080
+a Hugo for
+
+1154
+00:44:04,080 --> 00:44:04,340
+things.
+
+1155
+00:44:04,740 --> 00:44:05,380
+I don't
+
+1156
+00:44:05,380 --> 00:44:05,940
+listen to any
+
+1157
+00:44:05,940 --> 00:44:06,620
+audiobooks or
+
+1158
+00:44:06,620 --> 00:44:07,100
+really any
+
+1159
+00:44:07,100 --> 00:44:08,020
+audio drama so
+
+1160
+00:44:08,020 --> 00:44:08,880
+I have no
+
+1161
+00:44:08,880 --> 00:44:10,020
+interest in
+
+1162
+00:44:10,020 --> 00:44:11,780
+extra Hugos for
+
+1163
+00:44:11,780 --> 00:44:12,140
+those things
+
+1164
+00:44:12,140 --> 00:44:12,560
+specifically.
+
+1165
+00:44:12,560 --> 00:44:13,460
+I think it's
+
+1166
+00:44:13,460 --> 00:44:13,720
+going to be
+
+1167
+00:44:13,720 --> 00:44:14,560
+tricky for
+
+1168
+00:44:14,560 --> 00:44:15,360
+audiobooks like
+
+1169
+00:44:15,360 --> 00:44:16,180
+you say because
+
+1170
+00:44:16,180 --> 00:44:17,100
+you're specifically
+
+1171
+00:44:17,100 --> 00:44:18,320
+rewarding the
+
+1172
+00:44:18,320 --> 00:44:19,620
+audio recording
+
+1173
+00:44:19,620 --> 00:44:20,360
+otherwise it would
+
+1174
+00:44:20,360 --> 00:44:21,420
+be in best novel
+
+1175
+00:44:21,420 --> 00:44:22,160
+or something.
+
+1176
+00:44:22,160 --> 00:44:23,100
+So that also
+
+1177
+00:44:23,100 --> 00:44:23,740
+runs into the
+
+1178
+00:44:23,740 --> 00:44:24,300
+double Hugo
+
+1179
+00:44:24,300 --> 00:44:24,820
+thing.
+
+1180
+00:44:25,260 --> 00:44:26,000
+so in the show
+
+1181
+00:44:26,000 --> 00:44:26,580
+notes listeners
+
+1182
+00:44:26,580 --> 00:44:27,760
+we've also
+
+1183
+00:44:27,760 --> 00:44:28,460
+written down
+
+1184
+00:44:28,460 --> 00:44:29,580
+best music
+
+1185
+00:44:29,580 --> 00:44:29,940
+and best
+
+1186
+00:44:29,940 --> 00:44:30,780
+poem as
+
+1187
+00:44:30,780 --> 00:44:31,500
+examples of
+
+1188
+00:44:31,500 --> 00:44:31,920
+things that
+
+1189
+00:44:31,920 --> 00:44:32,300
+have kind of
+
+1190
+00:44:32,300 --> 00:44:32,900
+been discussed.
+
+1191
+00:44:32,900 --> 00:44:35,100
+I think of
+
+1192
+00:44:35,100 --> 00:44:36,240
+poetry, music,
+
+1193
+00:44:36,240 --> 00:44:37,180
+audiobooks and
+
+1194
+00:44:37,180 --> 00:44:37,940
+translated works
+
+1195
+00:44:37,940 --> 00:44:38,600
+the one I'm
+
+1196
+00:44:38,600 --> 00:44:39,440
+most likely to
+
+1197
+00:44:39,440 --> 00:44:39,740
+read is
+
+1198
+00:44:39,740 --> 00:44:40,660
+translated works
+
+1199
+00:44:40,660 --> 00:44:42,000
+but given my
+
+1200
+00:44:42,000 --> 00:44:42,700
+earlier comments
+
+1201
+00:44:42,700 --> 00:44:43,680
+about how little
+
+1202
+00:44:43,680 --> 00:44:44,380
+of my reading
+
+1203
+00:44:44,380 --> 00:44:45,200
+is translation
+
+1204
+00:44:45,200 --> 00:44:46,500
+I don't know
+
+1205
+00:44:46,500 --> 00:44:47,620
+whether that
+
+1206
+00:44:47,620 --> 00:44:48,620
+recommends it.
+
+1207
+00:44:48,980 --> 00:44:49,540
+I don't know
+
+1208
+00:44:49,540 --> 00:44:51,040
+but like if
+
+1209
+00:44:51,040 --> 00:44:51,980
+this would act
+
+1210
+00:44:51,980 --> 00:44:53,320
+to open people's
+
+1211
+00:44:53,320 --> 00:44:54,340
+eyes to a great
+
+1212
+00:44:54,340 --> 00:44:55,040
+world of SF
+
+1213
+00:44:55,040 --> 00:44:55,980
+that is out there
+
+1214
+00:44:55,980 --> 00:44:56,680
+that would be
+
+1215
+00:44:56,680 --> 00:44:56,940
+cool.
+
+1216
+00:44:56,940 --> 00:44:58,020
+So I'm not
+
+1217
+00:44:58,020 --> 00:44:59,240
+inherently opposed
+
+1218
+00:44:59,240 --> 00:45:00,020
+I'm just trying to
+
+1219
+00:45:00,020 --> 00:45:00,580
+give my
+
+1220
+00:45:00,580 --> 00:45:01,360
+just trying to
+
+1221
+00:45:01,360 --> 00:45:01,880
+discuss it in a
+
+1222
+00:45:01,880 --> 00:45:02,240
+good way.
+
+1223
+00:45:02,240 --> 00:45:03,760
+Yeah I think the
+
+1224
+00:45:03,760 --> 00:45:04,140
+issue is that
+
+1225
+00:45:04,140 --> 00:45:05,460
+that argument is
+
+1226
+00:45:05,460 --> 00:45:06,760
+there for basically
+
+1227
+00:45:06,760 --> 00:45:08,240
+every small niche
+
+1228
+00:45:08,240 --> 00:45:08,720
+that we don't
+
+1229
+00:45:08,720 --> 00:45:09,240
+currently cover.
+
+1230
+00:45:09,240 --> 00:45:10,200
+I mean I read
+
+1231
+00:45:10,200 --> 00:45:11,000
+more novels in
+
+1232
+00:45:11,000 --> 00:45:11,720
+translation actually
+
+1233
+00:45:11,720 --> 00:45:12,600
+than I read
+
+1234
+00:45:12,600 --> 00:45:14,320
+poems but that's
+
+1235
+00:45:14,320 --> 00:45:14,840
+not necessarily
+
+1236
+00:45:14,840 --> 00:45:15,400
+an I would say
+
+1237
+00:45:15,400 --> 00:45:15,900
+we should have
+
+1238
+00:45:15,900 --> 00:45:16,680
+translated work and
+
+1239
+00:45:16,680 --> 00:45:17,140
+we shouldn't have
+
+1240
+00:45:17,140 --> 00:45:17,440
+poems.
+
+1241
+00:45:17,960 --> 00:45:18,520
+We have got
+
+1242
+00:45:18,520 --> 00:45:19,600
+best related work
+
+1243
+00:45:19,600 --> 00:45:21,320
+I think it would
+
+1244
+00:45:21,320 --> 00:45:21,980
+be nice to have
+
+1245
+00:45:21,980 --> 00:45:23,140
+something for best
+
+1246
+00:45:23,140 --> 00:45:24,040
+fabulous thing of
+
+1247
+00:45:24,040 --> 00:45:24,480
+the year that
+
+1248
+00:45:24,480 --> 00:45:25,180
+doesn't fit into
+
+1249
+00:45:25,180 --> 00:45:26,380
+any other category
+
+1250
+00:45:26,380 --> 00:45:27,060
+and I'm sure that
+
+1251
+00:45:27,060 --> 00:45:27,740
+there was some
+
+1252
+00:45:27,740 --> 00:45:28,960
+award set that
+
+1253
+00:45:28,960 --> 00:45:29,560
+has this.
+
+1254
+00:45:29,560 --> 00:45:30,300
+I can't remember
+
+1255
+00:45:30,300 --> 00:45:30,980
+which one it was
+
+1256
+00:45:30,980 --> 00:45:31,180
+though.
+
+1257
+00:45:31,180 --> 00:45:32,100
+Yeah there's one
+
+1258
+00:45:32,100 --> 00:45:32,620
+award where it's
+
+1259
+00:45:32,620 --> 00:45:33,360
+just the best
+
+1260
+00:45:33,360 --> 00:45:34,140
+thing isn't it?
+
+1261
+00:45:34,140 --> 00:45:35,340
+The Diana Jones
+
+1262
+00:45:35,340 --> 00:45:36,860
+award is for the
+
+1263
+00:45:36,860 --> 00:45:38,160
+best thing in
+
+1264
+00:45:38,160 --> 00:45:38,560
+gaming.
+
+1265
+00:45:38,560 --> 00:45:39,440
+I mean it's for
+
+1266
+00:45:39,440 --> 00:45:40,460
+excellence in
+
+1267
+00:45:40,460 --> 00:45:42,320
+gaming and so the
+
+1268
+00:45:42,320 --> 00:45:43,680
+last winner was
+
+1269
+00:45:43,680 --> 00:45:45,120
+the Union of
+
+1270
+00:45:45,120 --> 00:45:45,820
+Workers at
+
+1271
+00:45:45,820 --> 00:45:46,180
+Paizo.
+
+1272
+00:45:46,180 --> 00:45:47,240
+The one before
+
+1273
+00:45:47,240 --> 00:45:47,800
+that was the
+
+1274
+00:45:47,800 --> 00:45:48,420
+Coyote and
+
+1275
+00:45:48,420 --> 00:45:48,860
+Crow role
+
+1276
+00:45:48,860 --> 00:45:49,500
+playing game.
+
+1277
+00:45:49,500 --> 00:45:50,540
+The one before
+
+1278
+00:45:50,540 --> 00:45:51,140
+that was an
+
+1279
+00:45:51,140 --> 00:45:52,040
+activist called
+
+1280
+00:45:52,040 --> 00:45:53,060
+Agit George and
+
+1281
+00:45:53,060 --> 00:45:53,740
+the one before
+
+1282
+00:45:53,740 --> 00:45:54,160
+that was a
+
+1283
+00:45:54,160 --> 00:45:54,760
+publisher called
+
+1284
+00:45:54,760 --> 00:45:55,260
+Nibcard.
+
+1285
+00:45:55,260 --> 00:45:56,140
+So it has gone
+
+1286
+00:45:56,140 --> 00:45:56,600
+to a publisher,
+
+1287
+00:45:56,600 --> 00:45:57,460
+a person, a
+
+1288
+00:45:57,460 --> 00:45:58,080
+game and a
+
+1289
+00:45:58,080 --> 00:45:58,920
+union in the
+
+1290
+00:45:58,920 --> 00:45:59,640
+last four years
+
+1291
+00:45:59,640 --> 00:46:00,840
+and it is an
+
+1292
+00:46:00,840 --> 00:46:01,360
+award for best
+
+1293
+00:46:01,360 --> 00:46:01,620
+thing.
+
+1294
+00:46:01,620 --> 00:46:03,220
+It's usually a
+
+1295
+00:46:03,220 --> 00:46:03,760
+short list of
+
+1296
+00:46:03,760 --> 00:46:04,240
+three to seven
+
+1297
+00:46:04,240 --> 00:46:05,120
+nominees and then
+
+1298
+00:46:05,120 --> 00:46:05,880
+it gets released
+
+1299
+00:46:05,880 --> 00:46:06,380
+at Gen Con.
+
+1300
+00:46:06,380 --> 00:46:07,780
+And usually it
+
+1301
+00:46:07,780 --> 00:46:08,700
+attracts like
+
+1302
+00:46:08,700 --> 00:46:09,860
+interesting commentary.
+
+1303
+00:46:09,860 --> 00:46:11,700
+I think it is
+
+1304
+00:46:11,700 --> 00:46:12,520
+quite a cool
+
+1305
+00:46:12,520 --> 00:46:15,320
+award because I
+
+1306
+00:46:15,320 --> 00:46:15,760
+think it's
+
+1307
+00:46:15,760 --> 00:46:16,480
+interesting to look
+
+1308
+00:46:16,480 --> 00:46:16,940
+out what it
+
+1309
+00:46:16,940 --> 00:46:17,540
+has rewarded.
+
+1310
+00:46:17,540 --> 00:46:18,440
+Maybe we
+
+1311
+00:46:18,440 --> 00:46:18,800
+should have an
+
+1312
+00:46:18,800 --> 00:46:19,620
+Octothorpe award
+
+1313
+00:46:19,620 --> 00:46:20,760
+for best thing.
+
+1314
+00:46:20,760 --> 00:46:22,060
+Only if we can
+
+1315
+00:46:22,060 --> 00:46:22,660
+also have an
+
+1316
+00:46:22,660 --> 00:46:23,500
+Octothorpe award
+
+1317
+00:46:23,500 --> 00:46:24,420
+for best stuff.
+
+1318
+00:46:24,420 --> 00:46:25,280
+Fine, we can
+
+1319
+00:46:25,280 --> 00:46:25,580
+have two.
+
+1320
+00:46:25,580 --> 00:46:26,000
+We can have
+
+1321
+00:46:26,000 --> 00:46:26,120
+two.
+
+1322
+00:46:26,120 --> 00:46:27,740
+Distinction
+
+1323
+00:46:27,740 --> 00:46:28,460
+between things and
+
+1324
+00:46:28,460 --> 00:46:28,960
+stuff will be
+
+1325
+00:46:28,960 --> 00:46:29,880
+highly contested.
+
+1326
+00:46:29,880 --> 00:46:31,140
+It's very clear to
+
+1327
+00:46:31,140 --> 00:46:31,600
+me it will be in
+
+1328
+00:46:31,600 --> 00:46:32,100
+the style guide.
+
+1329
+00:46:40,100 --> 00:46:41,540
+shall we do
+
+1330
+00:46:41,540 --> 00:46:41,840
+picks?
+
+1331
+00:46:41,840 --> 00:46:42,920
+Yes.
+
+1332
+00:46:42,920 --> 00:46:44,720
+I am going to
+
+1333
+00:46:44,720 --> 00:46:45,680
+go first.
+
+1334
+00:46:45,680 --> 00:46:47,480
+I am going to
+
+1335
+00:46:47,480 --> 00:46:48,340
+pick a book,
+
+1336
+00:46:48,340 --> 00:46:48,800
+listeners.
+
+1337
+00:46:48,800 --> 00:46:50,140
+Now you may have
+
+1338
+00:46:50,140 --> 00:46:51,100
+noticed that since
+
+1339
+00:46:51,100 --> 00:46:52,240
+the Clark Award
+
+1340
+00:46:52,240 --> 00:46:53,040
+short list came out
+
+1341
+00:46:53,040 --> 00:46:53,500
+I've been picking
+
+1342
+00:46:53,500 --> 00:46:54,420
+lots of books and
+
+1343
+00:46:54,420 --> 00:46:55,360
+this will continue.
+
+1344
+00:46:55,360 --> 00:46:56,460
+I'm going to pick
+
+1345
+00:46:56,460 --> 00:46:57,340
+A Letter to the
+
+1346
+00:46:57,340 --> 00:46:59,120
+Luminous Deep by
+
+1347
+00:46:59,120 --> 00:46:59,760
+Sylvie Control.
+
+1348
+00:46:59,760 --> 00:47:01,320
+A very excellent
+
+1349
+00:47:01,320 --> 00:47:02,560
+novel with a title
+
+1350
+00:47:02,560 --> 00:47:03,760
+that I continually
+
+1351
+00:47:03,760 --> 00:47:04,580
+get wrong.
+
+1352
+00:47:05,120 --> 00:47:05,680
+It's a book
+
+1353
+00:47:05,680 --> 00:47:06,420
+the title of
+
+1354
+00:47:06,420 --> 00:47:07,140
+which confounds
+
+1355
+00:47:07,140 --> 00:47:09,160
+me because I
+
+1356
+00:47:09,160 --> 00:47:10,020
+keep wanting to
+
+1357
+00:47:10,020 --> 00:47:10,860
+call it Letters
+
+1358
+00:47:10,860 --> 00:47:11,620
+from the Luminous
+
+1359
+00:47:11,620 --> 00:47:12,600
+Deep on account
+
+1360
+00:47:12,600 --> 00:47:13,240
+of how the book
+
+1361
+00:47:13,240 --> 00:47:14,360
+contains more than
+
+1362
+00:47:14,360 --> 00:47:15,000
+one letter.
+
+1363
+00:47:15,000 --> 00:47:16,960
+And I think this
+
+1364
+00:47:16,960 --> 00:47:17,760
+is, you know,
+
+1365
+00:47:17,760 --> 00:47:18,280
+annoying.
+
+1366
+00:47:18,280 --> 00:47:19,820
+But the letters
+
+1367
+00:47:19,820 --> 00:47:20,380
+in the book are
+
+1368
+00:47:20,380 --> 00:47:20,780
+very good.
+
+1369
+00:47:20,780 --> 00:47:22,240
+It's an epistolary
+
+1370
+00:47:22,240 --> 00:47:23,040
+novel and I
+
+1371
+00:47:23,040 --> 00:47:23,820
+bloody love an
+
+1372
+00:47:23,820 --> 00:47:24,720
+epistolary novel
+
+1373
+00:47:24,720 --> 00:47:25,120
+listeners.
+
+1374
+00:47:25,120 --> 00:47:27,160
+And it is the
+
+1375
+00:47:27,160 --> 00:47:28,780
+siblings of two
+
+1376
+00:47:28,780 --> 00:47:29,820
+people who have
+
+1377
+00:47:29,820 --> 00:47:30,980
+gone missing in
+
+1378
+00:47:30,980 --> 00:47:31,540
+mysterious
+
+1379
+00:47:31,540 --> 00:47:33,440
+circumstances and
+
+1380
+00:47:33,440 --> 00:47:34,140
+they are trying to
+
+1381
+00:47:34,140 --> 00:47:34,840
+piece together
+
+1382
+00:47:34,840 --> 00:47:35,840
+their last
+
+1383
+00:47:35,840 --> 00:47:37,300
+moments and
+
+1384
+00:47:37,300 --> 00:47:38,360
+kind of get to
+
+1385
+00:47:38,360 --> 00:47:39,140
+some closure.
+
+1386
+00:47:39,140 --> 00:47:40,640
+And the novel is
+
+1387
+00:47:40,640 --> 00:47:41,620
+letters between them
+
+1388
+00:47:41,620 --> 00:47:42,300
+and then letters
+
+1389
+00:47:42,300 --> 00:47:43,180
+they have found
+
+1390
+00:47:43,180 --> 00:47:44,580
+from the two
+
+1391
+00:47:44,580 --> 00:47:45,540
+missing persons
+
+1392
+00:47:45,540 --> 00:47:46,640
+that have been
+
+1393
+00:47:46,640 --> 00:47:47,260
+written to one
+
+1394
+00:47:47,260 --> 00:47:47,560
+another.
+
+1395
+00:47:47,560 --> 00:47:49,120
+And it's
+
+1396
+00:47:49,120 --> 00:47:50,060
+secondary world
+
+1397
+00:47:50,060 --> 00:47:50,800
+science fiction
+
+1398
+00:47:50,800 --> 00:47:52,080
+in that it's
+
+1399
+00:47:52,080 --> 00:47:52,600
+not in our
+
+1400
+00:47:52,600 --> 00:47:53,140
+world but I
+
+1401
+00:47:53,140 --> 00:47:53,880
+don't think it's
+
+1402
+00:47:53,880 --> 00:47:54,680
+at all fantasy.
+
+1403
+00:47:54,680 --> 00:47:55,260
+I think everything
+
+1404
+00:47:55,260 --> 00:47:56,000
+is technology
+
+1405
+00:47:56,000 --> 00:47:56,800
+even if it's
+
+1406
+00:47:56,800 --> 00:47:58,040
+different technology
+
+1407
+00:47:58,040 --> 00:47:59,280
+to our world.
+
+1408
+00:47:59,280 --> 00:48:00,480
+So Abigail
+
+1409
+00:48:00,480 --> 00:48:01,260
+Nussbaum in
+
+1410
+00:48:01,260 --> 00:48:02,060
+Discord said that
+
+1411
+00:48:02,060 --> 00:48:02,500
+she didn't think
+
+1412
+00:48:02,500 --> 00:48:03,100
+it was cosy.
+
+1413
+00:48:03,100 --> 00:48:04,140
+I do think it's
+
+1414
+00:48:04,140 --> 00:48:04,560
+cosy in that
+
+1415
+00:48:04,560 --> 00:48:05,160
+in that sense
+
+1416
+00:48:05,160 --> 00:48:05,860
+of it feels
+
+1417
+00:48:05,860 --> 00:48:06,640
+very intimate.
+
+1418
+00:48:06,640 --> 00:48:08,180
+It feels like
+
+1419
+00:48:08,180 --> 00:48:09,160
+you're reading
+
+1420
+00:48:09,160 --> 00:48:10,760
+something very
+
+1421
+00:48:10,760 --> 00:48:12,080
+private and
+
+1422
+00:48:12,080 --> 00:48:12,600
+very intimate
+
+1423
+00:48:12,600 --> 00:48:13,280
+and very loving
+
+1424
+00:48:13,280 --> 00:48:14,400
+and it feels
+
+1425
+00:48:14,400 --> 00:48:15,140
+like exactly the
+
+1426
+00:48:15,140 --> 00:48:15,760
+sort of book I
+
+1427
+00:48:15,760 --> 00:48:16,400
+might take to a
+
+1428
+00:48:16,400 --> 00:48:17,140
+log cabin and
+
+1429
+00:48:17,140 --> 00:48:18,000
+read by a fire.
+
+1430
+00:48:18,000 --> 00:48:18,960
+And it's just
+
+1431
+00:48:18,960 --> 00:48:19,420
+really beautiful.
+
+1432
+00:48:19,420 --> 00:48:21,180
+I know that
+
+1433
+00:48:21,180 --> 00:48:22,200
+España also
+
+1434
+00:48:22,200 --> 00:48:23,340
+really enjoyed it
+
+1435
+00:48:23,340 --> 00:48:25,320
+and I would
+
+1436
+00:48:25,320 --> 00:48:26,180
+commend it to
+
+1437
+00:48:26,180 --> 00:48:26,500
+listeners.
+
+1438
+00:48:26,500 --> 00:48:27,740
+And I believe
+
+1439
+00:48:27,740 --> 00:48:29,160
+my two learned
+
+1440
+00:48:29,160 --> 00:48:30,800
+co-hosts have
+
+1441
+00:48:30,800 --> 00:48:31,520
+already purchased
+
+1442
+00:48:31,520 --> 00:48:32,000
+it.
+
+1443
+00:48:32,560 --> 00:48:33,140
+so when we
+
+1444
+00:48:33,140 --> 00:48:33,820
+complain about
+
+1445
+00:48:33,820 --> 00:48:34,380
+things that are
+
+1446
+00:48:34,380 --> 00:48:35,000
+called a
+
+1447
+00:48:35,000 --> 00:48:36,020
+blank a novel
+
+1448
+00:48:36,020 --> 00:48:37,660
+I was slightly
+
+1449
+00:48:37,660 --> 00:48:38,840
+put off by this
+
+1450
+00:48:38,840 --> 00:48:39,860
+novel because
+
+1451
+00:48:39,860 --> 00:48:41,440
+its title on
+
+1452
+00:48:41,440 --> 00:48:42,180
+Amazon is
+
+1453
+00:48:42,180 --> 00:48:43,580
+A Letter to the
+
+1454
+00:48:43,580 --> 00:48:44,400
+Luminous Deep
+
+1455
+00:48:44,400 --> 00:48:45,160
+The Perfect
+
+1456
+00:48:45,160 --> 00:48:46,220
+Cosy Magical
+
+1457
+00:48:46,220 --> 00:48:47,400
+Academia Read.
+
+1458
+00:48:48,120 --> 00:48:49,500
+I don't like this
+
+1459
+00:48:49,500 --> 00:48:51,240
+in the same way
+
+1460
+00:48:51,240 --> 00:48:52,100
+that I don't like
+
+1461
+00:48:52,100 --> 00:48:52,840
+games that
+
+1462
+00:48:52,840 --> 00:48:54,400
+say on their
+
+1463
+00:48:54,400 --> 00:48:55,180
+front cover the
+
+1464
+00:48:55,180 --> 00:48:56,000
+greatest card
+
+1465
+00:48:56,000 --> 00:48:56,600
+game of all
+
+1466
+00:48:56,600 --> 00:48:57,060
+time.
+
+1467
+00:48:57,060 --> 00:48:58,460
+I don't know if
+
+1468
+00:48:58,460 --> 00:48:59,080
+it's a perfect
+
+1469
+00:48:59,080 --> 00:49:00,000
+cosy magical
+
+1470
+00:49:00,000 --> 00:49:01,140
+academia read.
+
+1471
+00:49:01,140 --> 00:49:02,080
+I don't mind
+
+1472
+00:49:02,080 --> 00:49:02,740
+magical and
+
+1473
+00:49:02,740 --> 00:49:04,220
+academia things but
+
+1474
+00:49:04,220 --> 00:49:05,480
+I'm not fond of
+
+1475
+00:49:05,480 --> 00:49:06,380
+cosy things as we
+
+1476
+00:49:06,380 --> 00:49:06,760
+all know.
+
+1477
+00:49:06,760 --> 00:49:08,080
+It may not be as
+
+1478
+00:49:08,080 --> 00:49:08,900
+cosy as all that.
+
+1479
+00:49:09,140 --> 00:49:09,580
+So what I am
+
+1480
+00:49:09,580 --> 00:49:10,200
+going to say is
+
+1481
+00:49:10,200 --> 00:49:10,820
+that if you go
+
+1482
+00:49:10,820 --> 00:49:13,100
+on the website of
+
+1483
+00:49:13,100 --> 00:49:13,940
+a proper bookshop
+
+1484
+00:49:13,940 --> 00:49:14,760
+like Blackwell's
+
+1485
+00:49:14,760 --> 00:49:15,360
+it doesn't say
+
+1486
+00:49:15,360 --> 00:49:15,620
+this.
+
+1487
+00:49:15,620 --> 00:49:16,300
+So I think the
+
+1488
+00:49:16,300 --> 00:49:16,780
+problem here is
+
+1489
+00:49:16,780 --> 00:49:17,300
+Amazon.
+
+1490
+00:49:17,300 --> 00:49:18,200
+Might be.
+
+1491
+00:49:18,200 --> 00:49:19,260
+Oh this is
+
+1492
+00:49:19,260 --> 00:49:20,120
+this is I mean
+
+1493
+00:49:20,120 --> 00:49:21,120
+just just picking
+
+1494
+00:49:21,120 --> 00:49:21,980
+some books that I
+
+1495
+00:49:21,980 --> 00:49:22,480
+have recently
+
+1496
+00:49:22,480 --> 00:49:23,420
+looked at and
+
+1497
+00:49:23,420 --> 00:49:25,020
+may were thinking
+
+1498
+00:49:25,020 --> 00:49:25,760
+of purchasing on
+
+1499
+00:49:25,760 --> 00:49:26,060
+Amazon.
+
+1500
+00:49:26,060 --> 00:49:27,540
+The masterfully
+
+1501
+00:49:27,540 --> 00:49:28,020
+woven and
+
+1502
+00:49:28,020 --> 00:49:28,800
+breathtaking epic
+
+1503
+00:49:28,800 --> 00:49:29,680
+adult fantasy of
+
+1504
+00:49:29,680 --> 00:49:29,940
+cutthroat
+
+1505
+00:49:29,940 --> 00:49:30,600
+competition and
+
+1506
+00:49:30,600 --> 00:49:31,420
+imperial deceit.
+
+1507
+00:49:31,420 --> 00:49:32,320
+The gripping
+
+1508
+00:49:32,320 --> 00:49:33,120
+biopunk murder
+
+1509
+00:49:33,120 --> 00:49:33,860
+mystery sequel to
+
+1510
+00:49:33,860 --> 00:49:34,580
+The Tainted Cup.
+
+1511
+00:49:34,580 --> 00:49:35,620
+It's all over the
+
+1512
+00:49:35,620 --> 00:49:36,200
+place basically.
+
+1513
+00:49:36,860 --> 00:49:37,640
+The sweeping
+
+1514
+00:49:37,640 --> 00:49:38,500
+magical solo
+
+1515
+00:49:38,500 --> 00:49:39,280
+debut by the
+
+1516
+00:49:39,280 --> 00:49:40,080
+best-selling co-author
+
+1517
+00:49:40,080 --> 00:49:40,620
+of This Is How
+
+1518
+00:49:40,620 --> 00:49:41,200
+You Lose The Time
+
+1519
+00:49:41,200 --> 00:49:41,420
+War.
+
+1520
+00:49:41,420 --> 00:49:42,700
+Like if I did
+
+1521
+00:49:42,700 --> 00:49:43,200
+think of having a
+
+1522
+00:49:43,200 --> 00:49:44,380
+moratorium on ever
+
+1523
+00:49:44,380 --> 00:49:45,300
+purchasing any of
+
+1524
+00:49:45,300 --> 00:49:46,000
+these books that
+
+1525
+00:49:46,000 --> 00:49:46,660
+have these subtitles
+
+1526
+00:49:46,660 --> 00:49:47,420
+but I can't because
+
+1527
+00:49:47,420 --> 00:49:48,320
+I cut myself off from
+
+1528
+00:49:48,320 --> 00:49:49,900
+basically all books.
+
+1529
+00:49:49,900 --> 00:49:51,760
+1984 the new
+
+1530
+00:49:51,760 --> 00:49:52,340
+edition of the
+
+1531
+00:49:52,340 --> 00:49:53,340
+20th century's
+
+1532
+00:49:53,340 --> 00:49:54,420
+dystopian masterpiece.
+
+1533
+00:49:54,420 --> 00:49:56,420
+Even the old ones
+
+1534
+00:49:56,420 --> 00:49:57,260
+aren't immune.
+
+1535
+00:49:57,260 --> 00:49:58,960
+At the same time I
+
+1536
+00:49:58,960 --> 00:49:59,980
+was about to say but
+
+1537
+00:49:59,980 --> 00:50:00,760
+John broke in.
+
+1538
+00:50:00,760 --> 00:50:01,900
+The Lord of the
+
+1539
+00:50:01,900 --> 00:50:02,700
+Rings the classic
+
+1540
+00:50:02,700 --> 00:50:03,580
+fantasy masterpiece.
+
+1541
+00:50:03,580 --> 00:50:04,500
+Yep.
+
+1542
+00:50:04,500 --> 00:50:05,620
+So yes it's
+
+1543
+00:50:05,620 --> 00:50:05,960
+Amazon.
+
+1544
+00:50:06,540 --> 00:50:07,960
+Sorry publishers it
+
+1545
+00:50:07,960 --> 00:50:08,760
+wasn't you after
+
+1546
+00:50:08,760 --> 00:50:09,100
+all.
+
+1547
+00:50:09,100 --> 00:50:11,060
+Well it's because
+
+1548
+00:50:11,060 --> 00:50:11,920
+Amazon's always been
+
+1549
+00:50:11,920 --> 00:50:12,680
+terrible at search
+
+1550
+00:50:12,680 --> 00:50:13,900
+metadata and so
+
+1551
+00:50:13,900 --> 00:50:14,820
+people have started
+
+1552
+00:50:14,820 --> 00:50:18,100
+doing yes due to
+
+1553
+00:50:18,100 --> 00:50:19,060
+technical limitations
+
+1554
+00:50:19,060 --> 00:50:20,920
+like the one thing
+
+1555
+00:50:20,920 --> 00:50:21,540
+with online shopping
+
+1556
+00:50:21,540 --> 00:50:22,460
+is we've still not
+
+1557
+00:50:22,460 --> 00:50:23,480
+gotten great at
+
+1558
+00:50:23,480 --> 00:50:25,400
+serendipitous discovery
+
+1559
+00:50:25,400 --> 00:50:27,100
+online and that is
+
+1560
+00:50:27,100 --> 00:50:27,920
+what they're trying to
+
+1561
+00:50:27,920 --> 00:50:28,360
+drive.
+
+1562
+00:50:28,360 --> 00:50:29,600
+Desperately trying to
+
+1563
+00:50:29,600 --> 00:50:30,660
+drive it with any
+
+1564
+00:50:30,660 --> 00:50:31,380
+tools they're allowed
+
+1565
+00:50:31,380 --> 00:50:31,800
+to have.
+
+1566
+00:50:31,800 --> 00:50:33,380
+Bless them.
+
+1567
+00:50:33,860 --> 00:50:36,720
+I've started to pay
+
+1568
+00:50:36,720 --> 00:50:37,360
+a lot of attention
+
+1569
+00:50:37,360 --> 00:50:37,900
+to what my
+
+1570
+00:50:37,900 --> 00:50:38,600
+friends like.
+
+1571
+00:50:38,600 --> 00:50:39,180
+Yeah.
+
+1572
+00:50:39,180 --> 00:50:40,240
+So my pals
+
+1573
+00:50:40,240 --> 00:50:41,220
+recommend things and
+
+1574
+00:50:41,220 --> 00:50:41,780
+I put them on
+
+1575
+00:50:41,780 --> 00:50:42,340
+lists and when
+
+1576
+00:50:42,340 --> 00:50:43,080
+enough pals have
+
+1577
+00:50:43,080 --> 00:50:44,060
+recommended things or
+
+1578
+00:50:44,060 --> 00:50:44,760
+they've recommended
+
+1579
+00:50:44,760 --> 00:50:45,660
+them enthusiastically
+
+1580
+00:50:45,660 --> 00:50:46,460
+enough I go yeah
+
+1581
+00:50:46,460 --> 00:50:47,160
+I'll have a go at
+
+1582
+00:50:47,160 --> 00:50:47,380
+that.
+
+1583
+00:50:47,380 --> 00:50:48,340
+I put a lot of
+
+1584
+00:50:48,340 --> 00:50:49,160
+things on I get a
+
+1585
+00:50:49,160 --> 00:50:49,680
+lot of things out of
+
+1586
+00:50:49,680 --> 00:50:50,520
+the library because
+
+1587
+00:50:50,520 --> 00:50:51,780
+because pals
+
+1588
+00:50:51,780 --> 00:50:52,560
+recommend them.
+
+1589
+00:50:52,560 --> 00:50:53,240
+Some of them I
+
+1590
+00:50:53,240 --> 00:50:54,100
+even get around to
+
+1591
+00:50:54,100 --> 00:50:54,960
+reading but not this
+
+1592
+00:50:54,960 --> 00:50:55,100
+one.
+
+1593
+00:50:55,280 --> 00:50:55,880
+But yeah no it
+
+1594
+00:50:55,880 --> 00:50:57,460
+is it is academia.
+
+1595
+00:50:57,460 --> 00:51:00,160
+So it's tricky
+
+1596
+00:51:00,160 --> 00:51:00,780
+because I think
+
+1597
+00:51:00,780 --> 00:51:01,580
+Sylvie could throw
+
+1598
+00:51:01,580 --> 00:51:03,420
+on her website or
+
+1599
+00:51:03,420 --> 00:51:05,000
+maybe in the yes
+
+1600
+00:51:05,000 --> 00:51:06,120
+on her website she
+
+1601
+00:51:06,120 --> 00:51:07,160
+describes herself as
+
+1602
+00:51:07,160 --> 00:51:07,980
+a romantic fantasy
+
+1603
+00:51:07,980 --> 00:51:09,780
+author but I would
+
+1604
+00:51:09,780 --> 00:51:10,860
+have said that the
+
+1605
+00:51:10,860 --> 00:51:11,840
+book that she has
+
+1606
+00:51:11,840 --> 00:51:13,060
+written like so she
+
+1607
+00:51:13,060 --> 00:51:13,600
+has written two
+
+1608
+00:51:13,600 --> 00:51:14,680
+books both of which
+
+1609
+00:51:14,680 --> 00:51:15,600
+are in this series.
+
+1610
+00:51:15,600 --> 00:51:17,180
+I would say they
+
+1611
+00:51:17,180 --> 00:51:18,220
+are not fantasy
+
+1612
+00:51:18,220 --> 00:51:19,180
+because they do not
+
+1613
+00:51:19,180 --> 00:51:20,080
+have magic in.
+
+1614
+00:51:20,080 --> 00:51:21,500
+They have technology
+
+1615
+00:51:21,500 --> 00:51:22,560
+in a different world
+
+1616
+00:51:22,560 --> 00:51:23,020
+to ours.
+
+1617
+00:51:23,020 --> 00:51:23,940
+And so it is
+
+1618
+00:51:23,940 --> 00:51:24,500
+interesting because
+
+1619
+00:51:24,500 --> 00:51:24,880
+there is clearly
+
+1620
+00:51:24,880 --> 00:51:25,960
+like a blurring of
+
+1621
+00:51:25,960 --> 00:51:26,740
+genres happening
+
+1622
+00:51:26,740 --> 00:51:27,840
+there where
+
+1623
+00:51:27,840 --> 00:51:29,320
+secondary world
+
+1624
+00:51:29,320 --> 00:51:30,140
+science fiction is
+
+1625
+00:51:30,140 --> 00:51:31,340
+sufficiently rare
+
+1626
+00:51:31,340 --> 00:51:32,980
+nowadays that it's
+
+1627
+00:51:32,980 --> 00:51:34,480
+being it's being
+
+1628
+00:51:34,480 --> 00:51:36,020
+lumped into fantasy.
+
+1629
+00:51:36,020 --> 00:51:36,820
+And that's
+
+1630
+00:51:36,820 --> 00:51:37,800
+interesting to me.
+
+1631
+00:51:37,800 --> 00:51:38,820
+I mean you know
+
+1632
+00:51:38,820 --> 00:51:39,520
+Anne McCaffrey was
+
+1633
+00:51:39,520 --> 00:51:40,160
+always sold as
+
+1634
+00:51:40,160 --> 00:51:41,440
+fantasy right but
+
+1635
+00:51:41,440 --> 00:51:42,000
+it's clearly science
+
+1636
+00:51:42,000 --> 00:51:42,180
+fiction.
+
+1637
+00:51:42,180 --> 00:51:43,640
+But also wasn't the
+
+1638
+00:51:43,640 --> 00:51:44,680
+first one quite
+
+1639
+00:51:44,680 --> 00:51:45,920
+fantasy and then it
+
+1640
+00:51:45,920 --> 00:51:47,000
+was retrofitted
+
+1641
+00:51:47,000 --> 00:51:47,540
+later.
+
+1642
+00:51:47,540 --> 00:51:48,640
+I don't know even
+
+1643
+00:51:48,640 --> 00:51:49,360
+I'm not old enough
+
+1644
+00:51:49,360 --> 00:51:50,060
+to remember that.
+
+1645
+00:51:50,060 --> 00:51:51,960
+They're all very
+
+1646
+00:51:51,960 --> 00:51:52,820
+but I mean they all
+
+1647
+00:51:52,820 --> 00:51:53,440
+feel very much like
+
+1648
+00:51:53,440 --> 00:51:54,340
+fantasy until they
+
+1649
+00:51:54,340 --> 00:51:56,060
+properly retrofit it.
+
+1650
+00:51:56,060 --> 00:51:56,980
+I don't think it's
+
+1651
+00:51:56,980 --> 00:51:57,720
+unreasonable to say
+
+1652
+00:51:57,720 --> 00:51:58,920
+this book which is
+
+1653
+00:51:58,920 --> 00:52:00,200
+full of dragons in a
+
+1654
+00:52:00,200 --> 00:52:01,460
+sort of oldie worldie
+
+1655
+00:52:01,460 --> 00:52:02,880
+fantasy setting but
+
+1656
+00:52:02,880 --> 00:52:03,540
+is secretly science
+
+1657
+00:52:03,540 --> 00:52:04,280
+fiction is probably
+
+1658
+00:52:04,280 --> 00:52:04,840
+going to appeal to
+
+1659
+00:52:04,840 --> 00:52:05,560
+readers of fantasy.
+
+1660
+00:52:05,560 --> 00:52:07,500
+So she says she's a
+
+1661
+00:52:07,500 --> 00:52:08,620
+romantic fantasy author.
+
+1662
+00:52:08,620 --> 00:52:09,920
+Does that mean it's
+
+1663
+00:52:09,920 --> 00:52:11,040
+got smut in it?
+
+1664
+00:52:11,040 --> 00:52:11,880
+No.
+
+1665
+00:52:11,880 --> 00:52:12,800
+Oh boo.
+
+1666
+00:52:12,800 --> 00:52:13,880
+Quite like a bit of
+
+1667
+00:52:13,880 --> 00:52:14,180
+smut.
+
+1668
+00:52:14,180 --> 00:52:15,900
+I mean it's got some
+
+1669
+00:52:15,900 --> 00:52:17,760
+pretty breathless
+
+1670
+00:52:17,760 --> 00:52:18,580
+descriptions of
+
+1671
+00:52:18,580 --> 00:52:19,040
+libraries.
+
+1672
+00:52:20,800 --> 00:52:22,760
+so my pick despite the
+
+1673
+00:52:22,760 --> 00:52:23,380
+fact that I haven't
+
+1674
+00:52:23,380 --> 00:52:24,520
+actually seen it yet
+
+1675
+00:52:24,520 --> 00:52:26,200
+is Sci-Fi London
+
+1676
+00:52:26,200 --> 00:52:28,140
+2025 which is taking
+
+1677
+00:52:28,140 --> 00:52:29,660
+place from the 19th to
+
+1678
+00:52:29,660 --> 00:52:31,280
+22nd of June 2025
+
+1679
+00:52:31,280 --> 00:52:32,240
+which is I think
+
+1680
+00:52:32,240 --> 00:52:34,260
+today as you read
+
+1681
+00:52:34,260 --> 00:52:35,520
+this at the Picture
+
+1682
+00:52:35,520 --> 00:52:36,260
+House in Finnsbury
+
+1683
+00:52:36,260 --> 00:52:36,660
+Park.
+
+1684
+00:52:36,660 --> 00:52:38,620
+Amazing science fiction
+
+1685
+00:52:38,620 --> 00:52:39,340
+and socialising.
+
+1686
+00:52:39,340 --> 00:52:40,620
+The Picture House at
+
+1687
+00:52:40,620 --> 00:52:42,080
+Finnsbury Park fun fact
+
+1688
+00:52:42,080 --> 00:52:43,120
+was our closest decent
+
+1689
+00:52:43,120 --> 00:52:44,280
+cinema for quite a long
+
+1690
+00:52:44,280 --> 00:52:45,740
+time until our new one
+
+1691
+00:52:45,740 --> 00:52:46,020
+opened.
+
+1692
+00:52:46,400 --> 00:52:47,520
+So I am very excited
+
+1693
+00:52:47,520 --> 00:52:48,200
+about this and I
+
+1694
+00:52:48,200 --> 00:52:49,100
+haven't yet decided
+
+1695
+00:52:49,100 --> 00:52:50,600
+exactly what we are
+
+1696
+00:52:50,600 --> 00:52:53,360
+going to do and what
+
+1697
+00:52:53,360 --> 00:52:54,460
+I mean is I have to
+
+1698
+00:52:54,460 --> 00:52:55,380
+I have to negotiate
+
+1699
+00:52:55,380 --> 00:52:57,120
+with my husband but I
+
+1700
+00:52:57,120 --> 00:52:57,960
+have never actually got
+
+1701
+00:52:57,960 --> 00:52:59,220
+to Sci-Fi London
+
+1702
+00:52:59,220 --> 00:53:00,020
+though I did watch the
+
+1703
+00:53:00,020 --> 00:53:00,880
+short films when they
+
+1704
+00:53:00,880 --> 00:53:02,600
+were available online a
+
+1705
+00:53:02,600 --> 00:53:03,680
+few years ago in the
+
+1706
+00:53:03,680 --> 00:53:04,040
+pandemic.
+
+1707
+00:53:04,040 --> 00:53:06,580
+So this is this is kind
+
+1708
+00:53:06,580 --> 00:53:07,800
+of a thing for me.
+
+1709
+00:53:07,800 --> 00:53:08,620
+So hopefully I'll see a
+
+1710
+00:53:08,620 --> 00:53:09,160
+few of you there.
+
+1711
+00:53:09,160 --> 00:53:10,160
+I know that there are
+
+1712
+00:53:10,160 --> 00:53:10,980
+other Sci-Fi London
+
+1713
+00:53:10,980 --> 00:53:12,720
+fans who listen to the
+
+1714
+00:53:12,720 --> 00:53:13,120
+podcast.
+
+1715
+00:53:13,120 --> 00:53:15,640
+The no so they did
+
+1716
+00:53:15,640 --> 00:53:16,920
+Sci-Fi London did
+
+1717
+00:53:16,920 --> 00:53:20,120
+online shorts last
+
+1718
+00:53:20,120 --> 00:53:22,760
+year as well but they
+
+1719
+00:53:22,760 --> 00:53:24,340
+it has been on and
+
+1720
+00:53:24,340 --> 00:53:25,100
+off I would say.
+
+1721
+00:53:25,100 --> 00:53:26,860
+So I did it last year
+
+1722
+00:53:26,860 --> 00:53:28,000
+but it looks like this
+
+1723
+00:53:28,000 --> 00:53:28,940
+year they're not doing
+
+1724
+00:53:28,940 --> 00:53:29,220
+it.
+
+1725
+00:53:29,220 --> 00:53:30,680
+I would be interested
+
+1726
+00:53:30,680 --> 00:53:31,880
+to know what is
+
+1727
+00:53:31,880 --> 00:53:32,520
+driving that like
+
+1728
+00:53:32,520 --> 00:53:33,140
+whether it's just very
+
+1729
+00:53:33,140 --> 00:53:34,060
+technically difficult
+
+1730
+00:53:34,060 --> 00:53:35,160
+whether they keep
+
+1731
+00:53:35,160 --> 00:53:36,180
+trying but some years
+
+1732
+00:53:36,180 --> 00:53:36,660
+it doesn't come
+
+1733
+00:53:36,660 --> 00:53:37,820
+together or whether
+
+1734
+00:53:37,820 --> 00:53:39,520
+you know I don't
+
+1735
+00:53:39,520 --> 00:53:40,080
+know whether they're
+
+1736
+00:53:40,080 --> 00:53:41,700
+just kind of finding
+
+1737
+00:53:41,700 --> 00:53:42,220
+that there's not the
+
+1738
+00:53:42,220 --> 00:53:42,580
+demand.
+
+1739
+00:53:42,580 --> 00:53:43,220
+I don't know.
+
+1740
+00:53:43,220 --> 00:53:45,100
+It is I would like to
+
+1741
+00:53:45,100 --> 00:53:45,720
+get down there one
+
+1742
+00:53:45,720 --> 00:53:45,960
+day.
+
+1743
+00:53:45,960 --> 00:53:47,000
+I don't think it
+
+1744
+00:53:47,000 --> 00:53:47,660
+will be this year.
+
+1745
+00:53:47,660 --> 00:53:48,540
+What are you doing
+
+1746
+00:53:48,540 --> 00:53:49,360
+next weekend John?
+
+1747
+00:53:49,360 --> 00:53:50,320
+We can pick you up.
+
+1748
+00:53:50,320 --> 00:53:51,280
+The one thing I will
+
+1749
+00:53:51,280 --> 00:53:52,180
+say is and I missed
+
+1750
+00:53:52,180 --> 00:53:52,900
+it this year which I'm
+
+1751
+00:53:52,900 --> 00:53:54,520
+annoyed by is that the
+
+1752
+00:53:54,520 --> 00:53:55,580
+Sunderland Short Film
+
+1753
+00:53:55,580 --> 00:53:57,520
+Festival when we were
+
+1754
+00:53:57,520 --> 00:53:58,180
+watching the Sci-Fi
+
+1755
+00:53:58,180 --> 00:53:59,960
+London track a number
+
+1756
+00:53:59,960 --> 00:54:00,740
+of the films we'd
+
+1757
+00:54:00,740 --> 00:54:01,560
+already seen at the
+
+1758
+00:54:01,560 --> 00:54:02,840
+Sunderland Festival so
+
+1759
+00:54:02,840 --> 00:54:03,560
+what I might just
+
+1760
+00:54:03,560 --> 00:54:04,540
+start doing is paying
+
+1761
+00:54:04,540 --> 00:54:05,340
+a lot more attention
+
+1762
+00:54:05,340 --> 00:54:06,320
+to the Sunderland one
+
+1763
+00:54:06,320 --> 00:54:07,340
+because they had a
+
+1764
+00:54:07,340 --> 00:54:09,360
+sci-fi track and you
+
+1765
+00:54:09,360 --> 00:54:10,580
+know it's not as
+
+1766
+00:54:10,580 --> 00:54:11,720
+full featured but you
+
+1767
+00:54:11,720 --> 00:54:13,080
+do get some there
+
+1768
+00:54:13,080 --> 00:54:14,100
+was some good science
+
+1769
+00:54:14,100 --> 00:54:14,900
+fiction in that too
+
+1770
+00:54:14,900 --> 00:54:16,800
+there's just not that
+
+1771
+00:54:16,800 --> 00:54:18,180
+many there's not that
+
+1772
+00:54:18,180 --> 00:54:18,960
+many science fiction
+
+1773
+00:54:18,960 --> 00:54:19,960
+films out there right?
+
+1774
+00:54:19,960 --> 00:54:22,020
+Well it's clearly sort
+
+1775
+00:54:22,020 --> 00:54:24,160
+of 25 to 30 and that
+
+1776
+00:54:24,160 --> 00:54:25,820
+is more than than
+
+1777
+00:54:25,820 --> 00:54:26,820
+Sunderland showed but
+
+1778
+00:54:26,820 --> 00:54:27,760
+but yes I mean
+
+1779
+00:54:27,760 --> 00:54:28,780
+presumably it is a
+
+1780
+00:54:28,780 --> 00:54:29,880
+limited number and
+
+1781
+00:54:29,880 --> 00:54:30,420
+that's one of the
+
+1782
+00:54:30,420 --> 00:54:32,140
+reasons why that I
+
+1783
+00:54:32,140 --> 00:54:32,860
+mean we didn't even
+
+1784
+00:54:32,860 --> 00:54:33,700
+mention short film
+
+1785
+00:54:33,700 --> 00:54:34,080
+when we were
+
+1786
+00:54:34,080 --> 00:54:35,100
+discussing extra Hugo
+
+1787
+00:54:35,100 --> 00:54:36,380
+categories right?
+
+1788
+00:54:36,380 --> 00:54:37,780
+So yeah there's 10
+
+1789
+00:54:37,780 --> 00:54:39,740
+feature films and a lot
+
+1790
+00:54:39,740 --> 00:54:41,900
+of shorts so I mean
+
+1791
+00:54:41,900 --> 00:54:44,020
+basically I need to see
+
+1792
+00:54:44,020 --> 00:54:44,860
+if Stephen wants to do
+
+1793
+00:54:44,860 --> 00:54:45,900
+this because I guess I'm
+
+1794
+00:54:45,900 --> 00:54:46,820
+suspecting the answer is
+
+1795
+00:54:46,820 --> 00:54:47,720
+going to be no.
+
+1796
+00:54:47,720 --> 00:54:49,620
+You could always go on
+
+1797
+00:54:49,620 --> 00:54:50,920
+your own but yes.
+
+1798
+00:54:50,920 --> 00:54:51,680
+And I might.
+
+1799
+00:54:51,680 --> 00:54:52,640
+It's not impossible.
+
+1800
+00:54:52,640 --> 00:54:54,400
+Have you ever been to
+
+1801
+00:54:54,400 --> 00:54:55,560
+Sci-Fi London Liz?
+
+1802
+00:54:55,560 --> 00:54:56,160
+Yeah.
+
+1803
+00:54:56,160 --> 00:54:56,980
+Was it good?
+
+1804
+00:54:56,980 --> 00:54:57,680
+Yes.
+
+1805
+00:54:57,680 --> 00:54:58,420
+Day!
+
+1806
+00:54:58,420 --> 00:55:00,060
+You heard it here first
+
+1807
+00:55:00,060 --> 00:55:00,340
+listeners.
+
+1808
+00:55:00,340 --> 00:55:01,500
+I mean I haven't been
+
+1809
+00:55:01,500 --> 00:55:03,600
+probably since 2014 maybe?
+
+1810
+00:55:03,600 --> 00:55:04,840
+No there's a name I
+
+1811
+00:55:04,840 --> 00:55:06,000
+haven't heard in a long
+
+1812
+00:55:06,000 --> 00:55:06,480
+time.
+
+1813
+00:55:06,480 --> 00:55:07,360
+It was great.
+
+1814
+00:55:07,360 --> 00:55:08,400
+A man used to shoot
+
+1815
+00:55:08,400 --> 00:55:09,180
+underpants into the
+
+1816
+00:55:09,180 --> 00:55:10,020
+audience of a t-shirt
+
+1817
+00:55:10,020 --> 00:55:10,240
+canon.
+
+1818
+00:55:10,240 --> 00:55:11,560
+That does sound
+
+1819
+00:55:11,560 --> 00:55:11,900
+great.
+
+1820
+00:55:11,900 --> 00:55:13,100
+Okay well I will look
+
+1821
+00:55:13,100 --> 00:55:13,680
+out for that.
+
+1822
+00:55:13,680 --> 00:55:14,760
+If you get any
+
+1823
+00:55:14,760 --> 00:55:15,640
+underpants from a t-shirt
+
+1824
+00:55:15,640 --> 00:55:17,280
+canon Alison can I have
+
+1825
+00:55:17,280 --> 00:55:17,440
+them?
+
+1826
+00:55:17,440 --> 00:55:18,060
+Yes.
+
+1827
+00:55:18,060 --> 00:55:18,720
+Day!
+
+1828
+00:55:18,720 --> 00:55:19,260
+Great.
+
+1829
+00:55:19,260 --> 00:55:19,920
+Okay.
+
+1830
+00:55:19,920 --> 00:55:21,180
+And the reason I'm
+
+1831
+00:55:21,180 --> 00:55:21,840
+picking something that
+
+1832
+00:55:21,840 --> 00:55:22,640
+I haven't actually done
+
+1833
+00:55:22,640 --> 00:55:25,600
+is because I've spent
+
+1834
+00:55:25,600 --> 00:55:27,180
+all of my spare time
+
+1835
+00:55:27,180 --> 00:55:28,840
+for the last ever since
+
+1836
+00:55:28,840 --> 00:55:30,500
+we last recorded playing
+
+1837
+00:55:30,500 --> 00:55:31,340
+through Blueprints
+
+1838
+00:55:31,340 --> 00:55:32,480
+which was Liz's pick a
+
+1839
+00:55:32,480 --> 00:55:33,700
+little while ago and
+
+1840
+00:55:33,700 --> 00:55:35,160
+no don't start don't
+
+1841
+00:55:35,160 --> 00:55:36,300
+start don't don't even
+
+1842
+00:55:36,300 --> 00:55:37,900
+go there because you
+
+1843
+00:55:37,900 --> 00:55:39,220
+know it's your life you
+
+1844
+00:55:39,220 --> 00:55:40,040
+only have one life do
+
+1845
+00:55:40,040 --> 00:55:40,580
+you want to spend it
+
+1846
+00:55:40,580 --> 00:55:41,440
+all on this game?
+
+1847
+00:55:41,440 --> 00:55:44,300
+When you get to room
+
+1848
+00:55:44,300 --> 00:55:45,300
+46 which is the
+
+1849
+00:55:45,300 --> 00:55:46,480
+ostensible objective
+
+1850
+00:55:46,480 --> 00:55:47,580
+when you buy this while
+
+1851
+00:55:47,580 --> 00:55:48,800
+you buy the game you
+
+1852
+00:55:48,800 --> 00:55:49,760
+realize that that is
+
+1853
+00:55:49,760 --> 00:55:50,440
+really just the
+
+1854
+00:55:50,440 --> 00:55:50,880
+tutorial.
+
+1855
+00:55:50,880 --> 00:55:52,220
+Intriguing.
+
+1856
+00:55:52,220 --> 00:55:53,160
+Sorry Alison.
+
+1857
+00:55:53,160 --> 00:55:55,740
+I picked up again but
+
+1858
+00:55:55,740 --> 00:55:56,400
+now I've stopped because
+
+1859
+00:55:56,400 --> 00:55:57,020
+I got annoyed with the
+
+1860
+00:55:57,020 --> 00:55:58,540
+puzzles so yeah.
+
+1861
+00:55:58,540 --> 00:55:59,300
+I mean I've
+
+1862
+00:55:59,300 --> 00:56:00,140
+practically filled a
+
+1863
+00:56:00,140 --> 00:56:01,340
+notebook so I
+
+1864
+00:56:01,340 --> 00:56:01,840
+started with a
+
+1865
+00:56:01,840 --> 00:56:02,560
+notebook but I think
+
+1866
+00:56:02,560 --> 00:56:03,260
+really what you want
+
+1867
+00:56:03,260 --> 00:56:03,780
+is one of those
+
+1868
+00:56:03,780 --> 00:56:04,720
+leather-bound jobbies
+
+1869
+00:56:04,720 --> 00:56:06,480
+where you write in it
+
+1870
+00:56:06,480 --> 00:56:07,240
+with a lovely fountain
+
+1871
+00:56:07,240 --> 00:56:07,540
+pen.
+
+1872
+00:56:07,620 --> 00:56:07,960
+if you've been
+
+1873
+00:56:07,960 --> 00:56:08,760
+keeping a beautiful
+
+1874
+00:56:08,760 --> 00:56:09,500
+notebook then
+
+1875
+00:56:09,500 --> 00:56:10,380
+Blueprints would be a
+
+1876
+00:56:10,380 --> 00:56:11,700
+great reason to start
+
+1877
+00:56:11,700 --> 00:56:13,260
+using it but I have
+
+1878
+00:56:13,260 --> 00:56:14,460
+filled a very large
+
+1879
+00:56:14,460 --> 00:56:15,380
+notebook pretty well
+
+1880
+00:56:15,380 --> 00:56:17,480
+with notes and I'm
+
+1881
+00:56:17,480 --> 00:56:18,760
+getting through it.
+
+1882
+00:56:18,760 --> 00:56:20,020
+I'm still making quite
+
+1883
+00:56:20,020 --> 00:56:20,800
+that sort of thing
+
+1884
+00:56:20,800 --> 00:56:21,020
+yeah.
+
+1885
+00:56:21,020 --> 00:56:22,140
+Have you reached room
+
+1886
+00:56:22,140 --> 00:56:22,600
+46?
+
+1887
+00:56:22,600 --> 00:56:23,800
+Oh yeah yeah yeah
+
+1888
+00:56:23,800 --> 00:56:25,140
+long I was explaining
+
+1889
+00:56:25,140 --> 00:56:26,660
+that you reached room
+
+1890
+00:56:26,660 --> 00:56:27,580
+46 and you suddenly
+
+1891
+00:56:27,580 --> 00:56:28,460
+discover you have now
+
+1892
+00:56:28,460 --> 00:56:29,300
+finished the tutorial.
+
+1893
+00:56:29,300 --> 00:56:31,500
+How many sanctum keys
+
+1894
+00:56:31,500 --> 00:56:31,900
+have you done?
+
+1895
+00:56:31,900 --> 00:56:32,620
+All of them?
+
+1896
+00:56:32,620 --> 00:56:33,760
+Four but I think we
+
+1897
+00:56:33,760 --> 00:56:34,620
+probably shouldn't be
+
+1898
+00:56:34,620 --> 00:56:35,760
+talking about that
+
+1899
+00:56:35,760 --> 00:56:37,320
+on the podcast.
+
+1900
+00:56:37,320 --> 00:56:38,440
+That's fine okay you
+
+1901
+00:56:38,440 --> 00:56:39,160
+can bring it I don't
+
+1902
+00:56:39,160 --> 00:56:39,880
+think that's really a
+
+1903
+00:56:39,880 --> 00:56:40,760
+spoiler if we've already
+
+1904
+00:56:40,760 --> 00:56:41,620
+said look there is more
+
+1905
+00:56:41,620 --> 00:56:42,680
+stuff after you get to
+
+1906
+00:56:42,680 --> 00:56:43,380
+what you think is going
+
+1907
+00:56:43,380 --> 00:56:44,000
+to be the nominal end
+
+1908
+00:56:44,000 --> 00:56:45,020
+of the game and that is
+
+1909
+00:56:45,020 --> 00:56:46,080
+naming one thing you
+
+1910
+00:56:46,080 --> 00:56:46,940
+could do out of like
+
+1911
+00:56:46,940 --> 00:56:47,840
+77.
+
+1912
+00:56:47,840 --> 00:56:49,400
+There's a lot more
+
+1913
+00:56:49,400 --> 00:56:49,800
+stuff.
+
+1914
+00:56:49,800 --> 00:56:51,700
+I have a list of about
+
+1915
+00:56:51,700 --> 00:56:54,120
+35 things I'm trying to
+
+1916
+00:56:54,120 --> 00:56:56,480
+progress and then like
+
+1917
+00:56:56,480 --> 00:56:58,420
+yesterday I happened to
+
+1918
+00:56:58,420 --> 00:56:59,440
+look with the magnifying
+
+1919
+00:56:59,440 --> 00:57:00,320
+gloss it's something I'd
+
+1920
+00:57:00,320 --> 00:57:01,420
+seen on like my second
+
+1921
+00:57:01,420 --> 00:57:02,080
+run through and
+
+1922
+00:57:02,080 --> 00:57:02,920
+discovered there was a
+
+1923
+00:57:02,920 --> 00:57:03,940
+useful message in it
+
+1924
+00:57:03,940 --> 00:57:04,880
+that I did not
+
+1925
+00:57:04,880 --> 00:57:06,000
+previously know and I'm
+
+1926
+00:57:06,000 --> 00:57:07,340
+like what?
+
+1927
+00:57:07,340 --> 00:57:08,500
+What did you look at?
+
+1928
+00:57:08,500 --> 00:57:09,380
+Was it the note that
+
+1929
+00:57:09,380 --> 00:57:09,840
+tells you how to pay
+
+1930
+00:57:09,840 --> 00:57:10,120
+billions?
+
+1931
+00:57:10,120 --> 00:57:11,700
+Oh the thing in the
+
+1932
+00:57:11,700 --> 00:57:15,100
+security things.
+
+1933
+00:57:15,100 --> 00:57:16,600
+Oh yeah yeah yeah
+
+1934
+00:57:16,600 --> 00:57:17,140
+okay.
+
+1935
+00:57:17,140 --> 00:57:19,400
+My pick is a book and
+
+1936
+00:57:19,400 --> 00:57:20,460
+it is a book published
+
+1937
+00:57:20,460 --> 00:57:22,680
+in 2015 because despite
+
+1938
+00:57:22,680 --> 00:57:23,900
+all the Hugo nominated
+
+1939
+00:57:23,900 --> 00:57:24,620
+stuff I should be
+
+1940
+00:57:24,620 --> 00:57:25,340
+reading I've apparently
+
+1941
+00:57:25,340 --> 00:57:26,440
+gone back to reading
+
+1942
+00:57:26,440 --> 00:57:26,900
+all the things.
+
+1943
+00:57:26,900 --> 00:57:28,860
+It is Wilding Hall by
+
+1944
+00:57:28,860 --> 00:57:31,240
+Elizabeth Hand which is
+
+1945
+00:57:31,240 --> 00:57:32,440
+I think it's a novel not
+
+1946
+00:57:32,440 --> 00:57:33,380
+a novella but it's quite a
+
+1947
+00:57:33,380 --> 00:57:36,400
+short novel and it's in
+
+1948
+00:57:36,400 --> 00:57:37,640
+this incredibly atmospheric
+
+1949
+00:57:37,640 --> 00:57:39,880
+novel about basically
+
+1950
+00:57:39,880 --> 00:57:41,820
+members of a British folk
+
+1951
+00:57:41,820 --> 00:57:44,480
+rock band in the 1970s who
+
+1952
+00:57:44,480 --> 00:57:46,760
+go to record an album at a
+
+1953
+00:57:46,760 --> 00:57:48,840
+very remote country house
+
+1954
+00:57:48,840 --> 00:57:51,040
+and it's but it's told in
+
+1955
+00:57:51,040 --> 00:57:51,980
+that way of kind of an oral
+
+1956
+00:57:51,980 --> 00:57:53,420
+history so it's all the band
+
+1957
+00:57:53,420 --> 00:57:54,620
+members and associated
+
+1958
+00:57:54,620 --> 00:57:55,940
+hangers-on later on telling
+
+1959
+00:57:55,940 --> 00:57:56,760
+the story of what was
+
+1960
+00:57:56,760 --> 00:57:58,820
+happening that summer when
+
+1961
+00:57:58,820 --> 00:58:00,580
+they record an album and
+
+1962
+00:58:00,580 --> 00:58:01,600
+things happened under
+
+1963
+00:58:01,600 --> 00:58:02,760
+mysterious circumstances
+
+1964
+00:58:02,760 --> 00:58:04,080
+and it's all kind of tied
+
+1965
+00:58:04,080 --> 00:58:05,980
+in with like folk music
+
+1966
+00:58:05,980 --> 00:58:08,240
+and British folklore and
+
+1967
+00:58:08,240 --> 00:58:09,160
+how much of kind of folk
+
+1968
+00:58:09,160 --> 00:58:11,160
+songs are about historical
+
+1969
+00:58:11,160 --> 00:58:13,360
+folklore and tales of
+
+1970
+00:58:13,360 --> 00:58:14,400
+different folk legends.
+
+1971
+00:58:14,400 --> 00:58:15,760
+It's just really well done.
+
+1972
+00:58:15,760 --> 00:58:16,660
+I mean I am a sucker for
+
+1973
+00:58:16,660 --> 00:58:17,500
+this kind of like oral
+
+1974
+00:58:17,500 --> 00:58:18,160
+history stuff.
+
+1975
+00:58:18,160 --> 00:58:19,260
+I really liked reading like
+
+1976
+00:58:19,260 --> 00:58:20,260
+Daisy Jones and the Six
+
+1977
+00:58:20,260 --> 00:58:22,660
+which is basically Fleetwood
+
+1978
+00:58:22,660 --> 00:58:23,840
+Mack in a fictional way and
+
+1979
+00:58:23,840 --> 00:58:24,760
+this is another thing from
+
+1980
+00:58:24,760 --> 00:58:26,720
+kind of the same era but I
+
+1981
+00:58:26,720 --> 00:58:28,060
+like the kind of distance you
+
+1982
+00:58:28,060 --> 00:58:29,260
+get with everyone telling
+
+1983
+00:58:29,260 --> 00:58:30,960
+the story they remember and
+
+1984
+00:58:30,960 --> 00:58:32,060
+saying oh no no this thing
+
+1985
+00:58:32,060 --> 00:58:32,960
+that this person is sure
+
+1986
+00:58:32,960 --> 00:58:34,620
+happened we never saw that
+
+1987
+00:58:34,620 --> 00:58:36,240
+happen and and all this kind
+
+1988
+00:58:36,240 --> 00:58:36,560
+of stuff.
+
+1989
+00:58:36,560 --> 00:58:37,680
+I mean I guess one thing is
+
+1990
+00:58:37,680 --> 00:58:39,340
+it doesn't really tell you
+
+1991
+00:58:39,340 --> 00:58:40,900
+what's going on at the end
+
+1992
+00:58:40,900 --> 00:58:42,200
+but it's kind of such an
+
+1993
+00:58:42,200 --> 00:58:43,820
+atmospheric feeling of what's
+
+1994
+00:58:43,820 --> 00:58:44,940
+going on of this kind of
+
+1995
+00:58:44,940 --> 00:58:46,900
+like glorious summer young
+
+1996
+00:58:46,900 --> 00:58:49,260
+people just on the verge of
+
+1997
+00:58:49,260 --> 00:58:51,160
+like massive creative success
+
+1998
+00:58:51,160 --> 00:58:52,580
+and what they do that summer
+
+1999
+00:58:52,580 --> 00:58:55,060
+and how much of this comes from
+
+2000
+00:58:55,060 --> 00:58:56,220
+the atmosphere they were doing
+
+2001
+00:58:56,220 --> 00:58:57,460
+in all stuck in this country
+
+2002
+00:58:57,460 --> 00:58:58,800
+house together.
+
+2003
+00:58:58,800 --> 00:59:00,080
+It works really well.
+
+2004
+00:59:00,080 --> 00:59:01,140
+Anyway I enjoyed it.
+
+2005
+00:59:01,140 --> 00:59:02,100
+It sounds good.
+
+2006
+00:59:02,100 --> 00:59:03,280
+I have not read it.
+
+2007
+00:59:03,280 --> 00:59:04,820
+I've been told about this
+
+2008
+00:59:04,820 --> 00:59:06,240
+book before and went I must
+
+2009
+00:59:06,240 --> 00:59:06,840
+read that.
+
+2010
+00:59:06,840 --> 00:59:08,800
+For some reason I have not in
+
+2011
+00:59:08,800 --> 00:59:10,080
+fact read that but obviously
+
+2012
+00:59:10,080 --> 00:59:11,560
+it is very much in my
+
+2013
+00:59:11,560 --> 00:59:12,200
+wheelhouse.
+
+2014
+00:59:12,200 --> 00:59:16,080
+I am very interested in
+
+2015
+00:59:16,080 --> 00:59:17,780
+English folk and the way that
+
+2016
+00:59:17,780 --> 00:59:20,320
+it uses traditional music and
+
+2017
+00:59:20,320 --> 00:59:21,880
+also doesn't use traditional
+
+2018
+00:59:21,880 --> 00:59:22,220
+music.
+
+2019
+00:59:22,220 --> 00:59:23,460
+So some of the most famous
+
+2020
+00:59:23,460 --> 00:59:25,280
+bits of pieces of English
+
+2021
+00:59:25,280 --> 00:59:26,960
+folk music or modern English
+
+2022
+00:59:26,960 --> 00:59:28,640
+folk music have no connection
+
+2023
+00:59:28,640 --> 00:59:29,660
+to the tradition whatsoever
+
+2024
+00:59:29,660 --> 00:59:32,400
+and other things keep popping
+
+2025
+00:59:32,400 --> 00:59:34,180
+up and then there are some
+
+2026
+00:59:34,180 --> 00:59:36,100
+some ballads that have been
+
+2027
+00:59:36,100 --> 00:59:37,800
+massively reworked multiple
+
+2028
+00:59:37,800 --> 00:59:39,880
+times and others that nobody
+
+2029
+00:59:39,880 --> 00:59:42,240
+ever sings for often for very
+
+2030
+00:59:42,240 --> 00:59:44,160
+good reason and and all the
+
+2031
+00:59:44,160 --> 00:59:45,500
+stuff about what was collected
+
+2032
+00:59:45,500 --> 00:59:47,500
+and what was not collected which
+
+2033
+00:59:47,500 --> 00:59:48,800
+we're sort of beginning to
+
+2034
+00:59:48,800 --> 00:59:49,420
+remedy now.
+
+2035
+00:59:49,420 --> 00:59:50,960
+Fascinating stuff.
+
+2036
+00:59:51,280 --> 00:59:52,060
+I want to read this book
+
+2037
+00:59:52,060 --> 00:59:52,600
+novel anyway.
+
+2038
+00:59:52,600 --> 00:59:53,260
+Yay!
+
+2039
+00:59:53,260 --> 00:59:55,560
+Yes I think it's absolutely up
+
+2040
+00:59:55,560 --> 00:59:57,000
+your alley and unlike
+
+2041
+00:59:57,000 --> 00:59:59,600
+Blue Prince it will take you an
+
+2042
+00:59:59,600 --> 01:00:00,100
+afternoon.
+
+2043
+01:00:00,100 --> 01:00:01,720
+Oh I could just borrow it.
+
+2044
+01:00:01,720 --> 01:00:02,960
+I could just borrow it.
+
+2045
+01:00:02,960 --> 01:00:03,320
+Look.
+
+2046
+01:00:03,320 --> 01:00:04,760
+That was the Octothorpe
+
+2047
+01:00:04,760 --> 01:00:06,260
+Podcast and it's goodbye from
+
+2048
+01:00:06,260 --> 01:00:06,520
+me.
+
+2049
+01:00:06,520 --> 01:00:07,760
+It's goodbye from me.
+
+2050
+01:00:07,760 --> 01:00:09,140
+And it's goodbye from me.
+
+2051
+01:00:09,140 --> 01:00:30,880
+I really need to write a style
+
+2052
+01:00:30,880 --> 01:00:31,080
+guide.
+
+2053
+01:00:31,080 --> 01:00:32,360
+Do you need to write a style
+
+2054
+01:00:32,360 --> 01:00:33,540
+guide because I just keep
+
+2055
+01:00:33,540 --> 01:00:34,980
+dumping stuff into the show notes
+
+2056
+01:00:34,980 --> 01:00:36,640
+in a random way then you have to
+
+2057
+01:00:36,640 --> 01:00:37,340
+reformat it.
+
+2058
+01:00:38,140 --> 01:00:40,060
+Oh no that's not it because I
+
+2059
+01:00:40,060 --> 01:00:41,160
+don't think having a style guide
+
+2060
+01:00:41,160 --> 01:00:42,640
+would help with that so much.
+
+2061
+01:00:42,640 --> 01:00:43,120
+No.
+
+2062
+01:00:43,120 --> 01:00:44,880
+It's that I have to go to look at
+
+2063
+01:00:44,880 --> 01:00:46,520
+last episode's show notes to work
+
+2064
+01:00:46,520 --> 01:00:48,300
+out how I do the show notes and
+
+2065
+01:00:48,300 --> 01:00:50,200
+that is suboptimal.
+
+2066
+01:00:50,200 --> 01:00:52,280
+I was just going to say you still
+
+2067
+01:00:52,280 --> 01:00:53,460
+have to go and open the style guide
+
+2068
+01:00:53,460 --> 01:00:54,840
+and look at it or you could just
+
+2069
+01:00:54,840 --> 01:00:55,840
+look at last episode show notes.
+
+2070
+01:00:55,840 --> 01:00:56,600
+Yeah.
+
+2071
+01:00:56,600 --> 01:00:57,400
+Hmm.
+
+2072
+01:00:57,400 --> 01:00:58,660
+Style guides are better.
+
+2073
+01:00:58,660 --> 01:01:00,240
+Let's not have a discussion on
+
+2074
+01:01:00,240 --> 01:01:01,260
+style guides shall we?
+
+2075
+01:01:01,260 --> 01:01:04,160
+The theme music for this episode was
+
+2076
+01:01:04,160 --> 01:01:05,920
+Fanfare for Space by Kevin
+
+2077
+01:01:05,920 --> 01:01:08,500
+McLeod and Competech.com used under
+
+2078
+01:01:08,500 --> 01:01:10,880
+a Creative Commons Attribution 4.0
+
+2079
+01:01:10,880 --> 01:01:11,400
+license.
+
+2080
+01:01:11,400 --> 01:01:13,880
+This podcast will end at the beep.
+
+2081
+01:01:13,880 --> 01:01:15,100
+Beep.
