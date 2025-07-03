@@ -1,0 +1,4372 @@
+1
+00:00:00,001 --> 00:00:04,400
+All right, John has gone to get a washing machine, so I'm going to go and get a drink.
+
+2
+00:00:04,400 --> 00:00:24,320
+Hello, everyone, and welcome to the very 138th episode of Octothorpe,
+
+3
+00:00:24,320 --> 00:00:32,060
+a podcast for science fiction and science fiction fandom, which is entering the inner sanctum,
+
+4
+00:00:32,060 --> 00:00:40,640
+seeing the sacrifice underway and backing out slowly again on the 3rd of July 2025.
+
+5
+00:00:40,640 --> 00:00:42,400
+I am John Coxon.
+
+6
+00:00:42,400 --> 00:00:43,860
+I'm Alison Scott.
+
+7
+00:00:43,860 --> 00:00:45,000
+And I'm Liz Batty.
+
+8
+00:00:45,000 --> 00:00:47,260
+You've got very excitable with these intros.
+
+9
+00:00:47,260 --> 00:00:48,800
+Sacrifice is in it.
+
+10
+00:00:48,800 --> 00:00:50,620
+And we have some letters of comment.
+
+11
+00:00:50,620 --> 00:00:51,300
+Yes.
+
+12
+00:00:51,300 --> 00:00:53,000
+Shall I do a letter of comment?
+
+13
+00:00:53,000 --> 00:00:53,120
+Yes.
+
+14
+00:00:53,120 --> 00:00:58,400
+We have one from Farrah Mendelsohn, and I'll say that we're recording this a little bit early.
+
+15
+00:00:58,400 --> 00:01:03,040
+So the BSFA AGM has not yet happened for us, but it will have happened for you.
+
+16
+00:01:03,040 --> 00:01:13,440
+So you will know whether the motion to change the way that the Translated Fiction Award works for the BSFA has passed or not.
+
+17
+00:01:13,900 --> 00:01:23,280
+So Farrah sent us a motion, which is basically the last AGM, there was a decision to appoint a little team to look at the Best Translated Fiction Award and decide if there was a better way for it to work.
+
+18
+00:01:23,280 --> 00:01:29,200
+And they have a proposal, essentially, to go for a juried shortlist.
+
+19
+00:01:29,200 --> 00:01:31,320
+By now, you will know if that has passed or not.
+
+20
+00:01:31,320 --> 00:01:35,800
+Farrah also worked to us about, because you mentioned the issue of providing judges with books.
+
+21
+00:01:35,800 --> 00:01:37,160
+And John pointed out the Clark Award.
+
+22
+00:01:37,160 --> 00:01:39,760
+Basically, you have to send seven paper copies of your book.
+
+23
+00:01:39,760 --> 00:01:45,800
+And Farrah says that the Crawford Award, which is for best first fantasy book, now solicits e-books.
+
+24
+00:01:45,800 --> 00:01:49,440
+And that has worked really well for them and also allows them to have an international judging panel.
+
+25
+00:01:49,560 --> 00:01:53,460
+And I think that is crucial, actually, for a Translation Award, you want an international judging panel, I think.
+
+26
+00:01:53,460 --> 00:01:59,340
+So the clerk can get away with having all the books posted to judges in the UK, but that might be more difficult if you're going international.
+
+27
+00:01:59,340 --> 00:02:04,880
+So thank you, Farrah, for some practical comments on how we could run this award.
+
+28
+00:02:04,880 --> 00:02:10,040
+I think having an international panel and sending out e-books is very wise.
+
+29
+00:02:10,040 --> 00:02:16,000
+And I think you're right that having an international panel would be a must.
+
+30
+00:02:16,500 --> 00:02:21,160
+Yes, and also, say, on the subject of the best translated work, Hugo.
+
+31
+00:02:21,160 --> 00:02:26,100
+Jake Sellar-Brookins said he was pleased to hear us discussing it and more on that soon.
+
+32
+00:02:26,100 --> 00:02:28,400
+So more news as we get it.
+
+33
+00:02:28,400 --> 00:02:36,440
+Rosanna Pendlebury wrote in on the translated fiction, Hugo, and says that she agreed with much, particularly John.
+
+34
+00:02:36,440 --> 00:02:37,120
+Hey!
+
+35
+00:02:37,120 --> 00:02:39,560
+Sometimes I say sensible things.
+
+36
+00:02:39,560 --> 00:02:43,800
+She says, given the aim of putting the world in Worldcon, there's an issue at the core of the Hugo
+
+37
+00:02:43,800 --> 00:02:52,920
+that it's trying to solve two gaping wounds, the Anglophone-centric nature of publishing and the Anglophone or specifically US-centric voter base.
+
+38
+00:02:53,760 --> 00:03:06,800
+And she basically says she thinks that having an award and maybe having it be a Hugo award would be a signal that the Worldcon is actually aware of the world outside of these things.
+
+39
+00:03:06,800 --> 00:03:15,680
+And she notes, maybe if there's a cart, we can eventually cajole the horse, bribe it with little snacks of some really quite excellent books.
+
+40
+00:03:16,200 --> 00:03:22,980
+And then says, if we were to put in the work for a long process, this is a really fruitful thing to work towards and it would make the Hugos richer.
+
+41
+00:03:22,980 --> 00:03:25,960
+I think that's probably a fair perspective.
+
+42
+00:03:25,960 --> 00:03:27,620
+So yes.
+
+43
+00:03:27,620 --> 00:03:31,460
+But I like the idea of sort of if you build it, they will come.
+
+44
+00:03:31,460 --> 00:03:33,780
+I think that is a good point.
+
+45
+00:03:33,780 --> 00:03:41,980
+And I note that Rosanna has actually written us quite a long letter through the medium of continuous short blue sky.
+
+46
+00:03:41,980 --> 00:03:44,180
+What do you call a blue sky?
+
+47
+00:03:44,180 --> 00:03:45,140
+Skeets.
+
+48
+00:03:45,140 --> 00:03:49,220
+And I think I'm just old and will never quite get used to this.
+
+49
+00:03:49,220 --> 00:03:51,220
+It's time for some game theory, Alison.
+
+50
+00:03:51,220 --> 00:03:52,200
+What was that?
+
+51
+00:03:52,200 --> 00:03:57,900
+Sorry, that's a reference to that guy on Twitter who used to do like immensely long threads would start time for some game theory.
+
+52
+00:03:57,900 --> 00:03:58,720
+Okay.
+
+53
+00:03:59,220 --> 00:04:00,680
+Thank you very much for writing in, Rosanna.
+
+54
+00:04:00,680 --> 00:04:15,840
+And Neil Lottenstein also wrote on translations and suggested we go for best translated short fiction first and then follow with best translated long fiction once the short fiction has become embedded and people are used to it.
+
+55
+00:04:15,840 --> 00:04:17,300
+And that might not be a bad idea.
+
+56
+00:04:17,300 --> 00:04:20,140
+And he also recommends Alex Schwarzman.
+
+57
+00:04:20,140 --> 00:04:23,680
+And he says, Alex, you might know some people of interest, which is true.
+
+58
+00:04:23,680 --> 00:04:26,480
+But Alex has not responded if indeed he saw that.
+
+59
+00:04:26,480 --> 00:04:27,580
+Alex is a good egg.
+
+60
+00:04:27,580 --> 00:04:28,420
+I like Alex.
+
+61
+00:04:28,740 --> 00:04:31,580
+He does the Unidentified Funny Objects anthologies.
+
+62
+00:04:31,580 --> 00:04:32,580
+Ooh.
+
+63
+00:04:32,580 --> 00:04:34,360
+He also runs a game shop.
+
+64
+00:04:34,360 --> 00:04:41,080
+And when I discovered that, I think I asked him what he found to be a tedious number of questions about what it's like to run a game shop.
+
+65
+00:04:41,080 --> 00:04:45,300
+Because, you know, I'm a nerd.
+
+66
+00:04:45,300 --> 00:04:56,320
+Neil also mentions that there are a bunch of audio awards and lists some and says, given that there are so many audio awards already, maybe that means there isn't a need for a Hugo Award in audio.
+
+67
+00:04:56,820 --> 00:04:59,180
+But I think none of the existing ones are genre.
+
+68
+00:04:59,180 --> 00:05:01,540
+And that's the thing that the Hugo has.
+
+69
+00:05:01,540 --> 00:05:03,860
+It's a specific award for science fiction and fantasy.
+
+70
+00:05:03,860 --> 00:05:04,520
+Yeah.
+
+71
+00:05:04,520 --> 00:05:07,260
+We also heard from Christopher J. Garcia.
+
+72
+00:05:07,260 --> 00:05:10,160
+He notes two things you do not fuck with.
+
+73
+00:05:10,160 --> 00:05:11,720
+The Wu-Tang Clan and Disney.
+
+74
+00:05:12,220 --> 00:05:13,540
+And he also says,
+
+75
+00:05:13,540 --> 00:05:17,400
+Wusfus is fairly accurate, although the regional variation is freaking Worldcon.
+
+76
+00:05:17,400 --> 00:05:18,740
+Fair enough.
+
+77
+00:05:18,740 --> 00:05:28,480
+He says that the best juried awards are the ones that have juries of two levels.
+
+78
+00:05:28,480 --> 00:05:34,300
+The first being wide view judges, a committee of seven to 11 that present, in essence, a long list.
+
+79
+00:05:34,300 --> 00:05:40,420
+And then the second tier is five or so people that select the eventual shortlist and winner from those on the long list.
+
+80
+00:05:40,480 --> 00:05:44,340
+This is very much how film festivals work, which I did not know.
+
+81
+00:05:44,340 --> 00:05:45,300
+But that is interesting.
+
+82
+00:05:45,300 --> 00:05:47,020
+Thank you very much to Chris.
+
+83
+00:05:47,020 --> 00:05:55,100
+And he also says he likes the best translated work idea, although his question is, why only translated to English instead of also translated from English?
+
+84
+00:05:55,500 --> 00:06:00,860
+And he says he wants, he would absolutely want both the translator and the original author awarded.
+
+85
+00:06:00,860 --> 00:06:07,960
+I think on the subject of translating to or from English, I think things translated from English, I'm not sure.
+
+86
+00:06:07,960 --> 00:06:13,380
+I think that would bias towards like classics of the English language that get a lot of translations.
+
+87
+00:06:13,380 --> 00:06:14,500
+And so I'm not sure.
+
+88
+00:06:14,500 --> 00:06:18,520
+I don't know whether I think that would like expose anyone to very interesting anything.
+
+89
+00:06:18,520 --> 00:06:21,540
+But maybe I am being overly, overly cynical.
+
+90
+00:06:21,540 --> 00:06:22,320
+I don't know.
+
+91
+00:06:22,720 --> 00:06:34,320
+I think then you get the potential issue that the Hugo electorate would be mostly voting on the English language original, not the translation, because very few of the electorate will read the translation.
+
+92
+00:06:34,320 --> 00:06:41,640
+So then it just turns into which of these five books that you may have read some time ago, if the translations were delayed, do you like the best?
+
+93
+00:06:41,640 --> 00:06:44,380
+Which is a bit, I don't know, it doesn't feel quite the same.
+
+94
+00:06:44,380 --> 00:06:52,820
+And also it's that ends up also sort of rewarding the authors who get foreign translations, which is probably going to be the most popular ones.
+
+95
+00:06:52,820 --> 00:06:54,300
+Yeah, that's a good point.
+
+96
+00:06:54,300 --> 00:06:55,320
+That's a very good point.
+
+97
+00:06:55,320 --> 00:06:56,200
+Although I do.
+
+98
+00:06:56,200 --> 00:07:02,340
+I do keep an eye out for what is getting translated when I go to book fairs and bookshops and so on.
+
+99
+00:07:02,720 --> 00:07:05,500
+And there are, for instance, some beautiful N.K.
+
+100
+00:07:05,500 --> 00:07:07,780
+Jemisin translations I've seen here.
+
+101
+00:07:07,780 --> 00:07:11,060
+And I think RF Kuang got translated.
+
+102
+00:07:11,060 --> 00:07:12,540
+A few other things.
+
+103
+00:07:12,540 --> 00:07:16,440
+But it doesn't, I mean, it's not always looking like it's like Hugo Award winners or something.
+
+104
+00:07:16,440 --> 00:07:18,180
+There is a bit more variety in there.
+
+105
+00:07:18,180 --> 00:07:21,820
+But it's going to be very different for every different country, I think.
+
+106
+00:07:21,820 --> 00:07:23,240
+Bridget on Facebook says,
+
+107
+00:07:23,360 --> 00:07:26,780
+I found Elizabeth in the wild from the Marmite Prize 2008 catalogue.
+
+108
+00:07:26,780 --> 00:07:28,020
+It seems to have spider legs.
+
+109
+00:07:28,020 --> 00:07:35,000
+And it took me a minute here because the actual picture she sent was in a post, a comment, a few comments down.
+
+110
+00:07:35,000 --> 00:07:42,460
+But it's some kind of hybrid creature with spider legs and bat wings and I think a lizard head.
+
+111
+00:07:42,460 --> 00:07:43,320
+Right.
+
+112
+00:07:43,320 --> 00:07:44,280
+It's weird.
+
+113
+00:07:44,280 --> 00:07:45,020
+Thank you, Bridget.
+
+114
+00:07:45,020 --> 00:07:47,180
+It sounds absolutely terrifying.
+
+115
+00:07:47,180 --> 00:07:49,440
+Oh, it's on our Facebook page if you want to look.
+
+116
+00:07:49,440 --> 00:07:50,480
+It is exciting.
+
+117
+00:07:50,480 --> 00:07:52,660
+I saw, I didn't click through.
+
+118
+00:07:52,660 --> 00:07:56,300
+And now I'm wondering, should I click through or shouldn't I?
+
+119
+00:07:56,300 --> 00:07:58,180
+Because it does sound scary.
+
+120
+00:07:58,180 --> 00:07:59,240
+It's not that scary.
+
+121
+00:07:59,240 --> 00:08:01,220
+It's not very scary.
+
+122
+00:08:01,220 --> 00:08:02,840
+Does have my name for some reason.
+
+123
+00:08:02,840 --> 00:08:03,760
+Hmm.
+
+124
+00:08:03,760 --> 00:08:05,120
+I guess because it's a lizard bat.
+
+125
+00:08:05,120 --> 00:08:06,160
+Yeah, I think.
+
+126
+00:08:06,160 --> 00:08:06,900
+Yeah.
+
+127
+00:08:06,900 --> 00:08:07,920
+Or a bat lizard.
+
+128
+00:08:07,920 --> 00:08:09,340
+Paul Weimer wrote to us.
+
+129
+00:08:09,340 --> 00:08:13,020
+He heard my comment last time that I, quote, quite like a bit of smut.
+
+130
+00:08:13,020 --> 00:08:20,080
+And insists that I shall strongly suggest that I read The Mercy Makers by Tessa Grattan.
+
+131
+00:08:20,300 --> 00:08:24,180
+It's a fantasy novel and there is indeed, in addition to an interesting protagonist,
+
+132
+00:08:24,180 --> 00:08:30,360
+chewy world building and lots of lush and sensuous detail and plotting, quite a lot of smut.
+
+133
+00:08:30,360 --> 00:08:34,780
+So much that Paul put a spoiler warning in his review.
+
+134
+00:08:34,780 --> 00:08:38,400
+I think he means a trigger warning rather than a spoiler warning here.
+
+135
+00:08:38,760 --> 00:08:43,100
+The review might or might not be up by the time you read this or read from this on air.
+
+136
+00:08:43,100 --> 00:08:50,060
+Ange points out that we missed a celebrity translator in our discussion of translation last episode.
+
+137
+00:08:50,060 --> 00:08:59,920
+So Ange notes the translators Anthea Bell and Derek Hockridge, who translated Asterix into English.
+
+138
+00:09:00,620 --> 00:09:04,220
+And I've put a link in the show notes to an article on their translations.
+
+139
+00:09:04,220 --> 00:09:09,300
+They are, their translations add a lot to Asterix in English.
+
+140
+00:09:09,300 --> 00:09:17,540
+And one of the best examples is that in the French, Asterix's dog is called idea fix, which is kind of fixated on an idea.
+
+141
+00:09:17,540 --> 00:09:23,280
+But in English, they translated it to dogmatics, which means the same thing, but is also a pun on the word dog.
+
+142
+00:09:23,340 --> 00:09:30,060
+So there are actually instances in the English where extra jokes are added in translation because the translators were very good.
+
+143
+00:09:30,060 --> 00:09:37,460
+And I think that is a very good example of a good translation team and what translators can add to a work.
+
+144
+00:09:37,460 --> 00:09:40,240
+So thank you very much for writing, Ange.
+
+145
+00:09:40,240 --> 00:09:47,380
+Ange also thanks me for reminding her that Tinkley was the first place I saw Henry VIII and his six wives envisioned as cats.
+
+146
+00:09:47,380 --> 00:09:48,480
+First place?
+
+147
+00:09:51,920 --> 00:09:56,360
+Louise Hughes, I think a first time writer, wrote to us on Blue Sky to say,
+
+148
+00:09:56,360 --> 00:09:58,560
+I'm definitely not a Geordie and would not claim to be.
+
+149
+00:09:58,560 --> 00:10:00,900
+My Durham accent is totally different.
+
+150
+00:10:00,900 --> 00:10:07,000
+But there are Geordies in the historic county of Durham, now South Tyneside, which I mean, of course there are.
+
+151
+00:10:07,000 --> 00:10:07,640
+Yes.
+
+152
+00:10:07,640 --> 00:10:10,100
+Thank you very much for writing in.
+
+153
+00:10:10,100 --> 00:10:19,900
+When Espanya got her citizenship, the mayor of the Lord Mayor, probably, whoever it was at the ceremony,
+
+154
+00:10:19,900 --> 00:10:21,980
+said that everyone there was a Geordie.
+
+155
+00:10:21,980 --> 00:10:23,740
+So Espanya is a Geordie.
+
+156
+00:10:23,740 --> 00:10:24,880
+But I am not.
+
+157
+00:10:24,880 --> 00:10:31,440
+Oh, I mean, if you get your citizenship in Newcastle, then presumably you are automatically a Geordie, yes?
+
+158
+00:10:31,440 --> 00:10:33,560
+I think that was indeed the implication.
+
+159
+00:10:33,560 --> 00:10:35,640
+I can tell from her accent, really.
+
+160
+00:10:35,640 --> 00:10:36,300
+Yeah.
+
+161
+00:10:36,300 --> 00:10:39,060
+When she says YI, it works very well.
+
+162
+00:10:41,060 --> 00:10:56,320
+So, one of the bids for the 2027 Worldcon is Montreal, which had been being chaired by Terry Fong in its bid stage.
+
+163
+00:10:56,720 --> 00:11:05,280
+But he has stepped down for personal reasons, according to a post that Montreal made on Blue Sky.
+
+164
+00:11:05,280 --> 00:11:14,580
+And Darren Briskman had taken the role of interim bid chair until site selection, which rather makes me think that he's taken the role of bid chair.
+
+165
+00:11:14,680 --> 00:11:18,680
+Because if you're going to be bid chair until the bid's no longer a bid, that's not really into him.
+
+166
+00:11:18,680 --> 00:11:20,940
+But anyway, Briskman's done a bunch of stuff.
+
+167
+00:11:20,940 --> 00:11:25,280
+He worked on Glasgow as the platform operation manager for online convention.
+
+168
+00:11:25,900 --> 00:11:30,240
+And he was one of the heroes of Con Zealand.
+
+169
+00:11:30,240 --> 00:11:32,500
+So, I'm sure he is great.
+
+170
+00:11:32,500 --> 00:11:36,380
+The comments on Fast 770 are quite interesting.
+
+171
+00:11:36,380 --> 00:11:39,300
+There's two comments out of the nine that jumped out at me.
+
+172
+00:11:39,300 --> 00:11:45,200
+One of them is that on the Montreal website, on their core values page,
+
+173
+00:11:45,200 --> 00:11:47,800
+JM notes that that page says,
+
+174
+00:11:47,800 --> 00:11:51,660
+We understand that there are some questions regarding some of our staff and committee members.
+
+175
+00:11:51,660 --> 00:11:54,440
+We believe in redemption and the ability to atone.
+
+176
+00:11:54,740 --> 00:11:59,640
+All of these people recognise their past errors and are committing to doing better and serving fandom and our communities.
+
+177
+00:11:59,640 --> 00:12:02,720
+Circumstances differ in each case and safeguards have been employed,
+
+178
+00:12:02,720 --> 00:12:05,540
+but we are willing to allow them to make reparations to the best of their abilities.
+
+179
+00:12:05,540 --> 00:12:07,600
+And they asked, who are they talking about?
+
+180
+00:12:07,600 --> 00:12:09,300
+Which is a fair comment.
+
+181
+00:12:09,300 --> 00:12:13,340
+And then Robbie Bourget wrote, saying,
+
+182
+00:12:13,340 --> 00:12:17,240
+This is a bid committee failing to talk with its organising board, Kansmoth.
+
+183
+00:12:17,240 --> 00:12:20,720
+We will issue better and more correct information within a week.
+
+184
+00:12:20,720 --> 00:12:22,540
+Robbie Bourget, Kansmoth Board.
+
+185
+00:12:22,540 --> 00:12:27,600
+Now, we are recording listeners on the 19th of June, which is quite soon after all this came out.
+
+186
+00:12:27,600 --> 00:12:30,040
+We might have to do a little pickup if more information does come out.
+
+187
+00:12:30,040 --> 00:12:32,300
+But right now, it all looks a little bit weird.
+
+188
+00:12:32,300 --> 00:12:34,380
+Not weird that a chair has stepped down.
+
+189
+00:12:34,380 --> 00:12:35,200
+That happens.
+
+190
+00:12:35,200 --> 00:12:37,520
+And that was entirely uncontroversial.
+
+191
+00:12:37,520 --> 00:12:40,500
+But Robbie's comment, particularly on Fast 770,
+
+192
+00:12:40,500 --> 00:12:45,780
+makes it sound like there's a lot happening that is not being made public.
+
+193
+00:12:46,000 --> 00:12:51,860
+And it just seems like a really weird comment for the chair of the Kansmoth Board to make on Fast 770.
+
+194
+00:12:51,860 --> 00:12:53,720
+What do we think about this?
+
+195
+00:12:53,720 --> 00:12:59,080
+I think we probably wouldn't be talking about this except for that comment on Fast 770.
+
+196
+00:12:59,080 --> 00:13:05,980
+So this is one of those cases where I think you just don't say anything until you have a comment to put out that's not mysterious.
+
+197
+00:13:06,520 --> 00:13:09,480
+Yeah, I feel like there's a lot of mysterious comments going on.
+
+198
+00:13:09,480 --> 00:13:13,140
+I think we probably would be mentioning it, the fact that Terry Fong has stepped down,
+
+199
+00:13:13,140 --> 00:13:17,460
+when John said it's one of the bids for 2027.
+
+200
+00:13:17,460 --> 00:13:20,920
+Montreal is the only bid that's filed papers for 2027.
+
+201
+00:13:21,180 --> 00:13:24,580
+Yes, because the other one was Tel Aviv, which has not filed for obvious reasons.
+
+202
+00:13:24,580 --> 00:13:27,800
+Yeah, but I haven't, I mean, I haven't been keeping tracks on it that much.
+
+203
+00:13:27,800 --> 00:13:33,840
+But there is often the strong thing of having a bid chair who will then step down when you become an actual con.
+
+204
+00:13:33,840 --> 00:13:39,280
+So it is also possible this is just a case of the bid chair who was planning to carry on for another couple of months,
+
+205
+00:13:39,280 --> 00:13:42,880
+has had an attack of real life and needs to step down and hand over to someone else.
+
+206
+00:13:42,880 --> 00:13:45,540
+But there was always someone else coming in for the actual con anyway.
+
+207
+00:13:45,540 --> 00:13:46,640
+So, yeah.
+
+208
+00:13:46,640 --> 00:13:50,280
+I had put it in the show notes before I'd read the comments.
+
+209
+00:13:50,560 --> 00:13:52,840
+So, like, I think we would probably have talked about it,
+
+210
+00:13:52,840 --> 00:13:56,480
+but I don't think we would have, we probably would have noted it in passing and then moved on.
+
+211
+00:13:56,480 --> 00:14:06,460
+But I am super intrigued as to what the miscommunication or the beef between the parent organisation and the bid could be.
+
+212
+00:14:06,460 --> 00:14:09,740
+I don't know what that is.
+
+213
+00:14:09,740 --> 00:14:15,680
+And it does seem like the sort of thing you'd probably want to address internally rather than externally.
+
+214
+00:14:15,680 --> 00:14:18,600
+But maybe I'm incorrect. I don't know.
+
+215
+00:14:18,600 --> 00:14:22,400
+Did you know their website has a page on how to prepare smoked meat in a hotel room?
+
+216
+00:14:22,400 --> 00:14:23,140
+Er.
+
+217
+00:14:23,140 --> 00:14:26,700
+That doesn't seem unreasonable because they were famous for doing that.
+
+218
+00:14:26,700 --> 00:14:30,540
+I did not know it. It doesn't seem unreasonable. It does sound cool, though.
+
+219
+00:14:30,540 --> 00:14:33,100
+I've been to one of their parties who smoked meat, I don't think.
+
+220
+00:14:33,100 --> 00:14:34,560
+Lots of maple syrup and so on.
+
+221
+00:14:34,560 --> 00:14:36,100
+I feel I've missed out.
+
+222
+00:14:36,100 --> 00:14:36,880
+Oh.
+
+223
+00:14:36,880 --> 00:14:42,060
+Well, maybe it was just that I went to a party with smoked meat at Montreal in 2009.
+
+224
+00:14:42,060 --> 00:14:46,260
+That was probably actually somebody else because Montreal won't have been running parties then.
+
+225
+00:14:46,260 --> 00:14:53,020
+The Montreal in 2027 Facebook page, this is something that Jerry pointed out to me the other day,
+
+226
+00:14:53,020 --> 00:14:56,300
+has 10 likes and 20 followers.
+
+227
+00:14:56,840 --> 00:14:57,360
+Wow.
+
+228
+00:14:57,360 --> 00:14:59,540
+Those are some pretty good numbers.
+
+229
+00:14:59,540 --> 00:15:05,040
+For you, I've had a stuffed moose with more likes and followers on Facebook than that.
+
+230
+00:15:05,040 --> 00:15:07,360
+I think we did better for punctuation, didn't we?
+
+231
+00:15:07,680 --> 00:15:14,220
+I think we can say that the Montreal bid is a bit under the radar and that might not be a problem
+
+232
+00:15:14,220 --> 00:15:21,660
+if it was like last time Montreal bid when there were lots of bids, but they are the de facto going to be a world con.
+
+233
+00:15:21,660 --> 00:15:27,580
+And so it would be nice if we saw a bit more from them before Seattle.
+
+234
+00:15:27,580 --> 00:15:30,940
+And hopefully the change of bid share is what that's about.
+
+235
+00:15:30,940 --> 00:15:32,300
+Yeah, I think that's right.
+
+236
+00:15:32,700 --> 00:15:37,900
+I don't think Montreal have been doing an amazing job here.
+
+237
+00:15:37,900 --> 00:15:43,700
+And I am sort of wondering whether what has happened is that Terry has realized that's true
+
+238
+00:15:43,700 --> 00:15:50,540
+and realized he doesn't have time to do this and a step decided to enable the bid to kind of maybe spool up a little bit
+
+239
+00:15:50,540 --> 00:15:52,960
+before the actual site selection meeting.
+
+240
+00:15:52,960 --> 00:15:55,160
+But I'm kind of eager.
+
+241
+00:15:55,160 --> 00:15:59,320
+That doesn't really fit with the sort of thing that Robbie posted.
+
+242
+00:15:59,320 --> 00:16:01,140
+So that's clearly not the whole story.
+
+243
+00:16:01,340 --> 00:16:04,160
+And I'm very intrigued to see what the whole story is.
+
+244
+00:16:04,160 --> 00:16:07,900
+Their website has a whiff of the GeoCities about it.
+
+245
+00:16:07,900 --> 00:16:09,460
+Wow, Liz.
+
+246
+00:16:09,460 --> 00:16:10,380
+Wow.
+
+247
+00:16:10,380 --> 00:16:12,480
+It's the fake parchment background.
+
+248
+00:16:12,480 --> 00:16:13,780
+That's what does it.
+
+249
+00:16:13,780 --> 00:16:17,240
+Are you saying that fake parchment isn't in style?
+
+250
+00:16:17,240 --> 00:16:18,140
+Yes.
+
+251
+00:16:18,140 --> 00:16:22,120
+What's important about a website isn't whether or not it's in style.
+
+252
+00:16:22,120 --> 00:16:23,660
+It's whether it has good content.
+
+253
+00:16:23,660 --> 00:16:25,440
+It doesn't have good content.
+
+254
+00:16:25,440 --> 00:16:31,140
+Well, no, to be fair, I've just said it will teach me how to smoke meat in a hotel bathroom.
+
+255
+00:16:31,140 --> 00:16:31,940
+So.
+
+256
+00:16:31,940 --> 00:16:34,020
+Well, and also, I think both are important.
+
+257
+00:16:34,020 --> 00:16:37,520
+Oh, it's got a lot of stuff about food, doesn't it?
+
+258
+00:16:37,520 --> 00:16:39,620
+It does have a lot of stuff about Montreal and food.
+
+259
+00:16:39,620 --> 00:16:46,060
+Because if the style of the website and the design wasn't important, then style guides would be unnecessary.
+
+260
+00:16:46,060 --> 00:16:47,760
+But we know that they are necessary.
+
+261
+00:16:47,960 --> 00:16:49,800
+So clearly, it's a balance of both.
+
+262
+00:16:49,800 --> 00:16:50,580
+Mm-mm.
+
+263
+00:16:51,380 --> 00:16:57,540
+I think the comparison is because I was having a look at the LA comm website for something the other day.
+
+264
+00:16:57,540 --> 00:16:58,840
+And...
+
+265
+00:16:58,840 --> 00:16:59,400
+It's much better.
+
+266
+00:16:59,400 --> 00:17:03,300
+It just looks really nice and clean and up to date.
+
+267
+00:17:03,300 --> 00:17:04,040
+Yes.
+
+268
+00:17:04,340 --> 00:17:06,820
+And I was getting some slight throwback vibes from Montreal.
+
+269
+00:17:06,820 --> 00:17:07,720
+I think...
+
+270
+00:17:07,720 --> 00:17:08,220
+No, I think...
+
+271
+00:17:08,220 --> 00:17:09,260
+I think it is a fair comment.
+
+272
+00:17:09,260 --> 00:17:10,600
+Um, 100%.
+
+273
+00:17:10,600 --> 00:17:14,400
+I'm old enough to remember when Eastercom websites were Times New Roman and tables.
+
+274
+00:17:14,400 --> 00:17:19,080
+Also fair to say, I absolutely could not make a better website in any way.
+
+275
+00:17:19,080 --> 00:17:20,200
+So...
+
+276
+00:17:20,200 --> 00:17:23,620
+You could install WordPress on a server somewhere, Liz.
+
+277
+00:17:23,620 --> 00:17:26,320
+Oh, I have, in fact, installed WordPress on a server.
+
+278
+00:17:26,320 --> 00:17:27,620
+Yeah, you're right.
+
+279
+00:17:27,620 --> 00:17:28,220
+Great.
+
+280
+00:17:28,220 --> 00:17:29,160
+So that was Montreal.
+
+281
+00:17:29,160 --> 00:17:30,080
+We don't know much.
+
+282
+00:17:30,080 --> 00:17:31,420
+We'll tell you more when we know more.
+
+283
+00:17:31,420 --> 00:17:32,280
+But it's interesting.
+
+284
+00:17:32,280 --> 00:17:34,160
+I want smoked meat now.
+
+285
+00:17:34,160 --> 00:17:39,500
+But I have to say, I'm a bit shocked by the whole prepare it in a hotel bathroom.
+
+286
+00:17:39,500 --> 00:17:46,300
+And I think this must be something about differing electrical standards in the US and the UK or in Canada and the UK here.
+
+287
+00:17:46,300 --> 00:17:47,900
+I haven't read it in detail.
+
+288
+00:17:48,460 --> 00:17:55,620
+So I am not sure if you smoke the meat in the bathroom or just, like, prepare it once the hot plate is off.
+
+289
+00:17:55,620 --> 00:17:59,920
+I think, but there is a photo of what looks like a bathroom sink and a plug socket next to it.
+
+290
+00:17:59,920 --> 00:18:03,840
+I think you buy previously made smoked meat from somebody.
+
+291
+00:18:03,840 --> 00:18:08,660
+I don't think they're actually running a smoker in a hotel bathroom because that would be quite funny.
+
+292
+00:18:08,660 --> 00:18:10,340
+No, you're just running your crock pot.
+
+293
+00:18:10,340 --> 00:18:16,580
+Listeners, if you've run a full-on smoker in a hotel bathroom, please let us know.
+
+294
+00:18:16,920 --> 00:18:20,380
+Actually, just tell us, like, the most exciting thing you have made in a hotel bathroom.
+
+295
+00:18:20,380 --> 00:18:21,180
+Oh, no.
+
+296
+00:18:28,380 --> 00:18:38,160
+We have now got some information from Seattle on the subject of the 2025 WUSFUS business meeting.
+
+297
+00:18:38,160 --> 00:18:39,340
+There is an agenda.
+
+298
+00:18:39,340 --> 00:18:41,540
+There are virtual meeting instructions.
+
+299
+00:18:41,540 --> 00:18:44,320
+There are the results of a consultative vote.
+
+300
+00:18:44,320 --> 00:18:48,740
+There are plans to have a Discord.
+
+301
+00:18:48,740 --> 00:18:49,720
+It's all very exciting.
+
+302
+00:18:49,720 --> 00:18:52,520
+We'll start with the consultative vote.
+
+303
+00:18:52,520 --> 00:19:01,880
+343 members expressed their views on the chosen proposals from the business passed on from Glasgow.
+
+304
+00:19:02,300 --> 00:19:09,280
+Having a quick old look at the membership list for Seattle, I think they've got in excess of 2,000 members.
+
+305
+00:19:09,280 --> 00:19:11,940
+I think they've got at least 2,000 members who could have voted.
+
+306
+00:19:11,940 --> 00:19:21,820
+But the turnout is sort of no greater than 17% and maybe substantially lower if there are much more than 1,000 attending members, which I would expect there are.
+
+307
+00:19:22,140 --> 00:19:31,620
+Basically, 164 people voted to say that they would like to eliminate the Retro Hugos and 167 voted to say that they wouldn't like to eliminate them.
+
+308
+00:19:31,620 --> 00:19:34,780
+And the total was 331 votes cast.
+
+309
+00:19:34,780 --> 00:19:39,760
+So that is not what you'd call an overwhelming majority.
+
+310
+00:19:39,760 --> 00:19:41,800
+It is 50.4%.
+
+311
+00:19:41,800 --> 00:19:47,940
+So the quest for a 48-52 good-bad poll continues unabated.
+
+312
+00:19:47,940 --> 00:19:51,200
+And this has not given us the result we won, Graham.
+
+313
+00:19:51,200 --> 00:19:51,480
+Sorry.
+
+314
+00:19:51,480 --> 00:19:56,520
+Yeah, we don't have the resounding success of a 52-48 poll here, do we?
+
+315
+00:19:56,520 --> 00:19:57,160
+No.
+
+316
+00:19:57,160 --> 00:20:02,540
+And then the vote to amend Hugo Award categories for best fan and professional.
+
+317
+00:20:02,540 --> 00:20:04,860
+The no's again had it.
+
+318
+00:20:04,860 --> 00:20:08,920
+There were 160 votes out of 284 were for no.
+
+319
+00:20:09,420 --> 00:20:14,460
+And that means that about 56% of the vote was for no.
+
+320
+00:20:14,460 --> 00:20:21,640
+So what this basically indicates is that both of these are really quite split issues in the community.
+
+321
+00:20:21,640 --> 00:20:26,740
+And there's not much consensus amongst the wider membership, which I probably could have told you.
+
+322
+00:20:26,740 --> 00:20:31,000
+But I think we knew that already, which is why they were having consulted votes.
+
+323
+00:20:31,000 --> 00:20:31,500
+Yeah.
+
+324
+00:20:31,500 --> 00:20:33,200
+Not sure what this has added.
+
+325
+00:20:33,200 --> 00:20:34,920
+No, it has added something.
+
+326
+00:20:34,920 --> 00:20:37,720
+It has added the fact that we now know there are numbers.
+
+327
+00:20:37,720 --> 00:20:38,380
+That's good.
+
+328
+00:20:38,760 --> 00:20:50,500
+But like, it is definitely true that I feel like if we had thought that if there was a huge sort of groundswell of support for one or the other of these, we probably would have heard about it.
+
+329
+00:20:50,500 --> 00:20:55,020
+So it's not surprising that the numbers don't indicate there is such a thing.
+
+330
+00:20:55,560 --> 00:21:12,520
+You know, not everybody who attends the world con is interested in the inner workings of world con politics.
+
+331
+00:21:12,520 --> 00:21:15,380
+Though you would think they were sometimes, but they're not.
+
+332
+00:21:15,380 --> 00:21:27,720
+And even because our regular form of democracy in the world con is a village meeting, a town meeting, essentially a business meeting to which any member can attend.
+
+333
+00:21:29,220 --> 00:21:35,540
+31 is a lot more votes than you're going to get for any individual resolution at an in-person business meeting.
+
+334
+00:21:35,540 --> 00:21:37,560
+And I suspect also in the online business meeting.
+
+335
+00:21:37,560 --> 00:21:43,960
+So it's actually quite good as a test of what the world con thinks, I think.
+
+336
+00:21:43,960 --> 00:21:45,240
+Yeah, no, I would agree.
+
+337
+00:21:45,240 --> 00:21:46,520
+I think that is true.
+
+338
+00:21:47,180 --> 00:21:55,140
+I want to say, like, I am, I guess I am sort of trying to draw conclusions about the nature of the turnout.
+
+339
+00:21:55,140 --> 00:22:01,420
+I do definitely agree that this is a higher turnout than you'd get by having a business meeting in person.
+
+340
+00:22:01,580 --> 00:22:08,680
+But I also will say, I think this is partly because I'm not sure the consultative vote was very well publicized.
+
+341
+00:22:08,680 --> 00:22:10,420
+And I think it ran.
+
+342
+00:22:10,420 --> 00:22:19,980
+I don't know why it's not still running, because I do think it came out after the agenda was published or it came out simultaneous with the agenda being published.
+
+343
+00:22:19,980 --> 00:22:21,580
+So it's not like before.
+
+344
+00:22:21,580 --> 00:22:23,540
+How much before do we know?
+
+345
+00:22:23,540 --> 00:22:26,440
+Hang on while I go and check on the blue sky what it was.
+
+346
+00:22:26,440 --> 00:22:30,920
+But I mean, I think it came out before the agenda, but probably after the business deadline.
+
+347
+00:22:30,920 --> 00:22:32,460
+Let me check that one, though.
+
+348
+00:22:32,460 --> 00:22:33,060
+Okay.
+
+349
+00:22:33,060 --> 00:22:41,580
+I guess what I want to say is I'm not sure it's ended early enough for it to be able to inform any of the motions that were put to the meeting.
+
+350
+00:22:41,580 --> 00:22:43,580
+And I'm not and I'm not sure.
+
+351
+00:22:43,580 --> 00:22:51,880
+Therefore, it coming out as early as it did is actually all that helpful, because I think it's you just need to know by the time you vote on the ratification.
+
+352
+00:22:51,880 --> 00:22:55,560
+I'm not sure you need to know a month in advance of ratification.
+
+353
+00:22:55,720 --> 00:23:00,900
+If you can't really react to it in any other way than sort of pontificating on your podcast.
+
+354
+00:23:00,900 --> 00:23:06,020
+Yeah, I will say that my comparison is that Glasgow in 2024 ran a very similar exercise.
+
+355
+00:23:06,020 --> 00:23:10,280
+And having gone back and looked at their website, they also only kept it open for two weeks.
+
+356
+00:23:10,280 --> 00:23:16,120
+But I think they just, one, it was close to the con, so probably more people had joined, but that's because their business meeting was later.
+
+357
+00:23:16,120 --> 00:23:20,500
+But also, I mean, they got 1260 votes, which is...
+
+358
+00:23:20,500 --> 00:23:22,640
+Yeah, I was going to come back to that as well.
+
+359
+00:23:22,640 --> 00:23:23,000
+Yeah.
+
+360
+00:23:23,000 --> 00:23:25,820
+Did you also notice what the vote tallies were, John?
+
+361
+00:23:25,820 --> 00:23:28,760
+42.3% to 57.7%.
+
+362
+00:23:28,760 --> 00:23:31,060
+It's not quite the 48-52, is it?
+
+363
+00:23:31,060 --> 00:23:33,060
+But yeah, inverse or something.
+
+364
+00:23:33,060 --> 00:23:34,780
+Oh no, that's quite a big majority.
+
+365
+00:23:34,780 --> 00:23:40,420
+Yeah, but then in the actual business meeting, it was a crushing majority for not passing those.
+
+366
+00:23:40,420 --> 00:23:41,220
+So...
+
+367
+00:23:41,220 --> 00:23:42,960
+Oh, it's definitely interesting.
+
+368
+00:23:42,960 --> 00:23:49,700
+I think it might be interesting to compare these to the ratios by which they were passed at Glasgow.
+
+369
+00:23:49,700 --> 00:23:52,800
+Do you have those ratios to hand, Liz?
+
+370
+00:23:52,800 --> 00:23:53,880
+Oh, no.
+
+371
+00:23:53,880 --> 00:23:58,540
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+
+372
+00:23:58,540 --> 00:23:59,380
+Hold on.
+
+373
+00:23:59,380 --> 00:24:03,640
+Being made to do work by the evil John, her nemesis.
+
+374
+00:24:03,640 --> 00:24:05,440
+You're not really my nemesis, John.
+
+375
+00:24:05,440 --> 00:24:06,820
+I could be your nemesis, Liz.
+
+376
+00:24:07,060 --> 00:24:11,300
+How dare you take my dreams of being your nemesis away?
+
+377
+00:24:11,300 --> 00:24:12,160
+All right, hang on.
+
+378
+00:24:12,160 --> 00:24:13,440
+There were a lot of motions last time.
+
+379
+00:24:13,440 --> 00:24:23,780
+Right, so I hate to disappoint you here, John, but I went and looked up that motion and the minutes of it in the business meeting minutes 24.
+
+380
+00:24:23,780 --> 00:24:27,160
+And the thing is that no one spoke in favour of ratification.
+
+381
+00:24:27,160 --> 00:24:30,220
+And so ratification failed by a show of hands.
+
+382
+00:24:30,460 --> 00:24:37,560
+So we don't know what the outcome was, only that it was not close enough that you needed to do a full vote.
+
+383
+00:24:37,560 --> 00:24:41,520
+Well, I mean, and that there was no one in the room prepared to speak for it.
+
+384
+00:24:41,520 --> 00:24:45,300
+No, I mean, sorry, I think I might have mis-expressed myself.
+
+385
+00:24:45,300 --> 00:24:51,640
+I was wondering, there is, we voted to amend the constitution to eliminate the retro-Hugos at Glasgow.
+
+386
+00:24:51,640 --> 00:24:53,560
+Oh, the retros.
+
+387
+00:24:53,560 --> 00:24:55,040
+Sorry, I've looked at the wrong one.
+
+388
+00:24:55,040 --> 00:24:56,840
+But now I can go and find that, right?
+
+389
+00:24:57,200 --> 00:25:03,400
+And so, like, that did, so the vote here is 50.5% or whatever I said it was.
+
+390
+00:25:03,400 --> 00:25:06,960
+How overwhelming in favour was it in the business meeting?
+
+391
+00:25:06,960 --> 00:25:12,420
+Like, just because I wonder how much of a microcosm the business meeting is of the membership.
+
+392
+00:25:12,420 --> 00:25:15,440
+And now we know the microcosm of the membership, we could compare.
+
+393
+00:25:15,440 --> 00:25:18,340
+It's not, because, again, it passed by a show of hands.
+
+394
+00:25:18,340 --> 00:25:20,800
+Boo!
+
+395
+00:25:20,800 --> 00:25:25,880
+But again, that means it can't possibly have been within 10% of 50, right?
+
+396
+00:25:25,880 --> 00:25:26,440
+Yeah.
+
+397
+00:25:26,700 --> 00:25:28,320
+Because if it was, they'd have gone to Serpentine.
+
+398
+00:25:28,320 --> 00:25:28,900
+Yeah.
+
+399
+00:25:28,900 --> 00:25:38,400
+So, it must be significantly, the opinion against the retro-Hugos is therefore presumably significantly
+
+400
+00:25:38,400 --> 00:25:42,880
+more pronounced in the business meeting than it is amongst the membership who voted on this.
+
+401
+00:25:42,880 --> 00:25:47,480
+Whether the membership who voted on this is representative, we don't know, but...
+
+402
+00:25:47,480 --> 00:25:49,440
+That's consistent generally with...
+
+403
+00:25:49,440 --> 00:26:01,420
+So, Hugo non-proliferation is something that concerns the people who have to do all the work a lot more than it does people who just have to enjoy awards ceremonies and vote for awards who quite like them.
+
+404
+00:26:01,420 --> 00:26:06,880
+Because we're going to discuss the retro-Hugos again later, so maybe we should just get on with it because that's going to come back.
+
+405
+00:26:06,880 --> 00:26:08,300
+Foreshadowing.
+
+406
+00:26:08,300 --> 00:26:09,180
+Yeah.
+
+407
+00:26:09,180 --> 00:26:10,560
+Talk about the agenda.
+
+408
+00:26:10,560 --> 00:26:11,580
+Go, Liz!
+
+409
+00:26:11,780 --> 00:26:13,300
+There is a business meeting agenda.
+
+410
+00:26:13,300 --> 00:26:22,820
+I am delighted to discover, by the way, that I don't fully understand how time zones work and did the daylight savings time correction the wrong way.
+
+411
+00:26:22,820 --> 00:26:25,900
+So, I might get able to go to some of the virtual business meeting.
+
+412
+00:26:25,900 --> 00:26:26,280
+Woo!
+
+413
+00:26:26,280 --> 00:26:27,980
+Yay, Liz!
+
+414
+00:26:28,480 --> 00:26:30,780
+But not all of it unless I want to stay up till 2am.
+
+415
+00:26:30,780 --> 00:26:38,540
+But yes, they have published a big page of instructions on how to join the virtual business meeting, which I...
+
+416
+00:26:38,540 --> 00:26:44,960
+Let's face it, I've skimmed it because if you give me a big thing full of screenshots, I will inevitably skim it and then go and search if I can't figure out what's going on.
+
+417
+00:26:44,960 --> 00:26:49,320
+But I did note there's a section at the end which is basically how to host a watch party.
+
+418
+00:26:49,520 --> 00:26:59,480
+So, if you want to have multiple people in one place, say, at another convention doing a watch party, it seems like the way you do it is you get a non-voting login that you can put up on screen and everyone can watch.
+
+419
+00:26:59,480 --> 00:27:06,100
+And then everyone logs in on their own phones or devices or whatever to do voting and speaking and so on.
+
+420
+00:27:06,100 --> 00:27:10,140
+So, it seems like it's a little bit complicated to request to speak from a watch party.
+
+421
+00:27:10,140 --> 00:27:16,920
+But they have put together information on how to do this and even on how you can try and have two people on one device.
+
+422
+00:27:17,080 --> 00:27:19,540
+So, it seems like they are trying quite hard to accommodate those.
+
+423
+00:27:19,540 --> 00:27:29,120
+They also said that the convention run Discord server for members who wish to chat about the business meeting and it will just basically become active just before the business meeting and then go and read only afterwards.
+
+424
+00:27:29,120 --> 00:27:37,140
+And so, I think it will let you like do some quick chatting and do that sort of thing that sometimes happens on con Discords of saying, oh, I don't quite understand that motion.
+
+425
+00:27:37,140 --> 00:27:38,440
+Can anyone explain how it worked?
+
+426
+00:27:38,440 --> 00:27:41,980
+Someone will probably pop up and help explain it to you.
+
+427
+00:27:41,980 --> 00:27:45,580
+This sort of thing is the absolute best thing about convention Discords.
+
+428
+00:27:45,860 --> 00:27:46,260
+Yes.
+
+429
+00:27:46,260 --> 00:27:47,400
+It's a great use case.
+
+430
+00:27:47,400 --> 00:27:51,580
+So, I'm glad that they've recognised that the convention Discord is really helpful for that.
+
+431
+00:27:51,580 --> 00:27:57,680
+And so, rather than just spinning up the main con Discord early, they're just going to have like a business meeting one.
+
+432
+00:27:57,680 --> 00:28:07,240
+I will also say that while I have not consulted it because I started reading before this was out, there is a big guide to the business meeting and each motion written by Kate Seacore,
+
+433
+00:28:07,600 --> 00:28:13,820
+which will help clarify a lot of the stuff I don't understand about constitutional business because I don't understand Robert's Rules of Order very well.
+
+434
+00:28:13,820 --> 00:28:14,260
+Woo!
+
+435
+00:28:14,720 --> 00:28:23,140
+A colleague unironically recommended that I read Robert's Rules of Order and then got quite surprised when I reacted very vehemently to that suggestion.
+
+436
+00:28:23,140 --> 00:28:25,460
+I was like, you don't understand.
+
+437
+00:28:25,460 --> 00:28:27,280
+This isn't a suggestion of vacuum, Matt.
+
+438
+00:28:27,280 --> 00:28:29,300
+This is, there's history here.
+
+439
+00:28:29,300 --> 00:28:30,400
+But yes.
+
+440
+00:28:32,780 --> 00:28:34,160
+Sorry, Liz.
+
+441
+00:28:34,160 --> 00:28:34,940
+The agenda.
+
+442
+00:28:34,940 --> 00:28:35,840
+The agenda.
+
+443
+00:28:35,840 --> 00:28:37,620
+It's quite long.
+
+444
+00:28:37,620 --> 00:28:38,340
+Yeah.
+
+445
+00:28:38,340 --> 00:28:40,420
+And I might have thoughts about that later.
+
+446
+00:28:40,420 --> 00:28:46,680
+So, we're not going to go through everything on the agenda like we infamously did in a very long episode pre-WorldCon last year,
+
+447
+00:28:46,680 --> 00:28:48,320
+which some people apparently liked.
+
+448
+00:28:48,320 --> 00:28:51,520
+And I don't know if they're just masochists, to be honest.
+
+449
+00:28:53,520 --> 00:29:00,100
+When we do our Patreon, we can have some real nitty gritty stuff for the perverts.
+
+450
+00:29:00,100 --> 00:29:09,440
+Oh, you can pick your favourite constitutional claim, constitutional change, and make me explain it for every dollar you donate to our Patreon.
+
+451
+00:29:09,440 --> 00:29:12,900
+I think you mean our OnlyFans.
+
+452
+00:29:12,900 --> 00:29:16,220
+Yes.
+
+453
+00:29:16,220 --> 00:29:17,180
+All right.
+
+454
+00:29:17,180 --> 00:29:19,540
+So, there's a few things to point out.
+
+455
+00:29:19,540 --> 00:29:20,840
+A few things I want to pick out.
+
+456
+00:29:21,300 --> 00:29:24,480
+And one of those things is executive sessions.
+
+457
+00:29:24,480 --> 00:29:35,000
+So, in 2024, there were basically a bunch of resolutions about the 2023 Hugo Awards, which, as we all know, were a bit of a shit show.
+
+458
+00:29:35,000 --> 00:29:38,540
+Oh, are we going to get a swearing warning if I say that?
+
+459
+00:29:38,540 --> 00:29:39,640
+I already said fuck.
+
+460
+00:29:39,640 --> 00:29:40,360
+Okay.
+
+461
+00:29:40,360 --> 00:29:48,140
+Basically, they determined that these should be handled as though they're disciplinary proceedings, which means they have to be an executive session.
+
+462
+00:29:48,480 --> 00:29:56,200
+An executive concession is basically you go into a session that must not be devolved to non-WUSFUS members.
+
+463
+00:29:56,200 --> 00:30:00,100
+The minutes will be as minimal as necessary.
+
+464
+00:30:00,100 --> 00:30:08,980
+And so, the report back from the investigative committee looking into the 2023 Hugo Awards will report back in executive session.
+
+465
+00:30:08,980 --> 00:30:09,660
+Yeah.
+
+466
+00:30:09,660 --> 00:30:10,860
+It seems like this will not.
+
+467
+00:30:10,860 --> 00:30:15,200
+So, this portion of the meeting will not be live streamed or contained in the posted recording of the business meeting.
+
+468
+00:30:15,320 --> 00:30:15,760
+Yeah.
+
+469
+00:30:15,760 --> 00:30:19,480
+I don't quite know how that's going to work, but it will be interesting to see.
+
+470
+00:30:19,480 --> 00:30:22,600
+And it says that one will happen at the main meeting on July 13th.
+
+471
+00:30:22,600 --> 00:30:27,120
+And the first meeting is July 4th, but that is the preliminary business meeting setting of timings and so on.
+
+472
+00:30:27,120 --> 00:30:31,320
+So, there is an investigative committee that is reported back.
+
+473
+00:30:31,320 --> 00:30:36,880
+And it has reported back with a few recommendations, but their full report will be in executive session.
+
+474
+00:30:36,880 --> 00:30:41,160
+Shall I see if I can fish out those constitutional changes?
+
+475
+00:30:41,760 --> 00:30:46,640
+So, there's basically a report from the investigation committee on the 2023 Hugo Awards.
+
+476
+00:30:46,640 --> 00:30:50,500
+And I think some of this will be discussed in executive session.
+
+477
+00:30:51,500 --> 00:31:06,080
+The recommendations are, one, that the long list entries committee adds on something to say, you know, approximately 30 nominees were excluded from the final ballot of the 2023 Hugo Awards for reasons other than the nominating procedures prescribed, which seems totally reasonable.
+
+478
+00:31:06,080 --> 00:31:11,160
+And one to make it, a technical change to make it harder to start an executive committee.
+
+479
+00:31:11,160 --> 00:31:13,040
+And the rest of it will all be an executive session.
+
+480
+00:31:13,200 --> 00:31:17,420
+So, I don't think we can report on it, because some of you might not be members of WUSFUS.
+
+481
+00:31:17,420 --> 00:31:21,280
+Not even if you all pinky swear to join WUSFUS listeners, can we report on it.
+
+482
+00:31:21,280 --> 00:31:21,880
+So, yeah.
+
+483
+00:31:21,880 --> 00:31:26,140
+On to less confusing and probably more debatable things.
+
+484
+00:31:26,140 --> 00:31:34,400
+There is an amendment to introduce a Hugo for best poem, a science fiction or fantasy poem of any line length or word count.
+
+485
+00:31:34,400 --> 00:31:39,320
+So, this is basically, let's take the one we're running this year and keep it.
+
+486
+00:31:39,320 --> 00:31:49,500
+They have a website with some rationale, which basically talks about which authors have written poems, how many other speculative fiction awards have awards for poems.
+
+487
+00:31:49,500 --> 00:31:53,320
+A pretty good justification, I think, of why they need a poetry category.
+
+488
+00:31:53,320 --> 00:31:57,600
+I personally am agnostic on the subject of poetry.
+
+489
+00:31:57,600 --> 00:32:01,780
+But if you're going to propose a new Hugo category, I think this is a good way to go about it.
+
+490
+00:32:01,780 --> 00:32:02,820
+Thoughts on poetry?
+
+491
+00:32:02,820 --> 00:32:04,500
+We covered this a bit in the last episode, didn't we?
+
+492
+00:32:04,500 --> 00:32:06,140
+I think we've talked about this.
+
+493
+00:32:06,140 --> 00:32:10,680
+I want to see what the Hugo, what the WUSFUS members think on this.
+
+494
+00:32:10,680 --> 00:32:17,740
+I feel like it's not quite baked enough for me yet, but I may be behind the times.
+
+495
+00:32:17,740 --> 00:32:19,840
+I don't know how more baked it could be.
+
+496
+00:32:19,840 --> 00:32:20,520
+Okay.
+
+497
+00:32:20,520 --> 00:32:28,400
+I think, just to quickly say something about poetry, if you look at the number of people who nominated poems,
+
+498
+00:32:29,020 --> 00:32:36,460
+like, or sorry, if you look at the number of ballots needed to get a poem on the shortlist in these Hugos,
+
+499
+00:32:36,460 --> 00:32:50,760
+I am, I think, unpersuaded that that is a category that has the knowledge in the Hugo votership to be sustainable, really.
+
+500
+00:32:51,160 --> 00:32:54,480
+But maybe this is a cart before the horse argument again.
+
+501
+00:32:54,480 --> 00:32:55,040
+I don't know.
+
+502
+00:32:55,040 --> 00:32:56,780
+Oh, how many ballots was it?
+
+503
+00:32:56,780 --> 00:32:58,040
+I'm not...
+
+504
+00:32:58,040 --> 00:33:00,800
+Best poem, finalists range from 11 to 26.
+
+505
+00:33:00,800 --> 00:33:01,920
+11.
+
+506
+00:33:01,920 --> 00:33:02,800
+Okay.
+
+507
+00:33:03,220 --> 00:33:04,800
+But the thing is, it's not the bottom.
+
+508
+00:33:04,800 --> 00:33:08,160
+One, I think you can't really tell from the range, right?
+
+509
+00:33:08,160 --> 00:33:10,960
+Because a lot of them have quite low ranges.
+
+510
+00:33:10,960 --> 00:33:22,620
+As far as I can tell, 11 is the lowest lower bound of any of the categories that were on the ballot from Seattle.
+
+511
+00:33:22,620 --> 00:33:25,820
+And it might just be that, I mean, so there's two considerations here, right?
+
+512
+00:33:25,820 --> 00:33:26,880
+Which is there are a lot of poems.
+
+513
+00:33:26,880 --> 00:33:35,340
+So there were 266 nominees in poem compared to, for instance, Fancast is 197.
+
+514
+00:33:35,340 --> 00:33:44,660
+But even so, like, the number of ballots cast is lower than almost all of the categories.
+
+515
+00:33:44,660 --> 00:33:45,620
+Not all of them.
+
+516
+00:33:45,620 --> 00:33:47,540
+It's higher than Best Editor Longform.
+
+517
+00:33:47,540 --> 00:33:50,920
+It's higher than Both Artist Categories.
+
+518
+00:33:50,920 --> 00:33:52,520
+Those are the only ones that's higher than.
+
+519
+00:33:52,520 --> 00:33:59,180
+But like Rosanna said in her Blue Sky things, like, there is an element here of putting the cart before the horse so that you actually attract people.
+
+520
+00:33:59,180 --> 00:34:02,060
+Like, if you make a poem a Hugo thing, people will read more poems.
+
+521
+00:34:02,060 --> 00:34:04,380
+So you might find that those numbers go up over time.
+
+522
+00:34:04,380 --> 00:34:05,780
+But it's not clear to me.
+
+523
+00:34:05,780 --> 00:34:06,820
+It certainly...
+
+524
+00:34:06,820 --> 00:34:08,080
+I think it would work as a Hugo.
+
+525
+00:34:08,080 --> 00:34:10,460
+It's just whether or not those numbers are strong enough.
+
+526
+00:34:10,460 --> 00:34:16,180
+But I don't think it's like LA Con, where it just clearly wasn't going to happen for game because there wasn't the literacy at all.
+
+527
+00:34:16,180 --> 00:34:17,100
+That all makes sense.
+
+528
+00:34:17,100 --> 00:34:23,820
+Yeah, so I also feel a bit guilty here because I have not actually read the poems in my Hugo voter packet.
+
+529
+00:34:23,820 --> 00:34:24,780
+And I clearly should.
+
+530
+00:34:24,780 --> 00:34:30,820
+And then I probably have a better sense of whether I think we've been given some excellent stuff to look at.
+
+531
+00:34:30,820 --> 00:34:37,860
+The issue is, if you're going to say, oh, well, not enough people really voted or nominated in poem for it to be a viable category,
+
+532
+00:34:37,860 --> 00:34:43,780
+then there are categories that we already have that we are keeping around that get lower votes than that.
+
+533
+00:34:43,780 --> 00:34:48,140
+And so if that's your argument, it's quite hard to make an argument for keeping some of the other ones.
+
+534
+00:34:48,140 --> 00:34:51,140
+No, I think we've just established there aren't.
+
+535
+00:34:51,140 --> 00:34:51,960
+That it's got...
+
+536
+00:34:51,960 --> 00:34:57,140
+That despite being a kind of showcase category for this year, it's had fewer nominations than...
+
+537
+00:34:57,140 --> 00:35:01,980
+Fewer nominations and a lower requirement to get on the ballot than any other category.
+
+538
+00:35:02,240 --> 00:35:07,860
+Yeah, we've noted that you only needed 11 nominations to get on the ballot, but you only needed 13 to get on Invest Graphic Story.
+
+539
+00:35:07,860 --> 00:35:16,720
+And it's got more people casting ballots than, you know, fan artist or pro artist or best editor long form.
+
+540
+00:35:16,720 --> 00:35:25,540
+Like, I don't think the ranges are that big that you can say this is obviously not something that the votership is as interested in as it is for other categories.
+
+541
+00:35:25,540 --> 00:35:26,960
+Because it's in the range.
+
+542
+00:35:26,960 --> 00:35:29,000
+I think it's sitting in the range of the lower one.
+
+543
+00:35:29,480 --> 00:35:37,320
+There is a new amendment to retire NASFIC, which basically just deletes the bits of the Constitution that refer to NASFICs.
+
+544
+00:35:37,320 --> 00:35:40,160
+And then we, like, abandon the NASFIC service mark.
+
+545
+00:35:40,160 --> 00:35:41,200
+And there you go.
+
+546
+00:35:41,200 --> 00:35:42,900
+And I think the thing is...
+
+547
+00:35:42,900 --> 00:35:45,360
+Haven't we been trying to do this for a while?
+
+548
+00:35:45,360 --> 00:35:47,480
+No, I think we've been talking about doing this for a while.
+
+549
+00:35:47,480 --> 00:35:50,740
+And meanwhile, the NASFIC has just been gently dying.
+
+550
+00:35:50,740 --> 00:35:53,360
+And now we're like, well, let's officially just kill it.
+
+551
+00:35:53,360 --> 00:35:55,460
+I'm down with this.
+
+552
+00:35:55,460 --> 00:36:00,800
+We have, as already mentioned, the ratification of removing the retro Hugos.
+
+553
+00:36:00,800 --> 00:36:06,400
+And so, obviously, this year we have an amendment to save the retro Hugos.
+
+554
+00:36:06,400 --> 00:36:13,580
+And also say that you could hold them in a multiple of 10 years after a year with no Hugos rather than 25.
+
+555
+00:36:13,580 --> 00:36:18,240
+I think the argument being here that we've only got seven or maybe eight years left to go.
+
+556
+00:36:18,440 --> 00:36:25,380
+Let's just say you could do them 10 years after any year wasn't awarded and we can barrel through them and we'll get them done.
+
+557
+00:36:25,380 --> 00:36:27,020
+But it's going to be interesting.
+
+558
+00:36:27,020 --> 00:36:28,440
+Is that amendment...
+
+559
+00:36:28,440 --> 00:36:32,660
+Is that amendment's short title the let's get it over with amendment?
+
+560
+00:36:32,660 --> 00:36:34,060
+And if not, why not?
+
+561
+00:36:34,060 --> 00:36:40,880
+No, it's called save the retro Hugos from a bunch of people who were not going in with the making a funny name for our amendment scheme.
+
+562
+00:36:40,880 --> 00:36:41,660
+Boo.
+
+563
+00:36:41,660 --> 00:36:44,560
+One of the very few good bits about the agenda.
+
+564
+00:36:45,600 --> 00:36:49,020
+What I'm interested to see is whether we end up taking up ratifying...
+
+565
+00:36:49,020 --> 00:36:57,180
+I don't even know if you can do the amendments for ratifying the retro Hugos removal and the one for saving the retro Hugos at the same time, basically.
+
+566
+00:36:57,180 --> 00:37:00,540
+Because it would be hilarious if one business meeting, say on...
+
+567
+00:37:00,540 --> 00:37:05,700
+You know, if on the 13th of July we ratify abolishing the retros and then a week later...
+
+568
+00:37:05,700 --> 00:37:08,040
+That would be hilarious, yes.
+
+569
+00:37:08,040 --> 00:37:11,260
+And not necessarily the same set of people save them.
+
+570
+00:37:11,260 --> 00:37:16,420
+Yeah, what happens if something amends text that's no longer in the constitution, Liz?
+
+571
+00:37:16,420 --> 00:37:17,420
+Is there precedent?
+
+572
+00:37:17,420 --> 00:37:21,220
+I don't know.
+
+573
+00:37:21,220 --> 00:37:22,460
+I'm going to guess no.
+
+574
+00:37:22,460 --> 00:37:24,540
+Don't ask me about Robert's Rules of Order.
+
+575
+00:37:24,540 --> 00:37:25,240
+Okay.
+
+576
+00:37:25,240 --> 00:37:26,820
+I withdraw the question.
+
+577
+00:37:26,820 --> 00:37:30,100
+I presume you would then have to amend the amendment to...
+
+578
+00:37:30,100 --> 00:37:36,560
+Like, you'd just have to do an amendment to say, you know, oh, we'll put a blue underline under all of this text because it's now all new and we're putting it back again.
+
+579
+00:37:36,680 --> 00:37:37,420
+I will not...
+
+580
+00:37:37,420 --> 00:37:44,720
+Yeah, there is nothing in the Whispers Constitution that says you can't have a thing that's up for ratification and then have something that basically reverses the thing that's up for ratification.
+
+581
+00:37:44,720 --> 00:37:57,700
+On a similar note, last year there was a motion brought to essentially put minimum standards on locations for filing a WorldCom bid, as we discussed a lot in 2023 and 2024.
+
+582
+00:37:58,360 --> 00:38:00,020
+And it failed.
+
+583
+00:38:00,020 --> 00:38:05,080
+And so it's basically back in a very similar form.
+
+584
+00:38:05,080 --> 00:38:12,000
+I mean, maybe this is special because I think the world and in particular the bits of the world where we hold WorldCom may have changed a little bit since last year.
+
+585
+00:38:12,000 --> 00:38:20,960
+But it also feels like at this time you could be saying, well, my amendment failed last year, so I'm going to bring it back this year and next year and every other year until it passes or you get fed up.
+
+586
+00:38:20,960 --> 00:38:23,140
+Yeah, we need...
+
+587
+00:38:23,140 --> 00:38:25,040
+So one of the things that...
+
+588
+00:38:25,040 --> 00:38:26,420
+And we might get to this a little bit later.
+
+589
+00:38:26,420 --> 00:38:38,680
+But one of the things that we discussed in the committee that Farrah Mendelsohn was heading up was how to take some of this asynchronous, how to change some of the procedures around all of this.
+
+590
+00:38:38,940 --> 00:38:42,580
+And there are basically four subcommittees, each of which submitted a short report.
+
+591
+00:38:42,580 --> 00:38:50,740
+But one of them is kind of how do we put a filter on the agenda so that only things get on that are worth discussing.
+
+592
+00:38:50,740 --> 00:38:52,940
+And I do think the...
+
+593
+00:38:52,940 --> 00:38:58,960
+Basically, what I'm going to suggest, Liz, is demand management, which Liz will immediately understand and I will have to explain to listeners.
+
+594
+00:38:59,320 --> 00:39:17,540
+But basically, demand management is this thing in British funding councils and presumably elsewhere as well, but I'm familiar with it in Britain, where the funding councils basically say, if your university is submitting too many proposals that are not getting accepted, we will put a cap on the number of proposals you are allowed to submit until your quality goes up.
+
+595
+00:39:17,540 --> 00:39:23,080
+And so if we did that to people submitting amendments, if you get an amendment through, you can submit an amendment next year.
+
+596
+00:39:23,080 --> 00:39:28,460
+But if you don't, two years out for you, that might help a bit with the proliferation, but we will see.
+
+597
+00:39:28,460 --> 00:39:29,560
+It might.
+
+598
+00:39:29,560 --> 00:39:42,340
+So one of the things you've got here is people who are longstanding Wusfus people offering to help people who are Wusfus bunnies have a go at putting an amendment in.
+
+599
+00:39:42,340 --> 00:39:45,740
+And you don't want to discourage that work.
+
+600
+00:39:45,740 --> 00:39:47,720
+I don't want to discourage that work.
+
+601
+00:39:47,720 --> 00:39:56,840
+My proposal would help that work by encouraging people to talk about their proposals in advance and solicit the opinion of the community and maybe some review of their proposal,
+
+602
+00:39:57,100 --> 00:40:02,120
+rather than just slapping it in willy nilly because, you know, you reckon it might be good.
+
+603
+00:40:02,120 --> 00:40:07,180
+See also previous episodes on building up community consensus.
+
+604
+00:40:07,180 --> 00:40:16,860
+Yeah, no, I certainly I think where something's been knocked back, having it come back unchanged time after time is very tiresome and wastes everybody's time.
+
+605
+00:40:17,220 --> 00:40:22,340
+Yeah, I do feel in general that looking through this agenda, there is a lot of stuff in there.
+
+606
+00:40:22,340 --> 00:40:30,500
+And it's hard for me to tell what will just pass through with no issues and what will actually be something people have strong opinions on.
+
+607
+00:40:30,500 --> 00:40:36,980
+See, EG, most year, the extended eligibility motions pass quite handily.
+
+608
+00:40:37,220 --> 00:40:42,320
+And then last year we didn't we had the issue with Godzilla minus one where it wasn't quite so obvious.
+
+609
+00:40:42,320 --> 00:40:51,460
+And so if there was some way that we could be saying, OK, yeah, you know, rather than take up any time where people actually have to be sitting there synchronously doing stuff.
+
+610
+00:40:51,600 --> 00:41:00,720
+But something like, say, there's an amendment somewhere that basically adds two words that would very slightly change the meaning of something.
+
+611
+00:41:00,720 --> 00:41:04,620
+So D7, this is, would add the words that are into one particular clause.
+
+612
+00:41:04,620 --> 00:41:09,440
+And possibly there's a big side issue that I haven't noticed there for why we shouldn't do it.
+
+613
+00:41:09,480 --> 00:41:12,640
+But I'm pretty sure that one is just going to be like a minor change.
+
+614
+00:41:12,640 --> 00:41:14,500
+And couldn't we get this out of the way?
+
+615
+00:41:14,500 --> 00:41:15,620
+Yeah, asynchronously.
+
+616
+00:41:15,620 --> 00:41:22,580
+And along with the eligibility extensions for films that were only released in 10 cinemas in 2024.
+
+617
+00:41:22,580 --> 00:41:26,220
+And then we'll have more time for the other stuff.
+
+618
+00:41:26,220 --> 00:41:30,280
+I think this is basically what John has written up in a more organised manner.
+
+619
+00:41:30,280 --> 00:41:31,780
+And I'm just making it up off the top of my head.
+
+620
+00:41:31,780 --> 00:41:33,200
+But yeah, this is.
+
+621
+00:41:33,200 --> 00:41:33,460
+Yeah.
+
+622
+00:41:33,460 --> 00:41:38,040
+So if you're interested in that sort of idea, listeners, check out my subcommittee report.
+
+623
+00:41:38,040 --> 00:41:38,760
+Because yes.
+
+624
+00:41:39,040 --> 00:41:42,080
+But no, I mean, Liz has put it very well there.
+
+625
+00:41:42,080 --> 00:41:45,460
+I think there are some things which we could absolutely just farm out.
+
+626
+00:41:45,460 --> 00:41:50,400
+Very minor wording changes and eligibility extensions are probably amongst them.
+
+627
+00:41:50,400 --> 00:41:54,660
+Isn't that what the nitpicking and flyspecking committee is supposed to do?
+
+628
+00:41:54,660 --> 00:41:55,160
+Or am I?
+
+629
+00:41:55,160 --> 00:41:56,660
+They submit motions.
+
+630
+00:41:56,660 --> 00:42:01,140
+Yeah, but then they have to submit them as proposals and motions at the business meeting.
+
+631
+00:42:01,140 --> 00:42:04,840
+Rather than just one saying here, these are 19 things we've noted.
+
+632
+00:42:04,840 --> 00:42:08,600
+Well, I mean, at the moment, we don't allow the nitpicking and flyspecking
+
+633
+00:42:08,600 --> 00:42:12,080
+committee to change things unilaterally, which is probably correct.
+
+634
+00:42:13,120 --> 00:42:18,500
+But neither do I think that we definitely need to sit through all of them as a full, you know,
+
+635
+00:42:18,500 --> 00:42:21,960
+debate that we assign debate times to or, you know, pass them through or whatever.
+
+636
+00:42:21,960 --> 00:42:26,420
+So it does seem like, yeah, you could get away with some of this being done asynchronously.
+
+637
+00:42:26,420 --> 00:42:32,620
+And John has a nice report, which explains a bit more detail about how we would do this.
+
+638
+00:42:32,620 --> 00:42:35,340
+And maybe do you want to discuss that in more detail now?
+
+639
+00:42:35,460 --> 00:42:37,560
+Or shall we leave it a bit later?
+
+640
+00:42:37,560 --> 00:42:38,840
+Well, let's do it later.
+
+641
+00:42:38,840 --> 00:42:39,380
+All right.
+
+642
+00:42:39,380 --> 00:42:40,260
+Foreshadowing.
+
+643
+00:42:40,260 --> 00:42:40,760
+Yeah.
+
+644
+00:42:40,760 --> 00:42:41,180
+All right.
+
+645
+00:42:41,180 --> 00:42:42,280
+It's the appropriate point.
+
+646
+00:42:42,280 --> 00:42:44,120
+John will give us the two minute version.
+
+647
+00:42:44,120 --> 00:42:49,460
+So, yeah, I'm still like cherry picking from the many, many things here.
+
+648
+00:42:49,460 --> 00:42:55,040
+I will say there's one amendment where I think I support the aim, but not the current wording.
+
+649
+00:42:55,800 --> 00:43:00,680
+There is an amendment to allow supporting members basically to come to online business meetings.
+
+650
+00:43:00,680 --> 00:43:02,460
+Because for a societal, you can't do that.
+
+651
+00:43:02,460 --> 00:43:06,020
+If you're a WUSFERS member or supporting member or whatever we're calling it,
+
+652
+00:43:06,020 --> 00:43:09,760
+you have to buy a virtual membership to go to the virtual business meeting.
+
+653
+00:43:09,760 --> 00:43:14,240
+But you could change that so that people with WUSFERS memberships get to go to the business meeting,
+
+654
+00:43:14,240 --> 00:43:16,080
+which does seem kind of reasonable.
+
+655
+00:43:16,080 --> 00:43:19,160
+If you've bought a WUSFERS membership, you get to go to the WUSFERS meeting.
+
+656
+00:43:19,160 --> 00:43:19,740
+Yeah.
+
+657
+00:43:19,740 --> 00:43:24,580
+I think the way it is worded, unfortunately, is a little bit contradictory to other bits of the
+
+658
+00:43:24,580 --> 00:43:27,260
+constitution and we have overcomplicated the wording.
+
+659
+00:43:27,260 --> 00:43:29,840
+But otherwise, I think I'm generally in favour of this.
+
+660
+00:43:29,840 --> 00:43:35,580
+I think this is another, it turns out to be difficult in practice because if you're running
+
+661
+00:43:35,580 --> 00:43:41,480
+your business meeting virtually and then you have to have a special category that where people
+
+662
+00:43:41,480 --> 00:43:46,480
+don't in general have access to the virtual programme, but they do have access to this one
+
+663
+00:43:46,480 --> 00:43:48,880
+thing, it doesn't seem impossible.
+
+664
+00:43:48,880 --> 00:43:52,220
+No, especially not since the business meeting is running on a totally different platform, right?
+
+665
+00:43:52,580 --> 00:43:56,560
+Oh, is it not running on the platform that's just going to be the platform for the Worldcon
+
+666
+00:43:56,560 --> 00:43:57,100
+generally?
+
+667
+00:43:57,100 --> 00:43:58,140
+Have I missed a memo?
+
+668
+00:43:58,140 --> 00:44:01,820
+So it's running on this Lumi platform, which I think is for running meetings.
+
+669
+00:44:01,820 --> 00:44:05,780
+I don't think that is how they're running the entire virtual thing, but I could be wrong.
+
+670
+00:44:05,780 --> 00:44:06,380
+That's right.
+
+671
+00:44:06,380 --> 00:44:07,100
+No, you're right.
+
+672
+00:44:07,100 --> 00:44:07,580
+Yeah.
+
+673
+00:44:07,580 --> 00:44:10,520
+So I think in theory, if you have a virtual business meeting and it's running on a different
+
+674
+00:44:10,520 --> 00:44:16,100
+platform, if you're going to gate anyway, then you can gate in the supporting members
+
+675
+00:44:16,100 --> 00:44:16,920
+or WUSFERS members.
+
+676
+00:44:16,920 --> 00:44:17,520
+Yeah.
+
+677
+00:44:17,780 --> 00:44:18,760
+It makes a lot of sense, I think.
+
+678
+00:44:18,760 --> 00:44:20,280
+What's next on the agenda?
+
+679
+00:44:20,280 --> 00:44:25,260
+The next agenda, by the way, is that we are, we did ratify, we moved something last year
+
+680
+00:44:25,260 --> 00:44:30,320
+and are ratifying it this year to flip back from WUSFERS membership to supporting membership
+
+681
+00:44:30,320 --> 00:44:32,660
+again, which will probably help my brain.
+
+682
+00:44:32,660 --> 00:44:34,920
+Yes, I think it makes sense.
+
+683
+00:44:34,920 --> 00:44:42,340
+And I don't know whether it means that the one you mentioned about fixing it so that WUSFERS
+
+684
+00:44:42,340 --> 00:44:43,800
+members can attend WUSFERS meetings.
+
+685
+00:44:43,800 --> 00:44:47,700
+Do you think that's less likely to pass if we're going to stop calling WUSFERS members
+
+686
+00:44:47,700 --> 00:44:48,340
+WUSFERS members?
+
+687
+00:44:48,340 --> 00:44:51,220
+No, but I think you need to tie up the language anyway.
+
+688
+00:44:51,220 --> 00:44:51,980
+That's fair.
+
+689
+00:44:51,980 --> 00:44:53,920
+I think that is reasonable.
+
+690
+00:44:53,920 --> 00:45:00,940
+There are a bunch of amendments which sort of clarify that the constitution matches how
+
+691
+00:45:00,940 --> 00:45:06,820
+Hugo administration is actually working, moved by Nicholas White and Tammy Coxon, who are
+
+692
+00:45:06,820 --> 00:45:14,300
+basically all the Hugo administrators since about 2018 that we still want to listen to.
+
+693
+00:45:14,300 --> 00:45:14,820
+Yeah.
+
+694
+00:45:14,820 --> 00:45:16,440
+All seem sensible.
+
+695
+00:45:16,440 --> 00:45:19,860
+I'm not going to go into those in detail because if I went to these in detail, you're here for
+
+696
+00:45:19,860 --> 00:45:20,440
+three hours.
+
+697
+00:45:20,440 --> 00:45:21,440
+That's for the special Patreon.
+
+698
+00:45:21,440 --> 00:45:29,520
+I think the other thing to say is there is an amendment F22, end the false binary, which
+
+699
+00:45:29,520 --> 00:45:32,560
+gives you no idea that it is actually about the art categories.
+
+700
+00:45:32,560 --> 00:45:34,240
+Well, what else could it be about?
+
+701
+00:45:34,400 --> 00:45:36,880
+What other binaries have been in the news lately, Liz?
+
+702
+00:45:36,880 --> 00:45:43,060
+And it does say, yeah, this is only if the other one cleaning up the art categories, if
+
+703
+00:45:43,060 --> 00:45:46,360
+that doesn't, if that gets rejected, then we look at this one.
+
+704
+00:45:46,360 --> 00:45:48,100
+And this would change it.
+
+705
+00:45:48,100 --> 00:45:51,780
+So instead of best pro artist and best fan artist, we would have best artist in the field
+
+706
+00:45:51,780 --> 00:45:54,160
+of professional illustration and best fan artist.
+
+707
+00:45:54,160 --> 00:46:00,160
+And basically define artist in the field of professional illustration as someone whose work
+
+708
+00:46:00,160 --> 00:46:01,940
+has appeared in a professional publication.
+
+709
+00:46:02,320 --> 00:46:07,880
+And then we can use a professional publication definition elsewhere in the Constitution.
+
+710
+00:46:07,880 --> 00:46:14,880
+Yes, I'm going to note that this doesn't solve the problem that Tammy raised, which is that
+
+711
+00:46:14,880 --> 00:46:18,760
+the people arguing for change here, one of the groups arguing for change here is people who
+
+712
+00:46:18,760 --> 00:46:23,640
+make a lot of who make their living through their art, but through do it in things in forms
+
+713
+00:46:23,640 --> 00:46:27,700
+that don't count as publication, like, say, personal commissions.
+
+714
+00:46:28,280 --> 00:46:32,960
+Yeah, you might have to add something like an artist whose work was in a professional publication,
+
+715
+00:46:32,960 --> 00:46:39,220
+or you could say if they deemed themselves to be professional, meaning they make more than
+
+716
+00:46:39,220 --> 00:46:41,200
+a quarter of their income from art or something like that.
+
+717
+00:46:41,200 --> 00:46:44,800
+And deem themselves professional in the way that we've got for semi-prose.
+
+718
+00:46:44,800 --> 00:46:45,560
+Possible.
+
+719
+00:46:45,560 --> 00:46:47,020
+And then that's complicated.
+
+720
+00:46:47,020 --> 00:46:52,060
+I mean, because obviously we have a longstanding tradition of professional artists who do fan art.
+
+721
+00:46:52,300 --> 00:46:57,100
+Yes, and also I don't know if I wish to nominate an artist how much money they make from their
+
+722
+00:46:57,100 --> 00:46:59,580
+art, but I do know what publications their art bid in.
+
+723
+00:46:59,580 --> 00:47:01,980
+Yes, that is in large part the problem.
+
+724
+00:47:01,980 --> 00:47:05,980
+Yeah, I think I'm going to leave people who know more about art and the issues with it to
+
+725
+00:47:05,980 --> 00:47:07,220
+wrangle over that one.
+
+726
+00:47:07,220 --> 00:47:08,480
+It's a mess.
+
+727
+00:47:08,480 --> 00:47:12,860
+I feel like the fact that we've got these things here just means we haven't sorted out
+
+728
+00:47:12,860 --> 00:47:13,400
+the mess yet.
+
+729
+00:47:13,400 --> 00:47:15,260
+We need to go away and sort it out hard.
+
+730
+00:47:15,260 --> 00:47:19,340
+Now, I don't think it's an impossible problem.
+
+731
+00:47:19,340 --> 00:47:21,440
+I just don't think we've thought it.
+
+732
+00:47:21,440 --> 00:47:23,520
+I don't think we thought about it hard enough yet.
+
+733
+00:47:23,520 --> 00:47:27,620
+You know, I don't think this is somewhere where there isn't anything that will satisfy
+
+734
+00:47:27,620 --> 00:47:29,140
+a majority of WSFUS members.
+
+735
+00:47:29,140 --> 00:47:31,680
+I think we can find something that will work for nearly everybody.
+
+736
+00:47:31,680 --> 00:47:34,380
+We just need to think hard about what that might look like.
+
+737
+00:47:34,580 --> 00:47:40,120
+Yeah, the problem is that what that's normally looked like for WSFUS is sending it to a committee.
+
+738
+00:47:40,120 --> 00:47:46,340
+So I think it's also worth saying that there were several committees formed last year and
+
+739
+00:47:46,340 --> 00:47:50,180
+most of them have reported back to this year's business meeting.
+
+740
+00:47:50,180 --> 00:47:53,240
+This isn't necessarily something you take for granted, is it?
+
+741
+00:47:53,240 --> 00:47:54,300
+Sometimes they don't.
+
+742
+00:47:54,300 --> 00:47:59,400
+No, well, I mean, stuff gets in the way and also the deadline this year was like a month
+
+743
+00:47:59,400 --> 00:48:00,100
+and a bit earlier.
+
+744
+00:48:00,100 --> 00:48:00,820
+Yeah.
+
+745
+00:48:00,820 --> 00:48:02,940
+So you can see that it could be tricky.
+
+746
+00:48:03,160 --> 00:48:04,680
+And, you know, stuff has been going on.
+
+747
+00:48:04,680 --> 00:48:08,700
+So there's various committee reports and I encourage you to have a read over them.
+
+748
+00:48:08,700 --> 00:48:13,500
+But there is, as we said, the investigative committee one, which will be an investigative
+
+749
+00:48:13,500 --> 00:48:14,180
+session.
+
+750
+00:48:14,180 --> 00:48:15,520
+Sorry, an executive session.
+
+751
+00:48:15,520 --> 00:48:21,720
+There's a software committee who have come up with some, I think, fairly sensible proposals
+
+752
+00:48:21,720 --> 00:48:24,020
+for Hugo software.
+
+753
+00:48:24,020 --> 00:48:28,460
+It's got to have an open source license so you can go and look at the code, which seems quite
+
+754
+00:48:28,460 --> 00:48:28,740
+sensible.
+
+755
+00:48:28,740 --> 00:48:29,400
+Yep.
+
+756
+00:48:29,400 --> 00:48:30,280
+That makes a lot of sense.
+
+757
+00:48:30,280 --> 00:48:30,880
+Yep.
+
+758
+00:48:30,880 --> 00:48:37,080
+And then there is, so they've done a nice, they've done a short report and two proposals,
+
+759
+00:48:37,080 --> 00:48:38,880
+which I enjoy.
+
+760
+00:48:38,880 --> 00:48:45,460
+The location committee have put some notes in, but basically didn't finish their deliberations.
+
+761
+00:48:45,460 --> 00:48:49,340
+So I assume they'll have to be continued to report back next year.
+
+762
+00:48:49,680 --> 00:48:53,860
+And there is a long report from the Hugo Administration Process Committee thinking about different
+
+763
+00:48:53,860 --> 00:48:59,800
+ways in which we could run the Hugo process to address a lot of the concerns people had
+
+764
+00:48:59,800 --> 00:49:01,400
+after 2023.
+
+765
+00:49:02,260 --> 00:49:09,540
+And so they have conclusions and have recommended a bunch of stuff about Hugo Administration to
+
+766
+00:49:09,540 --> 00:49:10,240
+the business meeting.
+
+767
+00:49:10,240 --> 00:49:14,420
+And there's also the business meeting study group, as covered a bit earlier, because one
+
+768
+00:49:14,420 --> 00:49:17,820
+of the committee working groups, whatever you call them, one of the working group chairs was
+
+769
+00:49:17,820 --> 00:49:20,080
+John and they have come up with a proposal.
+
+770
+00:49:20,080 --> 00:49:21,540
+So there's quite a lot of this.
+
+771
+00:49:21,540 --> 00:49:25,340
+I mean, there's about 30 pages of reports, I think, to read, but they are pretty interesting
+
+772
+00:49:25,340 --> 00:49:29,420
+and maybe we'll dig into them more at a later date, possibly after we've heard some business
+
+773
+00:49:29,420 --> 00:49:31,760
+meeting discussion on them.
+
+774
+00:49:31,760 --> 00:49:36,420
+The working group that I was chair of sort of has submitted a report to this.
+
+775
+00:49:36,420 --> 00:49:42,820
+We're not ready to submit a proposal, partly because I think we probably could have pushed
+
+776
+00:49:42,820 --> 00:49:48,400
+ourselves to write something that would be voted on, but I don't think that's wise, because
+
+777
+00:49:48,400 --> 00:49:55,060
+I think what we're proposing is quite a long way outside how things have been done previously.
+
+778
+00:49:55,060 --> 00:50:00,700
+And I think it's probably better to introduce it in slow stages and to seek consultation and
+
+779
+00:50:00,700 --> 00:50:01,120
+whatnot.
+
+780
+00:50:01,120 --> 00:50:02,740
+But you can go and read that.
+
+781
+00:50:02,740 --> 00:50:09,940
+But the effective idea is here is how we think asynchronous method for resolving business could
+
+782
+00:50:09,940 --> 00:50:10,300
+work.
+
+783
+00:50:10,300 --> 00:50:17,920
+Here is what we think the obvious problems we'd need to consider in any solution.
+
+784
+00:50:17,920 --> 00:50:23,520
+Like basically, before we put anything in, we need to work out what the answers to these
+
+785
+00:50:23,520 --> 00:50:27,320
+questions are and we've identified the questions, but we haven't yet identified the answers.
+
+786
+00:50:27,320 --> 00:50:34,740
+And then a proposal that we could run this as a trial on, for instance, the ratifications
+
+787
+00:50:34,740 --> 00:50:41,820
+of extended Hugo eligibility in a future year, because that's the sort of thing where, you
+
+788
+00:50:41,820 --> 00:50:43,800
+know, that's a relatively safe test bed.
+
+789
+00:50:43,800 --> 00:50:49,600
+And when the report from any committee came back, it could be voted on by the business meeting.
+
+790
+00:50:49,600 --> 00:50:53,380
+So there'd be a sort of safety valve if it ended up not working for any reason.
+
+791
+00:50:53,380 --> 00:50:55,140
+So yeah, that's basically what the report says.
+
+792
+00:50:55,140 --> 00:51:01,100
+I want the committee, if this did go out to something to do a test run, I think it should
+
+793
+00:51:01,100 --> 00:51:05,980
+be called the Committee for Asynchronous Techniques and Solutions, because then you could say that
+
+794
+00:51:05,980 --> 00:51:06,960
+you were herding cats.
+
+795
+00:51:07,620 --> 00:51:12,400
+And I thank John, who has been sitting on that joke for quite a long time during this recording.
+
+796
+00:51:12,400 --> 00:51:18,780
+I'd like to thank my co-hosts for not both immediately leaving the call.
+
+797
+00:51:18,780 --> 00:51:20,400
+We're just long suffering.
+
+798
+00:51:21,080 --> 00:51:23,360
+And I have one last thing I want to point out.
+
+799
+00:51:23,360 --> 00:51:29,200
+So there is a report from the Mark Protection Committee for the Protection of Marks.
+
+800
+00:51:29,200 --> 00:51:34,200
+And they report back that one issue, probably the biggest issue we dealt with this year,
+
+801
+00:51:34,200 --> 00:51:38,100
+was negotiating with Warner Brothers Studios for the use of fictitious Hugo Awards to be
+
+802
+00:51:38,100 --> 00:51:42,480
+used in the background of a new film, current working title Ghostwriter, directed by J.J.
+
+803
+00:51:42,480 --> 00:51:42,900
+Abrams.
+
+804
+00:51:42,900 --> 00:51:44,500
+So J.J.
+
+805
+00:51:44,500 --> 00:51:46,660
+Abrams, I think we don't know very much about his new film.
+
+806
+00:51:47,120 --> 00:51:50,100
+I think we knew it had a science fiction author in, but that science fiction author apparently
+
+807
+00:51:50,100 --> 00:51:51,140
+will have Hugo Awards.
+
+808
+00:51:51,140 --> 00:51:56,240
+And yeah, it says they had to ensure that the word replica appears in any such Hugo Award
+
+809
+00:51:56,240 --> 00:51:56,620
+props.
+
+810
+00:51:56,620 --> 00:51:57,540
+I don't know.
+
+811
+00:51:57,540 --> 00:52:01,000
+I don't feel super strongly about this, but I guess the Mark Protection Committee are there
+
+812
+00:52:01,000 --> 00:52:01,300
+for that.
+
+813
+00:52:01,300 --> 00:52:05,540
+I don't think anyone's going to make a fake Hugo for Warner Brothers and then Warner Brothers
+
+814
+00:52:05,540 --> 00:52:06,860
+are going to eBay it, but possibly.
+
+815
+00:52:06,860 --> 00:52:11,300
+It says they had originally requested original rockets to appear in the film, but they were unable
+
+816
+00:52:11,300 --> 00:52:13,860
+to obtain any for the years they wanted.
+
+817
+00:52:13,860 --> 00:52:15,400
+So that's interesting.
+
+818
+00:52:15,400 --> 00:52:16,920
+It is interesting, isn't it?
+
+819
+00:52:16,920 --> 00:52:21,680
+I assume it means that the years they wanted were quite a long way in the past, but I don't
+
+820
+00:52:21,680 --> 00:52:22,000
+know.
+
+821
+00:52:22,000 --> 00:52:24,140
+That is speculation, listeners.
+
+822
+00:52:24,140 --> 00:52:29,120
+Yeah, I'm quite interested to see if we have found anything out about what is described
+
+823
+00:52:29,120 --> 00:52:32,220
+on the internet in various places as J.J.
+
+824
+00:52:32,220 --> 00:52:34,380
+Abrams' mystery movie, J.J.
+
+825
+00:52:34,380 --> 00:52:35,880
+Abrams' untitled film.
+
+826
+00:52:35,880 --> 00:52:38,420
+So maybe we got the scoop.
+
+827
+00:52:38,420 --> 00:52:44,700
+The scoop was hiding in the business meeting agenda all along.
+
+828
+00:52:44,700 --> 00:52:48,280
+On page 147 of the business meeting agenda.
+
+829
+00:52:48,280 --> 00:52:50,600
+Maybe that will be something.
+
+830
+00:52:50,600 --> 00:52:54,420
+Maybe that will be a plot device in the movie.
+
+831
+00:52:54,420 --> 00:52:55,860
+Maybe it's all very meta.
+
+832
+00:52:55,860 --> 00:52:57,720
+I've tried looking for information.
+
+833
+00:52:57,720 --> 00:53:00,440
+It doesn't look like it was known that it was called Ghostwriter, but I just found a big
+
+834
+00:53:00,440 --> 00:53:04,300
+page of road closures in Glasgow for when they were filming.
+
+835
+00:53:04,300 --> 00:53:06,320
+Ah, so it could well be...
+
+836
+00:53:06,320 --> 00:53:09,900
+It could be set at the time of a Glasgow Worldcon, perhaps.
+
+837
+00:53:09,900 --> 00:53:15,960
+My bet is that Samuel L. Jackson is going to turn out to be a science fiction writer, and
+
+838
+00:53:15,960 --> 00:53:17,780
+something from his book is going to come true.
+
+839
+00:53:17,780 --> 00:53:18,340
+There we go.
+
+840
+00:53:18,340 --> 00:53:19,000
+Oh.
+
+841
+00:53:19,000 --> 00:53:20,800
+Oh, that'd be good.
+
+842
+00:53:20,800 --> 00:53:21,880
+I'm up for that.
+
+843
+00:53:22,200 --> 00:53:27,280
+That's why Liz, if we ever sell the rights to Octthorpe, Liz is in charge of the story
+
+844
+00:53:27,280 --> 00:53:27,620
+treatment.
+
+845
+00:53:27,620 --> 00:53:29,960
+Who's going to play you, John?
+
+846
+00:53:29,960 --> 00:53:31,740
+I mean, probably Daniel Radcliffe.
+
+847
+00:53:31,740 --> 00:53:37,740
+Like, that's flattering to me, but I can't think of anyone who'd do a better job.
+
+848
+00:53:37,740 --> 00:53:39,200
+That'd be pretty good, actually.
+
+849
+00:53:39,200 --> 00:53:40,420
+It's pretty solid.
+
+850
+00:53:40,420 --> 00:53:41,240
+That is solid.
+
+851
+00:53:41,760 --> 00:53:45,860
+I'm also going to say that I'm disappointed to find that they report all the page views
+
+852
+00:53:45,860 --> 00:53:50,520
+for the Hugo Awards by country, and I've not managed to get Thailand even into top 10, even
+
+853
+00:53:50,520 --> 00:53:53,560
+given how many times I've clicked on Hugo Awards stats in the past year.
+
+854
+00:53:53,560 --> 00:53:55,460
+So I will try harder.
+
+855
+00:53:55,460 --> 00:53:58,720
+That is...
+
+856
+00:53:58,720 --> 00:53:59,540
+I'm sorry, Liz.
+
+857
+00:53:59,540 --> 00:54:01,340
+I'm sorry you haven't made it onto that list.
+
+858
+00:54:01,340 --> 00:54:03,280
+I have faith in you in the future.
+
+859
+00:54:03,280 --> 00:54:07,120
+I only have to open the page 7,180 times.
+
+860
+00:54:07,120 --> 00:54:08,880
+All right.
+
+861
+00:54:08,880 --> 00:54:11,580
+Is that all we've got on the Worcester's business meeting?
+
+862
+00:54:11,820 --> 00:54:12,060
+Yeah.
+
+863
+00:54:12,060 --> 00:54:13,260
+Nice.
+
+864
+00:54:13,260 --> 00:54:14,280
+That was good.
+
+865
+00:54:14,280 --> 00:54:15,340
+That's interesting.
+
+866
+00:54:15,340 --> 00:54:18,860
+There's probably a lot of stuff I have missed.
+
+867
+00:54:18,860 --> 00:54:26,360
+If any of our listeners have read all 146 pages of the agenda and want to point out something
+
+868
+00:54:26,360 --> 00:54:29,300
+we missed, then you still have time, I think.
+
+869
+00:54:29,300 --> 00:54:32,940
+You still have time to point something out that will be in the third or fourth or fifth
+
+870
+00:54:32,940 --> 00:54:36,000
+day of the business meeting, but not the first or second.
+
+871
+00:54:36,000 --> 00:54:41,060
+So if it's the preliminary or the first slot of the main, they've missed it.
+
+872
+00:54:41,420 --> 00:54:41,980
+Yeah.
+
+873
+00:54:41,980 --> 00:54:42,580
+Okay.
+
+874
+00:54:42,580 --> 00:54:43,580
+That's fair.
+
+875
+00:54:43,580 --> 00:54:47,080
+Well, thank you very much, Liz, for your diligent and thorough reporting.
+
+876
+00:54:47,080 --> 00:54:48,080
+It's like Christmas.
+
+877
+00:54:48,080 --> 00:54:56,180
+All right.
+
+878
+00:54:56,180 --> 00:54:57,120
+Shall we do picks?
+
+879
+00:54:57,120 --> 00:54:58,500
+I don't have a pick.
+
+880
+00:54:58,500 --> 00:54:59,360
+So can we skip it?
+
+881
+00:54:59,360 --> 00:55:00,040
+No.
+
+882
+00:55:00,040 --> 00:55:01,280
+You must pick.
+
+883
+00:55:01,280 --> 00:55:02,640
+Okay.
+
+884
+00:55:02,640 --> 00:55:04,000
+I have a little pick this time.
+
+885
+00:55:04,000 --> 00:55:04,840
+Sort of.
+
+886
+00:55:04,840 --> 00:55:09,220
+Because I am still playing blueprints in every spare waking moment.
+
+887
+00:55:09,220 --> 00:55:11,180
+It's not that long since we recorded last time.
+
+888
+00:55:11,180 --> 00:55:11,980
+No, it isn't.
+
+889
+00:55:11,980 --> 00:55:14,100
+I have seven of everything now, Liz.
+
+890
+00:55:14,100 --> 00:55:15,280
+Is that...
+
+891
+00:55:15,280 --> 00:55:16,540
+Do you need seven of everything?
+
+892
+00:55:16,540 --> 00:55:18,040
+Is that not overkill?
+
+893
+00:55:18,040 --> 00:55:19,360
+No, you need eight.
+
+894
+00:55:19,360 --> 00:55:20,400
+Eight sigils.
+
+895
+00:55:20,400 --> 00:55:21,940
+Eight sanctum keys.
+
+896
+00:55:21,940 --> 00:55:23,580
+Eight safes.
+
+897
+00:55:23,580 --> 00:55:24,380
+Oh, dear.
+
+898
+00:55:24,380 --> 00:55:26,160
+I have seven of everything.
+
+899
+00:55:26,680 --> 00:55:31,940
+And I started kind of not looking things up exactly, but hanging out in places where hints
+
+900
+00:55:31,940 --> 00:55:32,280
+happen.
+
+901
+00:55:32,280 --> 00:55:33,320
+Okay.
+
+902
+00:55:33,320 --> 00:55:35,460
+Like in game or in the internet?
+
+903
+00:55:35,460 --> 00:55:36,260
+No, no, no.
+
+904
+00:55:36,260 --> 00:55:36,660
+On the internet.
+
+905
+00:55:36,660 --> 00:55:37,220
+Ah.
+
+906
+00:55:37,220 --> 00:55:38,200
+Okay.
+
+907
+00:55:38,200 --> 00:55:38,940
+That makes sense.
+
+908
+00:55:39,240 --> 00:55:39,480
+Oh, yeah.
+
+909
+00:55:39,480 --> 00:55:41,960
+There's a good Reddit post, which is like, have you...
+
+910
+00:55:41,960 --> 00:55:43,200
+Are you working on this thing?
+
+911
+00:55:43,200 --> 00:55:46,520
+And then you click for like a hint and then another hint and then it tells you.
+
+912
+00:55:46,520 --> 00:55:46,820
+So.
+
+913
+00:55:46,820 --> 00:55:47,400
+Cool.
+
+914
+00:55:47,400 --> 00:55:49,220
+So what's your tiny pick, Alison?
+
+915
+00:55:49,220 --> 00:55:50,300
+Yeah.
+
+916
+00:55:50,300 --> 00:55:53,800
+No, I'm going to pick A Midsummer Night's Dream by William Shakespeare.
+
+917
+00:55:53,800 --> 00:55:58,420
+Specifically the Bridge Theatre production of it, which you can see for the next few weeks,
+
+918
+00:55:58,420 --> 00:55:58,740
+I guess.
+
+919
+00:55:58,740 --> 00:56:00,400
+Plus they were saying, oh, we're filming it.
+
+920
+00:56:00,400 --> 00:56:04,980
+So maybe they'll release some sort of online access to it at some point.
+
+921
+00:56:05,460 --> 00:56:10,140
+This is a rework of the 2019 production, which I did not see.
+
+922
+00:56:10,140 --> 00:56:13,700
+Apparently people saw it in lockdown, but I think I must have been busy whenever it was
+
+923
+00:56:13,700 --> 00:56:14,180
+streamed.
+
+924
+00:56:14,180 --> 00:56:16,720
+I'm not sure busy doing what, but there we go.
+
+925
+00:56:16,720 --> 00:56:24,140
+So, but we saw it and it, they've kind of done some gender swapping, but not a huge amount.
+
+926
+00:56:24,140 --> 00:56:26,800
+It's a rather silly play.
+
+927
+00:56:26,800 --> 00:56:29,080
+It's a very lighthearted production.
+
+928
+00:56:29,080 --> 00:56:34,780
+There's a lot of people doing trapeze work and beds floating in the sky and things of that
+
+929
+00:56:34,780 --> 00:56:35,100
+kind.
+
+930
+00:56:35,100 --> 00:56:37,420
+And I thought it was very good and very funny.
+
+931
+00:56:37,420 --> 00:56:43,140
+I'm not hugely enamored of all the kind of modern ad-libbing, but you know, obviously people
+
+932
+00:56:43,140 --> 00:56:43,700
+quite like it.
+
+933
+00:56:43,700 --> 00:56:46,380
+It makes it, it makes the play more comprehensible to people.
+
+934
+00:56:46,380 --> 00:56:51,980
+I wasn't, we had seats this time and we weren't, last time I went to the bridge, it was immersive.
+
+935
+00:56:51,980 --> 00:56:55,020
+I was one of the immersive people who got to stand in the middle and wander around.
+
+936
+00:56:55,020 --> 00:56:58,040
+But this time we just got to sit back and watch everybody else doing that.
+
+937
+00:56:58,040 --> 00:56:59,500
+I enjoyed it a lot.
+
+938
+00:56:59,800 --> 00:57:05,020
+So yeah, it's, and the weather's quite hot now and kind of, it's quite a good time to
+
+939
+00:57:05,020 --> 00:57:09,220
+go to see a Midsummer Night's Dream because it feels like it's the sort of thing that, that
+
+940
+00:57:09,220 --> 00:57:10,960
+should happen in gloriously hot weather.
+
+941
+00:57:10,960 --> 00:57:11,840
+No, that's fair.
+
+942
+00:57:12,180 --> 00:57:15,200
+Last time I saw it, it was outside at, in Walthamstow.
+
+943
+00:57:15,200 --> 00:57:19,740
+And I quite like seeing Shakespeare outside in the summer as well, but there is a definite
+
+944
+00:57:19,740 --> 00:57:22,740
+advantage if you're going to do a stage of play where a lot of people are flying around
+
+945
+00:57:22,740 --> 00:57:25,400
+on trapezes, well, hammocky type things.
+
+946
+00:57:25,400 --> 00:57:31,440
+You probably do want to do that indoors on account of you have something to fix all the,
+
+947
+00:57:31,440 --> 00:57:33,040
+all the aerial things too.
+
+948
+00:57:33,500 --> 00:57:33,620
+Yeah.
+
+949
+00:57:33,620 --> 00:57:41,420
+I went to see Midsummer Night's Dream outside in Tollthorpe, which is near Stamford in Lincolnshire.
+
+950
+00:57:41,420 --> 00:57:42,120
+And it was very good.
+
+951
+00:57:42,120 --> 00:57:44,120
+The bottom in particular was very good.
+
+952
+00:57:44,120 --> 00:57:47,640
+I think a good bottom can make or break a Midsummer Night's Dream.
+
+953
+00:57:47,640 --> 00:57:49,420
+I think that is right.
+
+954
+00:57:49,420 --> 00:57:55,100
+And in particular, the gender swapping in this one has, has Oberon seducing bottom rather
+
+955
+00:57:55,100 --> 00:57:55,700
+than Titania.
+
+956
+00:57:55,700 --> 00:58:02,720
+I don't think that's a huge spoiler, which made them have lots of jokes about, put more
+
+957
+00:58:02,720 --> 00:58:07,340
+emphasis on the jokes about Oberon fancying a nice bit of ass.
+
+958
+00:58:07,340 --> 00:58:12,140
+A sort of, a sort of joke, you see.
+
+959
+00:58:12,140 --> 00:58:13,040
+No, that's quite good.
+
+960
+00:58:13,040 --> 00:58:13,420
+Yeah.
+
+961
+00:58:13,420 --> 00:58:18,060
+Well, I mean, it can be quite hard to spot the jokes in a Midsummer Night's Dream if you're
+
+962
+00:58:18,060 --> 00:58:21,280
+not, if you don't work very hard at it as a, as a production.
+
+963
+00:58:21,280 --> 00:58:23,220
+I've certainly seen it be quite unfunny.
+
+964
+00:58:23,220 --> 00:58:24,040
+Oh, yes.
+
+965
+00:58:24,520 --> 00:58:29,260
+The one of the key, one of the, maybe not, maybe, I don't know whether it's fair to put
+
+966
+00:58:29,260 --> 00:58:33,940
+this on Shakespeare, but I think badly put on Shakespeare is responsible for a lot of my
+
+967
+00:58:33,940 --> 00:58:35,460
+early dislike of Shakespeare.
+
+968
+00:58:35,460 --> 00:58:39,460
+And it wasn't until I saw it well done that I was like, oh, hang on a minute.
+
+969
+00:58:39,460 --> 00:58:41,080
+It's full of jokes.
+
+970
+00:58:41,080 --> 00:58:42,680
+It's full of knob jokes.
+
+971
+00:58:42,680 --> 00:58:43,460
+Who knew?
+
+972
+00:58:43,460 --> 00:58:47,880
+If you actually sort of produce it in a way that brings the humour out, it's quite good.
+
+973
+00:58:47,880 --> 00:58:49,860
+But you actually do have to do that.
+
+974
+00:58:49,860 --> 00:58:52,960
+I know, I know, I know many people listening are already aware.
+
+975
+00:58:53,080 --> 00:58:55,220
+Sorry to everyone who already knows such things.
+
+976
+00:58:55,220 --> 00:58:56,060
+Well, I think it's easy.
+
+977
+00:58:56,060 --> 00:59:00,540
+It's easier to know those things now because both there are, I think, a lot, there are a
+
+978
+00:59:00,540 --> 00:59:04,920
+lot of good productions around, a lot of which are accessible and a lot of them are available
+
+979
+00:59:04,920 --> 00:59:08,720
+through, you know, streaming and television performance and things.
+
+980
+00:59:08,720 --> 00:59:12,400
+And you can actually learn that in a way that I'm not sure it was so easy to do when I was
+
+981
+00:59:12,400 --> 00:59:12,720
+a kid.
+
+982
+00:59:12,720 --> 00:59:13,160
+Certainly.
+
+983
+00:59:13,620 --> 00:59:16,520
+I saw some absolutely dismal Shakespeare productions.
+
+984
+00:59:16,520 --> 00:59:17,840
+Yeah, that's fair.
+
+985
+00:59:17,840 --> 00:59:18,820
+That makes sense.
+
+986
+00:59:18,820 --> 00:59:21,020
+Liz, have you had time to come up with a pick yet?
+
+987
+00:59:21,020 --> 00:59:21,880
+Yes, fine.
+
+988
+00:59:21,880 --> 00:59:22,500
+I came up with a pick.
+
+989
+00:59:22,500 --> 00:59:23,360
+Hey!
+
+990
+00:59:23,360 --> 00:59:26,980
+Because I haven't read anything new since the last time we recorded, I'm going back for
+
+991
+00:59:26,980 --> 00:59:28,620
+something I read a few weeks ago.
+
+992
+00:59:28,620 --> 00:59:31,060
+And so maybe this will be slightly vaguer than usual.
+
+993
+00:59:31,600 --> 00:59:38,300
+But I'm going to go for Old Soul by Susan Barker, which is, well, there's a literary horror
+
+994
+00:59:38,300 --> 00:59:38,660
+novel.
+
+995
+00:59:38,660 --> 00:59:39,540
+I mean, it's a horror novel.
+
+996
+00:59:39,540 --> 00:59:40,300
+It's not that literary.
+
+997
+00:59:40,300 --> 00:59:47,220
+It's about basically two strangers meet and discover that they both have lost people they
+
+998
+00:59:47,220 --> 00:59:50,720
+loved who before they died crossed paths with a mystery woman.
+
+999
+00:59:51,560 --> 00:59:55,820
+And basically it's about one of these characters following all these threads and you get all
+
+1000
+00:59:55,820 --> 00:59:59,940
+these mini stories within a story of all the people who have crossed paths with this woman
+
+1001
+00:59:59,940 --> 01:00:06,880
+over the years and died soon afterwards because this is, you know, it's a vampire story, basically.
+
+1002
+01:00:06,880 --> 01:00:07,860
+What?
+
+1003
+01:00:07,860 --> 01:00:08,840
+No.
+
+1004
+01:00:08,840 --> 01:00:16,080
+And then there is like one person who knows this vampire better than anyone else.
+
+1005
+01:00:16,080 --> 01:00:19,380
+And yeah, I enjoyed it.
+
+1006
+01:00:19,380 --> 01:00:23,740
+I quite like this whole sort of like story within a story idea.
+
+1007
+01:00:23,740 --> 01:00:28,240
+And I felt like they were pleasingly different and crossed a bunch of different countries and
+
+1008
+01:00:28,240 --> 01:00:28,880
+settings.
+
+1009
+01:00:28,880 --> 01:00:32,680
+And yeah, I got very drawn in and enjoyed reading it.
+
+1010
+01:00:32,680 --> 01:00:33,760
+So I recommend that.
+
+1011
+01:00:33,760 --> 01:00:34,540
+Nice.
+
+1012
+01:00:34,540 --> 01:00:35,700
+That sounds good.
+
+1013
+01:00:35,700 --> 01:00:39,280
+Not doing anything incredibly new, I would say, but it does it pretty well.
+
+1014
+01:00:39,280 --> 01:00:43,880
+It does have that thing where none of the dialogue has quote marks around it, which I could see
+
+1015
+01:00:43,880 --> 01:00:47,600
+could be really irritating if you're someone who would find that really irritating.
+
+1016
+01:00:47,600 --> 01:00:48,280
+So be warned.
+
+1017
+01:00:48,700 --> 01:00:54,280
+One of the Clark finalists had that trait.
+
+1018
+01:00:54,280 --> 01:00:58,860
+And I did see discourse on the internet about it.
+
+1019
+01:00:58,860 --> 01:00:59,620
+Hmm.
+
+1020
+01:00:59,620 --> 01:01:00,520
+All right.
+
+1021
+01:01:00,520 --> 01:01:07,300
+So in keeping with previous episodes, I'm going to pick a book and I'm going to pick We Are
+
+1022
+01:01:07,300 --> 01:01:10,060
+All Ghosts in the Forest by Lorraine Wilson.
+
+1023
+01:01:10,560 --> 01:01:11,140
+This is interesting.
+
+1024
+01:01:11,140 --> 01:01:12,180
+This is interesting.
+
+1025
+01:01:12,180 --> 01:01:16,080
+I don't know if it's fantasy or science fiction.
+
+1026
+01:01:16,080 --> 01:01:19,700
+I have heard persuasive arguments on both sides of that debate.
+
+1027
+01:01:19,700 --> 01:01:23,900
+I think it might be some sort of an unholy blend of both.
+
+1028
+01:01:24,120 --> 01:01:39,580
+We follow a character called Katarina, who is effectively a witch doctor and beekeeper who keeps herself to herself and can whip you up a mean remedy.
+
+1029
+01:01:39,700 --> 01:01:48,240
+And everyone in the village that she lives in is extremely suspicious of her, despite the fact that without her, they would all be completely lost.
+
+1030
+01:01:48,760 --> 01:01:55,160
+And she meets a small child and they go on an adventure.
+
+1031
+01:01:55,160 --> 01:01:57,160
+And hilarity ensues.
+
+1032
+01:01:57,680 --> 01:01:59,880
+And I really enjoyed it.
+
+1033
+01:01:59,880 --> 01:02:01,200
+I particularly like...
+
+1034
+01:02:01,200 --> 01:02:06,480
+I think I fall more on the side of this being fantasy than science fiction.
+
+1035
+01:02:06,480 --> 01:02:11,960
+But I very much enjoyed the way it kind of blends the two.
+
+1036
+01:02:11,960 --> 01:02:22,800
+It's set in this kind of post-apocalyptic world where data has kind of become fragmented and you get these ghosts made of data.
+
+1037
+01:02:22,800 --> 01:02:28,300
+And you have to be very careful about kind of interacting with them because they can be very dangerous.
+
+1038
+01:02:28,300 --> 01:02:32,900
+And that I think is a good idea that was implemented well.
+
+1039
+01:02:32,900 --> 01:02:35,920
+And I, like I say, enjoyed it quite thoroughly.
+
+1040
+01:02:35,920 --> 01:02:39,600
+So yeah, I would highly recommend people check it out.
+
+1041
+01:02:39,600 --> 01:02:41,120
+And I like the characterization.
+
+1042
+01:02:41,120 --> 01:02:47,000
+And as another book, long-time listeners will know that it made me angry in a good way.
+
+1043
+01:02:47,000 --> 01:02:49,360
+And I very much like it when a book does that.
+
+1044
+01:02:49,360 --> 01:02:57,560
+The author, Lorraine Wilson, has a new book coming out, which I'm also very excited about, which is called The Salt Oracle.
+
+1045
+01:02:57,560 --> 01:03:00,500
+And it's coming out from Simon & Schuster.
+
+1046
+01:03:00,500 --> 01:03:04,280
+And it will be published at some point.
+
+1047
+01:03:04,280 --> 01:03:05,940
+The 6th of November, apparently.
+
+1048
+01:03:06,000 --> 01:03:13,060
+I think it might be in the same universe, but I don't think it is the same characters.
+
+1049
+01:03:13,060 --> 01:03:18,540
+And so it's going to be another interesting blend of science fiction and fantasy, which I am looking forward to reading.
+
+1050
+01:03:18,540 --> 01:03:19,180
+All right.
+
+1051
+01:03:19,180 --> 01:03:19,840
+Sounds good.
+
+1052
+01:03:19,840 --> 01:03:21,100
+Did we do the end of the podcast?
+
+1053
+01:03:21,100 --> 01:03:23,780
+That was The Octothorpe Podcast.
+
+1054
+01:03:23,780 --> 01:03:25,160
+And it's goodbye from me.
+
+1055
+01:03:25,160 --> 01:03:26,540
+It's goodbye from me.
+
+1056
+01:03:26,540 --> 01:03:28,000
+And it's goodbye from me.
+
+1057
+01:03:28,000 --> 01:03:52,460
+I am going on holiday and I have to read some books.
+
+1058
+01:03:52,460 --> 01:03:54,800
+I think when I'm on holiday, I should be reading more.
+
+1059
+01:03:55,600 --> 01:03:56,180
+That's fair.
+
+1060
+01:03:56,180 --> 01:03:58,080
+Holidays are a good time to read things.
+
+1061
+01:03:58,080 --> 01:04:00,020
+Anything in particular you're going to read?
+
+1062
+01:04:00,020 --> 01:04:03,600
+Well, all the things you guys will be recommending for the last six months.
+
+1063
+01:04:03,600 --> 01:04:05,860
+Yeah, but then you won't be able to pick them because we already picked them.
+
+1064
+01:04:05,860 --> 01:04:06,760
+Oh, that's true.
+
+1065
+01:04:06,760 --> 01:04:11,380
+I don't think Alison's reading should be entirely focused around picks for the podcast.
+
+1066
+01:04:11,380 --> 01:04:15,180
+Maybe like, you know, 20% focused around that.
+
+1067
+01:04:15,180 --> 01:04:15,640
+Yeah.
+
+1068
+01:04:15,640 --> 01:04:19,460
+Well, I mean, at the moment, I quite like it to be focused on actually doing some reading.
+
+1069
+01:04:19,460 --> 01:04:20,360
+Can you guys hear me?
+
+1070
+01:04:20,400 --> 01:04:22,500
+Because I think my...
+
+1071
+01:04:22,500 --> 01:04:23,460
+Yes, but you're a bit choppy.
+
+1072
+01:04:23,460 --> 01:04:27,000
+I plugged my computer in.
+
+1073
+01:04:27,000 --> 01:04:28,380
+This is what happened last time.
+
+1074
+01:04:28,380 --> 01:04:30,360
+I plugged my computer in and Zoom went choppy.
+
+1075
+01:04:30,360 --> 01:04:31,920
+I do not understand.
+
+1076
+01:04:31,920 --> 01:04:35,220
+What happens if you plug your computer in before we start?
+
+1077
+01:04:35,220 --> 01:04:40,460
+Well, I mean, I don't plug my computer in before we start because I bring it up and use it on battery power
+
+1078
+01:04:40,460 --> 01:04:44,660
+because I believe there's a risk of interference with the microphone cable.
+
+1079
+01:04:44,660 --> 01:04:48,120
+But if we go on for a bit long, which we have done at this time...
+
+1080
+01:04:48,120 --> 01:04:51,260
+I'm recording on an iMac and I've not had any problem.
+
+1081
+01:04:51,260 --> 01:04:51,980
+Yes.
+
+1082
+01:04:51,980 --> 01:04:53,540
+Well, OK, we had problems once.
+
+1083
+01:04:53,540 --> 01:04:54,100
+True.
+
+1084
+01:04:54,100 --> 01:04:54,800
+That's true.
+
+1085
+01:04:54,800 --> 01:04:58,200
+It is unusual for me to have a washing machine delivered.
+
+1086
+01:04:58,200 --> 01:04:58,780
+Yeah.
+
+1087
+01:04:58,780 --> 01:05:00,560
+So normally we have...
+
+1088
+01:05:00,560 --> 01:05:01,560
+Normally I have enough time.
+
+1089
+01:05:01,800 --> 01:05:07,800
+The theme music for this episode was Fanfare for Space by Kevin MacLeod and Compotech.com
+
+1090
+01:05:07,800 --> 01:05:11,580
+used under a Creative Commons Attribution 4.0 license.
+
+1091
+01:05:11,580 --> 01:05:14,040
+This podcast will end at the beep.
+
+1092
+01:05:14,040 --> 01:05:15,260
+Beep.
+
+1093
+01:05:15,260 --> 01:05:16,260
+Thank you.
+
