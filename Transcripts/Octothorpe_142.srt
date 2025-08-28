@@ -1,0 +1,5984 @@
+1
+00:00:00,001 --> 00:00:03,520
+No, that was correct. And also, we can just edit it.
+
+2
+00:00:03,520 --> 00:00:22,020
+Hello, everyone, and welcome to the very 142nd episode of Octothorpe,
+
+3
+00:00:22,020 --> 00:00:27,840
+which is going to a little-known desert planet and finding the child that will bring balance to the Force.
+
+4
+00:00:27,840 --> 00:00:31,120
+On the 28th of August, 2025, I'm John Coxon.
+
+5
+00:00:31,120 --> 00:00:33,540
+Oh, I'm stunt Alison Lori Anderson.
+
+6
+00:00:33,540 --> 00:00:35,440
+And I'm Liz Batty.
+
+7
+00:00:35,440 --> 00:00:36,740
+Yes, hello, Lori.
+
+8
+00:00:36,740 --> 00:00:37,720
+Hello.
+
+9
+00:00:37,720 --> 00:00:38,720
+Hey.
+
+10
+00:00:38,720 --> 00:00:43,220
+So Alison can't make it this week because she's in a field, probably.
+
+11
+00:00:43,220 --> 00:00:44,880
+She's usually in a field.
+
+12
+00:00:44,880 --> 00:00:48,980
+And so Lori has very kindly consented to be our stunt Alison, and we're excited.
+
+13
+00:00:48,980 --> 00:00:50,080
+Thank you for having me.
+
+14
+00:00:50,080 --> 00:00:50,940
+Thank you for coming.
+
+15
+00:00:50,940 --> 00:00:54,460
+So for those who don't know you, do you want to introduce yourself?
+
+16
+00:00:54,460 --> 00:00:57,680
+I'm the co-host of the podcast Hugo Girl.
+
+17
+00:00:58,120 --> 00:01:00,620
+And being on Octothorpe is a lifelong dream for me.
+
+18
+00:01:00,620 --> 00:01:02,960
+Well, lifelong, maybe like three or four years long dream.
+
+19
+00:01:02,960 --> 00:01:08,200
+You were born and you were like, one day I will be on a podcast called Octothorpe.
+
+20
+00:01:08,200 --> 00:01:12,960
+I don't know what that means yet because podcasts haven't been invented, but it will happen.
+
+21
+00:01:12,960 --> 00:01:14,840
+I manifested all of this.
+
+22
+00:01:14,840 --> 00:01:15,460
+Brilliant.
+
+23
+00:01:15,960 --> 00:01:22,800
+And for those who don't know, Hugo Girl has been a Hugo finalist multiple times and won a rocket in Chengdu.
+
+24
+00:01:22,800 --> 00:01:23,620
+Asterisk.
+
+25
+00:01:23,620 --> 00:01:24,720
+Thank you.
+
+26
+00:01:24,720 --> 00:01:26,060
+But it's a very pretty rocket.
+
+27
+00:01:26,060 --> 00:01:27,080
+It is.
+
+28
+00:01:27,080 --> 00:01:27,780
+It is.
+
+29
+00:01:27,780 --> 00:01:31,640
+When it arrives and you glue it back together again.
+
+30
+00:01:31,640 --> 00:01:32,480
+Correct.
+
+31
+00:01:32,840 --> 00:01:40,420
+You wrote us a letter of comment, which we never read out, about that because we said something about offers of fixing it.
+
+32
+00:01:40,420 --> 00:01:41,860
+And you said that's not what happened.
+
+33
+00:01:41,860 --> 00:01:43,500
+And now you're here.
+
+34
+00:01:43,500 --> 00:01:44,220
+Yeah.
+
+35
+00:01:44,220 --> 00:01:45,020
+Yeah.
+
+36
+00:01:45,280 --> 00:01:51,300
+So we got the box of bolts, which included a panda and a rocket and some pieces.
+
+37
+00:01:51,300 --> 00:01:54,420
+And Kevin, we got four because there are four of us.
+
+38
+00:01:54,420 --> 00:01:56,380
+And one of them was intact.
+
+39
+00:01:56,380 --> 00:01:58,320
+And then the other four were in pieces.
+
+40
+00:01:58,320 --> 00:02:00,120
+The panda had fallen off.
+
+41
+00:02:00,120 --> 00:02:01,620
+The Stargate was loose.
+
+42
+00:02:01,620 --> 00:02:06,060
+There were scratches on stuff, which we can't do anything about the scratches, but it's not the end of the world.
+
+43
+00:02:06,060 --> 00:02:09,120
+The screws had broken off inside them.
+
+44
+00:02:09,120 --> 00:02:10,860
+They were very curiously assembled.
+
+45
+00:02:11,600 --> 00:02:14,600
+So Kevin managed to fix the three broken ones.
+
+46
+00:02:14,600 --> 00:02:18,900
+And so we all three or we all four have decent, perfectly fine looking Hugo Awards.
+
+47
+00:02:18,900 --> 00:02:29,940
+But the update to that was that the then Hugo administrator said that he had, I don't know if he said he'd received them or if they had been shipped replacement parts.
+
+48
+00:02:29,940 --> 00:02:35,640
+And basically that he would send, like if your panda was scratched or cracked, he would send you a new panda and send the parts that were broken.
+
+49
+00:02:35,640 --> 00:02:38,580
+And we said, okay, here's a list of our stuff that's broken.
+
+50
+00:02:38,580 --> 00:02:40,680
+And then it just never came.
+
+51
+00:02:40,680 --> 00:02:45,740
+And I want to say that was December of 2020.
+
+52
+00:02:45,740 --> 00:02:47,180
+How long has this been?
+
+53
+00:02:47,180 --> 00:02:48,040
+I don't know.
+
+54
+00:02:48,040 --> 00:02:49,180
+It's been so long ago.
+
+55
+00:02:49,180 --> 00:02:50,400
+Two years.
+
+56
+00:02:50,400 --> 00:02:52,380
+We never, we just never heard from him again.
+
+57
+00:02:52,380 --> 00:02:54,900
+And I, you know, I have a trophy.
+
+58
+00:02:54,900 --> 00:02:55,680
+I fixed it.
+
+59
+00:02:55,680 --> 00:02:56,540
+Well, Kevin fixed it.
+
+60
+00:02:56,540 --> 00:02:57,740
+You know, that counts.
+
+61
+00:02:57,740 --> 00:02:59,820
+And it is what it is.
+
+62
+00:02:59,820 --> 00:03:06,240
+But I just didn't want people to think that we had an offer of help that we had turned down, an offer to repair.
+
+63
+00:03:06,240 --> 00:03:12,100
+And honestly, even if there had been an offer to repair, I don't think it would have happened because some people still haven't ever received theirs.
+
+64
+00:03:12,100 --> 00:03:13,540
+And that's too bad.
+
+65
+00:03:13,540 --> 00:03:14,460
+That is fair.
+
+66
+00:03:14,800 --> 00:03:19,860
+I've got a Hugo question, which is, did Chengdu send you four Hugos automatically?
+
+67
+00:03:19,860 --> 00:03:21,420
+Or did you actually pay for one of those?
+
+68
+00:03:21,420 --> 00:03:23,300
+They actually gave them all to us.
+
+69
+00:03:23,300 --> 00:03:24,340
+We did not have to pay for anything.
+
+70
+00:03:24,340 --> 00:03:25,460
+That was very nice.
+
+71
+00:03:25,460 --> 00:03:29,080
+Because I think typically you get three at the most and have to pay after that.
+
+72
+00:03:29,360 --> 00:03:33,700
+And at least that's what I understand from previous winners who have talked about having to purchase them.
+
+73
+00:03:33,700 --> 00:03:34,660
+It varies.
+
+74
+00:03:34,660 --> 00:03:37,840
+It varies wildly from Worldcon to Worldcon.
+
+75
+00:03:37,840 --> 00:03:40,620
+But yeah, listeners may not be aware.
+
+76
+00:03:40,620 --> 00:03:44,760
+But basically, the Worldcon will pay for your first N Hugos.
+
+77
+00:03:44,760 --> 00:03:48,720
+And then if you're a very large team, you might have to pay for extras.
+
+78
+00:03:48,720 --> 00:03:50,860
+I'm not sure what Glasgow did.
+
+79
+00:03:50,860 --> 00:03:53,260
+I want to say they didn't charge for extras.
+
+80
+00:03:53,260 --> 00:03:54,520
+But I might be wrong.
+
+81
+00:03:54,520 --> 00:03:56,620
+Glasgow, right in.
+
+82
+00:03:56,620 --> 00:03:57,440
+The whole city.
+
+83
+00:03:57,440 --> 00:03:58,700
+But yes, thank you for coming, Lori.
+
+84
+00:03:58,700 --> 00:04:01,600
+We're not going to do letters of comment this week, listeners, because we'll do them.
+
+85
+00:04:01,600 --> 00:04:03,340
+We're recording again in a week's time.
+
+86
+00:04:03,340 --> 00:04:06,000
+So we can do a bumper letter of comment roster then.
+
+87
+00:04:06,000 --> 00:04:07,600
+And also, you know.
+
+88
+00:04:07,600 --> 00:04:09,180
+Alison might have opinions.
+
+89
+00:04:09,180 --> 00:04:14,640
+And Lori's written a list of bullet points, which is more organized than we often are.
+
+90
+00:04:14,640 --> 00:04:17,160
+It's absolutely more organized than we ever are.
+
+91
+00:04:17,160 --> 00:04:19,040
+We usually have bullet points, but.
+
+92
+00:04:19,040 --> 00:04:22,760
+I kept a little running list of things I didn't want to forget during the con.
+
+93
+00:04:22,760 --> 00:04:24,200
+During the con.
+
+94
+00:04:24,200 --> 00:04:24,760
+Wow.
+
+95
+00:04:24,760 --> 00:04:25,980
+Wow.
+
+96
+00:04:25,980 --> 00:04:28,320
+Yeah, I would just occasionally add something.
+
+97
+00:04:28,320 --> 00:04:29,780
+That's bananas.
+
+98
+00:04:29,780 --> 00:04:30,780
+Okay.
+
+99
+00:04:30,780 --> 00:04:34,260
+So, because I don't understand your first bullet point.
+
+100
+00:04:34,260 --> 00:04:38,260
+So my first bullet point is found the Glasgow tartan ribbon.
+
+101
+00:04:38,260 --> 00:04:39,040
+Right.
+
+102
+00:04:39,040 --> 00:04:40,900
+And here's what happened, friends.
+
+103
+00:04:40,900 --> 00:04:47,800
+So those of you who attended the World Con in Glasgow may remember that I had tartan badge ribbons.
+
+104
+00:04:47,800 --> 00:04:48,860
+And I had made them myself.
+
+105
+00:04:48,980 --> 00:04:53,920
+I bought a roll of ribbon and I cut it up and I put double-sided bra tape on them and I made my own ribbons.
+
+106
+00:04:53,920 --> 00:04:55,400
+And they were very popular.
+
+107
+00:04:55,400 --> 00:05:05,360
+At the end of the con, Alison Scott approached me and said someone had given her a roll of ribbon and she thought that I might like it for making badge ribbons.
+
+108
+00:05:05,760 --> 00:05:09,460
+And I was like, ooh, yes, I'll make badge ribbons and I'll take them to Seattle.
+
+109
+00:05:09,460 --> 00:05:12,000
+Maybe people will still be interested in the tartan.
+
+110
+00:05:12,400 --> 00:05:16,240
+I distinctly remember getting home and unpacking my stuff.
+
+111
+00:05:16,240 --> 00:05:21,040
+And since I had taken some little crafty things with me to Glasgow, I had crafty things to unpack.
+
+112
+00:05:21,040 --> 00:05:23,820
+And so I'm unpacking my crafty things and I was like, where's that ribbon?
+
+113
+00:05:23,820 --> 00:05:25,880
+Where's that roll of ribbon that Alison gave me?
+
+114
+00:05:25,880 --> 00:05:27,080
+And I couldn't find it.
+
+115
+00:05:27,080 --> 00:05:28,100
+And Kevin couldn't find it.
+
+116
+00:05:28,100 --> 00:05:31,640
+And we both remembered sweeping the hotel room and not leaving anything.
+
+117
+00:05:31,800 --> 00:05:36,800
+And for one year, I have been looking for that roll of ribbon and I have felt so bad.
+
+118
+00:05:36,800 --> 00:05:42,460
+I've had this simmering anxiety where Alison's going to say, oh, Lori, did you make anything with that roll of ribbon I gave you?
+
+119
+00:05:42,460 --> 00:05:44,880
+And that didn't happen, fortunately.
+
+120
+00:05:44,880 --> 00:05:46,680
+But I couldn't find it.
+
+121
+00:05:46,680 --> 00:05:48,860
+And I was like, well, here we are in Seattle.
+
+122
+00:05:48,860 --> 00:05:49,440
+I give up.
+
+123
+00:05:49,440 --> 00:05:52,360
+So it rained a lot in Seattle as it does.
+
+124
+00:05:52,360 --> 00:05:54,980
+Well, not a whole lot, but it rained a couple times in Seattle as it often does.
+
+125
+00:05:54,980 --> 00:05:56,020
+And I brought my raincoat.
+
+126
+00:05:56,020 --> 00:05:56,740
+Aha.
+
+127
+00:05:56,920 --> 00:06:02,120
+And the second time that it rained, not even the first time that it rained and I wore my raincoat.
+
+128
+00:06:02,120 --> 00:06:06,500
+The second time that it rained, I wore my raincoat and then I went to put it away.
+
+129
+00:06:06,500 --> 00:06:09,940
+And it's the kind that balls up into a pocket and zips into itself.
+
+130
+00:06:09,940 --> 00:06:14,880
+And I was like, oh, something's in the pocket of my raincoat that I've worn twice on this trip.
+
+131
+00:06:14,880 --> 00:06:16,140
+And it was the ribbon.
+
+132
+00:06:16,140 --> 00:06:17,360
+It was the ribbon.
+
+133
+00:06:17,360 --> 00:06:18,200
+Yes.
+
+134
+00:06:18,200 --> 00:06:22,760
+I pulled that ribbon out and I was like, Kevin, Kevin, get in here now.
+
+135
+00:06:22,760 --> 00:06:26,840
+And Kevin's like, what's like he thought I've seen a monster or there's like a murder under the bed or something.
+
+136
+00:06:26,980 --> 00:06:28,560
+And I was like, I found that ribbon.
+
+137
+00:06:28,560 --> 00:06:29,900
+He's like, oh, my God.
+
+138
+00:06:29,900 --> 00:06:32,400
+We just both felt we both felt crazy.
+
+139
+00:06:32,400 --> 00:06:33,540
+So I found it.
+
+140
+00:06:33,540 --> 00:06:35,080
+I didn't I didn't craft with it.
+
+141
+00:06:35,080 --> 00:06:41,060
+You can't get worried about Allison remembering to ask you about things that happened a year ago.
+
+142
+00:06:41,060 --> 00:06:42,360
+I have learned.
+
+143
+00:06:42,360 --> 00:06:45,920
+But I've been worried about it for a year.
+
+144
+00:06:45,920 --> 00:06:48,780
+That was probably not a funny story to your listeners.
+
+145
+00:06:48,780 --> 00:06:49,400
+I apologize.
+
+146
+00:06:49,400 --> 00:06:51,900
+No, I mean, it is good.
+
+147
+00:06:51,900 --> 00:06:52,960
+I'm glad you found the ribbon.
+
+148
+00:06:52,960 --> 00:06:55,360
+We have been looking for it for a year.
+
+149
+00:06:55,780 --> 00:06:58,120
+Like we went through every bag we went through.
+
+150
+00:06:58,120 --> 00:07:02,440
+I was like, maybe I put it away and forgot, pulled out all my crafty drawers of which there are many.
+
+151
+00:07:02,440 --> 00:07:05,000
+Kevin and I both have been looking for it for a year.
+
+152
+00:07:05,000 --> 00:07:07,860
+That tells you how often you need rain raincoat in Atlanta.
+
+153
+00:07:07,860 --> 00:07:08,780
+You don't.
+
+154
+00:07:08,780 --> 00:07:09,440
+That makes a lot of sense.
+
+155
+00:07:09,440 --> 00:07:11,060
+So I'm going to show you something.
+
+156
+00:07:11,060 --> 00:07:17,800
+Did you you didn't live make Glasgow ribbons like in in on the floor in Seattle?
+
+157
+00:07:17,800 --> 00:07:21,000
+You weren't just like snipping bits off and converting them on the fly.
+
+158
+00:07:21,720 --> 00:07:22,300
+I didn't.
+
+159
+00:07:22,300 --> 00:07:26,240
+But I thought about it because I had a lot of double sided bra tape.
+
+160
+00:07:26,240 --> 00:07:30,880
+I mean, I made community beards during Shikon.
+
+161
+00:07:30,880 --> 00:07:31,900
+You did.
+
+162
+00:07:31,900 --> 00:07:32,920
+I did.
+
+163
+00:07:32,920 --> 00:07:34,380
+Community beards.
+
+164
+00:07:34,380 --> 00:07:35,880
+Tell me more about that.
+
+165
+00:07:35,880 --> 00:07:37,180
+So long ago now.
+
+166
+00:07:37,180 --> 00:07:38,060
+So this is 2012.
+
+167
+00:07:38,060 --> 00:07:43,060
+And the community episode that was up for a Hugo was the one where they have multiple timelines.
+
+168
+00:07:43,060 --> 00:07:44,140
+Oh.
+
+169
+00:07:44,580 --> 00:07:47,360
+And the little beard means you're in the darkest timeline.
+
+170
+00:07:47,360 --> 00:07:50,320
+So I made beards so we could be in the darkest timeline.
+
+171
+00:07:50,320 --> 00:07:51,880
+Community the show.
+
+172
+00:07:51,880 --> 00:07:55,060
+I heard community beards like I made beards for the community.
+
+173
+00:07:55,060 --> 00:07:57,000
+And I wasn't sure what that meant.
+
+174
+00:07:57,000 --> 00:07:59,220
+You know, Liz does a lot of voluntary work.
+
+175
+00:07:59,220 --> 00:08:02,520
+And like an important part of that is giving people beards.
+
+176
+00:08:02,520 --> 00:08:03,900
+Dan Harmon in the beards.
+
+177
+00:08:03,900 --> 00:08:04,400
+Quite fun.
+
+178
+00:08:04,400 --> 00:08:05,780
+I mean, I was not at.
+
+179
+00:08:05,780 --> 00:08:06,100
+Yeah.
+
+180
+00:08:06,100 --> 00:08:10,260
+I mean, it's worth saying that I was not invited to the Hugo fancy stuff that year.
+
+181
+00:08:10,260 --> 00:08:11,480
+I was just sitting in the audience.
+
+182
+00:08:11,480 --> 00:08:15,200
+So I gave them to Christopher Jay Garcia, who did me proud.
+
+183
+00:08:15,200 --> 00:08:15,820
+Yeah.
+
+184
+00:08:15,820 --> 00:08:16,060
+Yeah.
+
+185
+00:08:16,060 --> 00:08:19,260
+Because Chris was nominated in that category for his acceptance speech.
+
+186
+00:08:19,260 --> 00:08:21,960
+Because every so often the Hugos eat themselves.
+
+187
+00:08:21,960 --> 00:08:25,420
+But spoiler, maybe not this year.
+
+188
+00:08:25,420 --> 00:08:26,140
+Yeah.
+
+189
+00:08:26,140 --> 00:08:26,860
+Foreshadowing.
+
+190
+00:08:26,860 --> 00:08:31,480
+So nothing about Hugo Awards won a Hugo Award this year.
+
+191
+00:08:31,480 --> 00:08:32,360
+That's true.
+
+192
+00:08:32,360 --> 00:08:33,020
+Yeah.
+
+193
+00:08:33,020 --> 00:08:37,080
+And I don't think that the ceremony will be nominated for anything.
+
+194
+00:08:37,080 --> 00:08:38,640
+If I may be so bold.
+
+195
+00:08:38,640 --> 00:08:39,460
+Oh.
+
+196
+00:08:39,940 --> 00:08:40,320
+So yeah.
+
+197
+00:08:40,320 --> 00:08:42,560
+So shall we talk about the ceremony?
+
+198
+00:08:42,560 --> 00:08:43,400
+Sure.
+
+199
+00:08:43,400 --> 00:08:44,840
+What would you like to know?
+
+200
+00:08:44,840 --> 00:08:48,480
+What were the hors d'oeuvres like?
+
+201
+00:08:48,480 --> 00:08:50,480
+I thought the hors d'oeuvres were good.
+
+202
+00:08:50,480 --> 00:08:52,440
+I've seen a few people say that there wasn't enough food.
+
+203
+00:08:52,440 --> 00:08:56,100
+Now, to be fair, I didn't feel like eating that much because I was nervous.
+
+204
+00:08:56,100 --> 00:08:58,060
+So I only ate a little bit.
+
+205
+00:08:58,060 --> 00:08:59,160
+But they looked really good.
+
+206
+00:08:59,160 --> 00:09:01,280
+And everyone around me seemed to be enjoying them.
+
+207
+00:09:01,280 --> 00:09:05,620
+There were hot hors d'oeuvres, little onion tarts that I remember thinking looked good.
+
+208
+00:09:05,620 --> 00:09:08,860
+There was a good cheese and fruit spread that I enjoyed.
+
+209
+00:09:09,240 --> 00:09:10,000
+I thought it was good.
+
+210
+00:09:10,000 --> 00:09:11,120
+But maybe there wasn't enough.
+
+211
+00:09:11,120 --> 00:09:11,600
+I don't know.
+
+212
+00:09:11,600 --> 00:09:13,220
+I was picking at it a little bit.
+
+213
+00:09:13,220 --> 00:09:17,220
+And also in Glasgow, there was like two full dinners per finalist.
+
+214
+00:09:17,780 --> 00:09:22,100
+Oh, but let me tell you in Glasgow, if you didn't eat meat, sorry.
+
+215
+00:09:22,100 --> 00:09:28,360
+Because I went up to the buffet like, yes, they had a chicken dinner and something else.
+
+216
+00:09:28,360 --> 00:09:30,840
+And I was like, could I have some potatoes, please?
+
+217
+00:09:30,840 --> 00:09:33,340
+And they were like, no, only if you get the chicken.
+
+218
+00:09:33,340 --> 00:09:35,680
+And I was like, well, I don't eat meat.
+
+219
+00:09:35,680 --> 00:09:37,560
+Could you just give me like two potatoes?
+
+220
+00:09:37,560 --> 00:09:38,380
+And they're like, no.
+
+221
+00:09:38,500 --> 00:09:42,420
+If you take a potato, you must also take this bird carcass.
+
+222
+00:09:42,420 --> 00:09:48,060
+And so actually then your lovely wife, Espana, took pity on me and shared some of her potatoes
+
+223
+00:09:48,060 --> 00:09:49,240
+with me so that I didn't starve.
+
+224
+00:09:49,240 --> 00:09:49,820
+Um.
+
+225
+00:09:50,660 --> 00:09:53,180
+So there was lots of food, but a strange vibe.
+
+226
+00:09:53,180 --> 00:09:53,760
+Event.
+
+227
+00:09:53,760 --> 00:09:54,340
+Yeah.
+
+228
+00:09:54,340 --> 00:09:54,920
+That.
+
+229
+00:09:54,920 --> 00:09:55,500
+Yeah.
+
+230
+00:09:55,500 --> 00:09:57,520
+Event stuff can be very literal.
+
+231
+00:09:57,520 --> 00:09:59,300
+Not the fault of the con.
+
+232
+00:09:59,300 --> 00:10:00,280
+Yes.
+
+233
+00:10:00,280 --> 00:10:03,840
+I've had that at science conferences and I've been like, what's happening?
+
+234
+00:10:03,840 --> 00:10:04,940
+That's not a complaint.
+
+235
+00:10:04,940 --> 00:10:06,180
+It's merely an observation.
+
+236
+00:10:06,180 --> 00:10:06,900
+Yeah.
+
+237
+00:10:06,900 --> 00:10:07,080
+Yeah.
+
+238
+00:10:07,280 --> 00:10:11,700
+And then you watched the ceremony and there was singing.
+
+239
+00:10:11,700 --> 00:10:13,260
+I did.
+
+240
+00:10:13,260 --> 00:10:15,060
+There was.
+
+241
+00:10:15,060 --> 00:10:16,140
+There was.
+
+242
+00:10:16,140 --> 00:10:21,380
+So there was a, I guess, a filk version of Down the Witch's Road from Agatha all along.
+
+243
+00:10:21,380 --> 00:10:24,320
+And I think it was funny.
+
+244
+00:10:24,320 --> 00:10:28,480
+So the ceremony opened with kind of a full version of it.
+
+245
+00:10:28,480 --> 00:10:29,600
+It seemed quite long.
+
+246
+00:10:29,600 --> 00:10:32,040
+It seemed like the whole song to me, although I don't know for sure.
+
+247
+00:10:32,040 --> 00:10:36,720
+And what I could understand of the lyrics, I thought it was funny.
+
+248
+00:10:36,720 --> 00:10:38,880
+But I couldn't understand a lot of it.
+
+249
+00:10:38,880 --> 00:10:41,800
+And the captioning did not caption the song at all.
+
+250
+00:10:41,800 --> 00:10:45,460
+The captioning during the ceremony definitely left much to be desired.
+
+251
+00:10:45,460 --> 00:10:48,420
+But what I could understand, it seemed like it was funny and it was cute.
+
+252
+00:10:48,420 --> 00:10:49,760
+And then it just kept happening.
+
+253
+00:10:49,760 --> 00:10:56,520
+And it kept happening until people seemed to, I feel like it was maybe akin to some sort of
+
+254
+00:10:56,520 --> 00:11:00,040
+torture playing the same little bit of music over and over and over again.
+
+255
+00:11:00,040 --> 00:11:00,900
+Yeah.
+
+256
+00:11:00,900 --> 00:11:03,700
+It was an interesting choice.
+
+257
+00:11:03,700 --> 00:11:05,720
+And then they did the full version again at the end.
+
+258
+00:11:06,080 --> 00:11:06,360
+Okay.
+
+259
+00:11:06,360 --> 00:11:11,780
+The interesting thing that happened afterward was after the ceremony, some people were
+
+260
+00:11:11,780 --> 00:11:13,420
+really driven mad by it.
+
+261
+00:11:13,420 --> 00:11:16,320
+Kevin and I just felt like if you can't beat them, join them.
+
+262
+00:11:16,320 --> 00:11:17,760
+And they said, sing with us.
+
+263
+00:11:17,760 --> 00:11:19,460
+And we were like, okay, we're doing this.
+
+264
+00:11:19,460 --> 00:11:21,500
+And so Kevin and I just went all in on it.
+
+265
+00:11:21,500 --> 00:11:23,720
+Haley's girlfriend was sitting to my right.
+
+266
+00:11:23,720 --> 00:11:26,320
+And apparently she wanted to murder me.
+
+267
+00:11:26,320 --> 00:11:27,460
+But she likes me a lot.
+
+268
+00:11:27,460 --> 00:11:28,240
+So she didn't.
+
+269
+00:11:28,240 --> 00:11:31,120
+But I did eventually get a big pinch in the ribs from her.
+
+270
+00:11:31,200 --> 00:11:36,240
+When Kevin and I were taking the train from downtown Seattle to the airport to go home,
+
+271
+00:11:36,240 --> 00:11:39,580
+we were on the train and we hear the train bell.
+
+272
+00:11:39,580 --> 00:11:42,900
+And at each stop it goes, bong, bong.
+
+273
+00:11:43,440 --> 00:11:46,440
+And we both just were like, it's following us.
+
+274
+00:11:46,440 --> 00:11:48,160
+The Hugo road is everywhere.
+
+275
+00:11:48,160 --> 00:11:50,180
+Excellent.
+
+276
+00:11:50,180 --> 00:11:51,020
+Yes.
+
+277
+00:11:51,020 --> 00:11:52,480
+But it was a lot.
+
+278
+00:11:52,480 --> 00:11:58,700
+And it seemed like there was maybe more emphasis on the song than the awards.
+
+279
+00:11:58,700 --> 00:12:01,840
+John, were you watching the Hugo Awards live?
+
+280
+00:12:01,840 --> 00:12:04,540
+I presume not because of the time zone.
+
+281
+00:12:04,880 --> 00:12:06,080
+It was 4am.
+
+282
+00:12:06,080 --> 00:12:07,680
+So I was asleep.
+
+283
+00:12:07,680 --> 00:12:09,440
+Did you watch it live, Liz?
+
+284
+00:12:09,440 --> 00:12:10,960
+I did watch it live.
+
+285
+00:12:10,960 --> 00:12:11,620
+Oh.
+
+286
+00:12:11,620 --> 00:12:13,300
+So I have two things on that.
+
+287
+00:12:13,300 --> 00:12:16,960
+One is that I watched it from a swimming pool, which is a very good way to watch the Hugo Awards.
+
+288
+00:12:16,960 --> 00:12:17,660
+Oh.
+
+289
+00:12:17,660 --> 00:12:19,600
+I put my waterproof headphones on.
+
+290
+00:12:19,600 --> 00:12:21,180
+I put the iPad on the side of the pool.
+
+291
+00:12:21,180 --> 00:12:21,780
+Very nice.
+
+292
+00:12:21,780 --> 00:12:25,300
+I mean, I think the other thing to say is that I knew who all the winners were,
+
+293
+00:12:25,300 --> 00:12:28,680
+which does make it slightly less exciting.
+
+294
+00:12:28,680 --> 00:12:31,660
+Oh, because you did the beautiful diagrams and everything.
+
+295
+00:12:31,660 --> 00:12:33,320
+Yeah.
+
+296
+00:12:33,860 --> 00:12:38,740
+If you have seen and loved those beautiful, colorful diagrams, thank Liz Batty.
+
+297
+00:12:38,740 --> 00:12:39,360
+Yeah.
+
+298
+00:12:39,360 --> 00:12:41,360
+So just to say, I mean, I think we'll get to stats later,
+
+299
+00:12:41,360 --> 00:12:46,080
+but I have seen all the Hugo stats and had for a few weeks, which is quite weird.
+
+300
+00:12:46,080 --> 00:12:47,080
+That is weird.
+
+301
+00:12:47,080 --> 00:12:48,620
+I don't think I could be trusted.
+
+302
+00:12:48,620 --> 00:12:51,020
+Well, it was very difficult because, of course,
+
+303
+00:12:51,020 --> 00:12:53,580
+I was talking to people knowing if they were going to win.
+
+304
+00:12:53,580 --> 00:12:54,440
+It's weird.
+
+305
+00:12:54,440 --> 00:12:59,360
+So when I said eight days of Diana Wynne-Jones is going to win,
+
+306
+00:12:59,360 --> 00:13:00,900
+you were like, nothing.
+
+307
+00:13:00,900 --> 00:13:03,500
+I was like, I can't say anything.
+
+308
+00:13:03,500 --> 00:13:07,840
+You definitely can't be like, yup.
+
+309
+00:13:07,840 --> 00:13:10,860
+That would be a breach of confidentiality.
+
+310
+00:13:10,860 --> 00:13:12,500
+I said nothing to know him.
+
+311
+00:13:12,500 --> 00:13:13,280
+That's true.
+
+312
+00:13:13,280 --> 00:13:14,360
+That is true.
+
+313
+00:13:14,360 --> 00:13:17,060
+Trust, trusted and extremely blunt scientist.
+
+314
+00:13:17,060 --> 00:13:20,540
+Can I carry on on Hugo Road?
+
+315
+00:13:20,540 --> 00:13:21,520
+Because I had another thought.
+
+316
+00:13:21,520 --> 00:13:25,200
+I think I'm more in favor of it than most people.
+
+317
+00:13:25,200 --> 00:13:31,620
+But I think the way it could have been done is the first time do like a full on professionally
+
+318
+00:13:31,620 --> 00:13:34,540
+rehearsed version because I thought the host did fine.
+
+319
+00:13:34,640 --> 00:13:37,740
+But they'd obviously kind of got some people to join in with them.
+
+320
+00:13:37,740 --> 00:13:41,360
+And those people were basically, because they didn't know it well enough, kind of staring
+
+321
+00:13:41,360 --> 00:13:42,140
+down at their copies.
+
+322
+00:13:42,140 --> 00:13:44,420
+And it did not make for super engaging watching.
+
+323
+00:13:44,420 --> 00:13:49,440
+But I think if you'd had one really good go at it, and then the host kind of, you know,
+
+324
+00:13:49,440 --> 00:13:52,740
+reprised it every so often, it would be like, oh, yeah, the little songs come back.
+
+325
+00:13:52,920 --> 00:13:55,360
+Not, oh, that's that song from the beginning that's come back again.
+
+326
+00:13:55,360 --> 00:13:56,420
+Yeah, I agree.
+
+327
+00:13:56,420 --> 00:13:58,700
+So how many times did they play it?
+
+328
+00:13:58,700 --> 00:14:00,720
+I think it was, well, they sang it.
+
+329
+00:14:00,720 --> 00:14:03,340
+And I, so they sang the opening number.
+
+330
+00:14:03,340 --> 00:14:09,320
+And then I'm not going to say it was between every single category, but it felt like it was
+
+331
+00:14:09,320 --> 00:14:10,640
+between every single category.
+
+332
+00:14:10,640 --> 00:14:11,560
+So it may have been.
+
+333
+00:14:11,560 --> 00:14:17,460
+When one of the hosts walked onto the stage, they would sing down, down, down the Hugo Road.
+
+334
+00:14:17,460 --> 00:14:18,960
+So they would just sing the refrain.
+
+335
+00:14:18,960 --> 00:14:21,820
+And then they did another full version at the end.
+
+336
+00:14:22,260 --> 00:14:25,040
+Yeah, it's like if they'd walked off while someone was giving a speech or someone else
+
+337
+00:14:25,040 --> 00:14:28,420
+was presenting, when they walked back on, they did a little like down the Hugo Road thing.
+
+338
+00:14:28,420 --> 00:14:29,020
+Yeah.
+
+339
+00:14:29,020 --> 00:14:29,720
+Okay.
+
+340
+00:14:29,720 --> 00:14:32,620
+I think it could have been done a little bit less.
+
+341
+00:14:32,620 --> 00:14:33,660
+And it would have been cute.
+
+342
+00:14:33,660 --> 00:14:38,160
+Because I do think that the rewritten lyrics, what I could make out of them were funny and
+
+343
+00:14:38,160 --> 00:14:38,420
+cute.
+
+344
+00:14:38,420 --> 00:14:40,740
+I think it was just too much, too much of a good thing.
+
+345
+00:14:40,740 --> 00:14:43,980
+I think, yeah, a little can go a long way.
+
+346
+00:14:43,980 --> 00:14:44,600
+Yeah.
+
+347
+00:14:44,600 --> 00:14:46,260
+We like a little bit whimsy.
+
+348
+00:14:46,260 --> 00:14:46,700
+Yeah.
+
+349
+00:14:46,700 --> 00:14:51,600
+I think it's fair to say that there was a few finalists before the
+
+350
+00:14:51,600 --> 00:14:57,040
+ceremony that were not entirely convinced by the concept of the Hugo Road song.
+
+351
+00:14:57,040 --> 00:14:57,880
+Correct.
+
+352
+00:14:57,880 --> 00:15:03,320
+We were initially told that all of the winners would be called up onto the stage to join in.
+
+353
+00:15:03,320 --> 00:15:06,420
+And then I don't think anyone was ever untold that.
+
+354
+00:15:06,420 --> 00:15:12,420
+At least one winner reported that they had planned to make their way to this backstage to
+
+355
+00:15:12,420 --> 00:15:14,020
+come up on stage and sing the thing.
+
+356
+00:15:14,160 --> 00:15:17,020
+Then they were like, what am I supposed to be doing?
+
+357
+00:15:17,020 --> 00:15:21,660
+So it seemed like maybe that idea was nixed, but it wasn't communicated that it was nixed.
+
+358
+00:15:21,660 --> 00:15:24,240
+And most people were not intending to do it anyway.
+
+359
+00:15:24,240 --> 00:15:25,280
+A little confusing.
+
+360
+00:15:25,280 --> 00:15:27,140
+I didn't win, so it didn't affect me.
+
+361
+00:15:27,140 --> 00:15:27,960
+Thank God.
+
+362
+00:15:27,960 --> 00:15:30,600
+That is fair.
+
+363
+00:15:30,600 --> 00:15:36,920
+So yes, so Eight Days of Diana Wynne-Jones by Emily Tesh and Rebecca Framo won Best Fan
+
+364
+00:15:36,920 --> 00:15:37,300
+Cast.
+
+365
+00:15:37,300 --> 00:15:39,220
+Congratulations to them.
+
+366
+00:15:39,220 --> 00:15:44,600
+And then in the other fan categories, we had Sarah Felix won in Best Fan Artist.
+
+367
+00:15:44,600 --> 00:15:49,960
+Abigail Nussbaum, friend of the podcast, and all around Good Egg won Best Fan Writer.
+
+368
+00:15:49,960 --> 00:15:50,840
+Congratulations, Abigail.
+
+369
+00:15:51,240 --> 00:15:55,320
+And Best Fan Zine was Black Nerd Problems, edited by William Evans and Omar Holman.
+
+370
+00:15:55,320 --> 00:16:00,820
+If you haven't watched the ceremony, then it is worth watching, I think, Sarah Felix's
+
+371
+00:16:00,820 --> 00:16:05,820
+speech, because she gave a very heartfelt speech about kind of how important community had been
+
+372
+00:16:05,820 --> 00:16:08,320
+to her this year, and it was very nice.
+
+373
+00:16:08,320 --> 00:16:09,520
+It was, I agree.
+
+374
+00:16:09,520 --> 00:16:12,480
+And Rebecca Framo actually gave a really good speech as well.
+
+375
+00:16:12,480 --> 00:16:13,500
+She did.
+
+376
+00:16:13,500 --> 00:16:14,880
+Obviously, Abigail.
+
+377
+00:16:14,880 --> 00:16:18,440
+I did ask, Abigail, how many speeches have you written?
+
+378
+00:16:18,560 --> 00:16:23,060
+Because she was nominated twice, knowing when I said that, I knew she was going to win.
+
+379
+00:16:23,060 --> 00:16:24,880
+And she was like, oh, I haven't really written one.
+
+380
+00:16:24,880 --> 00:16:27,680
+So well done for your off-the-cuff speech.
+
+381
+00:16:27,680 --> 00:16:31,660
+Well done for you keeping a lid on it, man.
+
+382
+00:16:31,660 --> 00:16:33,200
+I am really impressed.
+
+383
+00:16:33,200 --> 00:16:36,640
+I probably shouldn't have asked, because then I was like, but I can't tell you to write a
+
+384
+00:16:36,640 --> 00:16:37,120
+speech, can I?
+
+385
+00:16:37,120 --> 00:16:37,500
+No.
+
+386
+00:16:37,500 --> 00:16:40,320
+Always write a speech, even if you don't think you're going to win.
+
+387
+00:16:40,320 --> 00:16:41,260
+That's my advice.
+
+388
+00:16:41,260 --> 00:16:41,800
+Yeah.
+
+389
+00:16:41,800 --> 00:16:47,580
+I remember, and this is slightly foreshadowing, when I presented a Hugo Award, I was on my
+
+390
+00:16:47,580 --> 00:16:49,280
+Taftip in 2011, I got to present a Hugo Award.
+
+391
+00:16:49,280 --> 00:16:49,680
+Great honor.
+
+392
+00:16:49,680 --> 00:16:54,040
+I can't remember who the director of the ceremony was, but she was like, have you got your speech?
+
+393
+00:16:54,040 --> 00:16:54,980
+I was like, I haven't got a speech.
+
+394
+00:16:54,980 --> 00:16:56,780
+She looked, she could be a look.
+
+395
+00:16:56,780 --> 00:17:03,400
+And I was like, I'm not the, and so I basically just said, it's very important that fan writing
+
+396
+00:17:03,400 --> 00:17:03,840
+happens.
+
+397
+00:17:03,840 --> 00:17:04,600
+Here are the nominees.
+
+398
+00:17:04,600 --> 00:17:06,680
+Because no one was there for me.
+
+399
+00:17:06,680 --> 00:17:10,960
+And then I pronounced one of the finalists' names wrong, and it was the winner.
+
+400
+00:17:10,960 --> 00:17:12,440
+So I pronounced it wrong twice.
+
+401
+00:17:12,440 --> 00:17:13,780
+But fortunately, she's a very good friend.
+
+402
+00:17:13,780 --> 00:17:17,340
+So she just bollocked me later in the bar, and that was all good and sorted very quickly.
+
+403
+00:17:17,340 --> 00:17:20,980
+And then when I won one, I said I'd aim three times to make it right.
+
+404
+00:17:20,980 --> 00:17:27,340
+And so I speak in the conversation we're about to have as a man who has pronounced the name
+
+405
+00:17:27,340 --> 00:17:30,080
+of a finalist wrong on stage at the Hugos.
+
+406
+00:17:30,080 --> 00:17:35,520
+And therefore, I am not, I am not casting aspersions unfairly.
+
+407
+00:17:35,520 --> 00:17:36,920
+These are my bona fides.
+
+408
+00:17:37,240 --> 00:17:40,820
+Have either of you ever pronounced someone's names wrong on the Hugos stage?
+
+409
+00:17:40,820 --> 00:17:43,440
+No, I've never been on a Hugos stage.
+
+410
+00:17:43,440 --> 00:17:47,040
+That's true, because you did a, I remember your video where it had chairs going.
+
+411
+00:17:47,040 --> 00:17:47,680
+Mm-hmm.
+
+412
+00:17:47,680 --> 00:17:49,080
+I love my video.
+
+413
+00:17:49,080 --> 00:17:50,400
+It was so good.
+
+414
+00:17:50,400 --> 00:17:52,300
+It took me a whole weekend to make that.
+
+415
+00:17:52,300 --> 00:17:56,580
+Listen, I was 40 years old trying to make a TikTok for the first time.
+
+416
+00:17:56,580 --> 00:17:59,880
+Liz, you ever said anyone's name wrong?
+
+417
+00:17:59,880 --> 00:18:00,900
+I don't think so.
+
+418
+00:18:00,900 --> 00:18:04,740
+But I've only been on the Hugos stage once, and it is something off a blur.
+
+419
+00:18:05,100 --> 00:18:07,480
+So that is fair.
+
+420
+00:18:07,480 --> 00:18:08,160
+You did great.
+
+421
+00:18:08,160 --> 00:18:08,440
+That is not so fair.
+
+422
+00:18:08,440 --> 00:18:11,380
+It was cute how you introduced yourselves like you do on the show.
+
+423
+00:18:11,380 --> 00:18:11,960
+I loved it.
+
+424
+00:18:11,960 --> 00:18:16,100
+I think I only named Alison and John, and I'm pretty sure I got your names right.
+
+425
+00:18:16,100 --> 00:18:20,280
+Well, you said Smellison and Bon, but I don't know when Barry's doing it.
+
+426
+00:18:20,280 --> 00:18:24,360
+Liz has always thought that I was a city.
+
+427
+00:18:24,360 --> 00:18:26,520
+I've never wanted to correct her.
+
+428
+00:18:27,520 --> 00:18:34,980
+So this is all because the hosts of the ceremony did not correctly pronounce the names of all of the finalists.
+
+429
+00:18:34,980 --> 00:18:35,840
+Yeah.
+
+430
+00:18:35,840 --> 00:18:36,600
+Yes.
+
+431
+00:18:36,600 --> 00:18:40,860
+How did they pronounce the names of the Hugo girl finalists?
+
+432
+00:18:40,860 --> 00:18:41,780
+Were you correct?
+
+433
+00:18:42,240 --> 00:18:45,240
+So K Tempest Bradford said, Amy Saley.
+
+434
+00:18:45,240 --> 00:18:47,500
+And then she paused and said Sally.
+
+435
+00:18:47,500 --> 00:18:49,160
+So she course corrected.
+
+436
+00:18:49,160 --> 00:18:54,920
+You know, given how many hurt feelings there are after the ceremony based on the mispronunciations,
+
+437
+00:18:54,920 --> 00:18:57,240
+I think it's a little gauche of me to say so.
+
+438
+00:18:57,240 --> 00:18:59,800
+But also, this was actually a highlight for me.
+
+439
+00:18:59,800 --> 00:19:00,940
+So I want to mention it.
+
+440
+00:19:00,940 --> 00:19:08,040
+When she said our show name, she said it, to borrow a phrase from Octothorpe, she said it sufficiently sassily.
+
+441
+00:19:08,040 --> 00:19:11,540
+She said, Hugo girl.
+
+442
+00:19:11,540 --> 00:19:12,840
+And I was like, yes.
+
+443
+00:19:12,840 --> 00:19:15,060
+Because most people don't.
+
+444
+00:19:15,060 --> 00:19:19,320
+And some people actually just call us the Hugo girls, missing the joke entirely.
+
+445
+00:19:19,320 --> 00:19:21,940
+So when she said that, it was early in the evening.
+
+446
+00:19:21,940 --> 00:19:23,820
+Not much had happened at that point.
+
+447
+00:19:23,820 --> 00:19:25,360
+And it made me very happy.
+
+448
+00:19:25,360 --> 00:19:27,380
+But then, you know, people's actual names.
+
+449
+00:19:27,380 --> 00:19:29,320
+There were problems with people's actual names.
+
+450
+00:19:29,320 --> 00:19:31,000
+So I feel a little bad saying that.
+
+451
+00:19:31,000 --> 00:19:32,560
+But it was a highlight of my evening.
+
+452
+00:19:32,560 --> 00:19:34,860
+So I wanted to mention that.
+
+453
+00:19:34,860 --> 00:19:36,180
+It was funny and cute.
+
+454
+00:19:36,180 --> 00:19:39,940
+We have a group chat called Hugo Octothorpe Girl.
+
+455
+00:19:39,940 --> 00:19:42,660
+And Hispania has been trying to pronounce it correctly.
+
+456
+00:19:42,660 --> 00:19:47,700
+And finds it is annoyed by the words and the letters.
+
+457
+00:19:47,700 --> 00:19:49,700
+But I pronounce it Hugo Octothorpe Girl.
+
+458
+00:19:49,700 --> 00:19:50,580
+Oh.
+
+459
+00:19:50,580 --> 00:19:53,980
+I think you say it however your heart tells you to say it.
+
+460
+00:19:53,980 --> 00:19:58,460
+Unless there's a pronunciation guide that has a correct pronunciation written down in it, right?
+
+461
+00:19:58,720 --> 00:20:01,240
+I have not seen a style guide for our group chat.
+
+462
+00:20:01,240 --> 00:20:03,080
+Yet.
+
+463
+00:20:03,080 --> 00:20:07,160
+And nor was there one apparently for the Hugo Awards.
+
+464
+00:20:07,160 --> 00:20:09,960
+So there was one.
+
+465
+00:20:09,960 --> 00:20:15,380
+Speaking as like the Hugo liaison, we asked every finalist.
+
+466
+00:20:15,380 --> 00:20:15,880
+Yeah.
+
+467
+00:20:15,880 --> 00:20:17,900
+I mean, we submitted our pronunciations.
+
+468
+00:20:17,900 --> 00:20:18,520
+Yeah.
+
+469
+00:20:18,520 --> 00:20:23,360
+Because, you know, we thought it's probably important that we let people tell us how to pronounce their names.
+
+470
+00:20:23,560 --> 00:20:25,020
+And so we let them do that.
+
+471
+00:20:25,020 --> 00:20:34,080
+And then the deputy Hugo administrator spent quite a lot of time converting that into information that could be used in the ceremony.
+
+472
+00:20:34,080 --> 00:20:37,380
+And that information was not used in the ceremony.
+
+473
+00:20:37,380 --> 00:20:38,560
+So what do we think happened?
+
+474
+00:20:38,560 --> 00:20:39,360
+Do we know what happened?
+
+475
+00:20:39,360 --> 00:20:40,860
+Can you report on what happened?
+
+476
+00:20:41,080 --> 00:20:42,120
+And if you can't, that's fine.
+
+477
+00:20:42,120 --> 00:20:44,120
+Oh, I don't know what happened.
+
+478
+00:20:44,120 --> 00:20:45,400
+You don't know what happened.
+
+479
+00:20:45,400 --> 00:20:45,600
+Okay.
+
+480
+00:20:45,600 --> 00:20:46,880
+I don't know for sure.
+
+481
+00:20:46,880 --> 00:20:52,360
+But what I do know is that the pronunciations were known in the WUSFUS division.
+
+482
+00:20:52,360 --> 00:20:58,300
+And it was, there were good faith attempts made to communicate that to the rest of the convention.
+
+483
+00:20:58,300 --> 00:21:02,760
+And what the rest of the convention did with that information, that is where I cannot, I don't know.
+
+484
+00:21:03,020 --> 00:21:05,020
+I don't know at what point that broke down.
+
+485
+00:21:05,020 --> 00:21:07,180
+It's like Belfast with the Titanic.
+
+486
+00:21:07,180 --> 00:21:08,660
+It was fine when she left.
+
+487
+00:21:08,660 --> 00:21:15,500
+I don't know whether it was that it was given to the hosts and the hosts didn't use it.
+
+488
+00:21:15,500 --> 00:21:18,580
+Or whether the ceremony director did not give it to the hosts.
+
+489
+00:21:18,580 --> 00:21:21,040
+But it was, those are my two guesses.
+
+490
+00:21:21,040 --> 00:21:22,560
+But I don't know.
+
+491
+00:21:22,560 --> 00:21:26,800
+They seem to have a stack of loose papers on the lectern.
+
+492
+00:21:27,260 --> 00:21:30,040
+So there was a lot of paper shuffling going on.
+
+493
+00:21:30,040 --> 00:21:34,540
+It just seemed like the information was not organized.
+
+494
+00:21:34,540 --> 00:21:38,140
+And then several times, maybe not several, several might be too many.
+
+495
+00:21:38,140 --> 00:21:45,420
+But there were a couple of times at least that they said they didn't have a pronunciation guide for a particular title or name.
+
+496
+00:21:45,420 --> 00:21:51,220
+So yeah, just, it seemed like there was a lack of coordination or preparation or something.
+
+497
+00:21:51,220 --> 00:21:57,200
+And I will say that I think that Nisi Shaw and Kay Tempest Bradford both have this genuinely charming,
+
+498
+00:21:57,480 --> 00:21:59,140
+fun energy about them.
+
+499
+00:21:59,140 --> 00:22:01,680
+And that is not a substitute for preparation.
+
+500
+00:22:01,680 --> 00:22:05,420
+So they both seemed lovely and happy and fun and nice.
+
+501
+00:22:05,420 --> 00:22:08,060
+And also, it was a mess.
+
+502
+00:22:08,060 --> 00:22:09,640
+And a lot of people's names were messed up.
+
+503
+00:22:09,640 --> 00:22:17,600
+And there was the one author who was not mentioned entirely as a finalist until the entire audience began to shout.
+
+504
+00:22:17,600 --> 00:22:18,580
+Who was that?
+
+505
+00:22:18,580 --> 00:22:19,600
+Camilla Cole.
+
+506
+00:22:19,600 --> 00:22:20,900
+I did not know that.
+
+507
+00:22:20,900 --> 00:22:22,320
+Which I hope I'm saying correctly.
+
+508
+00:22:22,320 --> 00:22:23,380
+Oh, yeah.
+
+509
+00:22:23,380 --> 00:22:24,340
+Is that Astounding Award?
+
+510
+00:22:24,340 --> 00:22:25,500
+I think it was Astounding Award.
+
+511
+00:22:25,500 --> 00:22:27,120
+It's Lodestown, I think.
+
+512
+00:22:27,500 --> 00:22:28,060
+Oh, I'm sorry.
+
+513
+00:22:28,060 --> 00:22:28,520
+Thank you.
+
+514
+00:22:28,520 --> 00:22:29,500
+Lodestown Award.
+
+515
+00:22:29,500 --> 00:22:31,940
+It was, she was the last one on the list.
+
+516
+00:22:31,940 --> 00:22:36,840
+And apparently her name was printed on a second sheet, according to what Kay Tempest Bradford said.
+
+517
+00:22:36,840 --> 00:22:39,600
+She said, oh, there's a, she read the first five.
+
+518
+00:22:39,600 --> 00:22:41,200
+And she said, and the winner is.
+
+519
+00:22:41,200 --> 00:22:46,400
+And then the whole audience began yelling and shouting and saying, you left one off.
+
+520
+00:22:46,400 --> 00:22:48,760
+And she said, oh, no, did I leave one off?
+
+521
+00:22:48,760 --> 00:22:50,820
+And then she said, oh, there it is.
+
+522
+00:22:50,820 --> 00:22:52,120
+It's on a second sheet of paper.
+
+523
+00:22:52,120 --> 00:22:57,980
+And then I understand in the moment you're embarrassed and you're casting about for something to say.
+
+524
+00:22:58,060 --> 00:23:00,980
+And she said, well, she's on a separate sheet of paper.
+
+525
+00:23:00,980 --> 00:23:02,200
+She must be the winner.
+
+526
+00:23:02,200 --> 00:23:05,540
+Oh, and then she wasn't the winner.
+
+527
+00:23:05,540 --> 00:23:06,440
+Oh, no.
+
+528
+00:23:06,440 --> 00:23:07,580
+It was a lot.
+
+529
+00:23:07,580 --> 00:23:08,920
+It was really uncomfortable.
+
+530
+00:23:09,040 --> 00:23:12,920
+And I mean, I was just sitting there minding my business and I was uncomfortable.
+
+531
+00:23:12,920 --> 00:23:16,100
+So I can't imagine how that finalist felt.
+
+532
+00:23:16,100 --> 00:23:18,880
+Probably really bad and awkward and.
+
+533
+00:23:18,880 --> 00:23:22,200
+Every muscle in my body clenched at thinking about that.
+
+534
+00:23:22,200 --> 00:23:25,580
+I'm not sure I can bring myself to watch it.
+
+535
+00:23:25,580 --> 00:23:26,260
+Yeah.
+
+536
+00:23:26,260 --> 00:23:27,440
+Oh, no.
+
+537
+00:23:27,440 --> 00:23:30,640
+We could just stop recording if everyone needs to just lie down.
+
+538
+00:23:30,640 --> 00:23:35,140
+This is in some ways a dead art now, but I'm quite good at print layout.
+
+539
+00:23:35,420 --> 00:23:40,440
+Some listeners will know that I was deputy division head for publications for LUNCON in 2014.
+
+540
+00:23:40,440 --> 00:23:43,160
+But I also often do like Eastcon newsletters.
+
+541
+00:23:43,160 --> 00:23:50,660
+Like the very first volunteering job I ever did at a convention was when I did the program for my second convention, which was Year of the Teladu.
+
+542
+00:23:50,660 --> 00:23:52,380
+So I have opinions about layout.
+
+543
+00:23:52,380 --> 00:24:00,320
+I think one of the things is that there is they clearly need someone from publications to look at the documents they give to the people doing the Hugo ceremony,
+
+544
+00:24:00,320 --> 00:24:04,780
+because there's no way you have the sixth of six people on the second sheet.
+
+545
+00:24:04,780 --> 00:24:05,340
+Sure.
+
+546
+00:24:05,340 --> 00:24:13,240
+You page break that shit so that it's all in some in one block because people are stressed out and you need to make it easy for them to see what it is they're doing.
+
+547
+00:24:13,240 --> 00:24:16,960
+So like I can see that needed to be better on the paper.
+
+548
+00:24:16,960 --> 00:24:20,320
+And I can imagine how awful you would feel if you did it.
+
+549
+00:24:20,320 --> 00:24:21,400
+And I can see why she said that.
+
+550
+00:24:21,400 --> 00:24:23,180
+But also it sounds excruciating.
+
+551
+00:24:23,180 --> 00:24:24,180
+It was.
+
+552
+00:24:24,180 --> 00:24:34,160
+And I think the fact that the last person was on a different sheet of paper really reveals that there was a lack of preparation, but also a system failure.
+
+553
+00:24:34,160 --> 00:24:40,660
+I would guess that there is a system failure with whoever was in charge of compiling this, putting it together.
+
+554
+00:24:40,800 --> 00:24:42,500
+I don't think we can just pile on the hosts.
+
+555
+00:24:42,500 --> 00:24:47,000
+I think that the, you know, the convention has plenty of responsibility for this.
+
+556
+00:24:47,000 --> 00:24:50,660
+And I remain surprised that we have not heard from the convention about it.
+
+557
+00:24:50,660 --> 00:24:56,100
+Especially because yesterday I saw a post on Blue Sky from Seattle Convention that said,
+
+558
+00:24:56,100 --> 00:24:58,080
+Do you have feedback for us?
+
+559
+00:24:58,080 --> 00:25:00,700
+Send your feedback to such and such email address.
+
+560
+00:25:00,700 --> 00:25:03,580
+And I was like, I think.
+
+561
+00:25:03,580 --> 00:25:06,140
+Ooh, I have feedback for you is what you thought.
+
+562
+00:25:06,140 --> 00:25:08,640
+It is good to solicit feedback.
+
+563
+00:25:08,640 --> 00:25:20,800
+But at this point, it makes it seem like it may not be taken too seriously because there has been a lot of feedback that has been offered voluntarily in the past week and no response to it.
+
+564
+00:25:20,800 --> 00:25:26,400
+And I am all for taking a pause to consider one's words before issuing a statement.
+
+565
+00:25:26,400 --> 00:25:29,680
+You know, I'm a lawyer, so I'm all about let's think before we talk.
+
+566
+00:25:29,680 --> 00:25:37,500
+But I think like a just a preliminary, hey, we realize we screwed this up and hurt people and we are really sorry.
+
+567
+00:25:37,500 --> 00:25:38,240
+More to come.
+
+568
+00:25:38,240 --> 00:25:41,220
+Something like that would be a good idea.
+
+569
+00:25:41,220 --> 00:25:42,420
+But we haven't seen that.
+
+570
+00:25:42,420 --> 00:25:49,880
+And that's too bad because I do, you know, everybody that I dealt with with this convention seemed like a nice person with good intentions.
+
+571
+00:25:50,400 --> 00:25:52,740
+And I think that they are nice people with good intentions.
+
+572
+00:25:52,740 --> 00:25:54,800
+And so I am I'm confused.
+
+573
+00:25:54,800 --> 00:25:56,860
+I've been confused by this whole thing.
+
+574
+00:25:56,860 --> 00:26:03,560
+Yeah, I think like there's no doubt in my mind that the two hosts kind of they had good intentions.
+
+575
+00:26:03,560 --> 00:26:04,880
+They have been around.
+
+576
+00:26:04,880 --> 00:26:08,520
+They know that pronouncing names poorly is an issue.
+
+577
+00:26:08,520 --> 00:26:16,880
+And indeed, people have been finding the tweets from 2020 saying they were aware of like when, you know, George R.R. Martin did this.
+
+578
+00:26:17,640 --> 00:26:21,260
+And I think we all remember kind of the well, I was watching it live.
+
+579
+00:26:21,260 --> 00:26:25,040
+Remember the kind of uncomfortable or really situation.
+
+580
+00:26:25,240 --> 00:26:28,660
+So I'm sure they were like doing their best to avoid that.
+
+581
+00:26:28,660 --> 00:26:33,380
+But there's obviously been some failure and we don't know where.
+
+582
+00:26:33,380 --> 00:26:36,140
+And I think you're right in saying, look, there could be multiple things.
+
+583
+00:26:36,140 --> 00:26:39,520
+It could be that you do the run through with the script and it all works fine.
+
+584
+00:26:39,520 --> 00:26:41,580
+But that's because you're in an empty theater.
+
+585
+00:26:41,580 --> 00:26:52,240
+And then when there's thousands of people there, you get nervous and you get pages and you don't realize it until you get there, which is something that the ceremony organizers should be figuring out and addressing.
+
+586
+00:26:52,840 --> 00:26:58,400
+I'm absolutely sure that like once you've got one thing wrong, it snowballs.
+
+587
+00:26:58,400 --> 00:27:02,680
+And you if you get the next thing wrong and notice it, then you start to feel even worse.
+
+588
+00:27:02,680 --> 00:27:07,640
+And then you start to feel you have to kind of apologize on the spot and it just snowballs from there.
+
+589
+00:27:07,640 --> 00:27:11,800
+But maybe we need to build in more guest presenters.
+
+590
+00:27:11,800 --> 00:27:13,280
+So they had a couple of guest presenters.
+
+591
+00:27:13,280 --> 00:27:19,200
+But maybe if you had a few more, that would at least give the main host kind of time to kind of, OK, I've got five minutes now.
+
+592
+00:27:19,200 --> 00:27:20,200
+I'm going to chill.
+
+593
+00:27:20,200 --> 00:27:21,060
+I'm going to regroup.
+
+594
+00:27:21,060 --> 00:27:22,960
+I'm going to go back and start afresh.
+
+595
+00:27:22,960 --> 00:27:25,460
+You know, maybe they didn't have enough rehearsal time.
+
+596
+00:27:25,460 --> 00:27:29,380
+Maybe they didn't get everything on time to do the rehearsals.
+
+597
+00:27:29,380 --> 00:27:31,020
+Maybe they just didn't rehearse enough.
+
+598
+00:27:31,020 --> 00:27:33,940
+Maybe they didn't spend enough time going over and over the names.
+
+599
+00:27:34,220 --> 00:27:35,800
+But it all came from somewhere.
+
+600
+00:27:35,800 --> 00:27:40,360
+And I think it's a bit lacking that they haven't said anything about it for over a week.
+
+601
+00:27:40,360 --> 00:27:43,020
+Even if it was just a quick look, it's the end of the con.
+
+602
+00:27:43,020 --> 00:27:43,860
+We're traveling.
+
+603
+00:27:43,860 --> 00:27:45,460
+We'll have a fuller statement later.
+
+604
+00:27:45,780 --> 00:27:49,660
+So what I'm going to say here is that some things have been said on the Internet.
+
+605
+00:27:49,660 --> 00:27:57,040
+So for context, I think we should probably say when George R. R. Martin made a similar mistake at the Hugo Awards in 2020,
+
+606
+00:27:57,040 --> 00:27:58,620
+Kate Tempest Bradford tweeted,
+
+607
+00:27:58,620 --> 00:28:01,100
+Did no one watch these videos before they loaded them up?
+
+608
+00:28:01,100 --> 00:28:02,520
+Why are so many names mispronounced?
+
+609
+00:28:02,520 --> 00:28:04,060
+And then followed that up with,
+
+610
+00:28:04,060 --> 00:28:11,040
+Can I get 80 authors to sign an open letter telling the Hugo Awards to not allow people who allow presenters to mangled names to run the show anymore?
+
+611
+00:28:11,040 --> 00:28:15,040
+Now, obviously, that's a bit different because the 2020 ceremony was videoed.
+
+612
+00:28:15,040 --> 00:28:17,240
+And so really, it should have been possible to do retakes.
+
+613
+00:28:17,240 --> 00:28:24,600
+But also, given that there has not been an apology and it has been over a week, that is interesting.
+
+614
+00:28:24,600 --> 00:28:29,820
+I think it's also interesting if you have a strong opinion that these names are pronounced correctly.
+
+615
+00:28:29,820 --> 00:28:40,940
+It is interesting that that would not go well when you do it, whether that is because you haven't rehearsed or whether it's because you've rehearsed loads and you just make a lot of mistakes on the night.
+
+616
+00:28:41,340 --> 00:28:48,500
+Either way, if you think it's important and you know you've screwed up, you say sorry afterwards and you don't wait to say sorry.
+
+617
+00:28:48,500 --> 00:28:51,040
+Kate Tempest Bradford skeeted to say,
+
+618
+00:28:51,040 --> 00:28:53,660
+Hey everyone, hopping on here very quick to relay the following.
+
+619
+00:28:53,900 --> 00:28:59,640
+I've not been on socials or the computer all week because I caught COVID right after the con and I've been attempted not to cough so hard my lung escapes.
+
+620
+00:28:59,640 --> 00:29:03,240
+I wasn't aware about the convos about the Hugos until a couple of days ago.
+
+621
+00:29:03,240 --> 00:29:04,520
+And she follows up with,
+
+622
+00:29:04,520 --> 00:29:07,100
+Nissy and I plan to release a public statement apology shortly.
+
+623
+00:29:07,100 --> 00:29:09,660
+We haven't yet because I'm still not really feeling great or coherent.
+
+624
+00:29:09,660 --> 00:29:13,440
+And the matter deserves more thought and consideration than I am capable of right this second.
+
+625
+00:29:13,440 --> 00:29:15,420
+I did want folks to know I'm not ignoring it.
+
+626
+00:29:15,460 --> 00:29:22,680
+And so, yeah, I think they're clearly working on an apology, but it's not in the wake of the last five years of discourse.
+
+627
+00:29:22,680 --> 00:29:25,900
+I feel one of the things we have learned is how to apologize.
+
+628
+00:29:25,900 --> 00:29:28,300
+It's not hard.
+
+629
+00:29:28,300 --> 00:29:29,900
+Well, it shouldn't be hard.
+
+630
+00:29:29,900 --> 00:29:30,800
+It is hard.
+
+631
+00:29:30,800 --> 00:29:32,800
+You have to be very brave to say sorry.
+
+632
+00:29:32,800 --> 00:29:35,640
+But a good apology is I am really sorry.
+
+633
+00:29:35,640 --> 00:29:38,940
+I am sorry to the people whose names I mispronounced.
+
+634
+00:29:38,940 --> 00:29:40,400
+It was unacceptable.
+
+635
+00:29:40,840 --> 00:29:42,740
+And next time we will do differently.
+
+636
+00:29:42,740 --> 00:29:44,540
+I just did that off the top of my head.
+
+637
+00:29:44,540 --> 00:29:46,080
+It doesn't require an essay.
+
+638
+00:29:46,080 --> 00:29:46,820
+No.
+
+639
+00:29:46,820 --> 00:29:53,540
+And if you are writing an essay, that says to me that you're centering yourself in the apology and not centering the person that you need to apologize to.
+
+640
+00:29:53,540 --> 00:30:00,140
+Because all of the things you want to put in there to explain why it happened, that's you justifying why it happened.
+
+641
+00:30:00,140 --> 00:30:01,320
+That's not you apologizing.
+
+642
+00:30:01,320 --> 00:30:02,200
+And it's very tempting.
+
+643
+00:30:02,200 --> 00:30:08,260
+But when George R. R. Martin wrote like 3,000 word apology after Con Zeeland, it was like, no, George, you just need to say sorry.
+
+644
+00:30:08,260 --> 00:30:12,480
+I don't need a massive diatribe about like how it all came to be.
+
+645
+00:30:12,480 --> 00:30:14,800
+I just want to know you know you screwed up.
+
+646
+00:30:14,800 --> 00:30:16,760
+Am I off base here, do you think?
+
+647
+00:30:16,760 --> 00:30:17,920
+Or like, what do you reckon?
+
+648
+00:30:17,920 --> 00:30:20,580
+Well, I do want to know why it happened.
+
+649
+00:30:20,580 --> 00:30:24,960
+I mean, I would I think you are I agree with you that the sorry should just be sorry.
+
+650
+00:30:24,960 --> 00:30:26,780
+And I think that that should come first.
+
+651
+00:30:26,780 --> 00:30:29,580
+And then for me, I kind of do want an explanation.
+
+652
+00:30:29,580 --> 00:30:31,920
+Like, why was someone's name on the second page?
+
+653
+00:30:31,920 --> 00:30:33,940
+Why didn't they have pronunciation guides?
+
+654
+00:30:33,940 --> 00:30:38,560
+I think that that helps us understand what we can do better next time.
+
+655
+00:30:38,560 --> 00:30:41,780
+I want to know, did somebody not send this stuff?
+
+656
+00:30:41,780 --> 00:30:42,960
+Did a file get lost?
+
+657
+00:30:42,960 --> 00:30:44,800
+I mean, just what happened?
+
+658
+00:30:44,800 --> 00:30:52,100
+Because I prefer to think that there were there was a series of accidents or something rather than people just didn't care.
+
+659
+00:30:52,280 --> 00:30:54,340
+But I don't know, I guess the accidents are not caring.
+
+660
+00:30:54,340 --> 00:30:54,860
+I don't know.
+
+661
+00:30:54,860 --> 00:30:55,760
+I want to know what happened.
+
+662
+00:30:55,760 --> 00:30:56,720
+Maybe it's just because I'm nosy.
+
+663
+00:30:56,720 --> 00:30:58,320
+I think we want to know what happened.
+
+664
+00:30:58,320 --> 00:31:02,280
+But also, I think 2026 onwards need to know what happened.
+
+665
+00:31:02,280 --> 00:31:04,500
+And maybe that doesn't need to be super public.
+
+666
+00:31:04,500 --> 00:31:11,700
+But I think like someone from 2026 needs to come out and say, yes, we have discussed this with the 2025 crew.
+
+667
+00:31:11,700 --> 00:31:13,000
+And we have done a postmortem.
+
+668
+00:31:13,000 --> 00:31:14,360
+And we know what happened.
+
+669
+00:31:14,360 --> 00:31:17,400
+And this is what we will do differently next time.
+
+670
+00:31:17,560 --> 00:31:20,100
+And that definitely can be later.
+
+671
+00:31:20,100 --> 00:31:22,080
+I think that's a reasonable middle ground.
+
+672
+00:31:22,080 --> 00:31:28,160
+So this may all be moot by the time this episode comes out because we may have the, you know, apology and more discussion.
+
+673
+00:31:28,160 --> 00:31:30,800
+But that's how it stands for us at the moment.
+
+674
+00:31:30,800 --> 00:31:32,640
+We don't know what happened on the night.
+
+675
+00:31:32,640 --> 00:31:40,420
+But I do hope that someone talked to some of the people whose names were missed off, which is Camilla Cole was missed off entirely.
+
+676
+00:31:40,420 --> 00:31:46,300
+And they didn't list the names for, I think, Correo, Semiprozine or the Reddit Fantasy.
+
+677
+00:31:47,080 --> 00:31:51,580
+And I don't know what, I mean, that's a discussion we've had before about how many names do you read out.
+
+678
+00:31:51,580 --> 00:31:57,920
+But again, if they're expecting them to be read out and they weren't, then that would be nice for someone to discuss with them.
+
+679
+00:31:57,920 --> 00:31:58,860
+Yep, I agree.
+
+680
+00:31:58,860 --> 00:32:01,680
+I think the important part is for people to know what to expect.
+
+681
+00:32:01,680 --> 00:32:11,460
+Because if you don't know what to expect and you get there and the team before you or several teams before you are all read out and then yours isn't, I mean, it's impossible to not feel singled out by that.
+
+682
+00:32:11,460 --> 00:32:12,720
+And you look singled out.
+
+683
+00:32:12,720 --> 00:32:17,520
+So even if no one meant to single you out, the audience is also looking at it saying, oh, well, why didn't they read all of those?
+
+684
+00:32:17,520 --> 00:32:18,460
+There must be some reason.
+
+685
+00:32:18,460 --> 00:32:21,820
+And so I think setting, managing people's expectations.
+
+686
+00:32:21,820 --> 00:32:26,260
+And then I am for creating a policy and just sticking with it.
+
+687
+00:32:26,260 --> 00:32:28,480
+There are increasingly a lot of large teams.
+
+688
+00:32:28,640 --> 00:32:35,420
+And so my thought as a member of a four-person team is it would make sense to use the team name and say, we use team names.
+
+689
+00:32:35,420 --> 00:32:40,660
+Unless you are an individual, you know, you're an editor or you, you know, you're in best novel or something like that.
+
+690
+00:32:40,660 --> 00:32:41,340
+You're an individual.
+
+691
+00:32:41,340 --> 00:32:43,300
+I think use the team name.
+
+692
+00:32:43,300 --> 00:32:47,960
+And I know that some people will not be happy with that, but everyone would be treated the same.
+
+693
+00:32:47,960 --> 00:32:49,760
+Expectations would be clear.
+
+694
+00:32:50,080 --> 00:33:00,300
+So, yeah, I just kind of think let's pick something and do that so that we don't have people feeling surprised and hurt on what should be a really special occasion for them.
+
+695
+00:33:00,300 --> 00:33:00,900
+Yeah.
+
+696
+00:33:00,900 --> 00:33:03,140
+So it is, it's a thing.
+
+697
+00:33:03,140 --> 00:33:07,320
+So there have been different approaches to this.
+
+698
+00:33:07,320 --> 00:33:11,620
+Certainly it used to be that only three people could win rockets.
+
+699
+00:33:11,960 --> 00:33:19,160
+So like Plockter, when Allison won for Plockter, they got three rockets and they wouldn't have been able to get more even if like they had wanted to.
+
+700
+00:33:19,160 --> 00:33:26,040
+But I will also note, like looking at the number of people on each team, Carrera has 41 people.
+
+701
+00:33:26,040 --> 00:33:28,920
+And that is, it's a lot of names to read out in a ceremony.
+
+702
+00:33:28,920 --> 00:33:38,760
+Like I'm not saying all of those people, if they are all on the team, all of them get a rocket, all of them get the certificate and the pin, all of them go to the reception, all of them go to the ceremony.
+
+703
+00:33:38,760 --> 00:33:40,360
+I'm not arguing any of that.
+
+704
+00:33:40,540 --> 00:33:45,540
+But what I am saying is that like it is, it's going to take a couple of minutes to read all those names out.
+
+705
+00:33:45,540 --> 00:33:53,220
+And especially if you're dealing with names that you're reading a pronunciation guide for and you're nervous, that might, you know, might not be smooth.
+
+706
+00:33:53,220 --> 00:33:58,060
+And so I could see like a rule where you have like, you know, if you've got more than 20 people, we want to use a team name.
+
+707
+00:33:58,060 --> 00:34:00,160
+I could see a rule that just says we use team names for everything.
+
+708
+00:34:00,160 --> 00:34:05,000
+I would quite like it to just be like a decision that we make and stick to.
+
+709
+00:34:05,080 --> 00:34:10,500
+The problem is like getting Worldcons to agree on a course of action voluntarily is impossible.
+
+710
+00:34:10,880 --> 00:34:17,140
+And it seems like the sort of thing we don't want to mandate, like we don't want to go to the business meeting and try and do a constitutional amendment because that seems very heavy handed.
+
+711
+00:34:17,140 --> 00:34:18,960
+So I don't know how you actually achieve it.
+
+712
+00:34:18,960 --> 00:34:26,920
+And you do get the thing where like, you know, if you do have all your names on the slide and they're not read out, you do think, well, why did everyone else get and not us?
+
+713
+00:34:27,080 --> 00:34:31,780
+And so I remember when it happened at Glasgow that...
+
+714
+00:34:31,780 --> 00:34:32,580
+I think it was Chicago.
+
+715
+00:34:32,580 --> 00:34:34,140
+You mean the semi-prosy one?
+
+716
+00:34:34,140 --> 00:34:35,100
+It was Chicago.
+
+717
+00:34:35,100 --> 00:34:41,940
+Charlie Jane Anders and Annalene Newitz were the Toastmasters and they read out Team Strange Horizons.
+
+718
+00:34:41,940 --> 00:34:48,380
+That was something that had been agreed in advance, but it still made people laugh in the audience because it was...
+
+719
+00:34:48,380 --> 00:34:51,660
+Firstly, Strange Horizons got their own slide because the masthead was so long.
+
+720
+00:34:52,080 --> 00:34:55,740
+And secondly, it looked weird that they hadn't read it out when they'd read all the others out.
+
+721
+00:34:55,740 --> 00:34:58,200
+And now it's Team Strange Horizons on the slide as well.
+
+722
+00:34:58,200 --> 00:35:00,240
+And so I do think you have to...
+
+723
+00:35:00,240 --> 00:35:02,600
+You have to just manage these things.
+
+724
+00:35:02,600 --> 00:35:08,440
+I don't have a huge problem with deciding there's a limit as long as you don't do that.
+
+725
+00:35:08,440 --> 00:35:17,000
+But I think there has been at least one Hugo Award administrator who was very keen that big teams' gots were not treated as well as they might have been.
+
+726
+00:35:17,000 --> 00:35:19,820
+And I think that was part of a power play by that administrator.
+
+727
+00:35:20,240 --> 00:35:22,060
+And I don't like that sort of thing.
+
+728
+00:35:22,060 --> 00:35:25,680
+But I do think reading 41 names out on stage is a bit much.
+
+729
+00:35:25,680 --> 00:35:28,240
+So, like, I am in favour of some sort of balance.
+
+730
+00:35:28,240 --> 00:35:36,860
+All of that having been said, I do think they should have read them out in this case because there was clearly not a policy or any coherent approach at all, which is not good.
+
+731
+00:35:36,860 --> 00:35:38,900
+And they were asked for pronunciation guides.
+
+732
+00:35:38,900 --> 00:35:42,360
+And if you ask me how to say my name, then my assumption is you're going to say my name.
+
+733
+00:35:42,360 --> 00:35:44,320
+Yes, that is the other thing.
+
+734
+00:35:44,320 --> 00:35:52,100
+So Nisi posted on Blue Sky and they said, you know I love Correo and I was on the stage and it was stupid rather malicious if that helps.
+
+735
+00:35:52,100 --> 00:35:54,160
+But there needs to be something done to make up for the stupidity.
+
+736
+00:35:54,160 --> 00:35:55,820
+Something besides me saying I am sorry.
+
+737
+00:35:55,820 --> 00:35:56,820
+And of course I am sorry.
+
+738
+00:35:56,820 --> 00:35:59,860
+And then said, for context, I was high as a kite on pain meds.
+
+739
+00:36:00,220 --> 00:36:04,820
+Never introduce meds as a way of excusing a thing you did wrong.
+
+740
+00:36:04,820 --> 00:36:06,340
+It never makes anyone feel better.
+
+741
+00:36:06,340 --> 00:36:07,820
+It's really tricky.
+
+742
+00:36:07,820 --> 00:36:21,680
+And, like, I think there is a thing here which is part of the reason that the firestorm has not been quite as immediate and harsh as the one in response to Con Zealand was that I think a lot of people have a lot of goodwill to these two people in this area.
+
+743
+00:36:21,900 --> 00:36:30,420
+But I think the problem is that if you leave it too long to apologise, that goodwill erodes and then people are like, ah, if that goodwill was justified, they would have apologised by now.
+
+744
+00:36:30,420 --> 00:36:33,120
+And what we're now seeing is people being like, no, but where's the sorry?
+
+745
+00:36:33,120 --> 00:36:33,900
+Where's the sorry?
+
+746
+00:36:33,900 --> 00:36:36,600
+And yeah, I think that's the mistake they've made.
+
+747
+00:36:36,600 --> 00:36:46,660
+I think I just say that one thing is, like, no WorldCom, I think, has got away without having to issue apology for something in many years.
+
+748
+00:36:46,660 --> 00:36:47,440
+Glasgow.
+
+749
+00:36:47,440 --> 00:36:47,580
+Glasgow.
+
+750
+00:36:47,920 --> 00:36:53,860
+I mean, I'm not sure Glasgow did, but, well, they kind of had to apologise for Chengdu, though, in a way.
+
+751
+00:36:53,860 --> 00:36:55,660
+Well, yeah, but that wasn't their fault.
+
+752
+00:36:55,660 --> 00:36:56,860
+That wasn't their fault.
+
+753
+00:36:56,860 --> 00:37:11,240
+No, but you could tell, basically, all WorldCons, there is going to be something where you have to issue a correction or an apology, and so you may as well make sure that you have a plan in place for how you're going to do that.
+
+754
+00:37:11,240 --> 00:37:13,360
+Mm, like a logistical plan.
+
+755
+00:37:13,360 --> 00:37:15,540
+That's a, yeah, I think that's a good point.
+
+756
+00:37:15,540 --> 00:37:19,060
+Well, just, you know, it's a crisis management plan.
+
+757
+00:37:19,060 --> 00:37:21,200
+It's like, okay, what do we do?
+
+758
+00:37:21,200 --> 00:37:23,320
+What are our guidelines for how responsive we are?
+
+759
+00:37:23,320 --> 00:37:28,800
+Like, most cons will have guidelines for like, okay, you have a convention email address doing this role.
+
+760
+00:37:28,800 --> 00:37:32,520
+We aim for emails to be answered in 72 hours, something like that.
+
+761
+00:37:32,780 --> 00:37:45,160
+So you should have a thing which says, okay, these are the people in charge of, I mean, the book stops with the chair, but these are the people who will read over the apology text and make sure it addresses everything.
+
+762
+00:37:45,500 --> 00:37:49,040
+And these are the people who are responsible for disseminating it.
+
+763
+00:37:49,140 --> 00:37:51,420
+And this is a timeline we're aiming to work to.
+
+764
+00:37:51,420 --> 00:37:54,060
+And then things will just happen quickly.
+
+765
+00:37:54,060 --> 00:38:01,980
+And you won't be, you know, I think that working through it, it's like, you know, if you have to do public speaking, you practice what you're going to say.
+
+766
+00:38:01,980 --> 00:38:07,260
+And so actually, unfortunately, practicing these skills is now a useful thing for cons to do.
+
+767
+00:38:07,660 --> 00:38:13,060
+But I think if you do it, then you will not be as bad at it the first time you do it.
+
+768
+00:38:13,060 --> 00:38:17,100
+Like, it's weird that you have to plan apologizing for things you haven't done yet.
+
+769
+00:38:17,100 --> 00:38:18,960
+But it's going to be so much smoother if you do.
+
+770
+00:38:18,960 --> 00:38:21,900
+I think it's notable.
+
+771
+00:38:21,900 --> 00:38:25,420
+Someone noticed something that LA had done wrong.
+
+772
+00:38:25,420 --> 00:38:28,640
+And I think LA apologized within 12 hours.
+
+773
+00:38:28,640 --> 00:38:31,160
+And it had been fixed at the point they apologized.
+
+774
+00:38:31,160 --> 00:38:34,540
+And, you know, you can't not make mistakes.
+
+775
+00:38:34,700 --> 00:38:37,720
+But how you react to mistakes, I think, is very illustrative.
+
+776
+00:38:37,720 --> 00:38:39,240
+Yeah, that's what I was trying to say.
+
+777
+00:38:39,240 --> 00:38:41,120
+And done it very much more succinctly.
+
+778
+00:38:41,120 --> 00:38:48,180
+Grigori Lukin has written a blog post about the mispronunciations and things.
+
+779
+00:38:48,180 --> 00:38:54,820
+But he notes, and like I say, like, Tempest and Nisi have both now said things.
+
+780
+00:38:54,820 --> 00:38:56,680
+But at the time he wrote this, he says,
+
+781
+00:38:56,680 --> 00:38:59,080
+Five days later, there is still no official statement from the organizers.
+
+782
+00:38:59,080 --> 00:39:02,100
+The announcer who giggled at the African name is silent on social media.
+
+783
+00:39:02,420 --> 00:39:07,040
+Aside from a blue sky post by Elizabeth Bear, there has been no discussion, no article, nothing beyond social media rumors.
+
+784
+00:39:07,040 --> 00:39:11,500
+This is being relegated to the dustbin of history, an unfortunate faux pas, an oopsie.
+
+785
+00:39:11,500 --> 00:39:15,400
+And he's absolutely furious, as you can probably tell.
+
+786
+00:39:15,400 --> 00:39:17,420
+And, yeah, I think that's the problem.
+
+787
+00:39:17,420 --> 00:39:20,220
+If you don't do the apology quickly, you let it fester.
+
+788
+00:39:20,220 --> 00:39:22,400
+And then people get properly cross.
+
+789
+00:39:22,400 --> 00:39:27,460
+Because it's how you react to the fuck up that's as important as the fuck up itself, I think.
+
+790
+00:39:27,760 --> 00:39:35,740
+And also, I have generally quite little patience for people who continue to try and stir the drama after there's been an apology and it's been fixed.
+
+791
+00:39:35,740 --> 00:39:37,760
+Because what else can they do?
+
+792
+00:39:37,760 --> 00:39:41,980
+But if you haven't fixed it and you haven't apologized, people are going to keep talking.
+
+793
+00:39:48,860 --> 00:39:50,460
+You have other bullet points, Lori.
+
+794
+00:39:50,460 --> 00:39:51,840
+I do.
+
+795
+00:39:51,840 --> 00:39:59,560
+Yeah, I don't want to spend my whole time griping because the vast majority of my Seattle Worldcon experience was super fun.
+
+796
+00:39:59,560 --> 00:40:01,020
+Seattle is expensive.
+
+797
+00:40:01,020 --> 00:40:05,560
+But as part of Seattle being expensive, our hotel is very nice.
+
+798
+00:40:05,560 --> 00:40:06,780
+We stayed at the Grand Hyatt.
+
+799
+00:40:06,780 --> 00:40:08,020
+It was $1 million.
+
+800
+00:40:09,980 --> 00:40:13,840
+When we checked in, they said, would you like some complimentary champagne?
+
+801
+00:40:13,840 --> 00:40:15,240
+And I started to say no.
+
+802
+00:40:15,240 --> 00:40:17,200
+And then Kevin was like, yes.
+
+803
+00:40:17,200 --> 00:40:19,640
+And then I was like, oh, yeah, this is $1 million.
+
+804
+00:40:19,640 --> 00:40:23,820
+I will take these two ounces of Andre or whatever it is.
+
+805
+00:40:23,820 --> 00:40:24,960
+Give me that.
+
+806
+00:40:24,960 --> 00:40:29,400
+As I lug 17 bags over to the elevator and balance a champagne glass.
+
+807
+00:40:29,400 --> 00:40:31,160
+A glass in my hand.
+
+808
+00:40:31,160 --> 00:40:32,040
+Yes, I will take it.
+
+809
+00:40:32,040 --> 00:40:35,180
+But, yeah, our hotel was very nice and very comfortable and very convenient.
+
+810
+00:40:35,180 --> 00:40:36,940
+We could see the convention center out the window.
+
+811
+00:40:36,940 --> 00:40:38,640
+It was like a one-block walk.
+
+812
+00:40:38,820 --> 00:40:40,880
+The food we had everywhere was wonderful.
+
+813
+00:40:40,880 --> 00:40:45,500
+You know, sometimes I think other cities are a lot nicer than Atlanta.
+
+814
+00:40:45,500 --> 00:40:47,780
+And then I go out to eat in another city.
+
+815
+00:40:47,780 --> 00:40:49,460
+And I'm like, oh, no, I'm staying in Atlanta.
+
+816
+00:40:49,460 --> 00:40:53,440
+It's so much less expensive here than a lot of other places.
+
+817
+00:40:53,440 --> 00:40:56,560
+I tabled for the Edmonton 2030 bid.
+
+818
+00:40:56,560 --> 00:41:03,900
+Should you desire to support the Edmonton bid, you can visit their website and choose a pre-support.
+
+819
+00:41:03,900 --> 00:41:05,300
+I had fun tabling there.
+
+820
+00:41:05,300 --> 00:41:06,880
+I don't know anything about Edmonton.
+
+821
+00:41:07,100 --> 00:41:12,320
+But since Kevin is Canadian, we're, you know, we kind of have to support the Canadian bids.
+
+822
+00:41:12,320 --> 00:41:16,700
+And our friends, Olav Rockne and Amanda Walker-Ruck are heading it up.
+
+823
+00:41:16,700 --> 00:41:19,980
+And so we did a few hours at the bid table.
+
+824
+00:41:19,980 --> 00:41:22,360
+And now I know a little bit about Edmonton.
+
+825
+00:41:22,360 --> 00:41:28,480
+And it is funny how when people come up to a table when you're sitting there and they think, oh, you'll know something about Edmonton.
+
+826
+00:41:28,480 --> 00:41:33,020
+And I'm like, I've never been there, but I can point to things on this map.
+
+827
+00:41:33,020 --> 00:41:37,600
+Actually, I can just point to the map and you can figure it out.
+
+828
+00:41:37,600 --> 00:41:40,460
+I can hand you a little postcard to go to the website.
+
+829
+00:41:40,460 --> 00:41:43,800
+If I had fun doing that, it was a nice way to see people and chat with people.
+
+830
+00:41:43,800 --> 00:41:45,360
+I was on one panel.
+
+831
+00:41:45,360 --> 00:41:47,580
+I've never been on a panel at Worldcon before.
+
+832
+00:41:47,700 --> 00:41:57,900
+In fact, I think I've only been on one panel ever, which I did at a very small anime convention here in Atlanta with my friend and Michelle Harris, who writes for Nerds of a Feather.
+
+833
+00:41:57,900 --> 00:42:00,500
+So I was on a panel about pop culture cookbooks.
+
+834
+00:42:00,500 --> 00:42:02,240
+And it was really fun.
+
+835
+00:42:02,240 --> 00:42:05,220
+One of the Our Fantasy members was the moderator.
+
+836
+00:42:05,220 --> 00:42:06,480
+And she did a great job.
+
+837
+00:42:06,540 --> 00:42:10,920
+All the other panelists were authors and a couple of them have written cookbooks.
+
+838
+00:42:10,920 --> 00:42:13,560
+And so I was a little intimidated to be on a panel with them.
+
+839
+00:42:13,560 --> 00:42:15,140
+And they were lovely and nice.
+
+840
+00:42:15,140 --> 00:42:15,960
+And I had a great time.
+
+841
+00:42:15,960 --> 00:42:16,680
+So that was fun.
+
+842
+00:42:16,680 --> 00:42:17,340
+Yeah.
+
+843
+00:42:17,340 --> 00:42:18,920
+Cookbook panels are fun.
+
+844
+00:42:18,920 --> 00:42:25,720
+And I have a good licensed cookbook that I've discussed before, which is my Star Wars one.
+
+845
+00:42:25,720 --> 00:42:31,460
+So like what sort of cookbooks did you recommend or talk about?
+
+846
+00:42:31,460 --> 00:42:39,000
+So I brought three with me, which was possibly a mistake in terms of luggage because my check bag on the way home was over 50 pounds.
+
+847
+00:42:39,000 --> 00:42:43,600
+But I got lucky that they didn't charge me the penalty for going over 50 pounds.
+
+848
+00:42:43,600 --> 00:42:45,480
+It was 47 on the way.
+
+849
+00:42:45,480 --> 00:42:46,860
+And then I bought more books.
+
+850
+00:42:46,860 --> 00:42:48,220
+How unpredictable.
+
+851
+00:42:48,220 --> 00:42:56,280
+If you visit Washington State and you have the opportunity to go to Tacoma, which is not super far from Seattle.
+
+852
+00:42:56,280 --> 00:42:59,680
+They have the Tacoma Book Center, which is an incredible used bookstore.
+
+853
+00:42:59,680 --> 00:43:00,380
+It's gigantic.
+
+854
+00:43:00,800 --> 00:43:03,300
+Every time I go, I buy one million books.
+
+855
+00:43:03,300 --> 00:43:06,840
+And this time I was like, oh, I just want to go browse because I like it so much.
+
+856
+00:43:06,840 --> 00:43:08,080
+But I don't have room in my suitcase.
+
+857
+00:43:08,080 --> 00:43:08,960
+I won't buy anything.
+
+858
+00:43:08,960 --> 00:43:10,120
+That was a lie.
+
+859
+00:43:10,120 --> 00:43:11,520
+I lied to myself.
+
+860
+00:43:11,520 --> 00:43:13,300
+I lied to everyone who could hear me say that.
+
+861
+00:43:13,300 --> 00:43:13,740
+It was a lie.
+
+862
+00:43:13,740 --> 00:43:23,420
+The books that I brought with me were my Star Wars cookbook, which I actually got at the Museum of Pop Culture in Seattle, which is the Life Day Star Wars cookbook.
+
+863
+00:43:23,420 --> 00:43:25,400
+You've done a Hugo girl on it.
+
+864
+00:43:25,400 --> 00:43:25,940
+I remember.
+
+865
+00:43:25,940 --> 00:43:26,940
+Yes.
+
+866
+00:43:27,140 --> 00:43:33,140
+And then I brought Cooking for Wizards, Warriors, and Dragons, which we've also done an episode on.
+
+867
+00:43:33,240 --> 00:43:35,960
+And that was given to us.
+
+868
+00:43:35,960 --> 00:43:39,360
+And we got a review copy from Book Smugglers.
+
+869
+00:43:39,620 --> 00:43:41,260
+That's like a fantasy themed one.
+
+870
+00:43:41,260 --> 00:43:46,080
+And it's lots of different properties and meals inspired by lots of different series.
+
+871
+00:43:46,340 --> 00:43:50,800
+And then I have recently purchased a Star Trek cookbook.
+
+872
+00:43:50,800 --> 00:43:52,720
+It's kind of a survey of Star Trek.
+
+873
+00:43:52,720 --> 00:43:55,200
+It goes all the way back to the original series.
+
+874
+00:43:55,200 --> 00:43:57,280
+And I haven't made anything from that yet.
+
+875
+00:43:57,280 --> 00:43:59,600
+But looking through it, I think it is very promising.
+
+876
+00:43:59,600 --> 00:44:07,940
+And one of my co-panelists, I believe Laura Antonio, I hope I'm saying that correctly, kept thumbing through it during the panel and saying, this looks really good.
+
+877
+00:44:07,940 --> 00:44:08,860
+This looks really good.
+
+878
+00:44:09,040 --> 00:44:13,500
+And it's by a reputable cookbook author, Laura said.
+
+879
+00:44:13,500 --> 00:44:15,300
+So I'm looking forward to making that.
+
+880
+00:44:15,300 --> 00:44:16,660
+It has a lot of fun looking stuff.
+
+881
+00:44:16,660 --> 00:44:23,040
+And they have put a lot of effort in that book toward making the food look interesting.
+
+882
+00:44:23,040 --> 00:44:29,100
+So instead of just my favorite example is from Wookiee Cookies, kind of the OG Star Wars cookbook.
+
+883
+00:44:29,100 --> 00:44:30,940
+Boba Fettuccine Alfredo.
+
+884
+00:44:30,940 --> 00:44:32,080
+Boil some noodles.
+
+885
+00:44:32,080 --> 00:44:34,520
+Dump Alfredo sauce on it.
+
+886
+00:44:34,520 --> 00:44:35,200
+Call it a day.
+
+887
+00:44:35,200 --> 00:44:39,040
+I have to say, I think Boba Fettuccine Alfredo is one of the funniest things I've ever heard.
+
+888
+00:44:39,040 --> 00:44:42,440
+But it's not really, it's not super interesting.
+
+889
+00:44:42,440 --> 00:44:49,640
+This new book seems like they've put a lot of effort into making good recipes that also look kind of unusual, but still appetizing.
+
+890
+00:44:49,640 --> 00:44:50,980
+So I think it's going to be a winner.
+
+891
+00:44:50,980 --> 00:44:53,900
+So I had tons of fun on that panel.
+
+892
+00:44:53,900 --> 00:44:56,880
+And I think that the moderator, Christina, did a really good job.
+
+893
+00:44:56,880 --> 00:44:57,800
+And so it was fun.
+
+894
+00:44:57,800 --> 00:44:58,360
+I was scared.
+
+895
+00:44:58,360 --> 00:44:59,100
+And then it was fun.
+
+896
+00:44:59,100 --> 00:44:59,800
+So I'm glad I did it.
+
+897
+00:44:59,800 --> 00:45:00,580
+Cool, cool, cool.
+
+898
+00:45:00,580 --> 00:45:01,360
+I like it.
+
+899
+00:45:01,360 --> 00:45:03,340
+And you did a table talk as well, right?
+
+900
+00:45:03,720 --> 00:45:05,440
+And you had Octothorpe ribbons.
+
+901
+00:45:05,440 --> 00:45:06,320
+Yes.
+
+902
+00:45:06,320 --> 00:45:09,580
+So we did a table talk last year in Glasgow, and that was wonderful.
+
+903
+00:45:09,580 --> 00:45:11,840
+So we were excited to do one again in Seattle.
+
+904
+00:45:11,840 --> 00:45:14,360
+And we had four friends come.
+
+905
+00:45:14,360 --> 00:45:19,980
+It was April, Leslie, Sarah, and friend of Octothorpe, Duncan McGregor.
+
+906
+00:45:19,980 --> 00:45:20,480
+Hi, Duncan.
+
+907
+00:45:20,480 --> 00:45:21,280
+Hey.
+
+908
+00:45:21,280 --> 00:45:24,560
+Duncan was very happy to receive an Octothorpe ribbon in Seattle.
+
+909
+00:45:24,560 --> 00:45:25,840
+Yep.
+
+910
+00:45:25,840 --> 00:45:27,260
+We had a nice chat.
+
+911
+00:45:27,260 --> 00:45:32,100
+And we told them a little secret about our September episode.
+
+912
+00:45:32,100 --> 00:45:37,760
+So should you get the opportunity to come to a Hugo Girl table talk in the future, you should
+
+913
+00:45:37,760 --> 00:45:38,980
+come because maybe we'll tell you a secret.
+
+914
+00:45:38,980 --> 00:45:40,680
+Are you going to be at Novicon?
+
+915
+00:45:40,680 --> 00:45:42,000
+No.
+
+916
+00:45:42,000 --> 00:45:43,500
+When is that?
+
+917
+00:45:43,500 --> 00:45:44,580
+Where is that?
+
+918
+00:45:44,580 --> 00:45:45,100
+November.
+
+919
+00:45:45,100 --> 00:45:47,100
+In November in England.
+
+920
+00:45:47,100 --> 00:45:48,420
+Oh, no.
+
+921
+00:45:48,580 --> 00:45:56,020
+No, my immigrant spouse and I are not leaving the country anytime soon for worry about not
+
+922
+00:45:56,020 --> 00:45:57,360
+being allowed back in.
+
+923
+00:45:57,360 --> 00:45:58,240
+So no.
+
+924
+00:45:58,240 --> 00:45:59,140
+Yay.
+
+925
+00:46:01,140 --> 00:46:05,480
+Kevin was on a couple of panels, one of which I think went really well.
+
+926
+00:46:05,480 --> 00:46:12,780
+The other one went well, but had what I don't think is fair to call a heckler, but a person
+
+927
+00:46:12,780 --> 00:46:16,900
+with a whole lot of comments, not questions in the audience.
+
+928
+00:46:16,900 --> 00:46:20,860
+But the justice and policing panel was great.
+
+929
+00:46:20,860 --> 00:46:23,600
+The other panelists were really interesting.
+
+930
+00:46:23,600 --> 00:46:26,040
+And Kevin really enjoyed it.
+
+931
+00:46:26,040 --> 00:46:28,180
+He did a lot of homework in advance.
+
+932
+00:46:28,180 --> 00:46:29,180
+He did a lot of reading.
+
+933
+00:46:29,460 --> 00:46:35,720
+I'm biased, but I think that he did a really good job bringing people back to works of science
+
+934
+00:46:35,720 --> 00:46:41,540
+fiction because it could get kind of esoteric talking about justice and policing as a large
+
+935
+00:46:41,540 --> 00:46:41,900
+topic.
+
+936
+00:46:41,900 --> 00:46:46,660
+And Kevin had read so much in advance in preparation for the panel.
+
+937
+00:46:46,660 --> 00:46:48,420
+He read The Dispossessed.
+
+938
+00:46:48,420 --> 00:46:49,620
+He read several other things.
+
+939
+00:46:49,620 --> 00:46:51,740
+And so all of that was fresh in his mind.
+
+940
+00:46:51,740 --> 00:46:56,700
+And he had notes and he was taking notes during the panel like a good law student.
+
+941
+00:46:57,200 --> 00:47:01,480
+I took a picture of him making notes in his little notepad while people were talking.
+
+942
+00:47:01,480 --> 00:47:02,480
+It was funny to me.
+
+943
+00:47:02,480 --> 00:47:04,740
+And he had a really good time.
+
+944
+00:47:04,740 --> 00:47:08,880
+And then he also did home recording for non-techies.
+
+945
+00:47:08,880 --> 00:47:14,480
+And I think he did a really good job of trying to keep it non-techie because he lives with me.
+
+946
+00:47:14,480 --> 00:47:17,440
+So he knows how to explain things to non-techie people.
+
+947
+00:47:18,740 --> 00:47:21,520
+Yeah, so because he knows.
+
+948
+00:47:21,520 --> 00:47:25,560
+I've heard him talk about audio recording and he definitely knows things I don't know.
+
+949
+00:47:25,560 --> 00:47:26,900
+He knows about decibels.
+
+950
+00:47:26,900 --> 00:47:28,880
+I got very little idea about that.
+
+951
+00:47:28,880 --> 00:47:30,760
+No, it's all just magic to me.
+
+952
+00:47:30,760 --> 00:47:31,880
+I read a book.
+
+953
+00:47:31,880 --> 00:47:33,220
+I talk about the book.
+
+954
+00:47:33,220 --> 00:47:34,660
+Kevin makes the podcast.
+
+955
+00:47:34,660 --> 00:47:35,380
+Yeah.
+
+956
+00:47:35,380 --> 00:47:36,920
+It should be called Hugo Kevin.
+
+957
+00:47:36,920 --> 00:47:40,560
+Well, that's why he gets a Hugo with you.
+
+958
+00:47:41,120 --> 00:47:41,600
+Exactly.
+
+959
+00:47:41,600 --> 00:47:43,480
+It would be a bold rebrand.
+
+960
+00:47:43,480 --> 00:47:51,420
+Well, that's a little tip for people who want to know our secret.
+
+961
+00:47:58,300 --> 00:48:01,500
+So should we talk about the people who actually won Hugo Awards?
+
+962
+00:48:01,500 --> 00:48:02,680
+Let's do it.
+
+963
+00:48:02,680 --> 00:48:03,760
+Hey, okay.
+
+964
+00:48:03,760 --> 00:48:04,440
+Yes.
+
+965
+00:48:04,440 --> 00:48:13,240
+I mean, as of writing, we know who won and we know the voting for the final round.
+
+966
+00:48:13,240 --> 00:48:15,960
+Basically, well, we know the final round voting for the winner.
+
+967
+00:48:15,960 --> 00:48:18,280
+We don't know all the runoffs for second, third, fourth, etc.
+
+968
+00:48:18,280 --> 00:48:19,360
+But I never look at those.
+
+969
+00:48:19,360 --> 00:48:20,720
+No, that's fair.
+
+970
+00:48:20,720 --> 00:48:22,700
+So, yeah.
+
+971
+00:48:22,700 --> 00:48:28,620
+So, Liz is very happy because The Tainted Cup by Robert Jackson Bennett has won a Hugo Award.
+
+972
+00:48:28,620 --> 00:48:35,260
+And Liz has been boosting him for ages.
+
+973
+00:48:35,260 --> 00:48:41,800
+In deference to this, Alison has finally read one of his books after he's won a Hugo Award.
+
+974
+00:48:41,800 --> 00:48:43,400
+I know.
+
+975
+00:48:43,400 --> 00:48:44,080
+It's like, he won a Hugo.
+
+976
+00:48:44,080 --> 00:48:45,860
+And I was like, yeah, now I will read it.
+
+977
+00:48:45,860 --> 00:48:46,160
+Okay.
+
+978
+00:48:46,160 --> 00:48:46,960
+Thank you, Alison.
+
+979
+00:48:46,960 --> 00:48:47,740
+Yeah.
+
+980
+00:48:47,740 --> 00:48:48,260
+Yeah, yeah.
+
+981
+00:48:48,260 --> 00:48:49,680
+But Alison enjoyed it.
+
+982
+00:48:49,680 --> 00:48:50,900
+She did.
+
+983
+00:48:50,900 --> 00:48:52,020
+She said she stayed up all night.
+
+984
+00:48:52,020 --> 00:48:57,320
+I mean, clearly many people enjoyed it because it won by a lot.
+
+985
+00:48:57,320 --> 00:48:59,260
+Yeah, it was quite good.
+
+986
+00:48:59,260 --> 00:49:01,660
+I mean, it had nearly 200 more first preferences.
+
+987
+00:49:01,660 --> 00:49:03,200
+It was not what I thought was going to happen.
+
+988
+00:49:03,200 --> 00:49:06,040
+If you had asked me to predict, it would not be where I'd go.
+
+989
+00:49:06,040 --> 00:49:07,420
+And it's interesting, right?
+
+990
+00:49:07,420 --> 00:49:13,520
+Because would you say that science fiction usually does better at the Hugos than fantasy?
+
+991
+00:49:13,520 --> 00:49:16,180
+In recent years, it seems like it's skewed toward fantasy.
+
+992
+00:49:16,180 --> 00:49:17,020
+Okay.
+
+993
+00:49:17,020 --> 00:49:23,080
+But I've only been paying attention for like about maybe four years, paying a lot of attention
+
+994
+00:49:23,080 --> 00:49:26,120
+to current developments.
+
+995
+00:49:26,120 --> 00:49:29,980
+But it does seem like we had the Broken Earth trilogy.
+
+996
+00:49:29,980 --> 00:49:31,840
+So that was three wins in a row, right?
+
+997
+00:49:31,840 --> 00:49:34,100
+Oh, but was that fantasy or was that science fiction?
+
+998
+00:49:34,100 --> 00:49:35,000
+Genre.
+
+999
+00:49:35,000 --> 00:49:37,280
+Oh, Star Wars or Lord of the Rings.
+
+1000
+00:49:37,860 --> 00:49:38,300
+Yes!
+
+1001
+00:49:38,300 --> 00:49:39,540
+I cannot wait to get that ribbon.
+
+1002
+00:49:39,540 --> 00:49:40,520
+So, okay.
+
+1003
+00:49:40,520 --> 00:49:43,260
+So, were the Hugo Awards this year, Star Wars or Lord of the Rings?
+
+1004
+00:49:43,260 --> 00:49:44,160
+Hmm.
+
+1005
+00:49:44,160 --> 00:49:47,220
+Well, they had a witchy theme song.
+
+1006
+00:49:47,220 --> 00:49:48,900
+So that's Lord of the Rings.
+
+1007
+00:49:48,900 --> 00:49:49,720
+I don't know.
+
+1008
+00:49:49,720 --> 00:49:52,900
+I never take a position on this typically on the show.
+
+1009
+00:49:52,900 --> 00:49:53,700
+I'm always like, I don't know.
+
+1010
+00:49:53,700 --> 00:49:54,420
+Whatever you guys think.
+
+1011
+00:49:54,420 --> 00:49:55,260
+What do you guys think?
+
+1012
+00:49:55,260 --> 00:49:56,340
+I think it was Star Trek.
+
+1013
+00:49:56,340 --> 00:49:58,400
+Ah, the Amy answer.
+
+1014
+00:49:58,400 --> 00:50:00,520
+Two of the winners were Star Trek.
+
+1015
+00:50:00,920 --> 00:50:01,900
+I think that's a pretty good clue.
+
+1016
+00:50:01,900 --> 00:50:02,700
+It's true.
+
+1017
+00:50:02,700 --> 00:50:03,580
+That's true.
+
+1018
+00:50:03,580 --> 00:50:04,220
+That's true.
+
+1019
+00:50:04,220 --> 00:50:07,340
+Yeah, none of the winners were Star Wars or Lord of the Rings.
+
+1020
+00:50:07,340 --> 00:50:09,040
+Both of which were technically eligible.
+
+1021
+00:50:09,040 --> 00:50:14,400
+Are you all familiar with skit Billy on the Street where he runs around asking people questions
+
+1022
+00:50:14,400 --> 00:50:15,480
+and offering them a dollar?
+
+1023
+00:50:15,480 --> 00:50:19,460
+And there's the one where he runs up to people and says, for a dollar, name a woman.
+
+1024
+00:50:19,460 --> 00:50:20,520
+It's Billy Eichner.
+
+1025
+00:50:20,520 --> 00:50:22,240
+And he says, for a dollar, name a woman.
+
+1026
+00:50:22,240 --> 00:50:25,340
+And he runs up to a woman and she just like blinks and can't answer.
+
+1027
+00:50:25,340 --> 00:50:27,000
+And he's like, you're a woman.
+
+1028
+00:50:27,000 --> 00:50:27,900
+And he runs away.
+
+1029
+00:50:27,900 --> 00:50:30,040
+And I feel like you guys asked me that.
+
+1030
+00:50:30,100 --> 00:50:32,440
+And I'm like, for a dollar, name one Hugo Award winner.
+
+1031
+00:50:32,440 --> 00:50:33,440
+And I cannot do it.
+
+1032
+00:50:33,440 --> 00:50:34,980
+It's all flown my mind.
+
+1033
+00:50:34,980 --> 00:50:36,080
+So I'm looking up the list.
+
+1034
+00:50:36,080 --> 00:50:40,000
+If you haven't seen for a dollar, name a woman, you should really look it up.
+
+1035
+00:50:40,000 --> 00:50:41,340
+Well, I love Billy Eichner.
+
+1036
+00:50:41,340 --> 00:50:44,000
+So I am going to have to watch this.
+
+1037
+00:50:44,000 --> 00:50:45,280
+I will put a link in the show notes.
+
+1038
+00:50:45,280 --> 00:50:47,520
+That is, well, that is definitely something.
+
+1039
+00:50:47,520 --> 00:50:50,960
+Whenever I'm stumped by a question, I think for a dollar, name a woman.
+
+1040
+00:50:50,960 --> 00:50:53,020
+Okay, let's see.
+
+1041
+00:50:53,020 --> 00:50:54,180
+Okay, best series.
+
+1042
+00:50:54,180 --> 00:50:55,160
+That's fantasy, right?
+
+1043
+00:50:55,160 --> 00:50:56,200
+Between Earth and Sky.
+
+1044
+00:50:56,200 --> 00:50:57,200
+Yep, true.
+
+1045
+00:50:57,200 --> 00:50:58,740
+Tainted Cup, fantasy.
+
+1046
+00:50:59,300 --> 00:51:00,580
+Dune Part 2, fantasy.
+
+1047
+00:51:00,580 --> 00:51:01,420
+Ooh.
+
+1048
+00:51:01,420 --> 00:51:03,900
+He's winding you up.
+
+1049
+00:51:03,900 --> 00:51:05,080
+Kidding.
+
+1050
+00:51:05,080 --> 00:51:07,900
+Oh, we can link to your mug in the show notes.
+
+1051
+00:51:07,900 --> 00:51:09,220
+Oh, you can.
+
+1052
+00:51:09,220 --> 00:51:09,980
+Yes, you can.
+
+1053
+00:51:09,980 --> 00:51:13,120
+Yeah, it is, I guess, quite fantasy leaning this year.
+
+1054
+00:51:13,120 --> 00:51:15,200
+So I'm going to pull out a couple.
+
+1055
+00:51:15,440 --> 00:51:22,260
+So I was happy to see Monica will Black Goose win the Astounding Award because she is, I really
+
+1056
+00:51:22,260 --> 00:51:26,680
+liked her book when I read it last year.
+
+1057
+00:51:26,680 --> 00:51:28,700
+And she won by an absolute mile as well.
+
+1058
+00:51:28,700 --> 00:51:29,300
+Mm.
+
+1059
+00:51:29,660 --> 00:51:35,240
+Like to the point where we only needed five rounds of voting because by the fifth round,
+
+1060
+00:51:35,240 --> 00:51:37,580
+she already had more votes than the next two combined.
+
+1061
+00:51:37,580 --> 00:51:39,580
+So you do a double elimination and that's it.
+
+1062
+00:51:39,580 --> 00:51:40,820
+Why do I know this?
+
+1063
+00:51:40,820 --> 00:51:45,440
+Because I had to hand code that into my script that makes the nice drawings.
+
+1064
+00:51:45,440 --> 00:51:46,480
+But yeah.
+
+1065
+00:51:47,140 --> 00:51:48,720
+Okay, I'm going to append what I said.
+
+1066
+00:51:48,720 --> 00:51:51,820
+I want to correct what I said about skewing fantasy words.
+
+1067
+00:51:51,820 --> 00:51:52,900
+Definitely not.
+
+1068
+00:51:52,900 --> 00:51:53,400
+Mm.
+
+1069
+00:51:53,400 --> 00:51:54,380
+Definitely not.
+
+1070
+00:51:54,380 --> 00:51:59,660
+Got calculating stars, a memory called empire, network effect, desolation called peace, some
+
+1071
+00:51:59,660 --> 00:52:00,340
+desperate glory.
+
+1072
+00:52:00,340 --> 00:52:00,600
+Yep.
+
+1073
+00:52:00,660 --> 00:52:02,720
+We're still mostly science fiction at the Hugo Awards.
+
+1074
+00:52:02,720 --> 00:52:04,420
+I'll tell you what it has done though.
+
+1075
+00:52:04,420 --> 00:52:06,760
+It's skewed very female.
+
+1076
+00:52:06,760 --> 00:52:07,560
+Yes.
+
+1077
+00:52:07,560 --> 00:52:11,960
+And Robert Jackson Bennett is the first man to win in 10 years.
+
+1078
+00:52:11,960 --> 00:52:12,520
+Oh.
+
+1079
+00:52:12,520 --> 00:52:13,180
+Yes.
+
+1080
+00:52:13,180 --> 00:52:15,160
+Congratulations to this man.
+
+1081
+00:52:15,160 --> 00:52:15,940
+Yes.
+
+1082
+00:52:15,940 --> 00:52:17,180
+Mm-hmm.
+
+1083
+00:52:17,180 --> 00:52:19,020
+Not for podcast.
+
+1084
+00:52:19,020 --> 00:52:20,160
+The tyranny is over.
+
+1085
+00:52:20,160 --> 00:52:20,460
+No.
+
+1086
+00:52:20,460 --> 00:52:23,740
+John, you should leave that in.
+
+1087
+00:52:23,740 --> 00:52:25,840
+You should definitely leave that in.
+
+1088
+00:52:25,840 --> 00:52:28,640
+John's showing his true colors.
+
+1089
+00:52:28,640 --> 00:52:30,100
+I'm not leaving that in.
+
+1090
+00:52:30,160 --> 00:52:31,240
+I don't want to get lynched.
+
+1091
+00:52:31,240 --> 00:52:32,740
+No, it's really interesting, right?
+
+1092
+00:52:32,740 --> 00:52:36,100
+Ray Naylor and Robert Jackson Bennett winning for novella and novel.
+
+1093
+00:52:36,100 --> 00:52:38,620
+That is atypical in recent years.
+
+1094
+00:52:38,620 --> 00:52:42,620
+And then Nevo and Naomi Kritzer won in short story and novelette.
+
+1095
+00:52:42,620 --> 00:52:47,480
+I will confess, I've not read any of the short fiction categories this year.
+
+1096
+00:52:47,480 --> 00:52:47,800
+Me neither.
+
+1097
+00:52:47,800 --> 00:52:51,960
+Because I finished the Clark reading and then really just read things I wanted to read for
+
+1098
+00:52:51,960 --> 00:52:52,220
+a bit.
+
+1099
+00:52:52,220 --> 00:52:55,460
+I haven't even read the Star Trek graphic novel, which also won.
+
+1100
+00:52:55,460 --> 00:52:59,180
+I was pretty surprised by most of the results, I will say.
+
+1101
+00:52:59,340 --> 00:53:02,900
+And that's partly because in novella, I thought, you know, there were several solid ones, but
+
+1102
+00:53:02,900 --> 00:53:06,320
+I thought the Practice, the Horizon and the Chain, the Sophia Samatar novella was so far
+
+1103
+00:53:06,320 --> 00:53:08,520
+ahead that it would win by miles.
+
+1104
+00:53:08,520 --> 00:53:09,740
+And it did not.
+
+1105
+00:53:09,740 --> 00:53:11,280
+I thought that one would win too.
+
+1106
+00:53:11,280 --> 00:53:16,180
+I'd seen a lot of people saying it was great, but it did not come anywhere near winning.
+
+1107
+00:53:16,180 --> 00:53:17,080
+Interesting.
+
+1108
+00:53:17,420 --> 00:53:19,640
+I also thought the Ministry of Time would win best novel.
+
+1109
+00:53:19,640 --> 00:53:22,720
+That was the one that I heard people talking about the most.
+
+1110
+00:53:22,720 --> 00:53:28,260
+And it was my top choice and also Hayley's, Amy's and Kevin's top choice.
+
+1111
+00:53:28,260 --> 00:53:31,700
+So I just thought, well, if all four of us agree, then it must be the winner.
+
+1112
+00:53:31,700 --> 00:53:32,940
+All four of you agree.
+
+1113
+00:53:32,940 --> 00:53:34,060
+How can you possibly be wrong?
+
+1114
+00:53:34,060 --> 00:53:34,720
+Right.
+
+1115
+00:53:34,720 --> 00:53:35,360
+This way.
+
+1116
+00:53:38,400 --> 00:53:43,380
+So it is interesting that John Wiswell did not win because he won the Nebula and the
+
+1117
+00:53:43,380 --> 00:53:44,100
+Locus.
+
+1118
+00:53:44,100 --> 00:53:51,880
+And a lot of people thought that would mean he was like a lock in for the Hugo, but it did
+
+1119
+00:53:51,880 --> 00:53:53,060
+not prove to be the case.
+
+1120
+00:53:53,540 --> 00:53:58,380
+And it's given me a higher opinion of Hugo voters because I really didn't like that book.
+
+1121
+00:53:58,380 --> 00:54:00,420
+You know, I liked all of them.
+
+1122
+00:54:00,420 --> 00:54:02,540
+None of them knocked my socks off.
+
+1123
+00:54:02,540 --> 00:54:03,460
+You're very nice.
+
+1124
+00:54:03,460 --> 00:54:04,860
+That's fair.
+
+1125
+00:54:04,860 --> 00:54:12,520
+I think of the four I have read, it is fair to say that none of them knocked my socks off
+
+1126
+00:54:12,520 --> 00:54:12,860
+either.
+
+1127
+00:54:12,860 --> 00:54:14,420
+Which one haven't you read?
+
+1128
+00:54:14,420 --> 00:54:17,160
+I haven't read The Kingfisher or the Wiswell.
+
+1129
+00:54:17,160 --> 00:54:17,880
+Okay.
+
+1130
+00:54:17,880 --> 00:54:20,060
+I don't think they'll knock your socks off then.
+
+1131
+00:54:20,060 --> 00:54:20,660
+Fair.
+
+1132
+00:54:20,660 --> 00:54:25,180
+No, I very much got that impression from what has been said about them.
+
+1133
+00:54:25,180 --> 00:54:28,240
+Like I've heard The Kingfisher is very good, but not as good as other Kingfishers.
+
+1134
+00:54:28,240 --> 00:54:31,540
+And the Wiswell, I've read the Rosanna Pendlebury review.
+
+1135
+00:54:31,540 --> 00:54:39,680
+And then I read Stone Blind by Natalie Haynes, which sounds like it does something sort of similar,
+
+1136
+00:54:39,680 --> 00:54:43,340
+but maybe better and with more awareness.
+
+1137
+00:54:43,340 --> 00:54:46,260
+I thought all of them were entertaining.
+
+1138
+00:54:46,260 --> 00:54:47,340
+I will say that.
+
+1139
+00:54:47,340 --> 00:54:48,440
+They were all fun to read.
+
+1140
+00:54:49,040 --> 00:54:53,440
+I very rarely get, I very rarely find that the Hugo for best novel throws things up that
+
+1141
+00:54:53,440 --> 00:54:54,860
+I just like do not want to finish.
+
+1142
+00:54:54,860 --> 00:54:57,920
+I would say it semi-regularly does that for me.
+
+1143
+00:54:57,920 --> 00:55:00,940
+That's fair.
+
+1144
+00:55:00,940 --> 00:55:04,200
+I mean, you are, um, what's his name?
+
+1145
+00:55:04,200 --> 00:55:05,160
+I'm just harsh.
+
+1146
+00:55:05,160 --> 00:55:08,740
+There's been at least one every year since.
+
+1147
+00:55:08,740 --> 00:55:10,820
+Oh, I think I liked them all in 2021.
+
+1148
+00:55:10,820 --> 00:55:15,360
+But other than that, every year there's at least one where I'm like, was that a really
+
+1149
+00:55:15,360 --> 00:55:16,380
+great use of my time?
+
+1150
+00:55:16,800 --> 00:55:17,240
+No.
+
+1151
+00:55:17,240 --> 00:55:20,600
+Last year, I only finished two of them.
+
+1152
+00:55:20,600 --> 00:55:22,320
+The rest I was like, hmm.
+
+1153
+00:55:22,320 --> 00:55:24,020
+I can't remember what was up for it last year.
+
+1154
+00:55:24,020 --> 00:55:24,420
+Hang on.
+
+1155
+00:55:24,420 --> 00:55:25,100
+Glasgow.
+
+1156
+00:55:25,100 --> 00:55:26,420
+Hugo Awards.
+
+1157
+00:55:26,420 --> 00:55:27,900
+Finalists.
+
+1158
+00:55:27,900 --> 00:55:30,040
+We did a whole podcast on them, John.
+
+1159
+00:55:30,040 --> 00:55:33,500
+I'm going to say I read Some Desperate Glory and loved it.
+
+1160
+00:55:33,500 --> 00:55:35,920
+And I'm just going to leave the rest a mystery.
+
+1161
+00:55:35,920 --> 00:55:38,300
+Actually, I loved The Saint of Bright Doors.
+
+1162
+00:55:38,300 --> 00:55:39,300
+I don't want to leave that a mystery.
+
+1163
+00:55:39,300 --> 00:55:40,240
+I really liked that.
+
+1164
+00:55:40,520 --> 00:55:44,520
+Those, I think, were probably the two best on the slate.
+
+1165
+00:55:44,520 --> 00:55:45,200
+Although I did.
+
+1166
+00:55:45,200 --> 00:55:49,840
+I personally really liked Translation State, but I know that that was more divisive.
+
+1167
+00:55:49,840 --> 00:55:51,520
+It had a metaphor in it, Lori.
+
+1168
+00:55:51,520 --> 00:55:52,560
+It did.
+
+1169
+00:55:52,560 --> 00:55:53,800
+I didn't finish it.
+
+1170
+00:55:53,800 --> 00:55:56,680
+I feel embarrassed by that because it's not long at all.
+
+1171
+00:55:56,680 --> 00:55:57,580
+And I didn't finish it.
+
+1172
+00:55:57,580 --> 00:55:58,220
+Ultimate.
+
+1173
+00:55:58,360 --> 00:56:00,820
+I used to, like, religiously finish everything I started reading.
+
+1174
+00:56:00,820 --> 00:56:03,460
+And then I was like, eh, time's limited and books are infinite.
+
+1175
+00:56:03,460 --> 00:56:05,360
+There's more books than I can read.
+
+1176
+00:56:05,360 --> 00:56:08,320
+So reading bad books seems like a foolish, foolish choice.
+
+1177
+00:56:08,320 --> 00:56:09,420
+That is true.
+
+1178
+00:56:09,420 --> 00:56:14,160
+However, there have been so many times that there's a book that I've read for the podcast
+
+1179
+00:56:14,160 --> 00:56:16,540
+that I would not have finished if left to my own devices.
+
+1180
+00:56:16,540 --> 00:56:19,720
+And then I would get to the end and go, oh, I'm so glad I read that.
+
+1181
+00:56:19,720 --> 00:56:22,240
+And chief among them is The Dispossessed.
+
+1182
+00:56:22,240 --> 00:56:25,000
+I had tried to read The Dispossessed several years ago.
+
+1183
+00:56:25,580 --> 00:56:29,680
+And I was like, why is this just, like, boys talking about things?
+
+1184
+00:56:29,680 --> 00:56:30,520
+I'm so bored.
+
+1185
+00:56:30,520 --> 00:56:32,960
+And then I had to sit down and actually read it.
+
+1186
+00:56:32,960 --> 00:56:35,860
+And I was like, oh, this book has changed my life.
+
+1187
+00:56:35,860 --> 00:56:39,020
+I walk around thinking of everyone as a proprietarian.
+
+1188
+00:56:39,020 --> 00:56:43,140
+I'm always thinking about the utility of colors and dyeing things.
+
+1189
+00:56:43,140 --> 00:56:46,760
+And I feel like nothing will ever be The Dispossessed.
+
+1190
+00:56:46,760 --> 00:56:49,100
+And so I'm mad at every book that it isn't The Dispossessed.
+
+1191
+00:56:49,100 --> 00:56:53,600
+So there's an argument for reading something that doesn't grab your attention.
+
+1192
+00:56:53,860 --> 00:56:55,780
+I think it's perfectly fine not to finish things.
+
+1193
+00:56:55,780 --> 00:56:58,080
+But at the same time, there's been more than once that I've read something.
+
+1194
+00:56:58,080 --> 00:57:01,360
+I've been like, thank God I've made myself finish that because it was wonderful.
+
+1195
+00:57:01,360 --> 00:57:02,720
+But it didn't grab me at the beginning.
+
+1196
+00:57:02,720 --> 00:57:05,900
+Star Trek Lower Decks won two Hugh Awards.
+
+1197
+00:57:05,900 --> 00:57:09,160
+The graphic story Warp Your Own Way, written by Ryan North.
+
+1198
+00:57:09,160 --> 00:57:12,700
+And art by Chris Finoglio, won in Best Graphic Story.
+
+1199
+00:57:13,360 --> 00:57:20,920
+And the new Next Generation, created and written by Mike McMahon and directed by Megan Lloyd,
+
+1200
+00:57:20,920 --> 00:57:23,180
+won in Best Dramatic Presentation short form.
+
+1201
+00:57:23,180 --> 00:57:28,480
+And that is the first Star Trek episode to win a Hugo Award since the finale of Next Generation.
+
+1202
+00:57:28,480 --> 00:57:30,880
+So if you are listening to this and you have not watched Lower Decks,
+
+1203
+00:57:30,880 --> 00:57:33,940
+it is now confirmed Best Star Trek since Next Generation.
+
+1204
+00:57:33,940 --> 00:57:36,640
+Which I would say is genuinely true.
+
+1205
+00:57:37,000 --> 00:57:40,140
+But I would highly recommend people watch Lower Decks if they haven't.
+
+1206
+00:57:40,140 --> 00:57:43,040
+And it, I think, thoroughly deserves the award.
+
+1207
+00:57:43,040 --> 00:57:44,520
+I was very happy by those two.
+
+1208
+00:57:44,520 --> 00:57:47,020
+I'm not comfortable writing off the entire of Deep Space Nine.
+
+1209
+00:57:47,020 --> 00:57:48,720
+But that was before we...
+
+1210
+00:57:48,720 --> 00:57:50,000
+I'm not writing it off.
+
+1211
+00:57:50,000 --> 00:57:51,660
+I'm just saying it's not as good as Lower Decks.
+
+1212
+00:57:51,660 --> 00:57:52,960
+Anyway.
+
+1213
+00:57:54,020 --> 00:57:56,480
+Maybe if it wasn't eight seasons, it would be, Liz.
+
+1214
+00:57:56,480 --> 00:57:57,340
+Eight!
+
+1215
+00:57:57,340 --> 00:57:59,800
+Yeah, it was back in the 90s, John.
+
+1216
+00:57:59,800 --> 00:58:01,980
+You did 22 episodes a year and you liked it.
+
+1217
+00:58:01,980 --> 00:58:04,560
+Mike McMahon's acceptance speech also was very nice.
+
+1218
+00:58:04,560 --> 00:58:08,100
+And he did some very nice skeets about how much it meant to him to win the Hugo.
+
+1219
+00:58:08,100 --> 00:58:12,820
+Which is really nice because I think right before that one was a speech from
+
+1220
+00:58:12,820 --> 00:58:16,180
+Randall Shepard presenting Best Dramatic Presentation long form
+
+1221
+00:58:16,180 --> 00:58:18,760
+about how the studios don't care about the Hugos.
+
+1222
+00:58:18,760 --> 00:58:20,940
+And it would be nice if they sent an acceptance speech.
+
+1223
+00:58:20,940 --> 00:58:23,080
+And then we went straight into Star Trek Lower Decks.
+
+1224
+00:58:23,080 --> 00:58:24,540
+And here's a really nice heartfelt speech.
+
+1225
+00:58:24,540 --> 00:58:25,000
+So that was good.
+
+1226
+00:58:25,000 --> 00:58:26,420
+I will also say,
+
+1227
+00:58:26,420 --> 00:58:31,560
+Vialnerve was like the one that we didn't manage to get in contact with.
+
+1228
+00:58:31,560 --> 00:58:37,500
+I think we managed to get in contact with all of the other BDP long form finalists.
+
+1229
+00:58:37,500 --> 00:58:42,840
+And one of them gave Hugo voters access to like the Screener app,
+
+1230
+00:58:42,840 --> 00:58:44,640
+which is used for like the Oscar voters.
+
+1231
+00:58:44,640 --> 00:58:45,940
+So like, I don't know.
+
+1232
+00:58:45,940 --> 00:58:48,620
+I think there's a very large...
+
+1233
+00:58:48,620 --> 00:58:51,380
+There's a big range in how much they care about it.
+
+1234
+00:58:51,380 --> 00:58:54,540
+And also, what on earth were we doing giving the Hugo to June part two?
+
+1235
+00:58:54,540 --> 00:58:55,500
+Come on, Hugo Award.
+
+1236
+00:58:55,500 --> 00:58:57,680
+Voters, come on.
+
+1237
+00:58:57,680 --> 00:59:00,180
+I mean, I was super grumpy about that.
+
+1238
+00:59:00,180 --> 00:59:08,020
+I feel super grumpy generally about giving Hugos to big productions that will not pay attention
+
+1239
+00:59:08,020 --> 00:59:09,380
+to it at all.
+
+1240
+00:59:09,380 --> 00:59:13,800
+But also, I'm like, should voters be thinking about when you're deciding who...
+
+1241
+00:59:13,800 --> 00:59:14,880
+What's your favorite thing?
+
+1242
+00:59:14,880 --> 00:59:17,140
+Should you be thinking about whether or not they will appreciate it?
+
+1243
+00:59:17,140 --> 00:59:17,940
+Probably not.
+
+1244
+00:59:18,300 --> 00:59:18,940
+I felt like...
+
+1245
+00:59:18,940 --> 00:59:20,580
+I mean, I wanted I Saw the TV Glow to win.
+
+1246
+00:59:20,580 --> 00:59:21,280
+Yes.
+
+1247
+00:59:21,280 --> 00:59:24,760
+And I don't know that their team would have been like, oh my God, we won a Hugo Award.
+
+1248
+00:59:24,760 --> 00:59:29,280
+But like, Ariana Grande probably does not care if Wicked wins a Hugo Award.
+
+1249
+00:59:29,280 --> 00:59:30,340
+I don't know that though.
+
+1250
+00:59:30,340 --> 00:59:33,620
+Maybe she's a huge science fiction fan and it would be a dream for her.
+
+1251
+00:59:33,620 --> 00:59:34,180
+I don't know.
+
+1252
+00:59:34,180 --> 00:59:36,460
+Ariana, write in.
+
+1253
+00:59:36,460 --> 00:59:37,080
+Let us know.
+
+1254
+00:59:37,080 --> 00:59:38,080
+Yeah, right.
+
+1255
+00:59:38,080 --> 00:59:38,800
+Do this podcast.
+
+1256
+00:59:38,800 --> 00:59:39,840
+I don't think she listens.
+
+1257
+00:59:39,840 --> 00:59:40,400
+No.
+
+1258
+00:59:40,400 --> 00:59:41,520
+Might be wrong.
+
+1259
+00:59:41,900 --> 00:59:43,860
+Well, we'll find out if you get a lock from her.
+
+1260
+00:59:43,860 --> 00:59:46,700
+But in general, I thought it was a good roster.
+
+1261
+00:59:46,700 --> 00:59:49,840
+Like, there's a couple that I'm not super pleased with.
+
+1262
+00:59:49,840 --> 00:59:52,500
+But in general, I think it's a pretty good list of winners.
+
+1263
+00:59:52,500 --> 00:59:58,520
+Yeah, I just wanted to pull out, since we have a fancast finalist here as well, that Worldbuilding
+
+1264
+00:59:58,520 --> 01:00:05,400
+for Masochists lost by one vote to Eight Days of Dino and Jones, which is quite harsh because
+
+1265
+01:00:05,400 --> 01:00:08,520
+they also lost to us last year by seven votes.
+
+1266
+01:00:08,520 --> 01:00:10,060
+We're sorry, guys.
+
+1267
+01:00:10,060 --> 01:00:10,960
+Yeah.
+
+1268
+01:00:10,960 --> 01:00:15,520
+Like, if that was me, I would be feeling really like, I'm so close, but so far.
+
+1269
+01:00:15,520 --> 01:00:22,320
+So yeah, maybe, maybe 2026 is their year because I think they have a really good following.
+
+1270
+01:00:22,320 --> 01:00:23,380
+They definitely do.
+
+1271
+01:00:23,380 --> 01:00:24,760
+And they're also also nice.
+
+1272
+01:00:24,760 --> 01:00:25,400
+Yeah.
+
+1273
+01:00:25,400 --> 01:00:26,180
+They're lovely.
+
+1274
+01:00:26,180 --> 01:00:29,840
+They were at the podcasters meet up in Glasgow and they were all lovely, lovely.
+
+1275
+01:00:29,840 --> 01:00:30,480
+Mm hmm.
+
+1276
+01:00:30,480 --> 01:00:34,040
+Marshall from Worldbuilding invited us to Armadillo Con.
+
+1277
+01:00:34,040 --> 01:00:37,660
+So we will be there in Austin next month at their local con.
+
+1278
+01:00:37,660 --> 01:00:38,440
+Oh, I see.
+
+1279
+01:00:38,440 --> 01:00:41,440
+You'll go to Armadillo Con, but you won't come to NovaCon.
+
+1280
+01:00:41,440 --> 01:00:43,380
+We went all the way to Glasgow, John.
+
+1281
+01:00:43,380 --> 01:00:45,840
+Yeah.
+
+1282
+01:00:45,840 --> 01:00:49,940
+John, to be fair, I didn't go to NovaCon that much when I lived in the same country.
+
+1283
+01:00:49,940 --> 01:00:51,540
+So yeah.
+
+1284
+01:00:51,540 --> 01:00:52,960
+It's Emily Tesh this year.
+
+1285
+01:00:52,960 --> 01:00:53,920
+Yeah, I would.
+
+1286
+01:00:53,920 --> 01:00:55,260
+If I was there, I would be going.
+
+1287
+01:00:55,260 --> 01:00:55,960
+Yeah.
+
+1288
+01:00:55,960 --> 01:01:00,960
+Well, and also we've got a surprise for the live episode at NovaCon.
+
+1289
+01:01:00,960 --> 01:01:09,900
+We should let our guest go first.
+
+1290
+01:01:09,900 --> 01:01:11,620
+Lori, do you have a pick?
+
+1291
+01:01:11,620 --> 01:01:12,980
+I forgot about picks.
+
+1292
+01:01:12,980 --> 01:01:15,780
+So I scrambled and came up with a pick a few minutes ago.
+
+1293
+01:01:15,780 --> 01:01:22,880
+So I'm currently reading, but have not finished, The Traitor Beru Cormorant by Seth Dickinson.
+
+1294
+01:01:22,880 --> 01:01:25,640
+I believe it is a 2015 fantasy novel.
+
+1295
+01:01:25,640 --> 01:01:32,760
+My coworker, who's very into science fiction, and he's my one work friend who knows what the
+
+1296
+01:01:32,760 --> 01:01:33,260
+Hugos are.
+
+1297
+01:01:33,800 --> 01:01:39,200
+So in my, actually in my job interview, it came up and I said I had won a Hugo in 2023
+
+1298
+01:01:39,200 --> 01:01:41,900
+and he threw down his pen and he said, we have to hire her.
+
+1299
+01:01:41,900 --> 01:01:47,600
+So I was lucky that they did, because that would have been awkward if they didn't.
+
+1300
+01:01:47,600 --> 01:01:50,660
+But anyway, he recommended it and he does not really read fantasy.
+
+1301
+01:01:50,660 --> 01:01:53,320
+And he said it was so good that he's read several in the series.
+
+1302
+01:01:53,320 --> 01:01:56,640
+And so I am about halfway through it and I like it a lot.
+
+1303
+01:01:57,020 --> 01:01:58,300
+It has a lot of accounting.
+
+1304
+01:01:58,300 --> 01:02:00,160
+So I'm doing some skimming.
+
+1305
+01:02:00,160 --> 01:02:02,780
+Beru Cormorant is an accountant.
+
+1306
+01:02:02,780 --> 01:02:05,660
+So I'm doing some skimming, but I do like it.
+
+1307
+01:02:05,660 --> 01:02:06,240
+I think it's good.
+
+1308
+01:02:06,240 --> 01:02:07,160
+Cool, cool, cool.
+
+1309
+01:02:07,160 --> 01:02:08,260
+I've never heard of it.
+
+1310
+01:02:08,260 --> 01:02:11,780
+Wikipedia says it's hard fantasy and I don't know what that means.
+
+1311
+01:02:11,780 --> 01:02:13,220
+I don't know what that means either.
+
+1312
+01:02:13,220 --> 01:02:16,380
+And to be honest with you, it doesn't feel super fantastical.
+
+1313
+01:02:16,380 --> 01:02:23,000
+And it's about 600 pages and I'm halfway through and there's one kind of modified human in it.
+
+1314
+01:02:23,000 --> 01:02:26,520
+But other than that, which honestly could be science fiction.
+
+1315
+01:02:26,660 --> 01:02:27,720
+Maybe that's why he likes it.
+
+1316
+01:02:27,720 --> 01:02:28,900
+It doesn't.
+
+1317
+01:02:28,900 --> 01:02:29,380
+Yeah, there's not.
+
+1318
+01:02:29,380 --> 01:02:31,360
+I haven't seen any magic or anything like that.
+
+1319
+01:02:31,360 --> 01:02:37,740
+But it has what my co-host Haley and listeners of Hugo Girl will know refers to as an oppressive fantasy feeling.
+
+1320
+01:02:37,740 --> 01:02:38,780
+It does have that.
+
+1321
+01:02:38,780 --> 01:02:40,640
+It's got a fantasy vibe.
+
+1322
+01:02:40,640 --> 01:02:41,480
+Interesting.
+
+1323
+01:02:41,480 --> 01:02:43,740
+And I mean, what is genre if not vibes?
+
+1324
+01:02:43,740 --> 01:02:44,980
+That is true.
+
+1325
+01:02:44,980 --> 01:02:46,280
+I read it.
+
+1326
+01:02:46,280 --> 01:02:49,420
+I read it when it came out because it was a big thing.
+
+1327
+01:02:49,420 --> 01:02:50,520
+I remember it being a big thing.
+
+1328
+01:02:50,520 --> 01:02:54,580
+And yeah, it is pretty brutal.
+
+1329
+01:02:54,580 --> 01:02:55,220
+I remember.
+
+1330
+01:02:56,000 --> 01:02:58,440
+So yeah, you've got going to enjoy the end of that.
+
+1331
+01:02:58,440 --> 01:02:59,520
+Great.
+
+1332
+01:03:01,120 --> 01:03:03,600
+The next one is called The Tyrant Beru Cormorant.
+
+1333
+01:03:03,600 --> 01:03:07,140
+So I think our hero may become an anti-hero.
+
+1334
+01:03:07,140 --> 01:03:10,840
+I think actually it's that's the third one.
+
+1335
+01:03:10,840 --> 01:03:14,900
+So I think it was going to be a trilogy and now it's for something like this.
+
+1336
+01:03:14,900 --> 01:03:17,160
+So but it's honestly because I read it 10 years ago.
+
+1337
+01:03:17,160 --> 01:03:21,940
+It's one of those things where once the whole series is complete, I might have to reread the whole thing.
+
+1338
+01:03:21,940 --> 01:03:27,600
+But I also heard good things about Exodia, which was Dickinson's science fiction novel last year.
+
+1339
+01:03:27,600 --> 01:03:29,820
+Yes, that that's I'm glad you said that.
+
+1340
+01:03:29,820 --> 01:03:34,060
+That's why my co-worker picked up this series because he liked that so much.
+
+1341
+01:03:34,460 --> 01:03:37,500
+He liked it enough that he was willing to give fantasy a try.
+
+1342
+01:03:37,500 --> 01:03:38,220
+I pray.
+
+1343
+01:03:38,220 --> 01:03:39,680
+Liz, do you want to do a pick?
+
+1344
+01:03:39,680 --> 01:03:40,780
+Yes, I will do a pick.
+
+1345
+01:03:40,780 --> 01:03:44,700
+My pick is The Friend Zone Experiment by Zen Cho.
+
+1346
+01:03:45,120 --> 01:03:48,320
+So probably you have heard of Zen Cho.
+
+1347
+01:03:48,320 --> 01:03:49,000
+Yes.
+
+1348
+01:03:49,000 --> 01:03:53,480
+Who wrote, for example, Sorcerer to the Crown and has written a bunch of great fantasy novels.
+
+1349
+01:03:53,480 --> 01:03:58,240
+And The Friend Zone Experiment is their first mainline romance novel.
+
+1350
+01:03:58,240 --> 01:04:05,400
+But I would say it has quite a lot of similarity to the stuff I like in their non-romance novels in that it's very character driven.
+
+1351
+01:04:05,400 --> 01:04:10,760
+It's about a Singaporean and a Malaysian who live in London.
+
+1352
+01:04:10,760 --> 01:04:18,700
+So it's got this great thing where the setting is London, but it's got kind of people who have come in from a different environment and really interesting stuff about that.
+
+1353
+01:04:18,700 --> 01:04:20,760
+It's all about family.
+
+1354
+01:04:20,760 --> 01:04:22,900
+It's about kind of family expectations.
+
+1355
+01:04:22,900 --> 01:04:29,460
+I'd say the one place it does fall down is it's called The Friend Zone Experiment and it's got a very lively cover.
+
+1356
+01:04:29,460 --> 01:04:33,540
+And that makes you think it's going to be kind of a lot more of a lighter romance than it actually is.
+
+1357
+01:04:33,540 --> 01:04:42,400
+The romance is maybe not at the forefront, which is maybe a little bit strange for a romance novel where they tend to be right at the front.
+
+1358
+01:04:42,400 --> 01:04:46,120
+And I would say like the romance is maybe not the most exciting thing about this one.
+
+1359
+01:04:46,120 --> 01:04:52,260
+But it is a fun portrayal of two people who they knew each other 10 years ago and they meet again 10 years later.
+
+1360
+01:04:52,260 --> 01:04:57,880
+And as grownups, they figure out like how life is going to work and families.
+
+1361
+01:04:57,880 --> 01:05:02,480
+And it manages to kind of intertwine them together in a pretty interesting way, I think.
+
+1362
+01:05:02,480 --> 01:05:04,820
+So, yeah, I enjoyed it.
+
+1363
+01:05:04,820 --> 01:05:08,500
+But maybe don't go in thinking it's going to be a fun light romance.
+
+1364
+01:05:08,500 --> 01:05:12,300
+There is some quite serious stuff about families and family expectations and so on.
+
+1365
+01:05:12,300 --> 01:05:13,120
+Nice.
+
+1366
+01:05:13,120 --> 01:05:15,040
+Sounds like a hoot.
+
+1367
+01:05:15,040 --> 01:05:16,100
+I was listening.
+
+1368
+01:05:16,100 --> 01:05:17,500
+It doesn't sound like a hoot.
+
+1369
+01:05:17,500 --> 01:05:19,740
+Well, it kind of is a hoot and also not hoot.
+
+1370
+01:05:19,740 --> 01:05:20,500
+I don't know.
+
+1371
+01:05:20,500 --> 01:05:21,840
+Oh, interesting.
+
+1372
+01:05:22,160 --> 01:05:22,660
+Hoo-hoo.
+
+1373
+01:05:22,660 --> 01:05:27,260
+I wasn't going to pick a book, but you guys have both picked books.
+
+1374
+01:05:27,260 --> 01:05:28,700
+So I guess I should pick a book.
+
+1375
+01:05:28,700 --> 01:05:30,000
+So I'll pick a book.
+
+1376
+01:05:30,000 --> 01:05:30,900
+It's all right, John.
+
+1377
+01:05:30,900 --> 01:05:33,580
+You don't have to feel constrained by the way of expectations.
+
+1378
+01:05:33,580 --> 01:05:38,100
+I just I want to I just I don't want to be the one that stands out.
+
+1379
+01:05:38,100 --> 01:05:45,120
+I have read a book called The Sentence by Gautam Batia.
+
+1380
+01:05:45,500 --> 01:05:52,240
+This is a book which I got because a PhD student.
+
+1381
+01:05:52,240 --> 01:05:54,480
+I work in academia.
+
+1382
+01:05:54,480 --> 01:05:57,840
+I have multiple colleagues and there are multiple students who are from India.
+
+1383
+01:05:57,840 --> 01:05:59,980
+And one of the students was going back to see family.
+
+1384
+01:06:00,140 --> 01:06:03,040
+So I asked her to pick me a copy up and then she brought it back.
+
+1385
+01:06:03,040 --> 01:06:04,060
+Very thankful to her.
+
+1386
+01:06:04,060 --> 01:06:05,100
+Thank you, Nikita.
+
+1387
+01:06:05,100 --> 01:06:10,660
+And this I don't think has had a British release yet, but I think there is an international release
+
+1388
+01:06:10,660 --> 01:06:10,980
+coming.
+
+1389
+01:06:11,360 --> 01:06:12,780
+So hopefully it will eventually be available.
+
+1390
+01:06:12,780 --> 01:06:21,220
+But this is a book set in a city which is divided into two halves.
+
+1391
+01:06:21,220 --> 01:06:29,220
+The high town is kind of the the gentry in the upper classes and low town is the commune,
+
+1392
+01:06:29,220 --> 01:06:33,140
+which is a kind of anarchist collective of workers who are in revolt.
+
+1393
+01:06:33,140 --> 01:06:43,000
+And the story follows a young guardian, Nila, who is investigating a cold case of a murder
+
+1394
+01:06:43,000 --> 01:06:44,200
+a hundred years old.
+
+1395
+01:06:44,200 --> 01:06:49,200
+But the the twist is that the murder she's investigating is the murder of the previous
+
+1396
+01:06:49,200 --> 01:06:55,340
+director of the city, which led to this kind of partitioning of the city into two halves.
+
+1397
+01:06:55,600 --> 01:07:02,460
+And also the person who was found to be guilty was given what is called the sentence, which
+
+1398
+01:07:02,460 --> 01:07:08,180
+is where in this world the death penalty has been outlawed because it was inhumane because
+
+1399
+01:07:08,180 --> 01:07:12,560
+you can't reverse it if you find that they're actually innocent.
+
+1400
+01:07:12,560 --> 01:07:17,400
+But as soon as they invented cryogenics, ho ho, you can reverse that if it turns out they're
+
+1401
+01:07:17,400 --> 01:07:17,700
+innocent.
+
+1402
+01:07:17,700 --> 01:07:21,380
+We'll just put them in a coffin and not kill them, but they won't be around.
+
+1403
+01:07:21,380 --> 01:07:23,340
+Loophole ethics.
+
+1404
+01:07:23,820 --> 01:07:28,120
+And so, yeah, it's about her investigating that and about the things she uncovers.
+
+1405
+01:07:28,120 --> 01:07:28,960
+And it's very, very good.
+
+1406
+01:07:28,960 --> 01:07:35,600
+It kind of reminded me of if if a China Mayville book was better edited.
+
+1407
+01:07:35,600 --> 01:07:36,400
+Fair.
+
+1408
+01:07:36,400 --> 01:07:37,760
+I've read that as well.
+
+1409
+01:07:37,760 --> 01:07:38,760
+I enjoyed it.
+
+1410
+01:07:38,760 --> 01:07:42,380
+And I think that that conceit with the this isn't the death penalty.
+
+1411
+01:07:42,380 --> 01:07:43,860
+We remove you from your life.
+
+1412
+01:07:43,860 --> 01:07:48,120
+And if you're eventually exonerated, probably everyone, you know, might be dead.
+
+1413
+01:07:48,120 --> 01:07:50,520
+The world is different, but we didn't kill you.
+
+1414
+01:07:50,840 --> 01:07:54,140
+And it asks all kinds of interesting ethical legal questions.
+
+1415
+01:07:54,140 --> 01:07:56,600
+And the author is a constitutional scholar.
+
+1416
+01:07:56,600 --> 01:07:57,440
+So it makes sense.
+
+1417
+01:07:57,440 --> 01:08:00,200
+Because because for those who don't know, Lori, you're a lawyer.
+
+1418
+01:08:00,200 --> 01:08:02,500
+So I had not read you realized you'd read it.
+
+1419
+01:08:02,500 --> 01:08:04,960
+But it must be very interesting to see that side of it.
+
+1420
+01:08:04,960 --> 01:08:06,800
+I have no expertise in that at all.
+
+1421
+01:08:06,800 --> 01:08:10,320
+So, yeah, I think it raises really interesting questions about.
+
+1422
+01:08:10,320 --> 01:08:14,080
+Well, first of all, that lies we tell ourselves about what's ethical and what's humane.
+
+1423
+01:08:14,480 --> 01:08:16,900
+Also about what is the purpose of punishment.
+
+1424
+01:08:16,900 --> 01:08:17,940
+Mm hmm.
+
+1425
+01:08:17,940 --> 01:08:20,500
+I thought it was I thought it was really good.
+
+1426
+01:08:20,500 --> 01:08:26,080
+I like the portrayal of basically a law student trying to find her feet and her ambition versus
+
+1427
+01:08:26,080 --> 01:08:27,660
+what she thinks is the right thing to do.
+
+1428
+01:08:27,660 --> 01:08:29,200
+All of that is really interesting.
+
+1429
+01:08:29,200 --> 01:08:32,140
+And he is super, super smart.
+
+1430
+01:08:32,140 --> 01:08:34,160
+Also an editor for Strange Horizons.
+
+1431
+01:08:34,160 --> 01:08:34,860
+Yes.
+
+1432
+01:08:34,860 --> 01:08:35,840
+Editor in chief.
+
+1433
+01:08:35,840 --> 01:08:36,100
+Yeah.
+
+1434
+01:08:36,100 --> 01:08:36,360
+Yeah.
+
+1435
+01:08:36,620 --> 01:08:40,000
+I would quite like him to write more in this world.
+
+1436
+01:08:40,000 --> 01:08:43,500
+I'm not sure I need more of these characters, but I'd love to know.
+
+1437
+01:08:43,500 --> 01:08:48,940
+I'd love to have books set in a similar setting that kind of explore more of the world he's
+
+1438
+01:08:48,940 --> 01:08:51,520
+built because because I did find it absolutely fascinating.
+
+1439
+01:08:51,520 --> 01:08:57,100
+Not the same world, but he has also published The Wall and the Horizon, which is a duology.
+
+1440
+01:08:57,100 --> 01:09:04,580
+And it does some similar things with trying to just reexamine the way we look at the world.
+
+1441
+01:09:04,580 --> 01:09:05,220
+Okay.
+
+1442
+01:09:05,560 --> 01:09:10,260
+And it comes from Le Guin, the idea of trying to picture something other than capitalism.
+
+1443
+01:09:10,260 --> 01:09:16,340
+And he's the way that he's framed that is with a walled city where no one's ever seen
+
+1444
+01:09:16,340 --> 01:09:17,340
+outside of it.
+
+1445
+01:09:17,340 --> 01:09:20,260
+And they're trying to just imagine what could be outside of this city.
+
+1446
+01:09:20,260 --> 01:09:22,500
+And it's it's I think it's really well done.
+
+1447
+01:09:22,500 --> 01:09:23,200
+Interesting.
+
+1448
+01:09:23,200 --> 01:09:23,500
+Okay.
+
+1449
+01:09:23,500 --> 01:09:24,360
+I will look those up.
+
+1450
+01:09:24,360 --> 01:09:25,780
+Fans of the dispossessed.
+
+1451
+01:09:25,780 --> 01:09:29,560
+Me being a new one will really appreciate what he's doing with that duology.
+
+1452
+01:09:29,560 --> 01:09:31,600
+Excellent.
+
+1453
+01:09:31,600 --> 01:09:32,660
+Thank you very much.
+
+1454
+01:09:32,660 --> 01:09:33,600
+Do you have it?
+
+1455
+01:09:33,600 --> 01:09:35,000
+Have you read the sentence, Liz?
+
+1456
+01:09:35,440 --> 01:09:36,580
+I have not.
+
+1457
+01:09:36,580 --> 01:09:39,680
+I've heard of it, but I know I copy.
+
+1458
+01:09:39,680 --> 01:09:40,660
+I don't know where I get a copy.
+
+1459
+01:09:40,660 --> 01:09:41,300
+India.
+
+1460
+01:09:41,300 --> 01:09:42,580
+Pay attention.
+
+1461
+01:09:42,580 --> 01:09:47,480
+The sentence was reviewed by friend of the podcast, Andy Openshaw.
+
+1462
+01:09:47,480 --> 01:09:49,860
+And Gautam mentioned it in his newsletter.
+
+1463
+01:09:49,860 --> 01:09:52,660
+But I will I will dig the link out to that.
+
+1464
+01:09:52,660 --> 01:09:53,380
+Nice.
+
+1465
+01:09:53,380 --> 01:09:54,020
+Where's that review?
+
+1466
+01:09:54,560 --> 01:09:57,600
+I was hoping you were going to ask me that, Liz, because I can't remember where he wrote
+
+1467
+01:09:57,600 --> 01:09:57,860
+it.
+
+1468
+01:09:57,860 --> 01:09:59,200
+I just remember he did write it.
+
+1469
+01:09:59,200 --> 01:09:59,600
+All right.
+
+1470
+01:09:59,600 --> 01:09:59,820
+Fine.
+
+1471
+01:09:59,820 --> 01:10:02,240
+It will be a link in the show notes, listeners.
+
+1472
+01:10:02,240 --> 01:10:05,640
+I'll keep all of this in to reveal my ignorance.
+
+1473
+01:10:05,640 --> 01:10:09,520
+But on that bombshell, that was the Octothorpe podcast.
+
+1474
+01:10:09,520 --> 01:10:10,720
+And it's goodbye from me.
+
+1475
+01:10:10,720 --> 01:10:12,040
+It's goodbye from me.
+
+1476
+01:10:12,380 --> 01:10:13,380
+And it's goodbye from me.
+
+1477
+01:10:34,980 --> 01:10:37,000
+But one day we do want to come to an Easter con.
+
+1478
+01:10:37,000 --> 01:10:38,000
+That'd be so good.
+
+1479
+01:10:38,000 --> 01:10:39,500
+Yes, that would be fun.
+
+1480
+01:10:39,500 --> 01:10:43,280
+And you can go in and you know, although if you go in and you're not there, then you could
+
+1481
+01:10:43,280 --> 01:10:44,940
+be stunt Liz again.
+
+1482
+01:10:45,460 --> 01:10:46,340
+I could be.
+
+1483
+01:10:46,340 --> 01:10:48,140
+Well, I've never been a stunt Liz before.
+
+1484
+01:10:48,140 --> 01:10:49,020
+Well, exactly.
+
+1485
+01:10:49,020 --> 01:10:51,420
+Totally different experience being a stunt Allison, honestly.
+
+1486
+01:10:51,420 --> 01:10:52,260
+I bet.
+
+1487
+01:10:52,260 --> 01:10:53,040
+It's true.
+
+1488
+01:10:53,040 --> 01:10:57,660
+You arrive early and you've got air conditioning and your microphone's not broken.
+
+1489
+01:10:57,660 --> 01:11:00,880
+My microphone is Allison's.
+
+1490
+01:11:00,880 --> 01:11:02,400
+Oh, you said Allison's is often broken.
+
+1491
+01:11:02,400 --> 01:11:04,240
+I mean, mine wasn't working today.
+
+1492
+01:11:04,240 --> 01:11:06,220
+So yeah, I guess I'm really on the ball.
+
+1493
+01:11:06,220 --> 01:11:12,440
+The theme music for this episode was Surf Shimmy by Kevin MacLeod and Combatech.com, used
+
+1494
+01:11:12,440 --> 01:11:15,400
+under a Creative Commons Attribution 4.0 license.
+
+1495
+01:11:15,400 --> 01:11:17,800
+this podcast will end at the beep
+
+1496
+01:11:17,800 --> 01:11:18,960
+beep
+
