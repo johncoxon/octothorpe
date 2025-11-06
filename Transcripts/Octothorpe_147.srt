@@ -1,0 +1,8180 @@
+1
+00:00:00,001 --> 00:00:01,220
+Where's our style guide, John?
+
+2
+00:00:01,220 --> 00:00:05,500
+It's in the shared folder. It's called Octothorpe Style Guide.
+
+3
+00:00:05,500 --> 00:00:06,540
+Oh, actually, I thought, okay.
+
+4
+00:00:06,540 --> 00:00:13,320
+You called my bluff, Liz, and I was ready for you.
+
+5
+00:00:25,980 --> 00:00:32,940
+Hello, everybody, and welcome to the very 147th episode of Octothorpe,
+
+6
+00:00:32,940 --> 00:00:38,780
+which is finishing its brain surgery with Jeff Goldblum and making its way to the test track
+
+7
+00:00:38,780 --> 00:00:44,020
+on the 6th of November, 2025. I'm John Coxon.
+
+8
+00:00:44,020 --> 00:00:44,900
+I'm Alison Scott.
+
+9
+00:00:44,900 --> 00:00:46,040
+And I'm Liz Batty.
+
+10
+00:00:46,040 --> 00:00:48,580
+Can you tell I watched Buckaroo Banzai last night?
+
+11
+00:00:48,580 --> 00:00:48,940
+No.
+
+12
+00:00:48,940 --> 00:00:50,820
+Ah, never seen that, so no.
+
+13
+00:00:50,820 --> 00:00:55,380
+This episode is coming to you the day before the start of
+
+14
+00:00:55,380 --> 00:00:55,940
+No.
+
+15
+00:00:55,940 --> 00:00:56,180
+V.
+
+16
+00:00:56,180 --> 00:00:56,240
+V.
+
+17
+00:00:56,240 --> 00:00:56,620
+Con.
+
+18
+00:00:56,620 --> 00:01:03,100
+So this is perfect listening for people who are doing that travelling.
+
+19
+00:01:03,100 --> 00:01:05,340
+And we will see you there, listeners.
+
+20
+00:01:05,340 --> 00:01:10,060
+Yeah, if you want to catch up on all the Octothorpe lore so that you are, you know,
+
+21
+00:01:10,060 --> 00:01:14,440
+sufficiently educated for the live podcast and not missing out on any inside jokes,
+
+22
+00:01:14,440 --> 00:01:16,280
+then, yeah, you've got to get going.
+
+23
+00:01:16,280 --> 00:01:19,620
+You've not got long, but we won't have any inside jokes at Nevercon.
+
+24
+00:01:19,620 --> 00:01:20,520
+Probably.
+
+25
+00:01:20,520 --> 00:01:25,620
+Liz, are you still incandescent with rage that you're going to miss our live
+
+26
+00:01:25,620 --> 00:01:25,860
+podcast?
+
+27
+00:01:25,860 --> 00:01:26,580
+Octothorpe?
+
+28
+00:01:26,580 --> 00:01:28,260
+I absolutely am, John.
+
+29
+00:01:28,260 --> 00:01:29,200
+Fair enough.
+
+30
+00:01:29,200 --> 00:01:31,340
+But I will let you have credit for that joke.
+
+31
+00:01:31,340 --> 00:01:36,960
+So we are on, I think, on the Sunday morning.
+
+32
+00:01:36,960 --> 00:01:38,440
+So we will see everyone then.
+
+33
+00:01:38,440 --> 00:01:39,660
+But yeah, I'm looking forward to it.
+
+34
+00:01:39,660 --> 00:01:40,000
+Be good.
+
+35
+00:01:40,000 --> 00:01:42,800
+And you know, if you don't go to Eastercon, we can make the same.
+
+36
+00:01:42,800 --> 00:01:44,000
+Oh, no, that's iridescent.
+
+37
+00:01:44,000 --> 00:01:45,280
+You'd be iridescent with rage.
+
+38
+00:01:45,280 --> 00:01:47,000
+Sorry, I'm not making any sense.
+
+39
+00:01:47,000 --> 00:01:51,800
+Well, also, I don't think that Stunt Liz has ever written a book called Iridescent.
+
+40
+00:01:51,800 --> 00:01:52,820
+No, I know.
+
+41
+00:01:52,820 --> 00:01:55,620
+I am not iridescent, as far as we know.
+
+42
+00:01:55,780 --> 00:01:59,280
+It took a lot of self-control not to call the previous episode iridescent.
+
+43
+00:01:59,280 --> 00:02:03,680
+But I exercise discretion.
+
+44
+00:02:03,680 --> 00:02:10,320
+We have some letters of comment from all of you lovely people.
+
+45
+00:02:10,320 --> 00:02:13,780
+And I'm going to start with Raj.
+
+46
+00:02:13,780 --> 00:02:18,180
+This is a letter of comment on the Tommy Ferguson episode.
+
+47
+00:02:18,180 --> 00:02:24,480
+That's 145 listeners, because we recorded the follow-up episode very quickly.
+
+48
+00:02:24,480 --> 00:02:25,060
+And so.
+
+49
+00:02:25,700 --> 00:02:27,360
+There are some letters on that one.
+
+50
+00:02:27,360 --> 00:02:33,320
+So Raj says that he really enjoyed having Tommy Ferguson as Stunt Liz.
+
+51
+00:02:33,320 --> 00:02:36,460
+And given that most people seem to run a con and then run a mile,
+
+52
+00:02:36,460 --> 00:02:41,620
+it was brilliant to hear Tommy's enthusiasm for continuing to run cons.
+
+53
+00:02:41,620 --> 00:02:45,660
+And after show, I'm sure she didn't mean it that way,
+
+54
+00:02:45,660 --> 00:02:48,880
+but it really sounded like Alison was arguing in favor of cruelty to animals.
+
+55
+00:02:48,880 --> 00:02:50,580
+I don't think she was.
+
+56
+00:02:50,580 --> 00:02:51,300
+What?
+
+57
+00:02:51,300 --> 00:02:51,860
+What?
+
+58
+00:02:51,860 --> 00:02:52,960
+No.
+
+59
+00:02:52,960 --> 00:02:55,060
+But he does follow up with,
+
+60
+00:02:55,620 --> 00:02:59,840
+he owns a copy of the Abyss on DVD and it's classified by the BBFC as a 15.
+
+61
+00:02:59,840 --> 00:03:01,000
+And I think,
+
+62
+00:03:01,000 --> 00:03:06,940
+I think Cameron did compromise on the previous home release and is refusing to compromise on this one.
+
+63
+00:03:06,940 --> 00:03:08,040
+It was cut.
+
+64
+00:03:08,040 --> 00:03:08,700
+Yeah.
+
+65
+00:03:08,700 --> 00:03:12,720
+There is an extant UK DVD version that does not have the scene.
+
+66
+00:03:12,720 --> 00:03:15,720
+But if you want to see it in high quality,
+
+67
+00:03:15,720 --> 00:03:19,340
+then you will not be able to get a legal UK copy.
+
+68
+00:03:19,340 --> 00:03:21,240
+Although follow up to that.
+
+69
+00:03:21,240 --> 00:03:25,040
+Apparently the 4K version is like lazily AI,
+
+70
+00:03:25,540 --> 00:03:26,020
+upscaled.
+
+71
+00:03:26,020 --> 00:03:26,660
+If you Google it,
+
+72
+00:03:26,660 --> 00:03:29,840
+there are lots of film fans who are very angry about the quality of the,
+
+73
+00:03:29,840 --> 00:03:30,820
+of the restoration.
+
+74
+00:03:30,820 --> 00:03:31,340
+So,
+
+75
+00:03:31,340 --> 00:03:35,600
+which is weird given how anal Cameron is about the qualities of his works.
+
+76
+00:03:35,600 --> 00:03:37,660
+You'd think he would have not done that,
+
+77
+00:03:37,660 --> 00:03:38,640
+but I don't know.
+
+78
+00:03:38,640 --> 00:03:39,160
+Hmm.
+
+79
+00:03:39,160 --> 00:03:42,040
+It was also cut for its original cinema release.
+
+80
+00:03:42,040 --> 00:03:43,620
+So I did not see that film.
+
+81
+00:03:43,620 --> 00:03:46,120
+I did not see the rat scene in the cinema.
+
+82
+00:03:46,120 --> 00:03:47,580
+I think I've since seen it on YouTube.
+
+83
+00:03:47,580 --> 00:03:48,600
+So there you have it,
+
+84
+00:03:48,600 --> 00:03:48,880
+Raj.
+
+85
+00:03:48,880 --> 00:03:51,940
+Alison just watches Animal Cruelty on YouTube.
+
+86
+00:03:51,940 --> 00:03:53,240
+That's the.
+
+87
+00:03:53,240 --> 00:03:53,900
+Well,
+
+88
+00:03:55,460 --> 00:03:55,700
+no,
+
+89
+00:03:55,700 --> 00:03:56,720
+I'm teasing.
+
+90
+00:03:56,720 --> 00:03:57,180
+I'm teasing.
+
+91
+00:03:57,180 --> 00:04:00,840
+I do not think I do not seriously believe Alison is in favour of Animal Cruelty,
+
+92
+00:04:00,840 --> 00:04:02,200
+or I would not have made the joke.
+
+93
+00:04:02,200 --> 00:04:02,760
+Well,
+
+94
+00:04:02,760 --> 00:04:02,980
+I mean,
+
+95
+00:04:02,980 --> 00:04:04,960
+I like eating animals.
+
+96
+00:04:04,960 --> 00:04:07,120
+There's a whole,
+
+97
+00:04:07,120 --> 00:04:08,360
+whole thing there.
+
+98
+00:04:08,360 --> 00:04:10,360
+Vegetarians don't write in.
+
+99
+00:04:10,360 --> 00:04:13,980
+It just showed the weirdness now of like the BBFC in that they can say,
+
+100
+00:04:13,980 --> 00:04:14,300
+no,
+
+101
+00:04:14,300 --> 00:04:17,760
+this is something that you will never allow to be released on DVD.
+
+102
+00:04:17,760 --> 00:04:20,000
+But Alison's watched it on YouTube.
+
+103
+00:04:20,000 --> 00:04:20,660
+Well,
+
+104
+00:04:20,660 --> 00:04:21,500
+you know,
+
+105
+00:04:21,500 --> 00:04:23,020
+it's the dark web in it.
+
+106
+00:04:23,020 --> 00:04:25,200
+YouTube is not the dark web.
+
+107
+00:04:25,380 --> 00:04:26,500
+It's just the web.
+
+108
+00:04:26,500 --> 00:04:28,480
+Thank you very much for writing in Raj.
+
+109
+00:04:28,480 --> 00:04:33,380
+We got a letter from Paul Weimer who quotes me saying,
+
+110
+00:04:33,380 --> 00:04:35,500
+he actually quotes me verbatim,
+
+111
+00:04:35,500 --> 00:04:37,520
+which means I know how much I say like,
+
+112
+00:04:37,520 --> 00:04:38,100
+and you know now,
+
+113
+00:04:38,100 --> 00:04:42,700
+but I said basically that maybe if comms only have about $20,000 left,
+
+114
+00:04:42,700 --> 00:04:44,540
+they should just submit a final report and be done.
+
+115
+00:04:44,540 --> 00:04:48,700
+And Paul says that 20K is a lot of money and maybe that's super not great.
+
+116
+00:04:48,700 --> 00:04:49,100
+Yeah,
+
+117
+00:04:49,100 --> 00:04:51,740
+I can kind of also take that view,
+
+118
+00:04:51,740 --> 00:04:52,880
+but I'm also kind of going,
+
+119
+00:04:52,880 --> 00:04:53,840
+well,
+
+120
+00:04:53,840 --> 00:04:54,420
+by this point,
+
+121
+00:04:54,420 --> 00:04:55,220
+we've trusted them.
+
+122
+00:04:55,300 --> 00:04:56,260
+We've done stuff with many,
+
+123
+00:04:56,260 --> 00:04:57,760
+many hundreds of thousands of dollars.
+
+124
+00:04:57,760 --> 00:04:59,920
+So I'm prepared to give him a bit of a pass on the last 20K.
+
+125
+00:04:59,920 --> 00:05:00,460
+But then again,
+
+126
+00:05:00,460 --> 00:05:01,300
+if there's a comm that doesn't,
+
+127
+00:05:01,300 --> 00:05:04,820
+we don't think has done good stuff with our hundreds of thousands of dollars,
+
+128
+00:05:04,820 --> 00:05:08,000
+then maybe that's a good rationale for not just letting them,
+
+129
+00:05:08,000 --> 00:05:09,280
+you know,
+
+130
+00:05:09,280 --> 00:05:10,000
+stop doing reports.
+
+131
+00:05:10,000 --> 00:05:14,260
+And I think you have to bear in mind that 20,000 pounds or $20,000,
+
+132
+00:05:14,260 --> 00:05:15,800
+20,000 monetary units.
+
+133
+00:05:15,800 --> 00:05:17,100
+To me,
+
+134
+00:05:17,100 --> 00:05:18,460
+that's loads of money,
+
+135
+00:05:18,460 --> 00:05:22,800
+but to a world comm with a budget of like a million and a half dollars,
+
+136
+00:05:22,800 --> 00:05:25,220
+it's about a percent of their,
+
+137
+00:05:25,220 --> 00:05:26,220
+like money.
+
+138
+00:05:26,220 --> 00:05:30,800
+Most world comms are bringing in over a million dollars in revenue.
+
+139
+00:05:30,800 --> 00:05:33,600
+And so it sounds like a lot of money,
+
+140
+00:05:33,600 --> 00:05:38,160
+but I do think it is important to bear in mind that it is 1% of the budget.
+
+141
+00:05:38,160 --> 00:05:40,740
+So it's not to say that I think Paul's wrong,
+
+142
+00:05:40,740 --> 00:05:41,900
+but I don't think,
+
+143
+00:05:41,900 --> 00:05:45,640
+I think also you had more of a point than Paul gives you credit for in his
+
+144
+00:05:45,640 --> 00:05:46,180
+log.
+
+145
+00:05:46,180 --> 00:05:46,700
+I think.
+
+146
+00:05:46,700 --> 00:05:48,700
+Although he does mention that,
+
+147
+00:05:48,700 --> 00:05:48,940
+you know,
+
+148
+00:05:48,940 --> 00:05:52,360
+his jaw hit the floor when I said that con Zealand had 140,000 pounds.
+
+149
+00:05:52,360 --> 00:05:55,120
+I think the other point here is that if,
+
+150
+00:05:55,140 --> 00:05:55,380
+people,
+
+151
+00:05:55,380 --> 00:05:56,880
+when people are submitting reports,
+
+152
+00:05:56,880 --> 00:05:58,520
+very few people are reading them.
+
+153
+00:05:58,520 --> 00:06:01,120
+So very few people actually are paying any attention to what's going on.
+
+154
+00:06:01,120 --> 00:06:01,580
+Yeah.
+
+155
+00:06:01,580 --> 00:06:02,220
+That's the other thing,
+
+156
+00:06:02,220 --> 00:06:02,440
+right?
+
+157
+00:06:02,440 --> 00:06:04,720
+If we hadn't reported,
+
+158
+00:06:04,720 --> 00:06:05,680
+no one would have.
+
+159
+00:06:05,680 --> 00:06:06,200
+I mean,
+
+160
+00:06:06,200 --> 00:06:07,820
+there are people who do read this stuff,
+
+161
+00:06:07,820 --> 00:06:09,100
+but they're all called Liz.
+
+162
+00:06:09,100 --> 00:06:09,680
+No,
+
+163
+00:06:09,680 --> 00:06:09,920
+no.
+
+164
+00:06:09,920 --> 00:06:10,960
+Some of them are called Claire.
+
+165
+00:06:10,960 --> 00:06:11,640
+Yes,
+
+166
+00:06:11,640 --> 00:06:12,020
+it's true.
+
+167
+00:06:12,020 --> 00:06:18,220
+I wanted to pick up a comment from Terry Gibbs on Facebook in connection with
+
+168
+00:06:18,220 --> 00:06:18,540
+this,
+
+169
+00:06:18,540 --> 00:06:19,300
+who says,
+
+170
+00:06:19,300 --> 00:06:23,340
+I have been amazed at considering the size of money involved accounting for it
+
+171
+00:06:23,340 --> 00:06:24,640
+seems a little relaxed.
+
+172
+00:06:25,060 --> 00:06:28,620
+And so first of all,
+
+173
+00:06:28,620 --> 00:06:28,940
+Terry,
+
+174
+00:06:28,940 --> 00:06:32,380
+you have a wild faith in more formal accounting,
+
+175
+00:06:32,380 --> 00:06:35,940
+which is also extremely good at not letting people see money that they're not
+
+176
+00:06:35,940 --> 00:06:37,240
+interested in people seeing,
+
+177
+00:06:37,240 --> 00:06:38,220
+you know,
+
+178
+00:06:38,220 --> 00:06:40,500
+it,
+
+179
+00:06:40,500 --> 00:06:41,040
+the relax.
+
+180
+00:06:41,040 --> 00:06:43,600
+The fact that the accounting is relaxed is not the problem.
+
+181
+00:06:43,600 --> 00:06:44,940
+The fact that nobody cares,
+
+182
+00:06:44,940 --> 00:06:47,660
+nobody seems to pay very much attention might be a problem.
+
+183
+00:06:47,660 --> 00:06:48,060
+I mean,
+
+184
+00:06:48,060 --> 00:06:49,480
+as long as a few people pay attention,
+
+185
+00:06:49,480 --> 00:06:50,180
+I think that's enough.
+
+186
+00:06:50,180 --> 00:06:52,060
+You don't need a lot of people to know.
+
+187
+00:06:52,060 --> 00:06:52,620
+I mean,
+
+188
+00:06:52,620 --> 00:06:54,980
+Northumbria is very transparent with its,
+
+189
+00:06:54,980 --> 00:06:55,520
+its finances.
+
+190
+00:06:55,520 --> 00:06:59,560
+There's like a briefing every year where the head accountant basically goes through all the money means.
+
+191
+00:06:59,560 --> 00:07:01,420
+And he keeps having to say stuff like this.
+
+192
+00:07:01,420 --> 00:07:01,720
+This,
+
+193
+00:07:01,720 --> 00:07:02,980
+these numbers don't add up.
+
+194
+00:07:02,980 --> 00:07:05,680
+And the reason they don't add up is because of how we do it in accounting.
+
+195
+00:07:05,680 --> 00:07:07,220
+And I know it's confusing,
+
+196
+00:07:07,220 --> 00:07:10,200
+but the reason we do it this way in accounting is to confuse people.
+
+197
+00:07:10,200 --> 00:07:12,320
+And so I'm doing my best to D confuse you.
+
+198
+00:07:12,320 --> 00:07:13,140
+And,
+
+199
+00:07:13,140 --> 00:07:13,540
+and,
+
+200
+00:07:13,540 --> 00:07:14,260
+Oh,
+
+201
+00:07:14,260 --> 00:07:16,120
+that last bit's not entirely fair.
+
+202
+00:07:16,120 --> 00:07:18,280
+No,
+
+203
+00:07:18,280 --> 00:07:21,900
+but I think if you're an accountant trying to explain accounting things to non accountants,
+
+204
+00:07:21,900 --> 00:07:23,240
+it can be helpful to be like,
+
+205
+00:07:23,240 --> 00:07:24,600
+I know that this is,
+
+206
+00:07:24,900 --> 00:07:27,400
+this appears to be nonsense and it isn't nonsense,
+
+207
+00:07:27,400 --> 00:07:29,400
+but you're going to have to go with me on the journey for why.
+
+208
+00:07:29,400 --> 00:07:30,120
+So,
+
+209
+00:07:30,120 --> 00:07:30,540
+I mean,
+
+210
+00:07:30,540 --> 00:07:32,220
+I'm a physicist and I don't understand accounting.
+
+211
+00:07:32,220 --> 00:07:34,380
+Like I have a PhD in physics,
+
+212
+00:07:34,380 --> 00:07:35,980
+but I don't understand physics.
+
+213
+00:07:35,980 --> 00:07:36,200
+So,
+
+214
+00:07:36,200 --> 00:07:36,480
+you know,
+
+215
+00:07:36,480 --> 00:07:37,060
+I mean,
+
+216
+00:07:37,060 --> 00:07:38,660
+and lots of people don't understand physics.
+
+217
+00:07:38,660 --> 00:07:39,080
+And,
+
+218
+00:07:39,080 --> 00:07:39,400
+um,
+
+219
+00:07:39,400 --> 00:07:45,740
+seeing as I have twice in my life sat in a room saying everything you've previously learned about physics is wrong.
+
+220
+00:07:45,740 --> 00:07:46,860
+And let me explain why.
+
+221
+00:07:46,860 --> 00:07:47,640
+Oh,
+
+222
+00:07:47,640 --> 00:07:48,900
+but that's also true of accounting.
+
+223
+00:07:48,900 --> 00:07:52,020
+Um,
+
+224
+00:07:52,020 --> 00:07:52,700
+but point,
+
+225
+00:07:52,700 --> 00:07:53,080
+point,
+
+226
+00:07:53,080 --> 00:07:53,420
+point.
+
+227
+00:07:53,420 --> 00:07:53,800
+Yeah,
+
+228
+00:07:53,800 --> 00:07:54,340
+I think,
+
+229
+00:07:54,340 --> 00:07:54,820
+I think,
+
+230
+00:07:54,820 --> 00:07:57,900
+I think accounting is complicated and I don't think I,
+
+231
+00:07:57,900 --> 00:07:58,240
+I,
+
+232
+00:07:58,240 --> 00:07:58,340
+yeah,
+
+233
+00:07:58,340 --> 00:07:59,500
+I don't,
+
+234
+00:07:59,500 --> 00:07:59,740
+we,
+
+235
+00:07:59,740 --> 00:08:00,280
+it would be,
+
+236
+00:08:00,280 --> 00:08:00,860
+actually,
+
+237
+00:08:00,860 --> 00:08:01,200
+you know,
+
+238
+00:08:01,200 --> 00:08:03,440
+who would have been a good person to talk to about all this stuff,
+
+239
+00:08:03,440 --> 00:08:03,680
+Liz?
+
+240
+00:08:03,680 --> 00:08:06,540
+Tommy Ferguson on account of his professional background.
+
+241
+00:08:06,540 --> 00:08:10,720
+So maybe we should have Tommy back like as a fourth member,
+
+242
+00:08:10,720 --> 00:08:16,700
+because it might actually be interesting to talk about this with someone who understands more of the professional aspect of it.
+
+243
+00:08:16,700 --> 00:08:20,400
+I live with an accountant and I am not entirely sure that's true.
+
+244
+00:08:20,400 --> 00:08:21,420
+Uh,
+
+245
+00:08:21,420 --> 00:08:24,020
+yes.
+
+246
+00:08:24,740 --> 00:08:24,980
+And,
+
+247
+00:08:24,980 --> 00:08:25,300
+um,
+
+248
+00:08:25,300 --> 00:08:27,100
+and my daughter is about to be a tax accountant,
+
+249
+00:08:27,100 --> 00:08:28,620
+which is kind of related.
+
+250
+00:08:28,620 --> 00:08:29,320
+So,
+
+251
+00:08:29,320 --> 00:08:30,140
+um,
+
+252
+00:08:30,140 --> 00:08:35,780
+Terry Gibbs also says Brisbane in 2028 may rely heavily on the parcel long,
+
+253
+00:08:35,780 --> 00:08:39,140
+having an idea of how much that might be could have a bearing on their plans.
+
+254
+00:08:39,140 --> 00:08:43,720
+I think the kind of point about parcel long is that you don't know how much is going to be until after you've run the convention.
+
+255
+00:08:43,720 --> 00:08:44,380
+Um,
+
+256
+00:08:44,380 --> 00:08:45,140
+cause it's,
+
+257
+00:08:45,140 --> 00:08:46,480
+it's what you've got left over.
+
+258
+00:08:46,480 --> 00:08:47,040
+Yeah.
+
+259
+00:08:47,040 --> 00:08:47,440
+I mean,
+
+260
+00:08:47,440 --> 00:08:54,660
+I was going to say that the other thing is I am not an accountant and my accountancy skills go about as far as,
+
+261
+00:08:54,660 --> 00:08:55,660
+doing my own taxes.
+
+262
+00:08:55,660 --> 00:09:01,520
+So there's entirely possible that there's things I'm completely missing in the accounts from WorldCom.
+
+263
+00:09:01,520 --> 00:09:02,280
+Um,
+
+264
+00:09:02,280 --> 00:09:02,640
+but yes,
+
+265
+00:09:02,640 --> 00:09:03,860
+back to Paul,
+
+266
+00:09:03,860 --> 00:09:05,400
+who also says that,
+
+267
+00:09:05,400 --> 00:09:05,780
+uh,
+
+268
+00:09:05,780 --> 00:09:07,500
+he thinks Chengdu should make new statues,
+
+269
+00:09:07,500 --> 00:09:09,300
+all the money they have and personally deliver them,
+
+270
+00:09:09,300 --> 00:09:10,340
+especially to Chris Barkley.
+
+271
+00:09:10,340 --> 00:09:16,180
+Or maybe they can pay for a trip for Dave McCarty to visit Nepal so he can properly distinguish it from Tibet.
+
+272
+00:09:16,180 --> 00:09:21,500
+And I also want to say that Paul also left us a skeet of comment about his Nepal Tibet joke,
+
+273
+00:09:21,500 --> 00:09:23,260
+which has a nice picture of Nepal in.
+
+274
+00:09:23,260 --> 00:09:24,340
+So I will put it in the show notes.
+
+275
+00:09:24,340 --> 00:09:26,180
+Kev McVey says,
+
+276
+00:09:26,180 --> 00:09:26,180
+Kev McVey says,
+
+277
+00:09:26,180 --> 00:09:54,260
+Kev McVey says,
+
+278
+00:09:54,260 --> 00:09:56,100
+Kev McVey says,
+
+279
+00:09:56,100 --> 00:09:57,140
+Kev McVey says,
+
+280
+00:09:57,140 --> 00:09:57,180
+Kev McVey says,
+
+281
+00:09:57,180 --> 00:09:57,200
+Kev McVey says,
+
+282
+00:09:57,200 --> 00:09:57,240
+Kev McVey says,
+
+283
+00:09:57,240 --> 00:09:57,300
+Kev McVey says,
+
+284
+00:09:57,300 --> 00:09:57,320
+Kev McVey says,
+
+285
+00:09:57,320 --> 00:09:57,360
+Kev McVey says,
+
+286
+00:09:57,360 --> 00:09:57,420
+Kev McVey says,
+
+287
+00:09:57,420 --> 00:09:57,440
+Kev McVey says,
+
+288
+00:09:57,440 --> 00:09:57,480
+Kev McVey says,
+
+289
+00:09:57,480 --> 00:09:57,500
+Kev McVey says,
+
+290
+00:09:57,500 --> 00:09:57,520
+Kev McVey says,
+
+291
+00:09:57,520 --> 00:09:57,540
+Kev McVey says,
+
+292
+00:09:57,540 --> 00:09:57,560
+Kev McVey says,
+
+293
+00:09:57,560 --> 00:09:59,060
+I could have tried to find parties,
+
+294
+00:09:59,060 --> 00:10:01,460
+but I was tired from traveling and a bit anxious of the crowds.
+
+295
+00:10:01,460 --> 00:10:03,240
+I did enjoy the con,
+
+296
+00:10:03,240 --> 00:10:06,020
+but it was much more of a solo experience rather than the community I'm used to.
+
+297
+00:10:06,020 --> 00:10:08,260
+So I'm wondering what could help people who aren't new,
+
+298
+00:10:08,260 --> 00:10:12,240
+but have maybe had a break or mostly only been to different conventions,
+
+299
+00:10:12,240 --> 00:10:13,420
+different styles of conventions.
+
+300
+00:10:13,420 --> 00:10:16,600
+The first world con type panel wouldn't normally attract me,
+
+301
+00:10:16,600 --> 00:10:17,480
+but maybe it should have.
+
+302
+00:10:17,480 --> 00:10:18,700
+I thought this was good.
+
+303
+00:10:18,700 --> 00:10:22,900
+We're going to touch on other styles of cons a little bit later in the episode,
+
+304
+00:10:22,900 --> 00:10:23,300
+Kev,
+
+305
+00:10:23,300 --> 00:10:27,240
+which is actually completely coincidental to your lock,
+
+306
+00:10:27,240 --> 00:10:28,820
+but it ties in nicely.
+
+307
+00:10:28,820 --> 00:10:30,280
+But no,
+
+308
+00:10:30,280 --> 00:10:30,500
+I mean,
+
+309
+00:10:30,500 --> 00:10:35,140
+I think I found the same thing going to gaming conventions.
+
+310
+00:10:35,140 --> 00:10:39,560
+I'm less familiar with like going to air con felt very lonely in a way that
+
+311
+00:10:39,560 --> 00:10:42,220
+going to other gaming conventions and going to sci-fi conventions doesn't
+
+312
+00:10:42,220 --> 00:10:42,680
+for me.
+
+313
+00:10:42,680 --> 00:10:46,200
+One thing I've been trying to do with the discord is try and bridge this gap
+
+314
+00:10:46,200 --> 00:10:50,140
+so that people who are new to the community who are into discord can find
+
+315
+00:10:50,140 --> 00:10:50,840
+other people.
+
+316
+00:10:50,840 --> 00:10:54,880
+And I did hear from people at Glasgow that found my scavenger hunt.
+
+317
+00:10:54,880 --> 00:10:59,360
+And if we ran the con channels were very good in kind of giving them names to
+
+318
+00:10:59,360 --> 00:11:00,640
+look out for the conventions.
+
+319
+00:11:00,640 --> 00:11:01,020
+They'd be like,
+
+320
+00:11:01,020 --> 00:11:01,340
+you,
+
+321
+00:11:01,340 --> 00:11:03,480
+you're wrong about Fran.
+
+322
+00:11:03,480 --> 00:11:05,820
+Shout out to Frandom.
+
+323
+00:11:05,820 --> 00:11:07,960
+And so I think there are things we are trying to do,
+
+324
+00:11:07,960 --> 00:11:10,980
+but I do think this is an area we could always do more.
+
+325
+00:11:10,980 --> 00:11:11,900
+Like it wouldn't,
+
+326
+00:11:11,900 --> 00:11:12,100
+it's,
+
+327
+00:11:12,200 --> 00:11:14,840
+cause it's never going to be a solved problem because human social dynamics
+
+328
+00:11:14,840 --> 00:11:15,280
+are complicated.
+
+329
+00:11:15,280 --> 00:11:19,060
+And we talked about the icebreaker that Tommy did at core flu.
+
+330
+00:11:19,060 --> 00:11:20,140
+And in that case,
+
+331
+00:11:20,140 --> 00:11:22,620
+like it might not have been there as necessary.
+
+332
+00:11:22,620 --> 00:11:23,420
+Cause like core flu,
+
+333
+00:11:23,420 --> 00:11:24,740
+a lot of people know a lot of people,
+
+334
+00:11:24,740 --> 00:11:25,420
+but like,
+
+335
+00:11:25,420 --> 00:11:26,060
+I do think,
+
+336
+00:11:26,060 --> 00:11:28,000
+I do think this is something people are trying to do.
+
+337
+00:11:28,000 --> 00:11:30,460
+If listeners have any thoughts on how we could do it better,
+
+338
+00:11:30,460 --> 00:11:31,160
+do write in.
+
+339
+00:11:31,160 --> 00:11:32,120
+But I do,
+
+340
+00:11:32,120 --> 00:11:33,760
+the thing I wanted to pick up on was,
+
+341
+00:11:33,760 --> 00:11:37,920
+I think we do a very good job with people who are at their first world con,
+
+342
+00:11:37,920 --> 00:11:42,020
+but I don't think we do anything at all for people who are at their first world
+
+343
+00:11:42,020 --> 00:11:42,180
+con.
+
+344
+00:11:42,180 --> 00:11:44,260
+Since the last world con they went to in 1990,
+
+345
+00:11:44,260 --> 00:11:46,220
+like you don't get a first world con ribbon.
+
+346
+00:11:46,220 --> 00:11:47,060
+You don't get any,
+
+347
+00:11:47,060 --> 00:11:47,440
+like,
+
+348
+00:11:47,440 --> 00:11:49,640
+I wonder whether a returning,
+
+349
+00:11:49,640 --> 00:11:52,520
+like we have scholarships in,
+
+350
+00:11:52,520 --> 00:11:56,080
+in academia for people who have had a career break and are coming back.
+
+351
+00:11:56,080 --> 00:11:59,420
+And I wonder if we need to have an approach for people who have had a fan
+
+352
+00:11:59,420 --> 00:12:01,240
+break and are coming back.
+
+353
+00:12:01,240 --> 00:12:02,060
+What do we reckon?
+
+354
+00:12:02,060 --> 00:12:03,420
+I think that's quite good.
+
+355
+00:12:03,420 --> 00:12:04,700
+But it was very interesting.
+
+356
+00:12:04,700 --> 00:12:05,300
+Lock Kevin.
+
+357
+00:12:05,300 --> 00:12:05,960
+Thank you very much.
+
+358
+00:12:05,960 --> 00:12:07,440
+If you're one of those people,
+
+359
+00:12:07,440 --> 00:12:09,560
+right in,
+
+360
+00:12:09,560 --> 00:12:12,000
+let us know if you're coming to Easter con and you haven't been to a con for
+
+361
+00:12:12,000 --> 00:12:12,160
+30 years.
+
+362
+00:12:12,160 --> 00:12:12,560
+30 years.
+
+363
+00:12:12,560 --> 00:12:16,300
+We used to have a whole concept of the born again,
+
+364
+00:12:16,300 --> 00:12:17,660
+fifties fans who,
+
+365
+00:12:17,660 --> 00:12:19,820
+who returned to fandom in the eighties.
+
+366
+00:12:19,820 --> 00:12:24,120
+I think they'd left fandom to raise a family and then they returned or for
+
+367
+00:12:24,120 --> 00:12:24,860
+some other reason.
+
+368
+00:12:24,860 --> 00:12:25,340
+Well,
+
+369
+00:12:25,340 --> 00:12:25,760
+cause that,
+
+370
+00:12:25,760 --> 00:12:27,620
+that describes Tommy,
+
+371
+00:12:27,620 --> 00:12:28,180
+I think,
+
+372
+00:12:28,180 --> 00:12:28,440
+right?
+
+373
+00:12:28,440 --> 00:12:31,360
+Like we were talking about that with him two episodes ago and he very much
+
+374
+00:12:31,360 --> 00:12:34,400
+had that thing where he went away for a little bit and then came back in.
+
+375
+00:12:34,400 --> 00:12:36,460
+And I think it does,
+
+376
+00:12:36,460 --> 00:12:37,080
+you know,
+
+377
+00:12:37,080 --> 00:12:37,800
+life happens.
+
+378
+00:12:37,800 --> 00:12:39,020
+So yeah.
+
+379
+00:12:39,020 --> 00:12:39,360
+Yeah.
+
+380
+00:12:39,360 --> 00:12:40,880
+Carrie and Jim Moat,
+
+381
+00:12:40,880 --> 00:12:41,620
+I think,
+
+382
+00:12:42,140 --> 00:12:42,300
+yeah,
+
+383
+00:12:42,300 --> 00:12:43,040
+I think that's,
+
+384
+00:12:43,040 --> 00:12:47,040
+I think that's a really good idea because I think especially we do have a lot of
+
+385
+00:12:47,040 --> 00:12:49,060
+people who have taken time off to raise kids,
+
+386
+00:12:49,060 --> 00:12:50,080
+especially women.
+
+387
+00:12:50,080 --> 00:12:52,440
+And it's nice to give them kind of a,
+
+388
+00:12:52,440 --> 00:12:53,820
+a way back in when,
+
+389
+00:12:53,820 --> 00:12:54,060
+yeah,
+
+390
+00:12:54,060 --> 00:12:56,380
+you don't need someone to sit there and explain like,
+
+391
+00:12:56,380 --> 00:12:57,280
+Oh,
+
+392
+00:12:57,280 --> 00:13:00,840
+you should make sure to go and visit the dealer's room and know you should make
+
+393
+00:13:00,840 --> 00:13:02,740
+sure to get six hours of sleep or whatever,
+
+394
+00:13:02,740 --> 00:13:04,440
+but they might need a,
+
+395
+00:13:04,440 --> 00:13:05,000
+Oh yeah.
+
+396
+00:13:05,000 --> 00:13:05,680
+Since you've left,
+
+397
+00:13:05,680 --> 00:13:06,680
+this thing has become really,
+
+398
+00:13:06,680 --> 00:13:07,320
+really popular.
+
+399
+00:13:07,320 --> 00:13:10,760
+And that's why everyone's got 27,000 badge ribbons now and that kind of thing.
+
+400
+00:13:10,760 --> 00:13:11,280
+Yeah.
+
+401
+00:13:11,280 --> 00:13:12,120
+And also,
+
+402
+00:13:12,120 --> 00:13:13,420
+there's a code of conduct now,
+
+403
+00:13:13,420 --> 00:13:14,180
+please read it.
+
+404
+00:13:14,180 --> 00:13:18,320
+I'm thinking of an example person who I won't name where we basically had to sit
+
+405
+00:13:18,320 --> 00:13:21,020
+down and explain how codes of conduct work now.
+
+406
+00:13:21,020 --> 00:13:21,720
+Yes.
+
+407
+00:13:21,720 --> 00:13:22,820
+Chris Garcia wrote to us.
+
+408
+00:13:22,820 --> 00:13:23,480
+It's not common,
+
+409
+00:13:23,480 --> 00:13:23,860
+is it?
+
+410
+00:13:23,860 --> 00:13:25,240
+He says,
+
+411
+00:13:25,240 --> 00:13:29,400
+I did not expect this to break down into a subjective experience versus
+
+412
+00:13:29,400 --> 00:13:31,480
+objective observed reality discussion.
+
+413
+00:13:31,480 --> 00:13:32,540
+And it was brief,
+
+414
+00:13:32,540 --> 00:13:33,140
+too brief.
+
+415
+00:13:33,140 --> 00:13:35,100
+I don't even remember doing this.
+
+416
+00:13:35,100 --> 00:13:42,100
+He says he's hoping to go to Corflu in Santa Rosa,
+
+417
+00:13:42,100 --> 00:13:43,940
+which is close enough that he can drive,
+
+418
+00:13:43,940 --> 00:13:47,660
+but also far enough that it's almost like the wilds of wine County,
+
+419
+00:13:47,660 --> 00:13:49,240
+wilds of wine country,
+
+420
+00:13:49,240 --> 00:13:49,820
+even.
+
+421
+00:13:49,820 --> 00:13:50,480
+Um,
+
+422
+00:13:50,480 --> 00:13:51,160
+yes.
+
+423
+00:13:51,160 --> 00:13:54,080
+Santa Rosa is also the hometown of Guy Fieri.
+
+424
+00:13:54,080 --> 00:13:55,240
+Flavor town.
+
+425
+00:13:55,240 --> 00:13:56,480
+Who's Guy Fieri?
+
+426
+00:13:56,480 --> 00:13:57,340
+Uh,
+
+427
+00:13:57,340 --> 00:13:59,040
+he's the American service chef.
+
+428
+00:13:59,040 --> 00:14:01,400
+He wears good shirts made of fire.
+
+429
+00:14:01,400 --> 00:14:04,060
+I just want to say that I like that Chris is,
+
+430
+00:14:04,060 --> 00:14:04,580
+uh,
+
+431
+00:14:04,580 --> 00:14:11,500
+Chris has experienced a reality in which we had a discussion of experiential reality versus objective reality.
+
+432
+00:14:11,500 --> 00:14:12,080
+And none of us have experienced a reality in which we had a discussion of experiential reality versus objective reality.
+
+433
+00:14:12,080 --> 00:14:15,740
+And none of us have had that experience because none of us remember it.
+
+434
+00:14:15,740 --> 00:14:19,920
+So his experience of reality and our experience of reality is different,
+
+435
+00:14:19,920 --> 00:14:21,680
+despite the fact there is an objective reality.
+
+436
+00:14:21,680 --> 00:14:22,480
+And,
+
+437
+00:14:22,480 --> 00:14:22,880
+uh,
+
+438
+00:14:22,880 --> 00:14:23,080
+Chris,
+
+439
+00:14:23,080 --> 00:14:28,000
+I hope this small addition to whatever discussion it might be that we had is good.
+
+440
+00:14:28,000 --> 00:14:36,260
+He reminisces of times that convention shared the same hotel saying the best ever was the Lego con with the steampunk convention.
+
+441
+00:14:36,260 --> 00:14:37,300
+That sounds great.
+
+442
+00:14:37,300 --> 00:14:42,060
+But he also had a great time at the convention at the same hotel as a Bollywood fan convention.
+
+443
+00:14:42,060 --> 00:14:43,480
+Also sounds great.
+
+444
+00:14:43,480 --> 00:14:45,320
+Which does indeed sound great.
+
+445
+00:14:45,320 --> 00:14:45,860
+Um,
+
+446
+00:14:45,860 --> 00:14:49,380
+and I can confirm that Bollywood beats are a good thing to drink to Chris.
+
+447
+00:14:49,380 --> 00:14:52,560
+He has a guess at how our stunt Liz is next week.
+
+448
+00:14:52,560 --> 00:14:53,440
+It's not a correct guest.
+
+449
+00:14:53,440 --> 00:14:54,260
+It is John Oliver,
+
+450
+00:14:54,260 --> 00:14:54,820
+but yes,
+
+451
+00:14:54,820 --> 00:14:56,140
+John will be great on the podcast.
+
+452
+00:14:56,140 --> 00:14:56,800
+If you're listening,
+
+453
+00:14:56,800 --> 00:14:59,600
+do do right in any time.
+
+454
+00:14:59,600 --> 00:15:01,900
+He does say,
+
+455
+00:15:01,900 --> 00:15:02,300
+um,
+
+456
+00:15:02,300 --> 00:15:04,960
+letting world cons hold on to cash over time is not a bad thing.
+
+457
+00:15:04,960 --> 00:15:08,720
+There is of course the argument that world cons shouldn't make profits to have to move around,
+
+458
+00:15:08,720 --> 00:15:09,800
+but that's a religious argument.
+
+459
+00:15:09,800 --> 00:15:11,800
+I think it's also impossible in practice,
+
+460
+00:15:11,800 --> 00:15:16,480
+because you don't know if you're going to make profit until the last day of,
+
+461
+00:15:16,480 --> 00:15:16,780
+well,
+
+462
+00:15:16,780 --> 00:15:18,440
+until a week after the convention finishes.
+
+463
+00:15:18,440 --> 00:15:21,680
+I'm going to just do a tiny little accounting thing here,
+
+464
+00:15:21,680 --> 00:15:23,300
+which is that world cons don't make profit.
+
+465
+00:15:23,300 --> 00:15:24,200
+They make surpluses.
+
+466
+00:15:24,200 --> 00:15:25,100
+Ah,
+
+467
+00:15:25,100 --> 00:15:25,380
+yes.
+
+468
+00:15:25,380 --> 00:15:26,060
+No good point.
+
+469
+00:15:26,060 --> 00:15:26,900
+Hmm.
+
+470
+00:15:26,900 --> 00:15:29,300
+I think that's true everywhere for,
+
+471
+00:15:29,300 --> 00:15:30,680
+for fan round conventions.
+
+472
+00:15:30,680 --> 00:15:31,560
+Um,
+
+473
+00:15:31,560 --> 00:15:32,580
+and that's the issue actually,
+
+474
+00:15:32,580 --> 00:15:34,160
+is that they have surpluses that we need,
+
+475
+00:15:34,160 --> 00:15:36,220
+that they need to disperse,
+
+476
+00:15:36,220 --> 00:15:38,920
+make reasonably account for disperse.
+
+477
+00:15:38,920 --> 00:15:40,640
+Yes.
+
+478
+00:15:40,640 --> 00:15:41,780
+Anything you want to pull out?
+
+479
+00:15:41,780 --> 00:15:41,980
+Liz,
+
+480
+00:15:41,980 --> 00:15:43,160
+are you happy?
+
+481
+00:15:43,160 --> 00:15:44,360
+I am happy.
+
+482
+00:15:44,360 --> 00:15:45,900
+But we loved all of your lock,
+
+483
+00:15:45,900 --> 00:15:46,180
+Chris,
+
+484
+00:15:46,180 --> 00:15:47,640
+even though we don't read all of it out.
+
+485
+00:15:47,640 --> 00:15:49,700
+We also heard from Ed Morland,
+
+486
+00:15:49,700 --> 00:15:50,420
+who said,
+
+487
+00:15:50,420 --> 00:15:51,500
+may have to clip.
+
+488
+00:15:51,500 --> 00:15:51,840
+Thanks,
+
+489
+00:15:51,840 --> 00:15:52,020
+Ed.
+
+490
+00:15:52,020 --> 00:15:54,020
+You were right in order to play back,
+
+491
+00:15:54,020 --> 00:15:54,540
+uh,
+
+492
+00:15:54,540 --> 00:15:57,360
+when Rosanna is insufficiently appreciating my genius.
+
+493
+00:15:57,360 --> 00:15:58,760
+And he did footnote that,
+
+494
+00:15:58,760 --> 00:16:00,100
+but I won't read the footnotes because it's funnier.
+
+495
+00:16:00,100 --> 00:16:01,760
+Thank you,
+
+496
+00:16:01,760 --> 00:16:02,000
+Ed.
+
+497
+00:16:02,000 --> 00:16:03,160
+We have a similar,
+
+498
+00:16:03,160 --> 00:16:05,680
+there is a clip that exists for Liz,
+
+499
+00:16:05,680 --> 00:16:06,460
+which just says,
+
+500
+00:16:06,460 --> 00:16:08,060
+I agree with everything Liz said.
+
+501
+00:16:08,060 --> 00:16:11,760
+I'll try and work out if I can put that anywhere on the internet for the show notes.
+
+502
+00:16:11,760 --> 00:16:13,160
+Ming said two things.
+
+503
+00:16:13,160 --> 00:16:15,420
+The first is that he does not have a Steam deck.
+
+504
+00:16:15,420 --> 00:16:16,240
+Um,
+
+505
+00:16:16,240 --> 00:16:17,900
+I'm sorry for maligning you,
+
+506
+00:16:17,900 --> 00:16:18,080
+Ming,
+
+507
+00:16:18,080 --> 00:16:21,560
+but instead has an Asus ROG ally,
+
+508
+00:16:21,560 --> 00:16:23,320
+which I have never heard of,
+
+509
+00:16:23,320 --> 00:16:26,520
+but Ming has a lot of tech I've never heard of.
+
+510
+00:16:26,520 --> 00:16:28,340
+So that's not terribly surprising.
+
+511
+00:16:28,340 --> 00:16:30,700
+A PC based gaming,
+
+512
+00:16:30,700 --> 00:16:31,920
+handheld gaming console.
+
+513
+00:16:31,920 --> 00:16:33,460
+So ROG stands for,
+
+514
+00:16:33,460 --> 00:16:35,080
+if I'm not very much mistaken,
+
+515
+00:16:35,080 --> 00:16:36,400
+Republic of Gamers.
+
+516
+00:16:36,400 --> 00:16:37,040
+Uh,
+
+517
+00:16:37,040 --> 00:16:38,740
+and it's the Asus gaming brand.
+
+518
+00:16:38,740 --> 00:16:41,740
+We heard from Finbar,
+
+519
+00:16:41,740 --> 00:16:42,260
+O'Reilly,
+
+520
+00:16:42,260 --> 00:16:42,960
+um,
+
+521
+00:16:42,960 --> 00:16:44,660
+who was listening while waiting,
+
+522
+00:16:44,660 --> 00:16:45,260
+uh,
+
+523
+00:16:45,260 --> 00:16:46,240
+for the techs,
+
+524
+00:16:46,240 --> 00:16:46,500
+uh,
+
+525
+00:16:46,500 --> 00:16:48,120
+Octagon sort out streaming.
+
+526
+00:16:48,120 --> 00:16:49,080
+Um,
+
+527
+00:16:49,080 --> 00:16:50,520
+I hope that went well.
+
+528
+00:16:50,520 --> 00:16:51,120
+Uh,
+
+529
+00:16:51,120 --> 00:16:52,200
+Octagon's very,
+
+530
+00:16:52,200 --> 00:16:52,600
+um,
+
+531
+00:16:52,600 --> 00:16:54,280
+tech forward and I really respect that about them.
+
+532
+00:16:54,280 --> 00:16:54,880
+So I'm sure it did.
+
+533
+00:16:54,880 --> 00:17:01,580
+Finbar says that they agree with me and Tommy that social media is helpful as an attendee.
+
+534
+00:17:01,580 --> 00:17:02,400
+And that was,
+
+535
+00:17:02,400 --> 00:17:04,400
+was something we briefly mentioned during Kev's lock.
+
+536
+00:17:04,400 --> 00:17:05,100
+Um,
+
+537
+00:17:05,100 --> 00:17:08,760
+and it's especially true for people attending remotely.
+
+538
+00:17:08,760 --> 00:17:09,960
+And then asks,
+
+539
+00:17:09,960 --> 00:17:11,700
+while acknowledging the most cons of,
+
+540
+00:17:11,720 --> 00:17:14,640
+volunteer run and that Murphy's law applies to tech equipment everywhere.
+
+541
+00:17:14,640 --> 00:17:19,140
+What more could cons be doing to head off streaming issues at conventions?
+
+542
+00:17:19,140 --> 00:17:21,660
+I think this is a complicated question.
+
+543
+00:17:21,660 --> 00:17:28,600
+I think ultimately the thing we would need to do to head off streaming issues is to start trying to stream a day earlier with test streams.
+
+544
+00:17:28,600 --> 00:17:36,600
+But the cost of hiring the venue in advance to do that is prohibitive for our style of convention.
+
+545
+00:17:36,600 --> 00:17:37,160
+Yeah.
+
+546
+00:17:37,160 --> 00:17:41,260
+I think we are slowly accumulating ways in which your tech,
+
+547
+00:17:41,700 --> 00:17:42,820
+streaming can fail,
+
+548
+00:17:42,820 --> 00:17:43,600
+right?
+
+549
+00:17:43,600 --> 00:17:46,960
+Like insufficient bandwidth or things aren't,
+
+550
+00:17:46,960 --> 00:17:47,160
+we,
+
+551
+00:17:47,160 --> 00:17:48,120
+we don't have the,
+
+552
+00:17:48,120 --> 00:17:55,260
+the hardwired links or there's no one who can run the stream on an overly complicated backend or things like that.
+
+553
+00:17:55,260 --> 00:18:02,520
+So I think we're probably gradually accumulating like the sort of knowledge that we have in all the other areas of how to do stuff.
+
+554
+00:18:02,520 --> 00:18:04,340
+But we've started later,
+
+555
+00:18:04,340 --> 00:18:05,260
+so it's taking a bit longer.
+
+556
+00:18:05,260 --> 00:18:10,280
+And then the problem is that you just get like either a brand new problem that no one ever anticipated,
+
+557
+00:18:10,280 --> 00:18:11,260
+or,
+
+558
+00:18:11,680 --> 00:18:16,060
+we thought you'd sorted something out with an external vendor or the hotel or whatever.
+
+559
+00:18:16,060 --> 00:18:18,000
+And it turns out it didn't happen.
+
+560
+00:18:18,000 --> 00:18:19,400
+And that is the tricky one.
+
+561
+00:18:19,400 --> 00:18:20,320
+I think like,
+
+562
+00:18:20,320 --> 00:18:27,600
+I'm sure that like Seattle's problems with streaming bandwidth were something they thought they had discussed and had us fix for.
+
+563
+00:18:27,600 --> 00:18:30,620
+And then when you get there and you find that you don't,
+
+564
+00:18:30,620 --> 00:18:31,020
+there's not,
+
+565
+00:18:31,020 --> 00:18:32,880
+you're now at a very late stage to fix that.
+
+566
+00:18:32,880 --> 00:18:34,560
+I think I would agree.
+
+567
+00:18:34,560 --> 00:18:37,680
+I think we do do as much as we possibly can is the other thing.
+
+568
+00:18:37,680 --> 00:18:37,880
+Like,
+
+569
+00:18:37,880 --> 00:18:41,380
+I don't think this is something that we're like resting on our laurels around.
+
+570
+00:18:41,660 --> 00:18:43,760
+But I think even in like,
+
+571
+00:18:43,760 --> 00:18:44,440
+you know,
+
+572
+00:18:44,440 --> 00:18:49,700
+Easter cons do not like maybe have a completely standard setup that you can deploy.
+
+573
+00:18:49,700 --> 00:18:49,960
+Like,
+
+574
+00:18:49,960 --> 00:18:50,240
+you know,
+
+575
+00:18:50,240 --> 00:18:51,180
+the art show is like,
+
+576
+00:18:51,180 --> 00:18:51,320
+well,
+
+577
+00:18:51,320 --> 00:18:52,960
+everyone knows this is how the art show works.
+
+578
+00:18:52,960 --> 00:18:54,480
+And this is how all the bits fit together.
+
+579
+00:18:54,480 --> 00:18:55,520
+And this is what you have to do.
+
+580
+00:18:55,520 --> 00:18:56,320
+And so on and so forth.
+
+581
+00:18:56,320 --> 00:18:58,740
+We are not really at that sort of stage of like,
+
+582
+00:18:58,740 --> 00:19:00,880
+you plug it in and it works.
+
+583
+00:19:00,880 --> 00:19:01,060
+Yeah.
+
+584
+00:19:01,060 --> 00:19:02,520
+Maybe we're not for the art show anymore.
+
+585
+00:19:02,520 --> 00:19:03,780
+I haven't done an art show for a long time.
+
+586
+00:19:03,780 --> 00:19:11,640
+So I would say one thing I think about streaming is the fact that we are kind of still figuring out how it works means that maybe we are still incorporating it.
+
+587
+00:19:11,640 --> 00:19:13,800
+We're still incorporating advancements and new technology.
+
+588
+00:19:13,800 --> 00:19:18,400
+And maybe there are areas of con running where we should be adding some new stuff in,
+
+589
+00:19:18,400 --> 00:19:20,820
+but we've kind of got too used to how it works.
+
+590
+00:19:20,820 --> 00:19:23,100
+And we're not future discussion there.
+
+591
+00:19:23,100 --> 00:19:24,000
+Ah,
+
+592
+00:19:24,000 --> 00:19:25,880
+I think that's a very good point.
+
+593
+00:19:25,880 --> 00:19:27,240
+And I think,
+
+594
+00:19:27,240 --> 00:19:28,400
+I think it is.
+
+595
+00:19:28,400 --> 00:19:34,700
+I think that is one of the reasons why we are still trying to iron out the bugs is probably because we know there are still bugs.
+
+596
+00:19:34,700 --> 00:19:41,620
+And it's not as clear with stuff that's been working for a long time when bugs like gets introduced.
+
+597
+00:19:41,620 --> 00:19:44,300
+I think that's an interesting point.
+
+598
+00:19:44,300 --> 00:19:45,120
+All right.
+
+599
+00:19:45,120 --> 00:19:49,100
+I'm going to do one last lock and then let's move out of the letters section.
+
+600
+00:19:49,100 --> 00:19:51,000
+And that is,
+
+601
+00:19:51,000 --> 00:19:53,920
+thank you very much to Farah Mendelsohn for writing in.
+
+602
+00:19:53,920 --> 00:19:58,900
+Picked con two will be in Perth on the 17th of October,
+
+603
+00:19:58,900 --> 00:20:00,120
+2026.
+
+604
+00:20:00,120 --> 00:20:09,660
+Shall we discuss the Ursula K.
+
+605
+00:20:09,660 --> 00:20:10,900
+Le Guin award,
+
+606
+00:20:10,900 --> 00:20:11,420
+Liz?
+
+607
+00:20:11,420 --> 00:20:11,740
+Yes,
+
+608
+00:20:11,740 --> 00:20:15,160
+because I put this in the show notes for two reasons.
+
+609
+00:20:15,160 --> 00:20:17,000
+One is that the Ursula K.
+
+610
+00:20:17,000 --> 00:20:22,540
+Le Guin award winner was announced and it is Rake's Fall by Vajra Chandrasekara,
+
+611
+00:20:22,540 --> 00:20:26,520
+which means that I'm even more determined to get round to it.
+
+612
+00:20:26,520 --> 00:20:28,720
+Yup.
+
+613
+00:20:28,720 --> 00:20:29,060
+Fair,
+
+614
+00:20:29,060 --> 00:20:29,360
+fair.
+
+615
+00:20:29,360 --> 00:20:30,820
+I own it.
+
+616
+00:20:30,820 --> 00:20:34,300
+Having read like the same to Bright Doors and read lots of reviews of Rake's Fall,
+
+617
+00:20:34,300 --> 00:20:36,380
+I know I'm going to need like maximum brain power.
+
+618
+00:20:36,380 --> 00:20:39,740
+So I've been saving up for a special occasion and then haven't read it yet,
+
+619
+00:20:39,740 --> 00:20:41,260
+but I will be reading it.
+
+620
+00:20:41,260 --> 00:20:46,260
+Are you saying that you've got books in your house that you haven't read?
+
+621
+00:20:46,260 --> 00:20:47,580
+That's monstrous.
+
+622
+00:20:47,580 --> 00:20:50,500
+Yeah,
+
+623
+00:20:50,500 --> 00:20:51,900
+I've got a Kindle,
+
+624
+00:20:51,900 --> 00:20:52,160
+John.
+
+625
+00:20:52,160 --> 00:20:57,020
+I can have functionally almost infinite books I haven't read.
+
+626
+00:20:57,020 --> 00:20:59,520
+And I do have functionally infinite books I haven't read.
+
+627
+00:20:59,520 --> 00:21:00,340
+I've got several hundred.
+
+628
+00:21:00,340 --> 00:21:00,760
+I mean,
+
+629
+00:21:00,760 --> 00:21:03,800
+but this is one I'm definitely going to get round to reading.
+
+630
+00:21:03,800 --> 00:21:08,120
+The other thing is that we will put a link to the announcement in the show notes.
+
+631
+00:21:08,120 --> 00:21:11,080
+But I think the really nice thing they did is that,
+
+632
+00:21:11,080 --> 00:21:12,960
+the actor Eben Moss-Bachrach,
+
+633
+00:21:12,960 --> 00:21:16,780
+when he was asked during the promo tour for the Fantastic Four,
+
+634
+00:21:16,780 --> 00:21:19,100
+who would be in his personal Fantastic Four,
+
+635
+00:21:19,100 --> 00:21:20,080
+picked,
+
+636
+00:21:20,080 --> 00:21:21,260
+I think,
+
+637
+00:21:21,260 --> 00:21:21,840
+fair to say,
+
+638
+00:21:21,840 --> 00:21:24,000
+slightly unexpectedly for the rest of the internet,
+
+639
+00:21:24,000 --> 00:21:24,860
+Ursula K. Le Guin.
+
+640
+00:21:24,860 --> 00:21:28,880
+And so they got him to come and announce the award,
+
+641
+00:21:28,880 --> 00:21:31,000
+which is just kind of cool.
+
+642
+00:21:31,000 --> 00:21:36,300
+And a really nice way to kind of bounce off that very unexpected little bit of publicity
+
+643
+00:21:36,300 --> 00:21:39,660
+that Le Guin got from being picked as his personal Fantastic Four.
+
+644
+00:21:39,660 --> 00:21:40,940
+So that's pretty cool.
+
+645
+00:21:40,940 --> 00:21:42,440
+Well, and what's hilarious,
+
+646
+00:21:42,440 --> 00:21:43,940
+because I remember it happening,
+
+647
+00:21:43,940 --> 00:21:48,100
+and I remember that the other three people,
+
+648
+00:21:48,100 --> 00:21:49,140
+so Pedro Pascal,
+
+649
+00:21:49,140 --> 00:21:49,660
+Joe Quinn,
+
+650
+00:21:49,660 --> 00:21:51,140
+and Vanessa Kirby all said like,
+
+651
+00:21:51,140 --> 00:21:51,540
+oh,
+
+652
+00:21:51,540 --> 00:21:53,000
+the cast is my Fantastic Four,
+
+653
+00:21:53,000 --> 00:21:53,680
+my family.
+
+654
+00:21:53,680 --> 00:21:56,900
+And Eben Moss-Bachrach just went,
+
+655
+00:21:56,900 --> 00:21:57,240
+no,
+
+656
+00:21:57,240 --> 00:21:58,580
+it is these four people.
+
+657
+00:21:58,580 --> 00:21:59,960
+I've thought about this.
+
+658
+00:21:59,960 --> 00:22:02,460
+It was clearly like,
+
+659
+00:22:02,460 --> 00:22:03,160
+there was no,
+
+660
+00:22:03,160 --> 00:22:03,620
+on the red,
+
+661
+00:22:03,620 --> 00:22:04,420
+if you watch the video,
+
+662
+00:22:04,420 --> 00:22:05,400
+I'll link it in the show notes.
+
+663
+00:22:05,400 --> 00:22:07,900
+The video of him on the red carpet is also very good.
+
+664
+00:22:07,900 --> 00:22:09,560
+But yeah,
+
+665
+00:22:10,760 --> 00:22:12,240
+it's good.
+
+666
+00:22:12,240 --> 00:22:13,200
+It is good.
+
+667
+00:22:13,200 --> 00:22:15,360
+I presume like the whole cast had been primed that,
+
+668
+00:22:15,360 --> 00:22:15,660
+look,
+
+669
+00:22:15,660 --> 00:22:17,500
+this is an obvious question.
+
+670
+00:22:17,500 --> 00:22:18,380
+You're going to get it.
+
+671
+00:22:18,380 --> 00:22:19,580
+You should prepare a response.
+
+672
+00:22:19,580 --> 00:22:22,180
+And they'd all prepared like the usual sort of,
+
+673
+00:22:22,180 --> 00:22:22,620
+you know,
+
+674
+00:22:22,620 --> 00:22:26,040
+fairly bland celebrity response.
+
+675
+00:22:26,040 --> 00:22:27,100
+And then he was like,
+
+676
+00:22:27,100 --> 00:22:27,320
+nope,
+
+677
+00:22:27,320 --> 00:22:28,400
+I'm fully going for it.
+
+678
+00:22:28,400 --> 00:22:29,300
+So that was good.
+
+679
+00:22:29,300 --> 00:22:30,180
+And I hope he,
+
+680
+00:22:30,180 --> 00:22:32,120
+I hope he enjoyed presenting the award.
+
+681
+00:22:32,120 --> 00:22:33,060
+I mean,
+
+682
+00:22:33,060 --> 00:22:33,440
+online,
+
+683
+00:22:33,440 --> 00:22:33,900
+but yeah.
+
+684
+00:22:33,900 --> 00:22:35,560
+And so we'll put that in the show notes.
+
+685
+00:22:35,560 --> 00:22:38,700
+And you can also watch the acceptance speech for X4 as well.
+
+686
+00:22:38,700 --> 00:22:39,160
+Cool,
+
+687
+00:22:39,160 --> 00:22:39,440
+cool.
+
+688
+00:22:39,440 --> 00:22:39,920
+No,
+
+689
+00:22:39,920 --> 00:22:40,200
+it's,
+
+690
+00:22:40,580 --> 00:22:43,400
+I liked the Saint of Bright Doors a lot.
+
+691
+00:22:43,400 --> 00:22:46,440
+I gave it a four out of five on Goodreads listeners.
+
+692
+00:22:46,440 --> 00:22:47,420
+And so,
+
+693
+00:22:47,420 --> 00:22:49,520
+and so I am looking forward to Rakes Fall.
+
+694
+00:22:49,520 --> 00:22:51,140
+So yeah,
+
+695
+00:22:51,140 --> 00:22:52,140
+I will read it.
+
+696
+00:22:52,140 --> 00:22:55,440
+I keep waiting for it to turn up in any of my libraries,
+
+697
+00:22:55,440 --> 00:22:56,500
+which it has not done.
+
+698
+00:22:56,500 --> 00:22:57,360
+But I mean,
+
+699
+00:22:57,360 --> 00:22:57,620
+it's,
+
+700
+00:22:57,620 --> 00:22:58,880
+it's on Kindle.
+
+701
+00:22:58,880 --> 00:23:03,280
+I definitely posted in places where you're aware of when it was like Solaris,
+
+702
+00:23:03,280 --> 00:23:04,940
+in the Solaris ebook sale.
+
+703
+00:23:04,940 --> 00:23:08,800
+Yeah.
+
+704
+00:23:08,800 --> 00:23:10,160
+Skill issue.
+
+705
+00:23:10,400 --> 00:23:12,460
+So I think I own it.
+
+706
+00:23:12,460 --> 00:23:13,940
+Yes,
+
+707
+00:23:13,940 --> 00:23:17,940
+I do own it because I bought it cheap when Liz was posting about it in the,
+
+708
+00:23:17,940 --> 00:23:19,820
+in the appropriate Discord thread.
+
+709
+00:23:19,820 --> 00:23:20,840
+Don't worry.
+
+710
+00:23:20,840 --> 00:23:21,600
+We'll come around again.
+
+711
+00:23:21,600 --> 00:23:24,660
+I don't have notifications turned on for Anonymous Claire,
+
+712
+00:23:24,660 --> 00:23:26,360
+except for that one thread,
+
+713
+00:23:26,360 --> 00:23:27,560
+the discount books thread,
+
+714
+00:23:27,560 --> 00:23:30,480
+which does ping my phone when people post it.
+
+715
+00:23:30,480 --> 00:23:31,240
+That's a really good idea.
+
+716
+00:23:31,240 --> 00:23:32,800
+Let me just set that up.
+
+717
+00:23:32,800 --> 00:23:33,700
+Highly recommend.
+
+718
+00:23:33,700 --> 00:23:34,500
+All right.
+
+719
+00:23:34,500 --> 00:23:35,460
+We've distracted Alison.
+
+720
+00:23:35,460 --> 00:23:36,220
+So quick,
+
+721
+00:23:36,220 --> 00:23:38,100
+let's talk about things while Alison's distracted.
+
+722
+00:23:38,100 --> 00:23:39,980
+There has also been,
+
+723
+00:23:40,220 --> 00:23:40,960
+uh,
+
+724
+00:23:40,960 --> 00:23:42,600
+other award news.
+
+725
+00:23:42,600 --> 00:23:46,780
+So Los Angeles has opened their Hugo award base competition.
+
+726
+00:23:46,780 --> 00:23:47,840
+Listeners,
+
+727
+00:23:47,840 --> 00:23:53,560
+if you are thinking that you might want to submit a base to the Hugo base design contest,
+
+728
+00:23:53,560 --> 00:23:55,300
+LA con five.
+
+729
+00:23:55,300 --> 00:23:57,260
+If you think you might want to do this,
+
+730
+00:23:57,260 --> 00:23:57,920
+uh,
+
+731
+00:23:57,920 --> 00:23:58,560
+you can submit,
+
+732
+00:23:58,560 --> 00:23:59,220
+uh,
+
+733
+00:23:59,220 --> 00:24:01,500
+there are some restrictions.
+
+734
+00:24:01,500 --> 00:24:03,420
+You need to be able to,
+
+735
+00:24:03,420 --> 00:24:06,680
+you need to be able to deliver 40 completed bases.
+
+736
+00:24:06,680 --> 00:24:07,780
+You've got a,
+
+737
+00:24:07,780 --> 00:24:09,360
+the base must stand on their own.
+
+738
+00:24:09,360 --> 00:24:10,020
+You can't,
+
+739
+00:24:10,040 --> 00:24:12,080
+you can't require a person to be there holding it up.
+
+740
+00:24:12,080 --> 00:24:14,060
+That would be hugely inconvenient for everyone.
+
+741
+00:24:14,060 --> 00:24:16,520
+And et cetera.
+
+742
+00:24:16,520 --> 00:24:17,520
+Um,
+
+743
+00:24:17,520 --> 00:24:19,100
+so there's like a big old,
+
+744
+00:24:19,100 --> 00:24:21,420
+there's a big old list of things.
+
+745
+00:24:21,420 --> 00:24:26,060
+LA con five will pay a maximum of $300 per base to cover materials,
+
+746
+00:24:26,060 --> 00:24:26,280
+labor,
+
+747
+00:24:26,280 --> 00:24:26,580
+packing,
+
+748
+00:24:26,580 --> 00:24:27,820
+shipping and shipping insurance.
+
+749
+00:24:27,820 --> 00:24:29,400
+So timelines,
+
+750
+00:24:29,400 --> 00:24:32,040
+the submissions close on the 31st of December,
+
+751
+00:24:32,040 --> 00:24:32,620
+2025.
+
+752
+00:24:32,620 --> 00:24:37,500
+And then the convention might get back to you to request followup information.
+
+753
+00:24:37,500 --> 00:24:40,020
+And the deadline for that will be the end of January and they will make,
+
+754
+00:24:40,020 --> 00:24:42,600
+a decision on the 15th of February,
+
+755
+00:24:42,600 --> 00:24:43,020
+2026.
+
+756
+00:24:43,020 --> 00:24:44,780
+And then the,
+
+757
+00:24:44,780 --> 00:24:47,340
+you have to get the basis to LA con before LA con,
+
+758
+00:24:47,340 --> 00:24:48,400
+which seems reasonable.
+
+759
+00:24:48,400 --> 00:24:50,320
+It would be a giant pain in the butt.
+
+760
+00:24:50,320 --> 00:24:51,980
+If the base has arrived after LA con,
+
+761
+00:24:51,980 --> 00:24:52,440
+uh,
+
+762
+00:24:52,440 --> 00:24:53,640
+we will put a link in the show notes.
+
+763
+00:24:53,640 --> 00:24:56,860
+It won't be as pretty as my Hugo award base.
+
+764
+00:24:56,860 --> 00:24:59,380
+Cause it was done by the very lovely Ian Clark and,
+
+765
+00:24:59,380 --> 00:25:00,020
+you know,
+
+766
+00:25:00,020 --> 00:25:03,800
+tight and where Hugo represent unless Ian does it,
+
+767
+00:25:03,800 --> 00:25:05,120
+in which case it might be as lovely.
+
+768
+00:25:05,120 --> 00:25:05,680
+Yeah.
+
+769
+00:25:05,680 --> 00:25:06,120
+No,
+
+770
+00:25:06,120 --> 00:25:09,240
+Hugo basis ever as lovely as the one you actually won.
+
+771
+00:25:09,240 --> 00:25:10,000
+This is,
+
+772
+00:25:10,000 --> 00:25:10,360
+this is true,
+
+773
+00:25:10,360 --> 00:25:11,740
+especially when it's your first,
+
+774
+00:25:11,740 --> 00:25:13,320
+I imagine also true,
+
+775
+00:25:13,320 --> 00:25:13,920
+but yes,
+
+776
+00:25:13,920 --> 00:25:14,180
+however,
+
+777
+00:25:14,180 --> 00:25:15,320
+it is a great opportunity.
+
+778
+00:25:15,320 --> 00:25:18,380
+If anyone has a great idea for something kind of LA related,
+
+779
+00:25:18,380 --> 00:25:20,140
+I think that's probably also part of the,
+
+780
+00:25:20,140 --> 00:25:20,520
+you know,
+
+781
+00:25:20,520 --> 00:25:23,740
+criteria in which they will judge should be vaguely LA related.
+
+782
+00:25:23,740 --> 00:25:31,640
+And then there's also other awards news this time from China.
+
+783
+00:25:31,640 --> 00:25:36,660
+So the 36th galaxy awards were presented.
+
+784
+00:25:36,660 --> 00:25:38,020
+This is not,
+
+785
+00:25:38,020 --> 00:25:38,500
+I mean,
+
+786
+00:25:38,500 --> 00:25:39,120
+you know,
+
+787
+00:25:39,120 --> 00:25:39,840
+congratulations,
+
+788
+00:25:39,980 --> 00:25:41,180
+to all the winners,
+
+789
+00:25:41,180 --> 00:25:43,540
+most of whom I have not heard of.
+
+790
+00:25:43,540 --> 00:25:44,900
+And the ones I have heard of,
+
+791
+00:25:44,900 --> 00:25:46,680
+I have not read the,
+
+792
+00:25:46,680 --> 00:25:50,660
+or I will say that best translation was run by.
+
+793
+00:25:50,660 --> 00:25:51,840
+I'm so sorry.
+
+794
+00:25:51,840 --> 00:25:52,700
+I'm going to do,
+
+795
+00:25:52,700 --> 00:25:54,700
+this is not going to be correctly pronounced listeners,
+
+796
+00:25:54,700 --> 00:25:56,280
+but Lee key kin,
+
+797
+00:25:56,280 --> 00:26:01,580
+who is the Chinese translator of the city of last chances by one Adrian Tchaikovsky.
+
+798
+00:26:01,580 --> 00:26:02,380
+So well done,
+
+799
+00:26:02,380 --> 00:26:02,680
+Adrian.
+
+800
+00:26:02,680 --> 00:26:05,640
+And well done to Lee key chin.
+
+801
+00:26:05,640 --> 00:26:09,960
+But the reason this is notable is that there is a addendum,
+
+802
+00:26:09,960 --> 00:26:17,840
+to the bottom of the far seven 70 article reporting on it about galaxy cons ambitions to become world con.
+
+803
+00:26:17,840 --> 00:26:21,420
+This is interesting because basically during the panel,
+
+804
+00:26:21,420 --> 00:26:22,740
+there was a panel themed.
+
+805
+00:26:22,740 --> 00:26:23,700
+There's a panel called,
+
+806
+00:26:23,700 --> 00:26:26,200
+how can we turn galaxy con into world con,
+
+807
+00:26:26,200 --> 00:26:35,360
+but it's the person who won the galaxy award in Chinese translation for their novel star body,
+
+808
+00:26:35,360 --> 00:26:38,000
+whose name is Roderick Levenhart.
+
+809
+00:26:38,000 --> 00:26:39,800
+I'm sorry if I've pronounced that wrong.
+
+810
+00:26:39,800 --> 00:26:39,940
+But it's the person who won the galaxy award in Chinese translation for their novel star body,
+
+811
+00:26:39,940 --> 00:26:45,060
+they basically reported on a panel and file seven 70 reports.
+
+812
+00:26:45,060 --> 00:26:46,320
+Leevenhart reports.
+
+813
+00:26:46,320 --> 00:26:48,260
+There is interest in returning world con to the country,
+
+814
+00:26:48,260 --> 00:26:54,880
+but the thing that Leevenhart is actually written seems to be about galaxy con becoming the size of world con.
+
+815
+00:26:54,880 --> 00:26:57,800
+It doesn't seem to be about galaxy con bidding for world con.
+
+816
+00:26:57,800 --> 00:27:02,420
+And there is a comment in the below the article by Nicholas white,
+
+817
+00:27:02,420 --> 00:27:09,920
+basically saying that his conversations with galaxy con organizers that didn't indicate to him that they were thinking about bidding for world con.
+
+818
+00:27:09,920 --> 00:27:10,880
+So yeah,
+
+819
+00:27:10,880 --> 00:27:15,240
+I think this is probably based on a misreading of the con report,
+
+820
+00:27:15,240 --> 00:27:16,080
+but I don't know.
+
+821
+00:27:16,080 --> 00:27:19,540
+We will link to the original con report as well in the show notes listeners.
+
+822
+00:27:19,540 --> 00:27:20,260
+But yeah.
+
+823
+00:27:20,260 --> 00:27:21,560
+So what do you guys reckon?
+
+824
+00:27:21,560 --> 00:27:25,240
+Do you think this is indication that China is going for another world con?
+
+825
+00:27:25,240 --> 00:27:27,480
+Or do you think this is a wrong end of the stick?
+
+826
+00:27:27,480 --> 00:27:29,700
+Do we think China should go for another world con?
+
+827
+00:27:29,700 --> 00:27:30,320
+What's the,
+
+828
+00:27:30,320 --> 00:27:31,700
+what's the feeling here?
+
+829
+00:27:31,700 --> 00:27:32,280
+I mean,
+
+830
+00:27:32,280 --> 00:27:33,120
+it sounds like there's one,
+
+831
+00:27:33,120 --> 00:27:38,960
+one panel that may have been miss quoted in translation.
+
+832
+00:27:39,760 --> 00:27:40,120
+Um,
+
+833
+00:27:40,120 --> 00:27:41,400
+I don't really,
+
+834
+00:27:41,400 --> 00:27:42,300
+I don't really mind.
+
+835
+00:27:42,300 --> 00:27:43,080
+I mean,
+
+836
+00:27:43,080 --> 00:27:45,060
+I don't think,
+
+837
+00:27:45,060 --> 00:27:46,700
+I think it's interesting in that.
+
+838
+00:27:46,700 --> 00:27:48,420
+I don't think there's much perception from people.
+
+839
+00:27:48,420 --> 00:27:50,040
+I know that Chengdu is a success,
+
+840
+00:27:50,040 --> 00:27:51,020
+but again,
+
+841
+00:27:51,020 --> 00:27:59,160
+we've talked about how it's hard to know what the perception is like within Chengdu fandom and even within Chinese fandom about whether it's a success or not.
+
+842
+00:27:59,160 --> 00:28:01,660
+But it is interesting that they're still talking about things like,
+
+843
+00:28:01,660 --> 00:28:01,840
+you know,
+
+844
+00:28:01,840 --> 00:28:02,240
+if they're saying,
+
+845
+00:28:02,240 --> 00:28:03,620
+how can we make it world con scale?
+
+846
+00:28:03,620 --> 00:28:07,380
+They're obviously still kind of thinking about comparisons to world con in some way.
+
+847
+00:28:07,380 --> 00:28:08,640
+Um,
+
+848
+00:28:08,640 --> 00:28:09,260
+yeah,
+
+849
+00:28:09,260 --> 00:28:09,400
+I think,
+
+850
+00:28:09,400 --> 00:28:09,520
+I think,
+
+851
+00:28:09,600 --> 00:28:10,260
+I wouldn't be,
+
+852
+00:28:10,260 --> 00:28:14,960
+I'm not automatically against another world con bid in China at some point,
+
+853
+00:28:14,960 --> 00:28:21,520
+but we probably have quite a few questions along the lines of how do we know that we won't have the same problems as Chengdu,
+
+854
+00:28:21,520 --> 00:28:22,180
+which is fair,
+
+855
+00:28:22,180 --> 00:28:23,880
+which is what any bid is going to have,
+
+856
+00:28:23,880 --> 00:28:24,080
+right?
+
+857
+00:28:24,080 --> 00:28:26,220
+Like whenever there is a Japanese world con bid,
+
+858
+00:28:26,220 --> 00:28:30,900
+one of the questions is how will you make enough money for it to be sustainable this time?
+
+859
+00:28:30,900 --> 00:28:31,420
+You know,
+
+860
+00:28:31,420 --> 00:28:32,980
+people are always going to question that.
+
+861
+00:28:32,980 --> 00:28:36,340
+So it's going to be those kinds of questions as well as all the questions China had last time.
+
+862
+00:28:36,340 --> 00:28:37,840
+And if they've decided,
+
+863
+00:28:37,840 --> 00:28:38,160
+actually,
+
+864
+00:28:38,160 --> 00:28:39,480
+we'd rather just have our own large,
+
+865
+00:28:39,480 --> 00:28:40,860
+scale cons that aren't world con,
+
+866
+00:28:40,860 --> 00:28:42,580
+then I say they go for it.
+
+867
+00:28:42,580 --> 00:28:43,120
+Yeah.
+
+868
+00:28:43,120 --> 00:28:43,300
+I mean,
+
+869
+00:28:43,300 --> 00:28:46,500
+there are plenty of conventions in the United States that are as big as world con.
+
+870
+00:28:46,500 --> 00:28:47,020
+Hmm.
+
+871
+00:28:47,020 --> 00:28:48,260
+It's not that big.
+
+872
+00:28:48,260 --> 00:28:48,800
+No,
+
+873
+00:28:48,800 --> 00:28:49,400
+I think the,
+
+874
+00:28:49,400 --> 00:28:50,120
+the,
+
+875
+00:28:50,120 --> 00:28:50,700
+the,
+
+876
+00:28:50,700 --> 00:28:52,000
+the unwritten part,
+
+877
+00:28:52,000 --> 00:28:54,120
+or maybe not the unwritten part is the,
+
+878
+00:28:54,120 --> 00:28:56,360
+the reach of world con as well,
+
+879
+00:28:56,360 --> 00:28:56,600
+right?
+
+880
+00:28:56,600 --> 00:28:56,900
+The,
+
+881
+00:28:56,900 --> 00:28:57,260
+the,
+
+882
+00:28:57,260 --> 00:28:59,120
+if you want to make galaxy con into world con,
+
+883
+00:28:59,120 --> 00:29:01,620
+I don't think you're just talking about attendees.
+
+884
+00:29:01,620 --> 00:29:02,600
+You're talking about like,
+
+885
+00:29:02,600 --> 00:29:09,280
+how do we make the galaxy award into the Chinese Hugo award in terms of not in terms of reach,
+
+886
+00:29:09,280 --> 00:29:09,360
+uh,
+
+887
+00:29:09,360 --> 00:29:09,880
+as well.
+
+888
+00:29:09,880 --> 00:29:10,620
+Yes.
+
+889
+00:29:10,620 --> 00:29:13,080
+And I'm sure that's a big part of what they're trying to do,
+
+890
+00:29:13,080 --> 00:29:13,620
+isn't it?
+
+891
+00:29:13,620 --> 00:29:14,240
+I mean,
+
+892
+00:29:14,240 --> 00:29:15,060
+I assume like,
+
+893
+00:29:15,060 --> 00:29:16,760
+I think if you're starting a new award,
+
+894
+00:29:16,760 --> 00:29:21,320
+the Hugo award is one of the more prestigious awards you could benchmark yourself against,
+
+895
+00:29:21,320 --> 00:29:24,920
+especially given all the discussion there always is about kind of like,
+
+896
+00:29:24,920 --> 00:29:25,420
+um,
+
+897
+00:29:25,420 --> 00:29:26,100
+you know,
+
+898
+00:29:26,100 --> 00:29:31,640
+there's a lot of people who are sort of invested and like get the prestige of the Hugos without
+
+899
+00:29:31,640 --> 00:29:35,220
+necessarily feeling particularly linked into world con.
+
+900
+00:29:35,220 --> 00:29:38,320
+And I think that's a weird situation for us to have ended up in.
+
+901
+00:29:38,320 --> 00:29:39,240
+It's essentially like,
+
+902
+00:29:39,240 --> 00:29:41,420
+our own little convention awards,
+
+903
+00:29:41,420 --> 00:29:49,940
+which have become a much bigger deal than most convention awards are just due to kind of history and time and so on.
+
+904
+00:29:49,940 --> 00:29:53,280
+And I don't know if you can recapture that without it being,
+
+905
+00:29:53,280 --> 00:29:53,700
+well,
+
+906
+00:29:53,700 --> 00:29:57,380
+the reason that people are kind of interested in the Hugos is they've been around for 70 years.
+
+907
+00:29:57,380 --> 00:29:58,160
+I don't know.
+
+908
+00:29:58,160 --> 00:29:58,460
+That's fair.
+
+909
+00:29:58,460 --> 00:29:59,120
+I think I would,
+
+910
+00:29:59,120 --> 00:30:00,360
+I would agree with that take.
+
+911
+00:30:00,360 --> 00:30:03,000
+How are we going to do a podcast if you just keep agreeing with my takes,
+
+912
+00:30:03,000 --> 00:30:03,160
+John?
+
+913
+00:30:03,160 --> 00:30:03,880
+Well,
+
+914
+00:30:03,880 --> 00:30:04,660
+uh,
+
+915
+00:30:04,660 --> 00:30:05,800
+hang on.
+
+916
+00:30:05,800 --> 00:30:06,980
+Be less sensible,
+
+917
+00:30:06,980 --> 00:30:07,300
+Liz.
+
+918
+00:30:07,300 --> 00:30:07,840
+I'm sorry.
+
+919
+00:30:07,840 --> 00:30:08,920
+Screw you,
+
+920
+00:30:09,120 --> 00:30:09,500
+Liz Bauer.
+
+921
+00:30:09,500 --> 00:30:16,000
+The reason that the Hugos are popular is because of other factors.
+
+922
+00:30:16,000 --> 00:30:20,680
+And it has nothing to do with the time length and constituency.
+
+923
+00:30:20,680 --> 00:30:24,980
+Longevity isn't everything you need.
+
+924
+00:30:24,980 --> 00:30:29,140
+There has to be something about a sense that in the past,
+
+925
+00:30:29,140 --> 00:30:31,120
+it has been awarded to some good things.
+
+926
+00:30:31,120 --> 00:30:32,720
+They don't all have to be good.
+
+927
+00:30:32,720 --> 00:30:33,660
+I mean,
+
+928
+00:30:33,660 --> 00:30:36,020
+the Hugo has been awarded to some terrible things.
+
+929
+00:30:36,020 --> 00:30:39,080
+But I think one of the things,
+
+930
+00:30:39,080 --> 00:30:43,260
+that makes awards prestigious over time is people going back and going,
+
+931
+00:30:43,260 --> 00:30:43,620
+oh,
+
+932
+00:30:43,620 --> 00:30:44,780
+actually that,
+
+933
+00:30:44,780 --> 00:30:48,720
+that is a fair reflection of the best of the body of work at the time.
+
+934
+00:30:48,720 --> 00:30:49,760
+Also,
+
+935
+00:30:49,760 --> 00:30:52,460
+but that thing about you having to keep doing it.
+
+936
+00:30:52,460 --> 00:30:53,760
+it can,
+
+937
+00:30:53,760 --> 00:30:55,680
+it's quite hard to sustain awards.
+
+938
+00:30:55,680 --> 00:30:56,120
+You know,
+
+939
+00:30:56,120 --> 00:30:56,400
+we,
+
+940
+00:30:56,400 --> 00:31:00,180
+we have a bunch of awards that have run their time and run out.
+
+941
+00:31:00,180 --> 00:31:00,900
+You know,
+
+942
+00:31:00,900 --> 00:31:02,980
+awards don't necessarily carry on forever.
+
+943
+00:31:02,980 --> 00:31:03,560
+Yeah.
+
+944
+00:31:03,560 --> 00:31:05,280
+I think that's interesting because I would say certainly,
+
+945
+00:31:05,280 --> 00:31:06,420
+uh,
+
+946
+00:31:06,420 --> 00:31:07,080
+for novel,
+
+947
+00:31:07,080 --> 00:31:08,840
+I think,
+
+948
+00:31:08,840 --> 00:31:08,960
+you know,
+
+949
+00:31:08,960 --> 00:31:12,020
+I think the guys have probably managed pretty well to,
+
+950
+00:31:12,020 --> 00:31:12,960
+yeah,
+
+951
+00:31:12,960 --> 00:31:15,920
+keep up with what historically 50 years hence we think,
+
+952
+00:31:15,920 --> 00:31:16,180
+okay,
+
+953
+00:31:16,180 --> 00:31:16,380
+yeah,
+
+954
+00:31:16,380 --> 00:31:17,340
+that was a pretty good novel.
+
+955
+00:31:17,340 --> 00:31:20,880
+If they consistently pick stuff that no one has ever read for 50 years,
+
+956
+00:31:20,880 --> 00:31:22,360
+and I don't think they would have quite the,
+
+957
+00:31:22,360 --> 00:31:24,380
+the reach and the cachet they do now.
+
+958
+00:31:24,380 --> 00:31:25,460
+And that's why there are,
+
+959
+00:31:25,460 --> 00:31:25,740
+you know,
+
+960
+00:31:25,740 --> 00:31:28,700
+obviously our podcast jumps going through and reading them all.
+
+961
+00:31:28,700 --> 00:31:30,380
+An award where someone's like,
+
+962
+00:31:30,380 --> 00:31:30,620
+okay,
+
+963
+00:31:30,620 --> 00:31:33,560
+we're going to actually go and read everything that this award has picked
+
+964
+00:31:33,560 --> 00:31:34,680
+for the past 60,
+
+965
+00:31:34,680 --> 00:31:35,320
+70 years.
+
+966
+00:31:35,320 --> 00:31:36,320
+Um,
+
+967
+00:31:36,320 --> 00:31:38,840
+it's only sustainable if there are some interesting,
+
+968
+00:31:38,840 --> 00:31:39,660
+things on there.
+
+969
+00:31:39,660 --> 00:31:42,420
+It's also interesting that it's a popular award.
+
+970
+00:31:42,420 --> 00:31:48,420
+If you look at most of the other longstanding awards that people know about
+
+971
+00:31:48,420 --> 00:31:49,280
+and talk about,
+
+972
+00:31:49,280 --> 00:31:55,660
+they're often industry awards that are either juried or voted on by,
+
+973
+00:31:55,660 --> 00:31:56,740
+um,
+
+974
+00:31:56,740 --> 00:31:59,460
+a group of people in an industry.
+
+975
+00:31:59,460 --> 00:32:00,640
+The,
+
+976
+00:32:00,640 --> 00:32:01,260
+you know,
+
+977
+00:32:01,260 --> 00:32:01,380
+the,
+
+978
+00:32:01,380 --> 00:32:03,600
+the Hugo's are quite a populist,
+
+979
+00:32:03,600 --> 00:32:06,040
+quite unusually populist and,
+
+980
+00:32:06,040 --> 00:32:08,540
+and come out quite well considering that.
+
+981
+00:32:08,540 --> 00:32:08,720
+Um,
+
+982
+00:32:08,720 --> 00:32:10,320
+a lot of the stuff is good and popular.
+
+983
+00:32:10,320 --> 00:32:16,160
+And then finally the Tianwen awards were awarded in Chengdu.
+
+984
+00:32:16,160 --> 00:32:18,840
+And one of the people awarding one of those awards was,
+
+985
+00:32:18,840 --> 00:32:19,060
+um,
+
+986
+00:32:19,060 --> 00:32:20,840
+Ben Yalow as reported by,
+
+987
+00:32:20,840 --> 00:32:21,060
+uh,
+
+988
+00:32:21,060 --> 00:32:21,540
+Sats Culture.
+
+989
+00:32:21,540 --> 00:32:22,300
+Um,
+
+990
+00:32:22,300 --> 00:32:23,100
+so yes,
+
+991
+00:32:23,100 --> 00:32:24,360
+that was interesting.
+
+992
+00:32:24,360 --> 00:32:24,820
+I thought,
+
+993
+00:32:24,820 --> 00:32:25,600
+um,
+
+994
+00:32:25,600 --> 00:32:27,420
+what did Ben get his award for?
+
+995
+00:32:27,420 --> 00:32:29,200
+I think he presented an award.
+
+996
+00:32:29,200 --> 00:32:30,840
+I'm not sure he received an award.
+
+997
+00:32:30,840 --> 00:32:32,080
+I might be wrong.
+
+998
+00:32:32,080 --> 00:32:35,280
+I failed to listen to the exact previous sentence properly.
+
+999
+00:32:38,600 --> 00:32:40,280
+File 770 just says,
+
+1000
+00:32:40,280 --> 00:32:41,600
+but Ben was present and participated.
+
+1001
+00:32:41,600 --> 00:32:44,480
+So I assume he was presenting.
+
+1002
+00:32:44,480 --> 00:32:47,440
+Although I am basically assuming that on the fact he didn't win,
+
+1003
+00:32:47,440 --> 00:32:49,760
+I guess he could have just been doing like an interstitial bit.
+
+1004
+00:32:49,760 --> 00:32:50,580
+Um,
+
+1005
+00:32:50,580 --> 00:32:51,000
+but yes.
+
+1006
+00:32:51,000 --> 00:32:52,640
+So I hope,
+
+1007
+00:32:52,640 --> 00:32:55,180
+I hope Ben enjoyed the awards.
+
+1008
+00:32:55,180 --> 00:32:57,360
+There is a photo of him on stage,
+
+1009
+00:32:57,360 --> 00:32:58,060
+um,
+
+1010
+00:32:58,060 --> 00:33:01,680
+under a banner labeled top 10 Chinese sci-fi literature translations of the
+
+1011
+00:33:01,680 --> 00:33:02,580
+decade that went global.
+
+1012
+00:33:02,580 --> 00:33:04,720
+So maybe it was a feature about kind of,
+
+1013
+00:33:04,720 --> 00:33:04,940
+you know,
+
+1014
+00:33:04,940 --> 00:33:07,620
+stuff that has become popular overseas due to translations.
+
+1015
+00:33:07,620 --> 00:33:08,580
+A lot of which are,
+
+1016
+00:33:08,580 --> 00:33:09,840
+who six ends novels,
+
+1017
+00:33:09,840 --> 00:33:10,420
+but also,
+
+1018
+00:33:10,420 --> 00:33:10,860
+um,
+
+1019
+00:33:10,860 --> 00:33:14,180
+a few others that might be recognizable to people from being on,
+
+1020
+00:33:14,180 --> 00:33:17,260
+I think on the Hugo list or certainly on award lists.
+
+1021
+00:33:17,260 --> 00:33:18,100
+All right.
+
+1022
+00:33:18,100 --> 00:33:21,840
+Most influential sci-fi IP adaptation case.
+
+1023
+00:33:21,840 --> 00:33:22,560
+All right.
+
+1024
+00:33:22,560 --> 00:33:23,640
+I'm going to have to look into these,
+
+1025
+00:33:23,640 --> 00:33:23,940
+um,
+
+1026
+00:33:23,940 --> 00:33:25,900
+categories in more detail.
+
+1027
+00:33:25,900 --> 00:33:28,000
+Before someone starts,
+
+1028
+00:33:28,000 --> 00:33:28,400
+uh,
+
+1029
+00:33:28,400 --> 00:33:31,040
+adding them to the proposing them as additions to the Hugo's.
+
+1030
+00:33:31,040 --> 00:33:31,980
+Oh yeah.
+
+1031
+00:33:31,980 --> 00:33:33,040
+That's because that's what we need.
+
+1032
+00:33:33,040 --> 00:33:34,160
+We need more Hugo's.
+
+1033
+00:33:34,160 --> 00:33:38,460
+I definitely think we need a Hugo for most influential sci-fi IP
+
+1034
+00:33:38,460 --> 00:33:39,200
+adaptation case.
+
+1035
+00:33:39,200 --> 00:33:40,360
+Maybe we do.
+
+1036
+00:33:40,360 --> 00:33:44,720
+So I'm going to give the listeners a little spoiler for a future bonus
+
+1037
+00:33:44,720 --> 00:33:45,160
+episode.
+
+1038
+00:33:45,160 --> 00:33:49,180
+I am a fan of a podcast listeners called the incomparable and sometimes
+
+1039
+00:33:49,180 --> 00:33:50,720
+they draft things.
+
+1040
+00:33:50,720 --> 00:33:55,260
+And I thought it could be fun for us all to draft our own Hugo award
+
+1041
+00:33:55,260 --> 00:34:00,940
+ceremony from a list of all of the categories that have existed or have
+
+1042
+00:34:00,940 --> 00:34:02,920
+been proposed for the Hugo awards.
+
+1043
+00:34:02,920 --> 00:34:04,020
+I have a collection.
+
+1044
+00:34:04,020 --> 00:34:05,340
+I haven't put all of them,
+
+1045
+00:34:05,340 --> 00:34:07,660
+all of them in because there are some weird ones from the fifties,
+
+1046
+00:34:07,660 --> 00:34:08,340
+but I've left,
+
+1047
+00:34:08,340 --> 00:34:08,700
+left out.
+
+1048
+00:34:08,700 --> 00:34:09,620
+Um,
+
+1049
+00:34:09,620 --> 00:34:11,200
+but at some point in the future,
+
+1050
+00:34:11,200 --> 00:34:11,920
+you know,
+
+1051
+00:34:11,920 --> 00:34:13,780
+I was going to pick number one fan face,
+
+1052
+00:34:13,780 --> 00:34:14,120
+John.
+
+1053
+00:34:14,120 --> 00:34:15,960
+All right.
+
+1054
+00:34:15,960 --> 00:34:16,700
+It's going in there.
+
+1055
+00:34:16,700 --> 00:34:18,000
+Liz is going in,
+
+1056
+00:34:18,000 --> 00:34:19,040
+but yes.
+
+1057
+00:34:19,040 --> 00:34:21,420
+So if you have any ideas for categories,
+
+1058
+00:34:21,420 --> 00:34:23,340
+you think should be in the Hugo awards,
+
+1059
+00:34:23,340 --> 00:34:26,200
+please write in so that we can include them in our big list.
+
+1060
+00:34:26,200 --> 00:34:30,580
+And I won't read them out as locks in an episode before we get there,
+
+1061
+00:34:30,580 --> 00:34:32,840
+but I will credit the ones that listeners,
+
+1062
+00:34:32,840 --> 00:34:33,620
+uh,
+
+1063
+00:34:33,620 --> 00:34:35,760
+suggested in that episode.
+
+1064
+00:34:35,760 --> 00:34:36,720
+So yes,
+
+1065
+00:34:36,720 --> 00:34:38,040
+write in with your writing,
+
+1066
+00:34:38,040 --> 00:34:41,600
+write in with your Hugo categories that no one has ever suggested,
+
+1067
+00:34:41,600 --> 00:34:43,060
+but you think would be great.
+
+1068
+00:34:43,060 --> 00:34:43,700
+And,
+
+1069
+00:34:43,700 --> 00:34:44,080
+uh,
+
+1070
+00:34:44,080 --> 00:34:44,840
+and I will add,
+
+1071
+00:34:44,840 --> 00:34:50,620
+I will add most influential sci-fi IP adaptation to the list.
+
+1072
+00:34:50,620 --> 00:34:52,760
+I think that's enough on awards.
+
+1073
+00:34:52,760 --> 00:35:00,360
+Should we talk about comics?
+
+1074
+00:35:00,360 --> 00:35:01,320
+Comics?
+
+1075
+00:35:01,320 --> 00:35:02,080
+Comics.
+
+1076
+00:35:02,080 --> 00:35:03,340
+Okay.
+
+1077
+00:35:03,340 --> 00:35:05,560
+They're sort of books with pictures.
+
+1078
+00:35:05,560 --> 00:35:06,460
+All right.
+
+1079
+00:35:06,460 --> 00:35:07,680
+So I,
+
+1080
+00:35:07,920 --> 00:35:11,320
+I've been to a convention or rather I've been to a festival.
+
+1081
+00:35:11,320 --> 00:35:12,420
+Um,
+
+1082
+00:35:12,420 --> 00:35:15,380
+I went to the Bangkok comics art festival,
+
+1083
+00:35:15,380 --> 00:35:16,200
+uh,
+
+1084
+00:35:16,200 --> 00:35:16,580
+yesterday,
+
+1085
+00:35:16,580 --> 00:35:18,400
+which is held in,
+
+1086
+00:35:18,400 --> 00:35:18,640
+uh,
+
+1087
+00:35:18,640 --> 00:35:20,720
+the Bangkok art and culture center,
+
+1088
+00:35:20,720 --> 00:35:22,720
+which is a big city center,
+
+1089
+00:35:22,720 --> 00:35:25,460
+sort of art gallery with revolving,
+
+1090
+00:35:25,460 --> 00:35:27,000
+revolving exhibits.
+
+1091
+00:35:27,000 --> 00:35:27,620
+Uh,
+
+1092
+00:35:27,620 --> 00:35:29,820
+I think it's also sort of a cultural hub a bit as well.
+
+1093
+00:35:29,820 --> 00:35:30,500
+There's coffee shops,
+
+1094
+00:35:30,500 --> 00:35:32,180
+there's places you can buy art supplies,
+
+1095
+00:35:32,180 --> 00:35:32,800
+uh,
+
+1096
+00:35:32,800 --> 00:35:33,100
+et cetera,
+
+1097
+00:35:33,100 --> 00:35:33,460
+et cetera.
+
+1098
+00:35:33,460 --> 00:35:34,520
+There's bookstalls in there.
+
+1099
+00:35:34,520 --> 00:35:35,000
+Um,
+
+1100
+00:35:35,000 --> 00:35:35,880
+so it's quite an interesting place.
+
+1101
+00:35:35,880 --> 00:35:37,900
+And I popped in because they have,
+
+1102
+00:35:37,900 --> 00:35:39,020
+they have this comic art fest.
+
+1103
+00:35:39,020 --> 00:35:39,540
+Essentially,
+
+1104
+00:35:39,540 --> 00:35:43,020
+it's a display of art on the fifth floor.
+
+1105
+00:35:43,020 --> 00:35:47,480
+the Bangkok art and cultural center is basically a big sort of circular
+
+1106
+00:35:47,480 --> 00:35:47,920
+building.
+
+1107
+00:35:47,920 --> 00:35:51,760
+And there's kind of exhibits around the curved walls of each floor.
+
+1108
+00:35:51,760 --> 00:35:52,480
+So on the fifth floor,
+
+1109
+00:35:52,480 --> 00:35:54,020
+they had an exhibit of comics art,
+
+1110
+00:35:54,020 --> 00:35:55,040
+which I went to look at.
+
+1111
+00:35:55,040 --> 00:35:55,700
+Um,
+
+1112
+00:35:55,700 --> 00:35:57,960
+so which was from their special guests.
+
+1113
+00:35:57,960 --> 00:35:59,100
+They had a couple of special guests.
+
+1114
+00:35:59,100 --> 00:36:00,960
+Some of it was from like local artists.
+
+1115
+00:36:00,960 --> 00:36:02,160
+Some of it was from,
+
+1116
+00:36:02,160 --> 00:36:02,680
+um,
+
+1117
+00:36:02,680 --> 00:36:03,840
+there's lots of these projects,
+
+1118
+00:36:03,840 --> 00:36:06,860
+which are like jointly with different embassies and things like that.
+
+1119
+00:36:06,860 --> 00:36:07,640
+That happen occasionally,
+
+1120
+00:36:07,780 --> 00:36:10,240
+where they will kind of like fund a comic art project.
+
+1121
+00:36:10,240 --> 00:36:11,460
+So some of that,
+
+1122
+00:36:11,460 --> 00:36:12,140
+and there's also,
+
+1123
+00:36:12,140 --> 00:36:14,680
+they have a partner called children of the forest foundation,
+
+1124
+00:36:14,680 --> 00:36:20,460
+where they go to a children's home and school on the border to work with like
+
+1125
+00:36:20,460 --> 00:36:21,740
+migrant children and their families.
+
+1126
+00:36:21,740 --> 00:36:23,740
+And they showed some of the comic arts,
+
+1127
+00:36:23,740 --> 00:36:24,200
+uh,
+
+1128
+00:36:24,200 --> 00:36:25,060
+created by those children,
+
+1129
+00:36:25,060 --> 00:36:26,080
+which was pretty great.
+
+1130
+00:36:26,080 --> 00:36:28,960
+And there were also stalls where you could buy things.
+
+1131
+00:36:28,960 --> 00:36:32,400
+You could buy art and stickers by comic creators.
+
+1132
+00:36:32,400 --> 00:36:34,320
+You can also buy books by,
+
+1133
+00:36:34,320 --> 00:36:34,560
+uh,
+
+1134
+00:36:34,560 --> 00:36:37,180
+there's probably a house called bluff publishing that I've heard of who are
+
+1135
+00:36:37,180 --> 00:36:37,760
+based out of India.
+
+1136
+00:36:37,760 --> 00:36:39,040
+Who are there with a table.
+
+1137
+00:36:39,040 --> 00:36:40,420
+There were signings and things.
+
+1138
+00:36:40,420 --> 00:36:42,320
+There were some panels and workshops,
+
+1139
+00:36:42,320 --> 00:36:46,540
+but I timed my visit to Pauly and did not go to any of the panels and
+
+1140
+00:36:46,540 --> 00:36:47,060
+workshops,
+
+1141
+00:36:47,060 --> 00:36:47,940
+but yeah,
+
+1142
+00:36:47,940 --> 00:36:49,000
+it looked pretty neat.
+
+1143
+00:36:49,000 --> 00:36:51,120
+And when I was there,
+
+1144
+00:36:51,120 --> 00:36:51,920
+it had a lot,
+
+1145
+00:36:51,920 --> 00:36:55,840
+there were lots of people wandering around looking at the art,
+
+1146
+00:36:55,840 --> 00:36:56,440
+uh,
+
+1147
+00:36:56,440 --> 00:36:57,280
+chatting to people.
+
+1148
+00:36:57,280 --> 00:36:58,320
+There was some kind of,
+
+1149
+00:36:58,320 --> 00:36:58,640
+uh,
+
+1150
+00:36:58,640 --> 00:37:02,140
+art interactive art thing you could do where you were drawing with wood.
+
+1151
+00:37:02,140 --> 00:37:03,360
+I think it was pretty cool.
+
+1152
+00:37:03,360 --> 00:37:04,260
+And it's all free.
+
+1153
+00:37:04,260 --> 00:37:04,880
+Uh,
+
+1154
+00:37:04,880 --> 00:37:07,740
+the art is up for two weeks and then there's like a two day,
+
+1155
+00:37:07,740 --> 00:37:08,520
+you know,
+
+1156
+00:37:08,520 --> 00:37:12,320
+this two day thing where they have the panels and workshops and it was just a
+
+1157
+00:37:12,320 --> 00:37:12,900
+cute little event.
+
+1158
+00:37:12,900 --> 00:37:14,340
+And I think it happens annually.
+
+1159
+00:37:14,340 --> 00:37:18,720
+So I'll go back next year and maybe time my visit slightly better and
+
+1160
+00:37:18,720 --> 00:37:21,060
+actually make it to some of the panels.
+
+1161
+00:37:21,060 --> 00:37:22,160
+That seems fair.
+
+1162
+00:37:22,160 --> 00:37:25,700
+Two days of panels,
+
+1163
+00:37:25,700 --> 00:37:28,520
+but then two weeks that the arts up.
+
+1164
+00:37:28,520 --> 00:37:30,320
+So I guess it's like a kind of,
+
+1165
+00:37:30,320 --> 00:37:32,240
+is the convention in the middle of those?
+
+1166
+00:37:32,240 --> 00:37:32,880
+No,
+
+1167
+00:37:32,880 --> 00:37:33,300
+it's on the,
+
+1168
+00:37:33,300 --> 00:37:36,340
+it's a two week thing and it's on the convention on the last two days.
+
+1169
+00:37:36,340 --> 00:37:36,920
+Oh,
+
+1170
+00:37:36,920 --> 00:37:37,500
+interesting.
+
+1171
+00:37:37,500 --> 00:37:37,700
+I,
+
+1172
+00:37:37,720 --> 00:37:38,240
+I would have done it.
+
+1173
+00:37:38,240 --> 00:37:39,140
+I would have done it.
+
+1174
+00:37:39,140 --> 00:37:39,520
+I mean,
+
+1175
+00:37:39,520 --> 00:37:41,400
+I think I would have done it the other way around,
+
+1176
+00:37:41,400 --> 00:37:42,420
+but fair enough.
+
+1177
+00:37:42,420 --> 00:37:45,620
+So you can look at the arts and then you can have the discussions.
+
+1178
+00:37:45,620 --> 00:37:46,520
+I guess that makes sense.
+
+1179
+00:37:46,520 --> 00:37:48,180
+How long has it been running for?
+
+1180
+00:37:48,180 --> 00:37:50,200
+Is that the first iteration or is it?
+
+1181
+00:37:50,200 --> 00:37:50,680
+No,
+
+1182
+00:37:50,680 --> 00:37:51,700
+it's the fourth one.
+
+1183
+00:37:51,700 --> 00:37:52,740
+Fourth one.
+
+1184
+00:37:52,740 --> 00:37:53,380
+Oh yeah.
+
+1185
+00:37:53,380 --> 00:37:53,680
+I see.
+
+1186
+00:37:53,680 --> 00:37:54,400
+BKK,
+
+1187
+00:37:54,400 --> 00:37:56,200
+BKK comics art festival.
+
+1188
+00:37:56,200 --> 00:37:56,780
+Number four.
+
+1189
+00:37:56,780 --> 00:37:58,000
+That was a clue.
+
+1190
+00:37:58,000 --> 00:37:58,260
+Liz,
+
+1191
+00:37:58,260 --> 00:37:58,860
+the number four.
+
+1192
+00:37:58,860 --> 00:38:00,400
+And I think I've,
+
+1193
+00:38:00,400 --> 00:38:01,260
+I can't remember.
+
+1194
+00:38:01,260 --> 00:38:02,020
+I've popped in before.
+
+1195
+00:38:02,020 --> 00:38:02,240
+No,
+
+1196
+00:38:02,240 --> 00:38:03,820
+I think what I've been to before was like,
+
+1197
+00:38:03,820 --> 00:38:07,500
+they have a lot of like student art shows in there as well from like
+
+1198
+00:38:07,500 --> 00:38:08,500
+graduating students.
+
+1199
+00:38:08,500 --> 00:38:10,800
+And I'm sure I went to one where they'd all made comics.
+
+1200
+00:38:10,800 --> 00:38:13,000
+And so it was a sort of very similar thing.
+
+1201
+00:38:13,000 --> 00:38:13,680
+Nice.
+
+1202
+00:38:13,680 --> 00:38:14,800
+So did you,
+
+1203
+00:38:14,800 --> 00:38:15,360
+did you,
+
+1204
+00:38:15,360 --> 00:38:17,680
+did you buy any comics?
+
+1205
+00:38:17,680 --> 00:38:19,320
+Did you learn about comics?
+
+1206
+00:38:19,320 --> 00:38:21,940
+I did not end up buying any comics.
+
+1207
+00:38:21,940 --> 00:38:23,960
+I was looking to buy something from blast,
+
+1208
+00:38:23,960 --> 00:38:26,560
+but I think their table person was having lunch.
+
+1209
+00:38:26,560 --> 00:38:30,580
+So I did not because I have a big book called the book of the blast book of
+
+1210
+00:38:30,580 --> 00:38:31,420
+anti-cast SF,
+
+1211
+00:38:31,420 --> 00:38:35,600
+which got picked in some kind of year roundup of the year's best SF last year.
+
+1212
+00:38:35,600 --> 00:38:36,480
+I look very good.
+
+1213
+00:38:36,480 --> 00:38:37,280
+There were quite a few comics.
+
+1214
+00:38:37,280 --> 00:38:38,140
+There was some like,
+
+1215
+00:38:38,140 --> 00:38:39,220
+there was a table full of,
+
+1216
+00:38:39,220 --> 00:38:41,420
+I think Marvel and DC stuff that was being sold.
+
+1217
+00:38:41,420 --> 00:38:45,660
+And then there was some artists selling like little stickers and things.
+
+1218
+00:38:45,660 --> 00:38:46,900
+And there were some people selling zines,
+
+1219
+00:38:46,900 --> 00:38:49,760
+but most of the zines were in Thai and my ties,
+
+1220
+00:38:49,760 --> 00:38:52,060
+no one a good enough to read a zine.
+
+1221
+00:38:52,060 --> 00:38:53,740
+So I did not purchase them.
+
+1222
+00:38:53,740 --> 00:39:00,080
+I was buying a game from a Spanish publisher about the Spanish resistance to
+
+1223
+00:39:00,080 --> 00:39:00,400
+Franco.
+
+1224
+00:39:00,400 --> 00:39:01,060
+And I was like,
+
+1225
+00:39:01,060 --> 00:39:03,520
+do I buy this game in Spanish or do I buy it in English?
+
+1226
+00:39:03,520 --> 00:39:04,260
+I mean,
+
+1227
+00:39:04,260 --> 00:39:04,440
+for me,
+
+1228
+00:39:04,440 --> 00:39:05,280
+it's also the fonts.
+
+1229
+00:39:05,280 --> 00:39:07,060
+Like I have a very hard time buying the fonts.
+
+1230
+00:39:07,060 --> 00:39:09,100
+Hard time with stylized fonts.
+
+1231
+00:39:09,100 --> 00:39:09,780
+Oh,
+
+1232
+00:39:09,780 --> 00:39:11,880
+in Thai because of the different alphabet.
+
+1233
+00:39:11,880 --> 00:39:13,220
+That makes a lot of sense.
+
+1234
+00:39:13,220 --> 00:39:17,200
+It's really hard for me to read anything other than a fairly standard alphabet.
+
+1235
+00:39:17,200 --> 00:39:19,080
+And even then I'm not very good at reading standard alphabet.
+
+1236
+00:39:19,080 --> 00:39:20,340
+So yeah,
+
+1237
+00:39:20,340 --> 00:39:21,100
+that is one,
+
+1238
+00:39:21,100 --> 00:39:22,340
+one issue,
+
+1239
+00:39:22,340 --> 00:39:24,060
+but it's cute.
+
+1240
+00:39:24,060 --> 00:39:24,660
+They all exist.
+
+1241
+00:39:24,660 --> 00:39:31,260
+I find that with Japanese and then also for Japanese for puzzles and German for
+
+1242
+00:39:31,260 --> 00:39:31,920
+board games.
+
+1243
+00:39:31,920 --> 00:39:33,180
+I find that my,
+
+1244
+00:39:33,180 --> 00:39:36,980
+like my German's good enough for most of the bits of board game rules,
+
+1245
+00:39:37,040 --> 00:39:39,360
+except for fiddly,
+
+1246
+00:39:39,360 --> 00:39:41,220
+fiddly little details,
+
+1247
+00:39:41,220 --> 00:39:44,940
+which are the essence of board game rules.
+
+1248
+00:39:44,940 --> 00:39:45,260
+And that,
+
+1249
+00:39:45,260 --> 00:39:47,860
+and that's also what I found in Japanese with puzzles that,
+
+1250
+00:39:47,860 --> 00:39:48,480
+that I'd,
+
+1251
+00:39:48,480 --> 00:39:50,100
+I'd be going along quite well until,
+
+1252
+00:39:50,100 --> 00:39:52,680
+until it got to the real detail of,
+
+1253
+00:39:52,680 --> 00:39:54,740
+of how turns worked or whatever.
+
+1254
+00:39:54,740 --> 00:39:57,120
+I had the same thing with,
+
+1255
+00:39:57,120 --> 00:39:59,280
+my friend has the German version of,
+
+1256
+00:39:59,280 --> 00:39:59,780
+of Hanabi.
+
+1257
+00:39:59,780 --> 00:40:02,040
+We got the gist of the rules,
+
+1258
+00:40:02,040 --> 00:40:03,680
+but then when I bought it in English,
+
+1259
+00:40:03,680 --> 00:40:04,040
+I was like,
+
+1260
+00:40:04,040 --> 00:40:04,160
+oh,
+
+1261
+00:40:04,160 --> 00:40:04,520
+there were,
+
+1262
+00:40:04,520 --> 00:40:06,780
+there was one key rule,
+
+1263
+00:40:06,820 --> 00:40:11,600
+which we were playing completely wrong because we had slightly mistranslated the
+
+1264
+00:40:11,600 --> 00:40:12,800
+German and that.
+
+1265
+00:40:12,800 --> 00:40:13,480
+Yeah,
+
+1266
+00:40:13,480 --> 00:40:14,400
+exactly that.
+
+1267
+00:40:14,400 --> 00:40:17,360
+The Blast Book of Anticast SF does look fascinating.
+
+1268
+00:40:17,360 --> 00:40:18,880
+I can get it shipped from India,
+
+1269
+00:40:18,880 --> 00:40:20,480
+but it would cost me 25 pounds,
+
+1270
+00:40:20,480 --> 00:40:21,700
+but it is kind of tempting.
+
+1271
+00:40:21,700 --> 00:40:22,260
+I mean,
+
+1272
+00:40:22,260 --> 00:40:23,680
+I think you can also buy an ebook off their website.
+
+1273
+00:40:23,680 --> 00:40:25,440
+So I think I'll probably end up doing that instead.
+
+1274
+00:40:25,440 --> 00:40:26,580
+It's a chunky book.
+
+1275
+00:40:26,580 --> 00:40:27,140
+So yeah.
+
+1276
+00:40:27,140 --> 00:40:27,960
+Uh,
+
+1277
+00:40:27,960 --> 00:40:28,240
+okay.
+
+1278
+00:40:28,240 --> 00:40:29,080
+But that looks good.
+
+1279
+00:40:29,080 --> 00:40:30,580
+That looks like a really good thing.
+
+1280
+00:40:30,580 --> 00:40:30,880
+I,
+
+1281
+00:40:30,880 --> 00:40:31,260
+I,
+
+1282
+00:40:31,260 --> 00:40:32,880
+I wish I lived in Bangkok.
+
+1283
+00:40:32,880 --> 00:40:34,020
+It's a cute little thing.
+
+1284
+00:40:34,020 --> 00:40:34,700
+And yeah,
+
+1285
+00:40:34,700 --> 00:40:35,180
+it's all free.
+
+1286
+00:40:35,180 --> 00:40:36,100
+Apart from,
+
+1287
+00:40:36,100 --> 00:40:36,260
+sorry,
+
+1288
+00:40:36,260 --> 00:40:36,760
+apart from the work,
+
+1289
+00:40:36,800 --> 00:40:36,960
+the jobs,
+
+1290
+00:40:36,960 --> 00:40:37,260
+I guess.
+
+1291
+00:40:37,260 --> 00:40:38,500
+How do they,
+
+1292
+00:40:38,500 --> 00:40:39,300
+I guess,
+
+1293
+00:40:39,300 --> 00:40:40,000
+is it then,
+
+1294
+00:40:40,000 --> 00:40:41,340
+is it sponsored then?
+
+1295
+00:40:41,340 --> 00:40:41,940
+Uh,
+
+1296
+00:40:41,940 --> 00:40:44,840
+I do not know exactly what funding they get.
+
+1297
+00:40:44,840 --> 00:40:45,580
+Oh,
+
+1298
+00:40:45,580 --> 00:40:49,240
+the BKK Comics Art Festival is brought to you by Children of the Forest Foundation,
+
+1299
+00:40:49,240 --> 00:40:50,200
+Clip Studio Paint,
+
+1300
+00:40:50,200 --> 00:40:51,500
+the Japan Foundation,
+
+1301
+00:40:51,500 --> 00:40:53,120
+Taika,
+
+1302
+00:40:53,120 --> 00:40:55,020
+the Embassy of Belgium,
+
+1303
+00:40:55,020 --> 00:40:55,960
+Nicholas,
+
+1304
+00:40:55,960 --> 00:40:58,200
+and BKK Unzine.
+
+1305
+00:40:58,200 --> 00:40:59,200
+So I,
+
+1306
+00:40:59,200 --> 00:41:00,680
+I think it's funded by Nicholas White.
+
+1307
+00:41:00,680 --> 00:41:01,480
+I'm pretty sure.
+
+1308
+00:41:01,480 --> 00:41:03,800
+I think that's what I've just learned.
+
+1309
+00:41:03,800 --> 00:41:04,500
+Uh,
+
+1310
+00:41:04,500 --> 00:41:04,780
+Nicholas,
+
+1311
+00:41:04,780 --> 00:41:05,500
+do write in,
+
+1312
+00:41:05,500 --> 00:41:06,780
+do you fund
+
+1313
+00:41:06,780 --> 00:41:09,020
+a Bangkok comic art festival?
+
+1314
+00:41:09,020 --> 00:41:09,780
+Really?
+
+1315
+00:41:09,780 --> 00:41:13,220
+Alison,
+
+1316
+00:41:13,220 --> 00:41:16,860
+did you zone out at a key point that means that that makes no sense at all?
+
+1317
+00:41:16,860 --> 00:41:17,780
+I'm,
+
+1318
+00:41:17,780 --> 00:41:19,820
+I'm just permanently zoned this week.
+
+1319
+00:41:19,820 --> 00:41:20,100
+Sorry,
+
+1320
+00:41:20,100 --> 00:41:20,600
+guys.
+
+1321
+00:41:20,600 --> 00:41:21,420
+That's all right.
+
+1322
+00:41:21,420 --> 00:41:24,160
+I know that Nicholas does not work for the,
+
+1323
+00:41:24,160 --> 00:41:24,540
+uh,
+
+1324
+00:41:24,540 --> 00:41:26,240
+Thai Belgian Embassy,
+
+1325
+00:41:26,240 --> 00:41:27,800
+but Nicholas is an,
+
+1326
+00:41:27,800 --> 00:41:29,160
+a diplomat who lives in Belgium.
+
+1327
+00:41:29,160 --> 00:41:29,900
+So,
+
+1328
+00:41:29,900 --> 00:41:30,360
+uh,
+
+1329
+00:41:30,360 --> 00:41:35,060
+I've arbitrarily decided that he represents all Belgian diplomatic missions.
+
+1330
+00:41:35,060 --> 00:41:36,760
+That seems perfectly reasonable.
+
+1331
+00:41:36,760 --> 00:41:38,060
+Let me,
+
+1332
+00:41:38,060 --> 00:41:39,640
+it makes total sense though,
+
+1333
+00:41:39,640 --> 00:41:39,880
+right?
+
+1334
+00:41:39,880 --> 00:41:40,780
+Because of the,
+
+1335
+00:41:40,780 --> 00:41:41,120
+you know,
+
+1336
+00:41:41,120 --> 00:41:42,880
+strong comics history of Belgium.
+
+1337
+00:41:42,880 --> 00:41:46,980
+And so I think there was some art from a Belgian artist in the displays.
+
+1338
+00:41:46,980 --> 00:41:52,800
+And for listeners who thought we were being facetious about Belgian comics,
+
+1339
+00:41:52,800 --> 00:41:53,520
+um,
+
+1340
+00:41:53,520 --> 00:41:57,760
+Belgium is one of the preeminent countries for comics in the world.
+
+1341
+00:41:57,760 --> 00:41:58,360
+Uh,
+
+1342
+00:41:58,360 --> 00:42:01,980
+and the two you've probably heard of our Tintin and the Smurfs,
+
+1343
+00:42:01,980 --> 00:42:03,080
+uh,
+
+1344
+00:42:03,080 --> 00:42:03,540
+which is,
+
+1345
+00:42:03,540 --> 00:42:03,940
+you know,
+
+1346
+00:42:03,940 --> 00:42:06,120
+those are the two big Belgian exports,
+
+1347
+00:42:06,120 --> 00:42:06,740
+but the,
+
+1348
+00:42:06,740 --> 00:42:08,680
+there is a whole Wikipedia page on Belgian comics.
+
+1349
+00:42:08,680 --> 00:42:09,660
+And if you're not familiar,
+
+1350
+00:42:09,660 --> 00:42:11,160
+go look it up in the show notes,
+
+1351
+00:42:11,160 --> 00:42:12,780
+but I'm a big Tintin fan.
+
+1352
+00:42:12,780 --> 00:42:13,480
+Not,
+
+1353
+00:42:13,480 --> 00:42:13,900
+I mean,
+
+1354
+00:42:13,900 --> 00:42:16,440
+obviously there are problematic aspects to Tintin,
+
+1355
+00:42:16,440 --> 00:42:16,780
+but,
+
+1356
+00:42:16,780 --> 00:42:17,140
+um,
+
+1357
+00:42:17,140 --> 00:42:18,780
+but I grew up with Tintin.
+
+1358
+00:42:18,780 --> 00:42:19,240
+I love him.
+
+1359
+00:42:19,240 --> 00:42:19,620
+I've got,
+
+1360
+00:42:19,620 --> 00:42:19,960
+I got,
+
+1361
+00:42:19,960 --> 00:42:21,980
+I got two of the comic,
+
+1362
+00:42:21,980 --> 00:42:22,500
+uh,
+
+1363
+00:42:22,500 --> 00:42:22,900
+covers,
+
+1364
+00:42:22,900 --> 00:42:23,280
+uh,
+
+1365
+00:42:23,280 --> 00:42:24,440
+as prints in my,
+
+1366
+00:42:24,440 --> 00:42:24,760
+uh,
+
+1367
+00:42:24,760 --> 00:42:25,360
+dining room.
+
+1368
+00:42:25,360 --> 00:42:25,700
+Hmm.
+
+1369
+00:42:25,700 --> 00:42:26,640
+Um,
+
+1370
+00:42:26,640 --> 00:42:27,840
+so,
+
+1371
+00:42:27,840 --> 00:42:29,020
+and in fact,
+
+1372
+00:42:29,020 --> 00:42:31,520
+Hergé is one of the seven famous Belgians.
+
+1373
+00:42:31,520 --> 00:42:32,240
+Yes.
+
+1374
+00:42:32,240 --> 00:42:33,700
+Along with Poirot.
+
+1375
+00:42:33,700 --> 00:42:34,440
+Yeah.
+
+1376
+00:42:34,440 --> 00:42:35,140
+He's fictional.
+
+1377
+00:42:35,140 --> 00:42:36,560
+And Papa Smurf.
+
+1378
+00:42:36,720 --> 00:42:37,760
+Also fictional.
+
+1379
+00:42:37,760 --> 00:42:39,460
+And Tintin.
+
+1380
+00:42:39,460 --> 00:42:40,700
+Also fictional.
+
+1381
+00:42:40,700 --> 00:42:44,560
+All of the best famous people from any country are fictional.
+
+1382
+00:42:44,560 --> 00:42:47,320
+The best,
+
+1383
+00:42:47,320 --> 00:42:49,900
+the best English person is Sherlock Holmes.
+
+1384
+00:42:49,900 --> 00:42:50,540
+Oh,
+
+1385
+00:42:50,540 --> 00:42:51,280
+grief,
+
+1386
+00:42:51,280 --> 00:42:51,640
+no.
+
+1387
+00:42:51,640 --> 00:42:53,880
+Unless it's Doctor Who.
+
+1388
+00:42:53,880 --> 00:42:56,060
+No disputing matters of taste.
+
+1389
+00:42:56,060 --> 00:42:56,700
+Doctor Who,
+
+1390
+00:42:56,700 --> 00:42:57,100
+yeah,
+
+1391
+00:42:57,100 --> 00:42:57,960
+much better choice.
+
+1392
+00:42:57,960 --> 00:42:58,580
+Look,
+
+1393
+00:42:58,580 --> 00:42:59,660
+there's lots of famous Belgians.
+
+1394
+00:42:59,660 --> 00:43:00,320
+It's just,
+
+1395
+00:43:00,320 --> 00:43:02,280
+they're all cyclists and you've never heard of them.
+
+1396
+00:43:02,280 --> 00:43:06,080
+Then there,
+
+1397
+00:43:06,080 --> 00:43:06,700
+I,
+
+1398
+00:43:06,700 --> 00:43:07,480
+and I did,
+
+1399
+00:43:07,480 --> 00:43:07,700
+I,
+
+1400
+00:43:07,700 --> 00:43:09,620
+do not write in with famous Belgians,
+
+1401
+00:43:09,620 --> 00:43:09,960
+please.
+
+1402
+00:43:09,960 --> 00:43:12,700
+I'm sorry for my co-hosts.
+
+1403
+00:43:12,700 --> 00:43:15,180
+Listeners,
+
+1404
+00:43:15,180 --> 00:43:17,040
+please write in with famous Belgians.
+
+1405
+00:43:17,040 --> 00:43:17,200
+Oh,
+
+1406
+00:43:17,200 --> 00:43:17,360
+no,
+
+1407
+00:43:17,360 --> 00:43:17,660
+no,
+
+1408
+00:43:17,660 --> 00:43:18,160
+please don't.
+
+1409
+00:43:18,160 --> 00:43:19,160
+Um,
+
+1410
+00:43:19,160 --> 00:43:24,080
+then I was going to talk about only a little bit because I don't have first hand,
+
+1411
+00:43:24,080 --> 00:43:24,820
+um,
+
+1412
+00:43:24,820 --> 00:43:25,480
+experience,
+
+1413
+00:43:25,480 --> 00:43:28,980
+but there is a,
+
+1414
+00:43:28,980 --> 00:43:32,940
+a convention that I read about in Rascal called the Asian Board Games Festival,
+
+1415
+00:43:32,940 --> 00:43:36,680
+which sounded absolutely fascinating and sounded like a very kind of,
+
+1416
+00:43:36,680 --> 00:43:37,680
+um,
+
+1417
+00:43:37,680 --> 00:43:37,720
+very,
+
+1418
+00:43:37,720 --> 00:43:37,780
+very,
+
+1419
+00:43:37,780 --> 00:43:37,820
+very,
+
+1420
+00:43:37,820 --> 00:43:37,880
+very,
+
+1421
+00:43:37,880 --> 00:43:37,900
+very,
+
+1422
+00:43:37,900 --> 00:43:37,920
+very,
+
+1423
+00:43:37,920 --> 00:43:37,940
+very,
+
+1424
+00:43:37,940 --> 00:43:37,980
+very,
+
+1425
+00:43:37,980 --> 00:43:38,000
+very,
+
+1426
+00:43:38,000 --> 00:43:38,020
+very,
+
+1427
+00:43:38,020 --> 00:43:38,040
+very,
+
+1428
+00:43:38,040 --> 00:43:38,060
+very,
+
+1429
+00:43:38,060 --> 00:43:38,080
+very,
+
+1430
+00:43:38,080 --> 00:43:38,140
+very,
+
+1431
+00:43:38,140 --> 00:43:38,240
+very,
+
+1432
+00:43:38,240 --> 00:43:38,340
+very,
+
+1433
+00:43:38,340 --> 00:43:38,380
+very,
+
+1434
+00:43:38,380 --> 00:43:38,440
+very,
+
+1435
+00:43:38,440 --> 00:43:38,480
+very,
+
+1436
+00:43:38,480 --> 00:43:38,540
+very,
+
+1437
+00:43:38,540 --> 00:43:38,620
+very,
+
+1438
+00:43:38,620 --> 00:43:42,000
+pictures on Rascal and it seems really cozy and little,
+
+1439
+00:43:42,000 --> 00:43:46,800
+but I'd love to have gone and some of the zine pictures of like stalls and the zines on offer look amazing.
+
+1440
+00:43:46,800 --> 00:43:47,500
+Um,
+
+1441
+00:43:47,500 --> 00:43:48,820
+so this was held in,
+
+1442
+00:43:48,820 --> 00:43:49,440
+uh,
+
+1443
+00:43:49,440 --> 00:43:51,200
+Georgetown on Penang Island,
+
+1444
+00:43:51,200 --> 00:43:53,040
+which is part of Malaysia.
+
+1445
+00:43:53,040 --> 00:43:53,640
+Um,
+
+1446
+00:43:53,640 --> 00:43:59,160
+but it's also held in Singapore and they're about to hold one in the Philippines.
+
+1447
+00:43:59,160 --> 00:44:00,780
+So if we have any,
+
+1448
+00:44:00,780 --> 00:44:01,440
+um,
+
+1449
+00:44:01,440 --> 00:44:02,220
+Singaporean,
+
+1450
+00:44:02,220 --> 00:44:03,960
+Filipino or,
+
+1451
+00:44:03,960 --> 00:44:04,280
+uh,
+
+1452
+00:44:04,280 --> 00:44:08,300
+Malaysian listeners do write in and let us know if you've ever been to the Asian board game festival,
+
+1453
+00:44:08,300 --> 00:44:09,300
+but it looks pretty great.
+
+1454
+00:44:09,300 --> 00:44:10,420
+And I'm trying to persuade,
+
+1455
+00:44:10,420 --> 00:44:10,760
+um,
+
+1456
+00:44:10,760 --> 00:44:18,160
+basically my mission listeners is to get Liz to go and report back because Malaysia is not that far from Thailand compared with,
+
+1457
+00:44:18,160 --> 00:44:18,600
+you know,
+
+1458
+00:44:18,600 --> 00:44:19,080
+Birmingham.
+
+1459
+00:44:19,080 --> 00:44:24,160
+I feel like the Tokyo game market is also very good in that space.
+
+1460
+00:44:24,160 --> 00:44:24,980
+I mean,
+
+1461
+00:44:24,980 --> 00:44:25,460
+famously,
+
+1462
+00:44:25,460 --> 00:44:30,220
+maybe we need to have a patron just so we can send Liz to Asian conventions and report back.
+
+1463
+00:44:30,220 --> 00:44:32,280
+Come on.
+
+1464
+00:44:32,280 --> 00:44:32,500
+Why,
+
+1465
+00:44:32,500 --> 00:44:33,620
+why limit our sites?
+
+1466
+00:44:33,620 --> 00:44:33,980
+Why not?
+
+1467
+00:44:33,980 --> 00:44:34,140
+So,
+
+1468
+00:44:34,140 --> 00:44:34,260
+um,
+
+1469
+00:44:34,260 --> 00:44:36,640
+I can go to Asian game conventions and I can report back.
+
+1470
+00:44:36,640 --> 00:44:38,020
+This is closer.
+
+1471
+00:44:38,020 --> 00:44:40,380
+Cause I can get the train to Georgetown.
+
+1472
+00:44:40,380 --> 00:44:42,740
+It'll cost me about 30 quid is why.
+
+1473
+00:44:42,740 --> 00:44:43,880
+Wow.
+
+1474
+00:44:43,880 --> 00:44:45,100
+Trains are great.
+
+1475
+00:44:45,100 --> 00:44:45,700
+Uh,
+
+1476
+00:44:45,700 --> 00:44:45,960
+yes.
+
+1477
+00:44:45,960 --> 00:44:46,400
+Sadly,
+
+1478
+00:44:46,400 --> 00:44:46,820
+John,
+
+1479
+00:44:46,820 --> 00:44:47,240
+uh,
+
+1480
+00:44:47,240 --> 00:44:51,140
+did not alert me to this convention until six months after it took place,
+
+1481
+00:44:51,140 --> 00:44:52,660
+but maybe next year.
+
+1482
+00:44:52,660 --> 00:44:53,660
+In my defense,
+
+1483
+00:44:53,660 --> 00:44:56,520
+I only found out about it when Rascal wrote the retrospective.
+
+1484
+00:44:56,520 --> 00:44:57,960
+So I did.
+
+1485
+00:44:57,960 --> 00:45:00,540
+I also did not know about it in advance.
+
+1486
+00:45:00,540 --> 00:45:01,480
+Awesome.
+
+1487
+00:45:01,480 --> 00:45:01,880
+Well,
+
+1488
+00:45:01,880 --> 00:45:02,380
+thank you very much,
+
+1489
+00:45:02,380 --> 00:45:02,520
+Liz.
+
+1490
+00:45:02,520 --> 00:45:03,380
+That sounds very interesting.
+
+1491
+00:45:04,000 --> 00:45:04,280
+And,
+
+1492
+00:45:04,280 --> 00:45:04,540
+um,
+
+1493
+00:45:04,540 --> 00:45:05,560
+I hope you go to the next one.
+
+1494
+00:45:05,560 --> 00:45:13,060
+Shall we do picks?
+
+1495
+00:45:13,060 --> 00:45:13,840
+Yes.
+
+1496
+00:45:13,840 --> 00:45:21,320
+And let's continue the Le Guin theme of the episode with Alison's pick.
+
+1497
+00:45:21,320 --> 00:45:22,480
+Oh yeah.
+
+1498
+00:45:22,480 --> 00:45:22,800
+No.
+
+1499
+00:45:22,800 --> 00:45:25,940
+So my pick is an exhibition and I'm,
+
+1500
+00:45:25,940 --> 00:45:29,480
+I'm told I have to stop picking things that you can't go to if you're not in London,
+
+1501
+00:45:29,480 --> 00:45:33,060
+but I think it will be touring after it's only a little exhibition.
+
+1502
+00:45:33,060 --> 00:45:33,980
+So if you are in London,
+
+1503
+00:45:33,980 --> 00:45:35,860
+over the next month or so,
+
+1504
+00:45:35,860 --> 00:45:37,000
+um,
+
+1505
+00:45:37,000 --> 00:45:44,980
+the architectural association has an exhibition of Le Guin's maps called the word for world.
+
+1506
+00:45:44,980 --> 00:45:47,420
+And it is one of,
+
+1507
+00:45:47,420 --> 00:45:48,420
+it's not a very big exhibition.
+
+1508
+00:45:48,420 --> 00:45:49,620
+It's just a little gallery room.
+
+1509
+00:45:49,620 --> 00:45:53,940
+It is one of the most arrestingly lovely exhibitions I think I've ever been to.
+
+1510
+00:45:53,940 --> 00:45:54,260
+Um,
+
+1511
+00:45:54,260 --> 00:45:56,660
+they have printed a bunch of Le Guin's maps,
+
+1512
+00:45:56,660 --> 00:45:58,760
+most of which you will be already familiar with,
+
+1513
+00:45:58,760 --> 00:46:03,960
+but some of which are new on like cyanotype blue fabric,
+
+1514
+00:46:03,960 --> 00:46:06,960
+so they're basically blue and white wall hangings.
+
+1515
+00:46:06,960 --> 00:46:07,260
+Um,
+
+1516
+00:46:07,260 --> 00:46:09,960
+they have put around the walls,
+
+1517
+00:46:09,960 --> 00:46:11,460
+some of her original,
+
+1518
+00:46:11,460 --> 00:46:11,960
+um,
+
+1519
+00:46:11,960 --> 00:46:18,960
+sketches for maps and maps and other information about maps and sings from publishers and so on,
+
+1520
+00:46:18,960 --> 00:46:22,960
+and ways in which maps are different from the way they appeared in the book and so on.
+
+1521
+00:46:22,960 --> 00:46:23,460
+Um,
+
+1522
+00:46:23,460 --> 00:46:30,960
+and they have laser etched a bunch of talismanic maps onto rocks and they've strewn those around the room,
+
+1523
+00:46:30,960 --> 00:46:31,460
+um,
+
+1524
+00:46:31,460 --> 00:46:32,760
+along with a lot of other rocks,
+
+1525
+00:46:32,760 --> 00:46:33,700
+some of which are rocks,
+
+1526
+00:46:33,700 --> 00:46:35,680
+which are wrapped and it's all very delightful.
+
+1527
+00:46:35,680 --> 00:46:38,540
+You probably want to allow half an hour or so.
+
+1528
+00:46:38,540 --> 00:46:40,220
+It's just a single room,
+
+1529
+00:46:40,220 --> 00:46:40,820
+but it's great.
+
+1530
+00:46:40,820 --> 00:46:42,020
+So,
+
+1531
+00:46:42,020 --> 00:46:42,860
+and I said,
+
+1532
+00:46:42,860 --> 00:46:45,880
+I think there's various things have been going on in conjunction with it.
+
+1533
+00:46:45,880 --> 00:46:46,880
+None of which I have,
+
+1534
+00:46:46,880 --> 00:46:49,100
+I've seen and will be going on.
+
+1535
+00:46:49,100 --> 00:46:50,260
+I think it is touring,
+
+1536
+00:46:50,260 --> 00:46:51,800
+but I don't know the details.
+
+1537
+00:46:51,800 --> 00:46:56,480
+I will be in London just before that closes.
+
+1538
+00:46:56,480 --> 00:47:00,000
+I will be going to the,
+
+1539
+00:47:00,000 --> 00:47:00,600
+um,
+
+1540
+00:47:00,600 --> 00:47:02,600
+Royal Astronomical Society for a convention.
+
+1541
+00:47:02,600 --> 00:47:03,640
+And it isn't,
+
+1542
+00:47:03,640 --> 00:47:04,740
+it isn't that far away.
+
+1543
+00:47:04,740 --> 00:47:06,160
+So I could just wander over.
+
+1544
+00:47:06,160 --> 00:47:06,640
+Yeah,
+
+1545
+00:47:06,640 --> 00:47:08,120
+it can't be very far.
+
+1546
+00:47:08,120 --> 00:47:08,480
+Really.
+
+1547
+00:47:08,480 --> 00:47:12,020
+All those places are in the same sort of bit posh bit of the West end.
+
+1548
+00:47:12,020 --> 00:47:12,780
+Europe.
+
+1549
+00:47:12,780 --> 00:47:13,920
+That sounds really good.
+
+1550
+00:47:13,920 --> 00:47:14,760
+It reminds me.
+
+1551
+00:47:14,760 --> 00:47:18,740
+Did you go to the exhibition of Tolkien stuff for the Bodleian?
+
+1552
+00:47:18,740 --> 00:47:20,440
+I can't remember when it was.
+
+1553
+00:47:20,440 --> 00:47:21,160
+Yes,
+
+1554
+00:47:21,160 --> 00:47:21,680
+I did.
+
+1555
+00:47:21,680 --> 00:47:22,640
+It was amazing.
+
+1556
+00:47:22,640 --> 00:47:23,260
+This is,
+
+1557
+00:47:23,260 --> 00:47:24,780
+this is less grand than that.
+
+1558
+00:47:24,780 --> 00:47:25,320
+Oh,
+
+1559
+00:47:25,320 --> 00:47:25,560
+I mean,
+
+1560
+00:47:25,560 --> 00:47:26,200
+that that's fair,
+
+1561
+00:47:26,200 --> 00:47:29,220
+but I just remember one of the things I remember and the thing I like most,
+
+1562
+00:47:29,220 --> 00:47:32,660
+a lot of people like Tolkien for his writing,
+
+1563
+00:47:32,660 --> 00:47:33,280
+but,
+
+1564
+00:47:33,280 --> 00:47:33,560
+um,
+
+1565
+00:47:33,560 --> 00:47:40,180
+I have always preferred Tolkien as an artist to talking as an author and the hand illustrated maps,
+
+1566
+00:47:40,180 --> 00:47:41,060
+um,
+
+1567
+00:47:41,060 --> 00:47:45,420
+getting to see the original picture of the Aurora from the father Christmas letters,
+
+1568
+00:47:45,420 --> 00:47:48,660
+and also getting to see his illustrated cryptic crosswords,
+
+1569
+00:47:48,660 --> 00:47:49,460
+um,
+
+1570
+00:47:49,460 --> 00:47:51,520
+was the highlight of that exhibition for me.
+
+1571
+00:47:51,520 --> 00:47:52,120
+So,
+
+1572
+00:47:52,120 --> 00:47:52,600
+um,
+
+1573
+00:47:52,600 --> 00:47:53,820
+anything where you're like,
+
+1574
+00:47:53,820 --> 00:47:54,660
+you know,
+
+1575
+00:47:54,660 --> 00:47:56,680
+hand drawn maps etched on rocks.
+
+1576
+00:47:56,680 --> 00:47:57,160
+I'm like,
+
+1577
+00:47:57,160 --> 00:47:57,580
+yes,
+
+1578
+00:47:57,580 --> 00:47:58,680
+deal.
+
+1579
+00:47:58,680 --> 00:47:59,700
+I'm excited.
+
+1580
+00:47:59,700 --> 00:48:00,480
+And,
+
+1581
+00:48:00,480 --> 00:48:01,240
+uh,
+
+1582
+00:48:01,240 --> 00:48:02,760
+I think Alison might have already said this,
+
+1583
+00:48:02,760 --> 00:48:02,980
+but,
+
+1584
+00:48:03,220 --> 00:48:04,200
+no harm in saying it again.
+
+1585
+00:48:04,200 --> 00:48:04,880
+Um,
+
+1586
+00:48:04,880 --> 00:48:07,280
+that is wrapping up on the 6th of December,
+
+1587
+00:48:07,280 --> 00:48:08,480
+2025 listeners.
+
+1588
+00:48:08,480 --> 00:48:09,240
+And,
+
+1589
+00:48:09,240 --> 00:48:09,580
+um,
+
+1590
+00:48:09,580 --> 00:48:12,680
+it looks like it's easily accessible from a little thing.
+
+1591
+00:48:12,680 --> 00:48:14,540
+I like to call the underground,
+
+1592
+00:48:14,540 --> 00:48:15,480
+um,
+
+1593
+00:48:15,480 --> 00:48:18,540
+Tottenham court road looks like the closest or gooch street,
+
+1594
+00:48:18,540 --> 00:48:20,460
+which is just a funny word to say.
+
+1595
+00:48:20,460 --> 00:48:21,280
+Gooch.
+
+1596
+00:48:21,280 --> 00:48:23,260
+The same day that we saw this,
+
+1597
+00:48:23,260 --> 00:48:24,200
+we also saw,
+
+1598
+00:48:24,200 --> 00:48:24,780
+um,
+
+1599
+00:48:24,780 --> 00:48:26,380
+the new exhibition at the British library,
+
+1600
+00:48:26,380 --> 00:48:27,860
+which is called secret maps.
+
+1601
+00:48:27,860 --> 00:48:28,580
+No relation.
+
+1602
+00:48:28,580 --> 00:48:29,420
+Um,
+
+1603
+00:48:29,420 --> 00:48:31,320
+that's not fictional maps,
+
+1604
+00:48:31,320 --> 00:48:32,160
+but you know,
+
+1605
+00:48:32,160 --> 00:48:32,980
+if you like maps,
+
+1606
+00:48:33,140 --> 00:48:35,860
+that might be a good one to combine with the exhibition.
+
+1607
+00:48:35,860 --> 00:48:40,080
+I would just say that if you're planning to go to the British library for the,
+
+1608
+00:48:40,080 --> 00:48:40,480
+um,
+
+1609
+00:48:40,480 --> 00:48:42,660
+secret maps exhibition that Alison just mentioned,
+
+1610
+00:48:42,660 --> 00:48:43,740
+the other thing to bear in mind,
+
+1611
+00:48:43,740 --> 00:48:48,900
+the British library often has a large selection of great events that tie in with their exhibitions.
+
+1612
+00:48:48,900 --> 00:48:53,700
+So I highly recommend looking up to see whether they are doing anything around,
+
+1613
+00:48:53,700 --> 00:48:54,340
+uh,
+
+1614
+00:48:54,340 --> 00:48:54,620
+that.
+
+1615
+00:48:54,620 --> 00:48:55,580
+All right,
+
+1616
+00:48:55,580 --> 00:48:56,340
+Liz,
+
+1617
+00:48:56,340 --> 00:48:57,780
+do you want to pick next or shall I?
+
+1618
+00:48:57,780 --> 00:48:59,620
+I can pick next if you want.
+
+1619
+00:48:59,620 --> 00:49:00,660
+So,
+
+1620
+00:49:00,660 --> 00:49:03,040
+you know how last time I picked,
+
+1621
+00:49:03,060 --> 00:49:04,900
+one big fat fantasy book.
+
+1622
+00:49:04,900 --> 00:49:05,720
+Yeah.
+
+1623
+00:49:05,720 --> 00:49:08,580
+This time you're picking several big fat fantasy books.
+
+1624
+00:49:08,580 --> 00:49:11,620
+I'm picking seven big fat books.
+
+1625
+00:49:11,620 --> 00:49:12,220
+Sorry.
+
+1626
+00:49:12,220 --> 00:49:13,580
+Whoa.
+
+1627
+00:49:13,580 --> 00:49:15,100
+I know.
+
+1628
+00:49:15,100 --> 00:49:17,540
+I'm just making it harder and harder for John to ever,
+
+1629
+00:49:17,540 --> 00:49:19,580
+ever complete his,
+
+1630
+00:49:19,580 --> 00:49:20,000
+uh,
+
+1631
+00:49:20,000 --> 00:49:21,420
+quest to read all my picks.
+
+1632
+00:49:21,420 --> 00:49:21,700
+Okay.
+
+1633
+00:49:21,700 --> 00:49:24,580
+I'm going to pick a series called dungeon crawler,
+
+1634
+00:49:24,580 --> 00:49:25,020
+Carl,
+
+1635
+00:49:25,020 --> 00:49:32,120
+which I picked up on a whim because they were down in the kind of long list for best series last year for the Hugos.
+
+1636
+00:49:32,120 --> 00:49:32,980
+And since then,
+
+1637
+00:49:32,980 --> 00:49:35,020
+since I was determining eligibility,
+
+1638
+00:49:35,020 --> 00:49:36,980
+I went and looked him up and thought,
+
+1639
+00:49:36,980 --> 00:49:37,160
+Oh,
+
+1640
+00:49:37,160 --> 00:49:39,040
+that sounds interesting in a kind of like,
+
+1641
+00:49:39,040 --> 00:49:41,480
+it's a big self published series.
+
+1642
+00:49:41,480 --> 00:49:48,500
+And I don't think that many self published series get enough nominations to get even into the kind of the bottom realms of the long list,
+
+1643
+00:49:48,500 --> 00:49:52,340
+which was kind of an indication of kind of quality.
+
+1644
+00:49:52,340 --> 00:49:53,940
+And then I realized they're on Kindle.
+
+1645
+00:49:53,940 --> 00:49:54,340
+So I thought,
+
+1646
+00:49:54,340 --> 00:49:55,400
+I'll pick one up and read it.
+
+1647
+00:49:55,400 --> 00:49:56,520
+And dungeon crawler,
+
+1648
+00:49:56,520 --> 00:49:56,840
+Carl.
+
+1649
+00:49:56,840 --> 00:50:02,900
+So it's basically what if aliens came to earth and turned up,
+
+1650
+00:50:02,900 --> 00:50:07,300
+turned earth into like a giant kind of MMORPG,
+
+1651
+00:50:07,300 --> 00:50:08,180
+um,
+
+1652
+00:50:08,180 --> 00:50:10,200
+which is a reality TV show,
+
+1653
+00:50:10,200 --> 00:50:11,040
+um,
+
+1654
+00:50:11,040 --> 00:50:14,960
+broadcast across the galaxy and everyone on earth who,
+
+1655
+00:50:14,960 --> 00:50:15,420
+uh,
+
+1656
+00:50:15,420 --> 00:50:16,080
+hasn't been,
+
+1657
+00:50:16,080 --> 00:50:16,460
+uh,
+
+1658
+00:50:16,460 --> 00:50:17,380
+killed in the collapse,
+
+1659
+00:50:17,380 --> 00:50:18,540
+which is when all buildings clap.
+
+1660
+00:50:18,540 --> 00:50:20,160
+So anyone who's outside gets kind of,
+
+1661
+00:50:20,160 --> 00:50:20,660
+you know,
+
+1662
+00:50:20,660 --> 00:50:26,160
+they can choose to come into the dungeon and play the crawl for the chance at basically winning,
+
+1663
+00:50:26,160 --> 00:50:28,460
+winning their lives back.
+
+1664
+00:50:28,460 --> 00:50:29,520
+Interesting.
+
+1665
+00:50:29,520 --> 00:50:31,220
+So it's like a fan.
+
+1666
+00:50:31,220 --> 00:50:32,680
+It's almost like a fantasy chain.
+
+1667
+00:50:32,680 --> 00:50:32,880
+Gang.
+
+1668
+00:50:32,880 --> 00:50:33,560
+All stars.
+
+1669
+00:50:33,560 --> 00:50:33,980
+Yeah.
+
+1670
+00:50:33,980 --> 00:50:34,240
+It's not,
+
+1671
+00:50:34,240 --> 00:50:34,400
+I mean,
+
+1672
+00:50:34,400 --> 00:50:35,520
+it's not really fantasy.
+
+1673
+00:50:35,520 --> 00:50:36,260
+It's science fiction,
+
+1674
+00:50:36,260 --> 00:50:40,200
+but because the kind of the crawl is often very fantasy themed,
+
+1675
+00:50:40,200 --> 00:50:43,240
+there's lots of orcs and goblins and things.
+
+1676
+00:50:43,240 --> 00:50:44,100
+Oh,
+
+1677
+00:50:44,100 --> 00:50:44,580
+okay.
+
+1678
+00:50:44,580 --> 00:50:45,400
+That's interesting.
+
+1679
+00:50:45,400 --> 00:50:48,240
+But it's also very like self-referential.
+
+1680
+00:50:48,240 --> 00:50:49,040
+Well,
+
+1681
+00:50:49,040 --> 00:50:49,820
+yeah,
+
+1682
+00:50:49,820 --> 00:50:50,860
+I don't mean self-referential.
+
+1683
+00:50:50,860 --> 00:50:51,260
+I bought it.
+
+1684
+00:50:51,260 --> 00:50:52,020
+It's kind of meta.
+
+1685
+00:50:52,020 --> 00:50:56,320
+So we follow Carl who was outside trying to rescue his ex-girlfriend's cat,
+
+1686
+00:50:56,320 --> 00:50:56,920
+princess donut.
+
+1687
+00:50:56,920 --> 00:50:59,080
+And so he was barefoot and in boxes.
+
+1688
+00:50:59,080 --> 00:51:02,300
+And so he has to enter the dungeon barefoot and in boxes with princess donut.
+
+1689
+00:51:02,800 --> 00:51:04,400
+Who becomes sentient very quickly.
+
+1690
+00:51:04,400 --> 00:51:05,680
+And it's seven books,
+
+1691
+00:51:05,680 --> 00:51:09,240
+basically of their adventures in which they realize that they are part of
+
+1692
+00:51:09,240 --> 00:51:13,440
+galactic geopolitics in a way that no one had foreseen at the start.
+
+1693
+00:51:13,440 --> 00:51:14,720
+There is an AI,
+
+1694
+00:51:14,720 --> 00:51:17,280
+which is getting gradually more and more and hinged.
+
+1695
+00:51:17,280 --> 00:51:21,440
+The game is not fair in that because Carl comes in,
+
+1696
+00:51:21,440 --> 00:51:22,800
+in his boxes and in bare feet,
+
+1697
+00:51:22,800 --> 00:51:26,440
+he keeps getting upgrades that mean he has to keep his boxes on and not ever
+
+1698
+00:51:26,440 --> 00:51:27,000
+get any trousers.
+
+1699
+00:51:27,000 --> 00:51:30,160
+Brilliant.
+
+1700
+00:51:30,160 --> 00:51:31,980
+And the AI is pushing this.
+
+1701
+00:51:31,980 --> 00:51:32,240
+The,
+
+1702
+00:51:32,240 --> 00:51:32,400
+the,
+
+1703
+00:51:32,400 --> 00:51:32,780
+the,
+
+1704
+00:51:32,780 --> 00:51:36,100
+civilizations run the crawl in
+
+1705
+00:51:36,100 --> 00:51:38,100
+different years, every time they find a new
+
+1706
+00:51:38,100 --> 00:51:40,060
+planet they do this again basically
+
+1707
+00:51:40,060 --> 00:51:41,600
+and so there's a long long history of this
+
+1708
+00:51:41,600 --> 00:51:44,300
+and it just builds and builds and builds all this world building
+
+1709
+00:51:44,300 --> 00:51:45,500
+and backstory into it
+
+1710
+00:51:45,500 --> 00:51:48,220
+and of course kind of Carl and Princess
+
+1711
+00:51:48,220 --> 00:51:50,140
+Donut get allies and become
+
+1712
+00:51:50,140 --> 00:51:51,580
+more and more powerful until
+
+1713
+00:51:51,580 --> 00:51:54,220
+by the last book I read, which is the seventh one, they're basically
+
+1714
+00:51:54,220 --> 00:51:56,040
+just sort of fighting a
+
+1715
+00:51:56,040 --> 00:51:58,160
+big fantasy war
+
+1716
+00:51:58,160 --> 00:52:00,160
+against different factions from
+
+1717
+00:52:00,160 --> 00:52:02,060
+the galaxy which is having repercussions
+
+1718
+00:52:02,060 --> 00:52:03,420
+outside the dungeon
+
+1719
+00:52:03,420 --> 00:52:06,160
+Okay, this sounds
+
+1720
+00:52:06,160 --> 00:52:07,360
+fascinating
+
+1721
+00:52:07,360 --> 00:52:09,900
+Yeah, so the first one is just sort of like, I was like
+
+1722
+00:52:09,900 --> 00:52:12,060
+okay, well that was a bit fun, they you know
+
+1723
+00:52:12,060 --> 00:52:14,180
+crawl through the dungeon, it was fun
+
+1724
+00:52:14,180 --> 00:52:16,140
+Carl's quite fun, he's got a sentient cat
+
+1725
+00:52:16,140 --> 00:52:18,200
+who now only talks in capitals in the in-game
+
+1726
+00:52:18,200 --> 00:52:20,040
+chat because he won't ever like
+
+1727
+00:52:20,040 --> 00:52:21,740
+not have the caps lock on, that kind of thing
+
+1728
+00:52:21,740 --> 00:52:23,900
+When I was midway through book three or four I was like
+
+1729
+00:52:23,900 --> 00:52:26,220
+okay, these are dragging a little bit, this crawl
+
+1730
+00:52:26,220 --> 00:52:27,700
+is going on a little bit long
+
+1731
+00:52:27,700 --> 00:52:29,800
+every book is basically like a floor
+
+1732
+00:52:29,800 --> 00:52:31,340
+of the dungeon and they're getting deeper and deeper into the dungeon
+
+1733
+00:52:31,340 --> 00:52:33,480
+you know, this is going on a bit and then
+
+1734
+00:52:33,480 --> 00:52:35,460
+sometime about book five or six I was like, oh
+
+1735
+00:52:35,460 --> 00:52:37,260
+I see what this is kind of building to now
+
+1736
+00:52:37,260 --> 00:52:39,480
+I can see where this is going and they're just very enjoyable
+
+1737
+00:52:39,480 --> 00:52:41,180
+they are very long
+
+1738
+00:52:41,180 --> 00:52:43,680
+probably a little bit too long
+
+1739
+00:52:43,680 --> 00:52:45,660
+they're very heavily
+
+1740
+00:52:45,660 --> 00:52:47,640
+serialised, so if you forget who
+
+1741
+00:52:47,640 --> 00:52:49,580
+a character is from a previous
+
+1742
+00:52:49,580 --> 00:52:51,600
+book, they might come back again
+
+1743
+00:52:51,600 --> 00:52:53,660
+and then you're looking through the wiki to try and find
+
+1744
+00:52:53,660 --> 00:52:54,960
+out who they are without getting any spoilers
+
+1745
+00:52:54,960 --> 00:52:57,680
+So their books, it sounds to me like
+
+1746
+00:52:57,680 --> 00:52:59,720
+they're books to buy an e-book because I find
+
+1747
+00:52:59,720 --> 00:53:01,140
+that being able to search e-books
+
+1748
+00:53:01,140 --> 00:53:03,500
+for the names
+
+1749
+00:53:03,500 --> 00:53:05,600
+of characters is the single
+
+1750
+00:53:05,600 --> 00:53:07,520
+most useful thing to have
+
+1751
+00:53:07,520 --> 00:53:09,360
+an e-book for. So the thing is
+
+1752
+00:53:09,360 --> 00:53:11,040
+they might be books to buy an e-book but
+
+1753
+00:53:11,040 --> 00:53:13,600
+I believe that the author
+
+1754
+00:53:13,600 --> 00:53:15,720
+Matt Dinaman still self-publishes
+
+1755
+00:53:15,720 --> 00:53:17,200
+the e-books himself
+
+1756
+00:53:17,200 --> 00:53:19,160
+and the audiobooks, which apparently are great
+
+1757
+00:53:19,160 --> 00:53:21,420
+but they've been picked up by
+
+1758
+00:53:21,420 --> 00:53:23,480
+Ace as actual physical novels
+
+1759
+00:53:23,480 --> 00:53:25,480
+but I think they don't have the e-book
+
+1760
+00:53:25,480 --> 00:53:27,480
+rights and I don't know how heavily edited
+
+1761
+00:53:27,480 --> 00:53:29,440
+they have edited
+
+1762
+00:53:29,440 --> 00:53:30,940
+them in the time of transition. I suspect not
+
+1763
+00:53:30,940 --> 00:53:33,100
+that heavily. I suspect they're maybe
+
+1764
+00:53:33,100 --> 00:53:35,020
+not that much changed but it is
+
+1765
+00:53:35,020 --> 00:53:37,100
+possible that the paperbacks are different
+
+1766
+00:53:37,100 --> 00:53:38,620
+than the e-books. I haven't dug into that.
+
+1767
+00:53:38,620 --> 00:53:41,200
+So this could actually be one to read in paperback
+
+1768
+00:53:41,200 --> 00:53:43,020
+if they've kind of cleared up a few
+
+1769
+00:53:43,020 --> 00:53:45,040
+bits where it's just like, you know, there's one where
+
+1770
+00:53:45,040 --> 00:53:46,460
+they're all on trains
+
+1771
+00:53:46,460 --> 00:53:48,640
+the floor is train themed
+
+1772
+00:53:48,640 --> 00:53:50,760
+and there's a little author's note at the beginning saying
+
+1773
+00:53:50,760 --> 00:53:52,960
+don't worry about how confusing this is, it's supposed to be
+
+1774
+00:53:52,960 --> 00:53:54,840
+confusing for the crawlers and I'm like yeah but
+
+1775
+00:53:54,840 --> 00:53:57,000
+if it's confusing for me then that's not
+
+1776
+00:53:57,000 --> 00:53:59,080
+great. But yeah, I thought
+
+1777
+00:53:59,080 --> 00:54:00,740
+I would read one and see how they go and
+
+1778
+00:54:00,740 --> 00:54:02,860
+then like I'd read all
+
+1779
+00:54:02,860 --> 00:54:04,860
+seven? I just read the
+
+1780
+00:54:04,860 --> 00:54:06,940
+Wikipedia page so to try and find out
+
+1781
+00:54:06,940 --> 00:54:08,360
+the answer about the editing
+
+1782
+00:54:08,360 --> 00:54:09,280
+so
+
+1783
+00:54:09,280 --> 00:54:12,860
+in response to
+
+1784
+00:54:12,860 --> 00:54:14,680
+questions about whether the publisher would make changes
+
+1785
+00:54:14,680 --> 00:54:16,720
+Dinaman responded that the story would remain the same
+
+1786
+00:54:16,720 --> 00:54:18,580
+but the series had undergone rigorous edits
+
+1787
+00:54:18,580 --> 00:54:21,080
+which sounds like yes. But also
+
+1788
+00:54:21,080 --> 00:54:22,920
+the Wikipedia page notes that
+
+1789
+00:54:22,920 --> 00:54:24,840
+he had a spreadsheet with
+
+1790
+00:54:24,840 --> 00:54:26,860
+198 pages to keep
+
+1791
+00:54:26,860 --> 00:54:28,720
+track of the characters and storylines, eventually
+
+1792
+00:54:28,720 --> 00:54:30,540
+had to create a second spreadsheet to
+
+1793
+00:54:30,540 --> 00:54:32,560
+track content on the first spreadsheet
+
+1794
+00:54:32,560 --> 00:54:34,800
+and then the spreadsheet got big enough that it
+
+1795
+00:54:34,800 --> 00:54:36,560
+didn't work on his computer anymore
+
+1796
+00:54:36,560 --> 00:54:39,040
+so he had to hire someone to make him a Notion database
+
+1797
+00:54:39,040 --> 00:54:40,840
+Yeah, I'd be
+
+1798
+00:54:40,840 --> 00:54:42,660
+interested to, I would be interested to
+
+1799
+00:54:42,660 --> 00:54:44,640
+see the difference between them
+
+1800
+00:54:44,640 --> 00:54:46,680
+because there are a few bits where I'm like oh you could maybe
+
+1801
+00:54:46,680 --> 00:54:48,720
+have like trimmed this down a bit. I can't tell in
+
+1802
+00:54:48,720 --> 00:54:50,840
+page count but some of the books are like over 800 pages
+
+1803
+00:54:50,840 --> 00:54:52,800
+they are long books. These did not
+
+1804
+00:54:52,800 --> 00:54:54,800
+sound like for me. Oh they're probably not
+
+1805
+00:54:54,800 --> 00:54:56,580
+for you but like honestly
+
+1806
+00:54:56,580 --> 00:54:58,600
+I picked up the first one and thought oh well
+
+1807
+00:54:58,600 --> 00:55:00,340
+some people nominate for this you go oh there's a
+
+1808
+00:55:00,340 --> 00:55:02,520
+seven books I may as well give the first one a go and by the end
+
+1809
+00:55:02,520 --> 00:55:04,460
+of it I was like yeah I'm getting into this and
+
+1810
+00:55:04,460 --> 00:55:05,960
+then by like book four or five you're like
+
+1811
+00:55:05,960 --> 00:55:08,520
+oh this is what's happening now and
+
+1812
+00:55:08,520 --> 00:55:10,600
+yeah. They've stopped becoming just kind
+
+1813
+00:55:10,600 --> 00:55:12,400
+of straightforward Carl and Donut
+
+1814
+00:55:12,400 --> 00:55:14,480
+get a quest and find out the floor's overarching
+
+1815
+00:55:14,480 --> 00:55:16,480
+theme and into like yeah this is
+
+1816
+00:55:16,480 --> 00:55:18,540
+what's going on in the world
+
+1817
+00:55:18,540 --> 00:55:20,520
+and like not really a spoiler but like
+
+1818
+00:55:20,520 --> 00:55:22,480
+the possibility is these are such a big
+
+1819
+00:55:22,480 --> 00:55:24,380
+thing in the universe that there's a possibility
+
+1820
+00:55:24,380 --> 00:55:26,360
+you know when there's a possibility that they could
+
+1821
+00:55:26,360 --> 00:55:28,280
+change this and basically improve
+
+1822
+00:55:28,280 --> 00:55:29,780
+society for everyone
+
+1823
+00:55:30,140 --> 00:55:31,540
+then they're taking it yeah.
+
+1824
+00:55:31,540 --> 00:55:34,120
+That sounds fascinating. I could buy the hardback
+
+1825
+00:55:34,120 --> 00:55:35,860
+from Waterstones for £26.
+
+1826
+00:55:35,860 --> 00:55:38,100
+I'd read an e-book first and if
+
+1827
+00:55:38,100 --> 00:55:40,100
+you really like their first e-book then maybe consider
+
+1828
+00:55:40,100 --> 00:55:42,080
+getting some of the later ones in Harbour. No Liz
+
+1829
+00:55:42,080 --> 00:55:44,000
+I'm going to buy the first hardback
+
+1830
+00:55:44,000 --> 00:55:45,740
+I'm doing it. Oh no no
+
+1831
+00:55:45,740 --> 00:55:47,760
+now I feel like what if John doesn't like it?
+
+1832
+00:55:47,760 --> 00:55:50,000
+It'll be alright. I
+
+1833
+00:55:50,000 --> 00:55:51,880
+am going to
+
+1834
+00:55:51,880 --> 00:55:54,280
+pick The Lord of the Rings
+
+1835
+00:55:54,280 --> 00:55:56,400
+Fate of the Fellowship
+
+1836
+00:55:56,400 --> 00:55:57,920
+This is
+
+1837
+00:55:57,920 --> 00:56:00,120
+a board game listeners.
+
+1838
+00:56:00,120 --> 00:56:02,140
+Pause for ooze.
+
+1839
+00:56:02,140 --> 00:56:04,160
+Ooh that's not
+
+1840
+00:56:04,160 --> 00:56:06,140
+like you to pick a board game. Is it
+
+1841
+00:56:06,140 --> 00:56:07,340
+Octothorpe Gaming Corner?
+
+1842
+00:56:07,340 --> 00:56:10,340
+Octothorpe Gaming Corner. Yay!
+
+1843
+00:56:10,340 --> 00:56:12,460
+So this
+
+1844
+00:56:12,460 --> 00:56:14,200
+is the latest
+
+1845
+00:56:14,200 --> 00:56:16,100
+pandemic game by
+
+1846
+00:56:16,100 --> 00:56:18,560
+Matt Leacock. It is
+
+1847
+00:56:18,560 --> 00:56:20,080
+it doesn't even have
+
+1848
+00:56:20,080 --> 00:56:21,840
+the word pandemic in the title
+
+1849
+00:56:21,840 --> 00:56:23,960
+and BGG confidently says it
+
+1850
+00:56:23,960 --> 00:56:26,020
+re-implements pandemic and I think the word re-implements
+
+1851
+00:56:26,020 --> 00:56:28,080
+is doing a hell of a lot of work there. So
+
+1852
+00:56:28,080 --> 00:56:29,920
+this is a game where you
+
+1853
+00:56:29,920 --> 00:56:32,160
+control two characters from
+
+1854
+00:56:32,160 --> 00:56:33,340
+the books
+
+1855
+00:56:33,340 --> 00:56:35,880
+so there's like suggested
+
+1856
+00:56:35,880 --> 00:56:37,440
+characters for your first play
+
+1857
+00:56:37,440 --> 00:56:39,820
+and I don't know all of the characters but like
+
+1858
+00:56:39,820 --> 00:56:42,000
+you've got everyone from the fellowships in there obviously
+
+1859
+00:56:42,000 --> 00:56:44,360
+you've also got Eomer, Eowyn
+
+1860
+00:56:44,360 --> 00:56:45,840
+Galadriel, Gollum
+
+1861
+00:56:45,840 --> 00:56:47,940
+other various
+
+1862
+00:56:47,940 --> 00:56:50,160
+people. The aim of the game
+
+1863
+00:56:50,160 --> 00:56:52,180
+is to complete
+
+1864
+00:56:52,180 --> 00:56:54,040
+four objectives one of which is
+
+1865
+00:56:54,040 --> 00:56:55,080
+always to
+
+1866
+00:56:55,080 --> 00:56:58,040
+unforge the one ring by casting
+
+1867
+00:56:58,040 --> 00:56:59,720
+it into Mount Doom
+
+1868
+00:56:59,720 --> 00:57:01,800
+and you have to move
+
+1869
+00:57:01,800 --> 00:57:03,920
+around the map and instead of having
+
+1870
+00:57:03,920 --> 00:57:05,780
+little cubes to know in
+
+1871
+00:57:05,780 --> 00:57:07,780
+pandemics you have tiny little meeples
+
+1872
+00:57:07,780 --> 00:57:09,920
+with little swords and they're red
+
+1873
+00:57:09,920 --> 00:57:11,480
+and they're orcs and
+
+1874
+00:57:11,480 --> 00:57:13,920
+you add orcs to the board
+
+1875
+00:57:13,920 --> 00:57:15,960
+in a similar way to the way you would add
+
+1876
+00:57:15,960 --> 00:57:17,820
+cubes to the board in pandemic. So
+
+1877
+00:57:17,820 --> 00:57:19,880
+basically you have a deck of cards that tells
+
+1878
+00:57:19,880 --> 00:57:21,460
+you sometimes orcs
+
+1879
+00:57:21,460 --> 00:57:23,720
+arrive on the board and you put them on the board or
+
+1880
+00:57:23,720 --> 00:57:25,800
+sometimes they're moving from place to place along
+
+1881
+00:57:25,800 --> 00:57:27,900
+arrows that are drawn on the board and you move
+
+1882
+00:57:27,900 --> 00:57:29,520
+them. But in true pandemic style
+
+1883
+00:57:29,520 --> 00:57:31,740
+the cards you've just had every so often
+
+1884
+00:57:31,740 --> 00:57:33,320
+will shuffle and go back on top of the deck
+
+1885
+00:57:33,320 --> 00:57:35,680
+so places that have orcs will keep getting orcs
+
+1886
+00:57:35,680 --> 00:57:37,600
+and orcs moving will keep moving.
+
+1887
+00:57:37,600 --> 00:57:39,580
+You lose by running out of hope
+
+1888
+00:57:39,580 --> 00:57:41,620
+various things influence hope
+
+1889
+00:57:41,620 --> 00:57:43,560
+but the one that kind of is the most relevant
+
+1890
+00:57:43,560 --> 00:57:45,660
+is if an orc gets into one of the
+
+1891
+00:57:45,660 --> 00:57:47,600
+havens on the board and you
+
+1892
+00:57:47,600 --> 00:57:49,640
+can't defend it then you will lose three hope and given
+
+1893
+00:57:49,640 --> 00:57:51,620
+that the hope track maxes at eight
+
+1894
+00:57:51,620 --> 00:57:53,760
+if that happens three or four times in a game
+
+1895
+00:57:53,760 --> 00:57:55,080
+you will almost certainly lose.
+
+1896
+00:57:55,080 --> 00:57:57,420
+And so it's recognisably pandemic
+
+1897
+00:57:57,420 --> 00:57:59,320
+like you can see the bits in it which are
+
+1898
+00:57:59,320 --> 00:58:01,460
+pandemic but also you have things like
+
+1899
+00:58:01,460 --> 00:58:03,200
+you can muster troops
+
+1900
+00:58:03,200 --> 00:58:05,360
+it also comes with a cardboard
+
+1901
+00:58:05,360 --> 00:58:07,520
+Eye of Sauron dice tower which is
+
+1902
+00:58:07,520 --> 00:58:09,520
+the single best thing I've ever seen come in a board
+
+1903
+00:58:09,520 --> 00:58:11,360
+game. It is absolutely great
+
+1904
+00:58:11,360 --> 00:58:13,740
+it is really good
+
+1905
+00:58:13,740 --> 00:58:15,360
+so I think the
+
+1906
+00:58:15,360 --> 00:58:17,660
+truest indication of how good it was
+
+1907
+00:58:17,660 --> 00:58:19,220
+was we played it at
+
+1908
+00:58:19,220 --> 00:58:21,140
+Cottaging and we lost
+
+1909
+00:58:21,140 --> 00:58:22,640
+and then we just
+
+1910
+00:58:22,640 --> 00:58:25,320
+started again straight away
+
+1911
+00:58:25,320 --> 00:58:27,460
+we were like now we are going to play this again
+
+1912
+00:58:27,460 --> 00:58:29,120
+immediately and then we
+
+1913
+00:58:29,120 --> 00:58:31,160
+were all sitting down like at one
+
+1914
+00:58:31,160 --> 00:58:33,240
+point and like it was quite late and everyone
+
+1915
+00:58:33,240 --> 00:58:34,620
+was like I don't really want to play anything
+
+1916
+00:58:34,620 --> 00:58:37,220
+and Rob was like I mean I'm always tempted to suggest
+
+1917
+00:58:37,220 --> 00:58:39,360
+Fate of the Fellowship but I don't think people would go for it
+
+1918
+00:58:39,360 --> 00:58:41,320
+and then four people went yes I'll
+
+1919
+00:58:41,320 --> 00:58:43,360
+play that and we immediately just played
+
+1920
+00:58:43,360 --> 00:58:45,260
+like this game like
+
+1921
+00:58:45,260 --> 00:58:46,940
+I don't know what time of day it was
+
+1922
+00:58:46,940 --> 00:58:49,060
+but like every time someone suggested playing it
+
+1923
+00:58:49,060 --> 00:58:51,200
+there was immediately four people being like yes I will
+
+1924
+00:58:51,200 --> 00:58:53,000
+play that game and I think it was probably
+
+1925
+00:58:53,000 --> 00:58:55,300
+one of my two favourite
+
+1926
+00:58:55,300 --> 00:58:56,720
+games of this Cottaging.
+
+1927
+00:58:56,720 --> 00:58:58,920
+I can't say much that hasn't
+
+1928
+00:58:58,920 --> 00:59:01,120
+been said better by Shut Up and Sit Down
+
+1929
+00:59:01,120 --> 00:59:02,740
+so I will link to their
+
+1930
+00:59:02,740 --> 00:59:04,940
+review video in
+
+1931
+00:59:04,940 --> 00:59:07,160
+the show notes but this is just
+
+1932
+00:59:07,160 --> 00:59:09,000
+it really shows off
+
+1933
+00:59:09,000 --> 00:59:10,780
+how good
+
+1934
+00:59:10,780 --> 00:59:12,820
+Leacock is as a
+
+1935
+00:59:12,820 --> 00:59:14,820
+designer that he's made something based
+
+1936
+00:59:14,820 --> 00:59:16,880
+on the pandemic underlying mechanics
+
+1937
+00:59:16,880 --> 00:59:19,060
+that feels so different to
+
+1938
+00:59:19,060 --> 00:59:20,380
+pandemic itself
+
+1939
+00:59:20,380 --> 00:59:22,900
+and there are multiple people in our group who really don't like
+
+1940
+00:59:22,900 --> 00:59:24,780
+OG pandemic who liked
+
+1941
+00:59:24,780 --> 00:59:26,760
+this quite a lot so yeah
+
+1942
+00:59:26,760 --> 00:59:28,720
+I highly recommend. I've just looked up
+
+1943
+00:59:28,720 --> 00:59:30,720
+the Eye of Sauron
+
+1944
+00:59:30,720 --> 00:59:32,240
+Dice Tower and it does look cool.
+
+1945
+00:59:32,240 --> 00:59:34,340
+Well it's also it's not plastic it's
+
+1946
+00:59:34,340 --> 00:59:36,580
+made of cardboard and you assemble it at the start
+
+1947
+00:59:36,580 --> 00:59:38,740
+so like because they could have made
+
+1948
+00:59:38,740 --> 00:59:40,680
+it like a stupid like really
+
+1949
+00:59:40,680 --> 00:59:42,800
+expensive loads of plastic
+
+1950
+00:59:42,800 --> 00:59:44,700
+components game but it's
+
+1951
+00:59:44,700 --> 00:59:46,900
+all wooden meeples and cardboard components
+
+1952
+00:59:46,900 --> 00:59:48,400
+and I really like that
+
+1953
+00:59:48,400 --> 00:59:50,600
+because I don't really like plastic in my
+
+1954
+00:59:50,600 --> 00:59:52,660
+board games. So I have a
+
+1955
+00:59:52,660 --> 00:59:54,600
+slight dissenting opinion
+
+1956
+00:59:54,600 --> 00:59:56,860
+here which is that it was on Board Game
+
+1957
+00:59:56,860 --> 00:59:57,240
+Arena
+
+1958
+00:59:57,240 --> 00:59:58,520
+and
+
+1959
+00:59:58,520 --> 01:00:02,400
+we had a go at it and bounced
+
+1960
+01:00:02,400 --> 01:00:04,480
+off it pretty hard. We kind of
+
+1961
+01:00:04,480 --> 01:00:06,400
+were like well this is like pandemic
+
+1962
+01:00:06,400 --> 01:00:08,620
+but with a load of fairly random
+
+1963
+01:00:08,620 --> 01:00:10,280
+extra stuff and
+
+1964
+01:00:10,280 --> 01:00:12,520
+then we so we kind of played it until we were
+
+1965
+01:00:12,520 --> 01:00:14,500
+fed up and then stopped so that was probably an hour and a half
+
+1966
+01:00:14,500 --> 01:00:16,580
+or two hours and then later
+
+1967
+01:00:16,580 --> 01:00:18,480
+Jonathan played some solo
+
+1968
+01:00:18,480 --> 01:00:20,300
+and came back and said
+
+1969
+01:00:20,300 --> 01:00:22,460
+ooh but there's quite a lot more
+
+1970
+01:00:22,460 --> 01:00:24,660
+to this so maybe we have not given it a fair shout.
+
+1971
+01:00:24,660 --> 01:00:26,580
+I would say I don't think there's
+
+1972
+01:00:26,580 --> 01:00:28,260
+much. It has
+
+1973
+01:00:28,260 --> 01:00:30,100
+dice but
+
+1974
+01:00:30,100 --> 01:00:32,620
+you... No not random
+
+1975
+01:00:32,620 --> 01:00:34,340
+in that way. Random in a kind of
+
+1976
+01:00:34,340 --> 01:00:36,380
+oh complexity. So we have
+
+1977
+01:00:36,380 --> 01:00:38,360
+at least one person in our gaming group that
+
+1978
+01:00:38,360 --> 01:00:40,140
+is very anti
+
+1979
+01:00:40,140 --> 01:00:41,420
+complexity in board games.
+
+1980
+01:00:41,420 --> 01:00:44,240
+Really would prefer games where you
+
+1981
+01:00:44,240 --> 01:00:46,500
+just sit and think at each other for four hours.
+
+1982
+01:00:46,500 --> 01:00:47,880
+It is not that.
+
+1983
+01:00:47,880 --> 01:00:50,060
+And it is also a game where
+
+1984
+01:00:50,060 --> 01:00:52,120
+it is a game I think
+
+1985
+01:00:52,120 --> 01:00:54,000
+in the best cooperative mould
+
+1986
+01:00:54,000 --> 01:00:56,240
+where the parameter
+
+1987
+01:00:56,240 --> 01:00:57,760
+space for the options
+
+1988
+01:00:57,760 --> 01:01:00,040
+for each character is large
+
+1989
+01:01:00,040 --> 01:01:01,940
+enough that it is very difficult for one
+
+1990
+01:01:01,940 --> 01:01:03,740
+player to play the whole game on
+
+1991
+01:01:03,740 --> 01:01:06,020
+their own so you can't
+
+1992
+01:01:06,020 --> 01:01:07,840
+really quarterback which is a marked
+
+1993
+01:01:07,840 --> 01:01:09,380
+departure from base pandemic
+
+1994
+01:01:09,380 --> 01:01:11,940
+and I think I very much like
+
+1995
+01:01:11,940 --> 01:01:13,840
+games like Spirit Island has the same
+
+1996
+01:01:13,840 --> 01:01:15,860
+thing and so does Arkham Horror the card game
+
+1997
+01:01:15,860 --> 01:01:17,720
+where you don't have enough
+
+1998
+01:01:17,720 --> 01:01:19,040
+information about the game state
+
+1999
+01:01:19,040 --> 01:01:21,720
+and the game state is sufficiently
+
+2000
+01:01:21,720 --> 01:01:23,980
+complicated that you can't hold it in one person's head.
+
+2001
+01:01:23,980 --> 01:01:25,860
+That. That's the problem.
+
+2002
+01:01:25,860 --> 01:01:27,300
+That's not the problem.
+
+2003
+01:01:27,300 --> 01:01:28,680
+No I know.
+
+2004
+01:01:28,680 --> 01:01:31,260
+Because the worst cooperative games
+
+2005
+01:01:31,260 --> 01:01:33,280
+are the ones where one person can play and three people
+
+2006
+01:01:33,280 --> 01:01:35,240
+watch. Oh no but we like
+
+2007
+01:01:35,240 --> 01:01:36,820
+to chat right?
+
+2008
+01:01:36,820 --> 01:01:39,340
+So we did get bogged
+
+2009
+01:01:39,340 --> 01:01:41,300
+down in this one. But I mean I'm not
+
+2010
+01:01:41,300 --> 01:01:43,320
+saying we would necessarily get bogged down in it again.
+
+2011
+01:01:43,320 --> 01:01:44,580
+We might have another go at this.
+
+2012
+01:01:44,580 --> 01:01:46,420
+Because as I said it is on Board Game Arena.
+
+2013
+01:01:46,420 --> 01:01:49,160
+So if you fancy a go at this you don't have to pay money
+
+2014
+01:01:49,160 --> 01:01:50,880
+for it. You can just go and play it on Board Game Arena
+
+2015
+01:01:50,880 --> 01:01:51,940
+and see if you like it.
+
+2016
+01:01:51,940 --> 01:01:54,180
+And then you can buy it later.
+
+2017
+01:01:54,180 --> 01:01:55,900
+I think it is also on
+
+2018
+01:01:55,900 --> 01:01:58,540
+Tabletop Simulator but I don't know how
+
+2019
+01:01:58,540 --> 01:02:00,720
+I don't know how official that implementation is.
+
+2020
+01:02:00,720 --> 01:02:02,460
+It's worth noting if you
+
+2021
+01:02:02,460 --> 01:02:03,960
+look it up on Board Game Arena
+
+2022
+01:02:03,960 --> 01:02:06,440
+if you type Lord of the Rings it will tell you
+
+2023
+01:02:06,440 --> 01:02:08,760
+that there are no results. You have to type Fate of the Fellowship
+
+2024
+01:02:08,760 --> 01:02:10,500
+which I think is
+
+2025
+01:02:10,500 --> 01:02:12,460
+a search bug in
+
+2026
+01:02:12,460 --> 01:02:13,640
+Board Game Arena perhaps.
+
+2027
+01:02:13,640 --> 01:02:15,660
+Of which there are many.
+
+2028
+01:02:15,660 --> 01:02:18,600
+On that bombshell that was the Octothorpe Podcast
+
+2029
+01:02:18,600 --> 01:02:19,620
+and it's goodbye from me.
+
+2030
+01:02:19,620 --> 01:02:22,720
+It's goodbye from me and it's goodbye from me.
+
+2031
+01:02:22,720 --> 01:02:52,700
+Bye for now.
+
+2032
+01:02:52,700 --> 01:03:22,680
+Bye for now.
+
+2033
+01:03:22,680 --> 01:03:52,660
+Bye for now.
+
+2034
+01:03:52,660 --> 01:04:22,640
+Bye for now.
+
+2035
+01:04:22,640 --> 01:04:52,620
+Bye for now.
+
+2036
+01:04:52,620 --> 01:04:54,900
+The theme music for this episode
+
+2037
+01:04:54,900 --> 01:04:56,560
+was Fanfare for Space
+
+2038
+01:04:56,560 --> 01:04:58,840
+by Kevin MacLeod and Compotech.com
+
+2039
+01:04:58,840 --> 01:05:00,720
+used under a Creative Commons
+
+2040
+01:05:00,720 --> 01:05:02,600
+Attribution 4.0 licence.
+
+2041
+01:05:02,600 --> 01:05:05,080
+This podcast will end at the beep.
+
+2042
+01:05:05,080 --> 01:05:06,300
+Beep.
+
+2043
+01:05:06,300 --> 01:05:06,340
+Thank you.
+
+2044
+01:05:06,340 --> 01:05:06,380
+Thank you.
+
+2045
+01:05:06,380 --> 01:05:36,360
+Thank you.
+
