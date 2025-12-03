@@ -1,0 +1,3804 @@
+1
+00:00:00,001 --> 00:00:06,160
+Uh this is backfired because I assumed that Alison would remember and that I do remember, I just forgot.
+
+2
+00:00:06,400 --> 00:00:06,640
+Ha!
+
+3
+00:00:08,160 --> 00:00:08,800
+Right.
+
+4
+00:00:09,160 --> 00:00:14,920
+You can't say I do remember I just forgot, unless you are redefining the concept of forgetting.
+
+5
+00:00:26,560 --> 00:00:35,040
+Hello everyone and welcome to the very 149th episode of the Octhorpe Podcast
+
+6
+00:00:34,940 --> 00:00:43,420
+Which is realizing that all its neighbours are going around the block on an endless loop on the 4th of December 2025.
+
+7
+00:00:43,580 --> 00:00:44,780
+I'm John Coxon.
+
+8
+00:00:44,900 --> 00:00:46,260
+I'm Alison Scott.
+
+9
+00:00:46,500 --> 00:00:47,620
+And I'm Liz Batty.
+
+10
+00:00:47,780 --> 00:00:53,380
+Yeah, thanks to everyone who sent us photographs of our live show.
+
+11
+00:00:53,540 --> 00:00:54,980
+We really appreciate it.
+
+12
+00:00:55,060 --> 00:00:58,500
+And if you took any and you didn't send them to us, please send them to us.
+
+13
+00:00:58,580 --> 00:00:59,940
+We would very much appreciate it.
+
+14
+00:01:00,180 --> 00:01:01,380
+Yeah, we love photos.
+
+15
+00:01:01,620 --> 00:01:07,300
+But we did use a photo taken by Steve because, you know, nepotism or whatever.
+
+16
+00:01:07,100 --> 00:01:08,460
+I say we I had nothing to do with that.
+
+17
+00:01:08,540 --> 00:01:09,260
+I was on holiday.
+
+18
+00:01:09,420 --> 00:01:13,500
+Yeah y yeah, we took a photo we took some photos in the lobby and we used one of them in the end.
+
+19
+00:01:14,060 --> 00:01:17,900
+Um but th but the background was so terrible I had to cut it out.
+
+20
+00:01:18,060 --> 00:01:21,900
+So we we maybe could have thought that through a little bit better.
+
+21
+00:01:21,860 --> 00:01:25,380
+To get us started, we have some letters of comments.
+
+22
+00:01:25,539 --> 00:01:30,820
+So we heard from Karen Schaefer who linked us to an interesting
+
+23
+00:01:31,460 --> 00:01:32,900
+thing in Ars Technica.
+
+24
+00:01:33,380 --> 00:01:43,300
+Basically there's a New Zealand conference of hackers and they've put live CO2 monitoring in all of the conference rooms and I thought this was quite cool
+
+25
+00:01:43,100 --> 00:01:44,700
+So yeah, we'll link it in the show notes.
+
+26
+00:01:44,780 --> 00:01:46,540
+Don't have a lot to add, but it's neat.
+
+27
+00:01:46,700 --> 00:01:47,900
+Thanks for writing in Karen.
+
+28
+00:01:49,100 --> 00:01:50,780
+Oh yes, the network the mall.
+
+29
+00:01:50,860 --> 00:01:51,740
+I think that's quite cool.
+
+30
+00:01:51,900 --> 00:01:52,860
+It is, it's neat.
+
+31
+00:01:53,020 --> 00:01:54,700
+I mean it would be cool if
+
+32
+00:01:54,760 --> 00:01:57,640
+It would be cool if this became the standard in modern conference centers.
+
+33
+00:01:57,720 --> 00:01:59,320
+I don't know if it will, but it would be neat.
+
+34
+00:01:59,479 --> 00:02:01,320
+Yeah, I'd be no Alison shaking her head.
+
+35
+00:02:01,400 --> 00:02:09,160
+I I agree, I don't think it probably will because it costs money and and stuff, but and also because as we discovered in Chicago
+
+36
+00:02:09,620 --> 00:02:22,260
+it's all fine on Thursday and then it gradually gets worse over the weekend and there's not that much you can do about it except for spending a lot of money to do the thing that really costs money, which is sorting your filtration out once and for all
+
+37
+00:02:22,240 --> 00:02:22,640
+Yes.
+
+38
+00:02:22,880 --> 00:02:31,200
+What we could link then we are what we need also is like real-time toilet monitoring of various virus levels in the sewage of the convention.
+
+39
+00:02:31,440 --> 00:02:32,080
+Yes
+
+40
+00:02:32,280 --> 00:02:33,640
+And Liz could put in the grant.
+
+41
+00:02:33,959 --> 00:02:43,880
+Because, you know, I think it's all good well and good to have CO2 monitoring, but there is another like very human factor, which is if you have super high CO2 but no one in that room has a respiratory virus, then
+
+42
+00:02:43,760 --> 00:02:44,800
+you won't be transmitting it, right?
+
+43
+00:02:44,880 --> 00:02:46,160
+It is a proxy for that.
+
+44
+00:02:46,240 --> 00:02:52,880
+But it also depends very much on the density of people, you know, spewing out particles into the atmosphere, which we don't know.
+
+45
+00:02:52,960 --> 00:02:55,680
+But if you monitored the toilets, maybe we would
+
+46
+00:02:55,840 --> 00:03:03,120
+Yeah, I mean I I'm I get very worried by the concept of toilet monitoring in general at the moment, but that does sound like a plausible thing.
+
+47
+00:03:03,280 --> 00:03:05,120
+Can you do this in real time, Liz?
+
+48
+00:03:05,200 --> 00:03:06,880
+Can you get your toilet
+
+49
+00:03:06,980 --> 00:03:10,739
+Tullet results fast enough to affect the convention as it's happening.
+
+50
+00:03:10,980 --> 00:03:15,060
+You you can't be doing it at the moment directly in real time, I guess, but you can do it.
+
+51
+00:03:15,040 --> 00:03:15,680
+Pretty quickly.
+
+52
+00:03:15,760 --> 00:03:20,320
+You could be like sampling every hour and testing it and get a result a couple of hours later.
+
+53
+00:03:20,400 --> 00:03:26,000
+But anyway, it's not really it's not quite feasible, but it's not far off feasible.
+
+54
+00:03:26,120 --> 00:03:29,560
+I have a whole plan for my next Eastercon newsletter theme.
+
+55
+00:03:29,880 --> 00:03:32,280
+Oh, I have a plan for my next Eastercon newsletter theme too.
+
+56
+00:03:32,360 --> 00:03:38,440
+It's dangerous 'cause I don't want to run another Eastercon newsletter, but you know Ah, I'm doing next year's, so would you like to help?
+
+57
+00:03:38,520 --> 00:03:40,520
+Um anyway we could call it Concrud.
+
+58
+00:03:40,580 --> 00:03:48,500
+Paul Weimar wrote to us um riffing off my mention of the VNAE storehouse to recommend the central
+
+59
+00:03:49,020 --> 00:03:58,060
+Montmartini in Rome that he visited in 2015 after the city of Rome decided that they had too much stuff in storage and decided to convert an old power plant.
+
+60
+00:03:58,240 --> 00:03:59,200
+display some of it.
+
+61
+00:03:59,360 --> 00:04:03,280
+He says it's about as unique a place as I've seen I've seen art as I've ever been.
+
+62
+00:04:03,360 --> 00:04:06,560
+And I think if I go to Rome I'll definitely check that out, Paul.
+
+63
+00:04:06,720 --> 00:04:07,440
+Thank you.
+
+64
+00:04:07,460 --> 00:04:08,660
+Rome is pretty great.
+
+65
+00:04:08,740 --> 00:04:12,820
+I went on a school trip once and it it's yeah, it's good.
+
+66
+00:04:12,980 --> 00:04:14,340
+There should be a WorldCon there.
+
+67
+00:04:14,500 --> 00:04:15,620
+Hold it in the Coliseum!
+
+68
+00:04:15,940 --> 00:04:17,860
+It'd have great ventilation though.
+
+69
+00:04:18,100 --> 00:04:18,900
+Yeah, it would
+
+70
+00:04:20,060 --> 00:04:26,460
+Well and also Italy in August, you don't need to be in z well, I suppose air conditioning might be quite good, actually.
+
+71
+00:04:28,360 --> 00:04:30,600
+Low ventilation and maybe also lions.
+
+72
+00:04:31,160 --> 00:04:42,120
+We heard from Emily January, who correctly pointed out that when we were discussing Chinese cons wanting to achieve the scale of WorldCon, we should probably consider that they are talking about the scale of the Chengdu WorldCon, which was giant.
+
+73
+00:04:42,960 --> 00:04:49,280
+And not maybe the scale of like European or even US WorldComs, which are still much smaller.
+
+74
+00:04:49,680 --> 00:04:52,080
+It's difficult to tell, right?
+
+75
+00:04:52,340 --> 00:05:05,540
+Because like I spoke to someone at an Easter Con whose dad is Chinese and so they went to uh the Chengdi WorldCon as a punter rather than as like one of the Western fans who has flown over on behalf of the Chinese government.
+
+76
+00:05:05,400 --> 00:05:12,360
+And their review of the WorldCom was that if you were Chinese, it was really not very good compared to other Chinese conventions.
+
+77
+00:05:12,520 --> 00:05:14,759
+So I don't have a good sense for how
+
+78
+00:05:15,220 --> 00:05:19,860
+how much people in China are discussing how much they want to be like that WorldCon.
+
+79
+00:05:20,259 --> 00:05:28,419
+I I I very much from the reporting thought they meant WorldCon in the sense of the international cachet of WorldCon, not that specific event.
+
+80
+00:05:28,160 --> 00:05:29,120
+But maybe I am wrong.
+
+81
+00:05:29,360 --> 00:05:33,680
+Um but I didn't interpret size necessarily to mean people so much as influence.
+
+82
+00:05:34,000 --> 00:05:40,560
+Well Emily also goes on to say they may be talking about like the number of international attendees, not necessarily size as well.
+
+83
+00:05:40,379 --> 00:05:41,180
+Yeah, yeah, it could be.
+
+84
+00:05:41,340 --> 00:05:42,539
+Yep, yep, yep, yep, yep.
+
+85
+00:05:42,780 --> 00:05:49,819
+But it does seem just given the size of regular conventions in China that you'd probably be aiming for something on a pretty big scale.
+
+86
+00:05:49,780 --> 00:05:56,580
+Andreas DeVauer wrote and said, Listening to the latest podcast episode, I started to wonder about Irish Fandom Day.
+
+87
+00:05:56,740 --> 00:05:59,140
+What happened on that day that made it special?
+
+88
+00:05:59,300 --> 00:06:00,820
+Did you mention it?
+
+89
+00:06:01,060 --> 00:06:02,100
+Did we mention it?
+
+90
+00:06:02,420 --> 00:06:03,140
+This was m
+
+91
+00:06:03,740 --> 00:06:05,900
+Multiple episodes ago, I don't remember.
+
+92
+00:06:06,220 --> 00:06:07,660
+I'm pretty sure we did, yes.
+
+93
+00:06:07,820 --> 00:06:11,260
+Sorry, uh it's the day that Walt Willis met Thingy, you said.
+
+94
+00:06:11,580 --> 00:06:12,380
+James White?
+
+95
+00:06:12,860 --> 00:06:13,500
+Yes.
+
+96
+00:06:14,120 --> 00:06:23,960
+In the summer of nineteen forty-seven, the Willises discovered um a copy of Astounding and then a copy of The Prozine Fantasy.
+
+97
+00:06:24,039 --> 00:06:29,720
+in the letter section was a missive from Belf a Belfast fan, one James White.
+
+98
+00:06:30,120 --> 00:06:35,479
+White j Willis wrote to White, White replied on the twenty-sixth of August, and that day
+
+99
+00:06:35,840 --> 00:06:43,840
+was thereafter known as Irish Fandom Day because it was the first time two science fiction fans in Ireland had met.
+
+100
+00:06:44,139 --> 00:06:47,500
+So the day of the founding of Irish science fiction fandom.
+
+101
+00:06:47,580 --> 00:06:54,780
+And I don't know whether other countries have fandom days, but I know that Caroline is looking to
+
+102
+00:06:55,500 --> 00:07:05,260
+generate something for the hundredth anniversary of British fandom, which started after a small advertisement was put in a newspaper
+
+103
+00:07:05,420 --> 00:07:09,580
+to form a local group in Ilford in I think nineteen thirty.
+
+104
+00:07:09,660 --> 00:07:10,460
+Somebody write in.
+
+105
+00:07:10,780 --> 00:07:13,180
+Andreas also says for something completely different, SmovCon.
+
+106
+00:07:13,340 --> 00:07:17,660
+When attending SweeCon and the program item on coming events I asked about virtual memberships for SmofCon
+
+107
+00:07:17,600 --> 00:07:21,440
+Apparently they've decided against it because they didn't have the technology available.
+
+108
+00:07:22,080 --> 00:07:31,120
+And yes, there is an argument that SmothCons should be about modelling best practice, and um I will leave that argument to the imagination of the reader.
+
+109
+00:07:30,860 --> 00:07:33,900
+I I think we've had this argument before in previous years.
+
+110
+00:07:34,140 --> 00:07:42,620
+I think it is interesting that s there are some small conventions with an international audience that do manage to stream, though possibly not very well.
+
+111
+00:07:42,740 --> 00:07:50,980
+because they think that the the benefit of having people in virtually is worth it, even if the streaming's not perfect.
+
+112
+00:07:51,139 --> 00:07:53,860
+We also heard from Christopher J.
+
+113
+00:07:54,100 --> 00:07:54,900
+Garcia.
+
+114
+00:07:56,100 --> 00:08:02,820
+He says Buckaroo Bonseye is the smartest movie ever made, which is definitely a sentence.
+
+115
+00:08:03,260 --> 00:08:06,140
+He's a man of bold opinions, is Chris, isn't he?
+
+116
+00:08:06,380 --> 00:08:06,700
+Yep.
+
+117
+00:08:06,940 --> 00:08:09,500
+He's not afraid to take polarizing stances.
+
+118
+00:08:09,740 --> 00:08:12,140
+Just him versus the rest of fandom.
+
+119
+00:08:12,100 --> 00:08:12,660
+Yes.
+
+120
+00:08:12,740 --> 00:08:17,780
+Um, and he also comes back to his belief that we need more Hugos and longer ceremonies.
+
+121
+00:08:18,820 --> 00:08:19,140
+No.
+
+122
+00:08:19,700 --> 00:08:23,940
+No one's emailed him with their favourite Hugo categories yet, so come on people.
+
+123
+00:08:24,180 --> 00:08:26,020
+Oh, he suggested three.
+
+124
+00:08:25,800 --> 00:08:26,680
+Oh that's true.
+
+125
+00:08:26,919 --> 00:08:27,479
+He did.
+
+126
+00:08:27,800 --> 00:08:32,279
+Spoilers, I'm not sure we're gonna pick any of them in our draft, but we might, who knows?
+
+127
+00:08:32,519 --> 00:08:36,120
+Well if no one said there's any others, then we're gonna pick him in our draft, so
+
+128
+00:08:36,200 --> 00:08:41,480
+Oh but we've all we've we've got all of the ones that have all like are actually real as well.
+
+129
+00:08:41,640 --> 00:08:42,600
+So that's tricky.
+
+130
+00:08:42,919 --> 00:08:44,120
+Oh I see.
+
+131
+00:08:44,259 --> 00:08:47,380
+Chris also tells us he's designing a Hugo base.
+
+132
+00:08:47,779 --> 00:08:50,180
+Um it's going to be mid-century modern.
+
+133
+00:08:50,500 --> 00:08:51,779
+Um and I'm I'm up for that.
+
+134
+00:08:52,100 --> 00:08:58,100
+And he said the most beautiful Hugo ever was objectively the LA Con Trophy from 2006.
+
+135
+00:08:58,660 --> 00:09:01,780
+I didn't win that one, um, but that's the best one.
+
+136
+00:09:01,860 --> 00:09:08,900
+And uh it's interesting 'cause that is the third one that I have, apart from my first Hugo for Plocter and my first Hugo for Octhorpe.
+
+137
+00:09:09,060 --> 00:09:10,740
+And it is very beautiful, Hugo
+
+138
+00:09:10,500 --> 00:09:11,780
+But it's not my favourite.
+
+139
+00:09:11,940 --> 00:09:14,100
+Yeah, I was gonna say, doesn't Alison have one of those?
+
+140
+00:09:14,260 --> 00:09:15,700
+Yeah, I do have one of those.
+
+141
+00:09:16,180 --> 00:09:19,700
+Um and when she auctions it, Chris can bid.
+
+142
+00:09:19,860 --> 00:09:20,420
+Yeah, that's right.
+
+143
+00:09:20,500 --> 00:09:23,620
+And that's the one that I might auction for the fan funds.
+
+144
+00:09:23,920 --> 00:09:24,959
+Mmm mmm.
+
+145
+00:09:25,360 --> 00:09:26,800
+Don't hold your breath, guys.
+
+146
+00:09:26,959 --> 00:09:29,519
+Because people keep going up well you can't do that, you can't do that.
+
+147
+00:09:29,920 --> 00:09:31,199
+It's just tough.
+
+148
+00:09:31,360 --> 00:09:38,720
+Look, I'm I think famously the least sentimental of us about stuff and you will pry my Hugo from my Call Dead Hands.
+
+149
+00:09:38,960 --> 00:09:39,760
+That is fair.
+
+150
+00:09:39,920 --> 00:09:41,760
+Yes, that is how it works.
+
+151
+00:09:41,860 --> 00:09:47,540
+But and now we know for the first time that Liz will be buried with her Hugo um in a pyramid.
+
+152
+00:09:48,980 --> 00:09:56,340
+Oh no okay, now I have an art concept of my burial pyramid.
+
+153
+00:09:56,280 --> 00:09:58,200
+No, three barrel pyramids, you're good.
+
+154
+00:09:58,520 --> 00:09:59,640
+With Hugo's on top.
+
+155
+00:09:59,880 --> 00:10:01,320
+They'll have various things.
+
+156
+00:10:01,560 --> 00:10:06,760
+We also had a I would say reasonably niche tweet from Ed Moreland
+
+157
+00:10:07,160 --> 00:10:14,760
+Uh how about instead of sending me to Southeast Asian Conventions, we have an ox talk trip to a cyclocross race to properly appreciate Belgian culture.
+
+158
+00:10:15,560 --> 00:10:17,880
+I am thoroughly in favour of this
+
+159
+00:10:17,759 --> 00:10:29,680
+Um if you are not aware of the sport of cyclocross, it's a winter sport in which men and women ride bikes round a circuit in the mud and there's lots of beer drinking and cheering for your favourite riders and there's lots of them in Belgium.
+
+160
+00:10:29,740 --> 00:10:32,380
+and the Netherlands and so on over the Christmas period.
+
+161
+00:10:32,540 --> 00:10:35,580
+So yeah, maybe we need an octetop trip to the Cyclocross.
+
+162
+00:10:35,980 --> 00:10:37,420
+I'd like to um
+
+163
+00:10:38,020 --> 00:10:41,620
+Acknowledge everyone who wrote in with famous Belgians.
+
+164
+00:10:42,820 --> 00:10:43,860
+Please stop.
+
+165
+00:10:46,140 --> 00:10:53,980
+Yeah, I think this is why we we do not properly appreciate Belgian culture and therefore we must go to one of the most Belgian things possible, which is drinking beer at bike race.
+
+166
+00:10:54,140 --> 00:10:58,140
+I am 100% up for going to Belgium to drink beer.
+
+167
+00:10:58,300 --> 00:11:01,420
+I'm not entirely sure about Cyclocross, but eh.
+
+168
+00:11:02,040 --> 00:11:07,480
+I will say that um I do like the movie uh In Bruges.
+
+169
+00:11:07,880 --> 00:11:09,080
+Oh, you've said that before.
+
+170
+00:11:09,399 --> 00:11:10,200
+It's a good movie.
+
+171
+00:11:10,920 --> 00:11:14,600
+And Colin Farrell is one of my favourite famous Belgians.
+
+172
+00:11:14,820 --> 00:11:18,660
+We also heard He's not Belgian, is he?
+
+173
+00:11:18,900 --> 00:11:26,980
+We also heard from Ed Moreland, uh, who said that he can confirm something about Trinity Math Mose, which I'm assuming a mathematician with mustaches.
+
+174
+00:11:27,180 --> 00:11:28,220
+And just mathematicians.
+
+175
+00:11:28,300 --> 00:11:33,180
+I th we didn't use this phrase when Look, you got your mathos and your Natskies done.
+
+176
+00:11:33,420 --> 00:11:40,860
+We didn't use we didn't call 'em mathmos when I was there, so that's a that's a a term of art that has appeared in the last two hundred and seventy-six years.
+
+177
+00:11:40,860 --> 00:11:51,340
+I'm gonna say that we we appreciate uh Ed's defence of the Trinity Math Mos, but also last episode had way too much weird Cambridge talk.
+
+178
+00:11:53,940 --> 00:11:55,779
+I was expecting that to get cut out.
+
+179
+00:11:55,940 --> 00:11:59,220
+John said he was going to cut it out, and then it did not get cut out.
+
+180
+00:11:59,240 --> 00:12:07,640
+I did actually cut a couple of sentences out, but it was difficult to find a good place that wouldn't make no sense at all.
+
+181
+00:12:07,960 --> 00:12:10,920
+And did you put my sponsor read in last time, John?
+
+182
+00:12:11,160 --> 00:12:11,800
+Yes.
+
+183
+00:12:11,759 --> 00:12:14,160
+Oh, okay, well the needle hasn't moved.
+
+184
+00:12:14,399 --> 00:12:14,720
+Oh.
+
+185
+00:12:14,959 --> 00:12:17,040
+Maybe we should do another one this time.
+
+186
+00:12:17,440 --> 00:12:18,240
+Interesting.
+
+187
+00:12:18,480 --> 00:12:20,399
+No, but but someone bought a hoodie.
+
+188
+00:12:20,560 --> 00:12:22,160
+Yeah, we've we've sold some things.
+
+189
+00:12:22,399 --> 00:12:23,040
+Yay!
+
+190
+00:12:23,459 --> 00:12:26,580
+Thank you to the listener ball the hoodie, you know who you are.
+
+191
+00:12:26,740 --> 00:12:28,980
+And we know who you are, but yeah, thank you.
+
+192
+00:12:34,640 --> 00:12:42,800
+The SmothCon Q<unk>A's uh have gone up and um for those who are not quite as plugged in
+
+193
+00:12:43,040 --> 00:12:45,279
+Oh no, the different way of putting it.
+
+194
+00:12:45,440 --> 00:12:48,720
+For those who don't refresh uh smofcom42.
+
+195
+00:12:48,959 --> 00:12:50,720
+com as obsessively as us.
+
+196
+00:12:51,079 --> 00:13:00,920
+Effectively, upcoming WorldCon bids will answer a question and answer form that the SmoFcon has um put on the internet.
+
+197
+00:13:01,160 --> 00:13:08,920
+and this gets you a chance to see what's coming up in the world of worldcons and also what their answers to these questions are.
+
+198
+00:13:08,900 --> 00:13:13,140
+And for those who don't know, SmothCon is a convention for conrunners.
+
+199
+00:13:13,540 --> 00:13:17,060
+Um, so uh I'll put a link in the show notes.
+
+200
+00:13:17,240 --> 00:13:29,160
+Um, but you have to answer, or you don't have to answer, but the Q<unk>A is it's about 40 questions long and different bids have filled it in, and some are the usual suspects and some are
+
+201
+00:13:29,720 --> 00:13:32,760
+Perhaps more interesting and newsworthy.
+
+202
+00:13:33,000 --> 00:13:38,760
+So at the time of recording, the WorldCom bids that have submitted Q<unk>A's are
+
+203
+00:13:39,060 --> 00:13:46,260
+Edmonton in 2030, Montreal in 2027, Kigali in 2028, and Dublin in 2029.
+
+204
+00:13:46,420 --> 00:13:48,020
+We knew all of those were
+
+205
+00:13:48,320 --> 00:13:52,160
+extant bids or cons, and so those are not too surprising.
+
+206
+00:13:52,240 --> 00:13:53,200
+But there's a couple of new ones.
+
+207
+00:13:53,280 --> 00:13:57,840
+There's Nuremberg in twenty twenty eight, uh, and there's Glasgow in twenty thirty-four.
+
+208
+00:13:58,000 --> 00:13:58,880
+And so we
+
+209
+00:13:59,420 --> 00:14:03,579
+are going to discuss the two new kids on the block.
+
+210
+00:14:03,819 --> 00:14:04,300
+Hmm.
+
+211
+00:14:04,540 --> 00:14:07,899
+And possibly the kids on the block who have not submitted answers.
+
+212
+00:14:07,780 --> 00:14:14,100
+Yeah, there are other World Compers that have not submitted, which is Although it is five days before SmovCon, so they might just not have done it.
+
+213
+00:14:14,260 --> 00:14:15,860
+I mean the idea of this is
+
+214
+00:14:16,400 --> 00:14:24,080
+You there is like a future WorldCons presentation at SmovCon and the idea is that if you put all the like tedious questions like
+
+215
+00:14:24,060 --> 00:14:25,980
+like or what airlines fly to your city.
+
+216
+00:14:26,060 --> 00:14:30,940
+Well no they're not too, but you know, the the boilerplate things like how many airlines fly to your city, what is the cost, what is your roommate's gonna be?
+
+217
+00:14:31,020 --> 00:14:38,460
+You put all this in a document and then you don't need to spend quite so much time at the actual Q<unk>A asking them questions about like airports.
+
+218
+00:14:38,360 --> 00:14:47,640
+Yeah, so looking through the list of people who gave talks at the SmovCon last year
+
+219
+00:14:47,839 --> 00:14:55,600
+The missing ones are Texas in 2031 have not yet submitted a document, but as we say, there is still time.
+
+220
+00:14:56,140 --> 00:15:05,980
+Um and last year there was a Vince Doherty said that there was a group of people in the Netherlands who were investigating a Dutch WorldCon in 2032.
+
+221
+00:15:06,339 --> 00:15:10,259
+Um, I believe that is no longer a going concern, but I might be wrong.
+
+222
+00:15:10,339 --> 00:15:12,819
+If anyone has any concrete information, do write in.
+
+223
+00:15:12,980 --> 00:15:14,579
+And there has also been rumbling.
+
+224
+00:15:14,759 --> 00:15:23,240
+from Polish fandom about bidding for mid-2030s, I think 2035, and I don't see a Q<unk>A from them either.
+
+225
+00:15:23,520 --> 00:15:36,880
+So um that might be that they just haven't done it yet because as I say it's not the deadline and we're just we're constrained by recording schedules listeners, so don't take this as a sign that these conventions are a sort of behind the curve necessarily.
+
+226
+00:15:37,220 --> 00:15:45,460
+But uh yes, difficult to tell whether that's because they're no longer going concerns or they're just not that far ahead in their planning or whether they just haven't submitted it yet.
+
+227
+00:15:45,620 --> 00:15:46,580
+No way to tell.
+
+228
+00:15:46,380 --> 00:15:48,779
+Yeah, so we will we will get back to this.
+
+229
+00:15:48,940 --> 00:15:54,140
+You know, if there are if there is stuff that comes out later we will get back to it when we have more reports from SmothCon.
+
+230
+00:15:54,620 --> 00:15:58,300
+And we'll have a reporter on the ground at Smovcon, won't we, John?
+
+231
+00:15:58,440 --> 00:16:10,440
+John, you must go to SmophCon and bring us back the finest informations and gossips you can acquire, which I am absolutely sure you will, and we don't need to podcast all of it, but some of it
+
+232
+00:16:10,440 --> 00:16:12,520
+I will indeed endeavour to do that.
+
+233
+00:16:12,680 --> 00:16:14,680
+Yes, I am off to SmovCon.
+
+234
+00:16:15,160 --> 00:16:20,040
+I'd like to thank Glasgow 2024 for a travel bursary which will
+
+235
+00:16:20,640 --> 00:16:25,840
+cover part of my travel hotel and keep me in crumpets for the duration.
+
+236
+00:16:26,080 --> 00:16:30,080
+And um I've never been before, so I'm excited to see what it's all about.
+
+237
+00:16:30,259 --> 00:16:32,740
+I have massive FOMO about SmovCon though.
+
+238
+00:16:32,819 --> 00:16:36,339
+I don't want to go to SmovCon because I no good can come of it, right?
+
+239
+00:16:36,420 --> 00:16:38,019
+You're gonna end up with work.
+
+240
+00:16:38,420 --> 00:16:40,339
+I want a couple of panels.
+
+241
+00:16:40,500 --> 00:16:42,900
+Oh god I've been put on an extra panel.
+
+242
+00:16:43,540 --> 00:16:44,180
+Why?
+
+243
+00:16:44,500 --> 00:16:46,420
+Why why is there a new panel?
+
+244
+00:16:46,660 --> 00:16:47,300
+Did you know?
+
+245
+00:16:47,540 --> 00:16:48,500
+No, I did not know.
+
+246
+00:16:48,660 --> 00:16:50,500
+What panels are you gonna be doing, John?
+
+247
+00:16:50,500 --> 00:16:55,060
+Well, okay, so the two I had seen that I was going to tell the listeners about were at 3 p.
+
+248
+00:16:55,220 --> 00:16:55,300
+m.
+
+249
+00:16:55,460 --> 00:17:00,740
+Central European Time, I will be on a panel called Socialising at Online Conventions.
+
+250
+00:17:01,040 --> 00:17:06,880
+And uh I'll be on with Andrew and Emily January, who are also experts on this topic.
+
+251
+00:17:07,040 --> 00:17:12,559
+And Constanza Hoffman is moderating and Michelle Morel is the other panelist
+
+252
+00:17:12,560 --> 00:17:19,600
+Uh 12 noon on the Sunday, I will be on the World Situation and WorldCon, which will be interesting.
+
+253
+00:17:19,839 --> 00:17:26,560
+Tammy Coxson is the moderator, and I'm uh joined by Brian Nisbitt, Emily Arrow, and Michael Kabunga.
+
+254
+00:17:26,560 --> 00:17:29,440
+And then the one I've just found out that I've been added to.
+
+255
+00:17:29,680 --> 00:17:38,160
+At noon on Saturday, I'm on a panel moderated by Heidi Leichel with Anouk, Arnal, Bruce Farr and Vinga
+
+256
+00:17:38,660 --> 00:17:42,260
+called Learning from Better Mistakes about Convention Problem Solving.
+
+257
+00:17:42,580 --> 00:17:44,580
+You've been put on that because of Zookon.
+
+258
+00:17:44,660 --> 00:17:44,900
+Yeah.
+
+259
+00:17:45,220 --> 00:17:47,540
+Shall we talk about Nuremberg first?
+
+260
+00:17:48,180 --> 00:17:51,220
+Yes, because we don't have a lot to say about them do with do we
+
+261
+00:17:51,240 --> 00:17:52,680
+Um I don't know.
+
+262
+00:17:52,920 --> 00:17:58,520
+There's a 37 page slideshow, so there's quite there's quite a lot to discuss.
+
+263
+00:17:58,700 --> 00:18:07,580
+I mean if you're gonna I think if you're gonna come out of stealth like what, eight months before you need to win the bid, then uh you gotta come out of the gate running.
+
+264
+00:18:07,840 --> 00:18:10,320
+Yeah, and they two do appear to have done so.
+
+265
+00:18:10,400 --> 00:18:20,640
+Um so Nuremberg in 2028 is being um co-chaired uh by Florian Bailey and Ruben Vickenhauser
+
+266
+00:18:20,640 --> 00:18:23,040
+Uh my sincere apologies if I pronounced those wrong.
+
+267
+00:18:23,360 --> 00:18:25,440
+Do you know either of these people?
+
+268
+00:18:25,760 --> 00:18:28,400
+Um I think I've heard of Florian Bailey.
+
+269
+00:18:28,600 --> 00:18:34,280
+I don't know them personally, but they are they are both fans in Germany.
+
+270
+00:18:34,600 --> 00:18:35,880
+So that's good.
+
+271
+00:18:36,120 --> 00:18:36,440
+Um
+
+272
+00:18:37,120 --> 00:18:39,520
+And, you know, one of them has a hat.
+
+273
+00:18:39,840 --> 00:18:44,160
+So um so one of them has been running a
+
+274
+00:18:44,919 --> 00:18:59,240
+tech festival in Nuremberg, which doesn't seem to be from the segment of German fandom that we interact with as much, like it seems to be a slightly different variety of convention to your Worldcons usually.
+
+275
+00:18:59,240 --> 00:19:05,560
+um but has been running for 15 years and have had guests like Charlie Stross, Bruce Sterling and Teresa Hanick.
+
+276
+00:19:05,800 --> 00:19:08,040
+And the other person is
+
+277
+00:19:08,919 --> 00:19:11,799
+Very involved in a sport called Jugger.
+
+278
+00:19:12,039 --> 00:19:13,640
+Which I know nothing about.
+
+279
+00:19:13,960 --> 00:19:15,080
+Me neither.
+
+280
+00:19:15,400 --> 00:19:19,720
+So he appears to be an author, but
+
+281
+00:19:20,320 --> 00:19:26,400
+He yeah, he is establishing jugger in schools and youth clubs in Sweden and Germany.
+
+282
+00:19:26,480 --> 00:19:28,640
+And yeah, I don't know what jugger is either.
+
+283
+00:19:29,100 --> 00:19:35,260
+And he's an experienced YouTuber, so he's got a YouTube channel that focuses on science fiction and jugger.
+
+284
+00:19:35,500 --> 00:19:39,100
+I've I've just googled Jugger, obviously, and it involves a skull.
+
+285
+00:19:39,300 --> 00:19:50,740
+It's not a real skull, but it's a bowl that looks like a skull and some kind of pyramid and a bit like LARP and you can like have a staff and hit people maybe
+
+286
+00:19:50,600 --> 00:19:51,799
+I want to play Jugger.
+
+287
+00:19:52,120 --> 00:19:53,559
+Traditional timekeeping.
+
+288
+00:19:54,679 --> 00:19:57,160
+Done with a gong and a hundred stones.
+
+289
+00:19:57,720 --> 00:20:00,280
+I love that we read that out at the same time, Liz.
+
+290
+00:20:00,660 --> 00:20:02,260
+We have both reached that point, yes.
+
+291
+00:20:02,340 --> 00:20:03,060
+Um, okay.
+
+292
+00:20:03,220 --> 00:20:05,380
+So this is a film I have never heard of.
+
+293
+00:20:05,620 --> 00:20:07,380
+Yeah, so it's based on a film.
+
+294
+00:20:07,540 --> 00:20:08,020
+Yeah.
+
+295
+00:20:08,180 --> 00:20:08,660
+Yep
+
+296
+00:20:08,860 --> 00:20:11,500
+This is as if somebody had a Quidditch league.
+
+297
+00:20:11,899 --> 00:20:17,899
+Yes, but this actually looks like it could be a real sport because Quidditch is just rugby with sticks.
+
+298
+00:20:18,380 --> 00:20:19,019
+Yes.
+
+299
+00:20:19,460 --> 00:20:22,900
+But this also as well as a skull, this also has weapons.
+
+300
+00:20:23,140 --> 00:20:27,380
+Um, a staff, a q-tip, a long sword, a short sword.
+
+301
+00:20:27,720 --> 00:20:28,280
+A chain.
+
+302
+00:20:28,600 --> 00:20:33,800
+Yeah, it's a team is composed of the five- eight following persons, five of which are allowed on the field.
+
+303
+00:20:33,800 --> 00:20:37,240
+A quick, an unarmed player, and the only one allowed to touch the skull.
+
+304
+00:20:37,620 --> 00:20:40,820
+Maximum one chain, a player armed with a chain.
+
+305
+00:20:42,260 --> 00:20:51,460
+Three or, if no chain, four enforcers, armed with their choice of weapon, except chain, and up to three substitutes.
+
+306
+00:20:51,360 --> 00:21:02,080
+Right, well, I'm gonna say I am definitely gonna go and check out the Nuremberg uh people's uh YouTube channel, but not for the science fiction content, because I want to see someone actually playing a game of jogger.
+
+307
+00:21:02,160 --> 00:21:11,440
+And also, Liz, what we do now know that we need to do is um we need to for the next Octothorpe bonus episode uh watch the salute of the jugger.
+
+308
+00:21:11,840 --> 00:21:16,640
+You have just sniped me because I was like we are all watching this movie and then
+
+309
+00:21:17,080 --> 00:21:18,360
+We are gonna talk about it.
+
+310
+00:21:18,840 --> 00:21:21,000
+One hundred percent.
+
+311
+00:21:21,480 --> 00:21:23,560
+It's got Ruckkahwa.
+
+312
+00:21:24,120 --> 00:21:25,880
+Yes, yes it does.
+
+313
+00:21:25,960 --> 00:21:30,280
+I think we can all agree we're very excited about Nureberg, primarily for the Jugger content.
+
+314
+00:21:30,600 --> 00:21:35,320
+I have checked Rotten Tomatoes on The Blood of Heroes, which is the Jugger movie.
+
+315
+00:21:35,500 --> 00:21:41,980
+And it has a 20% tomato meter rating and a 76% popcorn meter rating.
+
+316
+00:21:42,140 --> 00:21:42,940
+So it is a f
+
+317
+00:21:43,140 --> 00:21:44,180
+fan favourite.
+
+318
+00:21:44,500 --> 00:21:47,540
+That is quite a uh quite a disparity, isn't it?
+
+319
+00:21:47,780 --> 00:21:52,900
+And there are 10 critic reviews and 2,500 user reviews.
+
+320
+00:21:53,380 --> 00:21:54,500
+Or ratings.
+
+321
+00:21:54,900 --> 00:21:56,340
+This will be interesting.
+
+322
+00:21:56,660 --> 00:22:00,260
+Can we possibly do this another time and get on with the podcast?
+
+323
+00:22:00,580 --> 00:22:02,980
+They intend to launch their bid
+
+324
+00:22:03,240 --> 00:22:12,280
+Announce their finance chairs, do their budget planning, have a website and confirm additional department heads and swag in January 2026.
+
+325
+00:22:12,400 --> 00:22:20,720
+And they're going to have a Bavarian party at the LA WorldCon, but they're also, and this is very interesting, they're taking a leaf out of the Chengdu playbook.
+
+326
+00:22:20,760 --> 00:22:30,840
+Because they say voting ticket support for students, which I assume means that they are going to help German students join the LA WorldCon so they can vote for this bid, which is what Chengdu did.
+
+327
+00:22:30,760 --> 00:22:37,160
+And now there will be an argument because there are a lot of people who are like, well the reason you don't like Chengdu doing it is because you're racist against the Chinese.
+
+328
+00:22:37,240 --> 00:22:39,080
+And now if a European World Con does it
+
+329
+00:22:39,360 --> 00:22:46,080
+Maybe we can have that discussion without having to keep caveating the fact that it's not because they're Chinese, it's because we don't like it.
+
+330
+00:22:46,240 --> 00:22:50,799
+It's tricky because I'd love to see a neurobell worldcon, I'd love to see a German WorldCon, but I'm not.
+
+331
+00:22:50,800 --> 00:22:55,200
+I'm not sure I want to see a German WorldCon that isn't really a WorldCon and like that's hard.
+
+332
+00:22:55,440 --> 00:23:03,920
+I wonder and I'd be curious what like German fandom who is running the Metropolcon Eurocon next year.
+
+333
+00:23:04,140 --> 00:23:07,420
+and or the German fans who come to Eastcons and Worldcons.
+
+334
+00:23:07,500 --> 00:23:08,700
+I wonder what they think of this bid.
+
+335
+00:23:08,780 --> 00:23:09,740
+That will be interesting to see.
+
+336
+00:23:10,220 --> 00:23:10,940
+Right in.
+
+337
+00:23:11,260 --> 00:23:13,740
+The people who are running this bid are going to be at small
+
+338
+00:23:14,080 --> 00:23:17,600
+Where I am sure there will be many conversations on this topic.
+
+339
+00:23:17,840 --> 00:23:26,640
+They are planning to run their WorldCon the week after the aforementioned arts nerdy arts festival that one of them runs.
+
+340
+00:23:27,240 --> 00:23:31,720
+So it would kind of f seamlessly butt up against that.
+
+341
+00:23:32,200 --> 00:23:35,640
+And they may not have very much con running experience but they have
+
+342
+00:23:35,740 --> 00:23:44,220
+put together a perfectly cromular presentation, I would say, and there are plenty of WorldCons that seem to be incapable of that, so I think that's quite good.
+
+343
+00:23:44,460 --> 00:23:50,060
+You know, I don't want to I don't want to dismiss them out of hand, but I do think we have a little bit of an uphill struggle then.
+
+344
+00:23:50,140 --> 00:23:55,100
+But you know, they're against Kigali in Brisbane, so maybe not as much of an uphill struggle as it might be.
+
+345
+00:23:54,800 --> 00:23:57,520
+Yes, this is basically what Chengdu it did, right?
+
+346
+00:23:57,680 --> 00:24:00,160
+Identify a year where the competition is relatively weak.
+
+347
+00:24:00,320 --> 00:24:01,280
+No offense Brisbane.
+
+348
+00:24:01,360 --> 00:24:02,560
+No offense Kigali.
+
+349
+00:24:02,820 --> 00:24:06,580
+uh and throw money at the problem until you have a worldcom.
+
+350
+00:24:06,820 --> 00:24:09,140
+Which is a way of running a WorldCon that does work.
+
+351
+00:24:09,220 --> 00:24:10,660
+We've seen it work at least once.
+
+352
+00:24:10,820 --> 00:24:12,580
+So if they want to do it they can.
+
+353
+00:24:12,480 --> 00:24:19,200
+So they plan it around this twenty twenty eight Neuromeric Digital Festival, uh happening before, which can be good and bad, right?
+
+354
+00:24:19,280 --> 00:24:22,480
+If your organizers are in in both, then that could be a problem.
+
+355
+00:24:22,640 --> 00:24:23,520
+But I mean if that
+
+356
+00:24:23,740 --> 00:24:30,060
+It seems like that runs every year, so potentially they could bounce to another year if necessary.
+
+357
+00:24:30,380 --> 00:24:33,580
+Most, I think, first-time startup WorldCom bids have not.
+
+358
+00:24:33,820 --> 00:24:38,220
+won recently, and so they might need a second second go round.
+
+359
+00:24:38,380 --> 00:24:42,860
+But I mean they've put together a presentation that makes Nuremberg look really nice.
+
+360
+00:24:43,020 --> 00:24:45,660
+The city becomes a WorldCon Beer Garden
+
+361
+00:24:45,660 --> 00:24:47,980
+Yeah, I mean I'm not not up for that.
+
+362
+00:24:48,220 --> 00:24:48,460
+Hm.
+
+363
+00:24:48,620 --> 00:24:53,660
+What they mean is we can't drink at the conference centre in the evening, so we're going to go into town and drink there.
+
+364
+00:24:54,220 --> 00:24:55,340
+Seems plausible.
+
+365
+00:24:55,740 --> 00:24:56,140
+Maybe.
+
+366
+00:24:56,300 --> 00:24:59,580
+I mean that's basically what happens at every WorldCom, right?
+
+367
+00:24:59,580 --> 00:25:02,300
+And they do say they've both been to WorldCon before.
+
+368
+00:25:02,540 --> 00:25:10,540
+Yeah, and they say they've been to uh specifically they're thinking about this at Helsinki, and Helsinki is one of those where a lot of stuff went into the city kind of at night.
+
+369
+00:25:10,919 --> 00:25:20,360
+um away from the convention centre, but that was hampered by the distance and it sounds like the Nuremberg Conference Centre is much closer to the centre.
+
+370
+00:25:20,720 --> 00:25:21,360
+Of town.
+
+371
+00:25:21,520 --> 00:25:21,760
+Yeah.
+
+372
+00:25:22,000 --> 00:25:23,440
+I mean Nuremberg's lovely.
+
+373
+00:25:23,680 --> 00:25:24,320
+I have never been.
+
+374
+00:25:24,480 --> 00:25:25,040
+Me neither.
+
+375
+00:25:25,200 --> 00:25:25,760
+Sounds nice.
+
+376
+00:25:25,840 --> 00:25:26,560
+I would like to go.
+
+377
+00:25:26,640 --> 00:25:28,080
+I mean, I I I have not been there.
+
+378
+00:25:28,160 --> 00:25:30,400
+But it is it's known to be Oh, sorry
+
+379
+00:25:30,580 --> 00:25:36,420
+Is that when you said Nuremberg's lovely, I assumed you were speaking because you had been to Nuremberg and not because you have also looked on the internet.
+
+380
+00:25:36,900 --> 00:25:38,820
+No, I'm speaking talking out my hat.
+
+381
+00:25:38,980 --> 00:25:40,900
+But it's a famous place that's worth going to.
+
+382
+00:25:41,060 --> 00:25:43,860
+And it's in Bavaria, which is full of lovely places.
+
+383
+00:25:43,679 --> 00:25:45,039
+So we bit of kill John.
+
+384
+00:25:46,640 --> 00:25:47,840
+That's Nuremberg.
+
+385
+00:25:48,000 --> 00:25:50,320
+So yeah, um some open questions.
+
+386
+00:25:50,480 --> 00:25:55,840
+I think I think I am I I think we should come back to this question of
+
+387
+00:25:55,900 --> 00:26:02,300
+How do you mobilize people in your country who want to be involved without making it seem like you're taking over by Fiat?
+
+388
+00:26:02,860 --> 00:26:04,220
+Because I I do think
+
+389
+00:26:04,540 --> 00:26:08,860
+Like, I do think that a lot of the reaction against Chengdu's win was racism.
+
+390
+00:26:09,020 --> 00:26:13,100
+But I think a lot of it was also this isn't how we want people to go about winning these things.
+
+391
+00:26:13,260 --> 00:26:16,140
+And if Nuremberg is planning to do a similar thing
+
+392
+00:26:16,360 --> 00:26:22,440
+We probably do need to have a conversation about like, do we want this to be a thing people can do or do we not want it to be a thing people can do?
+
+393
+00:26:22,679 --> 00:26:27,320
+And what is it that we lose by allowing it or what is it that we gain by allowing it?
+
+394
+00:26:27,380 --> 00:26:31,860
+And at some point we should probably have that conversation, but maybe not today, because we've got other things to talk about.
+
+395
+00:26:32,260 --> 00:26:39,700
+I think you're off to SmothCon where I think everyone's going to have this conversation a lot all weekend and then you can come back with their informed views.
+
+396
+00:26:39,860 --> 00:26:41,299
+And we talk about it next time.
+
+397
+00:26:41,620 --> 00:26:43,299
+Shall we talk about Glasgow?
+
+398
+00:26:43,539 --> 00:26:50,580
+There's a Glasgow in twenty twelve thirty-four bid which has come out of like stealth biddy mode by announcing it in the SmothCon QA.
+
+399
+00:26:50,659 --> 00:26:52,980
+Uh I think they didn't do that last year, right?
+
+400
+00:26:53,260 --> 00:27:00,299
+Uh all three of us knew it existed, so I guess we are less uh shocked and surprised, but we could pretend if you'd like.
+
+401
+00:27:00,700 --> 00:27:00,940
+What?
+
+402
+00:27:01,260 --> 00:27:02,940
+Glasgow's gonna have another world con.
+
+403
+00:27:03,500 --> 00:27:03,740
+What?
+
+404
+00:27:04,340 --> 00:27:09,220
+And and I mean I'm very pleased to see that they've come out of stealth bidding mode and now an official bid.
+
+405
+00:27:09,299 --> 00:27:11,460
+Um Meg, please take my money.
+
+406
+00:27:11,780 --> 00:27:12,100
+Um
+
+407
+00:27:12,279 --> 00:27:14,200
+Have they said how you can buy pre-supports?
+
+408
+00:27:14,519 --> 00:27:15,799
+I gave Meg a twenty.
+
+409
+00:27:16,200 --> 00:27:16,600
+Yeah.
+
+410
+00:27:16,760 --> 00:27:16,919
+Okay.
+
+411
+00:27:17,240 --> 00:27:20,840
+Well, Meg, when ya when I see you, you can have a twenty off me.
+
+412
+00:27:21,159 --> 00:27:24,120
+Can I have a pre-opposing bid
+
+413
+00:27:24,679 --> 00:27:29,960
+And my policy will be I will pay you money if you stop making vibrant food culture jokes.
+
+414
+00:27:30,279 --> 00:27:35,320
+Ah, now I will uh ask for a refund if you stop making vibrant food culture jokes.
+
+415
+00:27:36,260 --> 00:27:39,380
+I thought the vibrant food culture joke was very funny.
+
+416
+00:27:39,700 --> 00:27:40,100
+Yes.
+
+417
+00:27:40,340 --> 00:27:48,500
+So and this is um this is being um chaired the bid and sorry, the bid chair is Meg MacDonald.
+
+418
+00:27:48,480 --> 00:27:56,240
+who was one of the vice chairs for Glasgow in 2024 and there is a list of people who are um
+
+419
+00:27:56,940 --> 00:28:00,220
+involved or friendly towards the bid.
+
+420
+00:28:00,380 --> 00:28:05,580
+Weirdly, Liz isn't listed as explicitly hostile yet, but will be soon, presumably.
+
+421
+00:28:05,820 --> 00:28:06,940
+Yeah, that's fine.
+
+422
+00:28:06,880 --> 00:28:09,200
+You can list me as a pre a pose.
+
+423
+00:28:09,600 --> 00:28:11,920
+I'm not listed as friendly.
+
+424
+00:28:12,160 --> 00:28:14,240
+Well you haven't maybe you haven't been friendly enough.
+
+425
+00:28:14,400 --> 00:28:17,920
+But I hear that John Coxon is providing the bid with action support.
+
+426
+00:28:18,240 --> 00:28:18,720
+Yes.
+
+427
+00:28:19,120 --> 00:28:21,200
+I believe I said something like
+
+428
+00:28:21,560 --> 00:28:23,880
+Twenty thirty-four, fucking hell, that's ten years away.
+
+429
+00:28:24,120 --> 00:28:25,640
+Ask me in five years.
+
+430
+00:28:26,040 --> 00:28:27,560
+I mean that isn't unfair.
+
+431
+00:28:27,800 --> 00:28:30,520
+I don't work on world con timeframes, I don't think.
+
+432
+00:28:30,600 --> 00:28:31,560
+That's the problem.
+
+433
+00:28:31,400 --> 00:28:34,600
+Because the WorldCon timeframe now is like twelve years.
+
+434
+00:28:34,840 --> 00:28:37,800
+Basically as soon as you've finished a WorldCon you're thinking about the next one.
+
+435
+00:28:38,040 --> 00:28:38,440
+Yeah.
+
+436
+00:28:38,680 --> 00:28:40,360
+Oh, I think beforehand.
+
+437
+00:28:40,580 --> 00:28:41,300
+Ah, that's true, yeah.
+
+438
+00:28:41,380 --> 00:28:43,140
+You're probably thinking about it in twenty twenty three.
+
+439
+00:28:43,220 --> 00:28:44,820
+This is this is too much well con for me.
+
+440
+00:28:44,900 --> 00:28:45,620
+I'm like, no.
+
+441
+00:28:45,860 --> 00:28:54,020
+But I'm I I'd say they've got a bunch of people who are signed up to help the bid, all of whom are exactly the people you'd expect to be on that list and who are
+
+442
+00:28:54,240 --> 00:29:00,240
+pretty competent and a good ra mix of people from low local fandommen around the world.
+
+443
+00:29:00,560 --> 00:29:03,280
+And it's they're bidding for
+
+444
+00:29:03,560 --> 00:29:07,400
+The SEC again and they have provisionally booked the SEC for the likely dates.
+
+445
+00:29:07,720 --> 00:29:11,640
+I think that's that's kind of you'd think it would be locked in, wouldn't you?
+
+446
+00:29:11,500 --> 00:29:12,460
+I'll see you there.
+
+447
+00:29:12,780 --> 00:29:13,260
+Yep.
+
+448
+00:29:13,420 --> 00:29:19,660
+Um, yeah, no, it will be either the 3rd to the 6th of August or the 10th to the 13th of August, 2034.
+
+449
+00:29:19,980 --> 00:29:20,700
+It's tricky, right?
+
+450
+00:29:20,780 --> 00:29:23,260
+Because I don't have much to say other than yes.
+
+451
+00:29:23,640 --> 00:29:24,040
+Good.
+
+452
+00:29:24,280 --> 00:29:35,240
+Well there isn't there isn't a lot to say other than they're bidding for only thirty-four, they have a competent set of people, they have a potential venue and basically a lot of it is gonna be the same as last year.
+
+453
+00:29:35,519 --> 00:29:42,480
+Something something big could happen between now and twenty twenty nine, let alone twenty twenty twenty thirty four.
+
+454
+00:29:42,720 --> 00:29:43,039
+So
+
+455
+00:29:43,419 --> 00:29:53,740
+Um for now it's basically like it was nice last time, let's do it again, and I'm wholly in favour of that, but um I just can't get super excited until
+
+456
+00:29:53,960 --> 00:29:56,760
+It's within like a five year horizon.
+
+457
+00:29:57,080 --> 00:30:00,520
+I think I can get excited.
+
+458
+00:30:00,760 --> 00:30:01,720
+Get excited, John.
+
+459
+00:30:02,140 --> 00:30:03,020
+Get hype.
+
+460
+00:30:03,340 --> 00:30:09,340
+Basically, the 2024 was amazing and 2034 will also be amazing.
+
+461
+00:30:09,500 --> 00:30:10,300
+Glasgow's amazing.
+
+462
+00:30:10,540 --> 00:30:11,420
+Restaurants were amazing.
+
+463
+00:30:11,500 --> 00:30:14,140
+Unless it like gets it'll be great.
+
+464
+00:30:13,900 --> 00:30:18,780
+And also I can recycle all of the Glasgow Injoke ribbons that I had from twenty twenty four, so that's good too.
+
+465
+00:30:19,020 --> 00:30:20,460
+Did you buy too many ribbons, John?
+
+466
+00:30:20,780 --> 00:30:23,820
+Uh who amongst no, I bought the right number of ribbons.
+
+467
+00:30:23,900 --> 00:30:27,020
+Uh Knowing you would be able to recycle them in ten years' time.
+
+468
+00:30:27,180 --> 00:30:28,700
+And you'll be able to find them?
+
+469
+00:30:28,860 --> 00:30:30,940
+Yes, they live in the ribbon drawer, Liz.
+
+470
+00:30:31,100 --> 00:30:34,460
+They live in the ribbon tin in the miscellaneous things drawer.
+
+471
+00:30:34,860 --> 00:30:39,340
+I have nothing to say such organization, other than you only have one miscellaneous drawer.
+
+472
+00:30:39,740 --> 00:30:41,500
+Also, uh I think it's pr
+
+473
+00:30:41,960 --> 00:30:45,960
+I think it's probably appropriate to ask now, uh can we have an Octhorp Live?
+
+474
+00:30:48,040 --> 00:30:50,520
+Okay, so we're not taking that sabbatical then, John.
+
+475
+00:30:50,760 --> 00:30:51,880
+No, no, no, no, no.
+
+476
+00:30:52,179 --> 00:30:53,539
+No, no, we've got plenty of time.
+
+477
+00:30:53,620 --> 00:31:03,780
+Look, we can have a sabbatical, we can have a vicious fight, we can never speak to each other for three years, we can reform and do another hundred and fifty episodes, and it will still only then be twenty thirty-four.
+
+478
+00:31:03,760 --> 00:31:04,880
+Also we should do all that.
+
+479
+00:31:05,120 --> 00:31:05,520
+Yes.
+
+480
+00:31:05,760 --> 00:31:06,240
+Really?
+
+481
+00:31:06,559 --> 00:31:08,960
+Okay, so who's up for the vicious fight then?
+
+482
+00:31:09,039 --> 00:31:10,160
+Should we schedule it in?
+
+483
+00:31:10,480 --> 00:31:12,640
+Yeah, let's schedule that one for 2027.
+
+484
+00:31:12,880 --> 00:31:14,640
+Babylon 5's a big pile of shit.
+
+485
+00:31:15,040 --> 00:31:16,880
+That's not gonna start it, is it?
+
+486
+00:31:17,120 --> 00:31:19,600
+Um no it's a sort of it's a reference, you see.
+
+487
+00:31:19,920 --> 00:31:20,560
+Oh god.
+
+488
+00:31:20,800 --> 00:31:21,440
+To what
+
+489
+00:31:21,560 --> 00:31:22,280
+To spaced.
+
+490
+00:31:22,680 --> 00:31:24,760
+Oh, which I should probably watch then.
+
+491
+00:31:24,920 --> 00:31:26,440
+Have you not watched spaced?
+
+492
+00:31:27,000 --> 00:31:27,240
+No.
+
+493
+00:31:28,040 --> 00:31:29,400
+Bloody hell.
+
+494
+00:31:29,460 --> 00:31:30,660
+You should watch spaced.
+
+495
+00:31:30,980 --> 00:31:37,140
+I know that we're going off topic again, but Yeah, but it's an important it's an important topic, which is that Alison hasn't watched spaced.
+
+496
+00:31:37,100 --> 00:31:39,820
+It's probably on uh Channel Four player or something.
+
+497
+00:31:40,059 --> 00:31:44,539
+I can watch it on Channel Four if I prepare to have eighteen minutes of adverts in a twenty-four minute show.
+
+498
+00:31:44,780 --> 00:31:51,660
+Once again, let's not turn this into the googling for where things are streaming in one country uh portion of the podcast.
+
+499
+00:31:51,380 --> 00:31:55,140
+I so I I guess yeah, just to wrap up on Glasgow, Meg's very capable.
+
+500
+00:31:55,220 --> 00:31:57,620
+Uh Glasgow's a great city to have a world call in.
+
+501
+00:31:57,940 --> 00:32:00,980
+It it also does I think it also does make sense to
+
+502
+00:32:01,340 --> 00:32:10,140
+kind of plan so that we've got kind of gaps between uh UK ones and Irish ones because they're not the same set of people but there are a bunch of people who do work on both.
+
+503
+00:32:10,260 --> 00:32:11,620
+or would like to work on both.
+
+504
+00:32:11,780 --> 00:32:14,340
+So not having them too close together does make sense.
+
+505
+00:32:14,580 --> 00:32:18,820
+Yeah, I I think this this model where we have a a a UK
+
+506
+00:32:19,519 --> 00:32:26,960
+convention uh work on each about every ten years and we have an Irish work on about every ten years is great as long as it goes on.
+
+507
+00:32:27,120 --> 00:32:28,480
+That suits me very well.
+
+508
+00:32:29,180 --> 00:32:34,700
+Do we want to talk a little bit about the other bids?
+
+509
+00:32:35,340 --> 00:32:38,780
+I confess I have only looked at the questionnaires.
+
+510
+00:32:39,860 --> 00:32:41,380
+From the two new bids.
+
+511
+00:32:41,460 --> 00:32:42,660
+I haven't looked at the old ones.
+
+512
+00:32:42,740 --> 00:32:43,940
+Have you looked at the old ones?
+
+513
+00:32:44,100 --> 00:32:47,700
+Is this something you might want again to report on after SmovCon, John?
+
+514
+00:32:47,960 --> 00:32:53,880
+I think there's not anything interesting in vid questionnaires usually, um, when we already know they exist.
+
+515
+00:32:54,360 --> 00:32:59,720
+Looking at the submitted QA responses, there's a gap between twenty thirty and twenty thirty-four.
+
+516
+00:32:59,880 --> 00:33:02,360
+We know Texas is provisionally
+
+517
+00:33:02,740 --> 00:33:08,980
+looking at 2031, but I don't know whether there's any rumblings for 32 or 33 yet.
+
+518
+00:33:09,540 --> 00:33:15,300
+So it'll be interesting to see if if any rumblings do kind of happen at SmothCon itself
+
+519
+00:33:15,360 --> 00:33:21,760
+Also notable that there's only one US bid in the mix still at the moment.
+
+520
+00:33:22,000 --> 00:33:23,840
+No others seem to be coming forward.
+
+521
+00:33:24,000 --> 00:33:28,320
+As it stands, it'll be US in 26, then Canada.
+
+522
+00:33:28,500 --> 00:33:37,700
+Then Australia, Rwanda or Germany, then Ireland, then Canada, then Texas, then a two-year gap, then Scotland.
+
+523
+00:33:37,480 --> 00:33:45,000
+And and what I would say is also in you know, there's three bids for twenty twenty eight and a two year gap in early twenty thirties, it seems like, if any of those bids
+
+524
+00:33:45,640 --> 00:33:47,240
+Don't make it and are happy to do so.
+
+525
+00:33:47,320 --> 00:33:48,920
+It's a good time to roll over to.
+
+526
+00:33:49,000 --> 00:33:53,240
+So we might end up with maybe maybe there'll be one US bid.
+
+527
+00:33:53,560 --> 00:33:54,440
+In that gap?
+
+528
+00:33:54,680 --> 00:33:56,360
+Yep, yep, not impossible.
+
+529
+00:33:56,600 --> 00:33:57,400
+But yeah.
+
+530
+00:33:57,720 --> 00:33:58,680
+We will see.
+
+531
+00:33:59,000 --> 00:34:04,520
+I will note that Montreal twenty twenty seven, uh, you should get yourself a better website.
+
+532
+00:34:04,760 --> 00:34:06,760
+Are we gonna say that every week now?
+
+533
+00:34:07,040 --> 00:34:07,920
+Yeah, pretty much.
+
+534
+00:34:08,080 --> 00:34:09,280
+Just a sketch website?
+
+535
+00:34:09,520 --> 00:34:12,640
+Do we need a picture of a moose having a shower?
+
+536
+00:34:14,980 --> 00:34:18,020
+Um, yep, yep, yeah, for our Montreal updates.
+
+537
+00:34:18,340 --> 00:34:19,460
+It's tricky, right?
+
+538
+00:34:19,620 --> 00:34:23,860
+Because I I don't want to be mean, but what I am gonna say
+
+539
+00:34:24,139 --> 00:34:27,179
+Is that I could make a better website like than this in an hour?
+
+540
+00:34:27,579 --> 00:34:32,059
+I would say that um Montreal's performing pretty much as expected.
+
+541
+00:34:32,120 --> 00:34:40,280
+The um website is uh for listeners who haven't visited currently pixelated JPEG screenshots of documents
+
+542
+00:34:40,359 --> 00:34:46,040
+Including hilariously one document where the word worldcon was highlighted when they took the screenshot.
+
+543
+00:34:46,119 --> 00:34:48,200
+So there's just a weird blue box around the words.
+
+544
+00:34:48,520 --> 00:34:49,879
+But am I am I on the wrong side?
+
+545
+00:34:49,960 --> 00:34:51,000
+Oh I'm on the bid site.
+
+546
+00:34:51,159 --> 00:34:51,480
+Okay.
+
+547
+00:34:51,600 --> 00:34:56,160
+Yeah, no, the site oh yeah no, Liz, go on the go on the site site, it's so much worse.
+
+548
+00:34:56,480 --> 00:34:59,680
+Sorry, I I Googled for oh, so the
+
+549
+00:35:00,140 --> 00:35:00,779
+Oh no, okay.
+
+550
+00:35:00,859 --> 00:35:03,339
+They've messed up the link from the bid site to the real website.
+
+551
+00:35:03,500 --> 00:35:03,740
+Okay.
+
+552
+00:35:04,220 --> 00:35:13,660
+Also, I don't like some of the information is in English and French, but there's quite a lot of it that's only in English, which for a WorldCon in a uh
+
+553
+00:35:14,380 --> 00:35:16,859
+bilingual territory is not great.
+
+554
+00:35:17,020 --> 00:35:18,619
+Um yeah, just mm.
+
+555
+00:35:18,940 --> 00:35:25,099
+Oh I see they're like oh no but these are the same things that were on the are the same yeah the same things that were on the bid site but at lower resolution
+
+556
+00:35:26,320 --> 00:35:27,920
+Just what is happening?
+
+557
+00:35:28,079 --> 00:35:29,040
+Come on, come on.
+
+558
+00:35:29,280 --> 00:35:30,720
+Get your website sorted out.
+
+559
+00:35:30,800 --> 00:35:33,280
+And if there is internal politics that means you can't have a good website.
+
+560
+00:35:33,359 --> 00:35:35,280
+That does not bode well for running a world con.
+
+561
+00:35:35,559 --> 00:35:36,599
+Oh my god!
+
+562
+00:35:36,760 --> 00:35:40,760
+Oh I've just seen this I've just seen the convention's website.
+
+563
+00:35:41,720 --> 00:35:46,200
+Oh I mean I think I had also been looking at the big bid website and the holding page.
+
+564
+00:35:46,440 --> 00:35:48,200
+Oh this is shocking
+
+565
+00:35:48,059 --> 00:35:49,660
+You can buy a membership though.
+
+566
+00:35:49,900 --> 00:35:50,539
+That's good.
+
+567
+00:35:50,700 --> 00:35:57,099
+So they're ahead of Chengdu uh at the stage at this stage of things, so that's nice.
+
+568
+00:35:57,359 --> 00:35:59,760
+It's a low potentially low bar.
+
+569
+00:36:00,079 --> 00:36:05,680
+I I think they're behind all of the bids that have submitted questionnaires for the
+
+570
+00:36:06,059 --> 00:36:08,539
+For the SmofCon QA, right?
+
+571
+00:36:08,779 --> 00:36:14,059
+I mean they've submitted a thing for the SmovCon QA, which has, you know, information in it.
+
+572
+00:36:13,760 --> 00:36:15,200
+So they do have quite a lot of information there.
+
+573
+00:36:15,280 --> 00:36:20,240
+It's just that you would expect by this point that information to be on a website and it's it's not on a website yet.
+
+574
+00:36:20,320 --> 00:36:22,640
+It's in a PDF on the SmovCon website
+
+575
+00:36:22,559 --> 00:36:35,200
+But yeah, if you if you think about timelines and stuff, right, and I always think about timelines in terms of um program, because program is a thing where it has a surprisingly long timeline, then you know
+
+576
+00:36:35,520 --> 00:36:39,119
+at this time out, where where should you be in your cycle?
+
+577
+00:36:39,200 --> 00:36:42,880
+And you should be thinking about, okay, well when do we open our programme Participant Questionnaire?
+
+578
+00:36:42,960 --> 00:36:47,599
+I mean you got a few months left, but it's like if you haven't actually got a website for people to start
+
+579
+00:36:47,440 --> 00:36:59,280
+registering their interest in that or for like suggesting stuff for you, then you want to get that going pretty quickly because you've got essentially now, what, eight months before LA Con and at LA Con you need to be
+
+580
+00:36:59,420 --> 00:37:01,260
+absolutely full of stuff.
+
+581
+00:37:01,740 --> 00:37:09,340
+So what they have told SmofCon is that they have s they have staffed up and they've listed all of the DHs, which I had not previously seen.
+
+582
+00:37:09,580 --> 00:37:10,220
+That's good.
+
+583
+00:37:10,460 --> 00:37:13,180
+I was very excited to see the list of um
+
+584
+00:37:13,540 --> 00:37:17,940
+of division heads for Montreal because it's really good to get some names in the frame.
+
+585
+00:37:18,020 --> 00:37:23,700
+Um and if you want to see that list in full, you can go and have a look at it at the Swathgol website, which we would recommend that you do so.
+
+586
+00:37:23,940 --> 00:37:26,580
+For some reason you cannot see it on the Montreal website.
+
+587
+00:37:26,660 --> 00:37:27,620
+But guys
+
+588
+00:37:27,660 --> 00:37:28,700
+Get a website.
+
+589
+00:37:29,020 --> 00:37:29,900
+Agreed.
+
+590
+00:37:36,000 --> 00:37:39,600
+Shall we discuss Novicon a little bit?
+
+591
+00:37:40,000 --> 00:37:44,080
+Yeah, I thought I just wanted to hear a bit more about how you guys did at Novicon.
+
+592
+00:37:44,320 --> 00:37:48,960
+I had a nice time listening to podcasts that I wasn't on, slightly sulkily because it's like
+
+593
+00:37:49,059 --> 00:37:53,779
+You guys did not actually need me, you have got a perfectly good replacement should you ever require it.
+
+594
+00:37:54,099 --> 00:37:55,460
+Wasn't Emily good?
+
+595
+00:37:55,700 --> 00:37:56,020
+Yeah.
+
+596
+00:37:56,180 --> 00:37:57,220
+Well it's not surprising.
+
+597
+00:37:57,299 --> 00:37:58,500
+I mean she is like
+
+598
+00:37:58,500 --> 00:38:03,860
+A Hugo Award winning writer and podcaster, so I am one of those things.
+
+599
+00:38:04,180 --> 00:38:06,740
+She is like the double threat.
+
+600
+00:38:06,460 --> 00:38:08,380
+Now you know how I feel about Laurie.
+
+601
+00:38:08,180 --> 00:38:08,420
+A
+
+602
+00:38:08,700 --> 00:38:12,940
+But I think, you know, we would never we would never replace either of you.
+
+603
+00:38:13,180 --> 00:38:15,340
+Oh, isn't that the use of the word we?
+
+604
+00:38:16,859 --> 00:38:18,220
+Well, you know what I mean.
+
+605
+00:38:18,460 --> 00:38:25,099
+I mean I also know that if Emily was doing the regular recording sessions, she probably would uh have to rage quit pretty quickly.
+
+606
+00:38:28,440 --> 00:38:30,120
+Hello, I missed you both.
+
+607
+00:38:30,360 --> 00:38:36,760
+Before you talk about Novicon, um a brief plug for what I did while I was not on the podcast, which is I met listener Ming.
+
+608
+00:38:36,940 --> 00:38:37,500
+Yay!
+
+609
+00:38:37,900 --> 00:38:45,339
+Who came to visit my city and I took him out for way too much food and he gave me a bunch of nice New Zealand chocolate.
+
+610
+00:38:45,420 --> 00:38:46,300
+Thank you, Ming.
+
+611
+00:38:46,100 --> 00:38:54,260
+Um and we had a nice time wandering around the park and he looked for diet monitor lizards and then we ate a load of food and went to a mall and it was a very, you know, Bangkok experience.
+
+612
+00:38:54,540 --> 00:38:59,180
+And also hello to listener Tammy who um showed me around Toronto.
+
+613
+00:38:59,340 --> 00:39:00,060
+Thank you, Tammy.
+
+614
+00:39:00,220 --> 00:39:01,180
+Yes, I saw the pictures.
+
+615
+00:39:01,260 --> 00:39:03,260
+I was like, what was Liz doing in Toronto?
+
+616
+00:39:03,580 --> 00:39:04,140
+Work.
+
+617
+00:39:04,540 --> 00:39:05,180
+And then
+
+618
+00:39:05,920 --> 00:39:06,560
+Eating.
+
+619
+00:39:06,800 --> 00:39:07,120
+Yeah.
+
+620
+00:39:07,280 --> 00:39:09,760
+I I only saw the photos of the eating bit.
+
+621
+00:39:10,000 --> 00:39:16,960
+Yeah, well the photos of the work were like any you're you're in a windowless conference center for five days.
+
+622
+00:39:17,240 --> 00:39:18,680
+I didn't take a lot of photos.
+
+623
+00:39:18,840 --> 00:39:21,560
+And then I went out and did things that involved sunshine.
+
+624
+00:39:21,720 --> 00:39:22,360
+Daylight.
+
+625
+00:39:22,680 --> 00:39:29,000
+I realise we also have to do a shout out to Listener Tobes, who gave us presents at Novicon.
+
+626
+00:39:29,160 --> 00:39:31,080
+Does Liz know about this yet?
+
+627
+00:39:31,000 --> 00:39:35,480
+There was some vague reference on the pod to Tobes giving you a present, but I can't remember what it was.
+
+628
+00:39:35,720 --> 00:39:36,200
+Yeah.
+
+629
+00:39:36,440 --> 00:39:36,840
+Ooh.
+
+630
+00:39:37,720 --> 00:39:39,640
+They're Octhorps
+
+631
+00:39:39,859 --> 00:39:41,619
+They're wooden octothorps.
+
+632
+00:39:42,020 --> 00:39:50,020
+To those since we are not actually a video podcast yet, uh John has uh displayed a wooden octothorpe at the camera for me.
+
+633
+00:39:50,260 --> 00:39:51,220
+And it looks f
+
+634
+00:39:51,620 --> 00:39:52,580
+Very neat.
+
+635
+00:39:52,820 --> 00:39:53,860
+It is very neat.
+
+636
+00:39:54,100 --> 00:39:55,860
+Has Tobe's taken up woodworking?
+
+637
+00:39:56,100 --> 00:39:58,820
+No, I don't think so, although obviously um
+
+638
+00:39:59,340 --> 00:40:01,500
+I think Toads would be excellent at working with Wood.
+
+639
+00:40:01,740 --> 00:40:07,100
+But I think he works for a company that makes among other things, perhaps.
+
+640
+00:40:07,140 --> 00:40:10,020
+Physical representations of letters and characters.
+
+641
+00:40:10,339 --> 00:40:11,700
+I thought it was one of his mates.
+
+642
+00:40:11,859 --> 00:40:13,220
+I think it's one of his mates.
+
+643
+00:40:13,460 --> 00:40:16,099
+I thought it was one of Tobes' mates who does these things.
+
+644
+00:40:16,420 --> 00:40:17,700
+Tobes, write in.
+
+645
+00:40:17,859 --> 00:40:18,660
+It's very nice.
+
+646
+00:40:18,900 --> 00:40:22,660
+But anyway, so we have wooden knots or did you s give us three or four, John?
+
+647
+00:40:23,060 --> 00:40:23,460
+Four.
+
+648
+00:40:23,700 --> 00:40:26,660
+One each, and then one for our stunt Liz.
+
+649
+00:40:26,600 --> 00:40:27,720
+Oh well thank you Tobes.
+
+650
+00:40:27,800 --> 00:40:29,800
+I look forward to getting my Octotop.
+
+651
+00:40:30,440 --> 00:40:31,160
+Oh excuse me.
+
+652
+00:40:31,320 --> 00:40:34,920
+And putting it on my display next to my Hugo.
+
+653
+00:40:35,320 --> 00:40:39,560
+And the little um fake you go that uh Laurie gave me.
+
+654
+00:40:39,960 --> 00:40:42,280
+Do you still have your snow globe?
+
+655
+00:40:43,120 --> 00:40:45,840
+Eee yes, but I don't know where I put the snow globe.
+
+656
+00:40:45,920 --> 00:40:49,520
+It might be in the drawer of miscellaneous things.
+
+657
+00:40:49,760 --> 00:40:52,160
+I think it actually is in the drawer of miscellaneous things.
+
+658
+00:40:52,160 --> 00:40:59,120
+Mine is next to um uh my James Shield's dice and a vial of my own blood.
+
+659
+00:40:59,360 --> 00:41:01,280
+I'm starting a little a little uh
+
+660
+00:41:01,480 --> 00:41:04,839
+Yeah, collection of Octathorpe things, although I don't have a vial of my own blood.
+
+661
+00:41:04,920 --> 00:41:08,440
+Um Oh l sa Octathorpe relics are a thing now?
+
+662
+00:41:08,599 --> 00:41:10,839
+Yes, Octathorpe relics are a thing.
+
+663
+00:41:11,000 --> 00:41:11,319
+You
+
+664
+00:41:11,880 --> 00:41:13,640
+Holy John relics?
+
+665
+00:41:13,799 --> 00:41:16,839
+We can sell tiny portions of the true John.
+
+666
+00:41:17,480 --> 00:41:21,319
+We are not selling any tiny portions of the true John, but we are selling
+
+667
+00:41:21,720 --> 00:41:28,119
+shirts, mugs, hoodies, and tote bags, and there will be a link in the show notes.
+
+668
+00:41:28,440 --> 00:41:33,559
+Can you sell your own blood online UK?
+
+669
+00:41:34,240 --> 00:41:36,480
+Yeah, we are not selling relics.
+
+670
+00:41:36,800 --> 00:41:37,280
+Yet.
+
+671
+00:41:37,600 --> 00:41:39,280
+Oh, that would be funny though.
+
+672
+00:41:39,520 --> 00:41:41,920
+Could you all please send me your toenail clippings?
+
+673
+00:41:42,240 --> 00:41:42,560
+No.
+
+674
+00:41:43,040 --> 00:41:45,760
+Was that alright for a very quick sponsor read, John?
+
+675
+00:41:47,200 --> 00:41:48,080
+I mean
+
+676
+00:41:48,520 --> 00:41:49,160
+Yes.
+
+677
+00:41:49,640 --> 00:41:51,640
+Because it you know what time of year it is.
+
+678
+00:41:51,960 --> 00:41:54,440
+Is there anything else we want to say about Novicon?
+
+679
+00:41:54,520 --> 00:41:56,280
+Novicon was fine, it was Novicon
+
+680
+00:41:56,359 --> 00:41:59,240
+It doesn't it's in the same place as it was last time I went to Novicon.
+
+681
+00:41:59,480 --> 00:42:02,119
+They moved the rooms around to to try and trick me.
+
+682
+00:42:02,280 --> 00:42:07,160
+There's now a fridge of secret beers, which are better than the beers that are on tap, so that's nice.
+
+683
+00:42:07,480 --> 00:42:09,400
+I think there was last year as well.
+
+684
+00:42:09,440 --> 00:42:12,960
+My room was up several flights of stairs and was fine.
+
+685
+00:42:13,200 --> 00:42:14,720
+Buxton's quite nice.
+
+686
+00:42:14,960 --> 00:42:18,160
+Had one of the best Scotch eggs I've ever had in my life.
+
+687
+00:42:18,260 --> 00:42:18,900
+Where was that?
+
+688
+00:42:19,220 --> 00:42:20,820
+The Buxton tap, is it?
+
+689
+00:42:20,980 --> 00:42:28,020
+I had half a chicken, and then me and Tommy Ferguson uh shared a black pudding scotch egg, which was absolutely phenomenal.
+
+690
+00:42:28,340 --> 00:42:30,740
+Buxton has a vibrant food culture.
+
+691
+00:42:30,980 --> 00:42:32,420
+Mmm, yes it does.
+
+692
+00:42:33,059 --> 00:42:41,299
+And they didn't have a banquet this year, but that was fine because my only experience with the NovaCon banquet was quite disappointing and
+
+693
+00:42:41,559 --> 00:42:46,599
+I also think that if your hotel is in the middle of nowhere, having a banquet on the Sunday night can be quite nice.
+
+694
+00:42:46,760 --> 00:42:53,240
+But if your hotel is in the middle of quite a nice town with loads of nice restaurants, the value proposition is a bit different.
+
+695
+00:42:53,100 --> 00:42:58,300
+And I talked with Dave Hodson a lot, and that was fun, and we talked about games in quite a lot of detail.
+
+696
+00:42:58,540 --> 00:43:00,300
+Yeah, no, I had a lovely time at Novicon.
+
+697
+00:43:00,460 --> 00:43:03,260
+I went to an enormous amount of the programme which is not
+
+698
+00:43:03,100 --> 00:43:08,060
+How NovaCon is supposed to work 'cause you're supposed to kind of ignore the programme and go wandering around Buxton.
+
+699
+00:43:08,780 --> 00:43:11,420
+Who are you and what what did you do with Alison?
+
+700
+00:43:12,140 --> 00:43:15,580
+So I blame Esther McCallum Stewart.
+
+701
+00:43:15,980 --> 00:43:16,300
+Um
+
+702
+00:43:16,740 --> 00:43:26,500
+And also probably Emily Tesh, because I think one of the reasons that the programme was so good was that Emily was the guest and they put her on a lot of interesting things because she is a very interesting person.
+
+703
+00:43:26,400 --> 00:43:32,880
+But all of the program I went to was jolly good and I and and more please, this was good, this is what programme should be like.
+
+704
+00:43:33,119 --> 00:43:38,000
+I also spent a little bit of time talking to the people from FunCon 2, which has launched.
+
+705
+00:43:38,000 --> 00:43:43,680
+I don't know if we've mentioned FunCon 2, but it's not till twenty seventy-seven, so we've got plenty of time to do that, but that's back at that hotel.
+
+706
+00:43:43,840 --> 00:43:46,480
+And instead of Space Leopards, which were kinda cute.
+
+707
+00:43:46,660 --> 00:43:50,260
+they now have a thousand angry wasps who don't sound cute at all to me.
+
+708
+00:43:50,580 --> 00:43:57,460
+I mean I think we should say thank you to Esther again for letting you guys hijack the Novicon guest of honor to be on your podcast.
+
+709
+00:43:57,780 --> 00:43:58,900
+Thank you, Esther
+
+710
+00:43:59,160 --> 00:44:03,560
+Well thank you Emily and thank you Esther for putting on a fantastic programme and to all the Novicon committee.
+
+711
+00:44:03,640 --> 00:44:05,720
+I think that was the best Novicon for some time.
+
+712
+00:44:05,880 --> 00:44:10,920
+Um I like Novicon generally, but I had a really good time, didn't get as much drinking done.
+
+713
+00:44:10,660 --> 00:44:11,860
+Um maybe next year.
+
+714
+00:44:12,180 --> 00:44:20,820
+Another thing we didn't talk about in our Novicon episode was Novicon 55, which will be in 2026, and they announced the Guest of Honor, who will be
+
+715
+00:44:21,100 --> 00:44:31,500
+Una McCormack, who is a science fiction writer who has written a lot, including in franchises like Doctor Who and Star Trek and For Big Finish.
+
+716
+00:44:31,559 --> 00:44:39,960
+um but has also done a bunch of stuff in academia and has just been doing a lot of work in British science fiction fandom in general.
+
+717
+00:44:40,100 --> 00:44:44,500
+So she gave the Guest of Honour speech to the Tolkien Society in 2019, for instance.
+
+718
+00:44:44,660 --> 00:44:48,180
+So yeah, like I think that is a that is a good and interesting guest of honour.
+
+719
+00:44:48,340 --> 00:44:50,340
+So um congratulations to Una.
+
+720
+00:44:50,559 --> 00:45:01,440
+And when they announced this they said they thought that we had as a as a community been quite remiss in honoring people whose primary work was in
+
+721
+00:45:01,840 --> 00:45:06,880
+tie-in novels and um novels in shared spaces and I think that's probably fair.
+
+722
+00:45:07,040 --> 00:45:11,920
+And I'm very interested in seeing what she has to say and maybe reading some of her stuff before Novicon.
+
+723
+00:45:12,000 --> 00:45:14,240
+So please write in with recommendations
+
+724
+00:45:14,100 --> 00:45:22,260
+But the thing is interesting is that she was one of the people who was um co-director of Anglia Ruskin's Center for Science Fiction and Fantasy.
+
+725
+00:45:22,340 --> 00:45:22,740
+So her
+
+726
+00:45:23,220 --> 00:45:30,900
+impact on academic work on the genre in the UK is also very large and I think we're also quite bad at recognizing
+
+727
+00:45:31,240 --> 00:45:35,240
+people who contribute to the critical side of things in Britain.
+
+728
+00:45:35,800 --> 00:45:40,280
+And it is interesting to have a guest of honour who might be able to speak more on that.
+
+729
+00:45:46,540 --> 00:45:48,700
+Shall we yeah, shall we do pics?
+
+730
+00:45:49,260 --> 00:45:50,380
+Shall I go first?
+
+731
+00:45:50,640 --> 00:45:51,920
+Um, if you would like to.
+
+732
+00:45:52,240 --> 00:45:53,680
+Yes, but no spoilers.
+
+733
+00:45:54,160 --> 00:45:54,480
+Okay.
+
+734
+00:45:55,359 --> 00:45:57,520
+Sorry, I've seen I've seen your pick, so no spoilers.
+
+735
+00:45:57,599 --> 00:45:59,119
+I haven't wa I haven't watched it yet.
+
+736
+00:45:59,480 --> 00:46:00,760
+What counts as a spoiler?
+
+737
+00:46:01,000 --> 00:46:02,440
+Big things on the back of cars.
+
+738
+00:46:02,680 --> 00:46:03,480
+Come on, Sean.
+
+739
+00:46:03,720 --> 00:46:08,839
+Just go for it and if I think you're spoiling it, I'll take my headphones off and sing Lala Laugh for ten seconds.
+
+740
+00:46:08,740 --> 00:46:16,420
+So my pick for this week is Pluribus, which is a new science fiction television show on Apple TV.
+
+741
+00:46:16,660 --> 00:46:18,500
+Sorry guys, just you know.
+
+742
+00:46:18,820 --> 00:46:24,900
+I mean wait for a month and then buy it for a month because they're releasing the episodes one at a time in quite an annoying fashion.
+
+743
+00:46:24,980 --> 00:46:26,660
+Um, which means I've only seen the first f
+
+744
+00:46:26,940 --> 00:46:30,300
+Five episodes of this show because that's how many there are at the moment.
+
+745
+00:46:30,540 --> 00:46:37,180
+This is a new science fiction show by Vince Gilligan, who is famous for Breaking Bad and Better Call Saul.
+
+746
+00:46:37,820 --> 00:46:38,700
+And m
+
+747
+00:46:39,320 --> 00:46:46,600
+I am watching it because first of all my daughter said it will be the next big thing and everyone will be talking about it and all the young people are talking about it.
+
+748
+00:46:46,680 --> 00:46:47,240
+And then
+
+749
+00:46:47,460 --> 00:46:52,420
+Lillian said I heard that would be the next big thing and then I read an article that says this is the next big thing.
+
+750
+00:46:52,500 --> 00:46:53,380
+Why is nobody watching it?
+
+751
+00:46:53,540 --> 00:46:55,220
+Answer because it's on Apple TV.
+
+752
+00:46:55,700 --> 00:46:56,020
+Um
+
+753
+00:46:56,359 --> 00:47:03,960
+I I think probably it is the next big thing, but it's also because it's a science fiction TV show, quite like quite a lot of previous big things.
+
+754
+00:47:04,200 --> 00:47:04,520
+Um
+
+755
+00:47:05,220 --> 00:47:15,380
+The first episode is a bit kind of weird and violent and isn't quite like the rest of the show has been, so you might want to give it two episodes to see if you like it.
+
+756
+00:47:15,619 --> 00:47:15,940
+Um
+
+757
+00:47:16,760 --> 00:47:24,440
+we have an event that causes everyone, almost everybody on the planet to become um
+
+758
+00:47:25,620 --> 00:47:26,740
+connected mentally.
+
+759
+00:47:26,820 --> 00:47:28,740
+Um I think that's probably enough of it really.
+
+760
+00:47:29,060 --> 00:47:37,460
+And our protagonist is somebody who this does not apply to and you are viewing her reactions to this and what
+
+761
+00:47:37,940 --> 00:47:38,900
+is going on.
+
+762
+00:47:39,060 --> 00:47:40,740
+That makes it kind of weird show.
+
+763
+00:47:40,820 --> 00:47:52,020
+It is beautifully and expensively shot, and it is all very lovely to look at, and some of the scenes where people are acting in a coordinated fashion are extremely
+
+764
+00:47:52,340 --> 00:47:56,580
+good and interesting to watch and you go, Oh, I hadn't thought about that.
+
+765
+00:47:56,740 --> 00:47:57,940
+Ooh, that's interesting.
+
+766
+00:47:58,100 --> 00:48:05,940
+But quite a lot of time if you're a science fiction fan you will have thought about this and a lot of what's going on is not very new.
+
+767
+00:48:06,340 --> 00:48:06,660
+So
+
+768
+00:48:07,059 --> 00:48:13,859
+and so therefore it's quite a slow burn and because we don't actually have all that many characters in this show.
+
+769
+00:48:14,020 --> 00:48:19,380
+So you have to kind of like the main character who is Rhea Seaborn playing Carol Sturker.
+
+770
+00:48:19,620 --> 00:48:34,100
+who is very amusingly a writer of um romanticy novels um and and there is a fantastic scene in the first episode where she is meeting her adoring fans that I feel something must come of that later.
+
+771
+00:48:34,120 --> 00:48:45,720
+Um it's not obvious why the fact that she is a writer of romanticy should make her act in the way she does in subsequent episodes, but it's all very interesting and um
+
+772
+00:48:45,960 --> 00:48:47,240
+And we're enjoying it a lot.
+
+773
+00:48:47,320 --> 00:48:48,840
+I'll definitely watch it all.
+
+774
+00:48:49,080 --> 00:48:57,720
+But it's got some caveats because it is quite slow moving and there are lots of scenes where it is just essentially
+
+775
+00:48:57,840 --> 00:49:01,840
+Carol interacting with maybe one other person.
+
+776
+00:49:02,400 --> 00:49:04,880
+So there's not a lot of characters in this show.
+
+777
+00:49:05,040 --> 00:49:06,640
+Um but no, it's exciting.
+
+778
+00:49:06,720 --> 00:49:12,160
+It's nice to see high budget, illiterate, interesting science fiction on television, and I approve.
+
+779
+00:49:12,059 --> 00:49:12,700
+Sounds good.
+
+780
+00:49:12,940 --> 00:49:20,859
+I mean I would say that there is a reasonable amount of high budget literate science fiction television and it's all on Apple TV.
+
+781
+00:49:21,099 --> 00:49:21,500
+Yep.
+
+782
+00:49:21,819 --> 00:49:25,579
+Yes, is this yet another serious science fiction I've told because I
+
+783
+00:49:25,920 --> 00:49:35,840
+crashed out of foundation after f three or four episodes and people say, Oh no, that's really good and you should stick with it and I haven't seen Silo yet which lots of people like, so yeah, no.
+
+784
+00:49:35,880 --> 00:49:40,200
+And obviously severance, so yeah, Apple TV seems to be a good place for science fiction at the moment.
+
+785
+00:49:40,360 --> 00:49:43,960
+And for all mankind and the for all mankind spin-off that we're getting.
+
+786
+00:49:44,059 --> 00:49:53,740
+Who at Apple love science fiction so much that they are willing to spend millions and millions of pounds on glossy, elaborate, uh literate science fiction shows.
+
+787
+00:49:53,760 --> 00:49:56,320
+And how long how long will they keep doing it?
+
+788
+00:49:56,960 --> 00:50:00,400
+That last one is a great question, but we should enjoy it while it's here.
+
+789
+00:50:00,720 --> 00:50:01,600
+We should.
+
+790
+00:50:01,359 --> 00:50:08,240
+And also Apple's ability to put very large sums of money after something is almost unequalled.
+
+791
+00:50:08,400 --> 00:50:10,880
+So probably until somebody notices, I would think.
+
+792
+00:50:11,280 --> 00:50:14,079
+I remember listeners, when I was a lad
+
+793
+00:50:14,420 --> 00:50:19,060
+that there was enough science fiction that you watched it all because that was just that was it.
+
+794
+00:50:19,220 --> 00:50:23,780
+There was well I remember when it was just Battlest Galactica and um Chuck.
+
+795
+00:50:24,160 --> 00:50:33,040
+Oh, but that's like the glory days compared to like all you had was uh six different Star Trek and then some stuff that was all made in a forest in British Columbia.
+
+796
+00:50:33,160 --> 00:50:34,680
+No, I mean that's the thing, right?
+
+797
+00:50:34,760 --> 00:50:42,040
+Like we are in this golden age and every so there's too much stuff and it needs to, you know, there are too many streaming services, they need to get rid of some and I'm like, you don't remember.
+
+798
+00:50:42,200 --> 00:50:43,640
+You don't remember the old days.
+
+799
+00:50:43,800 --> 00:50:44,920
+I don't want to go back.
+
+800
+00:50:45,080 --> 00:50:46,840
+You can't make me go back.
+
+801
+00:50:46,859 --> 00:50:51,420
+Alright, so I am picking uh The Summer War by Naomi Novic.
+
+802
+00:50:51,740 --> 00:50:55,820
+I believe it is a novella, but it's maybe a long novella, short novel, so that's gonna be fun.
+
+803
+00:50:55,980 --> 00:50:57,020
+Come Hugo time.
+
+804
+00:50:57,359 --> 00:50:59,599
+I sort of struggled to say think what to say about it.
+
+805
+00:50:59,680 --> 00:51:08,320
+Basically it is a good Naomi Novic book and she has made written lots of good books and if you like them you will probably like the Summer War and if you don't like what Naomi Novic
+
+806
+00:51:08,440 --> 00:51:16,440
+does you probably won't like it but yes it is essentially um a fantasy world and they and they live on the edge of the summerlands where the
+
+807
+00:51:16,840 --> 00:51:27,320
+fairies live and there was kind of a war between those two nations which has been settled by our protagonist's father and it is about Celia
+
+808
+00:51:27,400 --> 00:51:37,000
+Uh basically her older brother leaves home to go and wander the summerlands and upends her life and she kind of inadvertently curses him and it's about what she wants
+
+809
+00:51:37,140 --> 00:51:42,740
+how she tries to put things right and how she tries to find a solution uh to this.
+
+810
+00:51:42,980 --> 00:51:45,779
+So it's sort of a fantasy tale with
+
+811
+00:51:46,059 --> 00:51:52,779
+fairly typical sort of Fay who are beautiful and harsh and cruel in equal measure.
+
+812
+00:51:53,020 --> 00:51:55,339
+But I just think it's like a nicely done one.
+
+813
+00:51:55,500 --> 00:51:58,220
+I enjoyed Celia, although I will say that I think
+
+814
+00:51:58,040 --> 00:52:05,960
+I was reading her as much older than she actually is at the start of the book, um because for various reasons at the start of the book she's sort of about twelve or thirteen.
+
+815
+00:52:05,600 --> 00:52:13,840
+And she feels a little bit older, but then when she ages up kind of in the latest age of the book to sixteen, then it feels a lot more realistic about kind of that mindset of a young
+
+816
+00:52:13,940 --> 00:52:24,900
+person, but I really enjoyed her and so she's got two brothers and her older brother leaves and she's furious that he has abandoned her and then that really affects her relationship with the middle brother
+
+817
+00:52:24,960 --> 00:52:34,160
+and I really liked kind of how they come to work together and how it affects their family dynamic and then how the family dynamic is
+
+818
+00:52:34,180 --> 00:52:40,180
+As you would expect, and it's not spoiler, key to figuring out what is going on and leading to a satisfying resolution.
+
+819
+00:52:40,340 --> 00:52:42,660
+I would say I think it's a little bit like
+
+820
+00:52:42,960 --> 00:52:45,680
+Their ending is a little bit too pat.
+
+821
+00:52:46,160 --> 00:52:51,680
+Things fall into place a little bit too easily, which might be part partly because it's not a particularly long book.
+
+822
+00:52:51,840 --> 00:52:54,720
+But I just sat down and read it in the morning and I enjoyed it
+
+823
+00:52:54,640 --> 00:52:55,039
+Way.
+
+824
+00:52:55,520 --> 00:52:57,119
+Is it gonna be submitted for the Clark?
+
+825
+00:52:57,200 --> 00:52:59,920
+Is it science fiction arguably or just definitely fantasy?
+
+826
+00:53:00,160 --> 00:53:01,200
+No, it's definitely fantasy.
+
+827
+00:53:01,520 --> 00:53:06,640
+Doesn't always stop people from um from submitting them to the Clark, but uh No, that sounds interesting.
+
+828
+00:53:06,720 --> 00:53:08,720
+I have liked everything else I've read by
+
+829
+00:53:08,780 --> 00:53:12,140
+Naomi Novic, so I might well look that up.
+
+830
+00:53:12,460 --> 00:53:21,740
+Given it is a novella, I wouldn't be a hundred per cent surprised to see it on the Hugo list if it manages to make a break against the the Tor domination.
+
+831
+00:53:21,980 --> 00:53:23,500
+Thinks we'd have a good chance.
+
+832
+00:53:23,300 --> 00:53:25,380
+So then you might get it next year.
+
+833
+00:53:25,780 --> 00:53:26,340
+Interesting.
+
+834
+00:53:26,580 --> 00:53:33,540
+So obviously you have both picked recent things, and I'm gonna pick a less recent thing.
+
+835
+00:53:33,780 --> 00:53:36,580
+I'm gonna pick uh the Truman Show.
+
+836
+00:53:36,740 --> 00:53:37,060
+Ooh.
+
+837
+00:53:37,540 --> 00:53:38,820
+From nineteen ninety eight.
+
+838
+00:53:39,060 --> 00:53:40,740
+Had you not previously seen it, John?
+
+839
+00:53:41,060 --> 00:53:42,500
+I had not previously seen it.
+
+840
+00:53:42,660 --> 00:53:44,900
+Oh man, I should have picked that as a film for us to watch.
+
+841
+00:53:44,980 --> 00:53:46,020
+I really like the Truman Show.
+
+842
+00:53:46,180 --> 00:53:47,220
+Yeah, yeah, that would be great.
+
+843
+00:53:47,380 --> 00:53:48,900
+I just assumed John had seen it.
+
+844
+00:53:49,140 --> 00:53:49,940
+It's really good.
+
+845
+00:53:50,180 --> 00:53:50,740
+Yes.
+
+846
+00:53:51,440 --> 00:53:51,920
+Yeah.
+
+847
+00:53:52,160 --> 00:53:57,520
+I gave it a five stars and I'll and and and and Hispania was like, she was like, you've given it five stars.
+
+848
+00:53:57,680 --> 00:54:00,080
+And I was like, name one thing that could be better about it.
+
+849
+00:54:00,000 --> 00:54:01,360
+It's very well paced.
+
+850
+00:54:01,520 --> 00:54:05,520
+Jim Carrey, like, if you don't like Jim Carrey, there's an obvious thing that could be better about it.
+
+851
+00:54:05,680 --> 00:54:08,160
+Um but I will say he is
+
+852
+00:54:08,460 --> 00:54:10,620
+Oh, he's very restrained in this.
+
+853
+00:54:11,020 --> 00:54:13,100
+Well, he's phenomenal in the role I thought.
+
+854
+00:54:13,180 --> 00:54:20,460
+I thought it was really, really well acted, and I don't know if I can think of another actor that I think would be able to do it the same way.
+
+855
+00:54:20,400 --> 00:54:25,599
+But also just like Ed Harris is amazing, as is, I mean the entire cast is great.
+
+856
+00:54:25,760 --> 00:54:32,400
+It's an excellent conceit done in exactly the length of time it needs and not longer.
+
+857
+00:54:32,300 --> 00:54:41,260
+Uh it's 103 minutes, it's perfectly lengthed, very well paced, and also I thought extremely prescient because
+
+858
+00:54:41,440 --> 00:54:54,800
+Not so much there's obvious prescience around the rise of reality TV, but I saw it very much as like if you think of Ed Harris as the Zuckerberg type and Truman as a representative of people being swayed by
+
+859
+00:54:55,220 --> 00:55:03,059
+social media, you've got the reclusive billionaire who very much respects his own privacy and doesn't really see anyone else's privacy as something worth a damn.
+
+860
+00:55:03,320 --> 00:55:13,800
+And you just can see it as like a warning of, you know, m 2025 social media landscape in a really, really terrifying, impression way, which I
+
+861
+00:55:14,240 --> 00:55:16,480
+um I liked a a great deal.
+
+862
+00:55:16,640 --> 00:55:25,200
+So I think in in s several ways it's much more much more science fiction in the terms of like prediction than many of the science fiction films I've watched.
+
+863
+00:55:25,440 --> 00:55:28,080
+And I am actually shocked, so
+
+864
+00:55:28,359 --> 00:55:40,520
+Lispania and I, um for those who don't know, um Hispanior and I have been working through the timeout list of the top one hundred science fiction films, and this does not appear on that list, and having watched it, I think that might be an outrage.
+
+865
+00:55:40,599 --> 00:55:42,599
+Um, because I think it might be
+
+866
+00:55:42,740 --> 00:55:44,900
+one of the best science fiction films out there.
+
+867
+00:55:45,060 --> 00:55:47,540
+So if you haven't seen it, I would highly recommend you watch it.
+
+868
+00:55:47,860 --> 00:55:51,380
+Unless you really hate Jim Carrey, in which case it is a harder sell, I admit.
+
+869
+00:55:51,540 --> 00:55:52,980
+No, but you should watch it.
+
+870
+00:55:52,859 --> 00:55:53,900
+You should watch it anyway.
+
+871
+00:55:54,220 --> 00:55:54,619
+Yeah.
+
+872
+00:55:54,780 --> 00:55:56,700
+I I genuinely think it's great.
+
+873
+00:55:57,020 --> 00:56:05,180
+Because of the film to change your mind about him, then it would be this one, and it's more effective, I think, because you think of him as the the clownish figure.
+
+874
+00:56:04,800 --> 00:56:08,560
+I mean this is a serious science fiction film in which he plays a character extremely well.
+
+875
+00:56:08,640 --> 00:56:09,840
+It's a great performance.
+
+876
+00:56:10,000 --> 00:56:15,200
+In fact it made me more irritated about Jim Carrey generally because now I know he can act.
+
+877
+00:56:16,680 --> 00:56:25,640
+Well the other cause like um Eternal Spot Sunshine of the Spotless Mind is another one where he is extremely good um and it's a very, very good science fiction movie.
+
+878
+00:56:25,800 --> 00:56:26,600
+Have you both seen that?
+
+879
+00:56:26,760 --> 00:56:27,720
+I assume you have.
+
+880
+00:56:27,660 --> 00:56:28,140
+Yes.
+
+881
+00:56:28,300 --> 00:56:28,700
+Yes.
+
+882
+00:56:28,940 --> 00:56:33,020
+I can't believe we have wasted this discussion on a pick when we could've done a whole episode, John.
+
+883
+00:56:33,500 --> 00:56:35,100
+I mean, it's not too late, Liz.
+
+884
+00:56:35,180 --> 00:56:37,260
+We could we could do a whole episode on it.
+
+885
+00:56:37,240 --> 00:56:39,000
+Uh I'll endeavour to forget it.
+
+886
+00:56:39,080 --> 00:56:40,680
+If I just hit my head enough times.
+
+887
+00:56:41,000 --> 00:56:50,200
+What I'm gonna do though is I'm now I'm gonna like go through my potential film picks or whatever it was gonna make us do, and also go, Ooh, I can't assume that they've all seen this one.
+
+888
+00:56:50,360 --> 00:56:51,800
+Maybe I should check.
+
+889
+00:56:51,800 --> 00:56:54,040
+We're gonna do the Jugger movie, right?
+
+890
+00:56:55,800 --> 00:57:00,920
+I think the Jugger movie should be like a bonus episode.
+
+891
+00:57:01,240 --> 00:57:04,040
+What for like a bonus bonus episode?
+
+892
+00:57:04,360 --> 00:57:05,000
+Yeah.
+
+893
+00:57:05,240 --> 00:57:08,600
+Like a you can really skip this one if you would like episode.
+
+894
+00:57:08,920 --> 00:57:15,320
+But no, I mean I have a massive soft spot for movies that have an idea and implement it well.
+
+895
+00:57:15,559 --> 00:57:20,760
+and don't overstay their welcome and the Truman Show is definitely an example of of that.
+
+896
+00:57:20,920 --> 00:57:23,400
+It feels like a well-executed short story.
+
+897
+00:57:23,400 --> 00:57:29,880
+And I think that's where science fiction cinema is it as is at its best, is when it feels like a short story.
+
+898
+00:57:30,119 --> 00:57:33,960
+Yeah, nowadays as a strong risk they would have turned it into like uh
+
+899
+00:57:34,359 --> 00:57:42,359
+A multiple season mini sh mini series show and you'd like spend the whole first series waiting for tr the like light to drop on Truman.
+
+900
+00:57:42,100 --> 00:57:52,260
+Yeah, you can imagine the version of this film where it's a bit like the good place and the end of season one is the reveal that he is you know, he has finally realized and it's a four-season thing.
+
+901
+00:57:52,059 --> 00:57:54,700
+Yeah, it'd be like surf the surf Dracula thing, right?
+
+902
+00:57:54,779 --> 00:57:54,940
+Yeah.
+
+903
+00:57:55,180 --> 00:57:56,299
+I'm not saying I couldn't.
+
+904
+00:57:56,380 --> 00:57:59,660
+Like I'm not saying uh but yeah, I I dunno, I quite like it.
+
+905
+00:57:59,900 --> 00:58:01,819
+Hundred and hundred odd minutes.
+
+906
+00:58:02,059 --> 00:58:02,779
+Perfect.
+
+907
+00:58:03,500 --> 00:58:04,940
+I I also
+
+908
+00:58:05,720 --> 00:58:12,760
+It's fascinating that you're making this argument for movies when we have the exact reverse argument for books all of the time.
+
+909
+00:58:13,000 --> 00:58:18,839
+Where I'm like, a book should say what it needs to say and then get out of the way and you're like series, they're the best.
+
+910
+00:58:19,240 --> 00:58:21,400
+But series are made of discrete books.
+
+911
+00:58:21,640 --> 00:58:24,680
+And apparently the wicked series is made of discrete films.
+
+912
+00:58:25,080 --> 00:58:29,000
+It's made of discrete movies in the same way that Lord of the Rings is made of discrete books.
+
+913
+00:58:29,080 --> 00:58:31,800
+If you carve it up later, it's not quite as good.
+
+914
+00:58:32,020 --> 00:58:33,780
+Lots of series are like that though.
+
+915
+00:58:34,099 --> 00:58:38,980
+I have definitely complained about many, many books being too long.
+
+916
+00:58:39,140 --> 00:58:39,780
+Yeah, but
+
+917
+00:58:39,880 --> 00:58:40,440
+It's not shown.
+
+918
+00:58:40,680 --> 00:58:42,600
+Well, I think John has complained about books being too long.
+
+919
+00:58:42,680 --> 00:58:47,880
+But I think I do take John's point that like a good serialized thing is different.
+
+920
+00:58:47,859 --> 00:58:59,380
+A set of good serialized novels is different from one long novel which has been chopped up, or even novels which have been dragged out too long individually as parts of a series, even if they might make a satisfying series.
+
+921
+00:58:49,560 --> 00:58:49,640
+It
+
+922
+00:58:59,320 --> 00:59:03,160
+We may have gone slightly astray from the Truman show.
+
+923
+00:59:03,400 --> 00:59:05,400
+And that was the Odd Thought Podcast.
+
+924
+00:59:05,480 --> 00:59:06,680
+And it's goodbye for me.
+
+925
+00:59:06,920 --> 00:59:08,120
+It's goodbye from me.
+
+926
+00:59:08,280 --> 00:59:09,880
+And it's goodbye from me.
+
+927
+00:59:30,660 --> 00:59:33,140
+I'm trying to look up the etymology of the word mathmo
+
+928
+00:59:33,340 --> 00:59:37,580
+uh because I'm uh good at paying attention to our award-winning podcast.
+
+929
+00:59:37,740 --> 00:59:41,660
+Uh and there's a page from 2003 that mentions Math Mose.
+
+930
+00:59:42,040 --> 00:59:43,960
+Uh and that page is mathmo.
+
+931
+00:59:44,520 --> 00:59:45,080
+org.
+
+932
+00:59:45,320 --> 00:59:48,840
+Um I mean they're absolutely mathmos at the turn of the century.
+
+933
+00:59:49,000 --> 00:59:52,200
+So they absolutely it they weren't in the eighties, so
+
+934
+00:59:52,540 --> 00:59:53,340
+Sometime between then.
+
+935
+00:59:53,660 --> 00:59:59,980
+So if we've got anyone who was at Cambridge between 1980 and 2000, please let us know whether you remember the word mathmo.
+
+936
+01:00:00,240 --> 01:00:02,720
+Mm, nineteen eighty-six I left, yeah.
+
+937
+01:00:02,880 --> 01:00:07,840
+'Cause as we d as we discussed last week, we probably have quite a few listeners who were there between in the early eighties.
+
+938
+01:00:08,320 --> 01:00:08,560
+Yes.
+
+939
+01:00:08,720 --> 01:00:12,880
+And if you know of any Math Mos who are also famous Belgians, obviously.
+
+940
+01:00:13,120 --> 01:00:14,880
+Uh oh, like Simon Stevin.
+
+941
+01:00:15,360 --> 01:00:27,600
+Okay, so this might be last time I was in Bruges In Bruges Um I found myself drinking beer in a bar with a number of Belgians and where we fell to discussing famous Belgians.
+
+942
+01:00:27,820 --> 01:00:32,940
+And he was and and the person I was chatting to was like, but there's Simon Stevin and we went, Who?
+
+943
+01:00:33,180 --> 01:00:35,500
+And he was like, Well this is Simon Stevin Platz.
+
+944
+01:00:35,740 --> 01:00:37,580
+He is very famous and we went, Okay.
+
+945
+01:00:37,980 --> 01:00:41,420
+Um so and he said, Yes, he's a famous mathematician.
+
+946
+01:00:41,240 --> 01:00:51,480
+So Simon Stevin is a famous Belgian mathmo for certain values of famous which do not include any of us having heard of him.
+
+947
+01:00:51,840 --> 01:00:57,280
+The theme music for this episode was Fanfare for Space by Kevin McLeod and Compatech.
+
+948
+01:00:57,440 --> 01:01:00,480
+com, used under a Creative Commons Attribution 4.
+
+949
+01:01:00,720 --> 01:01:01,520
+0 license.
+
+950
+01:01:01,840 --> 01:01:03,840
+This podcast will end at the beep.
+
+951
+01:01:04,320 --> 01:01:04,880
+Beep.
+
