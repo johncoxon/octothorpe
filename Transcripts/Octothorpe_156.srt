@@ -1,0 +1,3404 @@
+1
+00:00:00,001 --> 00:00:02,080
+Hello listeners, it's John here.
+
+2
+00:00:02,080 --> 00:00:12,800
+Just to let you know that last year we recused ourselves from Hugo Award consideration, but this year we are unrecused, so we are eligible for your nomination, as are a lot of other fine fan casts.
+
+3
+00:00:12,800 --> 00:00:14,960
+On with the show!
+
+4
+00:00:26,240 --> 00:00:35,840
+Hello everybody and welcome to the very 156th episode of Octothorpe.
+
+5
+00:00:35,640 --> 00:00:47,880
+A podcast for science fiction and science fiction fandom, which is realizing that settlers are encroaching on its lands and repelling them using magic.
+
+6
+00:00:47,720 --> 00:00:51,960
+On the 26th of March 2026, I'm John Coxon.
+
+7
+00:00:51,960 --> 00:00:54,920
+I'm Alison Scott and I'm Liz Batty.
+
+8
+00:00:54,920 --> 00:00:57,800
+We have some letters of comment.
+
+9
+00:00:57,800 --> 00:01:00,040
+Clarification corner, uh
+
+10
+00:01:00,460 --> 00:01:09,180
+A few people, Alexandra Lanez and Ming among them, wrote in to say uh that they thought I said Robocop World Championship.
+
+11
+00:01:08,939 --> 00:01:16,860
+I did in fact say Robo Cup World Championship, but I can understand why you'd think that maybe the RoboCop World Championship would be a
+
+12
+00:01:17,260 --> 00:01:24,540
+Bit more exciting I'm sorry for misleading you into thinking that was a thing they did in Nuremberg, but no it is Robocop
+
+13
+00:01:25,060 --> 00:01:26,820
+I don't know what Robocop is.
+
+14
+00:01:26,820 --> 00:01:29,380
+I assume it's a cup for robots.
+
+15
+00:01:29,380 --> 00:01:32,740
+Like Robot Wars, but more international?
+
+16
+00:01:32,740 --> 00:01:39,860
+Okay, I have googled Robocop and actually it's an annual international robotics competition.
+
+17
+00:01:39,600 --> 00:01:48,159
+The aim of the competition is to promote robotics and AI research by offering a publicly appealable but formidable challenge and wait till I tell you what the challenge is.
+
+18
+00:01:48,160 --> 00:01:58,320
+By the middle of the 21st century, a team of fully autonomous humanoid robot soccer players shall win a soccer game against the winner of the most recent World Cup.
+
+19
+00:01:58,060 --> 00:01:59,180
+Good lord.
+
+20
+00:01:59,180 --> 00:02:06,300
+It also says complying with the official rules of FIFA, so it's not like the robots are allowed to just kick them all in the shins or very hard or anything.
+
+21
+00:02:08,220 --> 00:02:10,380
+Are they allowed lasers?
+
+22
+00:02:10,020 --> 00:02:18,739
+No, uh well I no, no unless there is simultaneously a project to change the rules of FIFA to allow lasers by the mid twenty fifties.
+
+23
+00:02:18,640 --> 00:02:21,439
+Be fair, it's very specifically worded.
+
+24
+00:02:21,439 --> 00:02:30,000
+So if you have a sufficiently large brown paper envelope of cash, you could probably get the rules changed temporarily in order to make that happen.
+
+25
+00:02:30,000 --> 00:02:32,319
+Like if the robots can bribe an official
+
+26
+00:02:32,700 --> 00:02:35,340
+There's a lot of routes to victory here, is all I'm saying.
+
+27
+00:02:35,340 --> 00:02:39,020
+And if you're looking for somebody bribable, you couldn't do better than FIFA.
+
+28
+00:02:39,020 --> 00:02:40,220
+Exactly, right?
+
+29
+00:02:40,220 --> 00:02:45,019
+Yeah, I think I do think that if the robots basically
+
+30
+00:02:45,520 --> 00:02:47,680
+decide what is our best way to reach this goal.
+
+31
+00:02:47,680 --> 00:02:50,000
+Aha, it is to bribe FIFA.
+
+32
+00:02:50,000 --> 00:02:55,120
+Then they will have become really won the challenge in spirit already.
+
+33
+00:02:55,120 --> 00:02:57,840
+So so this is like the cheering chess for football.
+
+34
+00:02:57,840 --> 00:03:06,400
+Well, I I think you're not supposed to really be so interested in the soccer as much as this is like a challenge uh that they feel
+
+35
+00:03:06,460 --> 00:03:12,460
+Feel if they give you a challenge then you might feel it's a bit more excited than just like we're gonna make some smart robots.
+
+36
+00:03:12,540 --> 00:03:17,580
+Neil Asher, I don't always love his books, but I did like in one of his early books, he he
+
+37
+00:03:17,940 --> 00:03:27,620
+describes the first robot to be declared sentient and they basically they a robot passes the Turing test so they slightly tweak the Turing test and make it do it again.
+
+38
+00:03:27,440 --> 00:03:35,760
+And they finally realize the robot has become sentient when it politely declines to take the revised test on the grounds it doesn't feel it has anything to prove.
+
+39
+00:03:35,640 --> 00:03:40,760
+And I thought that was a very wonderful way of marking the true advent of intelligence.
+
+40
+00:03:40,760 --> 00:03:43,159
+Yeah, I tried that with my O levels, but they really weren't
+
+41
+00:03:46,840 --> 00:03:47,720
+Okay.
+
+42
+00:03:47,720 --> 00:03:51,159
+If your robot has no hands, can it commit a handball?
+
+43
+00:03:51,480 --> 00:03:53,400
+Ooh, interesting question.
+
+44
+00:03:53,400 --> 00:03:55,959
+F f footballers, right in.
+
+45
+00:03:55,959 --> 00:03:58,360
+We heard from Ed Morland.
+
+46
+00:03:58,080 --> 00:04:04,320
+Ed says games nominations currently stand as two board games, two TTRPGs and one video game.
+
+47
+00:04:04,320 --> 00:04:06,160
+We'll review the balance before they close.
+
+48
+00:04:06,160 --> 00:04:08,080
+Ed, you're doing God's work.
+
+49
+00:04:08,080 --> 00:04:10,160
+I haven't actually decided what I'm putting in.
+
+50
+00:04:10,160 --> 00:04:10,480
+I have
+
+51
+00:04:10,660 --> 00:04:18,100
+As an update to last episode, played uh Vantage because Neil Harrison texted me from Traveling Man, being like, I heard you talking about this and it seems intriguing.
+
+52
+00:04:18,100 --> 00:04:20,260
+Will you play it with me if I impulse by it right now?
+
+53
+00:04:20,260 --> 00:04:22,260
+And I text back saying sure.
+
+54
+00:04:21,940 --> 00:04:23,220
+Um and then we played it.
+
+55
+00:04:23,220 --> 00:04:24,180
+It is good.
+
+56
+00:04:24,180 --> 00:04:28,820
+I have thoughts about this which we might get into later, but um but yes, I enjoyed it.
+
+57
+00:04:28,820 --> 00:04:31,780
+Um so that might go on my ballot and we've discussed games previously.
+
+58
+00:04:31,780 --> 00:04:32,340
+But Ed
+
+59
+00:04:32,840 --> 00:04:34,040
+Good to see.
+
+60
+00:04:34,040 --> 00:04:38,600
+Oh, and we should note that nominations close soon, listeners.
+
+61
+00:04:38,600 --> 00:04:43,000
+I think w i they will close as you listen to this before the next episode.
+
+62
+00:04:43,000 --> 00:04:47,560
+So if you've not nominated yet, get your nominating skate on.
+
+63
+00:04:46,879 --> 00:04:48,080
+Ooh, that means me.
+
+64
+00:04:48,080 --> 00:04:52,400
+Yes, you probably have two days to nominate if you're listening to this episode right after it came out.
+
+65
+00:04:52,400 --> 00:04:55,759
+So you should probably stop listening to this episode and go and nominate and then come back.
+
+66
+00:04:55,759 --> 00:04:56,240
+Yes.
+
+67
+00:04:56,240 --> 00:04:59,280
+And remember to nominate board games and TTRPGs.
+
+68
+00:04:59,280 --> 00:05:01,599
+Okay, I'll be back in ten minutes.
+
+69
+00:05:01,599 --> 00:05:02,960
+Dog you Alison.
+
+70
+00:05:02,960 --> 00:05:12,960
+We heard from Juan, also known as Rainbow Warrior, or who wrote to us and said, I thought Prometheus was going to look at the story of the space jockey we see an alien.
+
+71
+00:05:12,960 --> 00:05:14,720
+Uh no, it does not do that
+
+72
+00:05:14,600 --> 00:05:23,080
+And he also says that he hasn't seen the third and fourth aliens films, but Paul McGann Paul McGann was in the film and was not
+
+73
+00:05:23,420 --> 00:05:24,620
+the problem with that film.
+
+74
+00:05:24,860 --> 00:05:29,660
+And I'm going to say I recently saw with Nell and I and Paul McGann was very much not the problem with that film either.
+
+75
+00:05:29,660 --> 00:05:30,300
+Oh sorry.
+
+76
+00:05:30,780 --> 00:05:33,340
+Paul Paul McGann is my favourite doctor.
+
+77
+00:05:33,139 --> 00:05:34,900
+Ooh, that's a take.
+
+78
+00:05:34,900 --> 00:05:36,020
+Read us, write it.
+
+79
+00:05:36,100 --> 00:05:38,340
+I mean we don't really need to say that, do we?
+
+80
+00:05:38,340 --> 00:05:47,540
+The first the first Doctor Who I ever experienced was the radio play of Douglas Adams's Shadder, and Paul McGann in that is amazing, and he has always been therefore my
+
+81
+00:05:48,060 --> 00:05:48,940
+favourite doctor.
+
+82
+00:05:48,940 --> 00:05:56,540
+But also like if you look at the cast and the director of Alien 3, I I mean there's a lot of really because Charles Dance is in it as well.
+
+83
+00:05:56,540 --> 00:05:57,020
+Like
+
+84
+00:05:56,960 --> 00:06:02,560
+It's got a good cast and it's David Fincher's first directed movie and he is a good director.
+
+85
+00:06:02,560 --> 00:06:08,319
+So like there's a lot of promising ingredients in there, but I haven't watched it yet, so I'll report back.
+
+86
+00:06:07,900 --> 00:06:15,259
+Neil Ottenstein also asked, uh basically said, let us know when you've watched Alien Earth and uh Neil, it is on the list.
+
+87
+00:06:15,340 --> 00:06:16,860
+We also heard from
+
+88
+00:06:17,360 --> 00:06:18,640
+Paul Weimer.
+
+89
+00:06:18,640 --> 00:06:26,560
+Paul, I think you are into prolific this episode, although possibly just because we didn't leave as many comment hooks for Tammy.
+
+90
+00:06:26,440 --> 00:06:29,000
+Uh Paul says he's still thinking about Brisbane vs.
+
+91
+00:06:29,000 --> 00:06:30,840
+Nuremberg for the World Combid.
+
+92
+00:06:30,840 --> 00:06:33,560
+I see some spirited debate on that on Blue Sky.
+
+93
+00:06:33,720 --> 00:06:37,560
+Which is interesting because I didn't see any debate about it on Blue Sky.
+
+94
+00:06:37,000 --> 00:06:42,920
+So obviously I am not plugged in enough to genre circles on blue sky yet and we'll have to rectify that.
+
+95
+00:06:42,920 --> 00:06:51,000
+He also says of course if this crisis continues and continues flights to Australia or Europe will be out of reach, which yeah, and in that case we've got bigger problems than where the Worldcon is
+
+96
+00:06:51,120 --> 00:06:53,280
+So That's fair.
+
+97
+00:06:53,280 --> 00:07:01,039
+But uh I mean if we if that is the case then Nuremberg would at least probably be able to get enough people
+
+98
+00:07:01,360 --> 00:07:06,720
+from short distances to make it work, Brisbane that I think would be more difficult.
+
+99
+00:07:06,800 --> 00:07:07,440
+Yes.
+
+100
+00:07:07,440 --> 00:07:11,680
+I will say I don't know whether I don't know whether Nuremberg or Brisbane will win.
+
+101
+00:07:11,560 --> 00:07:21,800
+Um and I think either way it will be good to have a Worldcon back in the Antipodes or a Worldcon uh back in mainland Europe because it has been too long since both of those things happened
+
+102
+00:07:21,900 --> 00:07:33,259
+But my perception is that Brisbane has really stepped up their game since Nuremberg came out of the woodwork, and so I think Nuremberg's bid will result in a better Worldcon no matter which Worldcon wins, and I think that is good.
+
+103
+00:07:32,979 --> 00:07:36,340
+So I'm taking very much the glass half full approach here.
+
+104
+00:07:36,419 --> 00:07:46,340
+I was chatting in the virtual bar to Jovan to Jo Van, who's one of the co-chairs of Brisbane, and she was like Actually, you know, I can't talk about all the reasons why, but we didn't
+
+105
+00:07:46,300 --> 00:07:49,340
+step up our game in response to Nuremberg.
+
+106
+00:07:49,340 --> 00:07:51,500
+We were in the process of stepping up our game anyway.
+
+107
+00:07:51,500 --> 00:07:55,419
+We just hadn't stepped it up yet, which is, you know, a take.
+
+108
+00:07:55,419 --> 00:07:57,500
+So I just report this.
+
+109
+00:07:57,240 --> 00:07:59,240
+It might well, I mean, and that's the thing, right?
+
+110
+00:07:59,240 --> 00:08:00,680
+That might well be true.
+
+111
+00:08:00,680 --> 00:08:08,440
+Um, from the outside it very much, the timing makes it look like one led to the other, but it may well be that they were already
+
+112
+00:08:08,560 --> 00:08:10,720
+kind of on it like a car bonnet as it were.
+
+113
+00:08:10,720 --> 00:08:15,840
+Um but it's pleasing that both WorldCons are kind of beginning Worldcon bids are beginning to get their ducks in a row.
+
+114
+00:08:15,840 --> 00:08:21,600
+And I really hope that whichever one doesn't win bids again, because I I do think it would be good to have more
+
+115
+00:08:21,840 --> 00:08:28,080
+I I am I am firm in my opinion that there should be worldcons in mainland Europe and there should be worldcons in Australia and New Zealand.
+
+116
+00:08:28,080 --> 00:08:34,320
+I would love to go to a Worldcon in Germany, um, which we might talk about a little bit next episode.
+
+117
+00:08:34,400 --> 00:08:35,520
+Spoilers.
+
+118
+00:08:35,520 --> 00:08:39,120
+And I would love to go to a Worldcon in Australia again.
+
+119
+00:08:39,120 --> 00:08:39,599
+Very much.
+
+120
+00:08:39,599 --> 00:08:42,800
+I mean I haven't been to a Worldcon in Australia, but I'd love for there to be a Worldcon in Australia.
+
+121
+00:08:42,800 --> 00:08:46,960
+It has been too long for both of those countries since they held a Worcon.
+
+122
+00:08:46,100 --> 00:08:51,380
+I mean I I've got something else, I just wanna know why it spoilers that we might talk about Germany next time.
+
+123
+00:08:51,380 --> 00:08:54,019
+Because it spoils us done Liz, Liz.
+
+124
+00:08:54,120 --> 00:08:56,440
+Oh I forgot we had a Joe and Sunless.
+
+125
+00:08:56,440 --> 00:08:57,560
+Okay, that makes sense.
+
+126
+00:08:57,640 --> 00:08:59,000
+Or do we?
+
+127
+00:08:59,000 --> 00:09:02,440
+I think the other the other possibly unheralded
+
+128
+00:09:02,820 --> 00:09:13,540
+bonus of a contested Worldcom bid is that more people are gonna vote, which means more people are gonna buy supporting memberships really early for either Nuremberg or Brisbane and that's gotta help them.
+
+129
+00:09:13,540 --> 00:09:16,020
+Oh yeah, yep, yep, yep, yep, a hundred percent.
+
+130
+00:09:15,660 --> 00:09:18,780
+Especially if we all enthusiastically buy them and then can't go.
+
+131
+00:09:18,780 --> 00:09:19,420
+Yes.
+
+132
+00:09:19,420 --> 00:09:30,460
+I mean God knows I hope that things have um things have calmed down by the time the WorldCons are happening, but Well, honestly if they haven't, the Worldcon's gonna be the least of our concerns, so you know.
+
+133
+00:09:30,360 --> 00:09:31,320
+I did you know.
+
+134
+00:09:31,960 --> 00:09:39,560
+Frederick Coulter wrote to say he recently arrived in England and is on a train to Cardiff and is heading down to Winchester and is then going to walk
+
+135
+00:09:39,740 --> 00:09:41,580
+the pilgrim's way to Canterbury.
+
+136
+00:09:41,580 --> 00:09:44,540
+I am hugely admire all these people who go long distance walking.
+
+137
+00:09:44,540 --> 00:09:45,420
+I'm not about to do it.
+
+138
+00:09:45,420 --> 00:09:47,580
+You know we have good public transport in this country.
+
+139
+00:09:47,580 --> 00:09:50,620
+Um I have planned to continue to Dover.
+
+140
+00:09:50,339 --> 00:09:51,860
+And then taking the ferry to France.
+
+141
+00:09:51,860 --> 00:09:57,620
+But your discussions of Eastercon meant if things go well I might be able to go to the convention rather than walking on to Dover.
+
+142
+00:09:57,620 --> 00:09:58,819
+That would be good.
+
+143
+00:09:58,560 --> 00:10:03,200
+I would thoroughly recommend, Frederick, that you come to Eastercon rather than walking to Dover.
+
+144
+00:10:03,200 --> 00:10:09,360
+And in fact, if anyone's considering walking to Dover or coming to Eastercon, go with coming to Eastercon, it will be a lot more fun.
+
+145
+00:10:08,780 --> 00:10:16,140
+Uh Hispania and I have walked the first sort of twenty kilometres, twenty-five kilometres or so of Hadrian's Wall, and I did have an immensely good time doing that.
+
+146
+00:10:16,140 --> 00:10:22,460
+Um but I will say Dover will be there next time and the East Con is much more transient.
+
+147
+00:10:22,480 --> 00:10:35,680
+But King Charles the Third's new coastal walk, you can walk round the entire of the coast of England now, and Wales has uh explicit trail for that, and Scotland has right to Rome, so it is now
+
+148
+00:10:35,839 --> 00:10:38,959
+possible to walk the entire coast of of Great Britain.
+
+149
+00:10:38,959 --> 00:10:40,240
+It'll take you a while.
+
+150
+00:10:40,240 --> 00:10:48,480
+I mean it it's something like 9,000 miles or it would take if you did it every day, doing fifteen miles a day, it would take you two years or something.
+
+151
+00:10:48,160 --> 00:10:51,120
+But it's really cool that you could do it if you wanted to.
+
+152
+00:10:51,120 --> 00:11:00,880
+Yes, so I think you're gonna find, especially in Scotland, I mean you'd have to camp because the thing about very established pilgrimages like in Santiago, yeah, is that there's
+
+153
+00:11:01,040 --> 00:11:04,160
+Places to stay every ten miles all the way long.
+
+154
+00:11:04,160 --> 00:11:09,519
+And that is very much not the case for the coast of England, let alone the coast of Wales or Scotland.
+
+155
+00:11:09,519 --> 00:11:10,800
+Yes, fair.
+
+156
+00:11:10,660 --> 00:11:14,180
+But if anyone's planning to do some of the coastal walk, do do let us know.
+
+157
+00:11:14,180 --> 00:11:18,820
+That sounds very good because this is something that people have been trying to make happen for a very long time.
+
+158
+00:11:18,820 --> 00:11:19,940
+So I'm very good.
+
+159
+00:11:23,740 --> 00:11:24,860
+It has taken that long.
+
+160
+00:11:24,860 --> 00:11:25,340
+Yeah, yeah, yeah.
+
+161
+00:11:29,420 --> 00:11:32,540
+I mean I d I I slightly exaggerate, but not much.
+
+162
+00:11:32,259 --> 00:11:40,899
+And also, it's got provision in the legislation for if the coast goes away, they there's provision in the thing to move the path back.
+
+163
+00:11:40,740 --> 00:11:41,780
+with the erosion.
+
+164
+00:11:41,780 --> 00:11:42,420
+It's really cool.
+
+165
+00:11:42,420 --> 00:11:43,540
+I highly recommend listeners.
+
+166
+00:11:43,540 --> 00:11:44,740
+I'll put some links in the show notes.
+
+167
+00:11:44,740 --> 00:11:45,940
+Completely off topic.
+
+168
+00:11:45,940 --> 00:11:46,900
+Um right.
+
+169
+00:11:46,900 --> 00:11:48,340
+Thanks for writing in
+
+170
+00:11:48,200 --> 00:11:49,160
+Frederick.
+
+171
+00:11:49,160 --> 00:11:49,800
+Yes.
+
+172
+00:11:49,800 --> 00:11:58,040
+Um, I wanted to talk about Easter Convenues, so we had a couple of people chatting about this on Facebook.
+
+173
+00:11:58,140 --> 00:12:08,460
+So firstly, Anj Rosin says that she's attending DiscordCon 2026 solely because they're using the old uh the Hinckley Hotel where we've had East Cons before, and she's going to report back.
+
+174
+00:12:08,460 --> 00:12:11,020
+Thank you very much, roaming reporter.
+
+175
+00:12:10,740 --> 00:12:16,340
+And please feel free to declare that you're an official correspondent of Octothope when you're talking to people.
+
+176
+00:12:16,340 --> 00:12:18,420
+Do you want me to send you an Octothope ribbon?
+
+177
+00:12:18,420 --> 00:12:18,980
+Oh yes.
+
+178
+00:12:18,980 --> 00:12:21,540
+If you need an Octothop ribbon, let us know.
+
+179
+00:12:21,160 --> 00:12:25,960
+Phil Dyson says that he thinks Alan Stroud is indeed planning to bid for 2030.
+
+180
+00:12:25,960 --> 00:12:28,760
+Uh and Phil uh basically said he
+
+181
+00:12:29,040 --> 00:12:38,480
+almost used Newcastle for 2022 um but it it wasn't as accessible as it needed to be so it was very nearly there but not quite and he basically says
+
+182
+00:12:38,660 --> 00:12:46,020
+He spent a lot of 2019 trying to open up the East Compool by sort of going around the country and and talking to venues all over.
+
+183
+00:12:46,020 --> 00:12:52,340
+Um and Farah said that for Telford they used a professional um location finder
+
+184
+00:12:52,620 --> 00:12:59,100
+And um they got three new possibles, two of which were out of price range and one of which was Telford.
+
+185
+00:12:59,100 --> 00:13:01,899
+Um so thank you for bringing in all three of you.
+
+186
+00:13:01,660 --> 00:13:03,900
+Anything else on those that sort of thing?
+
+187
+00:13:03,900 --> 00:13:08,780
+I mean we've discussed it before, so No, I'm just dying 'cause I'm gone at some point.
+
+188
+00:13:08,780 --> 00:13:11,740
+Uh we also heard from Renee.
+
+189
+00:13:11,740 --> 00:13:21,100
+Who s reminds us that uh you never have to re-bookmark the Hugo rec sheet as long as you don't mind an extra click because they all live in a master list, which is
+
+190
+00:13:21,259 --> 00:13:26,620
+regularly updated, uh which is on the Lady Business Dream with and we will link to it.
+
+191
+00:13:26,620 --> 00:13:29,740
+It does indeed contain all of the lists.
+
+192
+00:13:29,740 --> 00:13:32,940
+I think this is also quite handy because sometimes I'm like
+
+193
+00:13:33,259 --> 00:13:35,579
+Those were the nominees in 2017.
+
+194
+00:13:35,579 --> 00:13:42,620
+I wonder what else was eligible and you can go and check the Hugo spreadsheet for whatever year to see what was actually eligible.
+
+195
+00:13:42,620 --> 00:13:45,819
+So thank you, Renee, for letting us know about that.
+
+196
+00:13:45,620 --> 00:13:52,500
+Um they also say we should probably also consider building a one-pager and taking it around to game shops to introduce the awards to the community.
+
+197
+00:13:52,500 --> 00:13:57,540
+They probably don't even know board games count because these awards tend to default to video games.
+
+198
+00:13:57,540 --> 00:13:58,820
+Interesting
+
+199
+00:13:59,279 --> 00:14:10,480
+I would love to know if anyone has tried that or you know anyone who's done outreach to game shops about Worldcon, uh did they know about the Hugos, what do they think about the Hugos, that kind of thing.
+
+200
+00:14:10,160 --> 00:14:18,000
+No, it's a good thought and actually you can pitch articles to the UK Games Expo um souvenir book
+
+201
+00:14:18,300 --> 00:14:28,780
+Um and I wonder whether an article on the Hugo Award and the Nebula Award and suggesting people nominate board games, that would be a good way of hitting a lot of eyeballs.
+
+202
+00:14:28,780 --> 00:14:31,020
+For those who don't know, UK Games Expose the
+
+203
+00:14:31,180 --> 00:14:42,540
+I can't remember if it's the third or fourth biggest games convention in the world, but it's sort of fifty thousand members or thereabouts, which is wild because it used to fit in to a small Masonic hall near Birmingham.
+
+204
+00:14:41,980 --> 00:14:46,220
+And now they use the Hilton just for half of their open gaming.
+
+205
+00:14:46,220 --> 00:14:48,140
+Like, which is mad.
+
+206
+00:14:48,140 --> 00:14:50,060
+Uh let me tell you about Eastercon
+
+207
+00:14:50,180 --> 00:14:51,220
+Oh welcome.
+
+208
+00:14:51,220 --> 00:14:56,819
+Yeah, but we you know, we talk a bit you know, we talked about venues and how we don't really fit into any venues.
+
+209
+00:14:56,819 --> 00:15:02,100
+You know, maybe if we grew at the same rate as the UK Games Expo, we wouldn't have a problem.
+
+210
+00:15:02,000 --> 00:15:06,399
+So so the trick for growing at the same rate is to hold your convention in the same place.
+
+211
+00:15:14,360 --> 00:15:16,200
+Yeah, I'm just making jokes really.
+
+212
+00:15:16,200 --> 00:15:18,200
+But do we want to grow massively?
+
+213
+00:15:18,280 --> 00:15:18,920
+Don't know.
+
+214
+00:15:18,920 --> 00:15:19,960
+Probably not.
+
+215
+00:15:19,960 --> 00:15:21,320
+Um, alright.
+
+216
+00:15:21,320 --> 00:15:24,840
+And then Alison, do you want to do your wellness check?
+
+217
+00:15:24,640 --> 00:15:26,640
+We didn't hear this week from Christopher J.
+
+218
+00:15:26,640 --> 00:15:27,520
+Garcia.
+
+219
+00:15:27,520 --> 00:15:30,080
+Um, could somebody do a quick wellness check, please?
+
+220
+00:15:30,080 --> 00:15:31,280
+Hope you're alright, Chris.
+
+221
+00:15:31,280 --> 00:15:32,400
+Yeah, missing you.
+
+222
+00:15:32,400 --> 00:15:35,040
+I mean he's posted on Facebook, so I'm sure he's okay.
+
+223
+00:15:35,040 --> 00:15:36,160
+Hopefully.
+
+224
+00:15:41,640 --> 00:15:45,160
+Alison, I hear you've guffed.
+
+225
+00:15:46,360 --> 00:15:47,240
+Never gets old.
+
+226
+00:15:47,240 --> 00:15:48,680
+Oh god Yeah
+
+227
+00:15:49,000 --> 00:15:50,200
+It's a good one though.
+
+228
+00:15:50,200 --> 00:15:56,520
+I assume that when the Fan Fund was named, that was sort of where you where they were going.
+
+229
+00:15:57,860 --> 00:15:59,940
+That's one of the places they were going.
+
+230
+00:15:59,940 --> 00:16:00,340
+Yes.
+
+231
+00:16:00,340 --> 00:16:08,420
+So um the Going Under Fan Fund, the Gov has concluded for 2026 and we have a winner.
+
+232
+00:16:09,160 --> 00:16:14,520
+Faramendelson will be the Gulf delegate and we'll be going to Swoncon, which is the Australian DACCON.
+
+233
+00:16:14,520 --> 00:16:17,880
+It is Swoncon 50 in Perth and so
+
+234
+00:16:18,480 --> 00:16:23,600
+Farah has started a Facebook group from Perth to Perth to help with trip planning.
+
+235
+00:16:23,600 --> 00:16:26,800
+Um so go there if you're interested.
+
+236
+00:16:26,920 --> 00:16:28,680
+in for a scuff trip.
+
+237
+00:16:28,680 --> 00:16:33,399
+And commiserations to Misha who was the um second place candidate.
+
+238
+00:16:33,399 --> 00:16:35,880
+I hope Misha runs again in the future.
+
+239
+00:16:35,880 --> 00:16:37,000
+It's very exciting.
+
+240
+00:16:37,000 --> 00:16:39,880
+Uh it's 'cause it's very it's very short time frame, so I was a
+
+241
+00:16:40,140 --> 00:16:47,020
+you know, wondering if you'd get a good s slate of people basically, just because you have to decide and make the trip really pretty quickly.
+
+242
+00:16:47,020 --> 00:16:53,660
+Uh so, uh fingers crossed to Farah that all the trip planning is in progress, which I suspect it is
+
+243
+00:16:53,759 --> 00:16:55,279
+It's Farah.
+
+244
+00:16:55,279 --> 00:16:57,519
+They are an organized person.
+
+245
+00:16:57,519 --> 00:17:02,560
+So has Farah got any kind of people yet or that they're staying with?
+
+246
+00:17:02,560 --> 00:17:05,199
+Or oh wow, there's a lot on the Facebook.
+
+247
+00:17:05,199 --> 00:17:06,959
+There's a spreadsheet.
+
+248
+00:17:06,660 --> 00:17:12,100
+She's set a facebook a spreadsheet up for everyone to say where they are and I think She's actually very organized.
+
+249
+00:17:12,100 --> 00:17:12,500
+Yes.
+
+250
+00:17:12,500 --> 00:17:16,339
+I when I was saying I hope everything is well in hand, I know it is well in hand.
+
+251
+00:17:17,699 --> 00:17:19,699
+She's going for a month to slightly under a month.
+
+252
+00:17:19,699 --> 00:17:20,740
+Mm-hmm.
+
+253
+00:17:20,300 --> 00:17:23,100
+That's a good length of time to go, I think.
+
+254
+00:17:23,100 --> 00:17:23,580
+Yeah.
+
+255
+00:17:23,580 --> 00:17:27,820
+And and she's plan she's planning to work asynchronously, which is how she could do it.
+
+256
+00:17:27,820 --> 00:17:32,700
+And I'm like, Oh, you are going to be very tired, but I'm not gonna say that bit
+
+257
+00:17:32,560 --> 00:17:33,200
+Yes.
+
+258
+00:17:33,200 --> 00:17:45,360
+No, I when I went on TAF I was in the period between graduating and starting my PhD, so um I actually could have gone for like four months, but I I only went for a um I only went for about a month
+
+259
+00:17:45,360 --> 00:17:56,399
+And I still regret I got back and I was too jet lagged to attend a wedding that I was supposed to do to go to the day after I got back, uh and I had to send um Michael Spiller, who I don't think listens, used to come to EasterCons, but I haven't seen him for a while.
+
+260
+00:17:56,399 --> 00:17:58,159
+Uh Michael, if you're out there, right in.
+
+261
+00:17:58,159 --> 00:17:58,480
+Um
+
+262
+00:17:58,560 --> 00:18:01,760
+But uh but yeah, I had to be like, I'm really sorry by call.
+
+263
+00:18:01,760 --> 00:18:03,840
+Like I am just I cannot.
+
+264
+00:18:03,840 --> 00:18:05,120
+Um right.
+
+265
+00:18:05,120 --> 00:18:06,480
+TAF is ongoing.
+
+266
+00:18:06,480 --> 00:18:08,000
+I can't remember what LFF
+
+267
+00:18:07,960 --> 00:18:15,480
+We've put links in previous episodes, listeners, uh you can go back and uh review those if you'd like more details about those things.
+
+268
+00:18:15,480 --> 00:18:20,920
+Will you be able to vote in TAF at Eastercom or do you need to do it all through the website
+
+269
+00:18:20,740 --> 00:18:24,100
+You will be able to vote in TAF at EastCon.
+
+270
+00:18:24,100 --> 00:18:28,100
+I'm going to gently suggest that um it might be
+
+271
+00:18:28,540 --> 00:18:34,300
+Easier to vote in advance, um, but if you do not, then you can vote at Eastercon.
+
+272
+00:18:34,540 --> 00:18:38,620
+There will be a fanfun's table at Eastercon, you will be able to vote.
+
+273
+00:18:38,160 --> 00:18:46,400
+Yeah, just for people like me who might be a little bit forgetful and for instance forget to vote in the fan funds despite a lot of reminders, sometimes
+
+274
+00:18:46,640 --> 00:18:49,200
+Doing it in person on a table works quite well.
+
+275
+00:18:49,200 --> 00:18:53,920
+Oh we did get a hundred and one guff votes, which is plenty.
+
+276
+00:18:53,920 --> 00:18:57,920
+Yeah, but you probably need uh you should have got a hundred and two guff votes
+
+277
+00:18:57,980 --> 00:19:03,020
+Oh no Liz Liz they they probably should have got a hundred and three actually.
+
+278
+00:19:04,540 --> 00:19:10,220
+Okay, so anyone who's listening to this and going, Oh my god, I intended to vote in Guff
+
+279
+00:19:10,640 --> 00:19:12,800
+Um, I didn't vote in Guff.
+
+280
+00:19:12,800 --> 00:19:14,720
+Oh, I feel terrible now.
+
+281
+00:19:14,720 --> 00:19:17,840
+It is possible to just send Guff some money.
+
+282
+00:19:17,840 --> 00:19:22,240
+Um, and that would be very we very much appreciate that if you'd like to.
+
+283
+00:19:22,040 --> 00:19:32,680
+I know this isn't the point and it's not why I do it, but every time I forget to vote in a fan fund, I do remind myself that I do in general do quite a lot for the fan funds in sort of time in kind.
+
+284
+00:19:32,680 --> 00:19:35,640
+So I try not to feel too bad about it.
+
+285
+00:19:35,640 --> 00:19:36,120
+But yeah
+
+286
+00:19:36,480 --> 00:19:38,160
+You can just you can just send us money.
+
+287
+00:19:38,320 --> 00:19:43,840
+In fact a couple of people have sent us money and said, I forgot to vote and that's Yeah, but I'm not gonna do that unless I can get some tat.
+
+288
+00:19:43,840 --> 00:19:46,640
+How else will you get rid of your tat, Alison?
+
+289
+00:19:46,260 --> 00:19:54,660
+Well, we we're not getting rid of much of our Tatatistacon because although we're having an auction and there is th there's probably still time to get in touch with your fabulous auction items.
+
+290
+00:19:54,660 --> 00:19:57,059
+Um but we do w we'll have a catalogue in advance.
+
+291
+00:19:57,059 --> 00:19:58,419
+We aren't going to be kind of
+
+292
+00:19:58,540 --> 00:20:05,580
+um running a Tombola table or anything or or anything because we have we've had some kind of issues that have reduced our activity.
+
+293
+00:20:05,580 --> 00:20:08,940
+What we are going to be doing is having a ribbon amnesty.
+
+294
+00:20:08,740 --> 00:20:14,660
+So if you have uh l excess ribbons lying around, bring them to the Easter Cod.
+
+295
+00:20:14,660 --> 00:20:18,820
+We are also having a ribbon lucky lucky dip where you can give us I can't remember what we've decided.
+
+296
+00:20:18,820 --> 00:20:20,180
+It's something like a pound
+
+297
+00:20:20,160 --> 00:20:28,640
+A pound for a dive into the ribbon lucky dip or a fiver gets you six dips, and you too can get random ribbons.
+
+298
+00:20:28,540 --> 00:20:29,420
+Yes.
+
+299
+00:20:29,420 --> 00:20:32,460
+So come one come all to get your ribbons.
+
+300
+00:20:32,460 --> 00:20:40,140
+I clash with the FanFunds auction, which is slightly annoying, but after my panel item I'm gonna run over and auction a special item.
+
+301
+00:20:39,660 --> 00:20:42,300
+uh which isn't in the catalogue and is funny.
+
+302
+00:20:42,300 --> 00:20:46,140
+Oh no there's gonna be a thing in the catalogue saying John's special item.
+
+303
+00:20:46,140 --> 00:20:47,580
+It is gonna be in the catalogue.
+
+304
+00:20:47,580 --> 00:20:49,580
+But we don't know when we'll get to it so you know.
+
+305
+00:20:49,900 --> 00:20:51,820
+John's Mystery Package
+
+306
+00:20:51,760 --> 00:20:58,240
+John, since I'm not gonna be at the Fanfon's auction, am I allowed a special preview of your mystery uh package?
+
+307
+00:20:58,240 --> 00:20:58,960
+Yes.
+
+308
+00:20:58,960 --> 00:21:03,520
+I will message you what it is and you can confirm to Alison that it is indeed great.
+
+309
+00:21:03,000 --> 00:21:03,560
+Okay.
+
+310
+00:21:03,560 --> 00:21:04,920
+Oh Alison doesn't know.
+
+311
+00:21:04,920 --> 00:21:05,960
+Oh, I see.
+
+312
+00:21:05,960 --> 00:21:07,160
+No, no, no, no.
+
+313
+00:21:07,160 --> 00:21:08,040
+It's a secret.
+
+314
+00:21:08,040 --> 00:21:09,400
+Oh, it's that secret.
+
+315
+00:21:09,400 --> 00:21:10,040
+Oh.
+
+316
+00:21:10,040 --> 00:21:10,840
+Mmm.
+
+317
+00:21:10,840 --> 00:21:11,800
+Alright.
+
+318
+00:21:11,720 --> 00:21:14,360
+I know, and Bridget knows.
+
+319
+00:21:14,760 --> 00:21:18,760
+I'm glad at least one other person has validated this.
+
+320
+00:21:18,760 --> 00:21:20,760
+It was Bridget's idea.
+
+321
+00:21:20,300 --> 00:21:24,780
+Well, this has just up the suspense of the fanfun's auction quite considerably, I feel.
+
+322
+00:21:24,780 --> 00:21:25,260
+Yes.
+
+323
+00:21:25,260 --> 00:21:28,300
+I have messaged Liz on Discord, and she has made a face.
+
+324
+00:21:28,300 --> 00:21:29,020
+I've ready yet
+
+325
+00:21:30,040 --> 00:21:33,560
+Oh you did make a face but it might have been an incidental face.
+
+326
+00:21:34,440 --> 00:21:36,440
+No now I'm making a different face.
+
+327
+00:21:36,440 --> 00:21:37,800
+That's quite good.
+
+328
+00:21:39,340 --> 00:21:43,260
+I have Liz's I have I have confirmation from Liz that it is indeed funny.
+
+329
+00:21:43,260 --> 00:21:49,820
+Yeah, well it it I don't know how wide of an appeal it is, but I think it is quite funny.
+
+330
+00:21:55,140 --> 00:21:58,820
+So uh since our last episode, uh
+
+331
+00:21:59,060 --> 00:22:07,460
+Suffer have released, which the Science Fiction and Fantasy Writers Association, I feel I should say that before doing random acronyms, have announced their list of Nebula
+
+332
+00:22:08,140 --> 00:22:15,740
+finalists uh which look quite interesting to me um and anyone who is still really looking for
+
+333
+00:22:16,140 --> 00:22:19,420
+things that will inspire them for Hugo nominations.
+
+334
+00:22:19,420 --> 00:22:20,860
+I think it's worth looking at.
+
+335
+00:22:21,180 --> 00:22:25,980
+They have a number of, you know, interesting looking uh nominations for short fiction.
+
+336
+00:22:25,919 --> 00:22:35,840
+um which I will not opine on due to the whole I am betting the Hugo nominations thing, but it's worth looking and seeing if you think, okay, that looks interesting, I will dig into that.
+
+337
+00:22:35,840 --> 00:22:38,240
+But what I found quite interesting
+
+338
+00:22:38,860 --> 00:22:52,540
+Um and it was mentioned on file seven seventy as well, is that a number of the finalists have a little asterisk which says provisional nomination awaiting acceptance and response on LLM use, and this is because SUFWA have a new uh
+
+339
+00:22:53,019 --> 00:23:00,940
+Eligibility rule for the nebula's which says works that are written either wholly or partially by generative large language model tools are not eligible.
+
+340
+00:23:00,940 --> 00:23:02,460
+Works that use them must
+
+341
+00:23:02,560 --> 00:23:08,800
+at any point during the writing protest must disclose this upon acceptance of the nomination, and those works will be disqualified.
+
+342
+00:23:08,800 --> 00:23:17,360
+So, you know, fair enough, the idea is that anything without an asterisk, when they accepted the nomination, they have said yep, no LMs were used.
+
+343
+00:23:16,640 --> 00:23:30,000
+But notably all all of the nominees for Outstanding Dramatic Presentation have a little asterisk saying they are a provisional nomination accepting waiting acceptance and response on LLMUs.
+
+344
+00:23:29,500 --> 00:23:39,820
+And so Mike Lyer of File 77T um went and wrote to Suffur to say what is the deadline for these nominees to be confirmed.
+
+345
+00:23:39,940 --> 00:23:43,380
+And what happens if they do not comply?
+
+346
+00:23:43,380 --> 00:23:48,580
+So either they did use LLMs or they just never reply to say whether they did or not.
+
+347
+00:23:48,200 --> 00:23:55,960
+I find it interesting, MurderBot Season 1, there's no asterisk, which implies that they have positively accepted their nomination.
+
+348
+00:23:55,960 --> 00:23:57,399
+There's absolutely an asterisk.
+
+349
+00:23:57,559 --> 00:23:59,240
+No, there isn't, not on mine.
+
+350
+00:23:59,240 --> 00:24:01,880
+Ah, there is there is on the original one
+
+351
+00:24:02,140 --> 00:24:04,140
+um which is looking at some graphics.
+
+352
+00:24:04,140 --> 00:24:05,740
+So that implies okay.
+
+353
+00:24:05,740 --> 00:24:10,860
+So that implies that the version I'm looking at, which was the initial announcement, had an asterisk next to MurderBot
+
+354
+00:24:10,960 --> 00:24:16,400
+but they must have subsequently confirmed that no LLMs were used in the writing.
+
+355
+00:24:16,480 --> 00:24:16,880
+Yes.
+
+356
+00:24:16,880 --> 00:24:22,560
+No, I'm looking at the Nebula webpage and Murderbot is the only one that doesn't, but I find it interesting.
+
+357
+00:24:22,560 --> 00:24:24,880
+That means that the Murderbot team have
+
+358
+00:24:25,419 --> 00:24:36,220
+said yes please which is nice that must they must have gotten in touch successfully where is because I'm looking at the nebula page but on news so maybe it's on the home
+
+359
+00:24:36,500 --> 00:24:41,700
+They call them the nebula's for 2025 despite the fact that they're rewarded in 2026.
+
+360
+00:24:41,700 --> 00:24:43,540
+They do it the other way around to the Hugo.
+
+361
+00:24:43,540 --> 00:24:46,500
+We've discussed that before, listeners, but just in case.
+
+362
+00:24:46,260 --> 00:24:48,340
+you're new or have forgotten like me.
+
+363
+00:24:48,340 --> 00:24:51,539
+Oh yeah, so that means that Murderb so Apple's got back to them.
+
+364
+00:24:51,539 --> 00:24:54,260
+Yes, but not for Pluribus, only for Murderbot.
+
+365
+00:24:54,260 --> 00:24:58,740
+Yes, which sort of implies to me that Martha Wells has asked them to go and do this.
+
+366
+00:24:58,740 --> 00:24:59,860
+Maybe, maybe
+
+367
+00:24:59,860 --> 00:25:09,299
+Or or or possibly or possibly Apple TV is becoming the tour dot com of um uh of science fiction dramatic presentation at this point.
+
+368
+00:25:09,299 --> 00:25:11,059
+Because they got three out of six.
+
+369
+00:25:11,059 --> 00:25:13,059
+And the other three are movies.
+
+370
+00:25:12,740 --> 00:25:13,700
+Yeah, that is true.
+
+371
+00:25:13,700 --> 00:25:16,260
+All of the television content is from Apple TV.
+
+372
+00:25:16,260 --> 00:25:18,260
+Yeah, all of the television is Apple TV.
+
+373
+00:25:18,260 --> 00:25:18,740
+Okay.
+
+374
+00:25:18,740 --> 00:25:23,860
+Anyway, so the as if we're confirmed to file seven hundred that um
+
+375
+00:25:24,360 --> 00:25:32,519
+Basically if you don't accept the nomination you are ineligible and so uh essentially they'll be allowing them as long as they can to try and confirm
+
+376
+00:25:32,760 --> 00:25:41,880
+that they didn't use LLM and if they win then they were ineligible and it goes to the nomination with the second most votes as long as they were eligible.
+
+377
+00:25:41,880 --> 00:25:42,919
+So at the moment
+
+378
+00:25:43,140 --> 00:25:51,140
+Basically, unless the other nominees confirm they didn't use LMs, Murderbot is going to win a nebula award.
+
+379
+00:25:51,620 --> 00:25:57,700
+Because they'll go down to the next ones and then they'll have to write to those faceless studios for evidence.
+
+380
+00:25:57,200 --> 00:26:09,919
+Well presume they've written to all the Faceless Studios and none of them have responded yet apart from the Murderbot writers and I do wonder if the fact that it is, you know, based on a Nebula Award winning series has helped them to get that message through.
+
+381
+00:26:09,919 --> 00:26:11,120
+But I mean
+
+382
+00:26:10,980 --> 00:26:19,700
+Do you think Netflix are gonna reply and say, Yeah, we didn't use LLMs while writing K pop demon hunters, or do you think they have not even noticed that the nebula is existing?
+
+383
+00:26:19,700 --> 00:26:21,620
+It'll be very interesting to see
+
+384
+00:26:21,740 --> 00:26:27,900
+you know, at least there is one nominee now with no asterisk, otherwise it was gonna be no one wins.
+
+385
+00:26:27,900 --> 00:26:31,740
+If you're using a modern tri grammar checker, you're using AI, I don't
+
+386
+00:26:31,740 --> 00:26:35,340
+I'm not sure that people can honestly answer this.
+
+387
+00:26:35,340 --> 00:26:37,580
+But no, but you're not using an LLM.
+
+388
+00:26:37,580 --> 00:26:41,180
+Grab gra like you're not necessarily using an LLM, right?
+
+389
+00:26:40,760 --> 00:26:44,919
+I think it depends on the tool you use to do the grammar checking.
+
+390
+00:26:45,000 --> 00:26:50,039
+I think you'll find that modern grammar checkers, the ones built into Microsoft Word and so on, are doing.
+
+391
+00:26:50,039 --> 00:26:51,000
+I don't
+
+392
+00:26:51,320 --> 00:26:53,720
+think the one built into word is.
+
+393
+00:26:53,800 --> 00:26:57,400
+Readers write it, but it will be by next year, you know, it's it's it's getting there.
+
+394
+00:26:57,400 --> 00:27:01,960
+I mean it says explicitly generative large language models, which I think
+
+395
+00:27:02,460 --> 00:27:03,900
+Doesn't mean just Yeah.
+
+396
+00:27:03,900 --> 00:27:10,060
+I think it's clear the intent, so I think I I I I don't s so this is the thing I have with art.
+
+397
+00:27:10,060 --> 00:27:12,540
+I don't think it is clear with the intent.
+
+398
+00:27:12,080 --> 00:27:13,760
+Ah, it doesn't matter for art though.
+
+399
+00:27:13,760 --> 00:27:16,000
+No, it doesn't matter for art for this, indeed.
+
+400
+00:27:16,000 --> 00:27:17,440
+So that's the other thing, right?
+
+401
+00:27:17,440 --> 00:27:23,760
+The the point being that the basically it says that works that are written by generative large language model tools are not eligible.
+
+402
+00:27:23,760 --> 00:27:26,160
+Um which means that uh
+
+403
+00:27:26,740 --> 00:27:39,460
+Best Game Writing nominee Claire Upshore Expedition 33, which managed to lose the Indie Game of the Year award because they had used AI to generate some art used in the game.
+
+404
+00:27:39,240 --> 00:27:40,840
+is still eligible.
+
+405
+00:27:40,840 --> 00:27:41,320
+Yeah.
+
+406
+00:27:44,600 --> 00:27:44,920
+Yeah.
+
+407
+00:27:44,920 --> 00:27:50,440
+I mean the backgro the background textures are patched out, but still they obviously used, you know, a kind of
+
+408
+00:27:51,080 --> 00:27:55,000
+uh art generating model at some point in the process.
+
+409
+00:27:55,000 --> 00:27:59,240
+But that doesn't matter for the nebula only if you used it in the writing.
+
+410
+00:27:59,240 --> 00:28:00,919
+It seems like this is a kind of
+
+411
+00:28:01,419 --> 00:28:12,620
+slightly odd loophole in the if the intention is to kind of discourage the use of large language models and say that they do not agree with large language models, especially, you know, because they're trained on written work
+
+412
+00:28:12,860 --> 00:28:19,899
+then it is a bit weird to say for games and comics and TV, all that matters is that you didn't use them to write them, you can use them for art.
+
+413
+00:28:19,899 --> 00:28:22,940
+So I interpret this as meaning if I wrote
+
+414
+00:28:23,240 --> 00:28:29,320
+a film script and then fed it entirely into a generative art model, it would still be eligible for the nebula?
+
+415
+00:28:29,320 --> 00:28:32,520
+I mean it wouldn't because it would be shit, but in theory.
+
+416
+00:28:32,520 --> 00:28:33,000
+Yeah.
+
+417
+00:28:33,000 --> 00:28:33,880
+No, I agree.
+
+418
+00:28:34,200 --> 00:28:35,160
+Interesting
+
+419
+00:28:35,700 --> 00:28:43,140
+How is that an outstanding dramatic presentation if the drama has been created by the LLM
+
+420
+00:28:43,300 --> 00:28:45,380
+What in Liz's for instance?
+
+421
+00:28:45,380 --> 00:28:47,060
+Well, I mean it's interesting, right?
+
+422
+00:28:47,060 --> 00:28:47,780
+Yeah.
+
+423
+00:28:47,780 --> 00:28:49,060
+Mmm.
+
+424
+00:28:49,060 --> 00:28:50,420
+I mean we're not there yet.
+
+425
+00:28:50,420 --> 00:28:51,700
+But obviously all
+
+426
+00:28:52,060 --> 00:28:58,700
+you know, uh all animation uses AI extensively for its intermediate um cells now.
+
+427
+00:28:58,700 --> 00:28:59,740
+But there's a I think the
+
+428
+00:29:00,060 --> 00:29:13,420
+I think there is a difference between we used AI to interpolate between two cells when I mean are we using I think we're specifically here using generative AI using large language models, not machine learning.
+
+429
+00:29:13,040 --> 00:29:18,880
+Or other things which are, you know, have a training set and, you know, build a model based on that.
+
+430
+00:29:18,880 --> 00:29:23,680
+It it's a big thing about like what is in your model that you're using to build it, right?
+
+431
+00:29:23,380 --> 00:29:27,860
+Yeah, no, I I I think I think that's what I mean when I say I think the intention is clear.
+
+432
+00:29:27,940 --> 00:29:38,020
+But but I think all this is showing that the policy of not allowing anything with AI is already slightly problematic and is gonna get more and more problematic.
+
+433
+00:29:37,460 --> 00:29:38,740
+I don't think it is.
+
+434
+00:29:38,740 --> 00:29:43,540
+I think you just need to say no generative LLMs and then it's completely clear.
+
+435
+00:29:43,540 --> 00:29:47,940
+But I reject I reject the attempt to blur that by comparing it to
+
+436
+00:29:48,240 --> 00:29:51,200
+you know, more technical algorithms that are not generative LLMs.
+
+437
+00:29:51,200 --> 00:29:55,040
+I think it is clear that there is a difference, and I think trying to keep one out is completely fine.
+
+438
+00:29:55,040 --> 00:29:57,600
+Disagree cheerfully but strongly
+
+439
+00:29:57,540 --> 00:29:58,020
+Mm, yeah.
+
+440
+00:29:58,020 --> 00:30:00,820
+I'm disagreeing cheerfully but strongly again.
+
+441
+00:30:00,820 --> 00:30:01,220
+Yeah.
+
+442
+00:30:01,220 --> 00:30:06,980
+I mean I understand that you think that, but I when I'm using tools, my tools are already very
+
+443
+00:30:07,519 --> 00:30:16,960
+unclear at saying where there's a generative element to the um to the AI tools in there and where there isn't.
+
+444
+00:30:16,660 --> 00:30:27,060
+But I I think it is interesting that you can have because you have these things on the nebulous where we are rewarding the writing for things which are not purely written works
+
+445
+00:30:27,260 --> 00:30:28,460
+Which is always hard, right?
+
+446
+00:30:28,460 --> 00:30:33,580
+How do I judge the script of comics from the finished article?
+
+447
+00:30:33,660 --> 00:30:34,700
+Well actually
+
+448
+00:30:35,120 --> 00:30:39,600
+That gets into something that I read on G.
+
+449
+00:30:39,600 --> 00:30:48,800
+Willow Wilson's Blue Sky, which is the comic finalists for the Nebula have all been solely attributed to their authors.
+
+450
+00:30:48,640 --> 00:30:54,560
+and she did rather point out it isn't an award for the comic script, it's a reward for the comic.
+
+451
+00:30:54,560 --> 00:30:56,400
+And the comic is not the script.
+
+452
+00:30:56,400 --> 00:30:59,840
+The comic is the script and the art and the lettering.
+
+453
+00:30:59,560 --> 00:31:06,360
+Like and she's like, if you just read the script of this comic, it would not be as good because I am not the only person who wrote this comic.
+
+454
+00:31:06,360 --> 00:31:07,960
+Uh and I think that is a good point.
+
+455
+00:31:07,960 --> 00:31:10,920
+Like I understand why the nebulas are writing focused
+
+456
+00:31:10,960 --> 00:31:19,200
+But I do think if you're gonna branch out into more visual art forms, you you need to recognise the fact that it is not solely the writer that makes the art.
+
+457
+00:31:19,140 --> 00:31:33,460
+Um, and I think Claire Obscure's position on this, like they're basically taking a stance that writing is important and all else is not, and I kind of understand why they do that from the fact that they're a writing association, but it does rather diminish the contribution of
+
+458
+00:31:33,840 --> 00:31:36,960
+designers, artists and that that kind of um job.
+
+459
+00:31:36,960 --> 00:31:44,240
+Um and I think if you're trying to promote the creative industry, doing it by pitting different creatives against each other is a weird way of trying to achieve that
+
+460
+00:31:44,160 --> 00:31:45,280
+Is my opinion.
+
+461
+00:31:45,280 --> 00:31:48,560
+I'll link to Willow's um thing in the show notes.
+
+462
+00:31:48,640 --> 00:31:53,920
+You know, we we have screenplay awards in lots of other awards like the Oscars and the Nebula's maybe
+
+463
+00:31:54,179 --> 00:32:00,740
+could have it as a nebula award for outstanding screenwriting or something, rather than having it dramatic presentation if the focus is on the writing.
+
+464
+00:32:00,740 --> 00:32:05,220
+I would also say they haven't listed all the writers um for the TV
+
+465
+00:32:05,380 --> 00:32:14,180
+The T V thinks they've nominated because there's more than Vince Gilligan writing Pluribus Season One and Murder Bolt Season One has two writers and they've only listed one.
+
+466
+00:32:14,180 --> 00:32:15,860
+So should probably list them all.
+
+467
+00:32:15,860 --> 00:32:17,620
+Yeah, I know I agree with that.
+
+468
+00:32:23,380 --> 00:32:28,660
+Locust magazine are having a fundraiser.
+
+469
+00:32:28,720 --> 00:32:35,920
+So Locus, for those who are newer to the community, is a long-running magazine.
+
+470
+00:32:35,920 --> 00:32:39,600
+Started out as a fanzine, is now a fully pro magazine.
+
+471
+00:32:39,160 --> 00:32:48,120
+um and they do a fundraiser every year to try to raise funds to um to continue going
+
+472
+00:32:48,460 --> 00:32:51,580
+So they've done this, I think this is the third one, is that right, Liz?
+
+473
+00:32:51,580 --> 00:32:53,260
+They started in twenty twenty four?
+
+474
+00:32:53,260 --> 00:32:54,380
+Ah, I think it's the fourth.
+
+475
+00:32:54,380 --> 00:32:56,300
+I think it started in twenty twenty-three
+
+476
+00:32:56,360 --> 00:33:04,840
+Okay, and Liz has done some numbers and with those numbers I have done a graph.
+
+477
+00:33:04,580 --> 00:33:05,940
+Oh did he make a graph for me?
+
+478
+00:33:05,940 --> 00:33:06,500
+Thank you, Tom.
+
+479
+00:33:06,740 --> 00:33:18,900
+But basically, the the the the the thing is that in the first instance they did this and they talked about their their costs and their costs were something like
+
+480
+00:33:19,679 --> 00:33:27,519
+six hundred thousand dollars and then their revenue is something like four hundred thousand dollars and they did
+
+481
+00:33:28,120 --> 00:33:34,520
+Another fundraiser and the revenue stayed the same, but the costs went up by about $100,000
+
+482
+00:33:35,400 --> 00:33:41,640
+And then they did another fundraiser and the revenue stayed the same and then the costs went out by another hundred thousand dollars or so.
+
+483
+00:33:41,640 --> 00:33:48,440
+And basically if you extrapolate this through to about twenty thirty, they're on course to have lost about one and a half million dollars
+
+484
+00:33:48,260 --> 00:33:50,020
+um by the end of the decade.
+
+485
+00:33:50,020 --> 00:34:03,059
+They wrote to us to ask if we would um plug their current fundraiser in exchange for mentioning us in like a roundup video or something, um and we respectfully declined.
+
+486
+00:34:02,880 --> 00:34:04,560
+More accurately we didn't write back.
+
+487
+00:34:04,560 --> 00:34:06,480
+Um, which is actually not very respectful.
+
+488
+00:34:06,480 --> 00:34:07,360
+We should probably write back.
+
+489
+00:34:07,360 --> 00:34:15,840
+Sorry, Locus, but that's partly because we want to talk about the fact that we're confused about their business model and where they're going, because it doesn't make any sense, listeners.
+
+490
+00:34:15,399 --> 00:34:19,399
+So yes, that is kind of an overview of what's happening.
+
+491
+00:34:19,399 --> 00:34:29,639
+At the current moment they've got an Indiegogo which has a target of 100k and they've raised about 30k of that with 23 days left.
+
+492
+00:34:29,260 --> 00:34:31,340
+We'll put a link in the show notes.
+
+493
+00:34:31,420 --> 00:34:36,380
+So of course we don't know like the complete state of their uh funding.
+
+494
+00:34:36,380 --> 00:34:40,700
+Uh presumably they are plugging that gap from somewhere and have a way to plug it.
+
+495
+00:34:40,700 --> 00:34:43,420
+But I also say I think their Kickstarters when I looked
+
+496
+00:34:44,020 --> 00:34:47,700
+consistently get to about a hundred thousand.
+
+497
+00:34:47,700 --> 00:34:55,300
+So I don't know if that's because that genuinely is the target they need every year or if they just feel that is a a a a a reachable goal
+
+498
+00:34:55,100 --> 00:35:01,500
+But I'm interested to see why they haven't been raising that target in line with the raise in their costs.
+
+499
+00:35:01,500 --> 00:35:04,060
+Yeah, and that's a good question.
+
+500
+00:35:03,700 --> 00:35:08,980
+I mean I think I should also say that like we we said the same thing last year, we were were a little bit critical of them.
+
+501
+00:35:08,980 --> 00:35:16,260
+Just because we like locus and would like it to continue, we just can't quite see how this model is sustainable.
+
+502
+00:35:15,760 --> 00:35:20,160
+And we hope that they do have some model we are not aware of for sustaining this.
+
+503
+00:35:20,160 --> 00:35:25,440
+Otherwise, if you need to pivot, better to do it now than to do it when you are completely out of cash.
+
+504
+00:35:24,960 --> 00:35:33,520
+That subscriptions advertising and existing donations and sponsors number has been 400k for the last three fundraisers and it's gone from six hundred thousand
+
+505
+00:35:34,040 --> 00:35:41,160
+in cost to 725,000 in cost to 800,000 in cost in 2024, 2025, 2026.
+
+506
+00:35:41,400 --> 00:35:43,000
+They've also added staff.
+
+507
+00:35:43,000 --> 00:35:45,480
+So Liz, you you found this out?
+
+508
+00:35:45,340 --> 00:35:48,860
+Yeah, I mean uh it sounds like I did some detective work.
+
+509
+00:35:48,860 --> 00:35:50,940
+I just read the GoFundMe pages.
+
+510
+00:35:50,940 --> 00:35:53,500
+Um, but they now say they have eight full time stuff.
+
+511
+00:35:53,380 --> 00:35:58,900
+And previously they had six full time staff, which I can't imagine is reducing the costs, unfortunately.
+
+512
+00:35:58,900 --> 00:36:02,580
+Well, maybe is one of one of the full time staff a professional fundraiser?
+
+513
+00:36:02,580 --> 00:36:03,940
+Oh, that's unclear.
+
+514
+00:36:03,940 --> 00:36:06,340
+'Cause that would that would be a way in which it might.
+
+515
+00:36:06,340 --> 00:36:07,620
+But even so I'm
+
+516
+00:36:07,859 --> 00:36:14,500
+I'm like obviously it's lovely to have a magazine devoted exclusively to science fiction, fantasy and horror.
+
+517
+00:36:14,500 --> 00:36:18,980
+Um I don't see any real reason why this needs to be a print magazine or why it needs to
+
+518
+00:36:19,059 --> 00:36:20,020
+to be based in the Bay Area.
+
+519
+00:36:20,020 --> 00:36:24,260
+I'm sure I've said all this before on the podcast multiple times.
+
+520
+00:36:24,260 --> 00:36:26,900
+But, you know, it's an enormous amount of money.
+
+521
+00:36:26,900 --> 00:36:29,779
+They're asking for enormous amounts of money.
+
+522
+00:36:29,620 --> 00:36:31,860
+It's it's just it's a magazine.
+
+523
+00:36:31,860 --> 00:36:33,300
+You know, it's mad.
+
+524
+00:36:33,780 --> 00:36:39,540
+I mean I think that's probably how much it costs to run a print magazine, but that's why we have fewer and fewer print magazines.
+
+525
+00:36:39,700 --> 00:36:42,980
+I I I can assure you we never spent that sort of money on Plocter
+
+526
+00:36:43,380 --> 00:36:47,460
+Yeah, you're not quite at the scale of locus.
+
+527
+00:36:47,460 --> 00:36:49,940
+No, but that's because we didn't spend so much money.
+
+528
+00:36:49,940 --> 00:36:50,579
+Yet
+
+529
+00:36:50,859 --> 00:36:52,300
+Uh no, never.
+
+530
+00:36:52,380 --> 00:36:58,540
+It's I don't think whether um I d I yeah, I don't know how much it costs to run that kind of thing.
+
+531
+00:36:58,540 --> 00:37:04,940
+I mean they pay reviewers for reviews like Neil Harrison and Abigail Nusbound friends of the show
+
+532
+00:37:04,840 --> 00:37:07,000
+are both paid to review for locus.
+
+533
+00:37:07,000 --> 00:37:13,320
+And I do think it is good to have a an organ that pays critics to do good criticism.
+
+534
+00:37:13,220 --> 00:37:15,380
+And I think that would be a shame if it went away.
+
+535
+00:37:15,380 --> 00:37:16,819
+I I don't know.
+
+536
+00:37:16,819 --> 00:37:21,619
+Most of the other magazines I can think of do not focus on criticism and news.
+
+537
+00:37:21,619 --> 00:37:24,660
+They focus on publishing fiction, which is great.
+
+538
+00:37:24,200 --> 00:37:30,760
+But I do think it is important that there still be organs which are focused on criticism and talking about fiction.
+
+539
+00:37:30,760 --> 00:37:35,880
+And I don't I I think if Locust went away, that would be a very great loss.
+
+540
+00:37:35,740 --> 00:37:43,260
+I don't know how much it costs to run, for instance, Uncanny or Clark's world, but I can't imagine the orders of magnitude are that different
+
+541
+00:37:43,280 --> 00:37:49,280
+I mean probably Locust is more expensive because it is print, but I can't imagine like Clark's World is fifty quid and a pickled egg, you know.
+
+542
+00:37:49,280 --> 00:37:51,119
+Eight full-time staff's a lot though.
+
+543
+00:37:51,119 --> 00:37:53,280
+Eight full-time staff is a lot.
+
+544
+00:37:52,840 --> 00:37:57,800
+That is true, but I'm not sure how many of those go away if you take away the print.
+
+545
+00:37:57,800 --> 00:38:01,800
+Presumably your print layout person goes away, but yeah, I don't know.
+
+546
+00:38:01,800 --> 00:38:06,760
+It is tricky because I don't know I haven't done any research on like how much um
+
+547
+00:38:07,520 --> 00:38:18,960
+How much like Clark's world need to be I mean, if you just look at the kind of recent uncanny Kickstarter, their goal is fifty thousand dollars to pay for um
+
+548
+00:38:19,520 --> 00:38:21,119
+the baseline six issues.
+
+549
+00:38:21,119 --> 00:38:23,440
+I don't know whether that's because they have support from elsewhere.
+
+550
+00:38:23,440 --> 00:38:31,040
+They do pay their staff and they list kind of their, you know, other costs they have podcast production, office costs, website halting.
+
+551
+00:38:31,040 --> 00:38:32,640
+But I think by not having a f
+
+552
+00:38:32,840 --> 00:38:37,000
+physical venue they save a lot of money.
+
+553
+00:38:37,160 --> 00:38:38,520
+Yeah, probably.
+
+554
+00:38:38,520 --> 00:38:41,880
+I assume unc I know Uncanny also has a Patreon.
+
+555
+00:38:41,400 --> 00:38:49,319
+So I assume it's a mix of Kickstarter and Patreon, which says to me that the total is probably somewhere in the low hundreds of thousands of dollars range.
+
+556
+00:38:49,319 --> 00:38:51,960
+So I can entirely accept that Locust is like
+
+557
+00:38:52,260 --> 00:38:59,780
+800,000 does seem like loads, but I am going to say that even if you took away the physical venue, you might be going down to maybe 200,000.
+
+558
+00:38:59,780 --> 00:39:01,860
+You're not going down to 20.
+
+559
+00:39:01,860 --> 00:39:03,620
+Does that make sense?
+
+560
+00:39:03,180 --> 00:39:07,100
+I'm a physicist, I'm used to thinking orders orders of magnitude, I guess, is what it is.
+
+561
+00:39:07,100 --> 00:39:08,460
+Yeah, no, that would make sense.
+
+562
+00:39:08,460 --> 00:39:13,980
+But it might it it also depends, I think, how much you can recoup the cost like how much
+
+563
+00:39:14,340 --> 00:39:21,540
+Of the costs of producing a paper magazine are covered by the people who subscribe to the paper magazine.
+
+564
+00:39:21,540 --> 00:39:27,620
+Is that actually are you losing money on that or is it that actually the paper magazine subscription pays for itself
+
+565
+00:39:27,520 --> 00:39:30,240
+and that also gives you some money to support the website?
+
+566
+00:39:30,240 --> 00:39:32,320
+Or are they kind of at a loss?
+
+567
+00:39:32,320 --> 00:39:38,400
+I think we may be at the limit of they were probably at the limit of what I certainly know about the costs of doing stuff, so
+
+568
+00:39:38,559 --> 00:39:48,000
+I have found, because Uncanny uh is on Patreon and Patreons, some Patreon, do tell you how much money the creator is getting.
+
+569
+00:39:48,000 --> 00:39:52,000
+So I can't get that for Clarksworld, I don't think, but for Uncanny
+
+570
+00:39:52,340 --> 00:39:59,780
+They raise about twenty-four thousand dollars a year from Patreon and another fifty thousand dollars from Kickstarter.
+
+571
+00:39:59,780 --> 00:40:01,940
+And then you've got people who subscribe through other
+
+572
+00:40:02,400 --> 00:40:06,640
+modes and I assume they do sponsorships and ads, but I don't know.
+
+573
+00:40:06,640 --> 00:40:09,760
+Um so maybe maybe not quite a hundred thousand actually.
+
+574
+00:40:09,760 --> 00:40:13,200
+But it depends, like we don't know the detailed cost breakdowns of these, right?
+
+575
+00:40:13,200 --> 00:40:15,760
+So we're at the as Liz says, we're at the limit of our
+
+576
+00:40:16,220 --> 00:40:17,900
+ability to speculate properly.
+
+577
+00:40:18,220 --> 00:40:23,260
+I can't find the Indiecoco.
+
+578
+00:40:23,260 --> 00:40:24,940
+L locuses?
+
+579
+00:40:24,740 --> 00:40:30,660
+I found a thing saying this is the right page but we are waiting for Indiegogo to approve our campaign.
+
+580
+00:40:30,660 --> 00:40:33,380
+I assume that's from weeks ago and this is sorted now.
+
+581
+00:40:33,380 --> 00:40:37,460
+I am gonna say that it is linked in the Octhorpe show notes
+
+582
+00:40:37,859 --> 00:40:39,540
+Didn't think of looking there.
+
+583
+00:40:39,540 --> 00:40:46,579
+But I will say that they probably do want to make it easy to find for people who are not reading the Octhorpe show notes, so I take your point.
+
+584
+00:40:46,359 --> 00:40:51,400
+It's true that if you I mean if you search for Locust magazine GoFundMe, it does pop up.
+
+585
+00:40:51,400 --> 00:40:54,200
+So I suggest trying that.
+
+586
+00:40:59,040 --> 00:41:02,320
+Just next week when you're reading this, um, will be Eastercon.
+
+587
+00:41:02,320 --> 00:41:03,760
+It's very exciting.
+
+588
+00:41:03,760 --> 00:41:07,520
+The programme is out and you can look at it.
+
+589
+00:41:07,520 --> 00:41:10,960
+Do you have anything you want to say about the programme for Eastercon guys?
+
+590
+00:41:10,960 --> 00:41:12,000
+I'm on some panels.
+
+591
+00:41:12,000 --> 00:41:13,760
+Alison's on some panels.
+
+592
+00:41:13,580 --> 00:41:16,220
+Liz will be on a beach, probably.
+
+593
+00:41:16,220 --> 00:41:16,780
+Yeah.
+
+594
+00:41:16,860 --> 00:41:18,860
+Does look good, but I will be on a beach, yeah.
+
+595
+00:41:18,860 --> 00:41:20,060
+I mean lucky guess.
+
+596
+00:41:20,060 --> 00:41:21,500
+So on Friday at 7.
+
+597
+00:41:21,500 --> 00:41:24,780
+30 I am playing a game called Lucky for None
+
+598
+00:41:24,760 --> 00:41:37,080
+um which is a game uh published by Beyond Cataclysm which is run by Chris Lowry he's m running the game and it's me, Leon Chim Kemp, Emma Newman, Guest of Honor, and Anna Stevens, and that'll be good.
+
+599
+00:41:36,600 --> 00:41:44,200
+On Saturday I'm on a couple of panels in the evening which are playing in the apocalypse and stop collaborate and listen to us talking about cooperative games.
+
+600
+00:41:44,200 --> 00:41:51,560
+And then on Sunday I'm running an RPG at ten thirty, uh which is going to be Mothership and the guy who wrote the adventure.
+
+601
+00:41:51,059 --> 00:41:57,380
+Posted on Blue Sky saying, Someone's running my adventure at a convention and this is great and I responded with It me.
+
+602
+00:41:57,380 --> 00:41:58,740
+Um so yeah, we
+
+603
+00:41:58,680 --> 00:42:00,520
+Kind of were excited about that, so that was neat.
+
+604
+00:42:00,520 --> 00:42:03,000
+And then I want a panel about Mothership later that day.
+
+605
+00:42:03,000 --> 00:42:04,760
+And then the FanFunds quiz.
+
+606
+00:42:04,760 --> 00:42:11,240
+Uh I'm going to be hosting the Fan Funds quiz, which is sort of family fortunes pointless, only connect, rolled into one.
+
+607
+00:42:11,240 --> 00:42:12,520
+The teams are good
+
+608
+00:42:12,559 --> 00:42:19,520
+I think some people need adding to that, but I believe it's the people listed plus Tobes and Pat McMurray.
+
+609
+00:42:19,760 --> 00:42:21,039
+So it should be good fun.
+
+610
+00:42:21,039 --> 00:42:24,000
+And then Monday morning we've got Octothorpe Live
+
+611
+00:42:24,059 --> 00:42:32,940
+Yes, if you're a listener to Octhorpe, do come along and listen to us uh talk to our mysterious stunt Liz.
+
+612
+00:42:32,940 --> 00:42:34,140
+Ooh.
+
+613
+00:42:33,880 --> 00:42:35,400
+Yeah, no, we'll have a stuntless.
+
+614
+00:42:35,400 --> 00:42:44,600
+Um we did get it sorted between last episode and this episode, so thank you very much to our stuntless and you can see us on Monday when we will be at the end of the convention.
+
+615
+00:42:44,600 --> 00:42:47,480
+I am also on the Fan Funds auction
+
+616
+00:42:47,840 --> 00:42:50,720
+Um come along and give us all your stuff for lovely things.
+
+617
+00:42:50,720 --> 00:42:54,240
+If you have a thing, you have time to get in touch and get it to us.
+
+618
+00:42:54,240 --> 00:42:55,360
+Um and then I am
+
+619
+00:42:55,740 --> 00:43:03,820
+Moderating a panel called Fanzines in the Twenty First Century, which is at nine o'clock on Saturday morning, which is not the perfect time for a fanzine panel, but
+
+620
+00:43:03,840 --> 00:43:06,160
+There we go, and that has wonderful people.
+
+621
+00:43:06,160 --> 00:43:09,920
+Sandra Bond, Tommy Ferguson, Cheryl Morgan, Rosella Pendle-Briet.
+
+622
+00:43:09,920 --> 00:43:13,680
+I am moderating it, so I am very much looking forward to that
+
+623
+00:43:13,400 --> 00:43:16,279
+And I will therefore go to bed early on Friday night.
+
+624
+00:43:17,240 --> 00:43:21,559
+Yeah, anyone listening to this on Friday, please check in.
+
+625
+00:43:21,559 --> 00:43:22,039
+Yeah.
+
+626
+00:43:22,039 --> 00:43:28,279
+If it's if we're in the bar and it's after two o'clock in the morning, can you say to me gently that I'm on a panel at nine o'clock?
+
+627
+00:43:27,700 --> 00:43:30,980
+I think if it's two AM they should be not saying this super gently.
+
+628
+00:43:31,140 --> 00:43:34,980
+I was gonna say and then when saying it gently doesn't work, please say it loudly.
+
+629
+00:43:35,140 --> 00:43:39,060
+T two AM is my target time for getting to bed on Friday.
+
+630
+00:43:38,840 --> 00:43:46,520
+Well, I will not be there and so unable to get upright and early on Saturday morning and say things loudly in Alison's uh direction
+
+631
+00:43:46,740 --> 00:43:50,660
+If I were there, there are a few there's a lot of things that look interesting on the panel.
+
+632
+00:43:50,660 --> 00:43:56,980
+I did notice that there is a uh book launch for a new anthology with the Guest of Honour Karen Lord.
+
+633
+00:43:56,980 --> 00:43:59,380
+There are of course guest of honour interviews
+
+634
+00:43:59,300 --> 00:44:04,580
+Um there's a future Worldcons Q&A with bids at 9 AM, which will also be fun.
+
+635
+00:44:04,580 --> 00:44:06,420
+Yes, it will.
+
+636
+00:44:06,420 --> 00:44:09,140
+Oh that's not at 9 AM on Saturday, is it?
+
+637
+00:44:08,700 --> 00:44:09,420
+No, it's nine a.
+
+638
+00:44:09,420 --> 00:44:09,579
+m.
+
+639
+00:44:09,579 --> 00:44:10,220
+on Sunday.
+
+640
+00:44:10,220 --> 00:44:13,339
+So if you like nine AMs, you've got many many options.
+
+641
+00:44:13,339 --> 00:44:14,619
+Yeah, we're on at 9 a.
+
+642
+00:44:14,619 --> 00:44:14,780
+m.
+
+643
+00:44:14,859 --> 00:44:15,260
+guys.
+
+644
+00:44:15,260 --> 00:44:16,700
+Uh we're on at ten thirty.
+
+645
+00:44:16,700 --> 00:44:20,380
+Thank you very much to the program team uh for for that.
+
+646
+00:44:21,220 --> 00:44:24,500
+I'm I'm that's much better than being on at nine, I think.
+
+647
+00:44:24,500 --> 00:44:25,780
+For me anyway.
+
+648
+00:44:25,780 --> 00:44:31,860
+I feel we've had we've had that 130 slot before and I'm like, how did we how did we lose that?
+
+649
+00:44:31,380 --> 00:44:32,900
+Too late, everyone's gone home.
+
+650
+00:44:32,900 --> 00:44:40,020
+Um I don't mind I don't mind doing it earlier, yeah, because as Liz says I think I think we might get more people this way, but um we'll see.
+
+651
+00:44:40,020 --> 00:44:42,260
+Ten thirty's a good time, yeah.
+
+652
+00:44:41,960 --> 00:44:44,680
+No, yeah, th the the the programme does look good.
+
+653
+00:44:44,680 --> 00:44:46,120
+I am excited.
+
+654
+00:44:46,120 --> 00:44:50,040
+I have I have starred some items in a
+
+655
+00:44:50,359 --> 00:44:58,280
+In a world first, when you log into the member portal, it syncs your schedule between the devices you've logged into the member portal, and that is
+
+656
+00:44:58,340 --> 00:45:04,980
+Thank you very much to uh I think Andrew January and James Shields are the ones to thank for that and I am hype.
+
+657
+00:45:04,980 --> 00:45:06,740
+Thank you both very, very much.
+
+658
+00:45:06,460 --> 00:45:16,060
+I I I do love the way that Eastercon software gets just a little bit nicer every year and it's already pretty nice as conventional software goes, I would say.
+
+659
+00:45:15,600 --> 00:45:24,320
+I would also say that Conklar now um sorts program participants by surname, which it did not for a while.
+
+660
+00:45:24,140 --> 00:45:25,420
+Which I also enjoy.
+
+661
+00:45:25,420 --> 00:45:32,539
+But there's a toggle, you can just sort it by full name, or you can sort which sorts by the you know, first word, or you can sort by surname, which
+
+662
+00:45:33,080 --> 00:45:36,680
+is uh what I kind of my brain expects and therefore enjoys.
+
+663
+00:45:36,680 --> 00:45:37,640
+So there you go.
+
+664
+00:45:37,640 --> 00:45:45,640
+In in the last week I have learnt how to take a spreadsheet that is sorted by full name and converted into a cell
+
+665
+00:45:45,660 --> 00:45:56,620
+French eat that is sorted by surname, um, u using the GUF results as as a as a thing 'cause I needed a voter list and I was like, I could do this by I could either
+
+666
+00:45:56,740 --> 00:46:06,820
+print the voter list by fur in order of full name, or I could l sort it by hand, or I could learn how to do this properly for the first time in sixty years of life.
+
+667
+00:46:06,620 --> 00:46:11,900
+So I've learned how to do it properly or I learned about 80% of how to do it properly because it turns out to be quite hard.
+
+668
+00:46:11,900 --> 00:46:14,940
+Um if you don't ask people what their first name and last name is
+
+669
+00:46:15,480 --> 00:46:18,839
+Fallacies programmers believe about names insert link here.
+
+670
+00:46:18,839 --> 00:46:19,559
+Yes.
+
+671
+00:46:20,920 --> 00:46:26,599
+Okay, it is hard, but it it is still faster than sorting it manually
+
+672
+00:46:27,220 --> 00:46:28,020
+Yes.
+
+673
+00:46:28,020 --> 00:46:33,700
+Um and then the other thing I want to say about this is that the program is at guide.
+
+674
+00:46:35,779 --> 00:46:36,900
+org and
+
+675
+00:46:37,340 --> 00:46:39,740
+We went as always to look at guide.
+
+676
+00:46:39,820 --> 00:46:41,580
+tways tocon2026.
+
+677
+00:46:41,580 --> 00:46:45,340
+org and discovered that they had obfusc obfuscated it, which
+
+678
+00:46:45,640 --> 00:46:49,559
+Didn't really matter because we were given the obfuscated link anyway.
+
+679
+00:46:49,559 --> 00:46:53,799
+Um, but we didn't get to say that on the on the on the podcast.
+
+680
+00:46:53,559 --> 00:46:57,799
+But I think they've started obfuscating it because of us, so thank you guys.
+
+681
+00:46:58,039 --> 00:47:01,880
+I think yeah, I mean certainly we um we
+
+682
+00:47:02,720 --> 00:47:10,160
+Ooh w y we had mentioned on the pod that we used to do this, so I suspect other people had cottoned on, so it makes sense that they're obfuscating it, but also
+
+683
+00:47:10,559 --> 00:47:11,520
+But yeah.
+
+684
+00:47:11,520 --> 00:47:14,720
+Sorry that we made you do that, I guess.
+
+685
+00:47:15,119 --> 00:47:23,200
+Well no, I mean I think it probably if you if you want it to be public if you want it to not be public, then you probably do need to do it, so I think it's probably right that they did it.
+
+686
+00:47:23,200 --> 00:47:25,279
+Sorry, not sorry, basically.
+
+687
+00:47:25,140 --> 00:47:28,500
+Yeah, um anything else on EastCon program?
+
+688
+00:47:28,500 --> 00:47:36,740
+There's at least one slot where there's two things I want to go and see, so I am thankful for catch-up because I will be taking advantage of that.
+
+689
+00:47:36,900 --> 00:47:41,220
+I mean th the panel that you're clashing with the FanFunds auction for.
+
+690
+00:47:41,220 --> 00:47:43,380
+Um Oh yeah, it should be good, I hope.
+
+691
+00:47:43,380 --> 00:47:44,580
+I'm looking forward to it.
+
+692
+00:47:44,580 --> 00:47:49,460
+I would wan I I I will have to catch it up on catch up because it's all about cooperative games.
+
+693
+00:47:49,460 --> 00:47:50,660
+Um Yes.
+
+694
+00:47:50,660 --> 00:47:51,380
+Yes.
+
+695
+00:47:51,340 --> 00:47:54,620
+Um and spoilers, we're about to do our picks, right?
+
+696
+00:48:00,420 --> 00:48:04,500
+Me and Liz need to get our ducks in a row uh vis-a-vis picks.
+
+697
+00:48:04,500 --> 00:48:06,900
+So Alison, why don't you pick first?
+
+698
+00:48:07,060 --> 00:48:13,940
+So my pick for this week is and and admittedly it's not new IP, it is that Slay the Sparse 2 released
+
+699
+00:48:14,040 --> 00:48:21,480
+I guess last week or the week before, in Steam Early Access and I immediately bought it and then my
+
+700
+00:48:22,040 --> 00:48:30,600
+children both independently immediately bought it and then my 'cause normally with Steam you could do family sharing, but not in this case for reasons I'm about to come to.
+
+701
+00:48:30,600 --> 00:48:36,680
+And then we forced my husband to immediately buy it because Steam Slay the Flour two is like spectrum, but I'm not sure if you're a little bit more than a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of
+
+702
+00:48:36,040 --> 00:48:43,480
+Slay the Spire, except that it has multiplayer and it is a cooperative multiplayer, so you're all together slaying the spire.
+
+703
+00:48:43,480 --> 00:48:47,720
+And it's it's hilarious because it doesn't really it doesn't have turn takings.
+
+704
+00:48:47,720 --> 00:48:50,680
+Everyone just like kinda slings their stuff out there as if it was a
+
+705
+00:48:50,760 --> 00:48:54,840
+Video game, Slay the Spar is a video game, but it doesn't feel like it a lot of the time.
+
+706
+00:48:54,840 --> 00:48:58,440
+Um and so everyone just kind of slings their stuff out there and then
+
+707
+00:48:58,520 --> 00:49:05,880
+Sometime during this process somebody will go, Oh wait, I have something that I probably should have done before you guys all did that and then we go, Oh
+
+708
+00:49:06,559 --> 00:49:17,520
+Um and the multiplayer is just fantastic and hilarious and you do need to get on voice, but it is one of the most fun things I've done in cooperative multiplayer gaming online.
+
+709
+00:49:17,520 --> 00:49:19,040
+ever, I think.
+
+710
+00:49:19,040 --> 00:49:26,560
+Um and so that's good and it enables you to get in touch with your family if if getting in touch with your family is one of the things that you want to do.
+
+711
+00:49:26,560 --> 00:49:29,280
+Assuming your family plays like this, but we think
+
+712
+00:49:29,460 --> 00:49:31,380
+The multiplayer is a touch easy at the moment.
+
+713
+00:49:31,380 --> 00:49:33,860
+It's obviously it's an early access, it's very early stages.
+
+714
+00:49:33,860 --> 00:49:36,580
+They're about to tweak a load of stuff.
+
+715
+00:49:36,580 --> 00:49:36,900
+Um
+
+716
+00:49:37,760 --> 00:49:48,880
+But at the moment we find multiplayer is s slightly easy, but that might be because the four of us have between us about a thousand hours in the first Slane Spire, so uh that consists of like
+
+717
+00:49:48,859 --> 00:49:57,500
+I don't know, four hundred hours, three hundred hours, three hundred hours, and zero hours for the four of us, so So three of us
+
+718
+00:49:57,540 --> 00:50:00,900
+know what to do and we tell the fourth person in a bad quarterbacking way.
+
+719
+00:50:00,900 --> 00:50:06,420
+We got to about the the fifth or sixth monster and said, Right, you can play for yourself now.
+
+720
+00:50:07,900 --> 00:50:11,260
+Um, which was not actually true.
+
+721
+00:50:13,340 --> 00:50:15,100
+It's been great.
+
+722
+00:50:14,840 --> 00:50:15,880
+That sounds fun.
+
+723
+00:50:15,880 --> 00:50:16,760
+That sounds fun.
+
+724
+00:50:16,760 --> 00:50:19,720
+Cause Slay the Spar is fun anyway, but it is much more fun.
+
+725
+00:50:19,880 --> 00:50:22,760
+I don't think I've played I don't think I've played the first
+
+726
+00:50:22,859 --> 00:50:24,060
+Slay the Spire.
+
+727
+00:50:24,060 --> 00:50:26,940
+I might be wrong, but I don't think I have.
+
+728
+00:50:26,940 --> 00:50:33,339
+The first Slay the Spire is on Apple Arcade, so if you are one of those people who spends too much money with Apple
+
+729
+00:50:33,640 --> 00:50:34,920
+It doesn't cost trailers.
+
+730
+00:50:34,920 --> 00:50:44,440
+Um and the second one is, you know, you have to be on an actual uh laptop which is not my gaming choice, but No, that's fair.
+
+731
+00:50:44,340 --> 00:50:48,020
+Do you think it will come to other venues?
+
+732
+00:50:48,020 --> 00:50:49,300
+Um eventually.
+
+733
+00:50:49,300 --> 00:50:49,860
+Yeah.
+
+734
+00:50:49,860 --> 00:50:52,980
+I mean it took about three years for the first one, so who knows.
+
+735
+00:50:52,980 --> 00:50:55,220
+Um but it's on it's on Mac and PC.
+
+736
+00:50:55,460 --> 00:50:56,500
+That makes sense.
+
+737
+00:50:56,280 --> 00:50:57,320
+It's twenty quid.
+
+738
+00:50:57,320 --> 00:50:59,800
+Um or if there are four of you, eighty.
+
+739
+00:50:59,800 --> 00:51:02,920
+Um but you know, it's only twenty quid each.
+
+740
+00:51:02,920 --> 00:51:04,680
+Liz, do you have any picks?
+
+741
+00:51:04,680 --> 00:51:06,760
+I don't think I have a pick.
+
+742
+00:51:06,799 --> 00:51:08,079
+I honestly don't.
+
+743
+00:51:08,079 --> 00:51:09,760
+What have you been up to?
+
+744
+00:51:09,760 --> 00:51:12,000
+Uh have you watched any telly?
+
+745
+00:51:12,000 --> 00:51:14,319
+Yeah, but not anything science fictional.
+
+746
+00:51:14,319 --> 00:51:16,640
+Or pick something not science fictional.
+
+747
+00:51:16,640 --> 00:51:18,160
+I reckon.
+
+748
+00:51:17,600 --> 00:51:24,000
+Alright, do you wanna know the the only TV I have been watching, which is because I have been feeling low of brain power, I've been quite busy.
+
+749
+00:51:24,000 --> 00:51:30,560
+Uh so I've been watching Formula One Drive to Survive, which is reality TV about Formula One.
+
+750
+00:51:30,560 --> 00:51:31,120
+Nice
+
+751
+00:51:31,359 --> 00:51:32,720
+I've heard of this.
+
+752
+00:51:32,720 --> 00:51:35,200
+And it is quite entertaining.
+
+753
+00:51:35,200 --> 00:51:40,079
+In that sort of like, I wonder how weirdly edited this all is, way, right?
+
+754
+00:51:40,079 --> 00:51:44,160
+Like when they saw someone doing what seems to be a great reaction shot.
+
+755
+00:51:43,760 --> 00:51:48,720
+And you're like, well was that actually their reaction or was that from a completely different occasion?
+
+756
+00:51:48,720 --> 00:51:49,520
+It's quite fun.
+
+757
+00:51:49,520 --> 00:51:51,280
+There's quite a lot of drama in Formula One.
+
+758
+00:51:51,280 --> 00:51:53,280
+It's basically a bunch of uh
+
+759
+00:51:53,840 --> 00:52:05,120
+I would say surprisingly well adjusted young gentlemen, given that they're all kind of about twenty-one and have uh an absolute get paid an absolute ton of money.
+
+760
+00:52:04,859 --> 00:52:11,980
+to be global superstars but occasionally have to watch their friends get killed in horrific accidents.
+
+761
+00:52:13,820 --> 00:52:17,180
+It's it's kinda the closest we've got to the squid game, isn't it?
+
+762
+00:52:17,180 --> 00:52:19,660
+Yeah, there is that aspect of it.
+
+763
+00:52:18,840 --> 00:52:19,560
+do it.
+
+764
+00:52:19,560 --> 00:52:21,640
+Um they all seem surprisingly well adjusted.
+
+765
+00:52:21,640 --> 00:52:23,640
+Yeah, the buses swear quite a lot.
+
+766
+00:52:23,640 --> 00:52:27,160
+It's it's entertaining and it is what I uh
+
+767
+00:52:27,540 --> 00:52:30,180
+what my brain desired to watch.
+
+768
+00:52:30,180 --> 00:52:34,020
+Well I'm not watching sport, which, you know, we've covered previously on the show.
+
+769
+00:52:34,100 --> 00:52:35,300
+That seems fair.
+
+770
+00:52:35,300 --> 00:52:37,380
+This is I mean, Formula One
+
+771
+00:52:37,640 --> 00:52:48,760
+I I've I've heard about this because they've done a they've it's on um Netflix but in it's also in the US on Apple TV because they've done a sort of trade because Apple's bought the F1 rates in the US.
+
+772
+00:52:49,460 --> 00:52:52,580
+So like they've done there's I there's been discussion.
+
+773
+00:52:52,580 --> 00:52:54,020
+But yeah, sounds interesting.
+
+774
+00:52:54,020 --> 00:53:00,740
+Uh you m you probably want to bleep this because we don't want to get a super high rating on Apple, but there is a point where one of the drivers who is
+
+775
+00:53:00,740 --> 00:53:15,460
+probably the funniest but also kind of knows it and enjoys it when people think he's the funniest, uh, says, Oh, Netflix, they're just all a bunch of peeps, you know and the guy next to him was like, They never broadcast that and he's like, Yeah, probably not and then they did, obviously.
+
+776
+00:53:15,600 --> 00:53:19,840
+But I think you're gonna have to beep that one, or we're really in trouble with Apple.
+
+777
+00:53:19,840 --> 00:53:20,560
+That's fair.
+
+778
+00:53:20,560 --> 00:53:22,480
+Maybe even if you beep it we're in trouble.
+
+779
+00:53:22,480 --> 00:53:23,520
+I don't know.
+
+780
+00:53:23,520 --> 00:53:24,880
+You can cut it.
+
+781
+00:53:25,360 --> 00:53:27,280
+No, if we beep it, it's fine.
+
+782
+00:53:27,280 --> 00:53:29,680
+If we beep it we're alright, alright.
+
+783
+00:53:29,160 --> 00:53:33,640
+We'll get in trouble with people who don't like the beep sound I use, but that's okay.
+
+784
+00:53:33,640 --> 00:53:34,920
+Beep!
+
+785
+00:53:37,559 --> 00:53:39,240
+Okay, I will use beep.
+
+786
+00:53:39,240 --> 00:53:43,240
+Um, right, and then it's I guess my pick.
+
+787
+00:53:43,240 --> 00:53:47,400
+So I am going to pick
+
+788
+00:53:47,720 --> 00:53:48,599
+A game.
+
+789
+00:53:48,599 --> 00:53:53,799
+I'm going to pick Vantage, which I mentioned briefly at the top of the episode.
+
+790
+00:53:53,799 --> 00:54:00,839
+So this is a game by Jamie Stegmeier, who has who is a well-regarded game designer
+
+791
+00:54:01,279 --> 00:54:03,119
+He has designed various things.
+
+792
+00:54:03,520 --> 00:54:06,720
+Like you might be most familiar maybe with Scythe.
+
+793
+00:54:06,720 --> 00:54:08,720
+He has designed a game called Vantage.
+
+794
+00:54:08,720 --> 00:54:09,760
+Vantage is
+
+795
+00:54:10,020 --> 00:54:16,020
+I think most clearly in conversation with Seventh Continent.
+
+796
+00:54:16,260 --> 00:54:19,060
+But effectively at the start of the game you are
+
+797
+00:54:19,620 --> 00:54:27,700
+in orbit having been sent to some planet and then something happens and you all end up in separate escape pods crash landing on the planet
+
+798
+00:54:27,660 --> 00:54:33,980
+Your landing zone is randomly generated, your mission is randomly generated, and it's good, it's interesting.
+
+799
+00:54:33,980 --> 00:54:36,780
+It took a while to get into the flow of it.
+
+800
+00:54:36,559 --> 00:54:40,799
+But once you do get into the flow of it, I think the mechanics make a lot of sense.
+
+801
+00:54:40,799 --> 00:54:44,960
+Story wise, because the game
+
+802
+00:54:45,160 --> 00:54:52,680
+says it takes between two and three hours, but it also says you can stop playing whenever you want because it's a story game, so you can just decide your story is over.
+
+803
+00:54:52,680 --> 00:54:55,960
+And we did indeed do that because we had to go and get a train home.
+
+804
+00:54:55,960 --> 00:54:57,720
+I found that slightly
+
+805
+00:54:58,000 --> 00:55:01,440
+unsatisfying because it it didn't really work.
+
+806
+00:55:01,440 --> 00:55:07,040
+We didn't kind of get to a uh narrative beat where that made sense
+
+807
+00:55:06,980 --> 00:55:15,059
+I think a much better way to do it would be to do what Seventh Continent did, which is to provide a way of saving the game and coming back to it
+
+808
+00:55:14,940 --> 00:55:23,500
+That game can last a very long time, but you it explicitly has a mechanism to save, which helps a lot with the fact that, you know, you could be playing for hours
+
+809
+00:55:23,300 --> 00:55:37,780
+And the thing with Vantage is that because you can't save it, it means that it does feel like you need to give it an unspecified amount of time to play through, which I think is is not optimal.
+
+810
+00:55:37,260 --> 00:55:42,780
+The instructions say that some will take two hours and some will take three or maybe slightly longer than three.
+
+811
+00:55:42,780 --> 00:55:52,060
+The reason you can't just sort of remember where you got up to and pick it up again is another odd decision, which is on every location you can only do one action.
+
+812
+00:55:51,800 --> 00:55:57,560
+And if you go from that location and then come back, you still can't take another action at that location.
+
+813
+00:55:57,560 --> 00:56:00,840
+Which is frustrating because I was outside a tower
+
+814
+00:56:00,940 --> 00:56:06,940
+And my options were, I can't remember exactly, something like hunt, shout, scale, something, something, something.
+
+815
+00:56:06,940 --> 00:56:09,180
+And I decided to shout to see if anyone was there.
+
+816
+00:56:09,180 --> 00:56:12,859
+And there was someone there, and they shot me, and then I had to leave.
+
+817
+00:56:12,660 --> 00:56:17,540
+And I was like, Well that feels I want to know who shot me, and I want to go and have a word with them.
+
+818
+00:56:17,540 --> 00:56:19,700
+It just felt weirdly unsatisfying.
+
+819
+00:56:19,700 --> 00:56:27,460
+And I assume that's to make it more replayable, but it seems like a really artificial way of achieving that to me.
+
+820
+00:56:27,460 --> 00:56:35,700
+But we did, just as we had to stop, and the reason I was slightly annoyed we couldn't save it, I got to a point where something that truly delighted me happened.
+
+821
+00:56:35,559 --> 00:56:46,200
+I it's difficult because it is a spoiler for something that can happen in the game, but it just put a big old grin on my face and I was like, oh, I really wish we didn't have to go because I really want to see how this would work, but we definitely don't have time to explore it.
+
+822
+00:56:45,600 --> 00:56:51,600
+It feels a bit like everyone's playing their own solo game and you don't do a lot of interacting with one another.
+
+823
+00:56:51,600 --> 00:56:54,880
+I don't dislike it and I want to play it again.
+
+824
+00:56:55,120 --> 00:57:01,120
+but I am wondering whether there might be expansions that sand some of those rough edges off.
+
+825
+00:57:01,120 --> 00:57:05,520
+Like an expansion that provides save games, I think, would be amazing.
+
+826
+00:57:05,359 --> 00:57:10,640
+I would recommend having a look at it, just because it's interesting and there's not many games that do that kind of thing.
+
+827
+00:57:10,640 --> 00:57:12,640
+That is my experience with advantage.
+
+828
+00:57:12,640 --> 00:57:14,480
+It sounds fun but frustrating, yeah.
+
+829
+00:57:14,480 --> 00:57:16,160
+I mean I'm in a gaming group where if
+
+830
+00:57:16,640 --> 00:57:21,839
+if a game is if a game is taking too long, we just kinda carry on and cut it out of our sleep.
+
+831
+00:57:21,839 --> 00:57:26,319
+Um but we often don't start things if we think they're gonna take three or four hours.
+
+832
+00:57:26,400 --> 00:57:28,319
+No, that's yeah, that's fair.
+
+833
+00:57:28,319 --> 00:57:28,960
+I think
+
+834
+00:57:29,160 --> 00:57:38,920
+I think knowing what I now know, I I would I would have g we would have given it more time, um, but I had not obviously on a first play that's difficult.
+
+835
+00:57:38,780 --> 00:57:43,660
+But it might be like a Saturday or Sunday afternoon game rather than a evening after dinner game.
+
+836
+00:57:43,660 --> 00:57:45,820
+And that was the Octothorpe Podcast.
+
+837
+00:57:45,820 --> 00:57:47,180
+And it's goodbye for me.
+
+838
+00:57:47,180 --> 00:57:48,380
+It's goodbye for me.
+
+839
+00:57:48,380 --> 00:57:49,980
+And it's goodbye from me.
+
+840
+00:58:10,240 --> 00:58:11,600
+Alison's gone.
+
+841
+00:58:11,600 --> 00:58:15,760
+Yeah, but shall I just do my is she gone to get like a delivered croissant or something?
+
+842
+00:58:15,760 --> 00:58:16,560
+Oh tissues.
+
+843
+00:58:16,560 --> 00:58:19,680
+She's gonna get tissues listeners, because she's got a cold.
+
+844
+00:58:19,460 --> 00:58:21,540
+Oh I see, which have been delivered by someone.
+
+845
+00:58:21,540 --> 00:58:22,340
+Oh I see.
+
+846
+00:58:22,340 --> 00:58:23,060
+Okay.
+
+847
+00:58:23,140 --> 00:58:28,740
+The theme music for this episode was Fanfare for Space by Kevin McLeod and Compatech.
+
+848
+00:58:28,740 --> 00:58:32,020
+com, used under a Creative Commons Attribution 4.
+
+849
+00:58:32,020 --> 00:58:33,220
+0 license
+
+850
+00:58:33,160 --> 00:58:35,640
+This podcast will end at the beep.
+
+851
+00:58:35,640 --> 00:58:36,040
+Beep
+
