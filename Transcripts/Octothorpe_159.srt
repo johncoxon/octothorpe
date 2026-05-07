@@ -1,0 +1,4332 @@
+1
+00:00:00,020 --> 00:00:09,640
+I'm very much regretting getting you to start the podcast on time because I forgot that we need that vital 20 minutes of remembering what we're about to talk about and Alison having to think about things.
+
+2
+00:00:21,840 --> 00:00:28,880
+Hello everyone and welcome to the very 159th episode of Octothorpe,
+
+3
+00:00:29,180 --> 00:00:35,780
+which is being judged on its style, control, damage and aggression on the 7th of May 2026.
+
+4
+00:00:36,300 --> 00:00:37,060
+I'm John Coxon.
+
+5
+00:00:37,580 --> 00:00:38,520
+I'm Alison Scott.
+
+6
+00:00:38,920 --> 00:00:39,680
+And I'm Liz Batty.
+
+7
+00:00:40,080 --> 00:00:44,600
+Which of us is style, which of us is control, which of us is damage and which of us is aggression, John?
+
+8
+00:00:45,040 --> 00:00:47,760
+I think Alison is damage and Liz is aggression.
+
+9
+00:00:48,480 --> 00:00:49,780
+I'll take either style or control.
+
+10
+00:00:50,280 --> 00:00:55,180
+We're not going to do letters of comment today, listeners, because we're recording slightly out of order.
+
+11
+00:00:55,390 --> 00:00:57,860
+But we are going to talk about Easter cons.
+
+12
+00:00:58,560 --> 00:01:01,780
+Before we talk about Easter cons, Liz is going to tell us something about some chums.
+
+13
+00:01:02,500 --> 00:01:11,300
+Our chums, the ancillary review of books who produced the excellent podcast A Meal of Thorns, among a lot of quality criticism.
+
+14
+00:01:11,740 --> 00:01:12,400
+Hi, Casella.
+
+15
+00:01:12,980 --> 00:01:13,400
+Hi, Casella.
+
+16
+00:01:13,470 --> 00:01:14,320
+They launched in 2020.
+
+17
+00:01:14,980 --> 00:01:17,040
+They have been Hugo finalists.
+
+18
+00:01:17,180 --> 00:01:23,120
+and Mila Thorns has been a Hugo finalist and they are taking the next step which is to run a
+
+19
+00:01:23,340 --> 00:01:30,360
+Kickstarter to try and get some more funding to keep them going and expand. So they set a very low
+
+20
+00:01:30,660 --> 00:01:35,800
+goal I think deliberately in the well that would help us out but anything extra will do some stretch
+
+21
+00:01:35,940 --> 00:01:42,019
+goals. So they are already funded but the Kickstarter is open until the 14th of May and
+
+22
+00:01:42,040 --> 00:01:48,400
+you can go over there and donate and back the project and it will all go to giving them a budget
+
+23
+00:01:48,560 --> 00:01:54,940
+to pay writers more for writing on the site which is a good goal so hop over there and also there's
+
+24
+00:01:54,940 --> 00:01:59,320
+a little hint that if you pledge to them at a certain level you can have access to the discord
+
+25
+00:01:59,980 --> 00:02:03,640
+and everyone knows we love discords oh shit hang on what was that
+
+26
+00:02:05,899 --> 00:02:12,000
+wow i'm worried my pledge is not high enough hang on that is a 25 pledge
+
+27
+00:02:12,020 --> 00:02:14,000
+Now, that is what I was going to pledge.
+
+28
+00:02:14,320 --> 00:02:15,280
+Dollar, dollar bills, yo.
+
+29
+00:02:15,820 --> 00:02:16,260
+There you go.
+
+30
+00:02:16,490 --> 00:02:18,060
+If you pledge that, you can go on the Discord.
+
+31
+00:02:18,840 --> 00:02:21,060
+You will end up being on the Discord with me and Alison.
+
+32
+00:02:21,480 --> 00:02:22,580
+Make of that what you will.
+
+33
+00:02:22,840 --> 00:02:24,340
+I might not be clever enough for that.
+
+34
+00:02:24,600 --> 00:02:25,620
+I may just learn.
+
+35
+00:02:26,780 --> 00:02:27,460
+We've all been there.
+
+36
+00:02:27,760 --> 00:02:29,340
+We've all been in a Discord where I'm like,
+
+37
+00:02:29,560 --> 00:02:30,420
+I'm not saying anything.
+
+38
+00:02:30,920 --> 00:02:32,280
+There's loads of very clever people.
+
+39
+00:02:32,840 --> 00:02:36,060
+I look forward to Alison taking a pledge of silence for Discord.
+
+40
+00:02:36,660 --> 00:02:37,140
+I mean, maybe.
+
+41
+00:02:37,620 --> 00:02:38,360
+No, that sounds good.
+
+42
+00:02:39,060 --> 00:02:40,960
+Ancillary reviewer books are doing good things.
+
+43
+00:02:41,260 --> 00:02:42,860
+A Meal of Thorns is a good podcast.
+
+44
+00:02:44,060 --> 00:02:45,660
+And yeah, give them money, listeners.
+
+45
+00:02:46,260 --> 00:02:50,460
+And critically, they're not trying to run a physical building in Los Angeles with it.
+
+46
+00:02:50,700 --> 00:02:51,400
+It's the Bay Area.
+
+47
+00:02:51,480 --> 00:02:52,720
+I don't think it's actual San Francisco.
+
+48
+00:02:53,280 --> 00:02:53,880
+San Francisco.
+
+49
+00:02:54,280 --> 00:02:56,640
+But I think it's Oakland, if I recall correctly.
+
+50
+00:02:57,080 --> 00:03:01,560
+That's a reference to Locust listeners for people who haven't listened to the last couple of episodes.
+
+51
+00:03:02,120 --> 00:03:03,160
+Hurrah! Good luck, Casella.
+
+52
+00:03:03,780 --> 00:03:07,120
+It says tell your friends, which I think we're doing right now, right?
+
+53
+00:03:07,480 --> 00:03:07,760
+Yes.
+
+54
+00:03:08,260 --> 00:03:09,840
+When does it expire, Liz?
+
+55
+00:03:10,380 --> 00:03:11,220
+14th of May.
+
+56
+00:03:11,640 --> 00:03:15,880
+It's the 14th of May, 14th of May, the Kickstarter ends today.
+
+57
+00:03:17,400 --> 00:03:18,140
+That's a deep cut.
+
+58
+00:03:18,500 --> 00:03:20,680
+I will put a link in the show notes to my deep cut.
+
+59
+00:03:21,080 --> 00:03:22,500
+Warning, it's not safe for work.
+
+60
+00:03:23,320 --> 00:03:23,720
+Okay.
+
+61
+00:03:25,520 --> 00:03:26,700
+Oh, are you trying to do 1st of May?
+
+62
+00:03:27,140 --> 00:03:27,420
+Okay.
+
+63
+00:03:27,820 --> 00:03:31,620
+I know the reference, but didn't get it from your singing, I'm afraid.
+
+64
+00:03:32,080 --> 00:03:32,740
+Entirely fair.
+
+65
+00:03:33,160 --> 00:03:34,760
+Did I bamboozle you, Liz?
+
+66
+00:03:35,360 --> 00:03:35,900
+Oh, goodness.
+
+67
+00:03:36,060 --> 00:03:39,440
+I knew that reference, but actually never occurred to it.
+
+68
+00:03:39,820 --> 00:03:40,020
+Good.
+
+69
+00:03:40,080 --> 00:03:48,980
+excellent all right liz how was your easter uh it was very nice i went to the countryside i went to
+
+70
+00:03:48,980 --> 00:03:55,180
+a batik shop i went to a museum of shadow puppetry and i went to the beach it was good what is a
+
+71
+00:03:55,460 --> 00:04:02,880
+batik shop a shop that sells batik where they make batik fabric which is the fabric where you put
+
+72
+00:04:02,910 --> 00:04:07,000
+wax on where you don't want the fabric to be dyed and then you put a layer of dye on and then you
+
+73
+00:04:06,980 --> 00:04:11,240
+melt off the wax and you can put more layers on and build up this uh pattern it's very traditional
+
+74
+00:04:11,580 --> 00:04:17,000
+uh art form okay i'll put a link in the show notes listeners because i found a uk stockist of such
+
+75
+00:04:17,180 --> 00:04:23,760
+things uh yes i feel like it's a very normal thing and i feel like i may be more connected with
+
+76
+00:04:24,380 --> 00:04:29,420
+hippie and counterculture roots than john is because you know the stuff was everywhere in the
+
+77
+00:04:29,580 --> 00:04:35,020
+in the 70s i think it's fair to say that um i know robot wars references and you know fabric
+
+78
+00:04:35,040 --> 00:04:42,080
+references i think that's not that's not unreasonable and how much of your holiday in
+
+79
+00:04:42,240 --> 00:04:48,360
+batik shops and shadow puppetry museums and the beach did you spend on the easter con uh members
+
+80
+00:04:48,480 --> 00:04:55,880
+portal liz zero liz i know so i was gonna join and have a virtual membership but then i realized
+
+81
+00:04:56,120 --> 00:05:02,800
+i would be on holiday for basically the entire conference and i am not actually that good at
+
+82
+00:05:02,700 --> 00:05:08,760
+listening to things on catch up yep fair and i've already signed up for world con which i will again
+
+83
+00:05:08,980 --> 00:05:15,340
+be primarily experiencing through the magic of catch up because of time zones so i just skipped
+
+84
+00:05:15,680 --> 00:05:21,120
+easter con entirely seems reasonable i don't think anyone noticed i noticed thank you john
+
+85
+00:05:22,220 --> 00:05:29,139
+we noticed scott edelman noticed yeah yes he did because he found he was only having dinner with
+
+86
+00:05:29,080 --> 00:05:29,940
+Two people, not three.
+
+87
+00:05:30,320 --> 00:05:30,900
+Lunch, but yes.
+
+88
+00:05:32,060 --> 00:05:35,020
+People in the Octothorpe thread on the convention Discord noticed.
+
+89
+00:05:35,480 --> 00:05:38,180
+I hope you didn't mind, but I posted your picture of a beach to it.
+
+90
+00:05:38,460 --> 00:05:39,160
+I don't mind.
+
+91
+00:05:39,520 --> 00:05:43,860
+It was carefully taken to obscure, I think, most identifying details.
+
+92
+00:05:44,500 --> 00:05:47,600
+I mean, I hope they did notice that I am not, in fact, Claudia,
+
+93
+00:05:48,840 --> 00:05:51,140
+who I thought was an excellent stunt me.
+
+94
+00:05:51,820 --> 00:05:52,500
+Good choice again.
+
+95
+00:05:52,860 --> 00:05:56,400
+So one of the things we did at EasterCon was that we had Octothorpe live
+
+96
+00:05:56,420 --> 00:05:58,660
+and Claudia Rapp was our stunt.
+
+97
+00:05:59,060 --> 00:06:01,660
+Liz, and I think our live episode went quite well.
+
+98
+00:06:01,840 --> 00:06:03,740
+Claudia is the chair of MetropolCon,
+
+99
+00:06:04,100 --> 00:06:04,980
+where lots of people are going.
+
+100
+00:06:05,300 --> 00:06:06,000
+Here's Eurocon.
+
+101
+00:06:06,300 --> 00:06:07,700
+I wanted to invite Claudia
+
+102
+00:06:08,020 --> 00:06:10,720
+because I think inviting people working on Eurocons is good.
+
+103
+00:06:10,800 --> 00:06:13,780
+We haven't really talked much about Eurocon on this podcast,
+
+104
+00:06:14,500 --> 00:06:16,700
+but Eurocon is the European Science Fiction Convention.
+
+105
+00:06:17,840 --> 00:06:20,640
+It's modelled, I don't know which order this happened in,
+
+106
+00:06:21,120 --> 00:06:24,360
+but Eurocon appears to be quite similar to Worldcon,
+
+107
+00:06:24,540 --> 00:06:29,040
+except with all of the world references replaced by the word euro they have like the european
+
+108
+00:06:29,150 --> 00:06:33,080
+science fiction society and they have a business meeting at the eurocon and the eurocon is a
+
+109
+00:06:33,200 --> 00:06:37,080
+traveling convention that travels around europe and if you replaced all of the europe's and euros
+
+110
+00:06:37,340 --> 00:06:42,980
+in that with world you'd get worldcon and i think worldcon came first so i assume they templated it
+
+111
+00:06:43,100 --> 00:06:49,340
+on worldcon but i might be wrong eurocon history experts do write in so there's one very important
+
+112
+00:06:49,360 --> 00:06:55,860
+way in which Eurocon is not like Worldcon which is that the tail doesn't wag the dog so Eurocons
+
+113
+00:06:56,160 --> 00:07:01,360
+either join on to another existing convention or are sometimes their own thing but run by local fans
+
+114
+00:07:01,880 --> 00:07:09,740
+yes but they're all the local convention with some Eurocon bits in a way that I think Worldcon is
+
+115
+00:07:09,840 --> 00:07:15,560
+always Worldcon with some local bits yeah I think that's fair and and I think therefore you're you're
+
+116
+00:07:15,580 --> 00:07:17,660
+If you go to Eurocons, they will vary quite a lot.
+
+117
+00:07:17,710 --> 00:07:21,080
+And we'll probably talk a little bit about that later in the episode, foreshadowing.
+
+118
+00:07:21,380 --> 00:07:26,360
+Well, I think I have previously advocated that Worldcons should maybe do a little bit more of that,
+
+119
+00:07:26,820 --> 00:07:30,360
+just in the sense that maybe we have accumulated sufficient Worldcon traditions
+
+120
+00:07:30,660 --> 00:07:33,560
+that it's okay to break a few of them now and then to see what happens.
+
+121
+00:07:34,080 --> 00:07:34,980
+You'd think that, wouldn't you?
+
+122
+00:07:35,300 --> 00:07:37,460
+Yeah, for instance, democracy, making money.
+
+123
+00:07:37,960 --> 00:07:40,160
+These are things you can do away with and see what happens.
+
+124
+00:07:40,640 --> 00:07:45,000
+I think we have tried doing away with the making money bit of Worldcons.
+
+125
+00:07:45,360 --> 00:07:50,680
+we've certainly had a couple where we've not made any money japan yeah so maybe not that bit
+
+126
+00:07:51,080 --> 00:07:58,480
+and some some brushes with a lack of democracy now and then flirtations sorry liz please continue
+
+127
+00:07:58,550 --> 00:08:03,260
+with your sensible and serious point i think i think i was going to go on and say that i enjoyed
+
+128
+00:08:03,260 --> 00:08:10,139
+the live episode but i certainly would not call it one of our more focused episodes no maybe i do
+
+129
+00:08:10,160 --> 00:08:17,300
+bring something to the podcast you do bring something to the podcast i will also say we got
+
+130
+00:08:17,500 --> 00:08:24,540
+criticism on our novicon episode and our reconnect episode for being too linear and not chaotic
+
+131
+00:08:24,700 --> 00:08:30,480
+enough that's not gonna happen this time i am beginning to appreciate that our fans want a
+
+132
+00:08:30,720 --> 00:08:35,759
+certain level of chaos in the live shows and so i'm trying to embrace a little bit of chaos but
+
+133
+00:08:35,780 --> 00:08:40,640
+You are right that you are the least chaotic of the three of us by, I would say, quite some margin.
+
+134
+00:08:41,120 --> 00:08:45,520
+I think this is true, and I think Claudia filled that gap very effectively.
+
+135
+00:08:46,020 --> 00:08:46,240
+Yes.
+
+136
+00:08:46,660 --> 00:08:49,620
+Also, I think I get more of your jokes.
+
+137
+00:08:51,160 --> 00:08:52,580
+I mean, that might be fair.
+
+138
+00:08:52,850 --> 00:08:56,060
+You have known me a long time, and we have a shared cultural heritage.
+
+139
+00:08:56,660 --> 00:09:00,780
+There were definitely times where I thought, ooh, John's made a joke, and it's gone sailing past.
+
+140
+00:09:01,340 --> 00:09:02,060
+That's all right, though.
+
+141
+00:09:02,250 --> 00:09:05,640
+Sometimes it's good for there to be jokes that are just for the listener and not for the co-host.
+
+142
+00:09:06,220 --> 00:09:08,020
+I mean for those who don't know Liz and I have known each other
+
+143
+00:09:08,080 --> 00:09:09,340
+this will come out in the Fantastic
+
+144
+00:09:09,800 --> 00:09:11,560
+but we've known each other two decades at this point
+
+145
+00:09:12,120 --> 00:09:13,000
+it's a long time
+
+146
+00:09:13,580 --> 00:09:15,460
+and known each other well as well
+
+147
+00:09:15,760 --> 00:09:17,720
+This may come up when we discuss later
+
+148
+00:09:18,120 --> 00:09:19,060
+EasterCon bids
+
+149
+00:09:19,560 --> 00:09:21,220
+Yes, should we talk about EasterCon?
+
+150
+00:09:21,920 --> 00:09:23,700
+I started talking about EasterCon
+
+151
+00:09:23,780 --> 00:09:25,220
+in fact by talking about the live show
+
+152
+00:09:25,620 --> 00:09:27,660
+so I ran the newsletter at EasterCon
+
+153
+00:09:27,900 --> 00:09:29,940
+and a couple of things I want to say about the newsletter
+
+154
+00:09:30,240 --> 00:09:31,760
+I had forgotten how much work it is
+
+155
+00:09:31,940 --> 00:09:33,440
+which I forget every single time
+
+156
+00:09:33,580 --> 00:09:34,479
+and yet here we are
+
+157
+00:09:36,780 --> 00:09:43,760
+it was quite a lot of fun we had we had good times doing it and we had a new we had an exciting new
+
+158
+00:09:43,880 --> 00:09:48,400
+content management system designed for us by Andrew January um thank you very much Andrew
+
+159
+00:09:48,940 --> 00:09:53,680
+which allows us to post to all the other places we might want to post as well as to the newsletter in
+
+160
+00:09:53,880 --> 00:10:00,299
+in a very integrated fashion it has a few bugs the longest the longest article by far on the
+
+161
+00:10:00,320 --> 00:10:04,940
+newsletter content management system is the list of bugs we would like Andrew to sort out for next
+
+162
+00:10:05,020 --> 00:10:09,560
+time please and thank you I think it is amazing that Andrew January has developed a bespoke CMS
+
+163
+00:10:09,860 --> 00:10:14,700
+for Eastcon newsletters like let's just pause and think about that listeners that's awesome
+
+164
+00:10:15,180 --> 00:10:21,300
+he thought it was fun and you know it's I think it was fun I think this is it's possible that this
+
+165
+00:10:21,300 --> 00:10:27,379
+is how Andrew has fun we must make sure that we never do anything to cause him to not have fun
+
+166
+00:10:27,400 --> 00:10:34,420
+with it anyway yes so that was great and and that he he um so the newsletter was called the fiery
+
+167
+00:10:34,620 --> 00:10:37,580
+chicken which is not necessarily our best newsletter name ever but it was good enough
+
+168
+00:10:38,420 --> 00:10:42,760
+and the one headline joke that could have been made from that got cut out by one of my co-editors
+
+169
+00:10:42,900 --> 00:10:49,960
+by mistake oh so you know which was when alan dawson went off to and in that way of of young
+
+170
+00:10:50,220 --> 00:10:57,360
+people decided he would have the chili at dave's hot chicken so hot that you needed to sign a
+
+171
+00:10:57,380 --> 00:10:58,820
+before they would let you eat it.
+
+172
+00:10:59,350 --> 00:11:00,480
+And he signed the disclaimer
+
+173
+00:11:01,000 --> 00:11:02,600
+and decided it was completely inedible
+
+174
+00:11:02,670 --> 00:11:03,720
+and he was never doing that again.
+
+175
+00:11:03,790 --> 00:11:06,160
+And we titled that story Extra Fiery Chicken
+
+176
+00:11:06,410 --> 00:11:08,240
+and then it disappeared somewhere in the edit.
+
+177
+00:11:08,500 --> 00:11:09,900
+So if you had the newsletter,
+
+178
+00:11:09,950 --> 00:11:11,420
+there was a joke in there you didn't get.
+
+179
+00:11:11,800 --> 00:11:13,260
+So one of the things that happened at EasterCon
+
+180
+00:11:13,580 --> 00:11:15,660
+was that there was another convention sharing the space.
+
+181
+00:11:15,750 --> 00:11:17,180
+And I think both halves of this,
+
+182
+00:11:17,180 --> 00:11:19,200
+this was HaruhiCon, I don't think I pronounced it.
+
+183
+00:11:19,800 --> 00:11:20,980
+HaruhiCon, yeah, I don't know.
+
+184
+00:11:21,190 --> 00:11:21,660
+I don't know.
+
+185
+00:11:21,930 --> 00:11:23,760
+They did say in the closing ceremony and I can't.
+
+186
+00:11:24,000 --> 00:11:25,860
+They said in the closing ceremony, but I'm not.
+
+187
+00:11:26,040 --> 00:11:29,940
+So if you're from Harui Con and you're listening to Watch For For the First Time, write in.
+
+188
+00:11:30,020 --> 00:11:30,560
+It's not impossible.
+
+189
+00:11:31,280 --> 00:11:36,260
+And it turned out that everybody at Easter Con and everybody at Harui Con got on very well.
+
+190
+00:11:36,600 --> 00:11:38,940
+They're kind of like us, but younger and better dressed.
+
+191
+00:11:39,480 --> 00:11:42,600
+And they were like, they're like us, but older and worse dressed.
+
+192
+00:11:43,400 --> 00:11:44,060
+And it was all good.
+
+193
+00:11:44,420 --> 00:11:50,460
+And one of the things that we, I got a lot of compliments from Harui Con people about the newsletter because they had never seen such a thing.
+
+194
+00:11:50,920 --> 00:11:51,200
+Yes.
+
+195
+00:11:51,660 --> 00:11:52,700
+They were like, this is amazing.
+
+196
+00:11:52,880 --> 00:11:53,580
+We should do this.
+
+197
+00:11:53,680 --> 00:11:54,600
+And I said, yes, you should.
+
+198
+00:11:54,640 --> 00:11:54,920
+It's great.
+
+199
+00:11:55,500 --> 00:11:57,860
+I did not say, but it's a lot of work.
+
+200
+00:11:58,200 --> 00:11:58,280
+Yeah.
+
+201
+00:11:58,580 --> 00:12:01,300
+We do these things because they're a lot of work and they're fun.
+
+202
+00:12:01,540 --> 00:12:06,700
+In the closing ceremony, the secretary said, reporting sentiment from members of HaruhiCon,
+
+203
+00:12:07,460 --> 00:12:08,880
+the EasterCon guys are so nice.
+
+204
+00:12:08,960 --> 00:12:09,540
+This is us.
+
+205
+00:12:09,540 --> 00:12:15,480
+But when we're older and which is not untrue, they were very similar vibes.
+
+206
+00:12:15,660 --> 00:12:21,480
+Like they had got their panel names on the Hilton screens so you could see what panels
+
+207
+00:12:21,480 --> 00:12:21,900
+they were doing.
+
+208
+00:12:22,320 --> 00:12:27,460
+The reason we didn't do that was because if we had done that, we wouldn't have been able to change them if our panels changed.
+
+209
+00:12:28,000 --> 00:12:33,800
+Equally, and this is something we can discuss today or maybe in a future episode, I think outright panel swaps.
+
+210
+00:12:34,050 --> 00:12:39,840
+I remember when I was new to conventions, pink sheets came out and a lot of panels were darted about all over the place.
+
+211
+00:12:39,970 --> 00:12:44,280
+And my sense is that the program stays a lot more still than it used to now.
+
+212
+00:12:44,700 --> 00:12:50,900
+And I think that might be a worry we had that's based in Eastercons of a decade ago rather than Eastercon now.
+
+213
+00:12:51,480 --> 00:12:54,000
+But a lot of their panels looked really interesting.
+
+214
+00:12:54,220 --> 00:12:56,400
+And I was like, oh, I'd quite like to go to that one, actually.
+
+215
+00:12:57,120 --> 00:12:58,180
+Their dealer's room was great.
+
+216
+00:12:58,840 --> 00:13:01,760
+And yeah, it really did seem like an EasterCon,
+
+217
+00:13:01,920 --> 00:13:07,000
+but for slightly younger fans who were more into anime than maybe the average EasterCon goer.
+
+218
+00:13:07,140 --> 00:13:09,820
+But there's clearly a lot of scope for cross-pollination.
+
+219
+00:13:10,480 --> 00:13:13,480
+And I actually think one of the most effective ways of getting people into EasterCon
+
+220
+00:13:13,580 --> 00:13:17,180
+might be to just identify hotels where conventions are already happening
+
+221
+00:13:17,220 --> 00:13:19,100
+and then share the space and lure them.
+
+222
+00:13:20,100 --> 00:13:24,540
+We haven't considered doing this as a recruitment mechanism, but maybe this is a good shout.
+
+223
+00:13:25,180 --> 00:13:30,000
+So one of the things that definitely happened, we shared dealer's rooms and art shows and also the games room.
+
+224
+00:13:30,240 --> 00:13:32,720
+Their games room was all digital and as was all cardboard.
+
+225
+00:13:33,180 --> 00:13:34,780
+They had some cardboard games.
+
+226
+00:13:34,870 --> 00:13:38,760
+I confess I didn't explore their games room because I sort of felt as the person doing the games room,
+
+227
+00:13:39,120 --> 00:13:42,360
+if I was going to be in a games room, I should probably be in the one that I was volunteering to run.
+
+228
+00:13:42,700 --> 00:13:43,860
+But that's not shade on theirs.
+
+229
+00:13:44,370 --> 00:13:45,400
+They had Dance Dance Revolution.
+
+230
+00:13:46,340 --> 00:13:47,600
+So Liz would have been well at home.
+
+231
+00:13:48,040 --> 00:13:52,960
+Yes, I would have. If I'd had a little bit more time, I would definitely have gone and done DDR.
+
+232
+00:13:53,250 --> 00:13:57,140
+Alan Dawson remembers that I'm actually quite good at DDR for an old fat person.
+
+233
+00:13:57,470 --> 00:14:00,920
+But I mean, I'm not good at DDR by the standards of people who do DDR.
+
+234
+00:14:01,140 --> 00:14:06,620
+I just have soft mats and I do it for exercise rather than fun, like so many things.
+
+235
+00:14:07,320 --> 00:14:10,840
+Quite a lot of people, we know that we had some people join EasterCon.
+
+236
+00:14:10,940 --> 00:14:11,180
+Yes.
+
+237
+00:14:11,580 --> 00:14:17,380
+And say also that they come to another EasterCon, especially after going into our book room and going,
+
+238
+00:14:17,540 --> 00:14:18,580
+oh my god, it's full of books.
+
+239
+00:14:19,220 --> 00:14:23,900
+Yes, their dealer's room was full of stuff and ours was full of books.
+
+240
+00:14:24,459 --> 00:14:26,560
+Very difficult. It was very pink.
+
+241
+00:14:26,960 --> 00:14:31,300
+It was incredibly full of fluffy things and stickers and pin badge.
+
+242
+00:14:31,820 --> 00:14:33,280
+And ours was basically full of books.
+
+243
+00:14:33,840 --> 00:14:36,400
+Honestly, this all sounds delightful.
+
+244
+00:14:36,980 --> 00:14:37,980
+Yeah, it was. It was really good.
+
+245
+00:14:38,360 --> 00:14:40,140
+Oh, and they just have fantastic cosplay.
+
+246
+00:14:40,380 --> 00:14:42,560
+So you could walk around all weekend seeing fantastic cosplay.
+
+247
+00:14:43,060 --> 00:14:45,660
+I mean, are they an annual thing? Are they a one-off?
+
+248
+00:14:45,920 --> 00:14:53,720
+That's unclear. Their website doesn't seem to indicate anything about previous iterations or future iterations.
+
+249
+00:14:54,450 --> 00:14:55,120
+So I don't know.
+
+250
+00:14:55,620 --> 00:15:01,160
+Because, and this will come up later, but we're probably coming back to Birmingham in a couple of years, right?
+
+251
+00:15:01,420 --> 00:15:05,260
+Can we not just chat to the Ruicon guys and say, try and do it again?
+
+252
+00:15:05,640 --> 00:15:10,560
+I don't know if anyone from the 28 bid is listening, but I think that's a great idea.
+
+253
+00:15:10,810 --> 00:15:12,460
+I don't know if they're talking to them.
+
+254
+00:15:13,200 --> 00:15:15,920
+It did come up at the beard session, and we'll get onto that later.
+
+255
+00:15:16,560 --> 00:15:17,880
+But yeah, I think that would be great.
+
+256
+00:15:18,330 --> 00:15:19,680
+Can I talk about the games room?
+
+257
+00:15:20,180 --> 00:15:21,760
+Yeah, yeah, yeah, you can. That sounds great.
+
+258
+00:15:22,180 --> 00:15:23,040
+I ran the games room.
+
+259
+00:15:23,500 --> 00:15:25,580
+When I pitched this to Phil and Virginia, I was like,
+
+260
+00:15:25,640 --> 00:15:26,740
+we should do something like that at Reconnect,
+
+261
+00:15:26,930 --> 00:15:29,080
+where we invite a board game cafe to bring their collection
+
+262
+00:15:29,340 --> 00:15:30,880
+and steward the games room for us.
+
+263
+00:15:31,400 --> 00:15:34,180
+And then I found out I was doing the games room when JT sent me a message saying,
+
+264
+00:15:34,300 --> 00:15:35,660
+is this furniture layout all right?
+
+265
+00:15:35,780 --> 00:15:37,020
+And I was like, you what, with who now?
+
+266
+00:15:37,320 --> 00:15:37,960
+I was like, oh no.
+
+267
+00:15:38,580 --> 00:15:39,940
+And I did not have time to get that done.
+
+268
+00:15:40,380 --> 00:15:43,100
+So there could have been a problem with a lack of games.
+
+269
+00:15:43,860 --> 00:15:48,480
+However, long-time listeners will know that one of Alison's decluttering strategies
+
+270
+00:15:49,240 --> 00:15:52,940
+is that every day she goes to a walk to as many charity shops as she can find
+
+271
+00:15:53,000 --> 00:15:54,640
+and she buys all the games she sees,
+
+272
+00:15:55,080 --> 00:15:57,920
+which I said to Jonathan was a unique and novel way of decluttering,
+
+273
+00:15:58,300 --> 00:16:01,460
+and Jonathan nodded emphatically, which I found very funny.
+
+274
+00:16:01,880 --> 00:16:02,820
+Hello, Jonathan, if you're listening.
+
+275
+00:16:03,060 --> 00:16:04,040
+I don't think Jonathan does listen.
+
+276
+00:16:04,460 --> 00:16:07,840
+I acquired eight new games on Friday, which is a lot even for me.
+
+277
+00:16:08,220 --> 00:16:12,540
+but because allison then did want to get rid of these games allison brought them to the east con
+
+278
+00:16:12,940 --> 00:16:17,520
+on a sort of please donate and take these games with you so there was a table of games people had
+
+279
+00:16:17,680 --> 00:16:21,840
+brought to lend out and and people to play and then there was a table of games that people had
+
+280
+00:16:21,930 --> 00:16:27,520
+brought to donate and they were roughly equal piles and i think that worked really well and i
+
+281
+00:16:27,640 --> 00:16:30,980
+think the games room would not have been as good without that innovation of allison's and i would
+
+282
+00:16:31,010 --> 00:16:34,839
+like to make that a games room tradition or certainly if i run games room again i will be
+
+283
+00:16:34,840 --> 00:16:40,120
+encouraging people to bring games that they want to declutter that they could get rid of other people
+
+284
+00:16:40,600 --> 00:16:45,540
+also brought games for decluttering and a lot of them were better and there was an obvious
+
+285
+00:16:46,000 --> 00:16:50,500
+consequence of this what was the obvious consequence i've donated quite a lot of money to the fan funds
+
+286
+00:16:50,520 --> 00:16:56,100
+and i have some new games hey because we also said please donate money to the fan funds if you take
+
+287
+00:16:56,180 --> 00:17:00,460
+our games away and people did so it made a little bit of money for the fan funds and it also provided
+
+288
+00:17:00,460 --> 00:17:04,160
+some games and also it got people talking about the games they'd like to bring there were actually
+
+289
+00:17:04,180 --> 00:17:09,680
+a lot of good games to play in the games room all of the time there was no shortage of games and i
+
+290
+00:17:09,780 --> 00:17:15,339
+have to say although a cafe ran the games room last time they did bring a lot of games that
+
+291
+00:17:15,880 --> 00:17:22,220
+were no better than the charity shop games that i brought to donate so so not all they i mean one
+
+292
+00:17:22,319 --> 00:17:25,680
+of the games they encouraged me to play last year was a game that i've since seen in a charity shop
+
+293
+00:17:25,780 --> 00:17:29,859
+and declined to buy i think we had a discussion about that last time and me and is both like that's
+
+294
+00:17:29,880 --> 00:17:34,480
+a great game we talked about but i can't remember what game it was lobster mobster oh no maybe i'm
+
+295
+00:17:34,480 --> 00:17:39,440
+thinking of something else then no it's terrible i think we discussed last time that i think that
+
+296
+00:17:39,940 --> 00:17:45,760
+the games cafe who did things last year possibly thought there would be more people coming in and
+
+297
+00:17:45,840 --> 00:17:50,200
+wanting fun games and weren't expecting quite as many people to come in and say give me a chunky
+
+298
+00:17:50,460 --> 00:17:54,519
+game i can sit and play for six hours yes i think that's true what i'm wondering now is about
+
+299
+00:17:54,520 --> 00:18:01,740
+allison's decluttering could you almost formalize that by saying right bring games that you kind of
+
+300
+00:18:01,780 --> 00:18:06,160
+want to declutter but you'd also be open to swapping with someone stick them around the games room and
+
+301
+00:18:06,160 --> 00:18:10,900
+you all stick a label on saying this is the property of x discord message me if you want to swap it
+
+302
+00:18:11,280 --> 00:18:16,260
+and you can all arrange to swap your games with someone else's games so this is getting on to a
+
+303
+00:18:16,540 --> 00:18:22,640
+slight i put it to allison pre-con that allison might be overthinking the way she'd got about
+
+304
+00:18:22,660 --> 00:18:28,000
+doing this i was overthinking it ah um because what alison did was bespoke stickers for every
+
+305
+00:18:28,050 --> 00:18:31,480
+game with a qr code and little things you could cross out indicating the quality of the game
+
+306
+00:18:31,760 --> 00:18:36,140
+and she wrote on each one who it was good for which was great but was a phenomenal amount of work
+
+307
+00:18:36,630 --> 00:18:40,080
+i think what i would recommend doing next time is having a poster with a qr code basically saying
+
+308
+00:18:40,350 --> 00:18:44,760
+any game that has one of these stickers and we would have sticker sheets in the games room where
+
+309
+00:18:44,760 --> 00:18:48,960
+you could take stickers off them any game with one of these stickers is a game that someone wants to
+
+310
+00:18:48,900 --> 00:18:52,960
+get rid of if you want to take it with you please donate money at this link because i think that
+
+311
+00:18:52,970 --> 00:18:59,940
+would be the ideal um ratio of effort to donation but i don't think the swapping idea because no
+
+312
+00:19:00,020 --> 00:19:05,100
+one's bringing a game that they want to get like proper money for because all the money was going
+
+313
+00:19:05,100 --> 00:19:09,900
+to the fan funds so i don't think i think doing it as a swap shop would be neat but would probably
+
+314
+00:19:10,140 --> 00:19:13,740
+add effort which is not to say people couldn't do that they could do it themselves they could put a
+
+315
+00:19:13,740 --> 00:19:19,420
+sticker on the game saying if you'd like this i'd be up for a swap but i i don't know i i'm i'm wary
+
+316
+00:19:19,440 --> 00:19:24,000
+of making it too much work yeah i don't want it to be that the work ends up on the games room but i
+
+317
+00:19:24,000 --> 00:19:29,120
+was thinking if you are the sort of people person who i like to keep 10 games in the house and swap
+
+318
+00:19:29,140 --> 00:19:32,880
+around on a regular basis and there's a bunch of other people who are also doing that and this is
+
+319
+00:19:32,880 --> 00:19:38,020
+a convenient place to swap but you don't want to get into like big arguments in the games room about
+
+320
+00:19:38,260 --> 00:19:43,700
+people taking people swapping games and so on so you've got to be quite relaxed about it yeah we
+
+321
+00:19:43,720 --> 00:19:49,480
+had people running ttrpgs we had eight ttrpgs run over the course of the weekend um and that went
+
+322
+00:19:49,580 --> 00:19:55,480
+quite well i think they were all well attended and we never got more than about 10 signups but there
+
+323
+00:19:55,560 --> 00:19:58,900
+were like people signing up for each game so it wasn't always the same people signing up for every
+
+324
+00:19:58,940 --> 00:20:05,340
+game so i ran a game of mothership on the sunday morning uh and my players were ed morland friend
+
+325
+00:20:05,520 --> 00:20:11,260
+of the show glenn soph and graham went very well i had a lot of fun with that um thank you all for
+
+326
+00:20:11,280 --> 00:20:15,920
+coming and playing a game in mothership you roll on a table to see what your trinket is and ed got
+
+327
+00:20:16,020 --> 00:20:20,580
+a taxidermied cat and then you roll on a table to see what your loadout for your character is and
+
+328
+00:20:20,610 --> 00:20:24,480
+one of the things ed's character got was a lunchbox and later in the thing i was like have you brought
+
+329
+00:20:24,660 --> 00:20:28,920
+the taxidermied cat with you and because sofa suggested that the cat should be called shrugger
+
+330
+00:20:28,940 --> 00:20:34,040
+he was like obviously it's in the lunchbox and i was like this is a great joke ed that's emergent
+
+331
+00:20:34,160 --> 00:20:41,240
+narrative right there boom uh so i enjoyed that game very much and they didn't get eaten yay and
+
+332
+00:20:41,260 --> 00:20:45,380
+games panels went well uh although at least one person listening might disagree on one of them
+
+333
+00:20:45,860 --> 00:20:51,900
+sorry neil and allison successfully played lots of pirate games did i mention this i think i might
+
+334
+00:20:51,900 --> 00:20:56,840
+have mentioned this in the live show but you did but you didn't explain why april is all pirate
+
+335
+00:20:56,980 --> 00:21:02,100
+games um i didn't know it was so long-time listeners will know i've been playing a different
+
+336
+00:21:02,180 --> 00:21:11,220
+board game every day in 2026 and i'm using as my guiding star for this the 365 day play challenge
+
+337
+00:21:11,240 --> 00:21:15,880
+Game Geek, which I will put a link to in the show notes. So it gives me themes for the month.
+
+338
+00:21:16,520 --> 00:21:20,600
+And for the first three months of the year, I have followed the themes religiously, the first one
+
+339
+00:21:20,700 --> 00:21:24,880
+being play a new game to me every day, the second one, the second month, February, being play a game
+
+340
+00:21:24,880 --> 00:21:29,480
+you haven't played for a year every day. And the third month being play a game with a different
+
+341
+00:21:29,640 --> 00:21:34,000
+mechanism every day. And then I was also playing a card game every day. So I just played a card game
+
+342
+00:21:34,080 --> 00:21:38,120
+with a different mechanism every day in March. And that was great. And they didn't announce the April
+
+343
+00:21:38,140 --> 00:21:45,040
+one until about 6pm on March 31st, which was unfortunate. And it turned out to be pirate games.
+
+344
+00:21:45,760 --> 00:21:51,080
+But because they obviously all pirate games would be a bit tricky for people. I mean, most people
+
+345
+00:21:51,240 --> 00:21:55,020
+aren't doing it the way I do, which is mad. Most people are doing it in a much more gentle way of
+
+346
+00:21:55,020 --> 00:21:59,960
+just playing pirate games in April. Yeah, they said, but it can be any game with a pirate in it
+
+347
+00:21:59,960 --> 00:22:06,840
+or any game with a monkey in it or a parrot or a sea faring ship or loot gold or loot of any kind
+
+348
+00:22:07,300 --> 00:22:12,080
+or any game you play by speaking like a pirate, Shiver Matimbas, Vast Mahartis
+
+349
+00:22:12,420 --> 00:22:15,280
+or any game you wear while wearing pirate-like clothing
+
+350
+00:22:15,580 --> 00:22:20,400
+or any game you play while drinking rum which is good because EasterCon is quite hard
+
+351
+00:22:20,440 --> 00:22:22,980
+but luckily people did bring pirate-related games for me to play
+
+352
+00:22:23,120 --> 00:22:27,940
+so I played Pirate Flux and I played Loot and I played So Clover
+
+353
+00:22:27,940 --> 00:22:32,960
+which has not anything to do with pirates but I wrote some pirate-y words for my words
+
+354
+00:22:32,980 --> 00:22:36,940
+So I had Wind Duck and I wrote Albatross, which seemed like a pretty piratey word.
+
+355
+00:22:37,690 --> 00:22:38,140
+So, yeah.
+
+356
+00:22:38,590 --> 00:22:43,560
+So then I played something piratey on the Monday and you'll see I'm looking blankly now.
+
+357
+00:22:43,820 --> 00:22:47,480
+The thing you played on Monday was one that Rosanna and Ed brought, but I can't remember what it was called.
+
+358
+00:22:47,880 --> 00:22:48,980
+Because you played it after midnight.
+
+359
+00:22:49,680 --> 00:22:51,580
+Rebel. I didn't count. I didn't count.
+
+360
+00:22:51,900 --> 00:22:54,980
+What? But Rebel Princesses are clearly just pirates.
+
+361
+00:22:55,660 --> 00:22:58,200
+Sorry, I've missed one. I played Deep Sea Adventure, which was quite.
+
+362
+00:22:58,420 --> 00:23:00,200
+I didn't count Rebel Princesses.
+
+363
+00:23:00,280 --> 00:23:08,020
+So you could argue that the Rebel Princess, but also I feel like if I can get through playing a unique game every day during EasterCon, I can manage the whole of the rest of the year.
+
+364
+00:23:08,600 --> 00:23:09,740
+Everything else is going to be easy.
+
+365
+00:23:10,030 --> 00:23:16,020
+But I also brought home, as well as bringing home games that other people have given away, I also brought home a bunch of Sandra Bond's games.
+
+366
+00:23:16,620 --> 00:23:19,440
+Sandra Bond has an excellent collection of rare 80s games.
+
+367
+00:23:19,670 --> 00:23:23,360
+And I don't know if it would be true to say she doesn't want them anymore, but she doesn't have space for them.
+
+368
+00:23:23,590 --> 00:23:24,860
+And some of those are piratical.
+
+369
+00:23:25,320 --> 00:23:27,440
+Liz, did you play any games while you were on holiday?
+
+370
+00:23:27,980 --> 00:23:28,100
+No.
+
+371
+00:23:28,600 --> 00:23:28,760
+Okay.
+
+372
+00:23:29,260 --> 00:23:32,960
+The other thing I wanted to highlight was a couple of things I went to on program, which I didn't mention last time.
+
+373
+00:23:33,500 --> 00:23:35,060
+The BSFA lecture was amazing.
+
+374
+00:23:35,720 --> 00:23:40,060
+It was given by Rosie Alexander-Jones.
+
+375
+00:23:40,700 --> 00:23:44,440
+And it was from reel to reel, film locations beyond the screen.
+
+376
+00:23:44,900 --> 00:23:45,800
+And that was really interesting.
+
+377
+00:23:46,360 --> 00:23:49,380
+She talked about several case studies of like filming locations and stuff.
+
+378
+00:23:49,840 --> 00:23:50,620
+And it was really, really good.
+
+379
+00:23:51,720 --> 00:23:58,960
+One of the really interesting things that came out of it, among many, was the tourism in New Zealand around Lord of the Rings.
+
+380
+00:23:59,160 --> 00:24:04,320
+there's been a lot of criticism of that because it might erase the Maori indigenous history and
+
+381
+00:24:04,360 --> 00:24:07,900
+she's like you have to be very careful to balance the extra tourism you get from these things
+
+382
+00:24:08,520 --> 00:24:13,380
+with the needs of the people who are already there and it's also like obviously people who go to
+
+383
+00:24:13,860 --> 00:24:18,780
+New Zealand to do Hobbiton might also encounter some Maori history and culture so like it might
+
+384
+00:24:18,780 --> 00:24:22,700
+not be an entirely negative thing but like it's a really sensitive thing that you have to be really
+
+385
+00:24:22,820 --> 00:24:25,700
+considerate about and I was like that's really interesting I haven't really thought about it in
+
+386
+00:24:25,660 --> 00:24:31,820
+those terms um so that tension between sort of sites as places of historical and cultural
+
+387
+00:24:32,100 --> 00:24:38,300
+significance and as that bit from lord of the rings how do you balance that and that was cool
+
+388
+00:24:38,560 --> 00:24:43,440
+and she was really good very very very assured speaker and it is on the replay i would highly
+
+389
+00:24:43,560 --> 00:24:47,680
+recommend anyone listening watches that one the other two i really liked was there was a panel on
+
+390
+00:24:47,900 --> 00:24:54,580
+faith um which had adian tchaikovsky karen lord emily tesh meg mcdonald and moderated by rosanna
+
+391
+00:24:54,600 --> 00:24:58,880
+of pendlebury and that was great especially because there was points where emily and meg kind
+
+392
+00:24:58,880 --> 00:25:04,180
+of got a bit blue which i enjoyed very much and karen lord is amazing and karen lord's guest of
+
+393
+00:25:04,180 --> 00:25:09,160
+honor interview again with meg mcdonald uh was really really good and they talked very intelligently
+
+394
+00:25:09,160 --> 00:25:14,500
+about a number of things i hadn't realized karen's karen's phd is in like comparing the psychology
+
+395
+00:25:14,640 --> 00:25:20,640
+of religion with like sports and music fandom no not sports fandom but like basically comparing
+
+396
+00:25:20,680 --> 00:25:25,140
+fandom and religiosity in a way and that sounded really interesting i'd love to know more about
+
+397
+00:25:25,140 --> 00:25:30,840
+that um but yeah those two panels were really interesting and we also went for lunch with scott
+
+398
+00:25:30,960 --> 00:25:38,720
+edelman uh hello scott got met me in in the lobby um and i said hello and we and and we introduced
+
+399
+00:25:38,960 --> 00:25:45,660
+ourselves because because i saw his badge he was talking to farah and he said did you get my message
+
+400
+00:25:45,680 --> 00:25:54,120
+about having lunch and i was like no i also had not but we nevertheless managed to coordinate our
+
+401
+00:25:54,260 --> 00:25:58,160
+diaries with some difficulty because scott doesn't really like discord and john doesn't really like
+
+402
+00:25:58,340 --> 00:26:04,000
+facebook but we got there in the end and we went for a cheeky nandos and i don't want to spoil the
+
+403
+00:26:04,010 --> 00:26:09,680
+going for the cheeky nandos because um because obviously it'll be on scott's podcast later we
+
+404
+00:26:09,840 --> 00:26:14,660
+i also had scott chat late late in the night at in the bar with scott where i discovered that he
+
+405
+00:26:15,020 --> 00:26:20,600
+loves ukuleles owns four and comes to george formby conventions and has had knows how to do
+
+406
+00:26:20,600 --> 00:26:28,100
+the split stroke one of those ukulele holy grail things um so none of that really got covered in the
+
+407
+00:26:28,640 --> 00:26:33,500
+in the in the podcast recording which is good if we discovered we were into both into ukuleles at
+
+408
+00:26:33,680 --> 00:26:38,920
+lunch that would have probably derailed the podcast quite significantly yes i mean i'm really glad you
+
+409
+00:26:39,100 --> 00:26:43,740
+i'm really glad you were able to connect over ukuleles i think that's awesome um but i am very
+
+410
+00:26:43,740 --> 00:26:49,980
+glad you did it um well you weren't around but it was good and we will link to it when when it is
+
+411
+00:26:50,120 --> 00:26:54,580
+out we will let you all know listeners um but you should go and subscribe to eating the fantastic
+
+412
+00:26:54,800 --> 00:27:00,740
+anyway and i believe farah mendelson friend of the show also recorded an episode at eastcon so they
+
+413
+00:27:00,880 --> 00:27:05,780
+will also be appearing yeah you'll be very unsurprised to learn that scott and farah went
+
+414
+00:27:05,920 --> 00:27:11,840
+out for breakfast i mean if you know farah yes indeed we went out for lunch i'm a little bit sad
+
+415
+00:27:12,240 --> 00:27:14,180
+because I made the Cheeky Nando's joke
+
+416
+00:27:14,660 --> 00:27:17,200
+and then you went out for Cheeky Nando's without me.
+
+417
+00:27:17,600 --> 00:27:18,820
+That's what made it really cheeky.
+
+418
+00:27:19,180 --> 00:27:20,700
+We talked about you behind your back, though.
+
+419
+00:27:20,740 --> 00:27:21,460
+Does that make it better?
+
+420
+00:27:21,800 --> 00:27:23,020
+I think we only said nice things.
+
+421
+00:27:23,360 --> 00:27:26,760
+And I guess it depends which direction Liz was facing at the time.
+
+422
+00:27:27,220 --> 00:27:28,980
+You can probably trace one line around the earth
+
+423
+00:27:29,120 --> 00:27:30,040
+where we were behind your back.
+
+424
+00:27:31,640 --> 00:27:32,500
+Liz looks unimpressed.
+
+425
+00:27:33,420 --> 00:27:35,040
+Well, if Scott ever comes to Thailand,
+
+426
+00:27:35,720 --> 00:27:38,620
+then we are going out for a much better meal.
+
+427
+00:27:39,780 --> 00:27:40,940
+That wouldn't be difficult.
+
+428
+00:27:41,240 --> 00:27:45,040
+I mean, I was quite polite about it at the time, but I mean, I kind of went away going,
+
+429
+00:27:45,180 --> 00:27:46,840
+oh God, I remember what Nando's is like.
+
+430
+00:27:47,420 --> 00:27:47,780
+Great.
+
+431
+00:27:48,340 --> 00:27:49,520
+It is what it is.
+
+432
+00:27:49,900 --> 00:27:50,160
+Yes.
+
+433
+00:27:50,620 --> 00:27:52,460
+I think it's the best restaurant in resorts world.
+
+434
+00:27:52,980 --> 00:27:56,140
+That's definitely not true because I had a really, really nice curry at Las Iguanas.
+
+435
+00:27:56,400 --> 00:27:57,580
+It was perfectly fine.
+
+436
+00:27:57,900 --> 00:28:02,160
+I'm going to say, as someone who knows what Las Iguanas foods should taste like and what
+
+437
+00:28:02,320 --> 00:28:06,380
+Peri Peri should taste like, Nando's is definitely better Peri Peri than Las Iguanas is what
+
+438
+00:28:06,520 --> 00:28:06,860
+it does.
+
+439
+00:28:08,300 --> 00:28:08,660
+100%.
+
+440
+00:28:08,820 --> 00:28:09,560
+Oh yeah, no, no.
+
+441
+00:28:09,720 --> 00:28:12,680
+I mean, it was not very authentic Brazilian curry, but it was lovely.
+
+442
+00:28:19,180 --> 00:28:21,660
+Because the next thing we're going to talk about is new Easter cons.
+
+443
+00:28:21,920 --> 00:28:25,240
+And we couldn't talk about this at the live show, though we did a little bit,
+
+444
+00:28:25,800 --> 00:28:27,680
+because John had not yet caught up with the bid session.
+
+445
+00:28:28,240 --> 00:28:30,040
+Have you now caught up with the bid session, John?
+
+446
+00:28:30,460 --> 00:28:30,780
+Yes.
+
+447
+00:28:31,400 --> 00:28:34,900
+Yes, because it turns out that the video and transcript is on YouTube,
+
+448
+00:28:35,310 --> 00:28:38,080
+so I can just skip about in the YouTube video and read the transcript.
+
+449
+00:28:38,560 --> 00:28:40,520
+So I've been doing that in the background.
+
+450
+00:28:40,830 --> 00:28:42,560
+So I'm pretty sure I'm all good.
+
+451
+00:28:42,920 --> 00:28:43,840
+Have I actually watched it?
+
+452
+00:28:44,060 --> 00:28:44,340
+No.
+
+453
+00:28:44,980 --> 00:28:45,680
+No, I haven't.
+
+454
+00:28:45,980 --> 00:28:47,640
+But transcripts are great things, listeners.
+
+455
+00:28:48,180 --> 00:28:49,960
+I didn't know we put it on YouTube, actually.
+
+456
+00:28:50,200 --> 00:28:50,620
+That's interesting.
+
+457
+00:28:51,020 --> 00:28:52,200
+It's not public.
+
+458
+00:28:53,340 --> 00:28:53,500
+Oh.
+
+459
+00:28:54,420 --> 00:28:55,980
+They're all unlisted links.
+
+460
+00:28:56,540 --> 00:28:59,800
+They're unlisted links for the people who are members.
+
+461
+00:29:00,080 --> 00:29:02,000
+Everyone has been told not to share their links.
+
+462
+00:29:02,380 --> 00:29:05,120
+You don't want any links to fall off the back of a lorry, Liz.
+
+463
+00:29:05,800 --> 00:29:11,260
+Realistically, I think that item could be made public because that is just for the good of fandom.
+
+464
+00:29:12,020 --> 00:29:14,720
+I don't know, you'd have to get the agreement of everyone involved.
+
+465
+00:29:15,120 --> 00:29:26,100
+But I personally think that could be streamed and recorded for just like we do with the WorldCon Q&As and the WSFUS business meetings.
+
+466
+00:29:26,480 --> 00:29:30,960
+I think I would advocate for the EasterCon session to be public as well.
+
+467
+00:29:31,420 --> 00:29:34,840
+So one of the things that was interesting about the EasterCon was the bit session.
+
+468
+00:29:35,280 --> 00:29:39,240
+And it was they had an hour, which wasn't a lot given that they had.
+
+469
+00:29:39,900 --> 00:29:43,180
+They didn't have a presentation from 2027, which you would normally have.
+
+470
+00:29:43,280 --> 00:29:46,460
+They said 2027 said a little bit at the closing ceremony instead.
+
+471
+00:29:47,200 --> 00:29:49,000
+They did have a bid for 2028.
+
+472
+00:29:49,760 --> 00:29:52,720
+And the 28th convention is going to be contract.
+
+473
+00:29:53,280 --> 00:29:56,760
+And it is going to be back in the Hilton Metro Birmingham.
+
+474
+00:29:57,220 --> 00:30:03,740
+And Marcus Streets is chairing it along with a bunch of good names of people who are well-known
+
+475
+00:30:04,400 --> 00:30:06,460
+EasterCon runners and they have announced
+
+476
+00:30:06,700 --> 00:30:08,360
+their first three guests. There are going to be more guests
+
+477
+00:30:08,540 --> 00:30:10,380
+apparently but their first three announced guests are
+
+478
+00:30:10,820 --> 00:30:12,400
+Aliyah Whiteley, Adam Roberts
+
+479
+00:30:12,720 --> 00:30:14,180
+and scientist Chris Lintot.
+
+480
+00:30:14,280 --> 00:30:16,240
+They all sound to me to be excellent
+
+481
+00:30:16,520 --> 00:30:18,180
+choices. I was pleased
+
+482
+00:30:18,260 --> 00:30:20,160
+with all of those. Yes, Adam
+
+483
+00:30:20,400 --> 00:30:22,240
+Roberts was previously announced and couldn't
+
+484
+00:30:22,340 --> 00:30:24,220
+make it for an EasterCon so this
+
+485
+00:30:24,280 --> 00:30:26,300
+is kind of rectifying
+
+486
+00:30:26,580 --> 00:30:27,920
+that which I think is good.
+
+487
+00:30:28,180 --> 00:30:30,460
+It's spectacularly overdue really.
+
+488
+00:30:30,960 --> 00:30:32,440
+Don't like his writing but I appreciate
+
+489
+00:30:32,460 --> 00:30:34,060
+that he should probably be a guest of order.
+
+490
+00:30:34,500 --> 00:30:35,820
+But even if you don't like his writing,
+
+491
+00:30:36,380 --> 00:30:38,040
+there are people where I'm like,
+
+492
+00:30:38,080 --> 00:30:39,220
+I'm not so keen on your books,
+
+493
+00:30:39,240 --> 00:30:41,360
+but actually you are spectacularly good
+
+494
+00:30:41,760 --> 00:30:42,560
+panellists and guests.
+
+495
+00:30:42,800 --> 00:30:44,800
+So I'm looking forward to seeing him on some panels.
+
+496
+00:30:45,260 --> 00:30:46,120
+Yes, yes, yes, yes, yes.
+
+497
+00:30:47,580 --> 00:30:49,460
+I absolutely love his criticism.
+
+498
+00:30:49,880 --> 00:30:52,100
+I have a very Marmite response to his criticism.
+
+499
+00:30:52,280 --> 00:30:53,420
+I either think it's amazing
+
+500
+00:30:53,720 --> 00:30:55,220
+or I think it's absolute nonsense
+
+501
+00:30:55,660 --> 00:30:56,840
+and there's very little middle ground.
+
+502
+00:30:57,860 --> 00:30:59,500
+Yeah, I mean, I think what's going on there
+
+503
+00:30:59,620 --> 00:31:01,520
+is he's taking a stand.
+
+504
+00:31:01,680 --> 00:31:02,740
+So it might not all be right.
+
+505
+00:31:02,980 --> 00:31:04,880
+And you often think, oh, no, I disagree with this.
+
+506
+00:31:05,200 --> 00:31:06,980
+But that doesn't stop things being excellent criticism.
+
+507
+00:31:07,220 --> 00:31:11,120
+When I read literary criticism, I want to, you know, I want to engage with it.
+
+508
+00:31:11,240 --> 00:31:13,520
+And sometimes that engagement is going, oh, no.
+
+509
+00:31:13,960 --> 00:31:14,320
+Oh, no.
+
+510
+00:31:14,600 --> 00:31:14,920
+Oh, no.
+
+511
+00:31:15,040 --> 00:31:16,100
+That's oh, you've totally.
+
+512
+00:31:16,320 --> 00:31:16,640
+Oh, no.
+
+513
+00:31:17,160 --> 00:31:20,440
+So the other people on the committee are John Dodd is doing ops.
+
+514
+00:31:20,680 --> 00:31:21,780
+JT is doing tech.
+
+515
+00:31:21,960 --> 00:31:26,280
+And JT also won the Doc Weir, which was very well deserved because he does a lot of work.
+
+516
+00:31:26,899 --> 00:31:28,260
+James Shields is web.
+
+517
+00:31:29,080 --> 00:31:30,520
+G Graves is program.
+
+518
+00:31:31,260 --> 00:31:34,080
+Farrah Mendelsohn is dealers and Jackie Duckworth is logo.
+
+519
+00:31:34,820 --> 00:31:37,120
+And others are TBA, open brackets.
+
+520
+00:31:37,660 --> 00:31:39,580
+This is an invitation, close brackets.
+
+521
+00:31:40,200 --> 00:31:42,840
+If you'd like to work on the 2028 Eastcon,
+
+522
+00:31:43,060 --> 00:31:45,540
+then I think Marcus will probably love to have you get in touch.
+
+523
+00:31:45,880 --> 00:31:46,080
+Yes.
+
+524
+00:31:46,700 --> 00:31:48,320
+Attending membership is currently £90.
+
+525
+00:31:48,470 --> 00:31:49,840
+That will presumably go up eventually.
+
+526
+00:31:50,170 --> 00:31:55,060
+And you can visit eastcon2028.org.uk to find out more.
+
+527
+00:31:55,800 --> 00:31:57,440
+Although not much more yet,
+
+528
+00:31:57,720 --> 00:31:59,480
+because it's still quite bare bones at the moment.
+
+529
+00:31:59,780 --> 00:32:00,940
+It's just a registration site.
+
+530
+00:32:01,540 --> 00:32:05,980
+registration's a bit hit and miss at the moment so that's that's going to take a little while to
+
+531
+00:32:06,100 --> 00:32:11,100
+sort out i think they've said later for a rate rise so you don't have to get in there straight
+
+532
+00:32:11,150 --> 00:32:17,460
+away can we please move away from things where i have to log in with an email address and get an
+
+533
+00:32:17,530 --> 00:32:23,460
+email i find it so frustrating i want to be able to use a password or a passkey like can we please
+
+534
+00:32:23,560 --> 00:32:29,760
+sort it's the worst of all of the options and i hate it so much i was very glad that the 2026
+
+535
+00:32:29,780 --> 00:32:33,900
+members portal let you set a password although that was quite a hidden option but i did eventually
+
+536
+00:32:34,140 --> 00:32:39,540
+find it and set it enthusiastically but like waiting for an email to come through oh i hate it
+
+537
+00:32:39,660 --> 00:32:43,580
+so much and it really doesn't play well with my adhd because i forget what i was doing and go and do
+
+538
+00:32:43,680 --> 00:32:49,700
+something else so yes grump grump grump who's digressing now well i think it was about the
+
+539
+00:32:50,020 --> 00:32:54,540
+registration portal so not me i think i think there's more major grumps so one is that actually
+
+540
+00:32:54,580 --> 00:33:01,280
+eastercon2028.org.uk just redirects to eastercon2028.org but the minor grump is that all the
+
+541
+00:33:01,500 --> 00:33:09,940
+information that we just conveyed is not on the website and i realize that they are just well yeah
+
+542
+00:33:10,620 --> 00:33:16,820
+but yeah but i mean if i i'm not going to register unless i know a bit more about it unless i'm a
+
+543
+00:33:16,870 --> 00:33:21,660
+person at eastercom i guess who was at the bid session and knows about it i think if you've got
+
+544
+00:33:21,640 --> 00:33:27,680
+website you can put your stuff on so yeah so that is eastcon 2028 which is going back to the
+
+545
+00:33:27,780 --> 00:33:32,480
+birmingham metropole they looked for other options they couldn't find any they decided to go back to
+
+546
+00:33:32,620 --> 00:33:37,880
+birmingham we've talked a little bit about this in previous episodes listeners um but basically yeah
+
+547
+00:33:38,560 --> 00:33:45,460
+that makes a lot of sense and marcus was asked in the bid session can you arrange for the convention
+
+548
+00:33:45,510 --> 00:33:50,800
+to share with a really awesome anime con again and he basically said it's not up to us because
+
+549
+00:33:50,820 --> 00:33:56,800
+we're not that um we're not that convention and so i think it is something other people have asked
+
+550
+00:33:57,200 --> 00:34:02,360
+i don't know whether there's any um scope in approaching haruhi con and being like we we
+
+551
+00:34:02,360 --> 00:34:06,640
+thought this worked really well um we'd like to do it again but i i don't know if that could happen
+
+552
+00:34:07,020 --> 00:34:10,760
+but i think yeah i think it would be cool if it could because it did i think work quite well
+
+553
+00:34:11,139 --> 00:34:15,820
+they're currently they've got the same function space as 2026 did um but if there isn't a convention
+
+554
+00:34:16,159 --> 00:34:20,139
+sharing the space they might be able to add on some more small rooms later which i think would
+
+555
+00:34:20,139 --> 00:34:24,120
+be good because I think we could have done with a couple of extra small rooms although we did make
+
+556
+00:34:24,220 --> 00:34:29,040
+it work we were a tiny bit tight in some places I mean there was program starting at nine o'clock
+
+557
+00:34:29,120 --> 00:34:32,860
+in the morning and that is because they thought they were gonna but I think we did manage in the
+
+558
+00:34:32,940 --> 00:34:36,840
+space and I think we could manage I don't think it's impossible I think it worked quite well
+
+559
+00:34:37,500 --> 00:34:43,139
+did people come to the 9am panels or were they sparse okay so the one I the one I moderated was
+
+560
+00:34:43,260 --> 00:34:47,060
+the fanzine panel and I think many of the same people who would have come to it at any time of
+
+561
+00:34:47,080 --> 00:34:51,940
+day came to it but it's on catch-up you can go that is true i'm just not sure we should be saying
+
+562
+00:34:52,060 --> 00:34:57,020
+well it's okay to run stuff no it's not they definitely shouldn't design because you watch
+
+563
+00:34:57,100 --> 00:35:01,200
+it on catch-up because you were still eating breakfast shouldn't have done that one shouldn't
+
+564
+00:35:01,200 --> 00:35:06,480
+have done the willcon q and a's at nine in the morning seemed like a particularly hard one but
+
+565
+00:35:06,500 --> 00:35:10,400
+they are all on tables from 10 best way of the world i'm not going to come to any nine o'clock
+
+566
+00:35:10,420 --> 00:35:17,460
+panels at a convention ever because i'm not usually in bed by a time that means i can wake up in time
+
+567
+00:35:17,580 --> 00:35:22,380
+to have breakfast and then go to an 9 a.m panel i will say that rosanna went to breakfast after
+
+568
+00:35:22,740 --> 00:35:27,500
+being on a 9 a.m panel and said that was very civilized but it's tricky right because i stay
+
+569
+00:35:27,580 --> 00:35:34,060
+up late and not everyone does and i'm like yeah i didn't stay up late even once at easter con
+
+570
+00:35:34,540 --> 00:35:38,260
+firstly i think that's a lie because you asked me if i wanted to drink at 1 a.m one night and i don't
+
+571
+00:35:38,280 --> 00:35:40,520
+I think it depends what your definition of late is.
+
+572
+00:35:41,200 --> 00:35:44,620
+It was nearly 2am, so my definition of late is after 2.
+
+573
+00:35:44,920 --> 00:35:48,220
+I can't go to a 9am panel if I'm in bed after midnight.
+
+574
+00:35:48,780 --> 00:35:48,880
+No.
+
+575
+00:35:49,260 --> 00:35:52,220
+But then there are people at that convention who do go to bed earlier than me
+
+576
+00:35:52,320 --> 00:35:54,100
+and might quite like there to be some 9am programme.
+
+577
+00:35:54,400 --> 00:35:56,520
+So I don't really mind there being a 9am programme.
+
+578
+00:35:57,060 --> 00:35:59,400
+I don't think the logic is everyone can watch on Catch Up,
+
+579
+00:35:59,480 --> 00:36:00,220
+but no one will go in the room.
+
+580
+00:36:00,360 --> 00:36:03,400
+I think the logic is there are people who don't do conventions
+
+581
+00:36:03,540 --> 00:36:07,080
+at the same time as other people, and we could cater for those people too.
+
+582
+00:36:07,700 --> 00:36:11,080
+Well, hence my question was, were there people there?
+
+583
+00:36:11,600 --> 00:36:12,900
+My impression is that there were.
+
+584
+00:36:13,480 --> 00:36:21,980
+The other thing you've got to do is then you've got to find something which overlaps between people who would like to go in the morning and people who will be on the item at 9am.
+
+585
+00:36:22,520 --> 00:36:27,920
+And it sounds like they did a surprisingly good job of getting people to agree to be on 9am panels.
+
+586
+00:36:29,000 --> 00:36:36,460
+Which I would, because I would normally be like, really? Really? But maybe they were just very persuasive programmers.
+
+587
+00:36:37,040 --> 00:36:39,360
+Anything else on Eastcon in 2028?
+
+588
+00:36:40,120 --> 00:36:40,400
+Oh, no.
+
+589
+00:36:40,620 --> 00:36:41,860
+That's what we're talking about, wasn't it?
+
+590
+00:36:43,080 --> 00:36:43,420
+No.
+
+591
+00:36:43,920 --> 00:36:48,060
+Just to note, if you try and register for contract and it doesn't work,
+
+592
+00:36:48,220 --> 00:36:49,740
+I believe they have fixed this now,
+
+593
+00:36:49,760 --> 00:36:52,700
+but there was a bug where it would show you an apparently random email address
+
+594
+00:36:53,100 --> 00:36:56,400
+in the uneditable email address field, and that was very annoying.
+
+595
+00:36:57,220 --> 00:36:59,000
+I believe James Shields says he has fixed that,
+
+596
+00:36:59,260 --> 00:37:00,200
+so you should be able to register,
+
+597
+00:37:00,620 --> 00:37:03,980
+but if you can't, send them an email because that is a bug that has been happening.
+
+598
+00:37:04,420 --> 00:37:06,040
+I don't know why that happened,
+
+599
+00:37:06,440 --> 00:37:07,080
+But yeah.
+
+600
+00:37:07,570 --> 00:37:08,680
+Then there was a bid for 20...
+
+601
+00:37:08,780 --> 00:37:10,720
+Well, there was an announcement of a bid for 2029.
+
+602
+00:37:10,870 --> 00:37:13,140
+It wasn't voted on because you only vote two years out.
+
+603
+00:37:13,550 --> 00:37:17,360
+And that was Chronologicon, which would be held in Chester,
+
+604
+00:37:18,140 --> 00:37:20,240
+which is where the EasterCon was in 2007.
+
+605
+00:37:21,080 --> 00:37:24,200
+And that would be chaired by Farrah and Mike.
+
+606
+00:37:24,880 --> 00:37:25,960
+Or run by Farrah and Mike.
+
+607
+00:37:25,970 --> 00:37:28,460
+I don't know if they'd be co-chairs or the exact...
+
+608
+00:37:28,660 --> 00:37:32,740
+I think Farrah's the chair and Mike is the treasurer.
+
+609
+00:37:33,020 --> 00:37:33,740
+Ah, okay, cool.
+
+610
+00:37:34,080 --> 00:37:36,020
+Is it the same hotel as 2007?
+
+611
+00:37:36,120 --> 00:37:42,620
+yes yes it is it's the crown plaza in chester and they have announced that if they do this
+
+612
+00:37:42,920 --> 00:37:48,000
+it will be a world con year well there'll be the world con in dublin and they will intend to cap
+
+613
+00:37:48,440 --> 00:37:54,940
+members they said somewhere between 600 and 700 but that it sounds like it's kind of 650 adult
+
+614
+00:37:55,660 --> 00:38:02,920
+attending people yeah i was gonna say that hotel is nice but it was a bit wee yes it's slightly
+
+615
+00:38:02,940 --> 00:38:08,000
+small it's got 160 bedrooms so we'd obviously use other hotels or they'd obviously be using
+
+616
+00:38:08,080 --> 00:38:13,520
+other hotels in chester so they say in the bid in the bid session they said they would pitch
+
+617
+00:38:13,860 --> 00:38:19,880
+they said they were pitching for about 600 or 650 people so it would be small but i mean you know
+
+618
+00:38:19,900 --> 00:38:24,120
+you can run a slightly smaller easter con in a world con year that's not invariably true but it's
+
+619
+00:38:24,260 --> 00:38:30,380
+certainly and that's obviously significantly larger than telford was but um they're more post-pandemic
+
+620
+00:38:30,700 --> 00:38:33,800
+and I think Eastercons, as we know, are becoming more rather than less.
+
+621
+00:38:34,459 --> 00:38:39,060
+And Chester's a much nicer place to go to Telford, you know, not going to lie.
+
+622
+00:38:39,440 --> 00:38:41,040
+Chester is lovely. Chester is very nice.
+
+623
+00:38:41,620 --> 00:38:42,160
+Yeah, sounds good.
+
+624
+00:38:42,250 --> 00:38:45,800
+If you're going to do a Gunder and Eastercon in a venue
+
+625
+00:38:45,980 --> 00:38:48,280
+that's probably a little bit small and see how it works,
+
+626
+00:38:48,480 --> 00:38:51,000
+then yeah, 2029 is the year to do it.
+
+627
+00:38:51,280 --> 00:38:51,880
+So let's go for it.
+
+628
+00:38:52,140 --> 00:38:53,740
+Yes, I would agree with that.
+
+629
+00:38:54,160 --> 00:39:00,240
+And I recall Chester being quite a nice place for the Emergency 2007 Eastercon.
+
+630
+00:39:00,400 --> 00:39:02,520
+although I can't recall going to any programme.
+
+631
+00:39:03,660 --> 00:39:07,960
+It has walls and lots of attractions and a zoo
+
+632
+00:39:09,220 --> 00:39:13,300
+and lots and lots and lots of restaurants and bars and history.
+
+633
+00:39:13,660 --> 00:39:16,700
+It's an almost, and it's got a main railway station,
+
+634
+00:39:16,880 --> 00:39:20,200
+though the railway station is nowhere near the town centre,
+
+635
+00:39:20,300 --> 00:39:23,020
+which in British terms means it's a one-mile walk.
+
+636
+00:39:23,880 --> 00:39:26,800
+So the Chronologicon doesn't quite have its website yet,
+
+637
+00:39:26,880 --> 00:39:30,300
+though it's been promised real soon now in that fine, fannish tradition.
+
+638
+00:39:31,640 --> 00:39:35,160
+When Dave Langford noticed that Chronologicon didn't have a website yet,
+
+639
+00:39:35,500 --> 00:39:38,400
+Farah said, well, you know, Dave, you could make us one.
+
+640
+00:39:38,720 --> 00:39:42,060
+And Dave very politely declined to do so.
+
+641
+00:39:42,280 --> 00:39:45,640
+I think it's entirely fine for Chronologicon not to have a website.
+
+642
+00:39:46,360 --> 00:39:51,440
+They only announced they were going to bid for an EasterCon in 2028 at the weekend.
+
+643
+00:39:52,080 --> 00:39:53,940
+So we don't need a website yet.
+
+644
+00:39:54,560 --> 00:39:58,300
+Yes, so the magic trick here is if you don't have a website,
+
+645
+00:39:58,590 --> 00:40:01,580
+you probably shouldn't put the website address on your slide.
+
+646
+00:40:02,060 --> 00:40:02,240
+Yeah.
+
+647
+00:40:02,660 --> 00:40:04,340
+I agree with Liz that they don't need a website yet.
+
+648
+00:40:04,340 --> 00:40:05,940
+And I think Alison said that on Anonymous Claire.
+
+649
+00:40:06,780 --> 00:40:09,340
+Dave's response was, well, why is there a website address on the slides?
+
+650
+00:40:09,450 --> 00:40:11,560
+Which I can understand as a criticism.
+
+651
+00:40:12,010 --> 00:40:14,380
+But also I do think if you go and it's not there yet, you're like,
+
+652
+00:40:14,460 --> 00:40:16,020
+oh, OK, fair enough, they haven't got around to it yet.
+
+653
+00:40:16,320 --> 00:40:19,400
+And I probably wouldn't have mentioned it on Anonymous Claire either.
+
+654
+00:40:20,680 --> 00:40:22,680
+And Farrah basically said, whoops, we didn't mean to put it on.
+
+655
+00:40:23,200 --> 00:40:28,900
+Yeah, I think Liz said that they were bidding for 2028, but they are, of course, bidding for 2029.
+
+656
+00:40:29,640 --> 00:40:30,600
+Oh, 2029, sorry.
+
+657
+00:40:31,020 --> 00:40:36,540
+No, I'm confused there, I guess, by 2028 having a website, but it doesn't have anything on it yet.
+
+658
+00:40:36,940 --> 00:40:41,340
+I mean, that is also a fine Spanish tradition, but doesn't attract exactly the same criticisms.
+
+659
+00:40:41,510 --> 00:40:43,420
+It attracts a new and different class of criticisms.
+
+660
+00:40:44,120 --> 00:40:48,060
+Yeah, I mean, I just, I can't believe that we've got people going,
+
+661
+00:40:48,130 --> 00:40:50,500
+oh, I'd like to run EasterCon sometime in the early 2030s.
+
+662
+00:40:51,480 --> 00:40:53,100
+Jesus fucking Christ on a stick.
+
+663
+00:40:53,600 --> 00:40:56,140
+EasterCon runners are hyped up for EasterCon
+
+664
+00:40:56,190 --> 00:40:58,660
+and we have a renewed vigour for the format.
+
+665
+00:40:59,220 --> 00:41:01,020
+I think that might be more vigorous
+
+666
+00:41:01,500 --> 00:41:03,440
+than anything I've seen since I've been in fandom.
+
+667
+00:41:03,860 --> 00:41:06,220
+So I'm actually quite excited about EasterCons at the moment
+
+668
+00:41:06,540 --> 00:41:09,000
+and it certainly seems a lot more vigorous than WorldCom fandom,
+
+669
+00:41:09,380 --> 00:41:09,980
+which is interesting.
+
+670
+00:41:10,480 --> 00:41:14,180
+Oh, might seem more vigorous than anything I've seen in fandom
+
+671
+00:41:14,360 --> 00:41:16,500
+and I've been in fandom quite a bit longer.
+
+672
+00:41:16,920 --> 00:41:19,640
+This is probably the legacy of Glasgow 24, right?
+
+673
+00:41:19,860 --> 00:41:26,160
+like it hyped a lot of people up for for fandom in the uk and and so we're seeing the effect of that
+
+674
+00:41:26,300 --> 00:41:32,200
+and people wanting to run cons and bring that joy and be able to help shape that joy i think that's
+
+675
+00:41:32,240 --> 00:41:37,600
+great i think like um esther and meg and marguerite can can take a lot of credit for the work they and
+
+676
+00:41:37,760 --> 00:41:43,400
+everyone else who worked on on glasgow um did to to bring fandom here because i think yeah like i
+
+677
+00:41:43,400 --> 00:41:49,260
+say i think this is a direct consequence of of that convention i don't agree that it's i mean i
+
+678
+00:41:49,200 --> 00:41:54,160
+don't know if it's a direct consequence of 2024 i don't want to say 2024 which i think was great
+
+679
+00:41:54,220 --> 00:42:00,240
+and probably did reinvigorate a lot of people but it's not like easter cons were dying out before
+
+680
+00:42:00,420 --> 00:42:05,540
+that we had some very big well-attended easter cons and it had certainly come back post-covid
+
+681
+00:42:06,120 --> 00:42:10,200
+in a way that you know other events have had problems doing i think we were already doing
+
+682
+00:42:10,300 --> 00:42:14,180
+pretty well i didn't mean to say that we weren't i just think that like like i say this is the first
+
+683
+00:42:14,260 --> 00:42:19,160
+time i think we've plausibly got the next five easter cons having announced which i think is
+
+684
+00:42:19,180 --> 00:42:24,200
+have ever seen that happen i think part of that is that a lot of the con runners are enthusiastic
+
+685
+00:42:24,740 --> 00:42:29,740
+and i think they were enthusiastic before but they seem to be more enthusiastic now and i can't think
+
+686
+00:42:29,840 --> 00:42:34,760
+what else has changed certainly what has changed isn't that it's easier to find a hotel and run an
+
+687
+00:42:34,960 --> 00:42:39,840
+easter con that bit definitely got worse so then it's like what did change to put us in this
+
+688
+00:42:40,060 --> 00:42:49,140
+situation where everyone seems to want to to be involved and i don't know what i what i
+
+689
+00:42:49,160 --> 00:42:53,340
+want to say about i mean i certainly want to put a little gloss on that which is that
+
+690
+00:42:53,780 --> 00:43:00,260
+we have at least either a seated easter con or at least one announced announced bid for probably the
+
+691
+00:43:00,380 --> 00:43:04,700
+next five um because i don't think what we have is announcements of the next five easter cons and
+
+692
+00:43:04,700 --> 00:43:11,160
+i think it's important people don't think that way yeah that's fair because i'll i may i may um
+
+693
+00:43:11,600 --> 00:43:16,940
+recount a conversation i had in the bar as part of our easter con discussion okay and um but the
+
+694
+00:43:16,840 --> 00:43:23,380
+other thing I wanted to say is that the first Worldcon I went to was Conspiracy in 1987 and that
+
+695
+00:43:23,720 --> 00:43:27,580
+broke everybody who worked on it none of them and it did any more significant con running really
+
+696
+00:43:28,240 --> 00:43:35,160
+and then the next Worldcon I went to in the UK was 1995 and that broke a lot of its people quite a
+
+697
+00:43:35,300 --> 00:43:42,380
+lot and then we started to get the hang of it by 2005 but even after that and 2014 people were very
+
+698
+00:43:42,400 --> 00:43:46,760
+very, very tired. And I think what we're seeing after Glasgow is people still having bags of
+
+699
+00:43:46,940 --> 00:43:54,180
+enthusiasm and that enthusiasm not having waned even a little bit. So that's another really great
+
+700
+00:43:54,400 --> 00:43:58,540
+thing about... I mean, I think we're all getting very anecdotal. I mean, I think the other thing
+
+701
+00:43:58,720 --> 00:44:04,940
+that Glasgow has possibly shown people is that the best way to get a convention going is to bid
+
+702
+00:44:05,140 --> 00:44:10,740
+incredibly early and to consistently be doing stuff for kind of four years in the lead up to it.
+
+703
+00:44:10,800 --> 00:44:18,540
+So it may be that people are going, oh, well, the way to get an EasterCon now is you announce that you're going to do it five years in advance because that's how you do a WorldCon now.
+
+704
+00:44:18,860 --> 00:44:27,780
+I don't want to undermine Glasgow's innovation there, but I think that was also shown by LundCon 3 and Dublin 2019.
+
+705
+00:44:28,300 --> 00:44:32,180
+I think all three conventions followed that basic playbook.
+
+706
+00:44:33,110 --> 00:44:35,020
+And I think Glasgow did that playbook well.
+
+707
+00:44:35,680 --> 00:44:40,760
+But I don't think it's that that changed, really.
+
+708
+00:44:41,610 --> 00:44:44,860
+I think the primary difference between Lung Con 3 and Glasgow 2024
+
+709
+00:44:45,860 --> 00:44:51,200
+is in the way they treated the people while volunteering for them,
+
+710
+00:44:51,800 --> 00:44:55,060
+not the lead up to the convention necessarily.
+
+711
+00:44:55,570 --> 00:44:57,600
+Because I remember, like, when was the first Conrunner?
+
+712
+00:44:57,600 --> 00:45:00,800
+That was, like, 2008, and that was talking about Lung Con, right?
+
+713
+00:45:01,400 --> 00:45:02,380
+I'm going back a bit here.
+
+714
+00:45:02,520 --> 00:45:06,540
+This is like when I was really a very new baby fan, listeners.
+
+715
+00:45:07,220 --> 00:45:08,240
+Conrunner was a...
+
+716
+00:45:08,440 --> 00:45:09,820
+What, the last Conrunner?
+
+717
+00:45:10,360 --> 00:45:10,920
+Conrunner 4?
+
+718
+00:45:11,440 --> 00:45:12,060
+No, Conrunner 1.
+
+719
+00:45:12,640 --> 00:45:14,180
+Conrunner 1 was June 2008,
+
+720
+00:45:14,440 --> 00:45:18,080
+and I'm pretty sure that that was mostly discussing Lung Con 3 plans.
+
+721
+00:45:18,460 --> 00:45:20,300
+I don't know how far along they were,
+
+722
+00:45:20,640 --> 00:45:22,900
+but that was a solid six years before that Worldcon,
+
+723
+00:45:23,380 --> 00:45:27,040
+which is quite a long time ahead even for Worldcon planning.
+
+724
+00:45:28,080 --> 00:45:30,740
+They just started discussing the next Worldcon the day after.
+
+725
+00:45:31,000 --> 00:45:31,160
+Yeah.
+
+726
+00:45:31,660 --> 00:45:38,620
+So for those who don't know, Conrunner was a series of conventions that was held in the UK 2008, 2010, 2011 and 2017.
+
+727
+00:45:39,480 --> 00:45:44,560
+And they were, I say in the UK, the third one was held in the Netherlands, which is often not part of the UK.
+
+728
+00:45:45,140 --> 00:45:49,540
+But yeah, they were discussing, mostly discussing British Conrunning, I would say.
+
+729
+00:45:49,920 --> 00:45:56,420
+Put a link in the show notes, listeners, although I will say the Fancyclopedia page for the Conrunner conventions is relatively sparse.
+
+730
+00:45:56,640 --> 00:46:01,400
+So if you have more information, I would wholeheartedly encourage you to go and fill it in.
+
+731
+00:46:01,780 --> 00:46:03,520
+Yeah, get on it. Get on it, Mark.
+
+732
+00:46:03,930 --> 00:46:05,340
+I was about to say, not just Mark.
+
+733
+00:46:05,490 --> 00:46:08,560
+We should all be including things on Fancyclopedia.
+
+734
+00:46:08,820 --> 00:46:10,220
+It's not solely Mark's job.
+
+735
+00:46:10,660 --> 00:46:13,380
+So, yes, I think that's all we know about Chronologicon for the moment.
+
+736
+00:46:13,820 --> 00:46:17,400
+And they don't actually have a website, but they will have it soon.
+
+737
+00:46:17,820 --> 00:46:20,080
+And then we have the 2030 bid.
+
+738
+00:46:20,720 --> 00:46:24,720
+Alan Stroud presented, and with some help from Karen Fisher,
+
+739
+00:46:25,480 --> 00:46:30,840
+presented a bid to bid for and hold a BSFA run.
+
+740
+00:46:31,420 --> 00:46:37,480
+convention that would be both the East Con and the Euro and would be back in the Birmingham Hilton
+
+741
+00:46:37,800 --> 00:46:42,900
+Metropole. And there was some discussion of governance of this and there was some quite a
+
+742
+00:46:42,900 --> 00:46:47,020
+lot of questioning about how this would work. So we got a little bit more about the governance out
+
+743
+00:46:47,020 --> 00:46:53,800
+of that. The BSFA, the intention is to neither take nor give pass along. So the BSFA would
+
+744
+00:46:53,960 --> 00:46:59,420
+underwrite the convention and the BSFA would keep any surpluses. And it would be a BSFA convention,
+
+745
+00:46:59,980 --> 00:47:03,080
+but it would be in other ways like your Easter con.
+
+746
+00:47:03,530 --> 00:47:06,040
+So, I mean, there was some quite fervent questioning.
+
+747
+00:47:09,100 --> 00:47:10,920
+And there was a point when Alan said something
+
+748
+00:47:11,300 --> 00:47:15,420
+and Karen jumped up from the audience and glossed over
+
+749
+00:47:15,740 --> 00:47:19,100
+and softened what he'd said so that it didn't make the same commitment.
+
+750
+00:47:20,880 --> 00:47:22,460
+So that's an interesting thing to look out for
+
+751
+00:47:22,620 --> 00:47:23,640
+when you're picking it up on catch.
+
+752
+00:47:24,900 --> 00:47:29,620
+I don't think the room was fully enthusiastic about that.
+
+753
+00:47:29,720 --> 00:47:34,980
+We do know that there's already an alternative Eurocon bid for that year from Copenhagen.
+
+754
+00:47:35,400 --> 00:47:40,440
+I don't like the whole the BSFA keeps all the money thing.
+
+755
+00:47:40,920 --> 00:47:50,000
+It feels a lot like you don't run Eastercons to make a profit for your organisation personally.
+
+756
+00:47:50,230 --> 00:47:53,880
+And like, I just I feel quite strongly about that, I think.
+
+757
+00:47:54,440 --> 00:47:58,000
+I mean, I would hope the aim is to just basically not make any money.
+
+758
+00:47:58,460 --> 00:47:59,600
+I don't think that is the aim.
+
+759
+00:48:00,100 --> 00:48:02,220
+I mean, I'm sure the aim is to make a whopping amount of money
+
+760
+00:48:02,320 --> 00:48:03,440
+and give it all to the BSFA,
+
+761
+00:48:03,940 --> 00:48:05,660
+which will then, as Alan confirmed,
+
+762
+00:48:05,860 --> 00:48:08,980
+be used for BSFA's hopefully then charitable purposes.
+
+763
+00:48:09,520 --> 00:48:11,060
+The BSFA is becoming a charity.
+
+764
+00:48:11,960 --> 00:48:14,339
+The BSFA's charitable purposes will probably...
+
+765
+00:48:15,600 --> 00:48:16,060
+I don't know.
+
+766
+00:48:16,680 --> 00:48:18,060
+Yeah, I think I can't understand
+
+767
+00:48:18,660 --> 00:48:20,200
+why they would be doing it this way
+
+768
+00:48:20,220 --> 00:48:21,160
+if they didn't want to make money.
+
+769
+00:48:21,480 --> 00:48:22,420
+Because if they didn't want to make money,
+
+770
+00:48:22,520 --> 00:48:24,500
+they would just do it the way that every other Eastcon does it.
+
+771
+00:48:24,960 --> 00:48:27,160
+And Eastcons don't make money, but like, it's fine.
+
+772
+00:48:27,620 --> 00:48:32,100
+I don't understand what you gain from doing it this way unless the answer is money.
+
+773
+00:48:32,440 --> 00:48:37,180
+So I presume the reason for the financial arrangement of not taking or giving pass along
+
+774
+00:48:38,220 --> 00:48:45,300
+is because they don't want it to be seen as they might take a load of pass along to run this con
+
+775
+00:48:45,520 --> 00:48:51,520
+and then financially it doesn't work and other Easter cons suffer because we know that some
+
+776
+00:48:51,620 --> 00:48:55,580
+Easter cons do well, some don't for various reasons. But if you're planning to run like
+
+777
+00:48:55,600 --> 00:49:02,720
+a super big one with presumably a higher risk of not making your money back then it felt like a way
+
+778
+00:49:02,720 --> 00:49:07,500
+to say okay we're not going to take the pass along so that we are not putting all the risk on other
+
+779
+00:49:07,800 --> 00:49:13,320
+easter cons but i was not in the room so i could be wrong i think i would be willing to give them
+
+780
+00:49:13,320 --> 00:49:17,520
+the benefit of the doubt in the manner that liz suggests if they commit to making their finances
+
+781
+00:49:17,680 --> 00:49:22,840
+public which i think they should do oh yeah i also oh well they'll have to make their finances public
+
+782
+00:49:22,860 --> 00:49:26,100
+because it's going to be an action of the BSFA, which will be a charity by then.
+
+783
+00:49:26,500 --> 00:49:26,720
+Okay.
+
+784
+00:49:27,180 --> 00:49:28,800
+So it'll have to do its charitable account.
+
+785
+00:49:28,800 --> 00:49:31,180
+But I don't know how much scope there is for burying.
+
+786
+00:49:31,600 --> 00:49:34,900
+I know accountancy can do things transparently in a way.
+
+787
+00:49:35,280 --> 00:49:36,180
+Well, obviously plenty.
+
+788
+00:49:36,780 --> 00:49:37,780
+Eastercons don't do that.
+
+789
+00:49:38,160 --> 00:49:43,100
+Eastercons go quite a lot into detail because they have a obligation to the community, which they feel.
+
+790
+00:49:43,520 --> 00:49:50,200
+And what I would want is for a hypothetical 2030 Eastercon to have the same level of transparency as a normal Eastercon,
+
+791
+00:49:50,480 --> 00:49:54,780
+rather than the level of transparency mandated by law, which might be quite a lot less.
+
+792
+00:49:55,300 --> 00:49:57,880
+I might be wrong. It might be that the law means we'd get way more information.
+
+793
+00:49:58,400 --> 00:49:59,860
+I think we'd just get different things.
+
+794
+00:50:00,400 --> 00:50:01,280
+I want the same things.
+
+795
+00:50:01,800 --> 00:50:03,640
+If I'm going to give them the benefit of the doubt,
+
+796
+00:50:04,279 --> 00:50:08,060
+they need to commit to running an EasterCon the way we run EasterCons in that sense.
+
+797
+00:50:08,500 --> 00:50:10,440
+And if they don't do that, I'm not going to give the benefit of the doubt.
+
+798
+00:50:10,720 --> 00:50:12,520
+That is what I'm saying. And that is my view.
+
+799
+00:50:12,840 --> 00:50:17,320
+I want to pick up on something else they said in the presentation,
+
+800
+00:50:17,560 --> 00:50:22,540
+which is that they said they would have the convention would be run by volunteers in line
+
+801
+00:50:22,800 --> 00:50:28,580
+with best volunteering practice and what they do for fantasy con and for what so say world fantasy
+
+802
+00:50:28,760 --> 00:50:32,240
+convention is that they have a small team of volunteers who get their memberships paid for
+
+803
+00:50:32,660 --> 00:50:37,740
+but then work all of the time and that is a model for volunteering it is very much emphatically not
+
+804
+00:50:37,740 --> 00:50:44,280
+the volunteering model that east cons use where lots of people work somewhat yeah some people work
+
+805
+00:50:44,300 --> 00:50:50,380
+all the time but the vast majority of volunteers work between you know five and 12 hours I'd say
+
+806
+00:50:51,300 --> 00:50:55,420
+and I think that's a great volunteering model and it's not the volunteering model that
+
+807
+00:50:56,040 --> 00:50:59,020
+that they're used to using and I don't think they're planning to use our volunteering model
+
+808
+00:50:59,080 --> 00:51:03,320
+I think they're planning to have a small team of volunteers who are their picked people and those
+
+809
+00:51:03,700 --> 00:51:07,020
+people will do all the work on the EasterCon now that means that many things on the EasterCon
+
+810
+00:51:07,540 --> 00:51:14,260
+won't run the way they normally do because people who are volunteers the people who normally volunteer
+
+811
+00:51:14,280 --> 00:51:19,760
+bits won't be part of that small team of volunteers who get their memberships for nothing so i think
+
+812
+00:51:19,820 --> 00:51:25,480
+that's something that i want to poke at them to prod for over the time that comes up i just don't
+
+813
+00:51:25,540 --> 00:51:29,460
+think what they've said anything that they've said supports the notion that they'll run east because
+
+814
+00:51:29,660 --> 00:51:33,260
+the way that they're normally run i think they plan to run it differently so what i will say is
+
+815
+00:51:33,780 --> 00:51:38,620
+basically so i again haven't read the transcript or watched the recent bid but i have seen the
+
+816
+00:51:38,640 --> 00:51:44,960
+previous stuff on this basically i am yet to be convinced as to why they want to run an easter
+
+817
+00:51:45,100 --> 00:51:49,720
+con i'm kind of see why they want to run a eurocon but i haven't seen anything that says we want to
+
+818
+00:51:49,720 --> 00:51:56,420
+run easter con other than because it's a thing that already exists and we can it will be easier
+
+819
+00:51:56,780 --> 00:52:01,680
+than running the eurocon as a separate thing so i think a little bit more engagement with easter
+
+820
+00:52:01,780 --> 00:52:08,600
+cons and how they generally work and if you're planning to do things differently why are you
+
+821
+00:52:08,620 --> 00:52:14,740
+making this big change other than that's because how we run other conventions i think my message
+
+822
+00:52:14,900 --> 00:52:18,860
+is there is basically like every time you say well we're not we're going to run an easter con but
+
+823
+00:52:18,940 --> 00:52:22,060
+we're not going to do this easter con thing we're going to do this other thing we do at another con
+
+824
+00:52:22,160 --> 00:52:26,440
+then i'm like well why are you not just running the other con but calling it eurocon i think that's
+
+825
+00:52:26,540 --> 00:52:31,260
+fair because i don't see why you couldn't run like british fancy con and call it a eurocon that's
+
+826
+00:52:31,280 --> 00:52:35,859
+actually a really good point they totally could and that would be a fantastic idea alan if you're
+
+827
+00:52:35,860 --> 00:52:41,140
+listening go and do that instead it'll be much better he's definitely not listening no no I know
+
+828
+00:52:41,200 --> 00:52:45,740
+he's not listening um where I got to in the bar was I kind of look at you know I look at Alan and
+
+829
+00:52:45,840 --> 00:52:49,960
+David and I'm kind of like well they might not do everything the way I do it but I know that the
+
+830
+00:52:50,200 --> 00:52:55,420
+convention they want to run is the Easter con so I mean I look at say the bid for 28 28 and
+
+831
+00:52:55,880 --> 00:53:00,380
+contract and Marcus Streets and I you know Marcus might do think I'm sure Marcus will do a lot of
+
+832
+00:53:00,460 --> 00:53:04,040
+things differently from the way I do them but I know what he wants to do is run the Easter con
+
+833
+00:53:04,480 --> 00:53:09,940
+and I look at Farah and Mike bidding for 29 and I'm sure they'll do a bunch of things differently
+
+834
+00:53:10,110 --> 00:53:14,540
+from the way I do but I know that the thing they want to run is the EasterCon and we're about to
+
+835
+00:53:14,660 --> 00:53:19,800
+say we've got a show of interest from Northern Ireland for early 2030s and I know they're
+
+836
+00:53:19,870 --> 00:53:25,280
+basically going to want to run the EasterCon I look at Alan and I'm not persuaded that the thing
+
+837
+00:53:25,280 --> 00:53:30,700
+he wants to run is the EasterCon I think that's fair maybe maybe the BSFA should run an EasterCon
+
+838
+00:53:30,720 --> 00:53:35,820
+that actually i'm not sure i'm still not sure i want them to run an easter con but i think i'd be
+
+839
+00:53:36,080 --> 00:53:41,100
+more persuaded that they wanted to run an easter con if they weren't proposing this big old lump
+
+840
+00:53:41,740 --> 00:53:45,740
+i think you know if alan was like we'd like to run an easter con and you know we'd like to send
+
+841
+00:53:45,740 --> 00:53:50,240
+to the bsfa but we're gonna work in the way that easter cons work and also we're gonna volunteer
+
+842
+00:53:50,560 --> 00:53:56,040
+for easter cons in the run-up to running that easter con because we want to make sure that we're
+
+843
+00:53:56,410 --> 00:54:00,680
+being part of the community these things would all be good so we now should talk about the early
+
+844
+00:54:00,700 --> 00:54:07,400
+his bed very briefly yes so can i can i you do that one tommy ferguson said can i have a word
+
+845
+00:54:07,500 --> 00:54:10,720
+with you while i was walking through a corridor and i said oh i'm on my way somewhere tommy can
+
+846
+00:54:10,720 --> 00:54:14,280
+we talk later he went oh no i just want to say we're thinking about maybe having another
+
+847
+00:54:14,720 --> 00:54:18,520
+belfast eastercom would that be a thing you thought was good and i was like yes and he went that's
+
+848
+00:54:18,520 --> 00:54:24,420
+all i wanted to ask and i was like okay and then i carried on going to my panel one of the things i
+
+849
+00:54:24,860 --> 00:54:30,660
+freaking love about tommy uh hi tommy uh is that meetings do not last longer than they have to with
+
+850
+00:54:30,680 --> 00:54:33,980
+the meeting lasts as long as it takes to get through what the meeting was about and then the
+
+851
+00:54:33,990 --> 00:54:41,120
+meeting stops and i am a big fan of that like cannot overstate how good that is that's extraordinary
+
+852
+00:54:41,270 --> 00:54:45,520
+because octothop recordings often take a great deal longer than they need to but we always get
+
+853
+00:54:45,700 --> 00:54:50,980
+roughly the right amount of episode out of them so i think maybe that's just a reflection on our
+
+854
+00:54:51,080 --> 00:54:58,900
+efficiency rather than the length but yes so so tommy and then mark bailey was uh sort of stunt
+
+855
+00:54:58,960 --> 00:55:05,700
+tommy slash emissary from northern ireland at the the at the bid session and he said that uh you
+
+856
+00:55:05,700 --> 00:55:09,940
+know northern ireland were considering bidding for the early 2030s and i would be well up for
+
+857
+00:55:09,980 --> 00:55:15,960
+going back to belfast it was fab i'd love to see a welsh bid yeah i mean it's one of the things
+
+858
+00:55:16,120 --> 00:55:20,300
+where logistically you probably don't want to go to belfast like as often as we are currently going
+
+859
+00:55:20,500 --> 00:55:27,100
+to birmingham but i would be well up for going back you know on a semi-regular basis maybe we
+
+860
+00:55:27,020 --> 00:55:33,780
+tried two first but yeah yeah so 2025 and then the early 2030s i'm up for a sort of six to eight
+
+861
+00:55:33,960 --> 00:55:38,640
+year cadence i think that would work well i think a five-year cadence would be fine i think it'll be
+
+862
+00:55:38,640 --> 00:55:45,480
+good and i think alan said that the bsfa venue they'd be looking at the hilton metropole so if
+
+863
+00:55:45,540 --> 00:55:52,300
+they won in 2030 and mike and scott won the 29 it would go glasgow birmingham chester birmingham
+
+864
+00:55:52,640 --> 00:55:53,800
+maybe Belfast
+
+865
+00:55:54,120 --> 00:55:55,280
+so we're definitely in a
+
+866
+00:55:55,660 --> 00:55:57,380
+was that Mike and Scott one in
+
+867
+00:55:57,860 --> 00:55:58,880
+Mike and Farah
+
+868
+00:55:59,160 --> 00:55:59,980
+did I say Mike and Scott
+
+869
+00:56:01,420 --> 00:56:02,400
+Mike's good friend Scott
+
+870
+00:56:02,960 --> 00:56:05,100
+we all know Scott he's been running Eastcons forever
+
+871
+00:56:05,680 --> 00:56:07,800
+no sorry Mike and Farah
+
+872
+00:56:08,280 --> 00:56:09,480
+well Farah and Mike really
+
+873
+00:56:09,920 --> 00:56:11,840
+if they win the bid
+
+874
+00:56:12,000 --> 00:56:13,580
+in 2027 so that'll be voted on
+
+875
+00:56:13,620 --> 00:56:14,480
+at Glasgow listeners
+
+876
+00:56:15,120 --> 00:56:17,420
+although it's mostly a formality because
+
+877
+00:56:17,720 --> 00:56:19,860
+Eastcons are almost never contested
+
+878
+00:56:20,000 --> 00:56:21,240
+unless Alison gets grumpy
+
+879
+00:56:21,560 --> 00:56:25,600
+which is a historically accurate statement i'm enjoying very much because of the look on alison's
+
+880
+00:56:25,700 --> 00:56:33,320
+face so it is possible for me to be grumpy and decide that my grumpiness will manifest itself in
+
+881
+00:56:33,500 --> 00:56:38,880
+ways other than my personally leading a bit let's put it yes for instance caroline leading a bit
+
+882
+00:56:39,700 --> 00:56:48,900
+yeah sorry sorry i'm stirring massively listeners uh i love you alison you are stirring quite a lot
+
+883
+00:56:49,800 --> 00:56:57,500
+So I think my reading of the room was that everyone was delighted to give the 2028 Eastercon to Marcus.
+
+884
+00:56:58,760 --> 00:57:03,560
+They were generally favourable about the 2029 bid, though there is this question about capping.
+
+885
+00:57:04,180 --> 00:57:08,620
+They were extremely favourable about the idea of going back to Belfast in the early 2030s.
+
+886
+00:57:08,780 --> 00:57:15,300
+And they were all roundly sceptical about the BSFA Eastercon, Eurocon extravaganza.
+
+887
+00:57:15,880 --> 00:57:20,480
+and so if you were in the room um that's my reading of the room but you might have a different take on
+
+888
+00:57:20,540 --> 00:57:26,600
+it so do write in we'll have a we'll do letters sometime i promise yes to be fair if the dealers
+
+889
+00:57:26,780 --> 00:57:32,220
+are not particularly keen on going to belfast on then when the bid session was taking place they
+
+890
+00:57:32,340 --> 00:57:38,120
+may have been off running dealers room tables yeah anyway that was all a very that and that i thought
+
+891
+00:57:38,180 --> 00:57:40,520
+that was a lot to get into an hour which they did
+
+892
+00:57:46,579 --> 00:57:56,220
+okay shall we do picks yes i've got a pick i am going to pick scavenger's rain so scavenger's
+
+893
+00:57:56,360 --> 00:58:05,860
+rain is a 12-part tv series um it is available on netflix in the uk it was an hbo max original
+
+894
+00:58:06,390 --> 00:58:10,500
+um but netflix bought it so i think it might be available on netflix worldwide
+
+895
+00:58:10,520 --> 00:58:11,400
+but I don't know.
+
+896
+00:58:11,900 --> 00:58:14,840
+It was created by Joseph Bennett and Charles Wettner,
+
+897
+00:58:15,220 --> 00:58:18,820
+and it's an animated show about four people
+
+898
+00:58:20,099 --> 00:58:25,980
+who have had to abandon a freighter in orbit around a planet,
+
+899
+00:58:26,440 --> 00:58:27,660
+and they are stranded on this planet.
+
+900
+00:58:28,200 --> 00:58:30,600
+And the planet is, and I do not use these words lightly,
+
+901
+00:58:30,880 --> 00:58:31,840
+fucking horrific.
+
+902
+00:58:32,440 --> 00:58:35,980
+The flora and fauna on this planet are weird
+
+903
+00:58:36,360 --> 00:58:39,440
+in very, very alien ways that are deeply uncomfortable.
+
+904
+00:58:39,900 --> 00:58:43,540
+If you want to see unusual aliens on screen,
+
+905
+00:58:44,260 --> 00:58:46,840
+oh boy, does this have that for you.
+
+906
+00:58:47,620 --> 00:58:48,880
+Themes of body horror,
+
+907
+00:58:49,520 --> 00:58:50,660
+some themes of suicide.
+
+908
+00:58:51,920 --> 00:58:53,080
+It's not a light show.
+
+909
+00:58:53,940 --> 00:58:55,360
+Every episode is 24 minutes long.
+
+910
+00:58:55,680 --> 00:58:56,440
+And like I said, there are 12.
+
+911
+00:58:56,600 --> 00:58:58,160
+So it's not a very long show either.
+
+912
+00:58:58,860 --> 00:59:00,120
+But I just think it's amazing.
+
+913
+00:59:00,200 --> 00:59:01,360
+I really, really enjoyed it.
+
+914
+00:59:01,900 --> 00:59:03,480
+I'm a bit sad it's not going to get any more.
+
+915
+00:59:03,800 --> 00:59:06,180
+It was based on an eight minute short film
+
+916
+00:59:07,040 --> 00:59:07,620
+called Scavengers,
+
+917
+00:59:08,240 --> 00:59:09,200
+which you can watch on YouTube.
+
+918
+00:59:09,740 --> 00:59:11,060
+And I would highly recommend it to listeners.
+
+919
+00:59:11,500 --> 00:59:12,740
+And it won't take up much of your time either.
+
+920
+00:59:13,140 --> 00:59:14,160
+And this is on Netflix?
+
+921
+00:59:14,640 --> 00:59:15,440
+Yes, in the UK definitely.
+
+922
+00:59:16,239 --> 00:59:17,760
+I think worldwide maybe.
+
+923
+00:59:18,880 --> 00:59:20,820
+One moment while I check this out.
+
+924
+00:59:21,359 --> 00:59:22,860
+A worldwide correspondent.
+
+925
+00:59:23,540 --> 00:59:24,320
+Oh, that does sound good.
+
+926
+00:59:24,680 --> 00:59:27,000
+Yeah, no, it's not worldwide unfortunately because I can't watch it.
+
+927
+00:59:27,520 --> 00:59:27,840
+Boo!
+
+928
+00:59:28,460 --> 00:59:30,760
+HBO Max is the other place it turns up.
+
+929
+00:59:30,800 --> 00:59:32,180
+I don't know if that's a thing you have.
+
+930
+00:59:32,680 --> 00:59:33,920
+Oh, yes.
+
+931
+00:59:34,500 --> 00:59:36,640
+If you can watch it, Liz, I would recommend it.
+
+932
+00:59:36,700 --> 00:59:37,280
+I thought it was ace.
+
+933
+00:59:37,720 --> 00:59:37,960
+All right.
+
+934
+00:59:38,320 --> 00:59:39,520
+When I run out of Formula One?
+
+935
+00:59:40,820 --> 00:59:48,000
+shall i do mine yeah so so this is a thing i don't do much which is i have bought a new book
+
+936
+00:59:48,440 --> 00:59:53,800
+in hardback i.e expensive ebook as soon as it's released and reading it i've not quite finished
+
+937
+00:59:53,880 --> 00:59:58,200
+it because that's also my way because i didn't discover it existed until yesterday and then i
+
+938
+00:59:58,340 --> 01:00:04,380
+immediately went to buy it and this is what we are seeking by cameron reed now cameron reed is not a
+
+939
+01:00:04,360 --> 01:00:11,260
+new author. She wrote a book under another name. I don't know whether we say people's dead names
+
+940
+01:00:11,310 --> 01:00:14,860
+in these circumstances. I'm not going to. You can find out the book is called The Fortunate Fall.
+
+941
+01:00:15,360 --> 01:00:20,760
+And some of you listening will be going, oh, oh, oh, oh, wow, that's amazing. And that was 30 years
+
+942
+01:00:20,940 --> 01:00:24,840
+ago. And then there were a couple of short stories and novelette type length things,
+
+943
+01:00:25,350 --> 01:00:31,800
+and then nothing else. And now 30 years later, they've come back with a new name and a new novel.
+
+944
+01:00:31,980 --> 01:00:40,580
+It's called What We Are Seeking and it is about a man who is a doctor on a spaceship who gets
+
+945
+01:00:42,000 --> 01:00:46,700
+ordered to go to a planet that he's not entirely expecting to along with a translator. The
+
+946
+01:00:46,820 --> 01:00:54,880
+translator is trying to talk to the aliens on that planet and there are also human colonists from
+
+947
+01:00:55,320 --> 01:01:00,120
+two different planets and those two different planets are quite different to each other
+
+948
+01:01:00,660 --> 01:01:07,980
+and so we have we have our hero from one planet we have the translator who is a translator we have
+
+949
+01:01:08,140 --> 01:01:15,160
+the two quite different types of humans and we have some aliens and and they're just all going
+
+950
+01:01:15,160 --> 01:01:20,760
+to get along and i absolutely i i've read about 75 of this book and i am absolutely adoring it
+
+951
+01:01:21,020 --> 01:01:25,880
+everything i could possibly want in a science fiction novel i love it in lots of ways and one
+
+952
+01:01:25,760 --> 01:01:31,980
+of the ways I love it is that it's one of these books where people start exploring faith and
+
+953
+01:01:32,180 --> 01:01:37,360
+morality and intelligence and different ways of viewing the world and gender because obviously
+
+954
+01:01:37,470 --> 01:01:42,600
+the author has had a very long complicated history with gender and in fact won the otherwise award
+
+955
+01:01:42,900 --> 01:01:51,420
+when it too had a different name. That's not my comment, it's hers. And I'm just loving all of it.
+
+956
+01:01:51,500 --> 01:01:55,020
+It's very reminiscent of Sherry Tepper in a number of different ways.
+
+957
+01:01:55,200 --> 01:01:56,540
+And I'm sure I'm not the first.
+
+958
+01:01:56,600 --> 01:01:58,540
+I think I might be the first person to make that comparison.
+
+959
+01:01:59,000 --> 01:02:02,060
+But I'm only making it because it's, you know, the book's only a week old.
+
+960
+01:02:02,120 --> 01:02:03,560
+So the people haven't had much of a chance to.
+
+961
+01:02:04,980 --> 01:02:07,920
+It's and again, about the things I like about Tepper.
+
+962
+01:02:08,280 --> 01:02:11,680
+So, you know, weird aliens and faith questions.
+
+963
+01:02:13,760 --> 01:02:15,880
+And why can't men and women just get along?
+
+964
+01:02:16,960 --> 01:02:17,540
+And all of that.
+
+965
+01:02:17,860 --> 01:02:19,500
+And oh, it's just fantastic.
+
+966
+01:02:19,960 --> 01:02:22,600
+So she could still fail to stick the ending.
+
+967
+01:02:22,860 --> 01:02:23,920
+So there is that risk.
+
+968
+01:02:24,200 --> 01:02:28,480
+But also there's a bit, I got about halfway through and I was like, oh, if you wanted to
+
+969
+01:02:28,680 --> 01:02:32,720
+criticise this book, which I definitely wouldn't, the way you might criticise it is that although
+
+970
+01:02:32,840 --> 01:02:37,360
+they've talked a lot about peril and the things that might go wrong, nothing has very much
+
+971
+01:02:37,540 --> 01:02:38,200
+gone wrong yet.
+
+972
+01:02:38,260 --> 01:02:41,900
+So there has been an enormous amount of, well, we're going to go into the desert and look
+
+973
+01:02:41,900 --> 01:02:43,400
+at these interesting alien life forms.
+
+974
+01:02:44,340 --> 01:02:45,500
+And nothing has quite gone wrong.
+
+975
+01:02:45,860 --> 01:02:49,860
+And then, like on the very next page, something went wrong spectacularly.
+
+976
+01:02:49,940 --> 01:02:50,480
+So that was great.
+
+977
+01:02:50,920 --> 01:02:55,760
+So it's got some tension and action in it as well for people who like that sort of thing in their novels.
+
+978
+01:02:56,760 --> 01:02:57,060
+Great.
+
+979
+01:02:57,240 --> 01:02:57,880
+It's going to be great.
+
+980
+01:02:58,080 --> 01:03:00,280
+It's going to get a lot of people going to talk about it.
+
+981
+01:03:00,720 --> 01:03:05,500
+And I learned about it because Mike Scott has started reading it and said it's great.
+
+982
+01:03:06,670 --> 01:03:08,180
+But I'm only 20% of the way in.
+
+983
+01:03:08,180 --> 01:03:11,960
+And then Neil Harrison chipped in and said, I finished it all.
+
+984
+01:03:12,060 --> 01:03:12,840
+And it's absolutely amazing.
+
+985
+01:03:13,860 --> 01:03:15,760
+So I never get to read a book first.
+
+986
+01:03:15,900 --> 01:03:18,860
+So this is just hugely exciting to me.
+
+987
+01:03:19,320 --> 01:03:22,200
+What? I'm glad you've enjoyed it, or are enjoying it.
+
+988
+01:03:22,640 --> 01:03:25,460
+I'm enjoying it. Had to break off to come and do the podcast.
+
+989
+01:03:25,880 --> 01:03:26,420
+Oh, I'm sorry.
+
+990
+01:03:26,760 --> 01:03:28,500
+You know. Yeah, no, it happens that way sometimes.
+
+991
+01:03:29,600 --> 01:03:32,200
+But also, it's really good, because I did not have a pick at Telecom.
+
+992
+01:03:32,210 --> 01:03:33,320
+I was like, what am I going to pick?
+
+993
+01:03:35,160 --> 01:03:38,320
+All I've done since EasterCon is sleep and play Slay the Spa at eBay board games.
+
+994
+01:03:38,760 --> 01:03:39,860
+Yep. Fair.
+
+995
+01:03:40,350 --> 01:03:40,740
+Shall I go?
+
+996
+01:03:42,539 --> 01:03:43,260
+Liz Batty.
+
+997
+01:03:43,780 --> 01:03:47,500
+Yes, Hugo voting is closed, so I'm allowed to talk about 2025 things again.
+
+998
+01:03:48,299 --> 01:03:48,660
+Yay!
+
+999
+01:03:48,700 --> 01:03:57,580
+and so i can pick slow gods by clare north which is a 2025 space opera novel i'm not sure i can
+
+1000
+01:03:57,610 --> 01:04:02,920
+even try and summarize the plot it's about a guy who gets very poorly but then gets better again
+
+1001
+01:04:03,440 --> 01:04:10,160
+yeah that is basically it so we have more who is our viewpoint character and more is born into
+
+1002
+01:04:12,040 --> 01:04:17,840
+an empire called the shine which is basically 21st century capitalism if you took it into
+
+1003
+01:04:17,840 --> 01:04:24,780
+planetary and then more goes through a an interstellar jump and something weird happens to
+
+1004
+01:04:24,780 --> 01:04:32,240
+them and it's all about kind of what happens to more over like a long lifespan of being this
+
+1005
+01:04:33,240 --> 01:04:38,380
+weird person that makes people a little bit scared because something odd has happened to them
+
+1006
+01:04:38,660 --> 01:04:44,480
+and no one knows kind of how to treat that part of the interest is that people do treat them in
+
+1007
+01:04:44,340 --> 01:04:51,640
+different ways. There's a big sort of cube. So there's the slow, which is a sort of gog machine,
+
+1008
+01:04:51,880 --> 01:04:57,960
+which in certain cases manifests as a kind of cube. There is some intergalactic peril. And what I
+
+1009
+01:04:58,420 --> 01:05:04,820
+thought actually is this is one of the books I think which has got closest to being an Ian M.
+
+1010
+01:05:05,000 --> 01:05:11,940
+Banks style book than I have read in a while. But it felt quite fresh. And I think partly because
+
+1011
+01:05:11,960 --> 01:05:18,340
+I don't think Banks would have done something like having the shine who feel almost explicitly like
+
+1012
+01:05:19,000 --> 01:05:25,680
+our world but if we enter the stars and it all went to shit in exactly the same way as you know
+
+1013
+01:05:25,880 --> 01:05:32,420
+capitalism does and so that felt kind of like a slightly different take on it I enjoyed it like
+
+1014
+01:05:32,820 --> 01:05:38,740
+maybe 80% of the books I read it's a little bit long um but I thought it was very promising I
+
+1015
+01:05:38,760 --> 01:05:40,540
+I can't remember if I nominated it for Hugo or not now,
+
+1016
+01:05:40,680 --> 01:05:43,240
+but I can say that basically I didn't feel I could talk about this
+
+1017
+01:05:43,400 --> 01:05:48,140
+when I read it in case it looked like I was trying to get it nominated for Hugo.
+
+1018
+01:05:48,420 --> 01:05:50,580
+I want to ask you a question about it, Liz,
+
+1019
+01:05:51,080 --> 01:05:53,540
+which is it felt to me very...
+
+1020
+01:05:53,680 --> 01:05:53,840
+Yeah.
+
+1021
+01:05:54,180 --> 01:05:58,760
+It had a lot in common for me with the final architecture series by Adrian Tchaikovsky.
+
+1022
+01:05:58,820 --> 01:06:01,100
+I felt like it was like that,
+
+1023
+01:06:02,220 --> 01:06:05,820
+but sort of more gothic and on a longer timescale.
+
+1024
+01:06:06,400 --> 01:06:07,300
+Would you care to comment?
+
+1025
+01:06:08,040 --> 01:06:26,100
+Yes. So if I had 50p for every time a book series comes along where interstellar travel involves going into this mysterious space between the stars in which something horrible and creepy lurks, then I would now have a pound.
+
+1026
+01:06:28,720 --> 01:06:33,880
+That, I mean, at the start, I did think this is almost like this just feels almost too close.
+
+1027
+01:06:34,220 --> 01:06:38,060
+And you should have obviously that came about independently, but it felt so close.
+
+1028
+01:06:38,140 --> 01:06:40,520
+I was almost like, well, should you have tried to change it up a bit?
+
+1029
+01:06:40,620 --> 01:06:43,940
+But actually, I think they go in slightly different directions with it.
+
+1030
+01:06:44,500 --> 01:06:45,900
+I mean, I enjoyed Slow Gods.
+
+1031
+01:06:46,480 --> 01:06:49,780
+I don't think it's anywhere near as good as Final Architecture, but I really like the Final Architecture.
+
+1032
+01:06:50,340 --> 01:06:52,360
+Oh, I think it's differently good.
+
+1033
+01:06:52,700 --> 01:07:00,600
+It's definitely good, but I really like alien aliens and Slow Gods doesn't really do that well with the alien aliens.
+
+1034
+01:07:01,500 --> 01:07:04,380
+I mean, there are some very, there's some very culture like vibes to it, right?
+
+1035
+01:07:04,680 --> 01:07:11,560
+There are civilizations out there, like great civilizations who don't want to go and mess with the shine.
+
+1036
+01:07:12,300 --> 01:07:21,100
+And there are the kind of, I can't remember what they're called, the, basically the machine people who do feel a bit like all the culture drones floating around.
+
+1037
+01:07:21,920 --> 01:07:29,140
+So I think it does put a new spin on things, but it feels a bit like they are ideas that maybe I have seen before and it puts a different spin on things.
+
+1038
+01:07:29,350 --> 01:07:36,440
+I felt like things like how the final architecture essentially has sort of a race of giant god crab bandits.
+
+1039
+01:07:38,840 --> 01:07:43,400
+Felt a bit more like, okay, I have never read anything with some giant crab god bandits in.
+
+1040
+01:07:43,640 --> 01:07:44,400
+Yeah, no, that's fair.
+
+1041
+01:07:44,800 --> 01:07:47,540
+But not every book can be Adrian Tchaikovsky.
+
+1042
+01:07:48,100 --> 01:07:52,900
+I mean, I could read a lot of Agent Tchaikovsky and still have not read half of what he writes,
+
+1043
+01:07:53,140 --> 01:07:55,280
+but I'll put it maybe one tier down.
+
+1044
+01:07:55,600 --> 01:07:57,240
+I have put a hold on it for the library.
+
+1045
+01:07:57,420 --> 01:07:58,620
+Yeah, I think we'll enjoy it.
+
+1046
+01:07:58,980 --> 01:08:00,240
+That was the Old Thought Podcast.
+
+1047
+01:08:00,710 --> 01:08:01,440
+And it's goodbye from me.
+
+1048
+01:08:01,800 --> 01:08:02,720
+It's goodbye from me.
+
+1049
+01:08:03,120 --> 01:08:03,980
+And it's goodbye from me.
+
+1050
+01:08:26,620 --> 01:08:27,279
+John, what are you hitting?
+
+1051
+01:08:27,740 --> 01:08:30,759
+Uh, oh, it's, um, I'm, uh, right.
+
+1052
+01:08:31,180 --> 01:08:32,400
+I'm hitting this cube.
+
+1053
+01:08:32,880 --> 01:08:33,839
+Oh, you bought that.
+
+1054
+01:08:34,319 --> 01:08:39,440
+you bought that yeah so sorry this is a massive digression listeners and it's not usually me that
+
+1055
+01:08:39,450 --> 01:08:46,359
+does the really massive digressions but in the fan fund auction andrew january donated this cube
+
+1056
+01:08:46,680 --> 01:08:51,960
+which is a cube made of wood where you have to um solve puzzles to open the cube and i bought it for
+
+1057
+01:08:51,960 --> 01:08:57,120
+the princely sum of 11 pounds good price would ebay for a lot more than that yeah when i was looking
+
+1058
+01:08:57,640 --> 01:09:01,220
+when i was looking online to see if i could find a hint because i was really stuck i found out that
+
+1059
+01:09:01,160 --> 01:09:05,380
+they retail for about 40 quid so i'm feeling pretty good about my 11 pound purchase and i am super
+
+1060
+01:09:05,450 --> 01:09:08,759
+stuck but i've just found out what the next thing i have to do is and the next thing i have to do
+
+1061
+01:09:08,900 --> 01:09:12,859
+involves tapping it a lot so i'm going to be doing that when you guys are talking so if you just hear
+
+1062
+01:09:12,980 --> 01:09:17,560
+a rhythmic tapping i'm sure that won't be annoying at all right and you'll edit it all out well i'm
+
+1063
+01:09:17,589 --> 01:09:21,960
+not going to do tapping when i'm talking except for earlier in the episode where i did but i
+
+1064
+01:09:22,299 --> 01:09:27,820
+realized and did a pickup so that's good you know what else is distracting john fireworks when you
+
+1065
+01:09:27,819 --> 01:09:33,580
+do a double thumbs up and fireworks appear in the background of your shot yeah it's because i'm one
+
+1066
+01:09:33,580 --> 01:09:38,900
+of those newfangled macs no i don't think i've got those yeah now this is one of the one of these
+
+1067
+01:09:39,100 --> 01:09:43,799
+things that just because science could do it did they ever stop to ask themselves if they should
+
+1068
+01:09:44,089 --> 01:09:49,380
+the funniest thing is is when it happens uh on my therapist's ipad when we're having therapy and
+
+1069
+01:09:49,420 --> 01:09:54,620
+that is hilarious to me my therapist finds it less hilarious i did tell them how to turn it off
+
+1070
+01:09:54,800 --> 01:09:59,260
+right i would i would have turned that off if i were a therapist they didn't know you could
+
+1071
+01:09:59,780 --> 01:10:04,380
+i i told them how to and i think i helped didn't get a discount for my tech support though
+
+1072
+01:10:05,240 --> 01:10:10,960
+but yes i bought a cube i see no possible problems with john having bought basically a fidget toy
+
+1073
+01:10:11,090 --> 01:10:17,020
+for during the pod so i have one of those and i really really enjoyed mine and then i've passed
+
+1074
+01:10:17,160 --> 01:10:21,680
+it on to both of my family who have one of whom's done it and one of whom has said they'll get around
+
+1075
+01:10:21,720 --> 01:10:26,360
+to it real soon now but i'm going to ebay if they don't because they have value but i may just swap
+
+1076
+01:10:26,460 --> 01:10:33,180
+it with john for his one oh do you have shredding his cat i don't think so no let me it's the same
+
+1077
+01:10:33,320 --> 01:10:38,280
+series so let's let's just take this conversation offline before liz gets hangry oh god i've done
+
+1078
+01:10:38,280 --> 01:10:43,140
+it wrong no don't understand what's happening need to actually pay attention to it the theme music for
+
+1079
+01:10:43,200 --> 01:10:49,740
+this episode was fanfare for space by kevin mcleod and compotech.com used under a creative commons
+
+1080
+01:10:49,800 --> 01:10:51,340
+attribution 4.0 license.
+
+1081
+01:10:52,230 --> 01:10:53,900
+This podcast will end at the beep.
+
+1082
+01:10:54,700 --> 01:10:55,260
+Beep.
+
+1083
+01:11:24,400 --> 01:11:25,260
+Thank you.
+
