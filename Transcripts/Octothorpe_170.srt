@@ -1,0 +1,4116 @@
+1
+00:00:00,001 --> 00:00:02,720
+Oh, if you hear rustling it's 'cause Quentin's in a box.
+
+2
+00:00:03,680 --> 00:00:05,120
+That's acceptable rustling.
+
+3
+00:00:05,120 --> 00:00:06,960
+Oh, I'll turn my AC off.
+
+4
+00:00:18,760 --> 00:00:27,800
+Hello everyone and welcome to the very 170th episode of Octothorpe, a podcast for science fiction and science fiction fandom.
+
+5
+00:00:27,360 --> 00:00:30,080
+Which is coming to you live from Octocon.
+
+6
+00:00:30,080 --> 00:00:31,200
+I'm John Coxon.
+
+7
+00:00:31,200 --> 00:00:32,240
+I'm Alison Scott.
+
+8
+00:00:32,240 --> 00:00:33,680
+And I'm Liz Batty.
+
+9
+00:00:33,680 --> 00:00:34,640
+Way!
+
+10
+00:00:34,640 --> 00:00:36,160
+Hello everyone!
+
+11
+00:00:35,700 --> 00:00:37,380
+Wasn't there a pause there?
+
+12
+00:00:37,380 --> 00:00:41,460
+Doesn't the script say pause for enormous cheers from audience?
+
+13
+00:00:41,460 --> 00:00:44,580
+Yes, we I'm sort of asserting those in my own head.
+
+14
+00:00:44,260 --> 00:00:47,219
+Yes, now we don't we can't see anyone.
+
+15
+00:00:47,219 --> 00:00:52,180
+Um so we're hoping people are listening and watching and having a good time
+
+16
+00:00:52,000 --> 00:00:55,840
+Uh and if you posted the Discord, is anyone here new to Octothorpe?
+
+17
+00:00:56,080 --> 00:00:58,960
+Sort of assuming there might be one person who's like, what's going on?
+
+18
+00:00:58,960 --> 00:01:00,239
+And is there any way of stopping it?
+
+19
+00:01:00,239 --> 00:01:01,360
+But if you're new, hello.
+
+20
+00:01:01,360 --> 00:01:03,760
+And if you're not new, hello again.
+
+21
+00:01:03,360 --> 00:01:06,960
+Shall we explain what an octothorp is to the one listener?
+
+22
+00:01:06,960 --> 00:01:12,800
+Yes, an octothorpe is a sort of shape made of
+
+23
+00:01:13,120 --> 00:01:18,160
+four lines and the lines overlap to make a pleasing hatch sort of pattern.
+
+24
+00:01:18,160 --> 00:01:20,720
+Yeah if you have a dictionary that would be definition one.
+
+25
+00:01:20,720 --> 00:01:21,200
+Yep
+
+26
+00:01:21,340 --> 00:01:26,220
+Possibly more relevant definition is we are podcast about science fiction and science fiction fandom.
+
+27
+00:01:26,460 --> 00:01:34,060
+We have been running since 2020 when there was some kind of world event and John was like, great, we can start our podcast now.
+
+28
+00:01:33,880 --> 00:01:47,160
+We have been nominated for and won a Hugo Award and we very much like chatting to people and talking about science fiction and science fiction fandom with you and we're very pleased to be doing it live from OttoComp, which is new for all of us
+
+29
+00:01:46,860 --> 00:01:47,579
+Yes.
+
+30
+00:01:47,579 --> 00:01:52,700
+And I don't have my Hugo Award in shop, but technically my Taskmaster medal is in shop.
+
+31
+00:01:52,700 --> 00:01:57,579
+So Well, I've got an actual medal somewhere 'cause I won the pup quiz on Friday and the prize was
+
+32
+00:01:57,740 --> 00:01:58,700
+A medal.
+
+33
+00:01:58,700 --> 00:02:05,660
+Okay, I would like you both to rank uh your pub quiz prizes between medals and vouchers for free beer.
+
+34
+00:02:05,660 --> 00:02:10,700
+Okay, so I have never won a medal in a pub quiz, I don't think.
+
+35
+00:02:10,740 --> 00:02:15,300
+But I have won many vouchers for free free oh actually I'm not sure I've won vouchers for free beer.
+
+36
+00:02:15,300 --> 00:02:16,900
+I think I've just won beer.
+
+37
+00:02:16,900 --> 00:02:21,140
+I think it's like come to the bar and and get your beer.
+
+38
+00:02:21,060 --> 00:02:22,019
+Oh interesting.
+
+39
+00:02:22,019 --> 00:02:22,420
+Yeah.
+
+40
+00:02:22,420 --> 00:02:23,379
+I mean it was a long time ago.
+
+41
+00:02:23,379 --> 00:02:26,900
+I haven't done pub quizzes since I developed dementia, really.
+
+42
+00:02:27,860 --> 00:02:28,739
+Wow.
+
+43
+00:02:28,739 --> 00:02:29,379
+Wow.
+
+44
+00:02:29,379 --> 00:02:32,340
+Uh content warnings for dementia listeners.
+
+45
+00:02:33,240 --> 00:02:39,880
+Uh no so so we used to go to a pub and they would give you a voucher because they expect they wanted you to come back next time
+
+46
+00:02:39,860 --> 00:02:45,060
+It was a it was a it was a ploy, a scheme, you see, for repeated custom.
+
+47
+00:02:45,060 --> 00:02:45,780
+Yes.
+
+48
+00:02:45,780 --> 00:02:54,340
+I do remember that our beer our beer vouchers did not cover the cost of the amount of beer we drank while doing the pub quiz, not by a long shot.
+
+49
+00:02:53,460 --> 00:02:54,820
+I mean that's fair.
+
+50
+00:02:54,820 --> 00:02:57,300
+You know, we were quite good at the pub quiz at the time.
+
+51
+00:02:57,300 --> 00:03:00,260
+Because there were other people on the team obviously who weren't me.
+
+52
+00:03:00,260 --> 00:03:02,980
+Did either of you go to the Octocon pub quiz?
+
+53
+00:03:02,600 --> 00:03:05,080
+I think it was in person only, so probably not.
+
+54
+00:03:05,080 --> 00:03:05,960
+Yeah, I did not.
+
+55
+00:03:05,960 --> 00:03:06,760
+Was it on Zoom?
+
+56
+00:03:06,760 --> 00:03:08,200
+I don't think it was streamed, was it?
+
+57
+00:03:08,200 --> 00:03:09,560
+No, I don't think it was.
+
+58
+00:03:09,560 --> 00:03:09,960
+No.
+
+59
+00:03:09,960 --> 00:03:12,760
+Did anyone in the audience go to the Octhorp quiz?
+
+60
+00:03:12,760 --> 00:03:14,600
+Did anyone in the audience win the Octhorp
+
+61
+00:03:14,680 --> 00:03:16,600
+Uh OctaCon pub quiz.
+
+62
+00:03:16,760 --> 00:03:18,680
+Now, Octoth PubQuis.
+
+63
+00:03:18,680 --> 00:03:20,760
+Please write that down as a future idea.
+
+64
+00:03:20,760 --> 00:03:21,400
+Oh hang on.
+
+65
+00:03:21,400 --> 00:03:22,360
+I need my bell.
+
+66
+00:03:22,360 --> 00:03:22,840
+Hang on.
+
+67
+00:03:22,920 --> 00:03:24,200
+You guys vamp.
+
+68
+00:03:24,200 --> 00:03:26,040
+Um, okay, so uh
+
+69
+00:03:26,620 --> 00:03:27,180
+All right.
+
+70
+00:03:27,340 --> 00:03:28,220
+We got a vamp.
+
+71
+00:03:28,220 --> 00:03:36,300
+Um yeah, so we we did not go to Pub Quiz 'cause unfortunately we are only present at Octocon in virtual form uh this year.
+
+72
+00:03:36,300 --> 00:03:41,180
+I don't know, Alison have you actually been to a physical in person Octocon?
+
+73
+00:03:40,840 --> 00:03:41,560
+Yes.
+
+74
+00:03:41,560 --> 00:03:42,680
+Ah, when?
+
+75
+00:03:42,680 --> 00:03:52,680
+I went to the very first op Octocon, which was oh I'm gonna say somewhere in Dublin, and had Terry Pratchett as the guest of honour, and at the time my friends
+
+76
+00:03:52,840 --> 00:03:57,800
+Carrie and Phil were living in Dublin, so we went to stay with them.
+
+77
+00:03:57,800 --> 00:04:00,520
+And I have a kind of story about this which is that
+
+78
+00:04:00,920 --> 00:04:05,480
+My I I was living with my ex at the time and we we had an absolutely terrible car.
+
+79
+00:04:05,480 --> 00:04:09,080
+And we had a terrible car in which we put the two of us and also Stephen
+
+80
+00:04:09,440 --> 00:04:13,920
+and John Dolman, it's so there were four of us in this tiny, terrible, awful car.
+
+81
+00:04:13,920 --> 00:04:18,720
+So there was me and there was three, you know, suspicious looking men with
+
+82
+00:04:18,979 --> 00:04:24,740
+Beards actually no Mike didn't have a beard, but suspicious looking men and we got stopped at the border for quite a long time.
+
+83
+00:04:24,740 --> 00:04:26,740
+And they were like oh you know
+
+84
+00:04:26,740 --> 00:04:31,140
+Not not that longer really, but they were basically like, So, what's the purpose of your trip?
+
+85
+00:04:31,140 --> 00:04:33,940
+And we said leisure and they said, Oh really, no, no, no, what are you up to?
+
+86
+00:04:33,940 --> 00:04:34,020
+and
+
+87
+00:04:34,320 --> 00:04:41,760
+And eventually somebody had the presence of mind to say, We're going to a science fiction convention and they could put us into a
+
+88
+00:04:41,860 --> 00:04:43,540
+A box marked Weirdos.
+
+89
+00:04:43,540 --> 00:04:45,220
+And it was all right and they let us on.
+
+90
+00:04:45,220 --> 00:04:49,220
+They've they put you into box marked beaby weirdos, but not that kind of beaby weirdos.
+
+91
+00:04:49,300 --> 00:04:51,460
+Exactly that, yes.
+
+92
+00:04:51,260 --> 00:04:53,660
+Beardy weirdos but unlikely to blow anything up.
+
+93
+00:04:53,660 --> 00:04:55,420
+So th you could tell how long this was ago.
+
+94
+00:04:55,420 --> 00:04:57,900
+I mean I think there'd be quite a lot of octagons since then.
+
+95
+00:04:57,900 --> 00:04:59,100
+It's been going a long time.
+
+96
+00:04:59,100 --> 00:05:00,540
+I didn't know it'd been going that long actually.
+
+97
+00:05:00,540 --> 00:05:01,820
+I'd never I'd never looked this up.
+
+98
+00:05:01,820 --> 00:05:04,780
+I probably should have looked up some some history before coming on the
+
+99
+00:05:04,780 --> 00:05:07,260
+Podcast at the con, but I had not looked it up.
+
+100
+00:05:07,420 --> 00:05:10,220
+I'm gonna say early nineties, probably.
+
+101
+00:05:10,220 --> 00:05:11,260
+Early nineties.
+
+102
+00:05:11,260 --> 00:05:14,220
+Somebody somebody in the audience will know how many octagons there have been.
+
+103
+00:05:14,220 --> 00:05:17,500
+I want to say this is the thirty-eighth, but I don't know why I think that
+
+104
+00:05:19,760 --> 00:05:24,400
+And I'm looking, but I can't it's not uh mmm, yeah.
+
+105
+00:05:24,400 --> 00:05:26,720
+But anyway, ooh about Octocon.
+
+106
+00:05:26,880 --> 00:05:28,400
+S someone will fill us in.
+
+107
+00:05:28,400 --> 00:05:31,840
+Uh for those who are watching from Octocon, feel free
+
+108
+00:05:31,940 --> 00:05:33,540
+To come into the Discord.
+
+109
+00:05:33,540 --> 00:05:35,060
+1990.
+
+110
+00:05:35,060 --> 00:05:36,020
+Bang on.
+
+111
+00:05:36,020 --> 00:05:36,900
+There we go.
+
+112
+00:05:36,900 --> 00:05:39,700
+Early nineties, that counts as nineteen ninety, doesn't it?
+
+113
+00:05:39,700 --> 00:05:40,260
+That's good.
+
+114
+00:05:40,260 --> 00:05:44,980
+Unless you're Fran, in which case nineteen ninety is of course the last year of the nineteen eighties
+
+115
+00:05:45,240 --> 00:05:49,320
+I have had that argument with Fran before and it is exhausting.
+
+116
+00:05:49,320 --> 00:05:54,520
+Oh oh well yeah that that's a millennium argument, isn't it?
+
+117
+00:05:54,539 --> 00:06:02,539
+You know, three million people celebrating in the centre of London celebrating the millennium and they're all wrong
+
+118
+00:06:02,440 --> 00:06:08,040
+And the funny thing is that Mike Scott was there as well and he was arguing that it was not till the following year at the time.
+
+119
+00:06:08,040 --> 00:06:14,280
+So Yeah, it's g I mean, I think clearly nonsense, but good good natured nonsense.
+
+120
+00:06:13,960 --> 00:06:15,720
+Uh, much like this podcast.
+
+121
+00:06:15,720 --> 00:06:17,319
+Um, no, I was looking for my bell.
+
+122
+00:06:17,319 --> 00:06:23,319
+I've got a bell, and I was gonna ring the bell every time we pronounced Octocon as Octothorpe, uh, but I can't find the bell.
+
+123
+00:06:23,500 --> 00:06:25,180
+Or vice versa.
+
+124
+00:06:25,180 --> 00:06:26,380
+Or or vice versa.
+
+125
+00:06:26,540 --> 00:06:31,100
+Un unlikely to happen in the reverse, I think, although not impossible
+
+126
+00:06:30,740 --> 00:06:36,260
+Okay, you could keep that you could keep that bell for every time I say issue when I mean episode or vice versa.
+
+127
+00:06:36,260 --> 00:06:38,580
+It's um yeah no it's it's it's um
+
+128
+00:06:38,760 --> 00:06:39,080
+Yeah.
+
+129
+00:06:39,080 --> 00:06:46,680
+No, I bought so so in the tradition of buying games from charity shops, which is a tradition that both uh Alison and I follow religiously.
+
+130
+00:06:46,840 --> 00:06:49,400
+I'm so glad I've infected you with that.
+
+131
+00:06:49,000 --> 00:06:51,240
+I mean I think I think I did it.
+
+132
+00:06:51,240 --> 00:06:57,080
+I I don't think you uh were the first person to tell me you could buy board gazer charity shops
+
+133
+00:06:57,060 --> 00:06:58,340
+Um but but yes.
+
+134
+00:06:58,340 --> 00:07:01,699
+Um but I do I do love I do love buying games in Terror Shops.
+
+135
+00:07:01,699 --> 00:07:06,259
+But Oh screen there's a game called You Can't Say Um by Big Potato
+
+136
+00:07:06,260 --> 00:07:09,060
+And the game itself is not great, but it did come with a bell.
+
+137
+00:07:09,060 --> 00:07:10,260
+And the bell is great.
+
+138
+00:07:10,420 --> 00:07:11,140
+Quite often.
+
+139
+00:07:11,140 --> 00:07:19,220
+One of the one of the things that happens with games that I buy in charity shops is that I plunder them and put the bits and keep the bits and throw the rest of the game away.
+
+140
+00:07:19,220 --> 00:07:19,700
+Mm-hmm
+
+141
+00:07:19,900 --> 00:07:26,940
+So sometim uh if I think it's a good game I won't do that, but I think the game is rubbish and it would be better off for the planet if it wasn't part of it.
+
+142
+00:07:26,940 --> 00:07:29,500
+I'll just I'll just keep the good bits
+
+143
+00:07:29,600 --> 00:07:41,840
+It yeah, I mean like I got a copy of Star Wars Trivial Pursuit off eBay and it came and there was quite a lot of mould on the box, so I I discarded the box
+
+144
+00:07:41,860 --> 00:07:48,580
+I I mean, you know, waste not want not but also does the world need a moldy, ruined Star Wars Triple Pursuit Box?
+
+145
+00:07:48,580 --> 00:07:49,620
+Possibly not
+
+146
+00:07:49,580 --> 00:07:51,740
+Liz, have you got any mouldy things?
+
+147
+00:07:51,740 --> 00:07:53,740
+I got some bread that I forgot about.
+
+148
+00:07:53,740 --> 00:07:54,620
+Nice.
+
+149
+00:07:54,620 --> 00:07:55,740
+Cheese.
+
+150
+00:07:55,740 --> 00:07:56,780
+Cheese is mouldy.
+
+151
+00:07:56,780 --> 00:07:58,700
+I don't have any mouldy cheese at the moment.
+
+152
+00:07:58,700 --> 00:07:59,660
+Cheese.
+
+153
+00:07:59,660 --> 00:08:00,780
+I've got cheese.
+
+154
+00:08:00,780 --> 00:08:03,420
+I'm not allowed to eat it, but there we go, I've got it
+
+155
+00:08:03,260 --> 00:08:06,620
+John, have have you attended an Octocon before in person or online?
+
+156
+00:08:07,100 --> 00:08:08,060
+No.
+
+157
+00:08:08,060 --> 00:08:11,260
+No, and I would like to in person one day.
+
+158
+00:08:11,260 --> 00:08:11,580
+Um
+
+159
+00:08:11,960 --> 00:08:21,240
+I this year is not the year because we're online guests and I did consider turning up and I thought that might make things quite a lot more complicated for everyone.
+
+160
+00:08:21,060 --> 00:08:22,660
+Uh so I elected not to.
+
+161
+00:08:22,660 --> 00:08:32,419
+Um but it is it's it's been on my list of things to go to in person for ages because well you know, it just seemed like a good good fun thing.
+
+162
+00:08:32,259 --> 00:08:34,180
+But but no, I've never actually managed.
+
+163
+00:08:34,180 --> 00:08:38,579
+This year would have been awkward because of LA Con, which it turned out was expensive.
+
+164
+00:08:38,579 --> 00:08:40,419
+Um, so yeah.
+
+165
+00:08:40,520 --> 00:08:41,400
+Yes.
+
+166
+00:08:41,400 --> 00:08:42,440
+Who knew?
+
+167
+00:08:42,440 --> 00:08:47,960
+So we do have we do have people watching, but I'm not sure they're saying anything.
+
+168
+00:08:47,960 --> 00:08:49,240
+Hispania said something.
+
+169
+00:08:49,240 --> 00:08:49,880
+Oh.
+
+170
+00:08:49,880 --> 00:08:52,040
+And so did JC and Virginia and Phil.
+
+171
+00:08:52,280 --> 00:08:53,960
+Many people have said things
+
+172
+00:08:53,680 --> 00:08:54,560
+Oh yeah, no, okay.
+
+173
+00:08:54,560 --> 00:08:57,040
+Um So that's at least four listeners.
+
+174
+00:08:57,040 --> 00:08:59,839
+So they're in the Discord, they're not on YouTube, okay.
+
+175
+00:08:59,839 --> 00:09:01,040
+They might not be on YouTube.
+
+176
+00:09:01,040 --> 00:09:06,959
+I confess I don't go on the I I I have YouTube Premium now by accident.
+
+177
+00:09:07,500 --> 00:09:10,140
+Oh yeah, no, actually there are twenty-nine messages.
+
+178
+00:09:10,380 --> 00:09:12,060
+That sounds likely.
+
+179
+00:09:12,300 --> 00:09:13,260
+Yay.
+
+180
+00:09:13,260 --> 00:09:13,900
+Yes.
+
+181
+00:09:13,900 --> 00:09:17,740
+Uh this is the point where, as usual on our live podcasts, I will say
+
+182
+00:09:17,860 --> 00:09:22,900
+Please try not to get too flagrantly distracted by the Discord mid-sentence.
+
+183
+00:09:22,900 --> 00:09:23,780
+What was that, Liz?
+
+184
+00:09:23,780 --> 00:09:26,420
+Uh Andrew posted a picture of some cheese rotating.
+
+185
+00:09:26,900 --> 00:09:27,700
+Yeah.
+
+186
+00:09:28,820 --> 00:09:32,660
+Anyway, I have attended an Otcon before.
+
+187
+00:09:32,060 --> 00:09:39,420
+And it was online and I suspect it was 2020 when I went to more online conventions.
+
+188
+00:09:39,420 --> 00:09:40,300
+Yeah.
+
+189
+00:09:40,060 --> 00:09:41,500
+And it was jolly fun.
+
+190
+00:09:41,500 --> 00:09:45,420
+I did the usual thing of, you know, watching a bunch of panels on Zoom, sitting in my house.
+
+191
+00:09:45,420 --> 00:09:49,020
+I think I might have stayed up too late and tried to play some Jackbox games or something.
+
+192
+00:09:49,180 --> 00:09:49,980
+Yeah.
+
+193
+00:09:49,720 --> 00:09:51,480
+So it is nice to be back.
+
+194
+00:09:51,480 --> 00:09:52,200
+Good.
+
+195
+00:09:52,200 --> 00:09:58,440
+Yeah, I I have a mo I think I went to the online octagon in twenty twenty, or maybe twenty-one.
+
+196
+00:09:58,000 --> 00:10:01,280
+Yeah, and I've of I've often wanted to go but never managed it.
+
+197
+00:10:01,280 --> 00:10:03,360
+Um but now actually 'cause it's in Cork.
+
+198
+00:10:03,360 --> 00:10:06,400
+I mean I've been to Dublin I've been to Dublin several times.
+
+199
+00:10:06,400 --> 00:10:12,880
+I've never been to Cork and so therefore it's now uh a more attractive prospect 'cause I could c put a convention in there as well.
+
+200
+00:10:12,360 --> 00:10:13,240
+Yes.
+
+201
+00:10:13,240 --> 00:10:17,480
+I I went to Cork when I was about six.
+
+202
+00:10:17,480 --> 00:10:19,880
+And this is only relevant to this
+
+203
+00:10:20,040 --> 00:10:25,800
+conversation because I don't think anyone's going to be surprised to learn that I kissed the Blary Stone while I was there.
+
+204
+00:10:26,839 --> 00:10:28,839
+I was absolutely terrified
+
+205
+00:10:28,860 --> 00:10:34,140
+I it's what I I I mean I I do have a memory of being 'cause you get hung upside down by burly men.
+
+206
+00:10:34,140 --> 00:10:37,820
+I don't know how they do it now, but at the time you got hung upside down by burley men
+
+207
+00:10:37,860 --> 00:10:39,860
+And it was absolutely petrifying.
+
+208
+00:10:39,860 --> 00:10:44,500
+I think now you get hung upside down by Burley people because it's twenty twenty-six.
+
+209
+00:10:44,580 --> 00:10:46,260
+Possibly, yes.
+
+210
+00:10:48,459 --> 00:10:50,860
+Uh or possibly there's like health and safety.
+
+211
+00:10:50,860 --> 00:10:52,060
+Yeah, yay.
+
+212
+00:10:52,060 --> 00:10:53,019
+Hey.
+
+213
+00:10:53,019 --> 00:10:54,700
+Thank you.
+
+214
+00:10:55,660 --> 00:11:00,060
+Uh Espana arrived with equipment and she's now paying a cat.
+
+215
+00:11:00,800 --> 00:11:02,480
+I should brought your bell.
+
+216
+00:11:04,240 --> 00:11:05,440
+Did that come through?
+
+217
+00:11:05,440 --> 00:11:06,240
+Is that the bell?
+
+218
+00:11:06,240 --> 00:11:07,279
+You've got the bell.
+
+219
+00:11:07,279 --> 00:11:08,880
+Faintly, yes.
+
+220
+00:11:09,360 --> 00:11:14,080
+Oh, I thought it was gonna be like a little jangly bell, but it's like a more of a ding for attention bell.
+
+221
+00:11:14,080 --> 00:11:15,600
+No, it's uh it's a hotel bell.
+
+222
+00:11:15,600 --> 00:11:18,000
+It's gonna be like the file system bell on ATP.
+
+223
+00:11:18,000 --> 00:11:18,800
+Yeah.
+
+224
+00:11:18,400 --> 00:11:24,800
+Imagine if you had that all the time, John, and if we were just rambling on and you wanted to get a word in Edgeways, you'd just be like ding ding ding ding ding ding.
+
+225
+00:11:24,800 --> 00:11:31,840
+Yeah, in the mirror universe where you guys are the ones that are not letting me get a word in edgeways, that would be very useful
+
+226
+00:11:31,860 --> 00:11:33,460
+Yeah, yeah.
+
+227
+00:11:34,500 --> 00:11:36,340
+Maybe I should send you both a bell.
+
+228
+00:11:36,340 --> 00:11:38,260
+Yeah, maybe we should all have bells.
+
+229
+00:11:38,260 --> 00:11:42,820
+If we had like if we had bells at different things we could do little handbell tunes.
+
+230
+00:11:43,460 --> 00:11:46,100
+And then and then John could sort out the
+
+231
+00:11:46,140 --> 00:11:49,580
+the editing afterwards so they actually sounded like a tune.
+
+232
+00:11:50,540 --> 00:11:51,180
+Yes.
+
+233
+00:11:51,180 --> 00:11:57,740
+No, so um Margarita's posted in the chat about Dublin Meantime and Cork Stand and JC posted about Cork Standard time.
+
+234
+00:11:57,740 --> 00:12:06,300
+And so in the observatory um for when I was a student at Leicester University, um there was an observatory and that had Leicester time written.
+
+235
+00:12:06,440 --> 00:12:15,720
+in the observatory because you do actually need to know how many minutes behind GMT you are for your adjustments to um for your adjustments to where the stars are going to be in the sky.
+
+236
+00:12:16,120 --> 00:12:18,200
+So there will be a cork um
+
+237
+00:12:18,560 --> 00:12:22,160
+There will be cork time, but it will only really be useful in astronomy.
+
+238
+00:12:22,160 --> 00:12:23,440
+That killed the conversation.
+
+239
+00:12:23,440 --> 00:12:23,840
+Good.
+
+240
+00:12:23,840 --> 00:12:24,800
+Let's do picks.
+
+241
+00:12:24,800 --> 00:12:25,200
+No.
+
+242
+00:12:25,200 --> 00:12:28,000
+Um crumbs we've got forty five minutes left, guys.
+
+243
+00:12:28,000 --> 00:12:29,440
+How are we gonna fill it?
+
+244
+00:12:30,080 --> 00:12:32,240
+Well normally we fill it with letters.
+
+245
+00:12:32,240 --> 00:12:33,280
+Yes.
+
+246
+00:12:33,380 --> 00:12:33,860
+Zed.
+
+247
+00:12:34,100 --> 00:12:36,500
+And we're not doing them this time, so we'll do them next time.
+
+248
+00:12:36,740 --> 00:12:40,340
+Well, I mean, I'm gonna say it is Sunday morning of Otcon
+
+249
+00:12:40,660 --> 00:12:42,900
+Easy like Sunday morning.
+
+250
+00:12:42,900 --> 00:12:46,340
+How have you big guys been enjoying your opticons so far?
+
+251
+00:12:46,340 --> 00:12:46,980
+It was good.
+
+252
+00:12:46,980 --> 00:12:47,940
+Yeah, I think it's good.
+
+253
+00:12:47,940 --> 00:12:48,980
+What did you get up to?
+
+254
+00:12:48,980 --> 00:12:51,140
+Me and Alison did a panel together.
+
+255
+00:12:51,140 --> 00:12:51,620
+Ooh
+
+256
+00:12:51,940 --> 00:12:55,540
+We did with with Meg moderating, which was quite funny really.
+
+257
+00:12:55,540 --> 00:12:57,220
+I I felt moderated.
+
+258
+00:12:57,220 --> 00:13:00,580
+Um but we we covered all I had a long list of things that I
+
+259
+00:13:00,580 --> 00:13:11,060
+I had a long list of things that I wanted to squeeze into the panel and I think they all got covered, um, which was probably easy because there were only two of us because the other people had seen that we were on it and had dropped out.
+
+260
+00:13:11,140 --> 00:13:12,260
+Fled.
+
+261
+00:13:11,860 --> 00:13:12,340
+Yes.
+
+262
+00:13:12,340 --> 00:13:19,140
+No, um you you squeeze them in like like like um like squeezing cumquats into a jar.
+
+263
+00:13:19,140 --> 00:13:21,620
+Okay, that was very random, John.
+
+264
+00:13:21,620 --> 00:13:23,140
+It's a metaphor, you see.
+
+265
+00:13:23,140 --> 00:13:24,180
+No, it's a simile
+
+266
+00:13:24,440 --> 00:13:33,960
+Fuck So so that was uh that was about um surfacing indie board games um and obviously as as we now know I
+
+267
+00:13:34,060 --> 00:13:36,780
+I get mine in charity shops so Yes.
+
+268
+00:13:36,780 --> 00:13:38,700
+Not not only, but somewhat.
+
+269
+00:13:38,700 --> 00:13:46,540
+Yeah, I mean in charity shops I don't want to recapitulate the panel, but are you getting like recent board games that someone kickstarted and they're getting rid of
+
+270
+00:13:46,339 --> 00:13:50,100
+Or are you getting just like Star Wars Show Real Shoot for the 1980s?
+
+271
+00:13:50,100 --> 00:13:54,500
+Two of my most recent uh finds in charity shops were Here to Slay
+
+272
+00:13:54,640 --> 00:13:56,160
+Which is quite a recent game.
+
+273
+00:13:56,400 --> 00:14:00,720
+And I also got the Space Team Cooperative game, which was indeed a Kickstarter.
+
+274
+00:14:01,040 --> 00:14:07,200
+So you do occasionally turn up gems, but I do also have like multiple copies of Obama Lama
+
+275
+00:14:07,459 --> 00:14:13,540
+Uh and the if you want the Top of the Pops board game, whole boy can you find it in charity shops.
+
+276
+00:14:13,940 --> 00:14:15,140
+Okay, so the top of the pops
+
+277
+00:14:15,540 --> 00:14:23,060
+Board game has a really good buzzer with a ti the big box version, not the small box version, has a really good buzzer with a timer that's worth having for other games.
+
+278
+00:14:23,060 --> 00:14:23,540
+Yes.
+
+279
+00:14:23,540 --> 00:14:25,300
+And it's also quite a good game.
+
+280
+00:14:25,300 --> 00:14:25,940
+It's just
+
+281
+00:14:26,120 --> 00:14:28,440
+It's just very easy to find.
+
+282
+00:14:28,440 --> 00:14:35,320
+Yeah, ninety-nine percent of the games in charity shops are not good, but there are a lot of games in charity shops.
+
+283
+00:14:35,140 --> 00:14:37,940
+So and also I'm not really going to charity shops to buy games.
+
+284
+00:14:37,940 --> 00:14:44,020
+I'm really going to charity shops to w go for a walk, because I I'm supposed to go for walks regularly.
+
+285
+00:14:44,020 --> 00:14:49,060
+Um and I just happen to buy games because otherwise I won't go for walks.
+
+286
+00:14:48,560 --> 00:14:49,840
+I've tricked my brain.
+
+287
+00:14:49,840 --> 00:14:50,240
+Yeah.
+
+288
+00:14:51,600 --> 00:14:55,920
+I actually I went to um there's a charity shop in Whitley Bay, um, which is uh
+
+289
+00:14:56,640 --> 00:15:07,040
+far place animal charity, which is like a northeast specific charity, but I got a brand new in envelope um escape room murder game.
+
+290
+00:15:06,860 --> 00:15:10,940
+um for like a fiver and they retail for like twenty five quid so I was pretty happy with that.
+
+291
+00:15:10,940 --> 00:15:17,820
+Woo um I can't I'll try and f I'll try and remember it's the Cryptic Killers series, that's the badger.
+
+292
+00:15:17,820 --> 00:15:18,700
+And they're quite good.
+
+293
+00:15:18,940 --> 00:15:21,580
+There's a Peaky Blinders one.
+
+294
+00:15:21,040 --> 00:15:22,959
+Which is genre, so that's relevant.
+
+295
+00:15:23,120 --> 00:15:29,040
+Andrew on Discord suggests the best thing is to live near a board game reviewer, which is a true statement.
+
+296
+00:15:29,040 --> 00:15:29,680
+I think
+
+297
+00:15:29,820 --> 00:15:31,100
+That's true.
+
+298
+00:15:31,100 --> 00:15:39,740
+There was some charity shop like there were a few charity shops where I used to know, okay, someone who lives near this charity shop gets sent a load of ARCs that they never
+
+299
+00:15:40,040 --> 00:15:41,000
+want to keep.
+
+300
+00:15:41,000 --> 00:15:41,560
+Yeah.
+
+301
+00:15:41,560 --> 00:15:45,000
+Um, and then you've got to figure that one out and go for it.
+
+302
+00:15:45,000 --> 00:15:53,640
+I think Fiona was saying there's someone who clearly buys the Hugo shortlist every year and donates it, so like she could very often get
+
+303
+00:15:53,560 --> 00:15:56,280
+books from the Hugos uh from her local charity shop.
+
+304
+00:15:56,280 --> 00:15:58,120
+So that d definitely does happen.
+
+305
+00:15:58,120 --> 00:16:03,800
+Um there's someone there's someone near us who who donates a lot of big potato in that kind of game.
+
+306
+00:16:03,800 --> 00:16:07,960
+Um and so uh I've got every single version of Linky now.
+
+307
+00:16:08,180 --> 00:16:08,660
+Yeah.
+
+308
+00:16:08,660 --> 00:16:10,100
+It's good to cause I like Linky.
+
+309
+00:16:10,100 --> 00:16:15,540
+I mean it's possible that person just loves paper books, but maybe someone needs to tell find that person and tell them they can have a supporting membership.
+
+310
+00:16:15,540 --> 00:16:16,980
+Sorry, Whisper's membership.
+
+311
+00:16:16,980 --> 00:16:18,259
+In the Hugo's.
+
+312
+00:16:17,980 --> 00:16:19,420
+I'd probably get all the books for free.
+
+313
+00:16:19,420 --> 00:16:19,900
+Yes.
+
+314
+00:16:19,900 --> 00:16:22,780
+Uh Meg points out you are not supposed to ARC to charity shops.
+
+315
+00:16:22,780 --> 00:16:28,060
+Well, I think the thing is like the other only other option really is to get rid of is to bin them somehow.
+
+316
+00:16:28,060 --> 00:16:29,500
+Like you can give them to your mates and stuff.
+
+317
+00:16:29,500 --> 00:16:31,420
+I know you're not supposed to you don't want to
+
+318
+00:16:31,259 --> 00:16:35,420
+could be out there selling them, but I don't think it's too bad to put them in a charity shop.
+
+319
+00:16:35,420 --> 00:16:37,899
+But no one ever sends me any ALCs.
+
+320
+00:16:37,899 --> 00:16:38,540
+No.
+
+321
+00:16:38,540 --> 00:16:40,139
+Where do you stand on
+
+322
+00:16:40,920 --> 00:16:46,279
+Using VPNs to access book bundles, Liz, given that it's come up or organically.
+
+323
+00:16:46,519 --> 00:16:49,800
+I was gonna say this sounds very similar to
+
+324
+00:16:50,320 --> 00:16:55,200
+You're not supposed to switch the labels on three for two books in Waterstones.
+
+325
+00:16:55,440 --> 00:16:56,800
+Look, do I have regrets?
+
+326
+00:16:56,800 --> 00:16:57,200
+Yes.
+
+327
+00:16:57,200 --> 00:17:04,000
+Are any of them that shall we now now it has been raised, shall I shall I briefly plug the book bundle?
+
+328
+00:17:04,000 --> 00:17:04,400
+Yes.
+
+329
+00:17:04,400 --> 00:17:04,959
+Yeah.
+
+330
+00:17:04,800 --> 00:17:13,600
+So I I plugged previously I have plugged the CJ Cherry humble bundle, which was like forty CJ Cherry books which no one in the UK can buy
+
+331
+00:17:13,439 --> 00:17:22,159
+And today I'm going to plug the Ultimate Gene Wolfe Library from Tor, which is 38 books, and I think nearly all of his books that have ever been published.
+
+332
+00:17:22,160 --> 00:17:29,280
+And the charity donation is to Alzheimer's Research UK, but apparently it is not available in the UK or Ireland, we have checked.
+
+333
+00:17:29,280 --> 00:17:34,240
+Um, so I'm gonna have quite a lot of Gene Wolf books and you guys are not?
+
+334
+00:17:34,240 --> 00:17:34,800
+Yep
+
+335
+00:17:34,860 --> 00:17:39,260
+Worth noting that um the CJ Cherry bundle is still up for another four days.
+
+336
+00:17:39,260 --> 00:17:42,620
+I think they might have it might have stopped and then they started it again.
+
+337
+00:17:43,100 --> 00:17:45,340
+Um because I think it was supposed to stop.
+
+338
+00:17:45,340 --> 00:17:45,659
+Um
+
+339
+00:17:46,140 --> 00:17:47,820
+But um but yeah, it's still there.
+
+340
+00:17:47,820 --> 00:17:54,380
+I mean if you look at the default donation, if I pay twenty dollars then one dollar goes to Alzheimer's Research.
+
+341
+00:17:54,380 --> 00:17:55,820
+So they're not minting it.
+
+342
+00:17:55,820 --> 00:18:00,140
+It's but it's still not I mean, eleven dollars to Macmillan for all the books is really
+
+343
+00:18:00,260 --> 00:18:02,980
+Not a huge amount given how many books you get.
+
+344
+00:18:02,980 --> 00:18:09,539
+But if people want a VPN and send them the money or get the books elsewhere and buy a bunch of books from Macmillan or whatever
+
+345
+00:18:09,480 --> 00:18:23,160
+When when when when also the my favorite thing to do with humble bundles is when there's some books by someone problematic, I wait for there to be a humble bundle and I buy them and I just set the slider to entirely the charity and that is the best way to legally obtain
+
+346
+00:18:23,060 --> 00:18:24,500
+Books by problematic people.
+
+347
+00:18:24,500 --> 00:18:26,180
+I can't remember what the name of the comic was.
+
+348
+00:18:26,180 --> 00:18:32,980
+We've discussed it on a previous episode, but there's a there's a very well-regarded comic that was written by someone who's since gone a bit funny.
+
+349
+00:18:32,480 --> 00:18:35,600
+Oh it's Cerberus, Dave Sim Cerberus, I think.
+
+350
+00:18:35,600 --> 00:18:36,640
+Yes, that one.
+
+351
+00:18:36,640 --> 00:18:44,240
+I bought it, but I set the slider to all the way to charity so that the the problematic man didn't get the money.
+
+352
+00:18:43,840 --> 00:18:44,480
+Top tip.
+
+353
+00:18:44,480 --> 00:18:51,200
+Yeah, it probably depends what the charities are, because he could probably he could have set it to some really skeevy charities, couldn't he?
+
+354
+00:18:51,200 --> 00:18:53,200
+I well I think Humble Bundle
+
+355
+00:18:53,100 --> 00:18:59,340
+I don't know if they'd let you set a truly awful charity, but yeah, yeah, I guess you've got to be eyes wide open.
+
+356
+00:18:59,340 --> 00:19:04,780
+You can also get Brian Aldis's books and the I thought there was another one.
+
+357
+00:19:04,780 --> 00:19:07,980
+Joe Haldeman's got one and Timothy Zarn.
+
+358
+00:19:07,940 --> 00:19:10,580
+Not all of these authors are of equivalent qualities.
+
+359
+00:19:10,580 --> 00:19:17,139
+Yeah, I mean the nice thing about the CJ Cherry one is it's quite hard to get uh those books at least in the UK.
+
+360
+00:19:17,139 --> 00:19:18,419
+Uh so it was a bit
+
+361
+00:19:18,560 --> 00:19:20,800
+Uh ironic that you couldn't actually get them in the UK.
+
+362
+00:19:20,800 --> 00:19:21,200
+Yeah.
+
+363
+00:19:21,200 --> 00:19:21,600
+Yeah.
+
+364
+00:19:21,600 --> 00:19:23,520
+But no, I've I've had some good stuff from that.
+
+365
+00:19:23,520 --> 00:19:26,480
+I think I had all of like um oh there's a comic
+
+366
+00:19:26,460 --> 00:19:29,660
+There's a comic one where you got basically all of image comics in the fact.
+
+367
+00:19:29,660 --> 00:19:33,660
+Oh, it might be the all of image in the twenties Mega Bungle, which I think I've already bought.
+
+368
+00:19:33,660 --> 00:19:33,980
+Yeah.
+
+369
+00:19:33,980 --> 00:19:35,020
+There's some good ones.
+
+370
+00:19:35,020 --> 00:19:36,140
+Yeah, I saw that one.
+
+371
+00:19:36,140 --> 00:19:37,260
+Yeah, there's a really good
+
+372
+00:19:37,540 --> 00:19:39,460
+Comics bundle at the moment, I think.
+
+373
+00:19:39,460 --> 00:19:39,940
+Yeah.
+
+374
+00:19:39,940 --> 00:19:44,900
+But whatever you do, don't sign up for their newsletters because you will get like fifteen emails a day.
+
+375
+00:19:44,900 --> 00:19:47,060
+It is exhausting.
+
+376
+00:19:47,060 --> 00:19:51,140
+It's like it's genuinely I'm like, how how do you how does
+
+377
+00:19:51,260 --> 00:19:57,020
+I guess a lot of people don't curate their inbox and just let it go to hell, but I just cannot, cannot be doing with it.
+
+378
+00:19:57,020 --> 00:19:58,539
+That image bundle is still up.
+
+379
+00:19:58,539 --> 00:20:02,620
+It will be gone by the time the recording comes out, but if you are watching now.
+
+380
+00:20:02,820 --> 00:20:06,980
+You can uh go grab it as we are recording.
+
+381
+00:20:06,980 --> 00:20:10,740
+Ooh, it actually has a comic in it I want, so I might grab that
+
+382
+00:20:10,560 --> 00:20:15,280
+Right, now we have the thing where John is uh buying comics while also recording the podcast.
+
+383
+00:20:15,280 --> 00:20:18,240
+Well no, no, because cause I it's a it's a genre comic.
+
+384
+00:20:18,240 --> 00:20:21,840
+So um uh it is um Chrissy Williams
+
+385
+00:20:21,960 --> 00:20:23,000
+Oh, Golden Girls.
+
+386
+00:20:23,240 --> 00:20:26,760
+Golden Rage, yeah, which is the um Golden Rage, that's it.
+
+387
+00:20:26,760 --> 00:20:27,720
+Angry Golden Girls.
+
+388
+00:20:27,880 --> 00:20:28,920
+Uh yes.
+
+389
+00:20:28,920 --> 00:20:33,480
+Basically w w women get sent to an island.
+
+390
+00:20:33,240 --> 00:20:36,200
+Um because men are in charge and it's about that.
+
+391
+00:20:36,520 --> 00:20:37,560
+And it's good.
+
+392
+00:20:37,560 --> 00:20:38,680
+I highly recommend it.
+
+393
+00:20:38,680 --> 00:20:39,640
+I haven't read that one.
+
+394
+00:20:39,640 --> 00:20:40,760
+I might already have it though.
+
+395
+00:20:41,240 --> 00:20:44,440
+I've got the um I've got the book
+
+396
+00:20:44,860 --> 00:20:47,100
+like the physical book of volume one.
+
+397
+00:20:47,100 --> 00:20:51,019
+Um but yeah, maybe I just get the PDF of volume two.
+
+398
+00:20:51,019 --> 00:20:52,460
+Uh interesting.
+
+399
+00:20:52,779 --> 00:20:56,139
+Meg has asked, how does one curate an inbox?
+
+400
+00:20:56,139 --> 00:20:59,659
+Uh you unsubscribe from the things you don't want to have in it.
+
+401
+00:20:59,140 --> 00:21:02,500
+And Andrew has posted a gif of fire.
+
+402
+00:21:03,300 --> 00:21:07,460
+I I am quite anal about email.
+
+403
+00:21:06,940 --> 00:21:07,580
+Really?
+
+404
+00:21:07,580 --> 00:21:08,380
+Yeah.
+
+405
+00:21:11,899 --> 00:21:13,179
+All right, rude.
+
+406
+00:21:13,179 --> 00:21:14,620
+Um so at the moment
+
+407
+00:21:14,860 --> 00:21:22,539
+I have nine messages in my inbox and the only reason it's that high is because is because I haven't checked them yet this morning.
+
+408
+00:21:22,539 --> 00:21:23,980
+Okay, hang on a sec.
+
+409
+00:21:23,679 --> 00:21:30,480
+I've got very ruthless about deleting ones I don't want to keep, so I have lots in the inbox, but they've all been read and triaged.
+
+410
+00:21:30,480 --> 00:21:32,240
+Okay, here's the question.
+
+411
+00:21:32,260 --> 00:21:37,940
+Do you want to know how many unread messages I have in my inbox or how many messages I have in my inbox?
+
+412
+00:21:37,940 --> 00:21:40,179
+I think both of them will make me sad.
+
+413
+00:21:40,179 --> 00:21:42,900
+Um, but please go ahead.
+
+414
+00:21:42,980 --> 00:21:45,140
+Okay, so would you like to
+
+415
+00:21:45,160 --> 00:21:50,520
+Can we have a little sweepstakes, guys, or a little John guesses and Liz says higher or lower?
+
+416
+00:21:50,520 --> 00:21:54,520
+I'm gonna guess I'm gonna guess eight thousand unread emails.
+
+417
+00:21:54,740 --> 00:21:56,660
+And this could guess higher or lower.
+
+418
+00:21:56,660 --> 00:22:01,380
+I mean does this include like you know how on Gmail you have like a promotions tab for all your nonsense?
+
+419
+00:22:01,380 --> 00:22:03,380
+Does that just go to your main inbox?
+
+420
+00:22:03,060 --> 00:22:05,460
+Uh yeah, no, this doesn't include any of the nonsense.
+
+421
+00:22:05,460 --> 00:22:07,140
+This is just the primary inbox.
+
+422
+00:22:07,140 --> 00:22:08,100
+Okay, lower.
+
+423
+00:22:08,100 --> 00:22:09,620
+Okay, yeah, no, you're correct.
+
+424
+00:22:09,620 --> 00:22:12,580
+There are 787 unread
+
+425
+00:22:12,760 --> 00:22:13,400
+Oh.
+
+426
+00:22:13,400 --> 00:22:16,679
+And three thousand three hundred and twenty-six in total.
+
+427
+00:22:16,679 --> 00:22:19,799
+That is not as bad as I think John was expecting.
+
+428
+00:22:19,880 --> 00:22:25,799
+Malcolm's got ninety-seven thousand five hundred and sixty-three, uh, and I and I don't like that.
+
+429
+00:22:25,799 --> 00:22:26,280
+Yeah.
+
+430
+00:22:26,280 --> 00:22:26,679
+I mean
+
+431
+00:22:26,860 --> 00:22:31,419
+In my promotions tab there are 147,000 emails apparently.
+
+432
+00:22:31,419 --> 00:22:32,139
+Yeah, that's it.
+
+433
+00:22:32,139 --> 00:22:34,299
+Like my promotions tab is just sort of stuff.
+
+434
+00:22:34,299 --> 00:22:38,539
+I don't use those tabs, so that six is all of the emails.
+
+435
+00:22:38,320 --> 00:22:38,800
+Yeah.
+
+436
+00:22:38,800 --> 00:22:40,480
+Well well done for you.
+
+437
+00:22:41,360 --> 00:22:42,240
+Yes.
+
+438
+00:22:42,240 --> 00:22:48,560
+Anyway, um On the subject of John Online shopping during the podcast, I've also been looking at mugs.
+
+439
+00:22:49,740 --> 00:22:53,019
+Okay, so this we're not very on topic now guys, are we?
+
+440
+00:22:53,019 --> 00:22:59,580
+Yeah, I was gonna say after you what after you uh did your indie board games panel, did you manage to make it to any other optcon things?
+
+441
+00:22:59,580 --> 00:23:01,019
+Because by that point I had
+
+442
+00:23:00,960 --> 00:23:02,000
+sadly gone to sleep.
+
+443
+00:23:02,000 --> 00:23:05,680
+I w I went to the panel I was on on science in science fiction, which was quite good.
+
+444
+00:23:05,680 --> 00:23:07,760
+Oh who was on that was along with you, John?
+
+445
+00:23:07,760 --> 00:23:10,800
+Uh it was Prami, Mohammed and Karen
+
+446
+00:23:11,440 --> 00:23:14,159
+Landsman and Edmund Schusel.
+
+447
+00:23:14,159 --> 00:23:14,639
+Mm-hmm.
+
+448
+00:23:14,639 --> 00:23:15,600
+That sounds great.
+
+449
+00:23:16,159 --> 00:23:18,559
+And Meg was the moderator.
+
+450
+00:23:18,880 --> 00:23:21,840
+Oh, Meg is a glutton for punishment, isn't she?
+
+451
+00:23:21,840 --> 00:23:22,799
+Yes.
+
+452
+00:23:22,840 --> 00:23:23,799
+Yes indeed.
+
+453
+00:23:23,799 --> 00:23:25,320
+Um but no it was good.
+
+454
+00:23:25,320 --> 00:23:26,840
+Um and it was interesting.
+
+455
+00:23:26,840 --> 00:23:30,600
+And we discussed movies and time and science.
+
+456
+00:23:30,600 --> 00:23:31,240
+Yeah.
+
+457
+00:23:31,240 --> 00:23:33,400
+And the three body problem.
+
+458
+00:23:33,400 --> 00:23:36,360
+So Premier Mohammed is the guest of honour
+
+459
+00:23:36,360 --> 00:23:45,159
+Right, but unfortunately I think they're attending like from Canada and so we're not overlapping, I think, in awakeness at any point.
+
+460
+00:23:45,160 --> 00:23:45,640
+Yeah.
+
+461
+00:23:45,640 --> 00:23:46,840
+No, I mean that's tricky, right?
+
+462
+00:23:46,840 --> 00:23:48,280
+Time zones are a problem.
+
+463
+00:23:48,360 --> 00:23:49,400
+But she was very lovely.
+
+464
+00:23:49,400 --> 00:23:52,520
+There were she had a cat on screen, so that was good.
+
+465
+00:23:52,520 --> 00:23:53,400
+Excellent.
+
+466
+00:23:53,360 --> 00:23:54,399
+Um, so yeah.
+
+467
+00:23:54,399 --> 00:23:55,679
+Ten out of ten cat.
+
+468
+00:23:55,679 --> 00:23:57,519
+Is Quinton in your background?
+
+469
+00:23:57,519 --> 00:24:00,000
+Uh technically yes, but you can't actually see him.
+
+470
+00:24:00,320 --> 00:24:02,399
+'Cause he's like he's like
+
+471
+00:24:02,560 --> 00:24:03,600
+Oh no you can.
+
+472
+00:24:03,600 --> 00:24:04,240
+He's there.
+
+473
+00:24:04,240 --> 00:24:06,480
+He's you see that black there?
+
+474
+00:24:06,480 --> 00:24:07,040
+Mm-hmm.
+
+475
+00:24:07,040 --> 00:24:07,920
+That's a cat.
+
+476
+00:24:07,920 --> 00:24:08,560
+Mm-hmm.
+
+477
+00:24:08,560 --> 00:24:12,400
+Oh so you get carpal boxes and you leave them around for for your cats.
+
+478
+00:24:12,400 --> 00:24:14,000
+That seems very civilized.
+
+479
+00:24:14,000 --> 00:24:14,960
+Yeah.
+
+480
+00:24:14,720 --> 00:24:15,840
+I'm not a monster.
+
+481
+00:24:15,840 --> 00:24:18,000
+And some cardboard boxes go better than others.
+
+482
+00:24:18,000 --> 00:24:21,920
+That one he has slept in about 90% of the last week.
+
+483
+00:24:21,920 --> 00:24:26,160
+So he he this is his new favourite place in the whole world.
+
+484
+00:24:26,179 --> 00:24:27,620
+Oh yes.
+
+485
+00:24:27,700 --> 00:24:29,139
+It's a favourite box.
+
+486
+00:24:29,139 --> 00:24:34,500
+Is it because of where it is, or is it just because of the side of nature of the box
+
+487
+00:24:34,620 --> 00:24:37,420
+No, no, not not location based.
+
+488
+00:24:37,420 --> 00:24:39,020
+I think it's just a good size.
+
+489
+00:24:39,020 --> 00:24:41,260
+Um but it it does vary.
+
+490
+00:24:41,260 --> 00:24:44,060
+Um but yeah, it's the box that's
+
+491
+00:24:44,260 --> 00:24:45,700
+A board game came in.
+
+492
+00:24:45,700 --> 00:24:47,539
+I I would have guessed that, yeah.
+
+493
+00:24:47,539 --> 00:24:48,020
+Yeah.
+
+494
+00:24:48,020 --> 00:24:50,900
+Um I got the Glasgow Train Robbery.
+
+495
+00:24:50,900 --> 00:24:54,419
+I backed it on Kickstarter and it came recently and it was good.
+
+496
+00:24:54,900 --> 00:24:56,740
+I'm um it is a good game.
+
+497
+00:24:56,740 --> 00:24:58,340
+So I went to another
+
+498
+00:24:58,240 --> 00:24:59,520
+Item Octacom.
+
+499
+00:24:59,520 --> 00:25:01,040
+Oh, what did you go to, Liz?
+
+500
+00:25:01,040 --> 00:25:05,600
+I went to uh the live podcast recording of Starship Alexandria.
+
+501
+00:25:05,600 --> 00:25:06,320
+Ooh.
+
+502
+00:25:06,320 --> 00:25:10,640
+With Adrian Trykovsky and Emma Newman, who are actually live in Cork.
+
+503
+00:25:10,340 --> 00:25:11,940
+Um, and not doing it on Zoom.
+
+504
+00:25:11,940 --> 00:25:20,660
+The nice thing about that is they said it was going to be like a Patreon special episode, and I'm not a patron of that podcast, so it means uh you only get to watch it if you are a Patreon or
+
+505
+00:25:20,700 --> 00:25:22,940
+You're at Octocon, so it feels a little bit exclusive.
+
+506
+00:25:22,940 --> 00:25:30,460
+Uh and they discussed Event Horizon, which is uh a kind of sci-fi horror film which took quite a long time to summarise the plot of
+
+507
+00:25:30,560 --> 00:25:39,040
+Um, but then they had a good discussion of it, including things like how do you like not have the second half of your sci-fi horror film um drop off in quality?
+
+508
+00:25:39,040 --> 00:25:43,600
+Uh is it actually a prequel to the Warhammer universe
+
+509
+00:25:43,560 --> 00:25:45,320
+Adrian says no.
+
+510
+00:25:45,960 --> 00:25:48,600
+Email him, not us, if he's wrong.
+
+511
+00:25:49,800 --> 00:25:50,520
+Do it.
+
+512
+00:25:50,520 --> 00:25:53,000
+I mean, I didn't realise that was one of the theories.
+
+513
+00:25:53,000 --> 00:25:55,560
+Apparently it is a theory because there's something about how in like
+
+514
+00:25:55,760 --> 00:26:00,000
+Uh 40K traveling through light warp sends you all weird.
+
+515
+00:26:00,000 --> 00:26:03,600
+And so to that happens in Event Horizon, maybe that is a thing
+
+516
+00:26:03,200 --> 00:26:06,000
+Uh they also mentioned it's you know it's a film with Sam Neil who passed away.
+
+517
+00:26:06,000 --> 00:26:10,240
+So that was that was entertaining to watch and listen to.
+
+518
+00:26:10,240 --> 00:26:15,360
+And I will hopefully get some more stuff this evening before it is uh unfortunately past my bedtime.
+
+519
+00:26:15,360 --> 00:26:17,039
+Yes, fair enough
+
+520
+00:26:16,679 --> 00:26:18,520
+No, I mean Event Horizon is great.
+
+521
+00:26:18,520 --> 00:26:25,960
+There is currently a comic series um like depicting things happening in the Event Horizon universe.
+
+522
+00:26:25,960 --> 00:26:27,720
+I can't remember which publisher it is.
+
+523
+00:26:27,720 --> 00:26:29,160
+Um but yeah
+
+524
+00:26:29,080 --> 00:26:31,160
+That's all the mim travelling man t of a day.
+
+525
+00:26:31,800 --> 00:26:35,080
+Audience do tell us what your Octocon highlights have been.
+
+526
+00:26:35,080 --> 00:26:35,880
+Yes.
+
+527
+00:26:35,880 --> 00:26:38,520
+In between a very adorable cat herding gift.
+
+528
+00:26:38,520 --> 00:26:41,720
+Yeah, that's me herding you guys back
+
+529
+00:26:42,720 --> 00:26:46,320
+to the uh topic of the podcast and not John's cat in a box.
+
+530
+00:26:46,320 --> 00:26:48,400
+Although his lovely cat in a box we can't actually see him.
+
+531
+00:26:48,400 --> 00:26:52,320
+So what is our next topic?
+
+532
+00:26:52,060 --> 00:26:57,740
+Audience, you can suggest something, otherwise we're gonna go down our list of list of interesting topics.
+
+533
+00:26:57,740 --> 00:27:06,060
+I mean I think I think we should mention that we've got prizes in the volunteer thingamajig and the and the charity raffle
+
+534
+00:27:05,700 --> 00:27:06,820
+Oh yeah, yeah, yeah.
+
+535
+00:27:06,820 --> 00:27:07,620
+Oh yeah.
+
+536
+00:27:07,620 --> 00:27:10,500
+Uh and I even remember what they are.
+
+537
+00:27:10,500 --> 00:27:12,019
+Oh well done.
+
+538
+00:27:12,019 --> 00:27:13,139
+Yeah.
+
+539
+00:27:13,139 --> 00:27:14,980
+We have offered
+
+540
+00:27:15,160 --> 00:27:17,880
+For the charity raffle, a guest spot.
+
+541
+00:27:17,880 --> 00:27:28,200
+And if you don't want to be on a podcast, you could just offer like we could offer you something equivalent, like we'll watch a movie you want us to watch, or we'll play your favorite game, or you know
+
+542
+00:27:28,279 --> 00:27:30,120
+Liz will eat a balaclava.
+
+543
+00:27:30,120 --> 00:27:31,000
+Something like that.
+
+544
+00:27:31,000 --> 00:27:34,600
+I'm now thinking of how I would like cook and eat a fake balaclava.
+
+545
+00:27:34,600 --> 00:27:36,279
+Um so don't don't do that one.
+
+546
+00:27:36,279 --> 00:27:37,880
+And then the volunteer reward is will
+
+547
+00:27:38,220 --> 00:27:45,900
+Cover a topic of your choice on a future episode as long as it's like a topic we think we could be entertaining and non-offensive on.
+
+548
+00:27:45,900 --> 00:27:48,540
+We reserve the right to decline.
+
+549
+00:27:48,160 --> 00:27:49,360
+Problematic topics.
+
+550
+00:27:49,360 --> 00:27:55,280
+Oh yes, a link to the charity raffle would be great 'cause I haven't seen the or it maybe it's happening live in Cork.
+
+551
+00:27:55,280 --> 00:27:55,920
+Maybe
+
+552
+00:27:56,040 --> 00:27:56,920
+Don't know.
+
+553
+00:28:00,920 --> 00:28:03,240
+Yeah, we've got a crack squad on the case.
+
+554
+00:28:03,240 --> 00:28:05,960
+Yeah, when they're not posting gifts, they will actually be posting link.
+
+555
+00:28:05,960 --> 00:28:07,000
+Yes.
+
+556
+00:28:06,660 --> 00:28:08,660
+It's probably in the members portal, isn't it?
+
+557
+00:28:08,660 --> 00:28:21,460
+Yeah, and we we we do not have a lot of guests on the podcast and we get uh an entertaining number of emails trying to offer us people to be guests on the podcast, given that we're not really a guest podcast because they haven't really listened to the podcast.
+
+558
+00:28:21,460 --> 00:28:29,780
+So you will know that this is a special and exclusive offer and only a handful of people have ever been on a guest on Octop.
+
+559
+00:28:29,780 --> 00:28:31,620
+And normally it's because I'm on holiday.
+
+560
+00:28:31,620 --> 00:28:32,500
+Yes.
+
+561
+00:28:32,260 --> 00:28:36,419
+No, it it's not a it's not a big um not a big list of people.
+
+562
+00:28:36,419 --> 00:28:38,580
+It's an it's an elite group.
+
+563
+00:28:38,580 --> 00:28:41,539
+It is a very select list of cool people.
+
+564
+00:28:41,539 --> 00:28:42,100
+Yes.
+
+565
+00:28:42,100 --> 00:28:43,780
+Alright, I'm on the member portal.
+
+566
+00:28:43,780 --> 00:28:46,020
+Can I find the charity thing in the jig?
+
+567
+00:28:45,660 --> 00:28:46,300
+No, okay, cool.
+
+568
+00:28:46,460 --> 00:28:47,020
+I don't think so.
+
+569
+00:28:47,020 --> 00:28:50,700
+Well I mean you might be pressed at finding things, but I think it's just got a streaming.
+
+570
+00:28:50,860 --> 00:28:51,820
+Alright.
+
+571
+00:28:51,820 --> 00:28:54,380
+Well, you know, fine.
+
+572
+00:28:53,980 --> 00:28:59,180
+Consider this a highlight of the raffle which will be happening at some point.
+
+573
+00:28:59,180 --> 00:29:00,300
+Somewhere.
+
+574
+00:29:00,780 --> 00:29:01,740
+Somewhere
+
+575
+00:29:02,540 --> 00:29:04,940
+It doesn't it doesn't come up on the programme.
+
+576
+00:29:04,940 --> 00:29:07,660
+Maybe it's at the closing ceremony like the Eurocon one.
+
+577
+00:29:07,660 --> 00:29:08,140
+Maybe.
+
+578
+00:29:08,140 --> 00:29:09,340
+But how do you buy tickets?
+
+579
+00:29:09,340 --> 00:29:11,260
+And why is there no information anywhere?
+
+580
+00:29:11,260 --> 00:29:12,460
+Octocon!
+
+581
+00:29:12,460 --> 00:29:13,900
+Octocon!
+
+582
+00:29:13,900 --> 00:29:15,980
+So th I'm not sure
+
+583
+00:29:16,060 --> 00:29:23,340
+I I don't know if this is something that other virtual members feel, but I'm not sure how f much I feel that the online and in person
+
+584
+00:29:23,840 --> 00:29:25,760
+conventions are integrated.
+
+585
+00:29:25,760 --> 00:29:28,160
+Because I feel like I don't really know what's going on in Cork.
+
+586
+00:29:28,160 --> 00:29:31,760
+I think I've had this before when conventions have had both an online and a
+
+587
+00:29:31,940 --> 00:29:34,580
+In person beta dimer in the online bit.
+
+588
+00:29:34,580 --> 00:29:35,220
+Mm.
+
+589
+00:29:35,220 --> 00:29:38,740
+And I'd like to I'd like to have more sense of what's going on in Cork.
+
+590
+00:29:38,740 --> 00:29:39,059
+Um
+
+591
+00:29:39,640 --> 00:29:40,120
+Yeah.
+
+592
+00:29:40,120 --> 00:29:42,520
+No, I I think that might be fair.
+
+593
+00:29:42,520 --> 00:29:48,760
+Well, I mean, yeah, we've talked a lot about how difficult how difficult it is to actually pull that off and
+
+594
+00:29:49,160 --> 00:29:57,400
+one aspect I think is I don't know how many people in Cork are actually like really on the Discord or sort of watching the interacting with the Discord.
+
+595
+00:29:57,400 --> 00:30:00,120
+Especially 'cause it's only a you know, it's only a two day comp.
+
+596
+00:30:00,120 --> 00:30:02,760
+People are probably going for the day and then you're probably
+
+597
+00:30:02,740 --> 00:30:05,780
+not gonna spend a lot of time kind of interacting on Discord.
+
+598
+00:30:05,780 --> 00:30:08,820
+And if there's not that many people at it and you're in the hotel and by it.
+
+599
+00:30:08,820 --> 00:30:10,980
+I mean, I don't mean it's a small con, I mean that like
+
+600
+00:30:10,900 --> 00:30:17,540
+You're not talking about thousands and thousands of people like at LA where, you know, probably someone is going to be in their hotel room looking at things online.
+
+601
+00:30:17,540 --> 00:30:20,580
+You just got people who are like having fun in person
+
+602
+00:30:20,700 --> 00:30:29,820
+I will say, and I think we'll we will be uh saying this again about the tech and stream people at the end, uh, that the streaming stuff is superb.
+
+603
+00:30:29,960 --> 00:30:30,760
+Oh yeah.
+
+604
+00:30:30,840 --> 00:30:36,760
+I this is how I know I've been to an Octocon before because th they've been doing this very, very well for a very long time.
+
+605
+00:30:36,760 --> 00:30:38,040
+Octocon is um
+
+606
+00:30:38,700 --> 00:30:41,260
+is first rate at their streaming stuff.
+
+607
+00:30:41,260 --> 00:30:41,820
+Yes.
+
+608
+00:30:41,820 --> 00:30:42,540
+Yeah.
+
+609
+00:30:42,700 --> 00:30:47,500
+We think we think the raffle might be in person only, which is a big shame.
+
+610
+00:30:47,700 --> 00:30:52,260
+Oh, apparently we've been told off for using rude words, we're very sorry.
+
+611
+00:30:53,060 --> 00:30:54,420
+Alright, did we
+
+612
+00:30:55,400 --> 00:30:56,520
+Apparently.
+
+613
+00:30:56,520 --> 00:30:57,240
+Yeah.
+
+614
+00:30:57,240 --> 00:31:02,360
+I am so normalized to the swearings that I didn't even notice that we had done it.
+
+615
+00:31:02,360 --> 00:31:04,360
+Yeah, we have a note saying, um
+
+616
+00:31:04,760 --> 00:31:12,440
+Uh we've been uh we've been told to slip you a note saying this is a family event, so we will try not to news use any more naughty words.
+
+617
+00:31:12,440 --> 00:31:13,480
+Whoops, it's true.
+
+618
+00:31:13,480 --> 00:31:13,960
+We are
+
+619
+00:31:14,060 --> 00:31:16,540
+Uh under 18 family friendly.
+
+620
+00:31:16,540 --> 00:31:21,660
+Alright, we will try to um be a little more careful about our swearies.
+
+621
+00:31:21,660 --> 00:31:22,380
+Sorry.
+
+622
+00:31:22,380 --> 00:31:23,340
+Yes.
+
+623
+00:31:22,900 --> 00:31:25,140
+Meg MacDonald, stop swearing in the Discord.
+
+624
+00:31:25,140 --> 00:31:26,100
+We can all see it.
+
+625
+00:31:26,100 --> 00:31:27,700
+It's not big and it's not clever.
+
+626
+00:31:27,700 --> 00:31:34,420
+Yeah, no, the raffle is officially not not available due to complications with international raffle laws.
+
+627
+00:31:34,540 --> 00:31:37,020
+Oh yeah, that's probably right.
+
+628
+00:31:37,020 --> 00:31:40,220
+I'm I might I might know that an auction wouldn't have that problem.
+
+629
+00:31:40,220 --> 00:31:45,980
+So maybe next time pick something you can do for online people, Octocon, that's not great.
+
+630
+00:31:45,400 --> 00:31:52,200
+Especially not given that we donated a prize, so like not them being able to participate feels weird to me.
+
+631
+00:31:52,200 --> 00:31:53,320
+They did say raffle.
+
+632
+00:31:53,320 --> 00:31:56,280
+No, they did say raffle, but I didn't know it was gonna be
+
+633
+00:31:56,460 --> 00:32:01,660
+If I had known that I would not be allowed to participate in the raffle, I might not have donated something to the raffle.
+
+634
+00:32:01,660 --> 00:32:02,540
+Oh I see.
+
+635
+00:32:02,540 --> 00:32:05,340
+Oh but we would have done really.
+
+636
+00:32:04,960 --> 00:32:06,320
+That that's yeah.
+
+637
+00:32:06,320 --> 00:32:10,400
+As a guest I probably would have f felt obliged.
+
+638
+00:32:10,400 --> 00:32:14,080
+I dunno, you could give someone a heads up when you're asking for a donation.
+
+639
+00:32:13,700 --> 00:32:18,580
+We're doing this thing that none of the people who joined to watch your recording will be able to participate in.
+
+640
+00:32:18,580 --> 00:32:20,580
+Do you want to provide us with a prize?
+
+641
+00:32:20,580 --> 00:32:22,740
+Uh is a bit of a different question.
+
+642
+00:32:22,740 --> 00:32:26,500
+Oh, I think you'll be I think you'll be grumpy now.
+
+643
+00:32:26,340 --> 00:32:31,539
+Um, Virginia has suggested that you ring the bell whenever we say a naughty word.
+
+644
+00:32:31,620 --> 00:32:34,580
+Oh, I can't we can't say naughty words.
+
+645
+00:32:34,580 --> 00:32:36,260
+We've been told off.
+
+646
+00:32:35,860 --> 00:32:36,659
+I know.
+
+647
+00:32:36,659 --> 00:32:37,460
+It's not on.
+
+648
+00:32:37,460 --> 00:32:38,899
+And we were naughty, sorry.
+
+649
+00:32:38,899 --> 00:32:44,419
+And and now the Discord is having a lexi discussion as to what exactly constitutes a naughty word or not.
+
+650
+00:32:44,260 --> 00:32:44,820
+Yes.
+
+651
+00:32:44,820 --> 00:32:49,059
+Well, if they say it in the family friendly bit of the Discord, they will find out.
+
+652
+00:32:49,059 --> 00:32:54,500
+Uh yeah, now I need to go to the bar bit of the Discord and be super rude.
+
+653
+00:32:53,900 --> 00:32:56,620
+Yes, now I know what the bar's for.
+
+654
+00:32:56,620 --> 00:32:57,820
+Yeah, that's right.
+
+655
+00:32:57,820 --> 00:32:58,700
+Swears.
+
+656
+00:32:58,700 --> 00:33:00,220
+It's for your swears.
+
+657
+00:33:00,220 --> 00:33:00,940
+Uh it's true.
+
+658
+00:33:00,940 --> 00:33:03,260
+I think I think the thing with the raffle is it does if
+
+659
+00:33:03,560 --> 00:33:11,080
+I don't know who is watching us, but it feels a bit like the people watching us are all the people who are not in court, who are happily online, uh, which is fine.
+
+660
+00:33:11,080 --> 00:33:14,360
+But then it just kind of adds to the separation between
+
+661
+00:33:14,620 --> 00:33:17,420
+the online and uh in person stuff.
+
+662
+00:33:17,420 --> 00:33:22,700
+Yeah, well and also it means that anyone in court who wins the prize is gonna be like, oh great.
+
+663
+00:33:22,700 --> 00:33:28,780
+I definitely not picking that one 'cause I suspect the vast majority of our fans have joined online because we're
+
+664
+00:33:28,840 --> 00:33:29,799
+online guests.
+
+665
+00:33:29,799 --> 00:33:30,280
+Yeah.
+
+666
+00:33:30,280 --> 00:33:40,039
+So I think that's my real I guess the real thing I think is not well considered about it is that it makes the prize much less appealing.
+
+667
+00:33:39,660 --> 00:33:49,900
+because of the restriction on the raffle and if I had realized that I might have thought a bit more about the prize we proffered uh because I would have had more information.
+
+668
+00:33:50,120 --> 00:33:55,880
+It's true, we we've we've proffered you a guest spot on a podcast you have never heard of and never listened to.
+
+669
+00:33:55,880 --> 00:33:57,960
+You're probably picking like the bottle of wine instead.
+
+670
+00:33:57,960 --> 00:34:02,120
+But it is our podcast, so I mean it's not an unreasonable thing for us to offer.
+
+671
+00:34:02,240 --> 00:34:02,720
+Haha!
+
+672
+00:34:02,720 --> 00:34:08,800
+It would be very unreasonable if we offered it for Starship Alexandria because Adrian and Emma would be like, the fuck?
+
+673
+00:34:08,800 --> 00:34:09,440
+Yeah, they don't be able to do it.
+
+674
+00:34:09,600 --> 00:34:10,800
+Sorry, so I thought.
+
+675
+00:34:10,800 --> 00:34:13,600
+So Marguerite can get John.
+
+676
+00:34:13,840 --> 00:34:14,720
+John.
+
+677
+00:34:14,720 --> 00:34:16,879
+Well, I mean, I don't know.
+
+678
+00:34:17,260 --> 00:34:23,260
+Uh I I my family was my family was not at all sweary, but I definitely am.
+
+679
+00:34:23,260 --> 00:34:29,500
+Um Marguerite's in Cork, so she can go and stuff the charity raffle with everybody's um
+
+680
+00:34:29,399 --> 00:34:30,520
+Oh yes.
+
+681
+00:34:30,520 --> 00:34:31,319
+Bids.
+
+682
+00:34:31,319 --> 00:34:33,559
+Yeah, m everyone PayPal Marguerite.
+
+683
+00:34:33,559 --> 00:34:35,159
+Unless you cannot use PayPal.
+
+684
+00:34:35,159 --> 00:34:35,639
+Yes.
+
+685
+00:34:35,639 --> 00:34:38,839
+And obviously officially this isn't happening.
+
+686
+00:34:38,399 --> 00:34:46,000
+Where do we think Octacon stands on Oct Thorpe helping people circumvent international raffle law versus saying the F-word?
+
+687
+00:34:46,079 --> 00:34:48,960
+I think we're not getting invited back to be guests again.
+
+688
+00:34:50,520 --> 00:34:51,720
+Oh no.
+
+689
+00:34:51,720 --> 00:34:53,320
+I think we're being good.
+
+690
+00:34:53,320 --> 00:34:54,520
+Uh right.
+
+691
+00:34:54,520 --> 00:34:55,079
+Okay.
+
+692
+00:34:55,079 --> 00:34:59,000
+Does anyone in the audience have questions or things they want us to discuss?
+
+693
+00:34:58,780 --> 00:35:01,900
+'Cause we're in the last twenty minutes and we've got to do picks at some point.
+
+694
+00:35:01,900 --> 00:35:06,940
+Oh, we should say we did do um a meet the podcaster session uh yesterday.
+
+695
+00:35:06,940 --> 00:35:08,060
+Oh yes.
+
+696
+00:35:07,740 --> 00:35:12,220
+Which contained uh many people I knew and some people I didn't, which was nice.
+
+697
+00:35:12,220 --> 00:35:17,900
+And uh they asked us interesting questions and we had a good chat and it was it was a it was a nice hour
+
+698
+00:35:17,680 --> 00:35:21,520
+Uh so thank you very much for everyone coming to that and for opticon to organising that.
+
+699
+00:35:21,520 --> 00:35:21,920
+Yeah.
+
+700
+00:35:21,920 --> 00:35:27,760
+We've had a question from JC, which is Barry's versus Lions T, which is better.
+
+701
+00:35:27,200 --> 00:35:33,839
+I'm gonna say I prefer Barry's tea because I don't want to take tea from a lion in case the lion gets cross.
+
+702
+00:35:33,839 --> 00:35:36,160
+Um I don't drink tea.
+
+703
+00:35:35,780 --> 00:35:36,820
+Sorry, JC.
+
+704
+00:35:36,820 --> 00:35:37,619
+Witchards?
+
+705
+00:35:37,619 --> 00:35:38,980
+Fortnummer Mason?
+
+706
+00:35:38,980 --> 00:35:44,820
+I I'm not entirely Ooh, that is a get this highbrow tea drinker
+
+707
+00:35:44,660 --> 00:35:45,140
+Sure.
+
+708
+00:35:45,140 --> 00:35:47,060
+Ooh, Beamish versus Guinness.
+
+709
+00:35:47,060 --> 00:35:52,100
+No, I'd I'd I'll I'll have a little craft stout from some silly micro.
+
+710
+00:35:52,100 --> 00:35:52,900
+Thank you.
+
+711
+00:35:52,900 --> 00:35:56,100
+Um I think if I drink tea, it's Yorkshire tea.
+
+712
+00:35:56,100 --> 00:35:57,940
+Like if I'm gonna have a tea bag
+
+713
+00:35:57,940 --> 00:36:01,540
+What I actually what we actually do is have loose leaf tea.
+
+714
+00:36:02,260 --> 00:36:03,380
+Oh god.
+
+715
+00:36:03,380 --> 00:36:04,980
+Uh and a teapot.
+
+716
+00:36:04,980 --> 00:36:11,700
+And so the real answer is n no tea that is available from a supermarket owing to our bougie bougie ways
+
+717
+00:36:11,500 --> 00:36:12,780
+But yeah, generally coffee.
+
+718
+00:36:12,780 --> 00:36:14,540
+Did you know you can get Lancashire tea?
+
+719
+00:36:14,540 --> 00:36:23,900
+Because when we had this uh holiday home in uh Lancashire, uh we'd obviously ordered Yorkshire tea for the tea drinkers and they left a box of like Lancashire tea as like the welcome gift
+
+720
+00:36:23,660 --> 00:36:26,300
+Because you're gonna have Lancashire tea, none of this Yorkshire tea.
+
+721
+00:36:26,300 --> 00:36:27,340
+Uh yeah.
+
+722
+00:36:28,220 --> 00:36:30,460
+As a non-tea drinker, I cannot compare.
+
+723
+00:36:30,460 --> 00:36:31,100
+That's fair.
+
+724
+00:36:31,100 --> 00:36:33,660
+I did not know there was Lancashire tea.
+
+725
+00:36:32,880 --> 00:36:33,920
+Yeah yeah there is.
+
+726
+00:36:33,920 --> 00:36:40,320
+I'm I'm just wondering if it's if it's made by Yorkshire T in a kind of um marketing segmentation
+
+727
+00:36:40,559 --> 00:36:42,079
+Ooh, that'll be interesting.
+
+728
+00:36:42,079 --> 00:36:43,039
+But I don't think it is.
+
+729
+00:36:43,039 --> 00:36:44,400
+I think it is a different brand.
+
+730
+00:36:44,400 --> 00:36:44,720
+Good.
+
+731
+00:36:44,720 --> 00:36:48,400
+You can buy from Iceland, the food warehouse and the range.
+
+732
+00:36:48,799 --> 00:36:51,039
+Never even heard of the food warehouse.
+
+733
+00:36:51,039 --> 00:36:52,400
+They won the
+
+734
+00:36:53,000 --> 00:36:57,640
+World they broke the record for the world's largest tea bag and the world's largest cup of tea.
+
+735
+00:36:57,640 --> 00:37:00,040
+Lancashire tea or Yorkshire tea or Barry's?
+
+736
+00:37:00,040 --> 00:37:02,600
+Lan Lancashire tea in twenty in two thousand and eight.
+
+737
+00:37:02,840 --> 00:37:04,440
+We may be off topic again, guys.
+
+738
+00:37:04,440 --> 00:37:06,840
+Did we have other things on the show notes?
+
+739
+00:37:06,260 --> 00:37:06,980
+Maybe.
+
+740
+00:37:06,980 --> 00:37:08,260
+Uh sure.
+
+741
+00:37:08,260 --> 00:37:12,020
+Uh Pictcon is on the 17th of October.
+
+742
+00:37:12,020 --> 00:37:17,300
+Um, but obviously everyone should come to the Tineside Games Expo instead.
+
+743
+00:37:16,580 --> 00:37:18,740
+But if you'd rather go to PictCon, I won't judge you.
+
+744
+00:37:18,740 --> 00:37:21,460
+Um yeah, no, I mean PictCon is a science fiction convention.
+
+745
+00:37:21,460 --> 00:37:24,820
+We are nominally a science fiction podcast, so let's give a shout out to them.
+
+746
+00:37:24,820 --> 00:37:26,180
+It's in Perth.
+
+747
+00:37:25,760 --> 00:37:26,640
+He is in Perth.
+
+748
+00:37:26,640 --> 00:37:28,480
+Perth, Scotland, not Perth, Australia.
+
+749
+00:37:28,480 --> 00:37:31,200
+And is it one day again or has it gone to two days this year?
+
+750
+00:37:31,200 --> 00:37:32,240
+Uh one day.
+
+751
+00:37:32,240 --> 00:37:34,960
+And their guest is Neil Williamson.
+
+752
+00:37:34,620 --> 00:37:35,980
+Yes.
+
+753
+00:37:36,060 --> 00:37:40,940
+Uh a longtime Congo and author who I think is from Glasgow.
+
+754
+00:37:40,940 --> 00:37:46,380
+I th and I I think I know because he's been involved in a lot of the sort of like Glasgow and Scottish anthologies and things like that.
+
+755
+00:37:46,380 --> 00:37:47,340
+So Yes.
+
+756
+00:37:47,340 --> 00:37:48,380
+Yes he has
+
+757
+00:37:48,440 --> 00:37:51,240
+Should be fun, but I can't make it.
+
+758
+00:37:51,240 --> 00:37:52,359
+Because it's in Scotland.
+
+759
+00:37:52,359 --> 00:37:54,200
+I'm a very long way f away.
+
+760
+00:37:54,200 --> 00:37:56,040
+No, I'm running a different convention.
+
+761
+00:37:56,040 --> 00:37:58,359
+Uh you're running a games convention?
+
+762
+00:37:58,440 --> 00:37:59,640
+In Newcastle.
+
+763
+00:37:59,640 --> 00:38:01,640
+In well yeah well in Gateshead.
+
+764
+00:38:01,640 --> 00:38:02,119
+But yes.
+
+765
+00:38:02,280 --> 00:38:03,000
+Should be good.
+
+766
+00:38:03,000 --> 00:38:04,040
+It's very nearby.
+
+767
+00:38:04,040 --> 00:38:04,599
+Yeah.
+
+768
+00:38:04,599 --> 00:38:05,320
+It is.
+
+769
+00:38:05,320 --> 00:38:07,560
+In Gateshead International Stadium.
+
+770
+00:38:07,560 --> 00:38:08,280
+One day.
+
+771
+00:38:08,280 --> 00:38:09,079
+Two days.
+
+772
+00:38:09,079 --> 00:38:10,280
+Saddy Sunday
+
+773
+00:38:10,800 --> 00:38:12,960
+Tickets are twenty-five pounds.
+
+774
+00:38:12,960 --> 00:38:14,400
+Um unless you've got a discount.
+
+775
+00:38:14,720 --> 00:38:19,520
+Presumably the the loss of aircon uh will provide a bunch of
+
+776
+00:38:19,720 --> 00:38:23,319
+sad gamers looking around for other gaming conventions in the northeast of England, John.
+
+777
+00:38:23,559 --> 00:38:25,160
+I mean maybe.
+
+778
+00:38:25,160 --> 00:38:32,920
+It was that was very odd because Aircon announced that they were stopping due to uh complications with the venue they used to use in Harrogate
+
+779
+00:38:32,880 --> 00:38:39,200
+And then they announced they were gonna stop the they and they announced at the same time they were also stopping the Telford and Manchester shows.
+
+780
+00:38:39,200 --> 00:38:42,240
+Um and people were like, well that's strange because neither of those are in Harrogate.
+
+781
+00:38:42,180 --> 00:38:45,860
+And then it turned out the guy who runs Aircon has a job with UK Games Expo.
+
+782
+00:38:45,860 --> 00:38:47,620
+And it's like, okay.
+
+783
+00:38:47,620 --> 00:38:50,340
+So like there might be some other things happening here.
+
+784
+00:38:50,340 --> 00:38:50,820
+Yeah.
+
+785
+00:38:50,820 --> 00:38:52,820
+I I can quite believe that the Harry Gut
+
+786
+00:38:52,960 --> 00:38:56,160
+Convention Center the convention did outgrow it.
+
+787
+00:38:56,160 --> 00:39:01,520
+But but yeah, I think there might also be an element of I'm gonna go and work on this bigger show.
+
+788
+00:39:01,180 --> 00:39:02,380
+Which I think is good.
+
+789
+00:39:02,380 --> 00:39:05,740
+I think he will be a good asset for the UK Games Expo.
+
+790
+00:39:05,740 --> 00:39:08,620
+What was Aircon, for those who are z a bit lost here?
+
+791
+00:39:08,620 --> 00:39:13,980
+Aircon was a um games convention held in Harrogate.
+
+792
+00:39:13,559 --> 00:39:16,440
+Um and the River Air runs through Harrogate.
+
+793
+00:39:16,440 --> 00:39:22,760
+Uh and it's been running for about ten years, I want to say, maybe slightly longer.
+
+794
+00:39:22,460 --> 00:39:26,140
+Um but the twenty twenty eight show I think is the last show.
+
+795
+00:39:26,140 --> 00:39:28,620
+Or maybe the twenty twenty seven show, can't remember.
+
+796
+00:39:28,620 --> 00:39:31,180
+Um but yeah, they are winding down.
+
+797
+00:39:31,180 --> 00:39:33,260
+I went once, I thought it was fine.
+
+798
+00:39:33,260 --> 00:39:37,020
+Like, it's not what I I found it quite
+
+799
+00:39:37,460 --> 00:39:39,700
+isolating in a weird way.
+
+800
+00:39:39,700 --> 00:39:46,260
+There wasn't enough to do unless you had a game group you'd gone with, in my opinion.
+
+801
+00:39:46,140 --> 00:39:48,059
+Um and I think that was a problem.
+
+802
+00:39:48,059 --> 00:39:50,619
+But you know, I had a I had a pretty good time.
+
+803
+00:39:50,619 --> 00:39:55,900
+You think other places are better at like if you go solo or in a pair finding you a game group?
+
+804
+00:39:55,359 --> 00:40:04,480
+Well, no, but because Aircon is so not focused on exhibitors, it means that if you go solo and you don't want to sort of
+
+805
+00:40:05,080 --> 00:40:08,920
+Especially on the Friday, there weren't that many game group who were looking for people.
+
+806
+00:40:08,920 --> 00:40:16,600
+And because there's not hardly any exhibitors, there's not really anyone demoing games at stalls, so it's like, well, what do I do then?
+
+807
+00:40:16,200 --> 00:40:22,520
+Whereas at the Games Expo, if you go solo, you just wander around and play games until you until you get chucked out and it's fine.
+
+808
+00:40:22,520 --> 00:40:24,040
+But Aircon doesn't really have that.
+
+809
+00:40:24,040 --> 00:40:28,520
+Tabletop Scotland also has a lot more games to demo.
+
+810
+00:40:28,080 --> 00:40:34,080
+Yeah, Tabletop Scotland's m more like a miniature UK Games Expo, whereas their con's quite a different focus.
+
+811
+00:40:34,080 --> 00:40:37,840
+And I'm sure for some people it works very well, but for me I found it a bit difficult.
+
+812
+00:40:38,480 --> 00:40:39,440
+Mm-hmm
+
+813
+00:40:39,980 --> 00:40:40,700
+Interesting.
+
+814
+00:40:40,700 --> 00:40:53,740
+I mean I think if I was designing a games convention, which I'm definitely not, I think having uh just like with a science fiction convention, you want to feel that people who are coming on their own for the first time can find things to do and have a really good time.
+
+815
+00:40:54,059 --> 00:40:57,740
+And I think that's probably should be a priority for game convention design as well.
+
+816
+00:40:57,740 --> 00:41:01,740
+I in particular you should be able to play games if you're on your own and you haven't done it before.
+
+817
+00:41:01,740 --> 00:41:08,859
+I think the thing is that you can't if you want that to happen you need to have a healthy trade side.
+
+818
+00:41:08,640 --> 00:41:14,720
+Because you can't force if you've got a group of four playing a game, you can't force them to take a fifth player.
+
+819
+00:41:14,720 --> 00:41:16,240
+Like, it doesn't work
+
+820
+00:41:16,260 --> 00:41:21,460
+And so you need to have people there who are showing games.
+
+821
+00:41:21,460 --> 00:41:24,260
+And there was a small playtest um zone
+
+822
+00:41:24,380 --> 00:41:30,380
+which did this a little bit, but I playtested literally every game that I could, and then it was like, oh, I've done that.
+
+823
+00:41:30,380 --> 00:41:33,820
+And I've still I've still got much of the day left.
+
+824
+00:41:33,480 --> 00:41:48,359
+Um so I think it's a really it's a really good illustration of how the bigger cons need to have that trade show aspect, because otherwise it's basically just come here with your mates and it's like a games cafe that's gonna go away on Sunday.
+
+825
+00:41:48,200 --> 00:41:52,599
+And it's like that's a very different vibe and it's not quite as inclusive, I don't think.
+
+826
+00:41:52,599 --> 00:41:53,480
+Oh, okay.
+
+827
+00:41:53,480 --> 00:41:59,400
+So I mean it's a very long time ago, but my memories of StabCon, which I believe still exists, were that
+
+828
+00:41:59,740 --> 00:42:08,780
+It was all open gaming and essentially there was the people who ran the open gaming area, what they were doing was matching people into games.
+
+829
+00:42:08,780 --> 00:42:09,420
+Hmm.
+
+830
+00:42:09,300 --> 00:42:12,180
+So people would turn up and and games would be found for them.
+
+831
+00:42:12,180 --> 00:42:21,060
+And I wasn't absolutely on my own, but I think we were kind of I was with one or two other people and we were often in bigger groups or I was often i on my own in a group and I don't remember not
+
+832
+00:42:21,540 --> 00:42:26,420
+being at a games convention and not having the ability to play lots and lots of games whenever I wanted.
+
+833
+00:42:26,820 --> 00:42:31,220
+Yes, but Alison, you are one of the most extroverted people on the planet.
+
+834
+00:42:30,940 --> 00:42:33,260
+No, I'm no, maybe.
+
+835
+00:42:33,260 --> 00:42:34,220
+You absolutely are.
+
+836
+00:42:34,220 --> 00:42:35,900
+You're more extroverted than me.
+
+837
+00:42:35,900 --> 00:42:38,940
+I mean, how how how big was StabCon?
+
+838
+00:42:38,940 --> 00:42:40,540
+Little, little, they're tiny they were tiny.
+
+839
+00:42:40,540 --> 00:42:42,460
+I mean I don't know how big Stabcom is now.
+
+840
+00:42:42,460 --> 00:42:43,660
+Um, but it was, you know.
+
+841
+00:42:43,660 --> 00:42:44,700
+Well th well that's it.
+
+842
+00:42:44,700 --> 00:42:45,420
+I think that
+
+843
+00:42:45,620 --> 00:42:54,820
+works and I've been to like local games things where it's like, oh yeah, turn up and we will organize people into games groups, but very rapidly that becomes unscalable
+
+844
+00:42:54,600 --> 00:42:55,400
+So that's your thing.
+
+845
+00:42:55,400 --> 00:42:58,440
+If you've got hundreds and hundreds of people, that's difficult.
+
+846
+00:42:58,440 --> 00:43:00,440
+I think we should move on to PICs, by the way.
+
+847
+00:43:00,440 --> 00:43:00,760
+Ooh.
+
+848
+00:43:01,800 --> 00:43:03,000
+We could move on to PICs.
+
+849
+00:43:03,000 --> 00:43:05,160
+I think we've got twelve minutes left.
+
+850
+00:43:05,160 --> 00:43:09,560
+I think SnapCon is still happening, but it's remarkably difficult to find any information about it.
+
+851
+00:43:09,640 --> 00:43:15,480
+There was um there was Sab StabCon South, which was in um Southampton, and I went once.
+
+852
+00:43:15,480 --> 00:43:20,440
+It was the first year they rebranded away from the StabCon name.
+
+853
+00:43:20,240 --> 00:43:22,640
+Um and that was quite good.
+
+854
+00:43:22,640 --> 00:43:28,800
+Um, but as Liz says, I think because it was small, uh, it felt easier to break into.
+
+855
+00:43:28,800 --> 00:43:32,320
+But even then it still felt like there was like a group of people who
+
+856
+00:43:32,540 --> 00:43:37,340
+knew each other very well and that was quite difficult for me to go into.
+
+857
+00:43:37,340 --> 00:43:41,660
+Um but I had like two friends with me so that made it a lot more interesting because we could sit down and play games.
+
+858
+00:43:41,660 --> 00:43:44,300
+Um I think if I'd been on my own I just would have left again.
+
+859
+00:43:44,300 --> 00:43:45,900
+So I do think this is a problem
+
+860
+00:43:46,120 --> 00:43:47,160
+Uh right.
+
+861
+00:43:47,160 --> 00:43:48,440
+I'm up for picks.
+
+862
+00:43:48,440 --> 00:43:54,120
+We have went waived the virtual ten minutes to go sign, so we should probably do some picks.
+
+863
+00:43:54,120 --> 00:43:55,480
+Ooh.
+
+864
+00:43:55,480 --> 00:43:56,440
+Alright.
+
+865
+00:43:56,000 --> 00:43:58,000
+Who wants to do their first pick?
+
+866
+00:43:58,000 --> 00:44:02,080
+Shall I go first on account of how I have put mine in the show notes already?
+
+867
+00:44:02,080 --> 00:44:03,440
+And you guys are not.
+
+868
+00:44:03,440 --> 00:44:04,880
+Yes.
+
+869
+00:44:04,660 --> 00:44:07,220
+Yes, and also I'm interested in your pick.
+
+870
+00:44:07,220 --> 00:44:15,940
+Yeah, so my pick is a video game because I've been playing a lot of video games recently and it rained all last weekend so I started and played video games.
+
+871
+00:44:15,940 --> 00:44:17,860
+I've been playing Control Resonant
+
+872
+00:44:17,840 --> 00:44:24,000
+I believe I have previously picked Control as one of my picks on the show, and I think John's picked Alan Wake too.
+
+873
+00:44:24,000 --> 00:44:24,480
+Mm-hmm.
+
+874
+00:44:24,560 --> 00:44:26,240
+Uh this is the sequel to Control.
+
+875
+00:44:26,240 --> 00:44:30,400
+The idea of the control universe is there is a thing called the Federal Bureau of Control
+
+876
+00:44:30,340 --> 00:44:37,460
+who are responsible for kind of all the paranormal, para what they call para-utilitarian weirdness that happens in the world.
+
+877
+00:44:37,460 --> 00:44:42,500
+It's very SCP wiki, which is the uh basis of there is no anti-memetics division.
+
+878
+00:44:42,500 --> 00:44:43,780
+It's very kind of that
+
+879
+00:44:43,820 --> 00:44:44,540
+vibe.
+
+880
+00:44:44,780 --> 00:44:55,340
+In the first one you were basically in the FBC headquarters in uh Manhattan and uh like it's been taken over by this other dimensional entity.
+
+881
+00:44:54,960 --> 00:45:01,360
+And the concept here is that in the seven years uh that have passed since that first game was released, everyone has been in hiding.
+
+882
+00:45:01,360 --> 00:45:02,800
+They closed off the the
+
+883
+00:45:03,059 --> 00:45:05,619
+the headquarters and they have been in hiding ever since.
+
+884
+00:45:05,619 --> 00:45:14,900
+But now the, you know, paranormal entities have escaped into Manhattan and you play as the brother of the protagonist from the first game.
+
+885
+00:45:14,900 --> 00:45:17,859
+Uh and you are now off to, you know.
+
+886
+00:45:18,200 --> 00:45:21,400
+try and deal with all the stuff that's happening in Manhattan.
+
+887
+00:45:21,400 --> 00:45:23,400
+And it's it's pretty good.
+
+888
+00:45:23,400 --> 00:45:26,760
+Um it's much so kind of expansive in terms of the you know it's
+
+889
+00:45:26,859 --> 00:45:31,180
+You're out in Manhattan and it's not a complete open world, but there's more kind of movement and things to do.
+
+890
+00:45:31,180 --> 00:45:34,300
+I think its level design is quite clever.
+
+891
+00:45:34,300 --> 00:45:35,420
+There's a lot of like
+
+892
+00:45:35,740 --> 00:45:43,820
+little in-game hints to help you navigate and help you figure out what you're doing, which I mean it's things like, you know, there are like in-game
+
+893
+00:45:44,220 --> 00:45:49,020
+signs and directions placed by this Federal Bureau of Control that you can follow.
+
+894
+00:45:49,339 --> 00:45:54,140
+And there's things like there's one side quest that involves you
+
+895
+00:45:54,540 --> 00:45:56,380
+uh finding and petting a dog.
+
+896
+00:45:56,380 --> 00:45:58,620
+You'll find the toy, take it the dog, pet the dog.
+
+897
+00:45:58,620 --> 00:46:03,660
+And whenever you find the dog, it's always near like a billboard for pet food or something like that.
+
+898
+00:46:03,660 --> 00:46:06,460
+So they try really hard to do all these like in-game
+
+899
+00:46:06,760 --> 00:46:16,760
+or like help you get around, which is especially helpful because at one point you get like gravity warping powers and you can literally run around and walk on the the ceilings and things and then you really need some help.
+
+900
+00:46:16,760 --> 00:46:20,520
+It's first person melee combat sorry, third person melee combat
+
+901
+00:46:20,520 --> 00:46:24,119
+I quite enjoy that uh and the boss fights are quite good.
+
+902
+00:46:24,119 --> 00:46:34,920
+It's one flaw I think is that I think it's kind of voice acting uh is just okay and whatever game engine they're using doesn't allow a ton of emotion in people's
+
+903
+00:46:35,220 --> 00:46:45,779
+faces, especially when I compare this to something like Claire Obscure, uh, which I think had really top-notch voice acting and top-notch animation of people, presumably from motion capture or whatever.
+
+904
+00:46:45,779 --> 00:46:46,660
+This is not
+
+905
+00:46:46,640 --> 00:46:53,119
+Quite as good and so maybe emotionally it doesn't hit quite as hard, but I am still enjoying it.
+
+906
+00:46:53,119 --> 00:46:54,000
+I think I'm about
+
+907
+00:46:54,160 --> 00:47:01,760
+60, 70% of the way through now and looking forward to see how they kind of like link up all the different segments and maybe set out for a third game.
+
+908
+00:47:01,760 --> 00:47:02,880
+Nice.
+
+909
+00:47:02,600 --> 00:47:04,200
+When did control come out?
+
+910
+00:47:04,200 --> 00:47:05,160
+The first one?
+
+911
+00:47:05,160 --> 00:47:06,680
+2019.
+
+912
+00:47:06,680 --> 00:47:08,040
+I played it very late.
+
+913
+00:47:08,040 --> 00:47:08,360
+Okay.
+
+914
+00:47:08,360 --> 00:47:12,520
+Yeah, I I because I have it on disc and I haven't yet got around to it.
+
+915
+00:47:11,960 --> 00:47:14,840
+And now there's a sequel, so I guess I should accelerate my plans.
+
+916
+00:47:14,840 --> 00:47:19,800
+Yeah, and you do want to play the first one first, I think, or a lot of stuff in the sequel will not really make so much sense.
+
+917
+00:47:19,800 --> 00:47:20,040
+Okay.
+
+918
+00:47:20,200 --> 00:47:25,000
+Although it does have a little recap of what happened in the first one, which is good if you hadn't played it for seven years
+
+919
+00:47:24,559 --> 00:47:25,440
+That's fair.
+
+920
+00:47:25,440 --> 00:47:26,319
+Reasonable.
+
+921
+00:47:26,319 --> 00:47:28,400
+Alright, Alison, what's your pick?
+
+922
+00:47:28,400 --> 00:47:36,240
+Okay, so I put in the show notes that I didn't have a pick for because I I for all sorts of very boring reasons that I really don't want to talk about on the pod.
+
+923
+00:47:35,760 --> 00:47:47,280
+But in fact I have discovered a pick which is not really a pick, it is a it is a tip, which is that Andrew in the chat has linked to shake rattle and roll shakebattleandroll.
+
+924
+00:47:47,280 --> 00:47:47,600
+com
+
+925
+00:47:48,180 --> 00:47:56,180
+a the convention formerly known as STABCON South, which has a website and is happening next weekend in Southampton.
+
+926
+00:47:56,420 --> 00:47:58,260
+And which we just talked about.
+
+927
+00:47:58,520 --> 00:48:06,599
+Aiming to provide come along, play games and have fun is what they suggest, which sounds exactly like StabCon was all those very many years ago
+
+928
+00:48:06,500 --> 00:48:11,220
+Um and um Andrew is going so please report back Andrew that sounds great.
+
+929
+00:48:11,220 --> 00:48:13,940
+Um I'm sorry I don't have a proper pick guys
+
+930
+00:48:13,760 --> 00:48:19,200
+We are normally open from eleven AM on Friday till eleven PM on Sunday, so that's a whole sixty hours of gaming.
+
+931
+00:48:19,200 --> 00:48:21,600
+They're not suggesting sleep is involved here.
+
+932
+00:48:21,600 --> 00:48:26,000
+Is this the first time you managed to pick something that we've literally just talked about
+
+933
+00:48:26,660 --> 00:48:32,980
+What I'm absolutely baffled by this is that Andrew posted that link because I had mentioned it in this episode of the podcast.
+
+934
+00:48:32,980 --> 00:48:38,660
+And so I'm slightly surprised that this little thing you're saying now wasn't triggered by me saying it.
+
+935
+00:48:38,260 --> 00:48:40,180
+Outloud to you in conversation.
+
+936
+00:48:40,180 --> 00:48:41,860
+You said shake battle and roll.
+
+937
+00:48:41,860 --> 00:48:45,940
+I mean I'm pretty sure but I mentioned STAPCON South and how it had rebranded
+
+938
+00:48:46,040 --> 00:48:47,560
+And it's still going.
+
+939
+00:48:47,640 --> 00:48:52,680
+Ah well this so it's rebranded in a way that has an actual website, which is good.
+
+940
+00:48:52,680 --> 00:48:53,320
+Yes.
+
+941
+00:48:53,320 --> 00:48:54,200
+Yes.
+
+942
+00:48:53,960 --> 00:49:03,080
+Yes, I mean it more of a website than the original StabCon, uh, which is the eighth to the tenth of January, um, but uh apparently does not.
+
+943
+00:49:03,160 --> 00:49:04,680
+Which just has Facebook.
+
+944
+00:49:04,680 --> 00:49:08,760
+If your if your event only has Facebook or if your food truck only has Facebook.
+
+945
+00:49:08,540 --> 00:49:17,260
+Like it is it is a bit frustrating because I don't I try my very best not to go on Facebook because I find it just eats my time.
+
+946
+00:49:16,960 --> 00:49:18,240
+for no actual benefit.
+
+947
+00:49:18,240 --> 00:49:20,000
+Which I know is what Meta wants.
+
+948
+00:49:20,000 --> 00:49:21,440
+Like that's the whole point.
+
+949
+00:49:21,440 --> 00:49:23,680
+But like I don't want to let them.
+
+950
+00:49:23,680 --> 00:49:25,440
+So it's tricky, right?
+
+951
+00:49:25,000 --> 00:49:26,200
+We got five minutes to go, John.
+
+952
+00:49:26,200 --> 00:49:27,560
+Do you want to do uh pick?
+
+953
+00:49:27,560 --> 00:49:29,240
+Ooh a kadoo, Liz.
+
+954
+00:49:29,240 --> 00:49:30,760
+Ooh a kadoo.
+
+955
+00:49:30,760 --> 00:49:38,360
+Uh I've gotta pick The Waiter by Quan Antan, who is a Malaysian author, I believe.
+
+956
+00:49:38,020 --> 00:49:46,180
+And is a uh novella, novel, choose your own adventure setting, uh dystopian future
+
+957
+00:49:46,000 --> 00:49:46,960
+It's rather good.
+
+958
+00:49:46,960 --> 00:49:51,440
+It's one of the books I read for the Clark Award.
+
+959
+00:49:51,440 --> 00:49:53,760
+The most recent time I did that
+
+960
+00:49:54,040 --> 00:50:01,800
+It's a choose your own adventure that basically uses that format to explain how if you are
+
+961
+00:50:02,160 --> 00:50:11,120
+someone living in late stage capitalism with no agency, no matter what choice you make, you will still be living in late stage capitalism with no agency.
+
+962
+00:50:11,120 --> 00:50:16,960
+Um and I quite like the way it uses the structure to reinforce the themes of dystopian.
+
+963
+00:50:16,660 --> 00:50:17,140
+Yes.
+
+964
+00:50:17,140 --> 00:50:19,380
+Themes of dystopia, one could say.
+
+965
+00:50:19,700 --> 00:50:20,980
+So yeah, that's my pick.
+
+966
+00:50:20,980 --> 00:50:21,620
+It's really good.
+
+967
+00:50:21,620 --> 00:50:23,780
+Highly recommend people check it out.
+
+968
+00:50:24,020 --> 00:50:26,980
+And it's published by the Emma Press, which are
+
+969
+00:50:27,380 --> 00:50:35,540
+or which is I should say a like woman-owned run publisher um and they're quite cool.
+
+970
+00:50:35,540 --> 00:50:36,660
+That sounds really good.
+
+971
+00:50:36,660 --> 00:50:37,220
+Yeah.
+
+972
+00:50:37,220 --> 00:50:38,820
+No, I highly recommend it.
+
+973
+00:50:38,820 --> 00:50:39,460
+It was
+
+974
+00:50:39,480 --> 00:50:40,760
+Yeah, I liked it a lot.
+
+975
+00:50:40,760 --> 00:50:42,520
+Do you want to know what I did during this podcast?
+
+976
+00:50:42,520 --> 00:50:44,279
+Did you crochet an octo?
+
+977
+00:50:44,279 --> 00:50:45,240
+Yeah.
+
+978
+00:50:45,240 --> 00:50:46,839
+Hey, it's purple.
+
+979
+00:50:46,839 --> 00:50:49,400
+Oh, not purple octo!
+
+980
+00:50:49,880 --> 00:50:50,839
+Brilliant.
+
+981
+00:50:50,839 --> 00:50:53,400
+So I want to thank Octocon for having an
+
+982
+00:50:53,740 --> 00:50:59,660
+uh octo octopus crochet pattern which I've discovered is basically what I can do in one hour.
+
+983
+00:50:59,660 --> 00:51:02,380
+So every time I'm watching a panel or an item
+
+984
+00:51:02,400 --> 00:51:03,839
+Another octopus is appearing.
+
+985
+00:51:03,839 --> 00:51:06,559
+I've got three now, so uh maybe that's the cover up.
+
+986
+00:51:07,359 --> 00:51:08,000
+Brilliant.
+
+987
+00:51:08,000 --> 00:51:10,799
+Yeah, I was gonna say can you can you hold it
+
+988
+00:51:10,880 --> 00:51:15,040
+Oh I need I wanna take a I will I will take an actual good photo of it.
+
+989
+00:51:15,040 --> 00:51:17,360
+You don't need to try and like take it from my webcam.
+
+990
+00:51:18,880 --> 00:51:21,920
+Ah No, I don't I'll show you what I wanna do.
+
+991
+00:51:21,920 --> 00:51:23,520
+Well you've got two minutes.
+
+992
+00:51:23,520 --> 00:51:31,600
+Yeah, I want you to s hold it up while I'm on the YouTube, um, which is spodding for me for no apparently.
+
+993
+00:51:31,600 --> 00:51:32,400
+There we go
+
+994
+00:51:32,160 --> 00:51:35,760
+Can I not just go and take an actual photo of it with like my telephone?
+
+995
+00:51:35,760 --> 00:51:42,800
+I think that might be better, but I don't I mean That might be better and then we could just use the photo of the Okta thing and not the rest of us.
+
+996
+00:51:42,300 --> 00:51:44,140
+Yeah, and the point is I've done three now.
+
+997
+00:51:44,140 --> 00:51:47,580
+Anyway, we have w w one minute left.
+
+998
+00:51:47,580 --> 00:51:48,460
+Yes.
+
+999
+00:51:48,460 --> 00:51:53,660
+Oh, I I've just seen us on YouTube and we are definitively not in the right order.
+
+1000
+00:51:53,660 --> 00:51:55,660
+Oh, I was hoping you wouldn't notice that.
+
+1001
+00:51:55,660 --> 00:51:57,260
+Oh no.
+
+1002
+00:51:57,320 --> 00:52:05,800
+We have one one minute left and it is important that we thank OctaCon for letting us be guests and talk about this kind of nonsense.
+
+1003
+00:52:05,559 --> 00:52:06,279
+It is.
+
+1004
+00:52:06,279 --> 00:52:07,079
+Yes.
+
+1005
+00:52:07,079 --> 00:52:15,400
+We would like to thank the lovely uh people at Octocon, uh including the program people who put us on the program and the uh
+
+1006
+00:52:16,040 --> 00:52:25,800
+Comcom generally for making us guests and JC and Sakura for being the helpers on the Zoom.
+
+1007
+00:52:25,660 --> 00:52:26,860
+Um thank you very much.
+
+1008
+00:52:26,860 --> 00:52:29,260
+Thanks everyone for coming as well.
+
+1009
+00:52:29,260 --> 00:52:29,980
+Live.
+
+1010
+00:52:30,300 --> 00:52:36,380
+Thank you to our Discord commenters for giving us the most comments on any item so far.
+
+1011
+00:52:36,380 --> 00:52:37,820
+Not a challenge.
+
+1012
+00:52:37,559 --> 00:52:41,400
+to the other items the rest of the day, but definitely a challenge.
+
+1013
+00:52:42,520 --> 00:52:48,520
+And we will be I will be around for the rest of the day ish until mid-afternoon at Octocon
+
+1014
+00:52:48,200 --> 00:52:49,640
+Well I think you guys will be too.
+
+1015
+00:52:49,640 --> 00:52:50,760
+Yeah, we will.
+
+1016
+00:52:50,760 --> 00:52:51,800
+Yes.
+
+1017
+00:52:51,800 --> 00:52:53,800
+But first, pancakes.
+
+1018
+00:52:53,800 --> 00:52:54,680
+Oh yeah.
+
+1019
+00:52:54,680 --> 00:52:57,000
+And that was the Octothorpe Podcast.
+
+1020
+00:52:57,000 --> 00:52:58,359
+And it's a goodbye for me.
+
+1021
+00:52:58,359 --> 00:52:59,720
+It's goodbye from me.
+
+1022
+00:52:59,720 --> 00:53:01,320
+And it's goodbye from me.
+
+1023
+00:53:01,320 --> 00:53:03,160
+Wahey.
+
+1024
+00:53:23,680 --> 00:53:27,680
+How many workouts do you do a week if you work out every other day, John?
+
+1025
+00:53:27,359 --> 00:53:32,480
+The theme music for this episode was Surf Shimmy by Kevin McLeod at Incompetech dot
+
+1026
+00:53:32,480 --> 00:53:35,359
+com used under a Creative Commons Attribution 4 point
+
+1027
+00:53:35,359 --> 00:53:36,480
+0 license.
+
+1028
+00:53:36,480 --> 00:53:38,880
+This podcast will end at the beep.
+
+1029
+00:53:38,880 --> 00:53:40,000
+Beep.
+
